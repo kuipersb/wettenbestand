@@ -1,0 +1,971 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0021041" dtdversie="2.0" id="368979" soort="AMvB">
+  
+  <intitule>Besluit
+van 28 december 2006, houdende regels inzake elektromagnetische
+compatibiliteit van uitrusting 
+				(Besluit
+elektromagnetische compatibiliteit 2007)</intitule>
+  
+  <wet-besluit>
+    <aanhef>
+      <wij>Wij Beatrix, bij de
+gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz.
+enz. enz.</wij>
+      <considerans>
+        <considerans.al>Op de voordracht van de
+Minister van Economische Zaken van 5&#xA0;september 2006, nr. WJZ
+6062957;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op
+<extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2004/108/EG</extref> van het
+Europees Parlement en de Raad van de Europese Unie van
+15&#xA0;december 2004 (PbEG L 390) betreffende de onderlinge
+aanpassing van de wetgevingen van de lidstaten inzake
+elektromagnetische compatibiliteit en tot intrekking van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn
+89/336/EEG</extref>, alsmede op het
+Besluit van het Gemengd Comit&#xE9;
+van de EER nr. 3/2006, van 27&#xA0;januari 2006 (PbEG L 92) tot
+wijziging van bijlage II (Technische voorschriften, normen, keuring en
+certificatie) bij de EER-Overeenkomst, artikel 3, tweede lid en de
+sectorbijlage betreffende elektromagnetische compatibiliteit van de
+Overeenkomst inzake wederzijdse erkenning tussen de Europese
+Gemeenschap en de Verenigde Staten van Amerika (PbEG 1999, L
+31), artikel II, derde lid en
+de sectorbijlage betreffende elektromagnetische compatibiliteit van de
+Overeenkomst inzake wederzijdse erkenning tussen de Europese
+Gemeenschap en Canada (PbEG 1998, L 280),
+artikel 2, tweede lid, en de
+sectorbijlage betreffende elektromagnetische compatibiliteit van de
+Overeenkomst inzake wederzijdse erkenning van
+overeenstemmingsbeoordeling, certificaten en markeringen tussen de
+Europese Gemeenschap en Australi&#xEB; (PbEG 1998, L 229),
+artikel 2, tweede lid en de
+sectorbijlage betreffende elektromagnetische compatibiliteit van de
+Overeenkomst inzake wederzijdse erkenning van
+overeenstemmingsbeoordeling tussen de Europese Gemeenschap en
+Nieuw-Zeeland (PbEG 1998, L 229),
+artikel 1 en bijlage 1, Hoofdstuk 9,
+betreffende elektromagnetische compatibiliteit van de Overeenkomst
+inzake wederzijdse erkenning van overeenstemmingsbeoordeling
+tussen de Europese Gemeenschap en Zwitserland (PbEG 2002, L
+114), en op de <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1" compleet="nee">artikelen 10.1,
+tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.2" compleet="nee">10.2, eerste lid</extref>, <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.3" compleet="nee">10.3</extref>, <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.4" compleet="nee">10.4</extref>, <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.6" compleet="nee">10.6</extref> en <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.7" compleet="nee">artikel 10.7 van de
+Telecommunicatiewet</extref>;</considerans.al>
+        <considerans.al bevat="gehoord">De Raad van State gehoord (advies van
+16&#xA0;oktober 2006, nr.&#xA0;W10.060377/II);</considerans.al>
+        <considerans.al bevat="gezien">Gezien het nader rapport van de Minister
+van Economische Zaken van 20&#xA0;december 2006, nr. WJZ
+6108521;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Hebben
+goedgevonden en verstaan:</al>
+      </afkondiging>
+    </aanhef>
+    <wettekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Begripsomschrijvingen
+en toepassingsbereik</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>In dit
+besluit en de daarop berustende bepalingen wordt verstaan
+onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>wet: <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Telecommunicatiewet</extref>;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>
+                <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2004/108/EG</extref>: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr.
+2004/108/EG</extref> van het Europees Parlement en de Raad van de Europese Unie
+van 15&#xA0;december 2004 betreffende de onderlinge aanpassing van de
+wetgevingen van de lidstaten inzake elektromagnetische compatibiliteit
+en tot intrekking van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn 89/336/EEG</extref> (PbEG L 390);</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>
+                <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 1999/5/EG</extref>: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 1999/5/EG</extref>
+van het Europees Parlement en de Raad van de Europese Unie van
+9&#xA0;maart 1999 betreffende radioapparatuur en
+telecommunicatie-eindapparatuur en de wederzijdse erkenning van hun
+conformiteit (PbEG L 91);</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>elektromagnetische storing: elk elektromagnetisch
+verschijnsel dat een verslechtering van de prestaties van uitrusting
+kan veroorzaken, waaronder een elektromagnetische ruis, een ongewenst
+signaal of een wijziging in het voortplantingsmilieu;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>ongevoeligheid: het vermogen van uitrusting om in
+aanwezigheid van een elektromagnetische storing te kunnen functioneren
+zoals beoogd zonder verslechtering van prestaties;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>elektromagnetische omgeving: het geheel van
+waarneembare elektromagnetische verschijnselen op een bepaalde
+locatie;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>elektromagnetische
+compatibiliteit: het vermogen van uitrusting om op bevredigende wijze
+in haar elektromagnetische omgeving te functioneren zonder zelf
+elektromagnetische storing te veroorzaken die ontoelaatbaar is voor
+andere uitrusting in die omgeving;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>lidstaat: staat die lid is van de Europese
+Unie;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>derde land: land dat partij is
+bij een bij ministeri&#xEB;le regeling genoemde
+overeenkomst;</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>geharmoniseerde norm:
+technische specificatie die door een erkende Europese
+normalisatie-instelling, in opdracht van de Commissie van de Europese
+Gemeenschappen en in overeenstemming met de procedures van de
+notificatierichtlijn, is goedgekeurd;</al>
+            </li>
+            <li>
+              <li.nr>k.</li.nr>
+
+              <al>EG-verklaring van overeenstemming: document waarin
+degene die een apparaat in de handel brengt verklaart dat het apparaat
+voldoet aan de voorschriften van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2004/108/EG</extref> en dat is
+opgesteld volgens bijlage IV, punt 2, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr.
+2004/108/EG</extref>;</al>
+            </li>
+            <li>
+              <li.nr>l.</li.nr>
+              <al>CE-markering: markering
+als bedoeld in bijlage V, eerste en tweede alinea, van richtlijn
+nr.&#xA0;2004/108/EG;</al>
+            </li>
+            <li>
+              <li.nr>m.</li.nr>
+              <al>aangemelde
+instantie: instantie die voor het uitvoeren van
+conformiteitsbeoordelingsprocedures als bedoeld in bijlage III van
+richtlijn nr.&#xA0;2004/108/EG is
+aangewezen</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;.</li.nr>
+                  <al>door een lidstaat die de instantie op
+grond van artikel 12 van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2004/108/EG</extref> heeft
+aangemeld,</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;.</li.nr>
+
+                  <al>door een staat,
+niet zijnde een lidstaat, die partij is bij de Overeenkomst betreffende
+de Europese Economische Ruimte die de instantie op grond van artikel 12
+van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2004/108/EG</extref> heeft aangemeld, of</al>
+                </li>
+                <li>
+                  <li.nr>3&#xB0;.</li.nr>
+                  <al>in het kader van een bij
+ministeri&#xEB;le regeling genoemde overeenkomst, door de aanwijzende
+autoriteit in een derde
+land;</al>
+                </li>
+              </lijst>
+            </li>
+          <li>
+                           <li.nr>n.</li.nr>
+                           <al>
+                              overeenstemmingsbeoordelingsorgaan: instantie die voor het beoordelen van overeenstemming van uitrusting op het gebied van elektromagnetische compatibiliteit met de normen van een derde land en volgens de regels en procedures van het derde land is aangewezen.</al>
+                        </li></lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <al>Het bij of
+krachtens dit besluit bepaalde is niet van toepassing op uitrusting als
+bedoeld in artikel 1, tweede en derde lid, van richtlijn
+nr.&#xA0;2004/108/EG.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <al>De
+verplichtingen die bij of krachtens dit besluit worden opgelegd aan
+degene die een apparaat in de handel brengt, zijn eveneens van
+toepassing op de in Nederland gevestigde vertegenwoordigers van deze
+persoon.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Uitrusting</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Uitrusting voldoet aan de eisen, bedoeld in
+bijlage I onder 1, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2004/108/EG</extref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+
+            <al>Onverminderd het eerste lid, voldoet een vaste
+installatie aan de eisen, bedoeld in bijlage I onder 2, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn
+nr. 2004/108/EG</extref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Voor zover voor
+uitrusting een eis als bedoeld in het eerste of tweede lid op meer
+specifieke wijze is vastgesteld, is de eis, bedoeld in het eerste of
+tweede lid, niet van toepassing op die
+uitrusting.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het is verboden uitrusting die niet voldoet
+aan de eisen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=4">artikel 4</intref>, tentoon te stellen of te
+demonstreren,
+tenzij</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het tentoonstellen of demonstreren plaatsvindt
+tijdens handelsbeurzen, tentoonstellingen of soortgelijke evenementen,
+en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>deze uitrusting is voorzien van
+een zichtbaar teken dat aangeeft dat de uitrusting niet in de handel
+mag worden gebracht of mag worden verhandeld zolang deze uitrusting
+niet voldoet aan de eisen in dit besluit.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Uitrusting als bedoeld in het eerste lid mag
+slechts worden gedemonstreerd indien passende maatregelen zijn genomen
+om elektromagnetische storing te
+voorkomen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+
+            <al>Uitrusting wordt vermoed te voldoen aan
+&#xE9;&#xE9;n of meer van de in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=4">artikel 4, eerste en tweede lid</intref>,
+bedoelde eisen, indien is voldaan aan de met betrekking tot <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn
+nr. 2004/108/EG</extref> vastgestelde geharmoniseerde normen of delen daarvan,
+die betrekking hebben op de desbetreffende eisen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Van een vermoeden van overeenstemming als bedoeld
+in het eerste lid is slechts sprake indien de referentienummers van de
+bij de conformiteitsbeoordelingsprocedure gehanteerde geharmoniseerde
+normen zijn gepubliceerd in het Publicatieblad van de Europese Unie en
+deze normen van kracht zijn.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Apparaten</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">3.1</nr>
+            <titel status="officieel">Conformiteitsbeoordeling</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">7</nr>
+            </kop>
+            <al>Degene die
+een apparaat in de handel brengt, voldoet aan de in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=8">artikel 8</intref> of
+<intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=9">artikel 9</intref> bedoelde verplichtingen inzake de
+conformiteitsbeoordeling.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">8</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Een apparaat wordt aan een op relevante
+verschijnselen gebaseerde elektromagnetische
+compatibiliteitsbeoordeling onderworpen. Bij deze beoordeling wordt
+rekening gehouden met alle normaal beoogde
+gebruikscondities.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De juiste
+toepassing van alle relevante geharmoniseerde normen waarvan de
+referenties in het Publicatieblad van de Europese Unie zijn
+bekendgemaakt, wordt beschouwd als gelijkwaardig aan het uitvoeren van
+een elektromagnetische compatibiliteitsbeoordeling.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Indien een apparaat verschillende configuraties
+kan aannemen, dan bevestigt de elektromagnetische
+compatibiliteitsbeoordeling dat het apparaat in alle mogelijke
+configuraties die door de fabrikant worden aangegeven als
+representatief voor het beoogde gebruik, voldoet aan de eisen, bedoeld
+in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=4">artikel 4, eerste lid</intref>.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+
+              <al>Er wordt
+technische documentatie opgesteld die aantoont dat het apparaat voldoet
+aan de eisen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=4">artikel 4, eerste lid</intref>. De technische
+documentatie wordt opgesteld volgens bijlage IV, punt 1, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn
+nr. 2004/108/EG</extref>.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>Degene die een
+apparaat in de handel brengt, houdt de technische documentatie ter
+beschikking van Onze Minister gedurende ten minste tien jaar na de
+datum waarop het apparaat voor het laatst is
+vervaardigd.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">6</lidnr>
+
+              <al>Er wordt een
+EG-verklaring van overeenstemming opgesteld, aan de hand waarvan de
+overeenstemming van een apparaat met de eisen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=4">artikel 4,
+eerste lid</intref>, wordt aangetoond. De EG-verklaring van overeenstemming
+wordt opgesteld volgens de bepalingen van bijlage IV, punt 2, van
+<extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2004/108/EG</extref>.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">7</lidnr>
+              <al>Degene
+die een apparaat in de handel brengt, houdt de EG-verklaring van
+overeenstemming ter beschikking van Onze Minister gedurende ten minste
+tien jaar na de datum waarop het apparaat voor het laatst is
+vervaardigd.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">9</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>In aanvulling op de procedure, bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=8">artikel 8</intref>, kan degene die een apparaat in de handel brengt, een
+aangemelde instantie inschakelen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Indien in aanvulling op <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=8">artikel 8</intref> een aangemelde
+instantie wordt ingeschakeld, wordt de technische documentatie
+voorgelegd aan de aangemelde instantie, met het verzoek om een
+beoordeling, waarbij tevens wordt aangegeven welke aspecten van de
+eisen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=4">artikel 4, eerste en tweede lid</intref>, beoordeeld moeten
+worden.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De aangemelde instantie
+onderzoekt de technische documentatie en beoordeelt of die documentatie
+naar behoren aantoont dat aan de door haar te beoordelen eisen, bedoeld
+in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=4">artikel 4, eerste en tweede lid</intref>, is voldaan. Indien wordt bevestigd
+dat het apparaat daarmee in overeenstemming is, geeft de aangemelde
+instantie een verklaring af die de overeenstemming van het apparaat
+bevestigt. De verklaring blijft beperkt tot de door haar beoordeelde
+aspecten van de eisen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=4">artikel 4, eerste en tweede
+lid</intref>.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>De verklaring van de
+aangemelde instantie wordt gevoegd bij de technische documentatie,
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=8">artikel 8, derde lid</intref>.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">10</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Een apparaat waarvan de overeenstemming met
+dit besluit is vastgesteld volgens de procedure van <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=8">artikel 8</intref> of <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=9">9</intref>, is
+voorzien van de CE-markering die deze overeenstemming
+bevestigt.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Degene die een apparaat
+in de handel brengt, brengt de CE-markering aan op het apparaat of op
+het gegevensplaatje. Wanneer echter de aard van het apparaat dat niet
+toelaat of niet rechtvaardigt, wordt de CE-markering aangebracht op de
+verpakking, voor zover deze bestaat, en op de begeleidende
+documenten.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Indien het apparaat
+met betrekking tot andere aspecten onder andere richtlijnen valt die
+voorzien in het aanbrengen van de CE-markering, geeft deze markering
+aan dat het apparaat ook aan deze andere richtlijnen
+voldoet.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Indien in een richtlijn
+als bedoeld in het derde lid gedurende een overgangsperiode de keuze
+van de toe te passen regeling aan de fabrikant wordt gelaten, geeft de
+CE-markering alleen aan dat aan de door de fabrikant toegepaste
+richtlijn wordt voldaan. In dat geval worden de in het
+Publicatieblad van de Europese Unie bekendgemaakte referenties van de
+toegepaste richtlijnen vermeld in de door de richtlijn vereiste
+documenten, handleidingen of gebruiksaanwijzingen die bij het apparaat
+zijn gevoegd.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">11</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Het is verboden tekens aan te brengen op het
+apparaat, de verpakking, of de gebruiksaanwijzing, die met de
+CE-markering kunnen worden verward.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Andere dan de in het eerste lid bedoelde tekens
+mogen worden aanbracht op het apparaat, de verpakking, of de
+gebruiksaanwijzing, op voorwaarde dat dit niet ten koste gaat van de
+zichtbaarheid of de leesbaarheid van de
+CE-markering.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">3.2</nr>
+            <titel status="officieel">Informatie</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">12</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Elk apparaat wordt ge&#xEF;dentificeerd met
+behulp van een type-, partij-, serienummer of andere informatie aan de
+hand waarvan het apparaat kan worden
+ge&#xEF;dentificeerd.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Bij elk
+apparaat worden de naam en het adres van de fabrikant gevoegd en indien
+deze niet in de Europese Unie is gevestigd de naam en het adres van
+diens gevolmachtigde of van de persoon in de Europese Unie die
+verantwoordelijk is voor het in de handel brengen van het
+apparaat.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Degene die een apparaat
+in de handel brengt, verstrekt informatie over specifieke
+voorzorgsmaatregelen die tijdens de assemblage, de installatie, het
+onderhoud of het gebruik van het apparaat moeten worden getroffen om
+ervoor te zorgen dat het apparaat bij ingebruikname voldoet aan de
+eisen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=4">artikel 4, eerste lid</intref>.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Een apparaat waarvan de overeenstemming met de
+eisen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=4">artikel 4, eerste lid</intref>, in woongebieden niet
+gegarandeerd kan worden, gaat vergezeld van een duidelijke aanduiding
+van deze gebruiksbeperkingen, waar nodig ook op de
+verpakking.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>De informatie die
+nodig is om het apparaat overeenkomstig haar bestemming te kunnen
+gebruiken, wordt vermeld in de instructies die het apparaat
+vergezellen.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">3.3</nr>
+            <titel status="officieel">Apparaten
+bestemd voor integratie in vaste
+installaties</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">13</nr>
+            </kop>
+            <al>De
+<intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=4">artikelen 4</intref>, <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=7">7</intref>, <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=8">8</intref>, <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=9">9</intref>, <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=10">10</intref>, <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=11">11</intref> en <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=12">12</intref> zijn niet van toepassing op een
+apparaat dat bestemd is om in een bepaalde vaste installatie te worden
+ge&#xEF;ntegreerd en anderszins niet in de handel verkrijgbaar
+is.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">14</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>In gevallen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=13">artikel 13</intref> wordt
+de vaste installatie in de begeleidende documentatie beschreven, met
+vermelding van de eigenschappen ervan in verband met de
+elektromagnetische compatibiliteit en van de voorzorgsmaatregelen die
+moeten worden genomen om het apparaat in de vaste installatie in te
+bouwen, teneinde de overeenstemming van de desbetreffende installatie
+niet aan te tasten.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Voorts wordt
+in de documentatie de informatie opgenomen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=12">artikel 12,
+eerste en tweede lid</intref>.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Vaste
+installaties</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">15</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De goede technologische praktijken volgens
+welke een vaste installatie ge&#xEF;nstalleerd wordt, worden
+gedocumenteerd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De voor de
+conformiteit van de vaste installatie verantwoordelijke persoon houdt
+de desbetreffende documentatie, zolang de vaste installatie in bedrijf
+is, voor toezicht op de naleving ter beschikking van Onze
+Minister.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">16</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Indien er aanwijzingen zijn dat de vaste
+installatie niet voldoet aan de eisen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=4">artikel 4</intref>, in het
+bijzonder indien sprake is van klachten over storing die door de vaste
+installatie zou worden veroorzaakt, kan Onze Minister eisen dat de
+persoon die verantwoordelijk is voor de conformiteit van de vaste
+installatie met de eisen bedoeld in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=4">artikel 4</intref>, bewijs van
+overeenstemming van de vaste installatie levert.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien het in het eerste lid bedoelde bewijs niet
+afdoende is, kan Onze Minister een beoordeling
+inleiden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Indien Onze Minister
+vaststelt dat de vaste installatie niet voldoet aan de eisen, bedoeld
+in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=4">artikel 4</intref>, kan hij passende maatregelen opleggen om de vaste
+installatie in overeenstemming te brengen met die
+eisen.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Aanwijzing van aangemelde instanties en overeenstemmingsbeoordelingsorganen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">17</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Onze Minister kan een instantie aanwijzen
+voor het uitvoeren van de in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=9">artikel 9</intref> bedoelde taken, indien uit de
+aanvraag tot aanwijzing volgt dat de instantie blijkens accreditatie
+aantoonbaar voldoet aan de norm NEN-EN 45011.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Onze Minister kan de aanwijzing beperken tot
+daarbij te omschrijven categorie&#xEB;n van apparaten of aspecten van
+de eisen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=4">artikel 4, eerste en tweede
+lid</intref>.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">18</nr>
+          </kop>
+          <al>Bij
+ministeri&#xEB;le regeling kunnen regels worden gesteld over de wijze
+waarop een aanvraag tot aanwijzing als bedoeld in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=17">artikel 17</intref> wordt
+ingediend.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">19</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Onze Minister kan de aanwijzing intrekken,
+indien:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de aangemelde instantie dit verzoekt,
+of</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de aangemelde instantie niet
+langer voldoet aan de norm, bedoeld in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=17">artikel 17, eerste
+lid</intref>.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien een
+aangemelde instantie een verklaring als bedoeld in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=9">artikel 9, derde
+lid</intref>, afgeeft en vervolgens vast komt te staan dat het betreffende
+apparaat niet voldoet aan de door de instantie beoordeelde eisen, kan
+Onze Minister passende maatregelen
+nemen.</al>
+          </lid>
+        </artikel>
+      <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">19a</nr>
+                     </kop>
+                     <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Onze Minister kan een instantie aanwijzen als overeenstemmingsbeoordelingsorgaan.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Bij de aanwijzing kan Onze Minister nadere voorwaarden stellen, waaronder in ieder geval het toepassingsbereik van de aanwijzing en de wijze waarop een overeenstemmingsbeoordeling uitgevoerd wordt.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Onze Minister kan een aanwijzing intrekken indien het overeenstemmingsbeoordelingsorgaan niet voldoende technisch bekwaam is of niet voldoet aan de voorwaarden gesteld bij de aanwijzing.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Onze Minister kan een aanwijzing schorsen indien Onze Minister het vermoeden heeft dat het derde lid van toepassing is.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">5</lidnr>
+                        <al>Bij ministeri&#xEB;le regeling kunnen regels worden gesteld over de procedure van aanwijzing en de wijze waarop een aanvraag tot aanwijzing wordt ingediend.</al>
+                     </lid>
+                  </artikel></hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Speciale
+maatregelen voor conforme uitrusting</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">20</nr>
+          </kop>
+          <al>Bij
+ministeri&#xEB;le regeling kunnen regels worden gesteld over speciale
+maatregelen betreffende de ingebruikneming of het gebruik van
+uitrusting die voldoet aan de bij of krachtens dit hoofdstuk gestelde
+voorschriften. Deze regels
+betreffen:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>maatregelen om een bestaand of te verwachten
+probleem in verband met elektromagnetische compatibiliteit op een
+bepaalde locatie te verhelpen;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>maatregelen die om veiligheidsredenen genomen
+worden om openbare elektronische communicatienetwerken of apparaten die
+naar hun aard bestemd zijn voor het zenden of ontvangen van
+radiocommunicatiesignalen te beschermen, indien deze worden gebruikt
+voor veiligheidsdoeleinden in duidelijk gedefinieerde
+spectrumsituaties.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Verhandelen
+van uitrusting</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">21</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het verbod om uitrusting te verhandelen,
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1" compleet="nee">artikel 10.1, eerste lid van de wet</extref>, geldt niet indien wordt
+voldaan aan de verplichtingen in de <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=8">artikelen 8, vijfde en zevende lid</intref>,
+<intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=9">9, vierde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=10">10</intref>, <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=12">12</intref>, <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=14">14</intref> en <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=15">15</intref> van dit besluit, betreffende het
+beschikbaar hebben van documenten, het aanbrengen van markeringen en
+het verschaffen van informatie.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien wordt geconstateerd dat in de handel
+gebrachte uitrusting niet voldoet aan <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=4">artikel 4, eerste en tweede lid</intref>,
+ondanks de aanwezigheid van de in <intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=10">artikel 10, eerste lid</intref>, bedoelde
+markering en van de aanwezigheid van documenten, wordt hiervan
+schriftelijk mededeling gedaan aan de betrokkene.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Onze Minister maakt de constatering, bedoeld in
+het tweede lid, zo spoedig mogelijk bekend in de
+Staatscourant.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Met ingang van de
+dag na de datum van bekendmaking is het verboden om de betreffende
+uitrusting te verhandelen.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Behandeling
+van klachten</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">22</nr>
+          </kop>
+          <al>Bij
+ministeri&#xEB;le regeling kunnen regels worden gesteld inzake de
+behandeling van klachten over elektromagnetische storing, ondervonden
+van het gebruik van uitrusting.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">9</nr>
+          <titel status="officieel">Handelsreclame</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">23</nr>
+          </kop>
+          <al>Het is
+verboden handelsreclame te maken voor uitrusting die niet voldoet aan
+de eisen van dit besluit en waarvan het in de handel brengen of het
+verhandelen op grond van <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1" compleet="nee">artikel 10.1, eerste lid van de wet</extref> is
+verboden.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">10</nr>
+          <titel status="officieel">Overgangs- en
+slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">24</nr>
+          </kop>
+          <al>Na de
+inwerkingtreding van dit besluit berust de <extref status="actief" doc="1.0:v:BWBR0007511" compleet="nee">Regeling storingsklachten</extref> op
+<extref status="actief" doc="1.0:v:BWBR0021037&amp;artikel=20" compleet="nee">artikel 20 van het Besluit randapparaten en radioapparaten 2007</extref> en op
+<intref status="actief" doc="1.0:v:BWBR0021041&amp;artikel=22">artikel 22</intref> van dit besluit.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">25</nr>
+          </kop><lid><lidnr status="officieel">1</lidnr><al>Het <extref status="actief" doc="1.0:v:BWBR0012915" compleet="nee">Besluit elektromagnetische compatibiliteit 2001</extref> wordt
+ingetrokken.</al></lid>
+        <lid><lidnr status="officieel">2</lidnr><al>Het <extref status="actief" doc="1.0:v:BWBR0010141" compleet="nee">Besluit vaststelling EMC-normen
+1998</extref> wordt
+ingetrokken.</al></lid></artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">26</nr>
+          </kop>
+          <al>De
+artikelen van dit besluit treden in werking op een bij koninklijk
+besluit te bepalen tijdstip, dat voor de verschillende artikelen of
+onderdelen daarvan verschillend kan worden
+vastgesteld.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">27</nr>
+          </kop>
+          <al>Dit besluit
+wordt aangehaald als: Besluit elektromagnetische compatibiliteit
+2007.</al>
+        </artikel>
+      </hoofdstuk>
+    </wettekst>
+    <wetsluiting status="goed">
+      <slotformulering>
+        <al>Lasten en bevelen dat dit besluit met de daarbij behorende nota van
+toelichting in het Staatsblad zal worden geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>
+					&#x2019;s-Gravenhage</plaats>
+          <datum isodatum="28 december 2006">28
+december
+2006</datum>
+        </dagtekening>
+        <koning>Beatrix</koning>
+      </gegeven>
+      <ondertekening>
+        <functie>De
+
+          Minister
+           van 
+          Economische
+Zaken
+          ,
+        </functie>
+        <naam>
+          <voornaam>J.
+G.</voornaam>
+          <achternaam>Wijn</achternaam>
+        </naam>
+      </ondertekening>
+      <uitgifte>
+        <datum isodatum="2007-01-18">de <nadruk type="cur">achttiende</nadruk>
+januari 2007</datum>
+        <ondertekening>
+          <functie>De 
+            Minister
+             van
+
+            Justitie
+            ,
+          </functie>
+          <naam>
+            <voornaam>E.
+M. H.</voornaam>
+            <achternaam>Hirsch
+Ballin</achternaam>
+          </naam>
+        </ondertekening>
+      </uitgifte>
+    </wetsluiting>
+  </wet-besluit>
+</wetgeving>
+  	

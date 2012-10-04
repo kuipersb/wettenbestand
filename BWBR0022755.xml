@@ -1,0 +1,1219 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0022755" dtdversie="2.0" id="386029" soort="beleidsregel">
+  
+  
+  <intitule>Loonheffingen, pensioenen; beschikbare-premieregelingen</intitule>
+  
+  <circulaire>
+    <circulaire.aanhef>
+      <context>
+        <context.al>Dit besluit bevat een samenvoeging en actualisering van drie eerdere besluiten over beschikbare-premieregelingen. Het betreft de volgende besluiten:</context.al>
+        <context.al>&#x2013; het <extref status="actief" doc="1.0:v:BWBR0015019" compleet="nee">besluit van 28&#xA0;april 2003, nr.&#xA0;CPP2003/308M</extref>, over beschikbare-premiestaffels;</context.al>
+        <context.al>&#x2013; het <extref status="actief" doc="1.0:v:BWBR0016214" compleet="nee">besluit van 19 december 2003, nr. CPP2003/1648M</extref>, over de aanwijzing van kapitaalverzekeringen met pensioenclausule als beschikbare-premieregeling;</context.al>
+        <context.al>&#x2013; het <extref status="actief" doc="1.0:v:BWBR0016454" compleet="nee">besluit van 1&#xA0;maart 2004, nr.&#xA0;CPP2003/2813M</extref>, over de aanwijzing van pensioenregelingen waarbij de uitkeringen in beleggingseenheden worden gedaan.</context.al>
+      </context>
+      <wie>De Staatssecretaris van Financi&#xEB;n heeft het volgende besloten.</wie>
+    </circulaire.aanhef>
+    <circulaire-tekst>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Inleiding</titel>
+        </kop>
+        <tekst status="goed">
+          <al>In dit besluit heb ik in <intref status="actief" doc="1.0:v:BWBR0022755&amp;circulaire.divisie=2">onderdeel 2</intref> de beschikbare-premiestaffels van het <extref status="actief" doc="1.0:v:BWBR0015019" compleet="nee">besluit van 28&#xA0;april 2003, nr.&#xA0;CPP2003/308M</extref>, aangepast met het oog op de invoering van de <extref status="actief" doc="1.0:v:BWBR0018053" compleet="nee">Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling</extref>. Voorts heb ik de aanwijzing van kapitaalverzekeringen met pensioenclausule als pensioenregeling aangepast in verband met de <extref status="actief" doc="1.0:v:BWBR0020809" compleet="nee">Pensioenwet</extref> (<intref status="actief" doc="1.0:v:BWBR0022755&amp;circulaire.divisie=3">onderdeel 3</intref>). In <intref status="actief" doc="1.0:v:BWBR0022755&amp;circulaire.divisie=4">onderdeel 4</intref> trek ik de aanwijzing van pensioenregelingen met uitkeringen in beleggingseenheden in, ook weer in verband met de <extref status="actief" doc="1.0:v:BWBR0020809" compleet="nee">Pensioenwet</extref>. Bestaande regelingen gaan onder een overgangsregeling vallen.</al>
+          <al>De aanwijzingen als pensioenregeling in dit besluit vinden plaats in overeenstemming met de minister van Sociale Zaken en Werkgelegenheid (zie <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=19d" compleet="nee">artikel 19d van de Wet op de loonbelasting 1964</extref>).</al>
+        </tekst>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">1.1 </nr>
+            <titel status="officieel">Gebruikte begrippen en afkortingen</titel>
+          </kop>
+          <tekst status="goed">
+            <table frame="none" tabstyle="stcrt2">
+              <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="stcrt2">
+                <colspec colname="col1" colnum="1" colwidth="30*"/>
+                <colspec colname="col2" colnum="2" colwidth="73*"/>
+                <tbody valign="top">
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>IAPW</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al><extref status="actief" doc="1.0:v:BWBR0020828" compleet="nee">Invoerings- en aanpassingswet Pensioenwet</extref></al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Intredeleeftijd</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>leeftijd waarop de pensioenopbouw bij de werkgever begint</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>OP</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>ouderdomspensioen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=18" compleet="nee">artikel 18 e.v. van de Wet LB</extref></al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Partijen</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>bij een pensioenregeling betrokken werkgever(s), werknemer(s) en pensioenverzekeraar(s)</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Pensioendatum</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>in de pensioenregeling opgenomen ingangsdatum van het ouderdomspensioen</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Pensioengrondslag</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>pensioengevend loon minus AOW-franchise</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>PP</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>partnerpensioen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=18" compleet="nee">artikel 18 e.v. van de Wet LB</extref></al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>PW</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al><extref status="actief" doc="1.0:v:BWBR0020809" compleet="nee">Pensioenwet</extref></al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>UBLB</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al><extref status="actief" doc="1.0:v:BWBR0002489" compleet="nee">Uitvoeringsbesluit loonbelasting 1965</extref></al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Werkgever</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>inhoudingsplichtige in de zin van de <extref status="actief" doc="1.0:v:BWBR0002471" compleet="nee">Wet LB</extref></al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Wet LB</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al><extref status="actief" doc="1.0:v:BWBR0002471" compleet="nee">Wet op de loonbelasting 1964</extref></al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Wet VPL</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al><extref status="actief" doc="1.0:v:BWBR0018053" compleet="nee">Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling</extref></al>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </tekst>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Beschikbare-premiestaffels</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">2.1</nr>
+            <titel status="officieel">Inleiding</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Bij werkgevers en werknemers bestaat behoefte aan praktische kaders voor de toepassing van <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=18a" compleet="nee">artikel 18a, derde lid, van de Wet LB</extref>. Dit besluit geeft die kaders in de vorm van staffels die partijen kunnen hanteren bij de uitvoering van de pensioenovereenkomst. <intref status="actief" doc="1.0:v:BWBR0022755&amp;circulaire.divisie=2.2">Onderdeel 2.2</intref> geeft de grondslagen voor de vaststelling van de staffels. <intref status="actief" doc="1.0:v:BWBR0022755&amp;circulaire.divisie=2.3">Onderdeel 2.3</intref> bevat de aanwijzing van regelingen die de staffels hanteren. In <intref status="actief" doc="1.0:v:BWBR0022755&amp;bijlage=I">bijlage I</intref> zijn de staffels zelf opgenomen tezamen met de voorwaarden en aandachtspunten die bij de toepassing van de staffels van belang zijn. Nieuw hierin zijn staffels die de kaders aangeven bij toepassing van <extref status="actief" doc="1.0:v:BWBR0002489&amp;artikel=10aa" compleet="nee">artikel 10aa, derde lid, van het UBLB</extref> (lager opbouwpercentage en lagere AOW-franchise). <intref status="actief" doc="1.0:v:BWBR0022755&amp;circulaire.divisie=2.4">Onderdeel 2.4</intref> ten slotte bevat het overgangsrecht dat voortvloeit uit de invoering van de <extref status="actief" doc="1.0:v:BWBR0018053" compleet="nee">Wet VPL</extref>.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">2.2</nr>
+            <titel status="officieel">Grondslagen en uitgangspunten</titel>
+          </kop>
+          <tekst status="goed">
+            <al><extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=18a" compleet="nee">Artikel 18a, derde lid, van de Wet LB</extref> bepaalt dat een op een beschikbare-premiestelsel gebaseerd ouderdomspensioen tijdsevenredig moet worden opgebouwd. Het stelsel moet zijn gericht op een pensioen dat na 35 jaren opbouw niet meer bedraagt dan 70 percent van het loon op dat tijdstip. Het artikel bevat verder voorschriften voor de vaststelling van de premie (vaststelling per leeftijdsklasse, de in beginsel te veronderstellen loopbaanontwikkeling en de te hanteren rekenrente en inflatie). Voor het partnerpensioen op basis van een beschikbare-premiestelsel bepaalt <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=18b" compleet="nee">artikel 18b, derde lid, van de Wet LB</extref>, dat de uitgangspunten van <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=18a" compleet="nee">artikel 18a, derde lid, van de Wet LB</extref> van overeenkomstige toepassing zijn.</al>
+            <al>De bepalende factoren voor een staffel zijn:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>de intredeleeftijd van de werknemer;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>de AOW-franchise;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>de toegezegde pensioensoorten;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>de verwachte loopbaanontwikkeling.</al>
+              </li>
+            </lijst>
+            <al>Als bij het opstellen van staffels met al deze individuele factoren rekening zou moeten worden gehouden, zouden tientallen staffels ontstaan. Dat is voor de praktijk niet werkbaar. Daarom geef ik in <intref status="actief" doc="1.0:v:BWBR0022755&amp;bijlage=I">bijlage I</intref> van dit besluit een beperkt aantal algemeen toepasbare staffels. Deze staffels zijn gericht op een opbouw volgens het middelloonstelsel. Het voordeel hiervan is dat de staffels niet vari&#xEB;ren met de intredeleeftijd. Voorts wordt in dat stelsel op een simpeler manier rekening gehouden met de veronderstelde loopbaanontwikkeling via het opbouwpercentage van 2,25%. De variatie in opbouw als gevolg van de AOW-franchise wordt in de staffels voorkomen door uit te gaan van een percentage van de pensioengrondslag in plaats van een percentage van het pensioengevend loon.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">2.3</nr>
+            <titel status="officieel">Aanwijzing</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Ik wijs regelingen die gebruik maken van de staffels in <intref status="actief" doc="1.0:v:BWBR0022755&amp;bijlage=I">bijlage I</intref> aan als pensioenregeling in de zin van de <extref status="actief" doc="1.0:v:BWBR0002471" compleet="nee">Wet LB</extref>. Het moet gaan om beschikbare-premieregelingen die in overeenstemming zijn met de in die bijlage genoemde voorwaarden en bijzonderheden. De regelingen moeten overigens voldoen aan de voorwaarden van <extref status="actief" doc="1.0:v:BWBR0002471&amp;hoofdstuk=IIB" compleet="nee">hoofdstuk IIB van de Wet LB</extref>.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">2.4</nr>
+            <titel status="officieel">Overgangsrecht</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Het <extref status="actief" doc="1.0:v:BWBR0015019" compleet="nee">besluit van 28 april 2003, nr. CPP2003/308M</extref>, blijft van toepassing op werknemers voor wie het overgangsrecht geldt van <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=38d" compleet="nee">artikel 38d, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=38e" compleet="nee">artikel 38e, tweede lid</extref>, of <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=38f" compleet="nee">artikel 38f, tweede lid, van de Wet LB</extref>.</al>
+          </tekst>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Kapitaalovereenkomsten</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">3.1</nr>
+            <titel status="officieel">Inleiding</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Dit onderdeel betreft de fiscale behandeling van pensioenovereenkomsten die <extref status="actief" doc="1.0:v:BWBR0020809&amp;artikel=10" compleet="nee">artikel 10 van de PW</extref> aanduidt als kapitaalovereenkomsten. Voorheen was de gebruikelijke aanduiding: kapitaalverzekeringen met pensioenclausule. <intref status="actief" doc="1.0:v:BWBR0022755&amp;circulaire.divisie=3.3">Onderdeel 3.3</intref> bevat de aanwijzing van deze kapitaalovereenkomsten als pensioenregeling. In <intref status="actief" doc="1.0:v:BWBR0022755&amp;bijlage=II">bijlage II</intref> volgen de voorwaarden voor een dergelijke aanwijzing.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">3.2</nr>
+            <titel status="officieel">Indeling kapitaalovereenkomsten</titel>
+          </kop>
+          <tekst status="goed">
+            <al>In de praktijk kan onduidelijkheid bestaan over de fiscale behandeling van kapitaalovereenkomsten. <extref status="actief" doc="1.0:v:BWBR0002471&amp;hoofdstuk=IIB" compleet="nee">Hoofdstuk IIB van de Wet LB</extref> kent geen pensioenregelingen met kapitaalovereenkomsten, maar alleen eindloonregelingen, middelloonregelingen en beschikbare-premieregelingen. Kapitaalovereenkomsten hebben gemeen met beschikbare-premieregelingen dat de te verkrijgen pensioenuitkeringen niet van tevoren vaststaan. Regelingen met kapitaalovereenkomsten voldoen evenwel niet aan de in <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=18a" compleet="nee">artikel 18a, derde lid, van de Wet LB</extref> genoemde voorwaarden voor beschikbare-premieregelingen. Daarom wijs ik deze regelingen aan als pensioenregeling.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">3.3</nr>
+            <titel status="officieel">Aanwijzing</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Ik wijs regelingen met een kapitaalovereenkomst aan als pensioenregeling in de zin van de <extref status="actief" doc="1.0:v:BWBR0002471" compleet="nee">Wet LB</extref>. Het moet gaan om pensioenregelingen die in overeenstemming zijn met de in <intref status="actief" doc="1.0:v:BWBR0022755&amp;bijlage=II">bijlage II</intref> opgenomen voorwaarden en bijzonderheden. De regelingen moeten overigens voldoen aan de voorwaarden van <extref status="actief" doc="1.0:v:BWBR0002471&amp;hoofdstuk=IIB" compleet="nee">hoofdstuk IIB van de Wet LB</extref>.</al>
+          </tekst>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Pensioenregelingen met uitkeringen in beleggingseenheden</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">4.1</nr>
+            <titel status="officieel">Inleiding</titel>
+          </kop>
+          <tekst status="goed">
+            <al>In het <extref status="actief" doc="1.0:v:BWBR0016454" compleet="nee">besluit van 1&#xA0;maart 2004, nr.&#xA0;CPP2003/2813M</extref>, heb ik aangegeven dat pensioenregelingen met uitkeringen in beleggingseenheden niet voldoen aan de bepalingen van <extref status="actief" doc="1.0:v:BWBR0002471&amp;hoofdstuk=IIB" compleet="nee">hoofdstuk IIB van de Wet LB</extref>. Bij de fiscale beoordeling van een pensioenregeling dienen de rechten uitgedrukt in euro&#x2019;s het uitgangspunt te zijn. De pensioenuitkeringen moeten ook na de pensioeningangsdatum aan de grenzen van <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=18a" compleet="nee">artikel 18a tot en met artikel 18h van de Wet LB</extref> worden getoetst. Daarbij zijn andere overschrijdingen dan die zijn genoemd in <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=18d" compleet="nee">artikel 18d van de Wet LB</extref> niet toegestaan.</al>
+            <al>In hetzelfde besluit heb ik de genoemde regelingen tijdelijk aangewezen als pensioenregeling in de zin van de <extref status="actief" doc="1.0:v:BWBR0002471" compleet="nee">Wet LB</extref>. Ik heb daarbij meegedeeld dat ik mijn beleid zou bezien bij de invoering van de <extref status="actief" doc="1.0:v:BWBR0020809" compleet="nee">Pensioenwet</extref>. <extref status="actief" doc="1.0:v:BWBR0020809&amp;artikel=11" compleet="nee">Artikel 11 van de PW</extref> bepaalt dat de uitkering in het kader van een pensioenovereenkomst wordt vastgesteld in een wettig Nederlands betaalmiddel. Er bestaat daarom aanleiding om het beleid te herzien.</al>
+            <al>Deze beleidsherziening geldt ook voor pensioenregelingen met uitkeringen in beleggingseenheden die niet onder de <extref status="actief" doc="1.0:v:BWBR0020809" compleet="nee">PW</extref> vallen. Reden hiervoor is de hierboven vermelde strijdigheid van deze regelingen met de wettelijke bepalingen in de loonbelasting. Daarnaast is een gelijke fiscale behandeling gewenst van alle pensioenregelingen met uitkeringen in beleggingseenheden.</al>
+            <al><intref status="actief" doc="1.0:v:BWBR0022755&amp;circulaire.divisie=4.2">Onderdeel 4.2</intref> bevat de intrekking van de aanwijzing van de genoemde regelingen. In <intref status="actief" doc="1.0:v:BWBR0022755&amp;circulaire.divisie=4.3">onderdeel 4.3</intref> heb ik overgangsrecht opgenomen voor een ordentelijke fiscale afwikkeling van de thans nog aangewezen regelingen.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">4.2</nr>
+            <titel status="officieel">Intrekking aanwijzing</titel>
+          </kop>
+          <tekst status="goed">
+            <al>In overeenstemming met de minister van Sociale Zaken en Werkgelegenheid trek ik de aanwijzing in van pensioenregelingen met uitkeringen in beleggingseenheden als pensioenregeling in de zin van de <extref status="actief" doc="1.0:v:BWBR0002471" compleet="nee">Wet LB</extref>. Ik verbind aan deze intrekking het volgende overgangsrecht.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">4.3</nr>
+            <titel status="officieel">Overgangsrecht</titel>
+          </kop>
+          <tekst status="goed">
+            <al><extref status="actief" doc="1.0:v:BWBR0020828&amp;artikel=12" compleet="nee">Artikel 12, eerste lid, van de IAPW</extref>, bepaalt dat <extref status="actief" doc="1.0:v:BWBR0020809&amp;artikel=11" compleet="nee">artikel 11 van de PW</extref> slechts geldt voor pensioenaanspraken die worden verworven na de inwerkingtreding van laatstgenoemd artikel. <extref status="actief" doc="1.0:v:BWBR0020809&amp;artikel=11" compleet="nee">Artikel 11 van de PW</extref> treedt in werking op 1&#xA0;januari 2008. Het <extref status="actief" doc="1.0:v:BWBR0016454" compleet="nee">besluit van 1&#xA0;maart 2004, nr.&#xA0;CPP2003/2813M</extref>, blijft daarom tot die datum van kracht. Uitkeringen die berusten op aanspraken die zijn verworven v&#xF3;&#xF3;r 2008 kunnen worden gedaan in beleggingseenheden. Voor zover van toepassing blijven voor deze aanspraken en uitkeringen de voorwaarden gelden van het genoemde besluit, ook na 1&#xA0;januari 2008. Alle uitkeringen die berusten op aanspraken die op of na 1&#xA0;januari 2008 worden verworven, moeten worden gedaan in euro&#x2019;s. De aanspraken zijn anders niet vrijgesteld op basis van <extref status="actief" doc="1.0:v:BWBR0002471&amp;hoofdstuk=IIB" compleet="nee">Hoofdstuk IIB van de Wet LB</extref>.</al>
+            <al>Partijen kunnen er voor kiezen om op of na 1 januari 2008 de v&#xF3;&#xF3;r die datum verworven aanspraken in beleggingseenheden geheel of gedeeltelijk om te zetten in aanspraken op uitkeringen in euro&#x2019;s. Deze keuze is onherroepelijk. Het omzetten van aanspraken op uitkeringen in euro&#x2019;s in aanspraken op uitkeringen in beleggingseenheden is naar mijn oordeel met ingang van 1 januari 2008 in strijd met <extref status="actief" doc="1.0:v:BWBR0020809&amp;artikel=11" compleet="nee">artikel 11 van de PW</extref>. Voorts zal een dergelijke omzetting leiden tot toepassing van <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=19b" compleet="nee">artikel 19b, eerste lid, onderdeel a, van de Wet LB</extref>. De gehele pensioenaanspraak wordt belast omdat het pensioen niet meer voldoet aan de voorwaarden van <extref status="actief" doc="1.0:v:BWBR0002471&amp;hoofdstuk=IIB" compleet="nee">hoofdstuk IIB van de Wet LB</extref>. Zie ook <intref status="actief" doc="1.0:v:BWBR0022755&amp;circulaire.divisie=4.1">onderdeel 4.1, eerste alinea</intref>.</al>
+          </tekst>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Ingetrokken regelingen</titel>
+        </kop>
+        <tekst status="goed">
+          <al>De hierna volgende besluiten zijn ingetrokken met ingang van de datum van inwerkingtreding van dit besluit. Deze intrekking geldt met inachtneming van het overgangsrecht van <intref status="actief" doc="1.0:v:BWBR0022755&amp;circulaire.divisie=2.4">onderdelen 2.4</intref> en <intref status="actief" doc="1.0:v:BWBR0022755&amp;circulaire.divisie=4.3">4.3</intref>.</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al><extref status="actief" doc="1.0:v:BWBR0015019" compleet="nee">besluit van 28 april 2003, nr.&#xA0;CPP2003/308M</extref>;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al><extref status="actief" doc="1.0:v:BWBR0016214" compleet="nee">besluit van 19 december 2003, nr.&#xA0;CPP2003/1648M</extref>.</al>
+            </li>
+          </lijst>
+          <al>Het volgende besluit wordt ingetrokken met ingang van 1&#xA0;januari 2008:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al><extref status="actief" doc="1.0:v:BWBR0016454" compleet="nee">besluit van 1 maart 2004, nr.&#xA0;CPP2003/2813M</extref>.</al>
+            </li>
+          </lijst>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">6</nr><titel status="officieel">Inwerkingtreding</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.</al>
+          <al>Dit besluit zal in de Staatscourant worden geplaatst.</al>
+        </tekst>
+      </circulaire.divisie>
+    </circulaire-tekst>
+    <circulaire-sluiting status="goed">
+      <gegeven>
+        <dagtekening>
+          <plaats>Den Haag</plaats>
+          <datum isodatum="2007-10-23">23 oktober 2007</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>De <functie>Staatssecretaris</functie> van <organisatie afkorting="FIN">Financi&#xEB;n</organisatie>,
+        <deze>namens deze:</deze> de <functie>directeur-generaal 
+        Belastingdienst</functie>,<naam>
+          <voornaam>J.</voornaam>
+          <achternaam>Thunnissen</achternaam>
+        </naam>
+      </ondertekening>
+    </circulaire-sluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">I</nr>
+      </kop>
+      <al>Aanwijzing als bedoeld in <intref status="actief" doc="1.0:v:BWBR0022755&amp;circulaire.divisie=2.3">onderdeel 2.3</intref></al>
+      <al>Staffels met uitgangspunten, toelichting, voorwaarden en bijzonderheden</al>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">1. Staffels</nadruk>
+          </titel>
+        </kop>
+        <table frame="topbot" tabstyle="stcrt2">
+          <title>Tabel 1</title>
+          <tgroup align="left" char="" charoff="50" cols="5" tgroupstyle="stcrt2">
+            <colspec align="left" colname="col1" colnum="1" colwidth="24*"/>
+            <colspec align="right" colname="col2" colnum="2" colwidth="10*"/>
+            <colspec align="right" colname="col3" colnum="3" colwidth="23*"/>
+            <colspec align="right" colname="col4" colnum="4" colwidth="23*"/>
+            <colspec align="right" colname="col5" colnum="5" colwidth="23*"/>
+            <thead valign="bottom">
+              <row>
+                <entry align="left" colname="col1" morerows="0" rotate="0" valign="middle">
+                  <al>Leeftijdsklassen tot 65 jaar</al>
+                </entry>
+                <entry align="left" morerows="0" nameend="col5" namest="col2" rotate="0" valign="top">
+                  <al>Percentage van de pensioengrondslag (opbouw gericht op 2,25% per dienstjaar bij middelloonstelsel)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colname="col1" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" colname="col2" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" colname="col3" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" colname="col4" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" colname="col5" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>OP</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>OP en uitgesteld opgebouwd PP</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>OP en direct ingaand opgebouwd PP</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>OP en direct ingaand bereikbaar PP</al>
+                </entry>
+              </row>
+            </thead>
+            <tbody valign="top">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>15 tot en met 19</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>5,2</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>6,3</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>7,2</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>7,6</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>20 tot en met 24</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>5,9</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>7,2</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>8,2</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>9,0</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>25 tot en met 29</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>7,2</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>8,8</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>9,9</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>10,8</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>30 tot en met 34</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>8,8</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>10,7</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>12,0</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>12,7</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>35 tot en met 39</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>10,8</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>13,0</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>14,4</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>15,2</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>40 tot en met 44</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>13,1</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>15,9</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>17,5</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>18,3</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>45 tot en met 49</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>16,1</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>19,5</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>21,1</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>22,1</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>50 tot en met 54</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>19,7</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>24,0</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>25,6</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>26,6</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>55 tot en met 59</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>24,4</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>29,7</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>31,0</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>32,0</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>60 tot en met 64</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>30,5</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>37,2</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>37,9</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>38,3</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table frame="topbot" tabstyle="stcrt2">
+          <title>Tabel 2</title>
+          <tgroup align="left" char="" charoff="50" cols="5" tgroupstyle="stcrt2">
+            <colspec align="left" colname="col1" colnum="1" colwidth="24*"/>
+            <colspec align="right" colname="col2" colnum="2" colwidth="10*"/>
+            <colspec align="right" colname="col3" colnum="3" colwidth="23*"/>
+            <colspec align="right" colname="col4" colnum="4" colwidth="23*"/>
+            <colspec align="right" colname="col5" colnum="5" colwidth="23*"/>
+            <thead valign="top">
+              <row>
+                <entry align="left" colname="col1" morerows="0" rotate="0" valign="top">
+                  <al>Leeftijdsklassen tot 65 jaar</al>
+                </entry>
+                <entry align="left" morerows="0" nameend="col5" namest="col2" rotate="0" valign="top">
+                  <al>Percentage van de pensioengrondslag (opbouw gericht op 2,05% per dienstjaar bij middelloonstelsel)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colname="col1" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" colname="col2" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" colname="col3" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" colname="col4" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" colname="col5" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>OP</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>OP en uitgesteld opgebouwd PP</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>OP en direct ingaand opgebouwd PP</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>OP en direct ingaand bereikbaar PP</al>
+                </entry>
+              </row>
+            </thead>
+            <tbody valign="top">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>15 tot en met 19</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>4,7</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>5,7</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>6,6</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>6,9</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>20 tot en met 24</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>5,4</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>6,6</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>7,5</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>8,2</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>25 tot en met 29</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>6,6</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>8,0</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>9,0</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>9,9</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>30 tot en met 34</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>8,0</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>9,7</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>10,9</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>11,6</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>35 tot en met 39</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>9,8</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>11,9</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>13,2</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>13,9</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>40 tot en met 44</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>12,0</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>14,5</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>15,9</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>16,7</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>45 tot en met 49</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>14,6</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>17,8</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>19,2</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>20,1</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>50 tot en met 54</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>18,0</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>21,8</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>23,3</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>24,3</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>55 tot en met 59</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>22,3</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>27,1</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>28,3</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>29,1</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>60 tot en met 64</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>27,8</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>33,9</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>34,5</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>34,9</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table frame="topbot" tabstyle="stcrt2">
+          <title>Tabel 3</title>
+          <tgroup align="left" char="" charoff="50" cols="5" tgroupstyle="stcrt2">
+            <colspec align="left" colname="col1" colnum="1" colwidth="24*"/>
+            <colspec align="right" colname="col2" colnum="2" colwidth="10*"/>
+            <colspec align="right" colname="col3" colnum="3" colwidth="23*"/>
+            <colspec align="right" colname="col4" colnum="4" colwidth="23*"/>
+            <colspec align="right" colname="col5" colnum="5" colwidth="23*"/>
+            <thead valign="top">
+              <row>
+                <entry align="left" colname="col1" morerows="0" rotate="0" valign="top">
+                  <al>Leeftijdsklassen tot 65 jaar</al>
+                </entry>
+                <entry align="left" morerows="0" nameend="col5" namest="col2" rotate="0" valign="top">
+                  <al>Percentage van de pensioengrondslag (opbouw gericht op 2,15% per dienstjaar bij middelloonstelsel)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colname="col1" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" colname="col2" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" colname="col3" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" colname="col4" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" colname="col5" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>OP</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>OP en uitgesteld opgebouwd PP</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>OP en direct ingaand opgebouwd PP</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>OP en direct ingaand bereikbaar PP</al>
+                </entry>
+              </row>
+            </thead>
+            <tbody valign="top">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>15 tot en met 19</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>5,0</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>6,0</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>6,9</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>7,3</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>20 tot en met 24</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>5,7</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>6,9</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>7,9</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>8,6</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>25 tot en met 29</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>6,9</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>8,4</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>9,5</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>10,4</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>30 tot en met 34</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>8,4</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>10,2</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>11,4</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>12,2</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>35 tot en met 39</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>10,3</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>12,5</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>13,8</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>14,5</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>40 tot en met 44</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>12,6</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>15,2</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>16,7</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>17,5</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>45 tot en met 49</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>15,3</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>18,6</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>20,2</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>21,1</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>50 tot en met 54</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>18,9</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>22,9</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>24,4</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>25,5</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>55 tot en met 59</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>23,3</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>28,4</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>29,7</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>30,6</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>60 tot en met 64</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>29,2</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>35,6</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>36,2</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>36,6</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">2. Uitgangspunten</nadruk>
+          </titel>
+        </kop>
+        <al>Bij de staffels gelden de volgende uitgangspunten:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>De staffels gelden voor beschikbare premies voor de opbouw van aanspraken op ouderdomspensioen en eventueel PP (circa 70% van het OP). In de percentages is een opslag begrepen voor kosten en voor premievrijstelling bij arbeidsongeschiktheid.</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>De staffels zijn gebaseerd op een maximale opbouw van ouderdomspensioen volgens het middelloonstelsel. De staffels van tabel 1 zijn dan ook gericht op de voor een middelloonregeling geldende maximale opbouw van 2,25% per dienstjaar. Deze staffels zijn daarmee gericht op een opbouw gedurende 35 jaar die leidt tot een pensioen dat vergelijkbaar is met een pensioen op basis van het eindloonstelsel. Laatstgenoemd pensioen bedraagt na 35 jaar opbouw maximaal 70% van het eindloon.</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>Tabellen 2 en 3 zijn recht evenredig afgeleid uit tabel 1 waarbij rekening is gehouden met afrondingsverschillen. Deze tabellen zijn van toepassing als partijen gebruik maken van <extref status="actief" doc="1.0:v:BWBR0002489&amp;artikel=10aa" compleet="nee">artikel 10aa van het UBLB</extref>. Tabel 2 geldt bij een opbouw op basis van 2,05% middelloon en tabel 3 bij een opbouw op basis van 2,15% middelloon. Beide opbouwpercentages zijn gebaseerd op <extref status="actief" doc="1.0:v:BWBR0002489&amp;artikel=10aa" compleet="nee">artikel 10aa van het UBLB</extref>.</al>
+          </li>
+          <li>
+            <li.nr>d.</li.nr>
+            <al>De bij tabel 1 te hanteren pensioengrondslag is gelijk aan het pensioengevend loon minus ten minste de minimale franchise van 10/7 &#xD7; de AOW-uitkering voor een gehuwde. Voor de tabellen 2 en 3 is de te hanteren grondslag gelijk aan het pensioengevend loon verminderd met ten minste de franchisebedragen genoemd in <extref status="actief" doc="1.0:v:BWBR0002489&amp;artikel=10aa" compleet="nee">artikel 10aa van het UBLB</extref>. Bij de vaststelling van de premies in de drie laatste kolommen van de staffels is rekening gehouden met de omstandigheid dat voor partnerpensioen een lagere franchise geldt dan voor ouderdomspensioen. Dit vloeit voort uit het feit dat het partnerpensioen is uitgedrukt in een percentage van 70% van het ouderdomspensioen.</al>
+          </li>
+          <li>
+            <li.nr>e.</li.nr>
+            <al>De premies zijn uitgedrukt in percentages van de pensioengrondslag.</al>
+          </li>
+          <li>
+            <li.nr>f.</li.nr>
+            <al>De staffels gaan uit van een mannelijke werknemer met een vrouwelijke partner die 3 jaar jonger is.</al>
+          </li>
+          <li>
+            <li.nr>g.</li.nr>
+            <al>De gehanteerde overlevingstafel is: GBM/GBV 2000/2005. De leeftijdscorrecties zijn: werknemer -5 en partner -6.</al>
+          </li>
+          <li>
+            <li.nr>h.</li.nr>
+            <al>De rekenrente is 4%.</al>
+          </li>
+          <li>
+            <li.nr>i.</li.nr>
+            <al>De gehanteerde kostenopslag is 10% (factor: 1,1).</al>
+          </li>
+          <li>
+            <li.nr>j.</li.nr>
+            <al>De opslag voor premievrijstelling bij arbeidsongeschiktheid bedraagt 8% (factor 100/92).</al>
+          </li>
+          <li>
+            <li.nr>k.</li.nr>
+            <al>De intredeleeftijd is bij toepassing van de staffels niet van belang.</al>
+          </li>
+          <li>
+            <li.nr>l.</li.nr>
+            <al>De premies voor de klasse van 15 tot en met 19 jaar zijn gebaseerd op een leeftijd van 18 jaar, dit in afwijking van het wettelijk uitgangspunt van <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=18a" compleet="nee">artikel 18a, derde lid, onderdeel a, van de Wet LB</extref>. Dat voorschrift gaat uit van de gemiddelde leeftijd in elke klasse. De afwijking vloeit voort uit het feit dat een toetredingsleeftijd tot een pensioenregeling in de praktijk veelal minimaal 18 jaar is.</al>
+          </li>
+        </lijst>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">3. Toelichting op het gebruik van de staffels</nadruk>
+          </titel>
+        </kop>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>De eerste kolom met premiepercentages (kolom: OP) geldt als de werkgever aan de werknemer uitsluitend een ouderdomspensioen heeft toegezegd.</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>De tweede kolom met premiepercentages (kolom: OP en uitgesteld opgebouwd PP) geldt als de werkgever aan de werknemer een ouderdomspensioen heeft toegezegd tezamen met een uitgesteld, tijdsevenredig opgebouwd partnerpensioen. Het partnerpensioen bedraagt 70% van het tijdsevenredig opgebouwde ouderdomspensioen. &#x2018;Uitgesteld&#x2019; betekent in dit verband dat de uitkeringen van het partnerpensioen ingaan na het overlijden van de werknemer op of na de pensioendatum.</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>De derde kolom met premiepercentages (kolom: OP en direct ingaand opgebouwd PP) geldt als de werkgever aan de werknemer een ouderdomspensioen heeft toegezegd tezamen met een direct ingaand, tijdsevenredig opgebouwd partnerpensioen ter grootte van 70% van dat ouderdomspensioen. &#x2018;Direct ingaand&#x2019; betekent in dit verband dat de uitkeringen van het partnerpensioen ingaan na het overlijden van de werknemer, ongeacht op welk moment dat plaatsvindt.</al>
+          </li>
+          <li>
+            <li.nr>d.</li.nr>
+            <al>De laatste kolom met premiepercentages (kolom: OP en direct ingaand bereikbaar PP) geldt als de werkgever aan de werknemer een ouderdomspensioen heeft toegezegd tezamen met een direct ingaand, op de pensioendatum bereikbaar partnerpensioen. In dit geval zal een deel van het partnerpensioen op risicobasis verzekerd moeten zijn voor het geval dat de werknemer overlijdt v&#xF3;&#xF3;r de pensioendatum. Partijen kunnen deze staffel niet gebruiken bij werknemers voor wie geen partnerpensioen op risicobasis is verzekerd.</al>
+          </li>
+        </lijst>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">4. Voorwaarden en bijzonderheden</nadruk>
+          </titel>
+        </kop>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>Collectief en individueel</al>
+            <al>De staffels zijn collectief en individueel toepasbaar.</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>Incidentele beloning</al>
+            <al>Als de AOW-franchise geheel is verwerkt bij de berekening van de pensioengrondslag uit het structurele loon, kunnen partijen de premiepercentages rechtstreeks toepassen op incidentele beloningen. Bij een gedeeltelijke verwerking van de franchise dient men het nog niet in aanmerking genomen deel hiervan te verrekenen bij de pensioenopbouw over het incidentele loon.</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>Op risicobasis verzekerd partnerpensioen</al>
+            <al>Partijen kunnen de beschikbare premies uit kolom 4 (OP en direct ingaand bereikbaar PP) alleen hanteren als de pensioenverzekeraar de premies voor de risicoverzekering daadwerkelijk onttrekt aan de ontvangen premie of aan de beleggingswaarde van de pensioenverzekering. Op deze wijze wordt voork&#xF3;men dat deze premies ten onrechte worden gebruikt voor opbouw van het ouderdomspensioen. Immers, alleen een opgebouwd partnerpensioen is beschikbaar voor een eventuele ruil voor ouderdomspensioen.</al>
+          </li>
+          <li>
+            <li.nr>d.</li.nr>
+            <al>Opslag voor premievrijstelling bij arbeidsongeschiktheid</al>
+            <al>In de premies uit de staffels is een opslag verwerkt voor premievrijstelling bij arbeidsongeschiktheid (zie onderdeel 2, punt j, van deze bijlage). Dit is gebeurd door de premies te vermenigvuldigen met 100/92. Partijen mogen deze opslag alleen hanteren als de premievrijstelling bij arbeidsongeschiktheid daadwerkelijk is toegekend en verzekerd. De pensioenverzekeraar moet de premies voor de verzekering van premievrijstelling bij arbeidsongeschiktheid daadwerkelijk onttrekken aan de ontvangen premie of aan de beleggingswaarde van de pensioenverzekering. Partijen kunnen de opslag dan ook niet aanwenden voor een hoger ouderdoms- of partnerpensioen.</al>
+          </li>
+          <li>
+            <li.nr>e.</li.nr>
+            <al>Arbeidsongeschiktheids- en nabestaandenoverbruggingspensioen</al>
+            <al>Partijen kunnen de premies uit de staffels verhogen met premies voor een arbeidsongeschiktheidspensioen of een nabestaandenoverbruggingspensioen. Uiteraard moeten zij deze risico&#x2019;s dan ook daadwerkelijk voor die premies verzekeren. Ook deze risicopremies kunnen partijen niet aanwenden voor hogere aanspraken op ouderdoms- of partnerpensioen.</al>
+          </li>
+          <li>
+            <li.nr>f.</li.nr>
+            <al>Kostenopslag</al>
+            <al>Zoals aangegeven in de uitgangspunten in onderdeel 2, punt i, van deze bijlage, is de veronderstelde kostenopslag voor de pensioenregeling 10%. Deze kostenopslag is in de premiepercentages verwerkt. Ook als de pensioenverzekeraar een andere kostenopslag hanteert, mogen de staffels ongewijzigd worden gebruikt. Als de werkgever de kosten geheel of gedeeltelijk anders betaalt dan via de beschikbare premies, moeten partijen de percentages uit de staffels dienovereenkomstig aanpassen.</al>
+          </li>
+          <li>
+            <li.nr>g.</li.nr>
+            <al>Gelijkblijvende premie(percentage)s</al>
+            <al>Bij een beschikbare-premieregeling mag de premie voor alle werknemers worden uitgedrukt in een vast bedrag of een vast percentage van de pensioengrondslag. Hierbij mogen partijen voor de beoordeling van het vaste bedrag of het vaste percentage uitgaan van de premie voor de leeftijdsklasse 20- tot en met 24-jarigen. Als de jongste werknemer 25 jaar of ouder is, is de premie ten hoogste gelijk aan de premie voor de leeftijdsklasse waartoe de jongste werknemer behoort.</al>
+          </li>
+          <li>
+            <li.nr>h.</li.nr>
+            <al>Overlevingstafels</al>
+            <al>De berekening van de staffels is gebaseerd op de recent gepubliceerde overlevingstafels GBM/GBV 2000/2005 met leeftijdsverlagingen van 5 jaar voor mannen en 6 jaar voor vrouwen. Partijen mogen deze staffels hanteren als de pensioenverzekeraar een levensverzekeringsmaatschappij is die binnen de pensioenverzekering uitgaat van individuele tarieven. Met individueel tarief wordt hier bedoeld: het tarief dat de verzekeraar in individuele gevallen hanteert. Als de pensioenverzekeraar en de werkgever na onderhandelingen een collectief tarief zijn overeengekomen waarbij men uitgaat van lichtere sterftegrondslagen, moet de werkgever de beschikbare-premiepercentages dienovereenkomstig verlagen.</al>
+          </li>
+          <li>
+            <li.nr>i.</li.nr>
+            <al>Leeftijd</al>
+            <al>Pensioen wordt tijdsevenredig opgebouwd. Partijen mogen voor de opbouw in een maand en voor de premie over (een deel van) die maand uitgaan van de leeftijd van de werknemer aan het einde van de maand.</al>
+          </li>
+          <li>
+            <li.nr>j.</li.nr>
+            <al>Inhaal van niet-gebruikte premieruimte</al>
+            <al>Een pensioenregeling kan de mogelijkheid bieden om de in een jaar niet gebruikte beschikbare-premieruimte in een later jaar in te halen. De niet gebruikte premieruimte moet dan in euro&#x2019;s worden vastgesteld. Werkgever en werknemer mogen die premie in enig later jaar alsnog storten. De werknemer mist dan het rendement over de inhaalpremie dat in de tussenliggende jaren had kunnen worden behaald. Daarom mogen partijen de inhaalpremie vermenigvuldigen met een samengestelde intrestfactor van 1,04 voor elk jaar gelegen tussen het einde van het in te halen jaar en de aanvang van het jaar waarin de inhaal plaatsvindt. De Belastingdienst heeft voor de inhaal van niet-gebruikte premieruimte een handreiking op zijn site gepubliceerd. Zie www.belastingdienstpensioensite.nl.</al>
+          </li>
+          <li>
+            <li.nr>k.</li.nr>
+            <al>Eigen beheer</al>
+            <al>De staffels zijn niet of niet zonder meer toepasbaar als het pensioen geheel of gedeeltelijk is verzekerd bij een lichaam als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=19a" compleet="nee">artikel 19a, eerste lid, onderdeel d, van de Wet LB</extref> (eigen beheer). In dat geval geldt immers <extref status="actief" doc="1.0:v:BWBR0002489&amp;artikel=10c" compleet="nee">artikel 10c van het UBLB</extref>. <extref status="actief" doc="1.0:v:BWBR0002489&amp;artikel=10c" compleet="nee">Dat artikel</extref> geeft bijzondere regels voor onder meer het partnerpensioen. Daarnaast kan bij eigen beheer de kostenopslag lager zijn. Ook kan de premievrijstelling bij arbeidsongeschiktheid lager zijn of ontbreken. Partijen moeten in die gevallen de premies bijstellen.</al>
+          </li>
+          <li>
+            <li.nr>l.</li.nr>
+            <al>Lager ambitieniveau</al>
+            <al>Als partijen in de pensioenregeling lagere ambitieniveaus zijn overeengekomen dan de fiscale maxima die gelden voor middelloonregelingen moeten zij de premiepercentages uit de staffels evenredig daarmee verlagen.</al>
+          </li>
+        </lijst>
+      </divisie>
+    </bijlage>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">II</nr>
+      </kop>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            Aanwijzing als bedoeld in <intref status="actief" doc="1.0:v:BWBR0022755&amp;circulaire.divisie=3.3">onderdeel 3.3</intref>
+          </titel>
+        </kop>
+        <tussenkop>Kapitaalovereenkomsten</tussenkop>
+        <tussenkop>Voorwaarden en bijzonderheden</tussenkop>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020809" compleet="nee">Pensioenwet</extref></al>
+            <al>De pensioenregeling is een kapitaalovereenkomst in de zin van <extref status="actief" doc="1.0:v:BWBR0020809&amp;artikel=10" compleet="nee">artikel 10 van de PW</extref>. De regeling kent daartoe een bepaling waaruit blijkt dat het te verzekeren kapitaal de pensioentoezegging is. De pensioenpremie wordt bepaald door het verzekerde kapitaal. Op de pensioendatum koopt de pensioengerechtigde met het kapitaal pensioenuitkeringen aan.</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>Te verzekeren pensioenkapitaal</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>1.</li.nr>
+                <al>Het verzekerde pensioenkapitaal op de pensioendatum is ten hoogste gebaseerd op een kapitaal dat nodig is voor een in 35 jaar op te bouwen ouderdomspensioen van 70% van het eindloon (inclusief inbouw van de AOW). Bij de berekening van het pensioenkapitaal gaan partijen ten hoogste uit van een pensioen op basis van het pensioengevend loon van het desbetreffende jaar. Als het kapitaal wordt verhoogd als gevolg van salarisverhogingen komt dit tot uiting in toekomstige premies. In afwijking van de uitgangspunten van <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=18a" compleet="nee">18a, derde lid, van de Wet LB</extref> sluit de opbouw derhalve aan bij de feitelijke loopbaanontwikkeling.</al>
+              </li>
+              <li>
+                <li.nr>2.</li.nr>
+                <al>Partijen gaan voor de berekening van het benodigde kapitaal uit van niet ge&#xEF;ndexeerde pensioenuitkeringen.</al>
+              </li>
+              <li>
+                <li.nr>3.</li.nr>
+                <al>Partijen rekenen met een tarief op basis van een nettorendement na pensioeningangsdatum van ten minste 4%.</al>
+              </li>
+              <li>
+                <li.nr>4.</li.nr>
+                <al>Partijen houden rekening met de bijgeschreven winstdeling. Het inbouwen van het winstrecht kan ertoe leiden dat een premieverlaging nodig is. De premie kan daarbij dalen tot nihil.</al>
+              </li>
+              <li>
+                <li.nr>5.</li.nr>
+                <al>Een premieverlaging kan achterwege blijven als partijen voldoen aan de volgende twee voorwaarden:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>&#x2013;</li.nr>
+                    <al>In de regeling heeft men de bepaling opgenomen dat partijen de overwaarde op de pensioeningangsdatum zo veel mogelijk zullen aanwenden voor indexatie van het uit te keren pensioen.</al>
+                  </li>
+                  <li>
+                    <li.nr>&#x2013;</li.nr>
+                    <al>Het verzekerde kapitaal is inclusief de reeds bijgeschreven winstdeling niet hoger dan het kapitaal dat nodig is voor een fiscaal maximaal ge&#xEF;ndexeerd pensioen. Hiertoe zullen partijen het kapitaal jaarlijks moeten toetsen. Uitgangspunt voor deze toetsing zijn de tarieven van de verzekeraar op de beoordelingsdatum. Om grote schommelingen bij deze toetsing te voorkomen mogen partijen hierbij een marktrente hanteren van maximaal 6% en een indexatie van maximaal 3%. Als uit de jaarlijkse berekening blijkt dat het kapitaal inclusief de reeds bijgeschreven winstdeling hoger is dan overeenstemt met de berekende koopsom, moeten partijen het verzekerde kapitaal verlagen. Dit kan betekenen dat men in dat geval ook de premie moet verlagen. De Belastingdienst heeft op zijn site een voorbeeld gepubliceerd van deze toetsing voor een aantal opeenvolgende jaren. Zie www.belastingdienstpensioensite.nl.</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>6</li.nr>
+                <al>Als op de pensioendatum ondanks de indexatie en/of de verlaging van de premies een overwaarde in de verzekering aanwezig is, wordt het meerdere uitgekeerd in een uitkering ineens op de voet van <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=18a" compleet="nee">artikel 18a, negende lid, van de Wet LB</extref>.</al>
+              </li>
+            </lijst>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>Gelijkblijvende premies</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>1.</li.nr>
+                <al>Partijen mogen afwijken van het wettelijke uitgangspunt van <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=18a" compleet="nee">artikel 18a, derde lid, van de Wet LB</extref> dat sprake moet zijn van leeftijdsafhankelijke premies. Er mogen gelijkblijvende premies worden overeengekomen.</al>
+              </li>
+              <li>
+                <li.nr>2.</li.nr>
+                <al>Partijen mogen voor de berekening van de gelijkblijvende premie in de opbouwfase uitgaan van het geldende tarief voor kapitaalverzekeringen.</al>
+              </li>
+            </lijst>
+          </li>
+          <li>
+            <li.nr>d.</li.nr>
+            <al>Partnerpensioen op opbouwbasis</al>
+            <al>Partijen kunnen naast de opbouw van een ouderdomspensioen ook de opbouw van een partnerpensioen zijn overeengekomen. Zij kunnen in dat geval het beoogde pensioenkapitaal op de pensioeningangsdatum mede baseren op een in 35 jaar op te bouwen partnerpensioen van 49% van het eindloon (inclusief inbouw van de <extref status="actief" doc="1.0:v:BWBR0002221" compleet="nee">AOW</extref>).</al>
+          </li>
+          <li>
+            <li.nr>e.</li.nr>
+            <al>Partnerpensioen op risicobasis</al>
+            <al>Bij de berekening van het kapitaal dat nodig is voor het partnerpensioen bij overlijden van de werknemer v&#xF3;&#xF3;r de pensioendatum mogen partijen afwijken van de in onderdeel b opgenomen voorschriften. Zij mogen dan het te verzekeren kapitaal bij overlijden v&#xF3;&#xF3;r de pensioendatum berekenen op basis van de markttarieven voor een direct ingaand, levenslang, vast nage&#xEF;ndexeerd partnerpensioen.</al>
+          </li>
+        </lijst>
+      </divisie>
+    </bijlage>
+  </circulaire>
+</wetgeving>
+  	

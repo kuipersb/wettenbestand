@@ -1,0 +1,922 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0023428" dtdversie="2.0" id="392759" soort="ministeriele-regeling">
+  
+  <intitule>Regeling van de Staatssecretaris van Justitie van 29&#xA0;januari 2008, nr. 5519777/07/DJI, houdende regels over de melding van ongeoorloofde afwezigheid uit penitentiaire inrichtingen, inrichtingen voor verpleging van ter beschikking gestelden en justiti&#xEB;le jeugdinrichtingen</intitule>
+  
+  <regeling>
+    <aanhef>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0009709&amp;artikel=5a" compleet="nee">artikel 5a, tweede lid, van de Penitentiaire beginselenwet</extref>, <extref status="actief" doc="1.0:v:BWBR0008765&amp;artikel=7a" compleet="nee">artikel 7a, tweede lid, van de Beginselenwet verpleging ter beschikking gestelden</extref> en <extref status="actief" doc="1.0:v:BWBR0011756&amp;artikel=5" compleet="nee">artikel 5, tweede lid, van de Beginselenwet justiti&#xEB;le jeugdinrichtingen</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Algemene bepalingen </titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1.1</nr>
+            <titel status="officieel">Begripsbepalingen</titel>
+          </kop>
+          <al>In deze Regeling wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>ongeoorloofde afwezigheid: het na aanvang van de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel bedoeld in de <extref status="actief" doc="1.0:v:BWBR0009709" compleet="nee">Penitentiaire beginselenwet</extref>, de <extref status="actief" doc="1.0:v:BWBR0008765" compleet="nee">Beginselenwet verpleging ter beschikking gestelden</extref> en de <extref status="actief" doc="1.0:v:BWBR0011756" compleet="nee">Beginselenwet justiti&#xEB;le jeugdinrichtingen</extref> zich hieraan onttrekken op een wijze als genoemd in respectievelijk <intref status="actief" doc="1.0:v:BWBR0023428&amp;hoofdstuk=2">hoofdstuk 2</intref>, <intref status="actief" doc="1.0:v:BWBR0023428&amp;hoofdstuk=3">3</intref> en <intref status="actief" doc="1.0:v:BWBR0023428&amp;hoofdstuk=4">4</intref> van deze regeling;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de DJI: de Dienst Justiti&#xEB;le Inrichtingen van het Ministerie van Justitie;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de sectordirecteur GW: de sectordirecteur van de sector Gevangeniswezen van de DJI of diens plaatsvervanger;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>het BCL: het Bureau Capaciteitsbenutting en Logistiek van de afdeling Individuele Zaken van de sector GW;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>de sectordirecteur BV: de sectordirecteur van de sector Bijzondere Voorzieningen van de DJI of diens plaatsvervanger;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>het BCV: het Bureau Co&#xF6;rdinatie Vreemdelingenzaken van de sector BV;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>de directeur FZ: de directeur van de directie Forensische Zorg van de DJI of diens plaatsvervanger;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>de afdeling Plaatsing: de afdeling Plaatsing van de directie FZ;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>de sectordirecteur JJI: de sectordirecteur van de sector Justiti&#xEB;le Jeugdinrichtingen van de DJI of diens plaatsvervanger;</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>het Landelijk Meldpunt: het meldpunt bij de Groep Opsporing Onttrekkingen (GOO) ressorterend onder de Dienst Operationele Ondersteuning en Co&#xF6;rdinatie van het Korps Landelijke Politie Diensten (KLPD) belast met de opsporing van ongeoorloofd afwezigen genoemd in de <intref status="actief" doc="1.0:v:BWBR0023428&amp;hoofdstuk=2">hoofdstukken 2</intref>, <intref status="actief" doc="1.0:v:BWBR0023428&amp;hoofdstuk=3">3</intref> en <intref status="actief" doc="1.0:v:BWBR0023428&amp;hoofdstuk=4">4</intref>;</al>
+            </li>
+          <li><li.nr>h.</li.nr><al>het CJIB: het Centraal Justitieel Incassobureau van het Ministerie van Justitie.</al></li></lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1.2</nr>
+            <titel status="officieel">Aanvang en einde van ongeoorloofde afwezigheid</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Ongeoorloofde afwezigheid vangt aan op de dag van het zich onttrekken aan de tenuitvoerlegging bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=1.1">artikel 1.1, onder a</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Ongeoorloofde afwezigheid eindigt op de dag dat de ongeoorloofd afwezige zichzelf meldt of wordt aangehouden.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1.3</nr>
+            <titel status="officieel">Meldingsprocedure ongeoorloofde afwezigheid</titel>
+          </kop>
+          <al>De directeur dan wel het hoofd van de inrichting bedoeld in respectievelijk <intref status="actief" doc="1.0:v:BWBR0023428&amp;hoofdstuk=2">hoofdstuk 2</intref>, <intref status="actief" doc="1.0:v:BWBR0023428&amp;hoofdstuk=3">3</intref> en <intref status="actief" doc="1.0:v:BWBR0023428&amp;hoofdstuk=4">4</intref> van deze regeling meldt ongeoorloofde afwezigheid en het einde daarvan aan de Minister van Justitie, de politie en overige betrokkenen volgens de procedure beschreven in het betreffende hoofdstuk.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in <extref status="actief" doc="1.0:v:BWBR0009709&amp;artikel=5a" compleet="nee">artikel 5a, tweede lid, van de penitentiaire beginselenwet</extref></titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Algemene bepalingen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2.1</nr>
+              <titel status="officieel">Begripsbepalingen</titel>
+            </kop>
+            <al>Op dit hoofdstuk zijn de begripsbepalingen, bedoeld in <extref status="actief" doc="1.0:v:BWBR0009709&amp;artikel=1" compleet="nee">artikel 1 van de Penitentiaire beginselenwet</extref>, van toepassing</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2.2</nr>
+              <titel status="officieel">Ontstaan ongeoorloofde afwezigheid</titel>
+            </kop>
+            <al>Ongeoorloofde afwezigheid als bedoeld in dit hoofdstuk is het gevolg van het zich onttrekken aan de tenuitvoerlegging op &#xE9;&#xE9;n van de navolgende wijzen:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het zonder toestemming verlaten van een normaal beveiligde, uitgebreid beveiligde of extra beveiligde inrichting of afdeling of het tot die inrichting behorende terrein, dan wel van een afgesloten ruimte van een beperkt beveiligde inrichting;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het zonder toestemming verlaten van een afgesloten ruimte of terrein van een instelling waarnaar de gedetineerde is overgebracht op grond van <extref status="actief" doc="1.0:v:BWBR0009709&amp;artikel=15" compleet="nee">artikel 15, vijfde lid, van de Penitentiaire beginselenwet</extref>;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>het zich onttrekken aan het toezicht tijdens vervoer;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>het zich onttrekken aan het toezicht tijdens begeleid verlof of ander verblijf buiten de inrichting onder begeleiding;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>het zonder toestemming verlaten van een zeer beperkt beveiligde of beperkt beveiligde inrichting of terrein, anders dan bedoeld in onderdeel a;</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>het zonder toestemming verlaten van een open afdeling van een instelling waarnaar de gedetineerde is overgebracht op grond van <extref status="actief" doc="1.0:v:BWBR0009709&amp;artikel=15" compleet="nee">artikel 15, vijfde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0009709&amp;artikel=42" compleet="nee">artikel 42, vierde lid, onder c</extref>, of <extref status="actief" doc="1.0:v:BWBR0009709&amp;artikel=43" compleet="nee">artikel 43, derde lid, van de Penitentiaire beginselenwet</extref>, dan wel waar de gedetineerde, de deelnemer aan een penitentiair programma of degene aan wie de maatregel bedoeld in <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38m" compleet="nee">artikel 38m van het Wetboek van Strafrecht</extref> is opgelegd met toestemming verblijft, zonder begeleiding;</al>
+              </li>
+              <li>
+                <li.nr>g.</li.nr>
+                <al>het zich niet tijdig op de afgesproken plaats bevinden of daar terugkeren na of tijdens onbegeleid verlof, deelname aan een penitentiair programma, of ander toegestaan verblijf buiten de inrichting zonder begeleiding.</al>
+              </li>
+            </lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2.3</nr>
+              <titel status="officieel">Verantwoordelijkheid voor de meldingen bij ongeoorloofde afwezigheid</titel>
+            </kop>
+            <al>De verantwoordelijkheid voor de in de <intref status="actief" doc="1.0:v:BWBR0023428&amp;paragraaf=2">paragrafen 2</intref> en <intref status="actief" doc="1.0:v:BWBR0023428&amp;paragraaf=3">3</intref> bedoelde meldingen en inlichtingen bij ongeoorloofde afwezigheid berust bij de directeur van de inrichting vanwaar de gedetineerde zich heeft onttrokken. In de gevallen waarin de ongeoorloofd afwezige zich met toestemming buiten de inrichting bevond op het moment van zijn onttrekking, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=2.2">artikel 2.2, onder b, c, d, f en g</intref>, berust die verantwoordelijkheid bij de directeur van de inrichting waar hij staat ingeschreven.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2.4</nr>
+              <titel status="officieel">Indeling ongeoorloofd afwezigen</titel>
+            </kop>
+            <al>In dit hoofdstuk worden met het oog op de te volgen meldingsprocedure de navolgende twee groepen ongeoorloofd afwezigen onderscheiden:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>groep A omvat de gedetineerden die zich hebben onttrokken aan de tenuitvoerlegging als bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=2.2">artikel 2.2, onder a tot en met d</intref>, en niet behoren tot groep B, onder 2&#xB0;;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>groep B omvat degenen die:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>zich hebben onttrokken aan de tenuitvoerlegging als bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=2.2">artikel 2.2, onder e tot en met g</intref>;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>zich hebben onttrokken aan vreemdelingenbewaring op enige wijze als bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=2.2">artikel 2.2</intref>.</al>
+                  </li>
+                </lijst>
+              </li>
+            </lijst>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Meldingen bij aanvang ongeoorloofde afwezigheid</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2.5</nr>
+              <titel status="officieel">Melding bij constatering op heterdaad</titel>
+            </kop>
+            <al>Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat deze heeft plaatsgevonden, belt de directeur onmiddellijk het alarmnummer van de politie met het oog op de aanhouding van degene die zich onttrekt.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2.6</nr>
+              <titel status="officieel">Meldingen na constatering ongeoorloofde afwezigheid groep A</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De directeur meldt de ongeoorloofde afwezigheid behorend tot groep A onmiddellijk na constatering ervan telefonisch aan:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>het Landelijk Meldpunt;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de sectordirecteur GW dan wel de sectordirecteur BV; de directeur stelt daartoe de accountmanager of piketambtenaar van de betreffende sector telefonisch op de hoogte.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De directeur zendt binnen &#xE9;&#xE9;n uur na constatering van de ongeoorloofde afwezigheid het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan het Landelijk Meldpunt.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De directeur zendt uiterlijk de eerstvolgende werkdag het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan de sectordirecteur GW dan wel de sectordirecteur BV; de directeur zendt dit formulier daartoe aan de accountmanager of piketambtenaar van de betreffende sector.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>De directeur meldt de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag elektronisch aan het hoofd van het BCL dan wel het hoofd van het BCV door middel van registratie in het Centraal Register Onttrekkingen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>De directeur zendt zo spoedig mogelijk het penitentiair dossier van de ongeoorloofd afwezige naar het hoofd van het BCL dan wel het hoofd van het BCV.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2.7</nr>
+              <titel status="officieel">Meldingen na constatering ongeoorloofde afwezigheid groep B</titel>
+            </kop>
+            <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>De directeur meldt de ongeoorloofde afwezigheid behorend tot groep B, onder 1&#xB0;, onmiddellijk na constatering ervan aan:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>het CJIB, binnen kantooruren telefonisch, buiten kantooruren per elektronische post of per fax;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>de sectordirecteur GW dan wel de sectordirecteur BV, indien de directeur van oordeel is dat de ongeoorloofde afwezigheid daartoe aanleiding geeft; de directeur meldt de ongeoorloofde afwezigheid alleen in dat geval telefonisch aan de accountmanager of piketambtenaar van de betreffende sector.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De directeur meldt de ongeoorloofde afwezigheid van degene die zich heeft onttrokken aan vreemdelingenbewaring, behorend tot groep B, onder 2&#xB0;, onmiddellijk na constatering ervan telefonisch aan:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de politie in de regio waarbinnen de inrichting is gelegen;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de sectordirecteur GW dan wel de sectordirecteur BV; de directeur stelt daartoe de accountmanager of piketambtenaar van de betreffende sector telefonisch op de hoogte.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De directeur zendt zo spoedig mogelijk na de meldingen, bedoeld in het eerste en tweede lid, het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                           <li.nr>a.</li.nr>
+                           <al>het CJIB, in geval van ongeoorloofde afwezigheid behorend tot groep B, onder 1&#xB0;, dan wel de politie in de regio waarbinnen de inrichting is gelegen, in geval van ongeoorloofde afwezigheid behorend tot groep B, onder 2&#xB0;;</al>
+                        </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de sectordirecteur GW dan wel de sectordirecteur BV; de directeur zendt dit formulier daartoe aan de accountmanager of piketambtenaar van de betreffende sector; in geval van onttrekkingen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=2.2">artikel 2.2, onder f en g</intref>, blijft deze melding achterwege.</al>
+                </li>
+                
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>De directeur meldt de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag elektronisch aan het hoofd van het BCL dan wel het hoofd van het BCV door middel van registratie in het Centraal Register Onttrekkingen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>De directeur zendt zo spoedig mogelijk het penitentiair dossier van de ongeoorloofd afwezige naar het hoofd van het BCL dan wel het hoofd van het BCV.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">Overige inlichtingen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2.8</nr>
+              <titel status="officieel">Overige inlichtingen</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De directeur verstrekt aan de sectordirecteur GW dan wel de sectordirecteur BV, naast de in <intref status="actief" doc="1.0:v:BWBR0023428&amp;paragraaf=2">paragraaf 2</intref> bedoelde informatie, te allen tijde alle benodigde inlichtingen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De directeur verstrekt aan het Landelijk Meldpunt, het CJIB, dan wel de regiopolitie, naast de in <intref status="actief" doc="1.0:v:BWBR0023428&amp;paragraaf=2">paragraaf 2</intref> bedoelde informatie, te allen tijde alle benodigde inlichtingen.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">4</nr>
+            <titel status="officieel">Meldingen bij einde ongeoorloofde afwezigheid</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2.9</nr>
+              <titel status="officieel">Meldingen bij einde ongeoorloofde afwezigheid</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Indien de ongeoorloofd afwezige behorend tot groep A zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>het Landelijk Meldpunt, onmiddellijk telefonisch;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de sectordirecteur GW dan wel de sectordirecteur BV; de directeur stelt daartoe het hoofd van het BCL respectievelijk de piketambtenaar van de sector BV uiterlijk de eerstvolgende werkdag telefonisch op de hoogte.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Indien de ongeoorloofd afwezige behorend tot groep B zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover zo spoedig mogelijk per elektronische post of per fax:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                           <li.nr>a.</li.nr>
+                           <al>het CJIB, in geval van ongeoorloofde afwezigheid behorend tot groep B, onder 1&#xB0;, dan wel de politie in de regio waarbinnen de inrichting is gelegen, in geval van ongeoorloofde afwezigheid behorend tot groep B, onder 2&#xB0;;</al>
+                        </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>het hoofd van het BCL dan wel het hoofd van het BCV.</al>
+                </li>
+                
+              </lijst>
+            </lid>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in <extref status="actief" doc="1.0:v:BWBR0008765&amp;artikel=7a" compleet="nee">artikel 7a, tweede lid, van de beginselenwet verpleging ter beschikking gestelden</extref></titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Algemene bepalingen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.1</nr>
+              <titel status="officieel">Begripsbepalingen</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Op dit hoofdstuk zijn de begripsbepalingen, bedoeld in <extref status="actief" doc="1.0:v:BWBR0008765&amp;artikel=1" compleet="nee">artikel 1 van de Beginselenwet verpleging ter beschikking gestelden</extref>, van toepassing.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>In dit hoofdstuk van deze Regeling wordt verstaan onder:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de inrichting: de inrichting bedoeld in <extref status="actief" doc="1.0:v:BWBR0008765&amp;artikel=1" compleet="nee">artikel 1, onder b, van de Beginselenwet verpleging ter beschikking gestelden</extref>;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>het hoofd: het hoofd van de inrichting voor verpleging van ter beschikking gestelden bedoeld in <extref status="actief" doc="1.0:v:BWBR0008765&amp;artikel=1" compleet="nee">artikel 1, onder h, van de Beginselenwet verpleging ter beschikking gestelden</extref>.</al>
+                </li>
+              </lijst>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.2</nr>
+              <titel status="officieel">Ontstaan ongeoorloofde afwezigheid</titel>
+            </kop>
+            <al>Ongeoorloofde afwezigheid als bedoeld in dit hoofdstuk is het gevolg van het zich onttrekken van een verpleegde aan de tenuitvoerlegging op &#xE9;&#xE9;n van de navolgende wijzen:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het zonder toestemming verlaten van de inrichting of het tot de inrichting behorende terrein;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het zonder toestemming verlaten van de instelling waarnaar de verpleegde is overgebracht op grond van <extref status="actief" doc="1.0:v:BWBR0008765&amp;artikel=13" compleet="nee">artikel 13</extref>, <extref status="actief" doc="1.0:v:BWBR0008765&amp;artikel=14" compleet="nee">artikel 14</extref>, of <extref status="actief" doc="1.0:v:BWBR0008765&amp;artikel=41" compleet="nee">artikel 41, vierde lid, onderdeel c, van de Beginselenwet verpleging ter beschikking gestelden</extref>;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>het zich onttrekken aan het toezicht tijdens vervoer;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>het zich onttrekken aan het toezicht tijdens enige vorm van begeleid verlof of ander verblijf buiten de inrichting onder begeleiding;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>het zich niet tijdig op de afgesproken plaats bevinden of daar terugkeren na of tijdens enige vorm van onbegeleid verlof, proefverlof, transmuraal verlof of ander toegestaan verblijf buiten de inrichting zonder begeleiding.</al>
+              </li>
+            </lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.3</nr>
+              <titel status="officieel">Verantwoordelijkheid voor de meldingen bij ongeoorloofde afwezigheid</titel>
+            </kop>
+            <al>De verantwoordelijkheid voor de in de <intref status="actief" doc="1.0:v:BWBR0023428&amp;paragraaf=2">paragrafen 2</intref> en <intref status="actief" doc="1.0:v:BWBR0023428&amp;paragraaf=3">3</intref> bedoelde meldingen en inlichtingen bij ongeoorloofde afwezigheid berust bij het hoofd van de inrichting vanwaar de verpleegde zich heeft onttrokken. In de gevallen waarin de verpleegde zich met toestemming buiten de inrichting bevond op het moment van zijn onttrekking, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=3.2">artikel 3.2, onder b tot en met e</intref>, berust die verantwoordelijkheid bij het hoofd van de inrichting waar de verpleegde staat ingeschreven.</al>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Meldingen bij aanvang ongeoorloofde afwezigheid</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.4</nr>
+              <titel status="officieel">Melding bij constatering op heterdaad</titel>
+            </kop>
+            <al>Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat deze heeft plaatsgevonden, belt het hoofd onmiddellijk het alarmnummer van de politie met het oog op de aanhouding van de verpleegde die zich onttrekt.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.5</nr>
+              <titel status="officieel">Meldingen na constatering ongeoorloofde afwezigheid</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Het hoofd meldt de ongeoorloofde afwezigheid onmiddellijk na constatering ervan telefonisch aan:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>het Landelijk Meldpunt;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de directeur FZ; het hoofd stelt daartoe het hoofd van de afdeling Plaatsing of de piketambtenaar van de directie FZ telefonisch op de hoogte.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Het hoofd zendt binnen &#xE9;&#xE9;n uur na constatering van de ongeoorloofde afwezigheid het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan het Landelijk Meldpunt.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Het hoofd zendt zo spoedig mogelijk na de in het eerste en tweede lid bedoelde meldingen het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan de directeur FZ; het hoofd zendt dit formulier daartoe aan het hoofd van de afdeling of de piketambtenaar van de directie FZ.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Het hoofd meldt de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag elektronisch aan het hoofd van de afdeling Plaatsing ter registratie.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">Overige inlichtingen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.6</nr>
+              <titel status="officieel">Overige inlichtingen</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Het hoofd verstrekt aan de directeur FZ, naast de in <intref status="actief" doc="1.0:v:BWBR0023428&amp;paragraaf=2">paragraaf 2</intref> bedoelde informatie, te allen tijde alle benodigde inlichtingen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Het hoofd verstrekt aan het Landelijk Meldpunt, naast de in <intref status="actief" doc="1.0:v:BWBR0023428&amp;paragraaf=2">paragraaf 2</intref> bedoelde informatie, te allen tijde alle benodigde inlichtingen.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">4</nr>
+            <titel status="officieel">Meldingen bij einde ongeoorloofde afwezigheid</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.7</nr>
+              <titel status="officieel">Meldingen bij einde ongeoorloofde afwezigheid</titel>
+            </kop>
+            <al>Indien de ongeoorloofd afwezige zichzelf meldt, informeert het hoofd van de inrichting waar hij zich heeft gemeld, dan wel het hoofd van de inrichting waar hij staat ingeschreven, hierover onmiddellijk telefonisch:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het Landelijk Meldpunt;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de directeur FZ; het hoofd stelt daartoe het hoofd van de afdeling Plaatsing of de piketambtenaar van de directie FZ telefonisch op de hoogte.</al>
+              </li>
+            </lijst>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in <extref status="actief" doc="1.0:v:BWBR0011756&amp;artikel=5" compleet="nee">artikel 5, tweede lid, van de beginselenwet justiti&#xEB;le jeugdinrichtingen</extref></titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Algemene bepalingen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">4.1</nr>
+              <titel status="officieel">Begripsbepalingen</titel>
+            </kop>
+            <al>Op dit hoofdstuk zijn de begripsbepalingen, bedoeld in <extref status="actief" doc="1.0:v:BWBR0011756&amp;artikel=1" compleet="nee">artikel 1 van de Beginselenwet justiti&#xEB;le jeugdinrichtingen</extref>, van toepassing.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">4.2</nr>
+              <titel status="officieel">Ontstaan ongeoorloofde afwezigheid</titel>
+            </kop>
+            <al>Ongeoorloofde afwezigheid als bedoeld in dit hoofdstuk is het gevolg van het zich onttrekken van een jeugdige aan de tenuitvoerlegging op &#xE9;&#xE9;n van de navolgende wijzen:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het zonder toestemming verlaten van de inrichting of het tot de inrichting behorende terrein;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het zonder toestemming verlaten van de instelling waarnaar de jeugdige is overgebracht op grond van <extref status="actief" doc="1.0:v:BWBR0011756&amp;artikel=12" compleet="nee">artikel 12, achtste
+lid</extref>, of <extref status="actief" doc="1.0:v:BWBR0011756&amp;artikel=48" compleet="nee">artikel 48, derde lid, van de Beginselenwet justiti&#xEB;le jeugdinrichtingen</extref>;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>het zich onttrekken aan het toezicht tijdens vervoer;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>het zich onttrekken aan het toezicht tijdens enige vorm van begeleid verlof of ander verblijf buiten de inrichting onder begeleiding;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>het zich niet tijdig op de afgesproken plaats bevinden of daar terugkeren na of tijdens enige vorm van onbegeleid verlof, deelname aan een scholings- en trainingsprogramma of ander toegestaan verblijf buiten de inrichting zonder begeleiding.</al>
+              </li>
+            </lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">4.3</nr>
+              <titel status="officieel">Verantwoordelijkheid voor de meldingen bij ongeoorloofde afwezigheid</titel>
+            </kop>
+            <al>De verantwoordelijkheid voor de in de <intref status="actief" doc="1.0:v:BWBR0023428&amp;paragraaf=2">paragrafen 2</intref> en <intref status="actief" doc="1.0:v:BWBR0023428&amp;paragraaf=3">3</intref> bedoelde meldingen en inlichtingen bij ongeoorloofde afwezigheid berust bij de directeur van de inrichting vanwaar de jeugdige zich heeft onttrokken. In de gevallen waarin de jeugdige zich met toestemming buiten de inrichting bevond op het moment van zijn onttrekking, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=4.2">artikel 4.2, onder b tot en met e</intref>, berust die verantwoordelijkheid bij de directeur van de inrichting waar de jeugdige staat ingeschreven.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">4.4</nr>
+              <titel status="officieel">Indeling ongeoorloofd afwezigen</titel>
+            </kop>
+            <al>In dit hoofdstuk worden met het oog op de te volgen meldingsprocedure de navolgende twee groepen ongeoorloofd afwezigen onderscheiden:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de groep strafrechtelijk geplaatsten omvat de jeugdigen aan wie is opgelegd:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>de maatregel van plaatsing in een inrichting voor jeugdigen;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>een vrijheidsbenemende straf of vrijheidsbenemende maatregel anders dan bedoeld onder 1&#xB0; van dit onderdeel of onder b van dit artikel, die zich hebben onttrokken aan de tenuitvoerlegging als bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=4.2">artikel 4.2, onder a tot en met d</intref>;</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;.</li.nr>
+                    <al>een vrijheidsbenemende straf of vrijheidsbenemende maatregel anders dan bedoeld onder 1&#xB0; van dit onderdeel of onder b van dit artikel, die zich hebben onttrokken aan de tenuitvoerlegging als bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=4.2">artikel 4.2, onder e</intref>.</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                           <li.nr>b.</li.nr>
+                           <al>de
+groep niet-strafrechtelijk geplaatsten omvat de
+jeugdigen:</al>
+                           <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                              <li>
+                                 <li.nr>1&#xB0;</li.nr>
+                                 <al>die
+op grond van <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=29k" compleet="nee">artikel 29k, tweede lid, van de Wet op de jeugdzorg</extref> in de
+inrichting verblijven;</al>
+                              </li>
+                              <li>
+                                 <li.nr>2&#xB0;</li.nr>
+                                 <al>in
+vreemdelingenbewaring;</al>
+                              </li>
+                              <li>
+                                 <li.nr>3&#xB0;</li.nr>
+                                 <al>met
+overige vrijheidsbenemende
+maatregelen.</al>
+                              </li>
+                           </lijst>
+                        </li>
+            </lijst>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Meldingen bij aanvang ongeoorloofde afwezigheid</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">4.5</nr>
+              <titel status="officieel">Melding bij constatering op heterdaad</titel>
+            </kop>
+            <al>Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat deze heeft plaatsgevonden, belt de directeur onmiddellijk het alarmnummer van de politie met het oog op de aanhouding van de jeugdige die zich onttrekt.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">4.6</nr>
+              <titel status="officieel">Meldingen na constatering ongeoorloofde afwezigheid strafrechtelijk geplaatsten</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De directeur meldt de ongeoorloofde afwezigheid van de strafrechtelijk geplaatste jeugdigen aan wie de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=4.4">artikel 4.4, onder a, onder 1&#xB0;</intref>, en van de strafrechtelijk geplaatste jeugdigen bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=4.4">artikel 4.4, onder a, onder 2&#xB0;</intref>, onmiddellijk na constatering ervan telefonisch aan:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>het Landelijk Meldpunt;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de sectordirecteur JJI; de directeur stelt daartoe de door de sectordirecteur aangewezen ambtenaar of piketambtenaar telefonisch op de hoogte;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de gezagdragers van de ongeoorloofd afwezige.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De directeur zendt binnen &#xE9;&#xE9;n uur na constatering van de in het eerste lid bedoelde ongeoorloofde afwezigheid het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan het Landelijk Meldpunt.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De directeur zendt zo spoedig mogelijk na de in het eerste en tweede lid bedoelde meldingen het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan de sectordirecteur JJI; de directeur zendt dit formulier daartoe aan de door de sectordirecteur aangewezen ambtenaar of piketambtenaar.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>De directeur meldt de ongeoorloofde afwezigheid van de strafrechtelijk geplaatste jeugdigen bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=4.4">artikel 4.4, onder a, onder 3&#xB0;</intref>, onmiddellijk na constatering ervan telefonisch aan:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de politie in de regio waarbinnen de inrichting is gelegen;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de gezagdragers van de ongeoorloofd afwezige.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>De directeur zendt zo spoedig mogelijk na de in het vierde lid bedoelde meldingen het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de politie in de regio waarbinnen de inrichting is gelegen;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de sectordirecteur JJI; de directeur zendt dit formulier daartoe aan de door de sectordirecteur aangewezen ambtenaar of piketambtenaar;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de officier van justitie of advocaat-generaal die de ongeoorloofd afwezige vervolgt of heeft vervolgd.</al>
+                </li>
+              </lijst>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">4.7</nr>
+              <titel status="officieel">Meldingen
+na constatering ongeoorloofde afwezigheid niet-strafrechtelijk
+geplaatsten</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De directeur meldt de ongeoorloofde afwezigheid van de jeugdigen bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=4.4">artikel 4.4, onder b, onder 1&#xB0;</intref>, onmiddellijk na constatering ervan telefonisch aan de betrokken stichting
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel 1, eerste lid, van de Wet op de
+jeugdzorg</extref>.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De directeur meldt de ongeoorloofde afwezigheid van de jeugdigen bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=4.4">artikel 4.4, onder b, onder 2&#xB0; en 3&#xB0;</intref>, onmiddellijk na constatering ervan telefonisch aan:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de politie in de regio waarbinnen zijn inrichting is gelegen;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de gezagdragers van de ongeoorloofd afwezige.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De directeur meldt de ongeoorloofde afwezigheid van de jeugdigen bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=4.4">artikel 4.4, onder b</intref>, zo spoedig mogelijk na constatering ervan aan de sectordirecteur JJI; de directeur stelt daartoe de door de sectordirecteur aangewezen ambtenaar of piketambtenaar per elektronische post of per fax op de hoogte.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">Overige inlichtingen en registratie</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">4.8</nr>
+              <titel status="officieel">Overige inlichtingen</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De directeur verstrekt aan de sectordirecteur JJI, naast de in <intref status="actief" doc="1.0:v:BWBR0023428&amp;paragraaf=2">paragraaf 2</intref> bedoelde informatie, te allen tijde alle benodigde inlichtingen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De directeur verstrekt aan het Landelijk Meldpunt dan wel de regiopolitie, naast de in <intref status="actief" doc="1.0:v:BWBR0023428&amp;paragraaf=2">paragraaf 2</intref> bedoelde informatie, te allen tijde alle benodigde inlichtingen.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">4.9</nr>
+              <titel status="officieel">Registratie</titel>
+            </kop>
+            <al>De directeur registreert de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag in het registratiesysteem van de sector JJI.</al>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">4</nr>
+            <titel status="officieel">Meldingen bij einde ongeoorloofde afwezigheid</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">4.10</nr>
+              <titel status="officieel">Meldingen bij einde ongeoorloofde afwezigheid</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Indien de ongeoorloofd afwezige jeugdige aan wie de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=4.4">artikel 4.4, onder a, onder 1&#xB0;</intref>, of de ongeoorloofd afwezige jeugdige bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=4.4">artikel 4.4, onder a, onder 2&#xB0;</intref>, zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>het Landelijk Meldpunt, onmiddellijk telefonisch;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de sectordirecteur JJI; de directeur stelt daartoe de door de sectordirecteur aangewezen ambtenaar of piketambtenaar uiterlijk de eerstvolgende werkdag per elektronische post of per fax op de hoogte;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de gezagdragers van de jeugdige.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Indien de ongeoorloofd afwezige jeugdige bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=4.4">artikel 4.4, onder a, onder 3&#xB0;</intref>, zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de politie in de regio waarbinnen de inrichting is gelegen, zo spoedig mogelijk per elektronische post of per fax;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de sectordirecteur JJI; de directeur stelt daartoe de door de sectordirecteur aangewezen ambtenaar of piketambtenaar zo spoedig mogelijk per elektronische post of per fax op de hoogte;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de officier van justitie of advocaat-generaal die de ongeoorloofd afwezige vervolgt of heeft vervolgd, zo spoedig mogelijk per elektronische post of per fax;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>de gezagdragers van de jeugdige.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Indien de ongeoorloofd afwezige jeugdige bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=4.4">artikel 4.4, onder b, onder 1&#xB0;</intref>, zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover zo spoedig mogelijk:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de sectordirecteur JJI; de directeur stelt daartoe de door de sectordirecteur aangewezen ambtenaar of piketambtenaar per elektronische post of per fax op de hoogte;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de betrokken stichting als bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel 1,
+eerste lid, van de Wet op de
+jeugdzorg</extref>.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Indien de ongeoorloofd afwezige jeugdige bedoeld in <intref status="actief" doc="1.0:v:BWBR0023428&amp;artikel=4.4">artikel 4.4, onder b, onder 2&#xB0; en 3&#xB0;</intref>, zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de politie in de regio waarbinnen de inrichting is gelegen, zo spoedig mogelijk per elektronische post of per fax;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de sectordirecteur JJI; de directeur stelt daartoe de door de sectordirecteur aangewezen ambtenaar of piketambtenaar zo spoedig mogelijk per elektronische post of per fax op de hoogte;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de gezagdragers van de jeugdige.</al>
+                </li>
+              </lijst>
+            </lid>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Inwerkingtreding en citeertitel</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5.1</nr>
+            <titel status="officieel">Inwerkingtreding</titel>
+          </kop>
+          <al>Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5.2</nr>
+            <titel status="officieel">Citeertitel</titel>
+          </kop>
+          <al>Deze regeling wordt aangehaald als: Regeling melding ongeoorloofde afwezigheid.</al>
+        </artikel>
+      </hoofdstuk>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <ondertekening>De <functie>Staatssecretaris</functie> van <organisatie afkorting="JUS">Justitie</organisatie>,
+        <naam>
+          <voornaam>N.</voornaam>
+          <achternaam>Albayrak</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

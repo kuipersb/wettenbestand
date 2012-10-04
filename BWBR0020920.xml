@@ -1,0 +1,2211 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0020920" dtdversie="2.0" id="367769" soort="zbo">
+  
+  <intitule>Regeling bepalingen GGZ-prestaties 2007</intitule>
+  
+  <circulaire>
+    <circulaire.aanhef>
+      <context>
+        <context.al>De Nederlandse Zorgautoriteit (NZa),</context.al>
+        <context.al>Gelet op <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=37" compleet="nee">artikelen 37</extref> en <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=38" compleet="nee">38 van de Wet marktordening gezondheidszorg</extref> (Wmg);</context.al>
+        <context.al>Heeft de volgende regeling vastgesteld:</context.al>
+      </context>
+    </circulaire.aanhef>
+    <circulaire-tekst>
+      <circulaire.divisie opmaak="default" status="goed">
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Algemeen</titel>
+          </kop>
+          <al>a. Deze regeling is van toepassing op zorg of dienst als omschreven bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0002614" compleet="nee">AWBZ</extref> of de <extref status="actief" doc="1.0:v:BWBR0018450" compleet="nee">Zvw</extref> en wordt geleverd door ziekenhuizen (voor zover het de psychiatrische afdelingen betreft), zorgaanbieders die zijn toegelaten voor zorg aan verzekerden met een psychiatrische aandoening of zorgaanbieders van wie de zorgverlening is gericht op verzekerden met een psychiatrische aandoening.</al>
+          <al>b. Het in deze regeling bepaalde is op grond van <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=44" compleet="nee">artikel 44 Wmg</extref> mede van toepassing ten aanzien van degene die voor een zorgaanbieder een administratie voert alsmede ten aanzien van degene die een administratie voert ten behoeve van of in verband met het aanbieden, overeenkomen, leveren, in rekening brengen, betalen of vergoeden aan derden van een prestatie of een tarief of het ontvangen van een betaling.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Definitie GGZ-aanbieder</titel>
+          </kop>
+          <al>Een op basis van de <extref status="actief" doc="1.0:v:BWBR0018906" compleet="nee">WTZi</extref> toegelaten zorgaanbieder, waarbij de zorgverlening voornamelijk gericht is op verzekerden met een psychiatrische aandoening.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">Doel</titel>
+          </kop>
+          <al>Het doel van deze regeling is dat gegevens beschikbaar komen met het oog op de overheveling in 2008 van de op genezing gerichte geestelijke gezondheidszorg van <extref status="actief" doc="1.0:v:BWBR0002614" compleet="nee">AWBZ</extref> naar <extref status="actief" doc="1.0:v:BWBR0018450" compleet="nee">Zorgverzekeringswet</extref>. Vanaf 1 januari 2008 worden zorgverzekeraars en zorgaanbieders die geestelijke gezondheidszorg leveren contractpartners. Vanaf dat moment zenden zorgaanbieders rekeningen voor de geleverde zorg aan de zorgverzekeraars op basis van Diagnose Behandeling Combinaties (DBC&#x2019;s) ter financiering van het budget van de onder <intref status="actief" doc="1.0:v:BWBR0020920&amp;artikel=1">artikel 1.a</intref> genoemde zorgaanbieder. Voor het inzicht van de zorgverzekeraars in de mate waarin verzekerden gebruik maken van geestelijke gezondheidszorg die onder de <extref status="actief" doc="1.0:v:BWBR0018450" compleet="nee">Zorgverzekeringswet</extref> valt en voor de verdere ontwikkeling van het model van risicoverevening is het noodzakelijk een bron van gegevens beschikbaar te hebben ten behoeve van gegevensuitwisseling tussen zorgverzekeraars en zorgaanbieders in 2007. De levering van gegevens is verplicht voor alle zorgaanbieders die geestelijke gezondheidszorg leveren.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+            <titel status="officieel">Door GGZ-instellingen aan te leveren gegevens</titel>
+          </kop>
+          <al>Onderstaande door de zorgaanbieders aan te leveren basisgegevens worden maandelijks via de bestaande Zorgissystematiek, conform de specificaties in het Beheersreglement Landelijke Registraties GGZ en de daarin vastgelegde waarborgen vanuit het privacy-recht, vastgelegd. Dit document is ter inzage beschikbaar via GGZ Nederland. Vanuit deze bron van gegevens kunnen binnen de daar op volgend toe te passen privacy-waarborgen gegevens worden verstrekt ten behoeve van zorgverzekeraars en het risicovereveningsmodel.</al>
+          <tussenkop>4.1 Cli&#xEB;ntgegevens</tussenkop>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>Versleuteld cli&#xEB;ntnummer conform Zorgis</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>Leeftijdsklasse van de cli&#xEB;nt (0-9 jaar/10-19 jaar/&#x2026;../&#x2026;/80-89 jaar/90 jaar en ouder)</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>Geslacht van de cli&#xEB;nt</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>Verzekeraarscode</al>
+            </li>
+          </lijst>
+          <tussenkop>4.2 Indicatiegegevens</tussenkop>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al> Soort verwijzer</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>Diagnose in DSM-IV</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>As 1: hoofddiagnose</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>As 2: hoofddiagnose</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>Maand start zorg</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>Maand start opname</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>Maand einde zorg</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>Reden afmelding</al>
+            </li>
+          </lijst>
+          <tussenkop>4.3 Prestatie- en kostengegevens</tussenkop>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>Nummer zorgaanbieder</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>Tariefcode NZa 2007</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>Omvang tariefcode (aantal eenheden)</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+            <titel status="officieel">Overzicht van bekostigingsbedragen en toerekening naar <extref status="actief" doc="1.0:v:BWBR0018450" compleet="nee">ZVW</extref>/<extref status="actief" doc="1.0:v:BWBR0002614" compleet="nee">AWBZ</extref></titel>
+          </kop>
+          <al>Onderstaand overzicht wordt gebruikt voor de vertaling naar de geleverde zorg in kosten en voor de vaststelling van de zorg/kosten die wordt overgeheveld naar de <extref status="actief" doc="1.0:v:BWBR0018450" compleet="nee">Zorgverzekeringswet</extref>. De verwijzing naar <extref status="actief" doc="1.0:v:BWBR0018450" compleet="nee">zvw</extref>/<extref status="actief" doc="1.0:v:BWBR0002614" compleet="nee">awbz</extref> is globaal van aard en voor statistische doeleinden.</al>
+          <table frame="topbot" tabstyle="stcrt2">
+            <tgroup align="left" char="" charoff="50" cols="4" tgroupstyle="stcrt2">
+              <colspec colname="col1" colnum="1" colwidth="58*"/>
+              <colspec colname="col2" colnum="2" colwidth="15*"/>
+              <colspec colname="col3" colnum="3" colwidth="15*"/>
+              <colspec colname="col4" colnum="4" colwidth="15*"/>
+              <thead valign="bottom">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Zorgprestatie</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Code</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Bedrag</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al><extref status="actief" doc="1.0:v:BWBR0018450" compleet="nee">Zvw</extref>/<extref status="actief" doc="1.0:v:BWBR0002614" compleet="nee">awbz</extref></al>
+                  </entry>
+                </row>
+              </thead>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Eerste opnamen</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Eerste opname kinder- en</al>
+                    <al>jeugdpsychiatrie</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F001</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>355,60</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Eerste opname alcohol- en drugsverslaafden</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F002</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>355,60</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Eerste opname</al>
+                    <al>volwassenen algemene</al>
+                    <al>psychiatrie</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F003</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>1.002,30</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Eerste opname</al>
+                    <al>forensische kliniek</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F004</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>2.900,00</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw
+                    <noot type="voet"><noot.nr>4)</noot.nr><noot.al>De zorgprestaties ten aanzien van de forensische psychiatrie hebben alleen betrekking op de forensische zorg zonder strafrechtelijke titel. Forensische zorg die geleverd wordt op grond van een strafrechtelijke titel is op 1 januari 2007 overgeheveld naar de begroting van het Ministerie van Justitie.</noot.al></noot></al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Eerste opname</al>
+                    <al>forensische afdeling</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F005</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>1.401,70</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw
+                    <noot type="voet"><noot.nr>4)</noot.nr><noot.al>De zorgprestaties ten aanzien van de forensische psychiatrie hebben alleen betrekking op de forensische zorg zonder strafrechtelijke titel. Forensische zorg die geleverd wordt op grond van een strafrechtelijke titel is op 1 januari 2007 overgeheveld naar de begroting van het Ministerie van Justitie.</noot.al></noot></al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Face-to-face-contacten m.b.t. volwassenen</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Nieuwe inschrijving</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F101</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>21,60</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Intakecontact</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F102</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>207,40</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Psychodiagnostisch/</al>
+                    <al>neuropsychologisch</al>
+                    <al>onderzoek</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F103</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>430,60</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Psychotherapiecontact</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F104</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>105,20</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Groepscontact</al>
+                    <al>psychotherapie</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F105</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>70,80</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Behandeling/</al>
+                    <al>begeleidingscontact</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F106</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>89,20</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Groepscontact</al>
+                    <al>behandeling/</al>
+                    <al>begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F107</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>61,50</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Crisiscontact binnen</al>
+                    <al>kantooruren</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F108</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>214,80</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Crisiscontact buiten</al>
+                    <al>kantooruren</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F109</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>803,40</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Toeslag contact buiten</al>
+                    <al>de instelling</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F110</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>32,70</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Face-to-face-contacten m.b.t. ouderen</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Nieuwe inschrijving</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F131</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>21,60</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Intakecontact</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F132</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>207,40</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Psychodiagnostisch/</al>
+                    <al>neuropsychologisch</al>
+                    <al>onderzoek</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F133</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>430,60</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Psychotherapiecontact</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F134</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>105,20</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Groepscontact</al>
+                    <al>psychotherapie</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F135</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>70,80</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Behandeling/</al>
+                    <al>begeleidingscontact</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F136</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>89,20</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Groepscontact</al>
+                    <al>behandeling/</al>
+                    <al>begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F137</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>61,50</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Crisiscontact binnen</al>
+                    <al>kantooruren</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F138</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>214,80</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Crisiscontact buiten</al>
+                    <al>kantooruren</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F139</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>803,40</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Toeslag contact buiten</al>
+                    <al>de instelling</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F140</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>32,70</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Face-to-face-contacten m.b.t. verslaafden</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Nieuwe inschrijving</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F141</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>21,60</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Intakecontact</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F142</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>207,40</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Psychodiagnostisch/</al>
+                    <al>neuropsychologisch</al>
+                    <al>onderzoek</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F143</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>430,60</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Psychotherapiecontact</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F144</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>105,20</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Groepscontact</al>
+                    <al>psychotherapie</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F145</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>70,80</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Behandeling/</al>
+                    <al>begeleidingscontact</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F146</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>89,20</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Groepscontact</al>
+                    <al>behandeling/</al>
+                    <al>begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F147</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>61,50</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Crisiscontact binnen</al>
+                    <al>kantooruren</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F148</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>214,80</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Crisiscontact buiten</al>
+                    <al>kantooruren</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F149</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>803,40</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Toeslag contact buiten</al>
+                    <al>de instelling</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F150</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>32,70</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Face-to-face-contacten m.b.t. kinderen/jeugd</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Nieuwe inschrijving</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F151</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>21,80</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Intakecontact</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F152</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>166,70</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Orthodidactisch/</al>
+                    <al>psychodiagnostisch</al>
+                    <al>onderzoek</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F153</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>455,60</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Psychotherapiecontact</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F154</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>157,80</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Groepscontact</al>
+                    <al>psychotherapie</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F155</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>101,30</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Behandeling/</al>
+                    <al>begeleidingscontact</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F156</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>95,00</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Groepscontact</al>
+                    <al>behandeling/</al>
+                    <al>begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F157</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>65,50</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Crisiscontact binnen</al>
+                    <al>kantooruren</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F158</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>217,30</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Crisiscontact buiten</al>
+                    <al>kantooruren</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F159</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>813,30</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Toeslag contact buiten</al>
+                    <al>de instelling</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F160</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>31,30</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Face-to-face-contacten m.b.t. forensische psychiatrie<sup>4)</sup>
+                    </al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Nieuwe inschrijving</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F201</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>21,60</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Intakecontact</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F202</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>396,60</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Psychotherapiecontact</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F204</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>208,80</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Groepscontact</al>
+                    <al>psychotherapie</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F205</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>123,10</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Behandeling/</al>
+                    <al>begeleidingscontact</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F206</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>113,80</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Groepscontact</al>
+                    <al>behandeling/</al>
+                    <al>begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F207</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>79,90</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Toeslag contact buiten</al>
+                    <al>de instelling</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F208</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>89,70</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Telefonische behandeling/begeleidingscontacten</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Telefonisch</al>
+                    <al>behandeling/</al>
+                    <al>begeleidingscontact</al>
+                    <al>volwassenen</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F221</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>49,70</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Telefonisch</al>
+                    <al>behandeling/</al>
+                    <al>begeleidingscontact</al>
+                    <al>ouderen</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F222</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>49,70</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Telefonisch</al>
+                    <al>behandeling/</al>
+                    <al>begeleidingscontact</al>
+                    <al>verslaafden</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F223</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>49,70</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Telefonisch</al>
+                    <al>behandeling/</al>
+                    <al>begeleidingscontact</al>
+                    <al>kinderen/jeugd</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F224</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>52,60</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Telefonisch</al>
+                    <al>behandeling/</al>
+                    <al>begeleidingscontact for.</al>
+                    <al>psychiatrie<sup>4)</sup>
+                    </al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F225</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>62,00</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Psychiatrische deeltijdbehandeling</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Deeltijdbehandeling</al>
+                    <al>verslavingszorg (4-6 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F451</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>66,10</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Deeltijdbehandeling</al>
+                    <al>verslavingszorg (6-8 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F452</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>132,30</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Deeltijdbeh. met</al>
+                    <al>beperkte begeleiding</al>
+                    <al>verslavingszorg (4-6 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F453</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>78,80</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Deeltijdbeh. met</al>
+                    <al>beperkte begeleiding</al>
+                    <al>verslavingszorg (6-8 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F454</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>157,70</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Deeltijdbehandeling k/j</al>
+                    <al>opname en observatie</al>
+                    <al>(4-6 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F461</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>123,50</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Deeltijdbehandeling k/j</al>
+                    <al>opname en observatie</al>
+                    <al>(6-8 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F462</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>246,90</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Deeltijdbeh. k/j</al>
+                    <al>algemeen en gezin met</al>
+                    <al>geringe beg. (4-6 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F463</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>92,20</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Deeltijdbeh. k/j</al>
+                    <al>algemeen en gezin met</al>
+                    <al>geringe beg. (6-8 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F464</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>184,40</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Deeltijdbeh. k/j</al>
+                    <al>algemeen en gezin met</al>
+                    <al>beg. op afstand (4-6 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F465</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>103,70</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Deeltijdbeh. k/j</al>
+                    <al>algemeen en gezin met</al>
+                    <al>beg. op afstand (6-8 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F466</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>207,40</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Structurerende</al>
+                    <al>deeltijdbehandeling</al>
+                    <al>volwassenen (4-6 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F471</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>66,50</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Structurerende</al>
+                    <al>deeltijdbehandeling</al>
+                    <al>volwassenen (6-8 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F472</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>133,10</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Structurerende</al>
+                    <al>deeltijdbeh. volw. met</al>
+                    <al>beperkte beg. (4-6 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F473</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>80,80</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Structurerende</al>
+                    <al>deeltijdbeh. volw. met</al>
+                    <al>beperkte beg. (6-8 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F474</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>161,70</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Psychotherapeutische</al>
+                    <al>deeltijdbehandeling</al>
+                    <al>volw. (4-6 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F475</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>73,70</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Psychotherapeutische</al>
+                    <al>deeltijdbehandeling</al>
+                    <al>volw. (6-8 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F476</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>147,50</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Psychotherapeutische</al>
+                    <al>deeltijd met beperkte</al>
+                    <al>beg. volw. (4-6 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F477</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>89,70</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Psychotherapeutische</al>
+                    <al>deeltijd met beperkte</al>
+                    <al>beg. volw. (6-8 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F478</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>179,40</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Deeltijdbehandeling</al>
+                    <al>stabilisatie</al>
+                    <al>volwassenen (4-6 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F481</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>42,60</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Deeltijdbehandeling</al>
+                    <al>stabilisatie</al>
+                    <al>volwassenen (6-8 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F482</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>85,10</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Deeltijdbehandeling</al>
+                    <al>rehabilitatie</al>
+                    <al>volwassenen (4-6 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F483</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>55,00</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Deeltijdbehandeling</al>
+                    <al>rehabilitatie</al>
+                    <al>volwassenen (6-8 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F484</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>109,90</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Forensische</al>
+                    <al>deeltijdbehandeling (6-</al>
+                    <al>8 uur)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F491</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>195,00</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw4</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Verpleegdagen voor alcohol en/of drugsverslaafden</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Groepsgewijze</al>
+                    <al>behandeling met</al>
+                    <al>beperkte begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>A.1.1</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>144,80</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/ na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Groepsgewijze</al>
+                    <al>behandeling met</al>
+                    <al>volledige begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>A.1.2</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>161,80</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/ na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Individuele</al>
+                    <al>behandeling met</al>
+                    <al>beperkte begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>A.1.3</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>190,50</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/ na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Individuele</al>
+                    <al>behandeling met</al>
+                    <al>volledige begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>A.1.4</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>200,90</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/ na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Behandeling met</al>
+                    <al>continue tot zeer</al>
+                    <al>intensieve bescherming</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>A.1.5</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>246,80</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/ na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Crisisinterventie</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>A.1.6</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>310,60</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/ na 1</al>
+                    <al>Jaarawbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Verpleegdagen voor kinderen en jeugdigen</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Behandeling met</al>
+                    <al>beperkte tot volledige</al>
+                    <al>begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>K.1.1</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>234,90</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/ na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Behandeling met</al>
+                    <al>continue tot zeer</al>
+                    <al>intensieve bescherming</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>K.1.2</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>296,50</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/ na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Stabilisatie met</al>
+                    <al>beperkte tot volledige</al>
+                    <al>begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>K.1.3</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>271,90</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Stabilisatie met</al>
+                    <al>continue tot zeer</al>
+                    <al>intensieve bescherming</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>K.1.4</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>334,70</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/ na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Zeer intensieve</al>
+                    <al>behandeling met</al>
+                    <al>beperkte tot volledige</al>
+                    <al>begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>K.1.5</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>334,90</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/ na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Zeer intensieve</al>
+                    <al>behandeling met</al>
+                    <al>continue tot zeer</al>
+                    <al>intensieve</al>
+                    <al>bescherming</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>K.1.6</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>410,90</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/ na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Logeerdagen</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>K.1.7</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>309,90</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Verpleegdagen voor volwassenen en ouderen</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Klinische kortdurende</al>
+                    <al>zorg met beperkte</al>
+                    <al>begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>V.1.1</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>162,00</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/ na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Klinische kortdurende</al>
+                    <al>zorg met volledige</al>
+                    <al>begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>V.1.2</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>198,00</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/ na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Klinische kortdurende</al>
+                    <al>zorg met intensieve</al>
+                    <al>begeleiding/</al>
+                    <al>bescherming</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>V.1.3</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>271,00</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/ na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Herstellingsoordfunctie</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>V.1.4</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>105,10</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/ na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Structuurbiedend met</al>
+                    <al>beperkte begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>V.2.1</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>114,90</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/ na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Structuurbiedend met</al>
+                    <al>volledige begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>V.2.2</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>177,50</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/ na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Veranderingsgericht</al>
+                    <al>met beperkte</al>
+                    <al>begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>V.2.3</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>137,70</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/ na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Veranderingsgericht</al>
+                    <al>met intensieve</al>
+                    <al>begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>V.2.4</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>188,20</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/ na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Crisisbehandeling met</al>
+                    <al>intensieve begeleiding/</al>
+                    <al>bescherming</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>V.2.5</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>238,20</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/ na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Verpleegdagen voor forensische psychiatrie
+                    <noot type="voet"><noot.nr>4)</noot.nr><noot.al>De zorgprestaties ten aanzien van de forensische psychiatrie hebben alleen betrekking op de forensische zorg zonder strafrechtelijke titel. Forensische zorg die geleverd wordt op grond van een strafrechtelijke titel is op 1 januari 2007 overgeheveld naar de begroting van het Ministerie van Justitie.</noot.al></noot></al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Resocialisatie FPA</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F.1.1</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>301,30</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Behandeling FPA</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F.1.2</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>371,30</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Long stay (basis) FPK</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F.1.3</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>340,50</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Long stay (intensief)</al>
+                    <al>FPK</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F.1.4</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>452,10</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Resocialisatie FPK</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F.1.5</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>403,80</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Behandeling FPK</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F.1.6</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>479,10</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Verpleegdagen voor klinisch intensieve behandeling</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Klinisch intensieve</al>
+                    <al>behandeling</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>KIB</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>530,50</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw/na 1</al>
+                    <al>jaar awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Verzorgingsdag voor beschermd wonen</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Structuur biedend met</al>
+                    <al>beperkte begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>VZ2.1</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>60,50</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>awbz <noot type="voet"><noot.nr>1)</noot.nr><noot.al>Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW.</noot.al></noot></al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Structuur biedend met</al>
+                    <al>volledige begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>VZ2.2</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>111,30</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>awbz <noot type="voet"><noot.nr>1)</noot.nr><noot.al>Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW.</noot.al></noot></al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Veranderingsgericht</al>
+                    <al>met beperkte</al>
+                    <al>begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>VZ2.3</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>73,00</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>awbz <noot type="voet"><noot.nr>1)</noot.nr><noot.al>Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW.</noot.al></noot></al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Veranderingsgericht</al>
+                    <al>met volledige</al>
+                    <al>begeleiding</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>VZ2.4</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>121,50</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>awbz<noot type="voet"><noot.nr>1)</noot.nr><noot.al>Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW.</noot.al></noot> </al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Jeugdigen in RIBW&#x2019;s</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>VZ2.5</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>154,60</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>awbz <noot type="voet"><noot.nr>1)</noot.nr><noot.al>Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW.</noot.al></noot></al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Overig</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Activerende</al>
+                    <al>psychiatrische thuiszorg</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F120</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>133,20</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Psychiatrische</al>
+                    <al>intensieve thuiszorg</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F121</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>133,20</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Psychiatrische</al>
+                    <al>crisisinterventie thuis</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F122</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>151,10</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Uren gespecialiseerde</al>
+                    <al>begeleiding (begeleid</al>
+                    <al>zelfstandig wonen)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F123</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>79,10</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>awbz <noot type="voet"><noot.nr>1)</noot.nr><noot.al>Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW.</noot.al></noot></al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Uren dienstverlening</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F124</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>72,70</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw <noot type="voet"><noot.nr>2)</noot.nr><noot.al>Dit betreft dienstverlening exclusief Openbare GGZ en individuele preventie. De Openbare GGZ en collectieve preventie zijn per 1 januari 2007 overgeheveld naar de Wet Maatschappelijke Opvang.</noot.al></noot></al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Uren individuele</al>
+                    <al>preventie</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F128</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>72,70</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw <noot type="voet"><noot.nr>2)</noot.nr><noot.al>Dit betreft dienstverlening exclusief Openbare GGZ en individuele preventie. De Openbare GGZ en collectieve preventie zijn per 1 januari 2007 overgeheveld naar de Wet Maatschappelijke Opvang.</noot.al></noot></al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Cli&#xEB;nturen</al>
+                    <al>dagactiviteiten</al>
+                    <al>(educatief, recreatief en arbeidsmatig)</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F125</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>9,20</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>awbz <noot type="voet"><noot.nr>1)</noot.nr><noot.al>Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW.</noot.al></noot></al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Vervoer dagactiviteiten /deeltijdbehandelingen</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F126</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>15,10</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>awbz <noot type="voet"><noot.nr>1)</noot.nr><noot.al>Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW.</noot.al></noot>
+                    </al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Uren aanbod</al>
+                    <al>inloopfunctie</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F129</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>61,20</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>awbz</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Cli&#xEB;nten in</al>
+                    <al>zorgco&#xF6;rdinatie op de</al>
+                    <al>1e dag van de maand</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F130</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>137,20</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Cli&#xEB;nten</al>
+                    <al>methadonverstrekking</al>
+                    <al>op de 1e dag v.d.</al>
+                    <al>maand</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>F127</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>90,70</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Kosten</al>
+                    <al>zorgvernieuwingsprojecten<noot type="voet"><noot.nr>3)</noot.nr><noot.al>Ten behoeve van de productiecontrole heeft het zorgkantoor inzicht nodig in de hoogte van het bedrag dat omgaat in zorgvernieuwing. In verband daarmee zijn de kosten van zorgvernieuwingsprojecten opgenomen in de lijst van de te verstrekken gegevens.</noot.al></noot></al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>KZP</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zvw <noot type="voet"><noot.nr>3)</noot.nr><noot.al>Ten behoeve van de productiecontrole heeft het zorgkantoor inzicht nodig in de hoogte van het bedrag dat omgaat in zorgvernieuwing. In verband daarmee zijn de kosten van zorgvernieuwingsprojecten opgenomen in de lijst van de te verstrekken gegevens.</noot.al></noot></al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+            
+          </table>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+            <titel status="officieel">Slotbepaling</titel>
+          </kop>
+          <al>De regeling kan worden aangehaald als &#x2018;Regeling bepalingen GGZ-prestaties 2007&#x2019;.</al>
+        </artikel>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <tekst status="goed">
+          <al>Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.</al>
+          <al>Met de inwerkingtreding van deze Regeling wordt de Regeling GG/NR-100.033 be&#xEB;indigd.</al>
+        </tekst>
+      </circulaire.divisie>
+    </circulaire-tekst>
+  </circulaire>
+</wetgeving>
+  	

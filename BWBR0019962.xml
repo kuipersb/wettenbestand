@@ -1,0 +1,757 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0019962" dtdversie="2.0" id="361679" soort="zbo">
+  
+  <intitule>Archiefbeheersregeling voor het college voor de toelating van bestrijdingsmiddelen 2006</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>Het College voor de toelating van bestrijdingsmiddelen,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0007748&amp;artikel=14" compleet="nee">artikel 14 van het Archiefbesluit</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">I</nr>
+          <titel status="officieel">Begrippenkader</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Begripsbepalingen</titel>
+          </kop>
+          <al>In deze regeling en de daarop berustende bepalingen wordt verstaan onder:</al>
+          <al>Archief:</al>
+          <al>Het totaal van de in systematisch verband opgeslagen archiefbescheiden binnen de organisatie.</al>
+          <al>Archiefbescheiden:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>bescheiden, ongeacht hun vorm, door het CTB ontvangen of opgemaakt en naar hun aard bestemd daaronder te berusten;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>bescheiden, ongeacht hun vorm, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen, wier rechten of functies op het CTB zijn overgegaan;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>reproducties, ongeacht hun vorm, die bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0007376" compleet="nee">Archiefwet 1995</extref> in de plaats zijn gesteld van de onder a) en b) bedoelde archiefbescheiden.</al>
+            </li>
+          </lijst>
+          <al>Archiefbestanddeel:</al>
+          <al>Deel van het archief dat vanwege het logische verband fysiek een eenheid vormt.</al>
+          <al>Archiefbewaarplaats (Rijksarchiefbewaarplaats):</al>
+          <al>Ruimte waarheen archiefbescheiden (van Rijksoverheidsorganen) ter blijvende bewaring zijn overgebracht en die voldoet aan de eisen als gesteld in de <extref status="actief" doc="1.0:v:BWBR0012803" compleet="nee">Regeling bouw en inrichting van archiefruimten en archiefbewaarplaatsen</extref>.</al>
+          <al>Archiefruimte:</al>
+          <al>Ruimte binnen de organisatie waarin blijvend te bewaren archiefbescheiden worden opgeslagen tot het moment van overbrenging naar een archiefbewaarplaats en die voldoet aan de eisen als gesteld in de <extref status="actief" doc="1.0:v:BWBR0012803" compleet="nee">Regeling bouw en inrichting van archiefruimten en archiefbewaarplaatsen</extref>.</al>
+          <al>Authenticiteit:</al>
+          <al>Het behoud van de inhoud, vorm en structuur van archiefbescheiden in hun oorspronkelijke gedaante, dat wil zeggen de gedaante die ze bij hun ontstaan hadden.</al>
+          <al>Basisselectiedocument (BSD):</al>
+          <al>Selectielijst (zie onder &#x2018;Selectielijst&#x2019;) als bedoeld in <extref status="actief" doc="1.0:v:BWBR0007376&amp;artikel=7" compleet="nee">artikel 5 van de Archiefwet 1995</extref>.</al>
+          <al>Beheer:</al>
+          <al>Het in opdracht van de zorgdrager (doen) uitvoeren van de feitelijke werkzaamheden die tot doel hebben de archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te houden.</al>
+          <al>Beheerder:</al>
+          <al>Degene die belast is met het beheer van het archief.</al>
+          <al>Bestand:</al>
+          <al>Een geheel van gegevens in eenzelfde opslagformaat.</al>
+          <al>Besturingsprogramma:</al>
+          <al>De programmatuur die bestemd is ter besturing van een informatiesysteem.</al>
+          <al>Conversie:</al>
+          <al>Het om- of overzetten van gegevens in een ander opslagformaat.</al>
+          <al>Documentaire informatievoorziening:</al>
+          <al>Het cre&#xEB;ren, identificeren, verzamelen, vastleggen, ontsluiten en opslaan van archiefbescheiden, met als doel het ter beschikking stellen van die documenten of de daarin opgeslagen informatie.</al>
+          <al>Documentair structuurplan (DSP):</al>
+          <al>Een (ordenings)plan waarin is vastgelegd de wijze waarop de toegankelijkheid van archiefbescheiden is georganiseerd en de wijze waarop archiefbescheiden zijn ingedeeld en gerangschikt (<extref status="actief" doc="1.0:v:BWBR0013439&amp;artikel=1" compleet="nee">art. 1, Regeling geordende en toegankelijke staat archiefbescheiden</extref>).</al>
+          <al>Dossier:</al>
+          <al>Map met archiefbescheiden gevormd bij de behandeling van een zaak.</al>
+          <al>Duurzaamheid:</al>
+          <al>Het zodanig opslaan en bewaren van archiefbescheiden dat na ten minste honderd jaar geen noemenswaardige achteruitgang in kwaliteit zal zijn te constateren.</al>
+          <al>Dynamische fase:</al>
+          <al>De dynamische fase is de periode waarin dossiers regelmatig worden geraadpleegd of om andere redenen onder handbereik moeten zijn.</al>
+          <al>Formeel documenten:</al>
+          <al>Archiefbescheiden die bij ontvangst of verzending worden geregistreerd in een postregistratiesysteem omdat zij voldoen aan de registratiecriteria.</al>
+          <al>Informatiedrager:</al>
+          <al>Het medium waarmee informatie kan worden overgebracht en opgeslagen, bijvoorbeeld papier, elektromagnetische of optische media.</al>
+          <al>Migratie:</al>
+          <al>Het overzetten van gegevens naar een ander platform.</al>
+          <al>Opslagformaat:</al>
+          <al>De code waarin digitale archiefbescheiden op een gegevensdrager zijn opgeslagen.</al>
+          <al>Overbrenging:</al>
+          <al>Het door het CTB overbrengen naar een archiefbewaarplaats van afgesloten archieven die voor permanente bewaring in aanmerking komen en ouder zijn dan twintig jaar.</al>
+          <al>Overdracht:</al>
+          <al>Het in beheer overdragen van archiefbescheiden aan een ander organisatieonderdeel van het CTB (bijvoorbeeld van het dynamisch naar het semi-statisch archief).</al>
+          <al>Platform:</al>
+          <al>Geheel van apparatuur en besturingsprogrammatuur waarop de toepassingsprogrammatuur werkt.</al>
+          <al>Selectielijst:</al>
+          <al>Wettelijk voorgeschreven instrument, met een geldigheid van ten hoogste twintig jaar, ten behoeve van de selectie van archieven in blijvend te bewaren en op termijn te vernietigen archiefbescheiden.</al>
+          <al>Semi-statische fase:</al>
+          <al>Fase in het archiefbeheer waarbij dossiers met archiefbescheiden zijn afgesloten, maar nog wel kunnen worden geraadpleegd, in afwachting van vernietiging of overbrenging naar een archiefbewaarplaats.</al>
+          <al>Toepassingsprogrammatuur:</al>
+          <al>De programmatuur die bestemd is ter ondersteuning van de uitvoering van een werkproces.</al>
+          <al>Toezicht:</al>
+          <al>Het vaststellen of de geldende regelgeving al dan niet wordt nageleefd. Voor Rijksoverheidsorganen wordt toezicht uitgeoefend door de Erfgoedinspectie (voorheen: Rijksarchiefinspectie).</al>
+          <al>Vervanging:</al>
+          <al>Het vervangen van archiefbescheiden door reproducties, op gelijke of andere informatiedragers, die bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0007376&amp;artikel=7" compleet="nee">Archiefwet 1995, artikel 7</extref>, in de plaats kunnen worden gesteld van de originele archiefbescheiden.</al>
+          <al>Vervreemding:</al>
+          <al>Het in eigendom overdragen van archiefbescheiden aan een andere rechtspersoon dan het CTB (<extref status="actief" doc="1.0:v:BWBR0007376&amp;artikel=8" compleet="nee">Archiefwet 1995, artikel 8</extref>).</al>
+          <al>Zorg:</al>
+          <al>De verantwoordelijkheid voor het naleven van de in de <extref status="actief" doc="1.0:v:BWBR0007376" compleet="nee">Archiefwet 1995</extref> opgenomen verplichting de onder de zorgdrager berustende archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te bewaren, alsmede de daarvoor in aanmerking komende archiefbescheiden te vernietigen (cf. <extref status="actief" doc="1.0:v:BWBR0007376&amp;artikel=3" compleet="nee">Archiefwet 1995, artikel 3</extref>).</al>
+          <al>Zorgdrager:</al>
+          <al>Degene die bij of krachtens <extref status="actief" doc="1.0:v:BWBR0007376&amp;artikel=3" compleet="nee">artikel 3 van de Archiefwet 1995</extref> is belast met de zorg voor de archieven.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">II</nr>
+          <titel status="officieel">Reikwijdte</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Reikwijdte van de beheersregeling</titel>
+          </kop>
+          <al>Deze beheersregeling is van toepassing op het beheer van archiefbescheiden van het CTB.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">III</nr>
+          <titel status="officieel">Verantwoordelijkheden en taken</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">Verantwoordelijkheden en bevoegdheden</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het CTB is de zorgdrager in de zin van <extref status="actief" doc="1.0:v:BWBR0007376&amp;artikel=1" compleet="nee">artikel 1 van de Archiefwet 1995</extref> voor de archiefbescheiden van het College en is belast met de zorg om deze archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te bewaren.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het CTB stelt aanvullende regelingen en algemene voorschriften op het gebied van de documentaire informatievoorziening vast.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Het CTB is eindverantwoordelijk voor de zorg voor de documentaire informatievoorziening. Het is verantwoordelijk voor de aanwezigheid van voldoende middelen voor het archiefbeheer, zoals (de opleiding van) deskundig personeel, de aanwezigheid van voldoende financi&#xEB;le middelen en van voldoende, goed geoutilleerde archiefruimten.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Voor het verrichten van de werkzaamheden en het dagelijks toezicht op het archief wijst het CTB de directeur als beheerder aan.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De beheerder is belast met de voorbereiding en het onderhoud van regelingen en algemene voorschriften op het terrein van de documentaire informatievoorziening.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>De beheerder verricht adviserende en co&#xF6;rdinerende taken waarmee de effectiviteit en effici&#xEB;ntie van de documentaire informatievoorziening zijn gediend.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>De beheerder is verantwoordelijk voor het onderhouden en actualiseren van de selectielijst.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">8</lidnr>
+            <al>De beheerder draagt de dagelijkse uitvoering van de documentaire informatievoorziening op aan het hoofd Algemene Zaken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">9</lidnr>
+            <al>De beheerder draagt de behandeling van verzoeken om informatieverstrekking op aan het hoofd Bestuurlijke en Juridische Zaken volgens het mandaatbesluit.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">IV</nr>
+          <titel status="officieel">Documentbehandeling</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+            <titel status="officieel">Documentregistratie</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Archiefbescheiden worden direct na ontvangst of voor verzending zodanig geregistreerd dat aan de wettelijke eisen wordt voldaan.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Hiertoe worden van de archiefbescheiden ten minste de onderstaande kenmerken geregistreerd:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>uniek registratienummer;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>afzender of geadresseerde;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>door afzender of behandelaar gegeven datum en nummer;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>datum van binnenkomst;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>onderwerp;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>afdoeningstermijn;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>behandelend medewerker;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>dossiernummer (van dossier waarin document wordt ingevoegd);</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>werkprocesnummer uit het basisselectiedocument (BSD) van het college;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>relatie met andere documenten.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Door de beheerder kunnen documenten van gering belang van registratie worden uitgezonderd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Elektronische post die voor registratie in aanmerking komt, wordt afgedrukt en voorzien van de registratiecode in het dossier gevoegd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Voor registratie in aanmerking komende ingekomen archiefbescheiden mogen niet in behandeling worden genomen alvorens zij zijn geregistreerd.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+            <titel status="officieel">Voortgang en afdoening</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Onmiddellijk na ontvangst van een formeel document, zendt het CTB de afzender daarvan een ontvangstbevestiging, overeenkomstig de intern vastgestelde postprocedure.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het hoofd van de afdeling waarvoor het document bestemd is, is verantwoordelijk voor het afdoen ervan binnen redelijke termijn, en in voorkomende gevallen binnen de wettelijk gestelde termijn.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De afdoeningstermijn wordt vastgelegd in het registratiesysteem, zoals vastgelegd in de interne postprocedure.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Indien een binnengekomen stuk niet binnen de gestelde termijn kan worden beantwoord, dient de afzender daarvan in kennis te worden gesteld door middel van een behandelingsbericht, waarin eventueel een nieuwe afdoeningstermijn wordt genoemd.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">V</nr>
+          <titel status="officieel">Archiefbeheer</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+            <titel status="officieel">Dossiervorming en archiefordening</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Alle ontvangen archiefbescheiden worden direct na ontvangst door de betreffende verantwoordelijk functionaris gearchiveerd. Er wordt een nieuw dossier aangemaakt of het stuk wordt in het reeds bestaande en geregistreerde dossier opgeborgen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Van elk te verzenden document en elk relevant intern document wordt een kopie gemaakt ter archivering in het dossier.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Bij dossiervorming wordt rekening gehouden met de in de selectielijst opgenomen criteria voor te bewaren en te vernietigen archiefbescheiden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Dossiervorming en archiefordening geschieden volgens het geldende documentair structuurplan, waarin de archiefbescheiden van het CTB worden gekoppeld aan de werkprocessen zoals geformuleerd in de selectielijst.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Bij de dossiervorming wordt waar mogelijk gebruikgemaakt van standaard dossieromschrijvingen, zoals opgenomen in het documentair structuurplan.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>De materi&#xEB;le verzorging van permanent te bewaren archiefbescheiden geschiedt overeenkomstig de daarvoor geldende eisen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+            <titel status="officieel">Dossierontsluiting</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Van de dossiers worden ten minste de volgende gegevens geregistreerd in een geautomatiseerd gegevensbeheersysteem:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>uniek dossiernummer;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>organisatieonderdeel dat het dossier vormt;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>dossieromschrijving;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>looptijd van het dossier;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>indicatie bewaren of vernietigen met het eventuele vernietigingsjaar;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>werkprocesnummer uit het basisselectiedocument (BSD) van het CTB;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>verblijfplaats (indien noodzakelijk).</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien wenselijk wordt het ontsluiten van de inhoud van de archiefbescheiden zodanig verricht dat het gebruik van deze gegevens in combinatie met andere informatiebronnen van het CTB mogelijk is.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+            <titel status="officieel">Selectie</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De selectie van archiefbescheiden vindt uitsluitend plaats aan de hand van de vastgestelde selectielijst.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Bij het ontwerpen en het onderhouden van de selectielijst moet rekening worden gehouden met:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>de taak van het CTB;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>de verhouding van het college tot andere overheidsorganen;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>de waarde van de archiefbescheiden als bestanddeel van het cultureel erfgoed;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>het belang van de in de archiefbescheiden voorkomende gegevens voor overheidsorganen, voor recht- of bewijszoekenden en voor historisch onderzoek.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Bij de totstandkoming of actualisatie van de selectielijst dient de daartoe vastgestelde wettelijke procedure te worden gevolgd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Op de selectielijst is aangegeven voor welke periode zij geldig is. De selectielijst is echter nooit langer dan twintig jaar geldig.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Door de beheerder wordt jaarlijks gecontroleerd of de selectielijst onderhoud behoeft. <noot type="voet"><noot.nr>*</noot.nr><noot.al>De selectielijst dient onderhouden te
+worden, dat wil zeggen dat, indien zij
+door taakveranderingen van het CTB
+niet meer aansluit bij de taken van dit
+overheidsorgaan, aanpassingen doorgevoerd
+dienen te worden.</noot.al></noot> Indien noodzakelijk actualiseert hij de selectielijst. Een gewijzigde selectielijst moet opnieuw worden vastgesteld volgens de daartoe vastgestelde wettelijke procedure.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+            <titel status="officieel">Duurzaamheid</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De beheerder treft zodanige voorzieningen ten aanzien van de door het CTB opgemaakte archiefbescheiden die voor permanente bewaring in aanmerking komen, dat bij het raadplegen van die archiefbescheiden na ten minste honderd jaar geen noemenswaardige achteruitgang zal zijn te constateren.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Voor permanente bewaring in aanmerking komende archiefbescheiden in reeds afgesloten dossiers worden bewaard in speciaal daarvoor bestemde archiefruimten.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Het CTB zorgt voor archiefruimten die zo zijn ingericht dat de zich daarin bevindende archiefbescheiden in geval van een calamiteit zo min mogelijk gevaar lopen. De archiefruimten zijn op toereikende wijze beveiligd tegen brand, inbraak en wateroverlast.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Bij de (ver)bouw van archiefruimten wordt een technisch plan van archiefwettelijke eisen gehanteerd.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">VI</nr>
+          <titel status="officieel">Digitale archiefbescheiden</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+            <titel status="officieel">Registratie</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Ten aanzien van de applicaties waarin permanent te bewaren archiefbescheiden (digitale documenten, gegevensbestanden, enz.) zijn opgeslagen, dienen ten minste de gegevens te worden vastgelegd als bedoeld in de <extref status="actief" doc="1.0:v:BWBR0013439" compleet="nee">Regeling geordende en toegankelijke staat archiefbescheiden</extref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Van de in de applicaties als bedoeld in lid 1 opgeslagen archiefbescheiden (digitale documenten, gegevensbestanden, enz.) wordt de bestandsinformatie vastgelegd als bedoeld in de <extref status="actief" doc="1.0:v:BWBR0013439" compleet="nee">Regeling geordende en toegankelijke staat archiefbescheiden</extref>.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+            <titel status="officieel">Toegankelijkheid en authenticiteit</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Van de voor permanente bewaring in aanmerking komende digitale archiefbescheiden dient de authenticiteit te worden gewaarborgd. Dit houdt in dat hun oorspronkelijke inhoud, vorm en structuur te allen tijde moeten kunnen worden vastgesteld, voorzover deze kenbaar moeten zijn voor de uitvoering van het betreffende werkproces.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De zorgdrager legt indien nodig functionele eisen vast ten aanzien van de in lid 1 bedoelde inhoud, vorm en structuur.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Voorzover nodig voor het behoud van de toegankelijkheid en de authenticiteit van de permanent te bewaren digitale archiefbescheiden, is de beheerder belast met het bewaren van de toepassingsprogrammatuur (met inbegrip van de nieuwere versies), het regelen van licenties inzake toepassingsprogrammatuur en het bewaren van de gebruiksaanwijzingen van de toepassingsprogrammatuur.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De beheerder controleert jaarlijks of de afgesloten permanent te bewaren digitale gegevensbestanden nog in goede, toegankelijke en geordende staat verkeren.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De beheerder is er verantwoordelijk voor dat bij het ontwerp van systemen waarbij digitale archiefbescheiden worden gevormd, rekening wordt gehouden met de voor die archiefbescheiden geldende bewaar- of vernietigingscriteria conform de geldende selectielijst.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">12</nr>
+            <titel status="officieel">Conversie en migratie</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Indien een gerede kans bestaat dat, als gevolg van wijziging of veroudering van besturingsprogrammatuur, toepassingprogrammatuur of apparatuur, de goede, geordende en toegankelijke staat van permanent te bewaren digitale archiefbescheiden niet langer kan worden behouden, zorgt de beheerder voor conversie dan wel migratie van de archiefbescheiden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Van de conversie of de migratie wordt een door het CTB ondertekende verklaring opgemaakt, die ten minste een specificatie van de geconverteerde of gemigreerde archiefbescheiden bevat, alsmede aangeeft op welke wijze en met welk resultaat getoetst is of de authenticiteit, de toegankelijkheid en de ordening van de archiefbescheiden kunnen worden gegarandeerd. De beheerder bewaart een exemplaar van deze verklaring.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Indien bij conversie of migratie de authenticiteit, de toegankelijkheid of de ordening van de digitale archiefbescheiden niet gewaarborgd kan worden, wordt de conversie of migratie aangemerkt als een vervanging en dient de in <intref status="actief" doc="1.0:v:BWBR0019962&amp;artikel=15">artikel 15</intref> beschreven procedure te worden gevolgd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De voorgaande leden zijn niet van toepassing indien vervanging als bedoeld in de <extref status="actief" doc="1.0:v:BWBR0007376" compleet="nee">Archiefwet 1995</extref> heeft plaatsgevonden.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">VII</nr>
+          <titel status="officieel">Informatieverstrekking</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">13</nr>
+            <titel status="officieel">Informatieverstrekking</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Verzoeken om informatieverstrekking over of uit de archiefbescheiden en verzoeken van derden om archiefbescheiden in te zien worden door de beheerder getoetst aan de vigerende wet- en regelgeving zoals de <extref status="actief" doc="1.0:v:BWBR0005252" compleet="nee">Wet Openbaarheid van Bestuur</extref>, de <extref status="actief" doc="1.0:v:BWBR0011468" compleet="nee">Wet Bescherming Persoonsgegevens</extref> en de <extref status="actief" doc="1.0:v:BWBR0005537" compleet="nee">Algemene Wet Bestuursrecht</extref>, alsook de <extref status="actief" doc="1.0:v:BWBR0002380" compleet="nee">Bestrijdingsmiddelenwet</extref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een besluit inzake een verzoek tot informatieverstrekking van gevoelige informatie wordt genomen door de beheerder. Aan de raadpleging van niet-openbare archiefbescheiden is een aantal voorwaarden verbonden, zoals deze zijn geformuleerd in <extref status="actief" doc="1.0:v:BWBR0005252&amp;artikel=11" compleet="nee">artikel 10</extref> en <extref status="actief" doc="1.0:v:BWBR0005252&amp;artikel=10" compleet="nee">11 van de Wet Openbaarheid van Bestuur</extref>. Hieraan kan de beheerder specifieke voorwaarden toevoegen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De beheerder geeft richtlijnen voor het toezicht bij de inzage van archiefbescheiden door derden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Verwijdering van archiefbescheiden uit een dossier is uitsluitend toegestaan door of namens de beheerder.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">14</nr>
+            <titel status="officieel">Uitleenadministratie</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Van beschikbaar gestelde dossiers of andere archiefbescheiden wordt een uitleenadministratie bijgehouden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De beheerder ziet er op toe dat uitgeleende dossiers tijdig en in goede en geordende staat worden terugbezorgd.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">VIII</nr>
+          <titel status="officieel">Verwijdering of verplaatsing van archiefbescheiden</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">15</nr>
+            <titel status="officieel">Vervanging</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De beheerder kan besluiten over te gaan tot vervanging van archiefbescheiden, echter alleen als de vervanging geschiedt met juiste en volledige weergave van de in de te vervangen archiefbescheiden voorkomende gegevens.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Permanent te bewaren archiefbescheiden mogen uitsluitend vervangen worden indien hiervoor door de minister van Onderwijs, Cultuur en Wetenschappen een machtiging is verstrekt. Deze machtiging houdt tevens een machtiging tot vernietiging van de originele bescheiden in.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Voor de vervanging van op termijn voor vernietiging in aanmerking komende archiefbescheiden is enkel een formeel besluit van de zorgdrager nodig.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Van de vervanging van archiefbescheiden wordt een door het CTB ondertekende verklaring opgemaakt, die ten minste een specificatie van de vervangen archiefbescheiden bevat, alsmede aangeeft op grond waarvan en op welke wijze de vervanging is geschied. Een exemplaar van deze verklaring wordt door de beheerder bewaard.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Pas nadat vervanging heeft plaatsgevonden mag tot vernietiging van de vervangen archiefbescheiden worden overgegaan.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">16</nr>
+            <titel status="officieel">Vernietiging</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De beheerder draagt er zorg voor dat vernietiging van daarvoor in aanmerking komende archiefbescheiden geschiedt zodra de daarvoor in het basisselectiedocument vastgestelde termijn is verstreken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Van de vernietiging van archiefbescheiden wordt een verklaring opgemaakt, die ten minste een specificatie van de vernietigde archiefbescheiden bevat, alsmede aangeeft op grond waarvan en op welke wijze de vernietiging heeft plaatsgevonden. De verklaring dient ondertekend te worden door het CTB. De beheerder bewaart een exemplaar van deze verklaring.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">17</nr>
+            <titel status="officieel">Overbrenging</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De beheerder draagt er zorg voor dat daarvoor in aanmerking komende archiefbescheiden worden overgebracht naar het Nationaal Archief, als rijksarchiefbewaarplaats. De overbrenging geschiedt binnen twintig jaar na sluiting van het dossier of bestand.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De overbrenging van nog veelvuldig geraadpleegde archiefbescheiden kan worden opgeschort, echter alleen indien hiertoe een machtiging van de minister van Onderwijs, Cultuur en Wetenschappen is verleend. In geval van opschorting van de overbrenging zijn de openbaarheidsregels van de <extref status="actief" doc="1.0:v:BWBR0007376" compleet="nee">Archiefwet 1995</extref> van toepassing op de niet-overgebrachte archiefbescheiden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De over te brengen archiefbescheiden gaan vergezeld van een document waarin is opgenomen op welke wijze de duurzaamheid, de ordening en de toegankelijkheid van deze archiefbescheiden zijn geregeld.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Bij de overbrenging van archiefbestanddelen naar het Nationaal Archief kunnen door het CTB, ingevolge <extref status="actief" doc="1.0:v:BWBR0007376&amp;artikel=15" compleet="nee">artikel 15 van de Archiefwet 1995</extref>, beperkingen worden gesteld aan de openbaarheid.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De overbrenging wordt vastgelegd in een door het CTB ondertekende verklaring, die ten minste bevat een specificatie van de overgebrachte archiefbescheiden en de eventuele beperkingen aan de openbaarheid. De beheerder bewaart een exemplaar van deze verklaring.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">18</nr>
+            <titel status="officieel">Overdracht</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De beheerder draagt er zorg voor dat archiefbescheiden die binnen de organisatie in beheer worden overgedragen van een organisatieonderdeel aan een ander organisatieonderdeel, toegankelijk blijven.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Van een overdracht als bedoeld in het eerste lid wordt een door het CTB ondertekende verklaring van overdracht opgemaakt, die ten minste bevat een specificatie van de overgedragen archiefbescheiden. De beheerder bewaart een exemplaar van deze verklaring.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">19</nr>
+            <titel status="officieel">Vervreemding</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het CTB is bevoegd over te gaan tot vervreemding van archiefbescheiden die niet in een rijksarchiefbewaarplaats berusten, nadat daarvoor een machtiging is verleend door de minister van Onderwijs, Cultuur en Wetenschappen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien vervreemding voortvloeit uit een wettelijke verplichting kan hiertoe zonder machtiging worden overgegaan.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Indien de archiefbescheiden ten gevolge van de vervreemding niet zullen worden overgebracht naar een archiefbewaarplaats, betrekt het CTB bij de voorbereiding van een besluit tot vervreemding van archiefbescheiden deskundigen als bedoeld in de procedure genoemd <intref status="actief" doc="1.0:v:BWBR0019962&amp;artikel=8">artikel 8, lid 3</intref>, van deze beheersregeling.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Van de vervreemding van archiefbescheiden wordt een door het CTB ondertekende verklaring opgemaakt, die ten minste een specificatie van de vervreemde archiefbescheiden bevat, alsmede aangeeft op grond waarvan en op welke wijze de vervreemding is geschied. Een exemplaar van deze verklaring wordt door de beheerder bewaard.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">20</nr>
+            <titel status="officieel">Terbeschikkingstelling</titel>
+          </kop>
+          <al>Indien bij privatisering van het CTB archiefbescheiden aan een rechtspersoon ter beschikking worden gesteld, wordt een door het CTB ondertekende verklaring opgemaakt, die ten minste bevat een bepaling omtrent het toezicht op het beheer van de archiefbescheiden, een specificatie van de ter beschikking gestelde archiefbescheiden en het tijdvak waarvoor de terbeschikkingstelling geldt. De beheerder bewaart een exemplaar van deze verklaring.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">21</nr>
+            <titel status="officieel">Organisatieveranderingen</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>In geval van interne en externe organisatieveranderingen is het CTB ervoor verantwoordelijk dat de op het moment van organisatieverandering afgesloten dossiers en gegevensbestanden gaan naar het alsdan verantwoordelijke organisatieonderdeel of andere overheidsorgaan.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In geval van interne en externe organisatieveranderingen is het CTB er tevens voor verantwoordelijk dat de op het moment van organisatieverandering nog niet afgesloten dossiers en gegevensbestanden gaan naar het organisatieonderdeel of andere overheidsorgaan dat (het merendeel van) de taken krijgt toegewezen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Ten aanzien van de overbrenging, overdracht, vervreemding of terbeschikkingstelling zoals die voortvloeit uit een organisatieverandering als in de vorige leden bedoeld, wordt een verklaring opgesteld, getekend en bewaard overeenkomstig de bepalingen in de voorgaande artikelen.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">IX</nr>
+          <titel status="officieel">Toezicht en beveiliging</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">22</nr>
+            <titel status="officieel">Toezicht</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De beheerder ziet erop toe dat de uitvoering van het archiefbeheer in overeenstemming is met de gestelde regels.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De beheerder verstrekt desgewenst volledige en juiste informatie met betrekking tot de verzorging en staat van de archiefbescheiden en verleent toegang tot de ruimten waarin zich archiefbescheiden bevinden, ten behoeve van archiefonderzoek, namens het CTB of de (rijks)archivaris.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">23</nr>
+            <titel status="officieel">Beveiliging</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Archiefbescheiden die vertrouwelijke informatie bevatten worden in een afsluitbare archiefkast geplaatst.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De beheerder is verantwoordelijk voor het beheer van de sleutel.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">X</nr>
+          <titel status="officieel">Slotbepalingen en ondertekening</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">24</nr>
+            <titel status="officieel">Slotbepalingen</titel>
+          </kop>
+          <al>Deze regeling wordt aangehaald als &#x2018;Archiefbeheersregeling voor het College voor de Toelating van Bestrijdingsmiddelen 2006&#x2019;.</al>
+        </artikel>
+      </hoofdstuk>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <gegeven>
+        <dagtekening>
+          <plaats>Wageningen</plaats>
+          <datum isodatum="2006-06-14">14 juni 2006</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>Het <organisatie>College van het College voor de Toelating van Bestrijdingsmiddelen</organisatie>,
+        <naam>
+          <voornaam>D.K.J.</voornaam>
+          <achternaam>Tommel</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

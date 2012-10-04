@@ -1,0 +1,847 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0029246" dtdversie="2.0" id="450939" soort="zbo">
+  
+  <intitule>Regeling
+van De Nederlandsche Bank N.V. van 16&#xA0;december 2010, houdende
+regels met betrekking tot het beheerst beloningsbeleid van
+financi&#xEB;le ondernemingen (Regeling beheerst beloningsbeleid Wft
+2011)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De
+Nederlandsche Bank N.V.,</wie>
+      <considerans>
+        <considerans.al>Na
+raadpleging van de betrokken representatieve
+organisaties;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet
+op het gewijzigd voorstel van wet voor de <extref status="actief" doc="1.0:v:BWBR0029369" compleet="nee">Wet introductie
+premiepensioeninstellingen</extref> (Kamerstuk <nadruk type="cur">I</nadruk>,
+2009&#x2013;2010,
+31&#xA0;891,
+A);</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op
+<extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=23f" compleet="nee">artikel 23f van het Besluit prudenti&#xEB;le regels Wft</extref>, zoals
+ingevoegd bij <extref status="actief" doc="1.0:v:BWBR0029072&amp;artikel=I" compleet="nee">artikel&#xA0;I van het Besluit beheerst beloningsbeleid
+Wft</extref>
+(Stb.
+2010,
+806);</considerans.al>
+        <considerans.al bevat="grondslag">Gelet
+op de CRD III <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2010/76</extref>/EU van het Europees
+Parlement en de Raad van 24&#xA0;november 2010 tot wijziging van de
+<extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijnen 2006/48/EG</extref> en <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">2006/49/EG</extref> wat betreft de kapitaalvereisten
+voor de handelsportefeuille en voor hersecuritisaties, alsook het
+bedrijfseconomisch toezicht op het beloningsbeleid (PbEU
+L&#xA0;329);</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Algemene
+bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>In
+deze regeling wordt verstaan
+onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al><nadruk type="cur">DNB:</nadruk> De
+Nederlandsche Bank
+N.V.;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al><nadruk type="cur">Wft:</nadruk> <extref status="actief" doc="1.0:v:BWBR0020368" compleet="nee">Wet
+op het financieel
+toezicht</extref>;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+               <al><nadruk type="cur">financi&#xEB;le onderneming:</nadruk></al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1.</li.nr>
+                  <al>een
+beleggingsonderneming als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A17" compleet="nee">artikel 3:17, derde lid</extref>, of
+<extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A22" compleet="nee">artikel&#xA0;3:22 van de Wft</extref>;</al>
+                </li>
+                <li>
+                  <li.nr>2.</li.nr>
+                  <al>een
+clearinginstelling als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A17" compleet="nee">artikel 3:17, eerste lid</extref>, of
+<extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A27" compleet="nee">artikel&#xA0;3:27 van de Wft</extref>;</al>
+                </li>
+                <li>
+                  <li.nr>3.</li.nr>
+                  <al>een
+entiteit voor risico-acceptatie, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A17" compleet="nee">artikel 3:17, eerste
+lid</extref>, of een in Nederland gelegen bijkantoor als bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A24a" compleet="nee">artikel&#xA0;3:24a van de Wft</extref>;</al>
+                </li>
+                <li>
+                  <li.nr>4.</li.nr>
+                  <al>een
+kredietinstelling, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A17" compleet="nee">artikel 3:17, eerste lid</extref>, of een in
+Nederland gelegen bijkantoor van een kredietinstelling met zetel in een
+staat die geen lidstaat is, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A23" compleet="nee">artikel&#xA0;3:23, tweede
+lid, van de Wft</extref>;</al>
+                </li>
+                <li>
+                  <li.nr>5.</li.nr>
+                  <al>een
+premiepensioeninstelling, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A17" compleet="nee">artikel 3:17, eerste lid, van
+de Wft</extref>; of</al>
+                </li>
+                <li>
+                  <li.nr>6.</li.nr>
+                  <al>een verzekeraar, als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A17" compleet="nee">artikel 3:17, eerste lid</extref>, of een bijkantoor als bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A23" compleet="nee">artikel&#xA0;3:23, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A24b" compleet="nee">artikel&#xA0;3:24b</extref> of <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A26" compleet="nee">artikel&#xA0;3:26
+van de
+Wft</extref>;</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al><nadruk type="cur">interne
+toezichthouder:</nadruk> een raad van commissarissen of een
+ander orgaan dat is belast met toezicht op het beleid en de algemene
+gang van zaken van de financi&#xEB;le
+onderneming;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al><nadruk type="cur">uitkeringen
+uit hoofde van discretionair pensioen:</nadruk> verhoogde
+pensioenuitkeringen die een financi&#xEB;le onderneming aan een
+medewerker op discretionaire basis verleent als onderdeel van een
+variabele beloning van deze medewerker. Tot deze uitkeringen worden
+niet gerekend verhoogde uitkeringen die aan een medewerker worden
+toegekend op grond van de voorwaarden van het desbetreffende
+pensioenfonds.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <al>Eenbeleggingsonderneming
+als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A17" compleet="nee">artikel 3:17, derde lid</extref>, of <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A22" compleet="nee">artikel&#xA0;3:22 van de Wft</extref>
+en een kredietinstelling als bedoeld in artikel 3:17, eerste lid, of
+een bijkantoor van een kredietinstelling met zetel in een staat die
+geen lidstaat is, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A23" compleet="nee">artikel&#xA0;3:23, tweede lid, van de
+Wft</extref> verstrekt desgevraagd aan DNB informatie over het aantal
+medewerkers dat een totale jaarlijkse beloning ontvangt van ten minste
+&#x20AC; 1 miljoen. Daarbij wordt aangegeven bij welk bedrijfsonderdeel
+de personen werkzaam zijn en wat de voornaamste elementen van de
+beloning
+zijn.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Beginselen
+voor een beheerst
+beloningsbeleid</titel>
+        </kop>
+        <afdeling status="goed">
+          <kop>
+            <label>Afdeling</label>
+            <nr status="officieel">2.1</nr>
+            <titel status="officieel">Algemeen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3</nr>
+            </kop>
+            <al>Een
+financi&#xEB;le onderneming neemt bij de vaststelling en toepassing van
+het beloningsbeleid, met inbegrip van salarissen en uitkeringen uit
+hoofde van discretionair pensioen, voor de categorie&#xEB;n van
+medewerkers, inclusief medewerkers die een hogere leidinggevende,
+risiconemende of controle functie uitoefenen en elke medewerker die een
+totale beloning ontvangt van hetzelfde of een hoger niveau als de
+categorie&#xEB;n van medewerkers die een hogere leidinggevende of
+risiconemende functie uitoefenen, wier werkzaamheden het risicoprofiel
+van de financi&#xEB;le onderneming materieel be&#xEF;nvloeden, de
+<intref status="actief" doc="1.0:v:BWBR0029246&amp;artikel=4">artikelen 4 tot en met 7</intref> en <intref status="actief" doc="1.0:v:BWBR0029246&amp;artikel=9">9 tot en met 25</intref> in acht op een wijze en in
+een mate die aansluit bij haar omvang, haar interne organisatie en bij
+de aard, reikwijdte en complexiteit van haar
+activiteiten.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">4</nr>
+            </kop>
+            <al>Het
+beloningsbeleid van de financi&#xEB;le onderneming is in
+overeenstemming met en draagt bij aan een degelijke en doeltreffende
+risicobeheersing en moedigt niet aan tot het nemen van meer risico's
+dan voor de financi&#xEB;le onderneming aanvaardbaar
+is.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">5</nr>
+            </kop>
+            <al>Het
+beloningsbeleid strookt met de bedrijfsstrategie, doelstellingen,
+waarden en lange termijn belangen van de financi&#xEB;le onderneming en
+behelst maatregelen die belangenconflicten moeten
+vermijden.</al>
+          </artikel>
+        </afdeling>
+        <afdeling status="goed">
+          <kop>
+            <label>Afdeling</label>
+            <nr status="officieel">2.2</nr>
+            <titel status="officieel">Governance</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">6</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+interne
+toezichthouder:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>keurt
+de algemene beginselen van het beloningsbeleid
+goed;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>toetst de algemene beginselen
+van het beloningsbeleid periodiek;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>is
+verantwoordelijk voor de tenuitvoerlegging van het
+beloningsbeleid;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>draagt er zorg voor
+dat ten minste eenmaal per jaar een centrale en onafhankelijke interne
+beoordeling plaats vindt om de tenuitvoerlegging van het
+beloningsbeleid te toetsen op naleving van het beleid en de procedures
+voor de beloning die de interne toezichthouder heeft
+aangenomen.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>In
+afwijking van het eerste lid, onderdeel a, neemt de algemene
+vergadering van aandeelhouders als bedoeld in <extref status="actief" doc="1.0:v:BWBR0003045&amp;artikel=135" compleet="nee">artikel 135, eerste en
+derde lid, van Boek 2 van het Burgerlijk Wetboek</extref> bij de vaststelling
+van het beloningsbeleid voor de bestuurders van de financi&#xEB;le
+onderneming en bij de vaststelling van de bezoldiging van de
+bestuurders van de financi&#xEB;le onderneming, de <intref status="actief" doc="1.0:v:BWBR0029246&amp;artikel=4">artikelen 4</intref>, <intref status="actief" doc="1.0:v:BWBR0029246&amp;artikel=5">5</intref> en <intref status="actief" doc="1.0:v:BWBR0029246&amp;artikel=10">10
+tot en met 25</intref> in
+acht.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">7</nr>
+            </kop>
+            <al>Medewerkers
+in controle functies zijn onafhankelijk van de bedrijfseenheden waar ze
+toezicht op uitoefenen, hebben voldoende gezag en worden beloond op
+basis van de verwezenlijking van de doelstellingen waar hun functie op
+is gericht, onafhankelijk van de resultaten van de bedrijfsactiviteiten
+waar ze toezicht op
+houden.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">8</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Een
+financi&#xEB;le onderneming, die significant is wat haar omvang,
+interne organisatie en de aard, reikwijdte en complexiteit van haar
+activiteiten betreft, stelt een remuneratiecommissie
+in.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De
+voorzitter en de leden van de remuneratiecommissie maken deel uit van
+de interne
+toezichthouder.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De
+remuneratiecommissie is onafhankelijk en voldoende deskundig met
+betrekking tot beloningsbeleid en beloningscultuur en de prikkels die
+worden gecre&#xEB;erd voor het beheersen van risico, kapitaal en
+liquiditeit.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>De
+remuneratiecommissie is verantwoordelijk voor het voorbereiden van
+beslissingen over beloning, inclusief beslissingen die gevolgen hebben
+voor de risico&#x2019;s en de risicobeheersing van de financi&#xEB;le
+onderneming en beslissingen die de interne toezichthouder moet
+nemen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>Bij de
+voorbereiding van de onder 4 bedoelde beslissingen moet de
+remuneratiecommissie rekening houden met de langetermijnbelangen van de
+aandeelhouders, investeerders en andere belanghebbenden van de
+financi&#xEB;le
+onderneming.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">9</nr>
+            </kop>
+            <al>De
+op grond van <intref status="actief" doc="1.0:v:BWBR0029246&amp;artikel=8">artikel 8</intref> ingestelde remuneratiecommissie of, indien een
+dergelijke commissie niet is ingesteld, de interne toezichthouder,
+houdt rechtstreeks toezicht op de beloning van hogere leidinggevende
+medewerkers die controle functies
+uitoefenen.</al>
+          </artikel>
+        </afdeling>
+        <afdeling status="goed">
+          <kop>
+            <label>Afdeling</label>
+            <nr status="officieel">2.3</nr>
+            <titel status="officieel">Risico
+aanpassing</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">10</nr>
+            </kop>
+            <al>Wanneer
+de beloning prestatiegerelateerd is, is het totale bedrag van de
+beloning gebaseerd op een combinatie van de beoordeling van de
+prestaties van de betrokken medewerker, het betrokken bedrijfsonderdeel
+en de resultaten van de financi&#xEB;le onderneming als geheel. Bij de
+beoordeling van de persoonlijke prestaties worden zowel financi&#xEB;le
+als niet-financi&#xEB;le criteria
+gehanteerd.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">11</nr>
+            </kop>
+            <al>De
+financi&#xEB;le onderneming spreidt de prestatiebeoordeling over
+meerdere jaren om te verzekeren dat de beoordeling is gebaseerd op
+lange termijn prestaties en dat de feitelijke uitbetaling van
+prestatiegebonden gedeelten van de beloning wordt uitgespreid over een
+periode waarin rekening wordt gehouden met de onderliggende
+bedrijfscyclus van de financi&#xEB;le onderneming en haar
+bedrijfsrisico's.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">12</nr>
+            </kop>
+            <al>De
+financi&#xEB;le onderneming draagt er zorg voor dat de totale variabele
+beloning niet haar mogelijkheden beperkt om haar het toetsingsvermogen,
+de solvabiliteitsmarge of het eigen vermogen te
+versterken.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">13</nr>
+            </kop>
+            <al>De
+financi&#xEB;le onderneming kent geen gegarandeerde variabele beloning
+toe anders dan bij indienstneming van nieuwe medewerkers voor maximaal
+het eerste
+jaar.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">14</nr>
+            </kop>
+            <al>Financi&#xEB;le
+ondernemingen die aanspraak kunnen maken op uitzonderlijke
+overheidssteun:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>beperken
+de variabele beloning strikt tot een percentage van de netto winsten
+wanneer zij niet strookt met een tijdige terugbetaling van
+overheidssteun en de handhaving van een solide het toetsingsvermogen,
+de solvabiliteitsmarge of het eigen
+vermogen;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>waarborgen dat zij hun
+beloningen zodanig herstructureren dat zij in lijn zijn met een
+degelijke risicobeheersing en de lange termijn ontwikkeling, met
+inbegrip van, waar van toepassing, het vaststellen van limieten aan de
+beloning van de dagelijkse beleidsbepalers van de financi&#xEB;le
+onderneming;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>betalen geen variabele
+beloning uit aan dagelijkse beleidsbepalers van de financi&#xEB;le
+onderneming, tenzij dit gerechtvaardigd
+is.</al>
+              </li>
+            </lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">15</nr>
+            </kop>
+            <al>De
+financi&#xEB;le onderneming verdeelt de vaste en variabele componenten
+van de totale beloning op evenwichtige wijze; het aandeel van de vaste
+component in het totale beloningspakket is voldoende hoog voor het
+voeren van een volledig flexibel beleid inzake variabele
+beloningscomponenten, inclusief de mogelijkheid om geen variabele
+beloningscomponent uit te betalen. De financi&#xEB;le onderneming stelt
+passende verhoudingen tussen de vaste en de variabele component van de
+totale beloning
+vast.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">16</nr>
+            </kop>
+            <al>De
+financi&#xEB;le onderneming keert slechts een ontslagvergoeding uit,
+indien deze samenhangt met in de loop der tijd gerealiseerde prestaties
+en zodanig is vormgegeven dat falen niet wordt
+beloond.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">17</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+financi&#xEB;le onderneming brengt bij de beoordeling van prestaties,
+als basis voor de berekening van variabele gedeelten van de beloning of
+van pools voor variabele gedeelten van de beloning, een correctie aan
+voor alle soorten van actuele en toekomstige risico's en houdt rekening
+met de kosten van het gebruikte kapitaal en de kosten van de vereiste
+liquiditeit.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Bij
+de toewijzing van de variabele gedeelten van de beloning binnen haar
+onderneming houdt de financi&#xEB;le onderneming ook rekening met alle
+soorten actuele en toekomstige
+risico&#x2019;s.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">18</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+financi&#xEB;le onderneming betaalt een aanzienlijk deel, ten minste
+50% van een variabele beloning, uit in een afgewogen mix
+van:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>aandelen
+of vergelijkbare eigendomsbelangen, afhankelijk van de juridische
+structuur in kwestie, dan wel, instrumenten waarvan de waarde gekoppeld
+is aan de waarde van aandelen of vergelijkbare eigendomsbelangen of
+vergelijkbare non-cash instrumenten in het geval van een niet op de
+beurs genoteerde financi&#xEB;le onderneming;
+en</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>indien van toepassing, andere
+instrumenten zoals bedoeld in artikel 66, lid 1 bis, punt a) van de
+herziene richtlijn banken nr. 2006/48/EG, die een goede weerspiegeling
+zijn van de kredietkwaliteit van de financi&#xEB;le onderneming in het
+kader van de lopende
+bedrijfsbeoefening.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De
+in het eerste lid bedoelde instrumenten zijn onderworpen aan een
+passend retentiebeleid dat tot doel heeft financi&#xEB;le prikkels af
+te stemmen op de belangen van de financi&#xEB;le onderneming op de
+langere
+termijn.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Het
+bepaalde in dit artikel is van toepassing op zowel het gedeelte van de
+variabele beloning, waarvan de uitkering voorwaardelijk wordt toegekend
+overeenkomstig <intref status="actief" doc="1.0:v:BWBR0029246&amp;artikel=19">artikel 19</intref>, als op het gedeelte van de variabele
+beloning, waarvan de uitkering onvoorwaardelijk wordt
+toegekend.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">19</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+financi&#xEB;le onderneming kent een aanzienlijk deel, ten minste 40%
+van de variabele beloningscomponent, voorwaardelijk toe over een
+periode van ten minste drie tot vijf jaar die aansluit bij de aard van
+activiteiten, de risico&#x2019;s daarvan en de activiteiten van de
+medewerker. Indien een variabele beloningscomponent een bijzonder hoog
+bedrag is, kent de financi&#xEB;le onderneming daarvan ten minste 60%
+voorwaardelijk
+toe.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Een
+voorwaardelijk toegekende beloning wordt niet sneller dan op pro-rata
+basis
+verworven.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De
+financi&#xEB;le onderneming stelt de duur van de periode van
+voorwaardelijke toekenning vast in overeenstemming met de
+bedrijfscyclus, de aard van de activiteiten, de risico's daarvan, en de
+activiteiten van de desbetreffende
+medewerker.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">20</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+variabele beloning, inclusief het voorwaardelijk toegekende gedeelte,
+wordt slechts uitbetaald of verworven wanneer dit met de
+financi&#xEB;le toestand van de financi&#xEB;le onderneming in haar
+geheel te verenigen is en door de prestaties van de financi&#xEB;le
+onderneming, de bedrijfseenheid en de betreffende medewerker wordt
+gerechtvaardigd.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Onverminderd
+de algemene beginselen van de verbintenissen- en arbeidswetgeving moet
+de financi&#xEB;le onderneming de totale variabele beloning in het
+algemeen aanzienlijk verlagen, indien zij geringere of negatieve
+financi&#xEB;le prestaties levert, daarbij rekening houdend met zowel
+de huidige beloning als met de verlaging van uitbetalingen van eerder
+verdiende bedragen, onder meer door middel van malus- of
+terugvorderingsregelingen.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">21</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+financi&#xEB;le onderneming stemt het pensioenbeleid af op haar
+bedrijfsstrategie, doelstellingen, waarden en lange termijn
+belangen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Wanneer
+een medewerker v&#xF3;&#xF3;r pensionering uit dienst gaat van de
+financi&#xEB;le onderneming, houdt de financi&#xEB;le onderneming de
+uitkeringen uit hoofde van discretionair pensioen gedurende een termijn
+van vijf jaar aan in de vorm van instrumenten als bedoeld in <intref status="actief" doc="1.0:v:BWBR0029246&amp;artikel=18">artikel
+18</intref>.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Wanneer een
+medewerker zijn pensionering bereikt, betaalt de financi&#xEB;le
+onderneming de uitkeringen uit hoofde van discretionair pensioen aan de
+medewerker uit in de vorm van de in <intref status="actief" doc="1.0:v:BWBR0029246&amp;artikel=18">artikel 18</intref> bedoelde instrumenten,
+onder voorbehoud van een retentieperiode van vijf
+jaar.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">22</nr>
+            </kop>
+            <al>De
+financi&#xEB;le onderneming zorgt voor adequate regelingen, die
+waarborgen dat medewerkers geen gebruik maken van persoonlijke
+hedging-strategie&#xEB;n of een aan beloning en aansprakelijkheid
+gekoppelde verzekering om de risicobeheersingseffecten die in hun
+beloningsregelingen zijn ingebed, te
+ondermijnen.</al>
+          </artikel>
+        </afdeling>
+        <afdeling status="goed">
+          <kop>
+            <label>Afdeling</label>
+            <nr status="officieel">2.4</nr>
+            <titel status="officieel">Overig</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">23</nr>
+            </kop>
+            <al>De
+financi&#xEB;le onderneming draagt er zorg voor dat een beheerst
+beloningsbeleid niet wordt ondermijnd door het uitkeren van variabele
+beloning middels vehikels of methoden die het mogelijk maken de
+bepalingen in deze regeling te
+ontwijken.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">24</nr>
+            </kop>
+            <al>De
+financi&#xEB;le onderneming past de in deze regeling neergelegde
+beginselen toe op het niveau van de groep, de moedermaatschappij en
+haar dochterondernemingen, met inbegrip van vestigingen in offshore
+financi&#xEB;le
+centra.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">25</nr>
+            </kop>
+            <al>De
+financi&#xEB;le onderneming, voor zover deze niet op grond van <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A74a" compleet="nee">artikel
+3:74a van de Wet op het financieel toezicht</extref> gegevens openbaar dient te
+maken, publiceert jaarlijks ten aanzien van medewerkers wier
+beroepswerkzaamheden haar risicoprofiel materieel be&#xEF;nvloeden de
+volgende
+informatie:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>informatie
+over het besluitvormingsproces voor de vaststelling van het
+beloningsbeleid, inclusief, indien van toepassing informatie over de
+samenstelling en het mandaat van een remuneratiecommissie, de externe
+adviseur op wie een beroep is gedaan bij de vaststelling van het
+beloningsbeleid en de rol van relevante
+belanghebbenden;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>informatie over het
+verband tussen beloning en
+prestaties;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de belangrijkste
+kenmerken van het beloningssysteem, met inbegrip van informatie over de
+voor prestatiebeoordeling en risicocorrectie gehanteerde criteria, het
+beleid van voorwaardelijke toekenning en de criteria voor definitieve
+verwerving;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>informatie over de
+prestatiecriteria op basis waarvan aandelen, opties of variabele
+beloningscomponenten worden
+toegekend;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>de belangrijkste
+parameters en de motivering voor elk variabel beloningssysteem en voor
+eventuele andere niet-contante
+voordelen;</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>geaggregeerde
+kwantitatieve informatie over de beloning, uitgesplitst per
+bedrijfsonderdeel;</al>
+              </li>
+              <li>
+                <li.nr>g.</li.nr>
+                <al>geaggregeerde
+kwantitatieve informatie over de beloning, uitgesplitst naar hoger
+leidinggevend personeel en personeelsleden waarvan de werkzaamheden het
+risicoprofiel van de kredietinstelling materieel be&#xEF;nvloeden, met
+opgave van de volgende
+gegevens:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>i.</li.nr>
+                    <al>beloningsbedragen
+voor het boekjaar, uitgesplitst naar vaste en variabele beloning, en
+het aantal begunstigden;</al>
+                  </li>
+                  <li>
+                    <li.nr>ii.</li.nr>
+                    <al>bedragen en
+vorm van variabele beloning, uitgesplitst naar contant geld, aandelen
+en aan aandelen verbonden instrumenten en
+overige;</al>
+                  </li>
+                  <li>
+                    <li.nr>iii.</li.nr>
+                    <al>bedragen van uitstaande
+voorwaardelijk toegekende beloning, uitgesplitst naar verworven en niet
+verworven gedeelten;</al>
+                  </li>
+                  <li>
+                    <li.nr>iv.</li.nr>
+                    <al>de bedragen van
+voorwaardelijk toegekende beloning die gedurende het boekjaar zijn
+toegekend, uitbetaald en verminderd vanwege aanpassingen aan de
+prestatie;</al>
+                  </li>
+                  <li>
+                    <li.nr>v.</li.nr>
+                    <al>nieuwe betalingen bij
+indiensttreding en ontslag toegekend gedurende het boekjaar, en het
+aantal begunstigden; en</al>
+                  </li>
+                  <li>
+                    <li.nr>vi.</li.nr>
+                    <al>de bedragen
+van betalingen bij ontslag toegekend gedurende het boekjaar, het aantal
+begunstigden en het hoogste bedrag toegekend aan een
+individu.</al>
+                  </li>
+                </lijst>
+              </li>
+            </lijst>
+          </artikel>
+        </afdeling>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Overgangs-
+en
+slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">26</nr>
+          </kop>
+          <al>Deze
+regeling treedt in werking met ingang van 1 januari 2011.Indien de
+Staatscourant waarin deze regeling wordt geplaatst, verschijnt na
+1&#xA0;januari 2011, treedt deze wijzigingsregeling in werking met
+ingang van de dag na de dagtekening van de Staatscourant waarin zij
+wordt geplaatst en werkt zij terug tot en met 1&#xA0;januari
+2011.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">27</nr>
+          </kop>
+          <al>Deze
+regeling wordt aangehaald als: Regeling beheerst beloningsbeleid Wft
+2011.</al>
+        </artikel>
+      </hoofdstuk>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <gegeven>
+        <dagtekening>
+          <plaats>Amsterdam</plaats>
+          <datum isodatum="2010-12-16">16
+december
+2010</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>
+        <organisatie>De Nederlandsche Bank N.V.,</organisatie>
+        <naam>
+          <voornaam>H.J.</voornaam>
+          <achternaam>Brouwer,</achternaam>
+        </naam>
+        <functie>directeur,</functie>
+        <naam>
+          <voornaam>A.J.</voornaam>
+          <achternaam>Kellermann,</achternaam>
+        </naam>
+        <functie>directeur.</functie>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

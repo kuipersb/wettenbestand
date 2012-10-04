@@ -1,0 +1,438 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0029876" dtdversie="2.0" id="457239" soort="pbo">
+<intitule>Verordening van de Sociaal-Economische Raad van 18 maart 2011 tot vaststelling van
+voorschriften voor bedrijfslichamen en voor voorzieningen ter gemeenschappelijke
+behartiging van belangen van bedrijfslichamen omtrent de meerjarenraming, de
+begroting, de verslaglegging en het beheer (Verordening financi&#xEB;n bedrijfslichamen
+2011)</intitule>
+
+<regeling>
+<aanhef>
+<wie>De Sociaal-Economische Raad;</wie>
+<considerans>
+<considerans.al bevat="grondslag">Gehoord de Bestuurskamer en de Toezichtkamer;</considerans.al>
+<considerans.al>Gelet op de <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=35" compleet="nee">artikelen 35</extref>, <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=122" compleet="nee">122</extref> en <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=125" compleet="nee">125 van de Wet op de bedrijfsorganisatie</extref>;</considerans.al>
+<considerans.al>Gelet op de <extref status="actief" doc="1.0:v:BWBR0024271" compleet="nee">Instellingsverordening Bestuurskamer 2008</extref>;</considerans.al>
+</considerans>
+<afkondiging>
+<al>Besluit:</al>
+</afkondiging>
+</aanhef>
+<regeling-tekst>
+<paragraaf><kop><label>&#xA7;</label><nr status="officieel">1</nr><titel status="officieel">Begripsbepalingen</titel></kop>
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">1</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>In deze verordening wordt verstaan onder:</al></lid>
+<table>
+<tgroup align="left" char="" charoff="50" cols="3">
+<colspec colname="col1" colnum="1" colwidth="1.00*"/>
+<colspec colname="col2" colnum="2" colwidth="5.66*"/>
+<colspec colname="col3" colnum="3" colwidth="3.34*"/>
+<tbody valign="top">
+<row><entry morerows="0" rotate="0"><al>a.</al></entry><entry morerows="0" rotate="0"><al>wet:</al></entry><entry morerows="0" rotate="0"><al> <extref status="actief" doc="1.0:v:BWBR0002058" compleet="nee">Wet op de bedrijfsorganisatie</extref>;</al></entry></row>
+<row><entry morerows="0" rotate="0"><al>b.</al></entry><entry morerows="0" rotate="0"><al>bedrijfslichaam:</al></entry><entry morerows="0" rotate="0"><al> een bedrijfslichaam als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=66" compleet="nee">artikel 66, vierde lid,
+van de wet</extref>;</al></entry></row>
+<row><entry morerows="0" rotate="0"><al>c.</al></entry><entry morerows="0" rotate="0"><al>Raad:</al></entry><entry morerows="0" rotate="0"><al> Sociaal-Economische Raad;</al></entry></row>
+<row><entry morerows="0" rotate="0"><al>d.</al></entry><entry morerows="0" rotate="0"><al>Bestuurskamer:</al></entry><entry morerows="0" rotate="0"><al> commissie ex <extref status="actief" doc="1.0:v:BWBR0024271&amp;artikel=2" compleet="nee">artikel 2 van de Instellingsverordening
+Bestuurskamer 2008</extref>;</al></entry></row>
+<row><entry morerows="0" rotate="0"><al>e.</al></entry><entry morerows="0" rotate="0"><al>Toezichtkamer:</al></entry><entry morerows="0" rotate="0"><al> commissie ex <extref status="actief" doc="1.0:v:BWBR0024271&amp;artikel=8" compleet="nee">artikel 8 van de Instellingsverordening
+Bestuurskamer 2008</extref>;</al></entry></row>
+<row><entry morerows="0" rotate="0"><al>f.</al></entry><entry morerows="0" rotate="0"><al>bestemmingsheffing:</al></entry><entry morerows="0" rotate="0"><al> een heffing als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=126" compleet="nee">artikel 126, vierde lid, van de
+wet</extref>;</al></entry></row>
+<row><entry morerows="0" rotate="0"><al>g.</al></entry><entry morerows="0" rotate="0"><al>algemene heffing:</al></entry><entry morerows="0" rotate="0"><al> een heffing op grond van <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=126" compleet="nee">artikel 126, eerste lid, van de
+wet</extref>, niet zijnde een bestemmingsheffing;</al></entry></row>
+<row><entry morerows="0" rotate="0"><al>h.</al></entry><entry morerows="0" rotate="0"><al>retributie:</al></entry><entry morerows="0" rotate="0"><al>een retributie als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=126" compleet="nee">artikel 126, tweede lid, van
+de wet</extref>;</al></entry></row>
+<row><entry morerows="0" rotate="0"><al>i.</al></entry><entry morerows="0" rotate="0"><al>eigen vermogen:</al></entry><entry morerows="0" rotate="0"><al> de som van de algemene reserve, de
+bestemmingsreserve en de bestemmingsfondsen;</al></entry></row>
+<row><entry morerows="0" rotate="0"><al>j.</al></entry><entry morerows="0" rotate="0"><al>bestemmingsreserve:</al></entry><entry morerows="0" rotate="0"><al> een reserve met een bijzondere bestemming, bepaald
+door het bestuur;</al></entry></row>
+<row><entry morerows="0" rotate="0"><al>k.</al></entry><entry morerows="0" rotate="0"><al>bestemmingsfonds:</al></entry><entry morerows="0" rotate="0"><al> een reserve met een bijzondere bestemming, waarbij
+een bestedingsbeperking is aangebracht door derden.</al></entry></row>
+</tbody>
+</tgroup>
+</table><lid><lidnr status="officieel">2</lidnr><al>Deze verordening is mede van toepassing op voorzieningen ter gemeenschappelijke
+behartiging van belangen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=109" compleet="nee">artikel 109 en verder van de wet</extref>.</al>
+
+</lid>
+</artikel>
+</paragraaf>
+<paragraaf><kop><label>&#xA7;</label><nr status="officieel">2</nr><titel status="officieel">Algemene bepalingen en waarderingsgrondslagen</titel></kop>
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">2</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>De financi&#xEB;le jaarstukken van bedrijfslichamen bestaan uit de meerjarenraming, de
+begroting en de jaarrekening, die integraal in onderling verband tot elkaar staan.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>De meerjarenraming, de begroting en de jaarrekening geven volgens normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd een zodanig
+inzicht dat een verantwoord oordeel kan worden gevormd over het financieel
+beheer in het algemeen en het vermogen en de geraamde en gerealiseerde baten
+en lasten in het bijzonder.</al></lid></artikel>
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">3</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Voor de meerjarenraming, de begroting en de jaarrekening wordt het stelsel van
+baten en lasten gehanteerd.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>Boekjaren komen overeen met kalenderjaren.</al></lid>
+<lid><lidnr status="officieel">3</lidnr><al>De indeling van de meerjarenraming, de begroting en de jaarrekening kan slechts
+om gegronde redenen afwijken van die van het voorafgaande boekjaar; in de
+toelichting worden de verschillen aangegeven en gemotiveerd.</al></lid>
+</artikel>
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">4</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>De baten en lasten worden ingedeeld in de baten- en lastenrubrieken, vermeld in
+<intref status="actief" doc="1.0:v:BWBR0029876&amp;bijlage=1">bijlage 1</intref> bij deze verordening.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>In de meerjarenraming, de begroting en de jaarrekening mogen baten en lasten of
+activa en passiva niet tegen elkaar wegvallen, indien deze posten afzonderlijk
+moeten worden opgenomen.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">5</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Bij de meerjarenraming, de begroting en de jaarrekening worden de gehanteerde
+grondslagen voor de bepaling van de baten en lasten en voor de waardering van de
+activa en passiva vermeld.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>Slechts om gegronde redenen kunnen de bepaling van de baten en de lasten en de
+waardering van de activa en de passiva geschieden op andere grondslagen dan die
+welke in het voorafgaande boekjaar zijn toegepast. De reden van de verandering
+wordt in de toelichting uiteengezet. Tevens wordt inzicht gegeven in de betekenis
+ervan voor de financi&#xEB;le positie en voor de baten en de lasten aan de hand van
+aangepaste cijfers voor het desbetreffende boekjaar en het daaraan voorafgaande
+jaar.</al></lid>
+
+</artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">6</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Het bestuur van een bedrijfslichaam legt het vermogensbeleid schriftelijk vast.</al>
+</lid>
+<lid><lidnr status="officieel">2</lidnr><al>Met het vermogensbeleid wordt ten minste een onderbouwd inzicht verschaft in:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+<li><li.nr>a.</li.nr><al>de financieringsbehoefte en de omvang van de benodigde middelen;</al></li>
+<li><li.nr>b.</li.nr><al>het streefniveau voor de som van de algemene reserve en bestemmingsreserves in samenhang met de financieringsbehoefte en de omvang van de benodigde
+middelen;</al></li><li><li.nr>c.</li.nr><al>de maatregelen die worden getroffen om het gewenste streefniveau te
+realiseren, in het geval het gewenste streefniveau niet is gerealiseerd of naar
+verwachting niet wordt gerealiseerd;</al></li><li><li.nr>d.</li.nr><al>de uitgangspunten en de bijbehorende criteria voor het beheer van de financi&#xEB;le
+vaste activa, vlottende activa en de liquide middelen.</al></li></lijst></lid>
+<lid><lidnr status="officieel">3</lidnr><al>De in het tweede lid onder d. genoemde uitgangspunten en criteria behelzen ten minste de aard, de mate van directe opeisbaarheid, de samenstelling en de in acht
+te nemen prudentie.</al></lid>
+
+</artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">7</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Activa en passiva worden gewaardeerd op basis van de verkrijgings- of
+vervaardigingsprijs.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>In afwijking van het bepaalde in het eerste lid worden:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+<li><li.nr>a.</li.nr><al>voorraden tegen opbrengstwaarde gewaardeerd indien de opbrengstwaarde
+lager is dan de verkrijgings- of vervaardigingsprijs;</al></li>
+<li><li.nr>b.</li.nr><al>vorderingen, onder aftrek van eventuele voorzieningen wegens oninbaarheid,
+tegen de nominale waarde gewaardeerd;</al></li><li><li.nr>c.</li.nr><al>liquide middelen tegen de nominale waarde gewaardeerd;</al></li><li><li.nr>d.</li.nr><al>schulden tegen de nominale waarde gewaardeerd;</al></li><li><li.nr>e.</li.nr><al>voorzieningen tegen de nominale waarde gewaardeerd.</al></li></lijst></lid>
+<lid><lidnr status="officieel">3</lidnr><al>In afwijking van het bepaalde in het eerste lid wordt bij de waardering van de vaste activa rekening gehouden met een vermindering of vermeerdering van hun waarde,
+indien deze vermindering respectievelijk vermeerdering naar verwachting bestendig
+is.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">8</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Waardevermindering of waardevermeerdering van de in <intref status="actief" doc="1.0:v:BWBR0029876&amp;artikel=7">artikel 7, tweede lid</intref> bedoelde activa worden onafhankelijk van het resultaat van het boekjaar in
+aanmerking genomen.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>Het verschil tussen verkrijgingsprijs en marktwaarde van effecten wordt in de
+toelichting op de balans opgenomen.</al></lid>
+</artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">9</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Bij toepassing van waarderings- en afschrijvingsmethoden wordt het
+toerekeningsbeginsel in acht genomen.</al>
+</lid>
+<lid><lidnr status="officieel">2</lidnr><al>De methoden volgens welke de afschrijvingen zijn berekend worden in de
+toelichting op de balans uiteengezet.</al>
+</lid>
+
+</artikel></paragraaf>
+<paragraaf><kop><label>&#xA7;</label><nr status="officieel">3</nr><titel status="officieel">De meerjarenraming</titel></kop>
+
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">10</nr></kop>
+
+<lid><lidnr status="officieel">1</lidnr><al>Jaarlijks wordt een meerjarenraming opgesteld. Deze maakt deel uit van de
+toelichting op de begroting.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>De meerjarenraming geeft, voor het begrotingsjaar en een periode van ten minste
+de twee daarop volgende jaren, een getrouw, duidelijk en stelselmatig inzicht in de
+ontwikkeling van de baten, de lasten en het vermogen.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Uitgangspunt voor de meerjarenraming is het beleid dat ten grondslag ligt aan de
+bedragen.</al></lid></artikel></paragraaf>
+<paragraaf><kop><label>&#xA7;</label><nr status="officieel">4</nr><titel status="officieel">De begroting</titel></kop>
+
+
+
+
+
+
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">11</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>De begroting bestaat ten minste uit de begrotingsverordening en de toelichting
+daarop.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>De begrotingsverordening wordt ingericht overeenkomstig <intref status="actief" doc="1.0:v:BWBR0029876&amp;bijlage=2">bijlage 2</intref>.</al></lid><lid><lidnr status="officieel">3</lidnr><al>De begroting geeft een getrouw, duidelijk en stelselmatig inzicht in de omvang van
+alle begrote baten en lasten van het begrotingsjaar, het saldo daarvan alsmede de
+stand van de reserves.</al></lid><lid><lidnr status="officieel">4</lidnr><al>Het in het derde lid genoemde inzicht omvat, in samenhang met de
+meerjarenraming, ten minste de beleidsvoornemens die aan de begroting ten
+grondslag liggen en het te voeren vermogensbeleid.</al></lid></artikel>
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">12</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>In de begroting worden de belangrijkste posten en de belangrijkste verschillen ten
+opzichte van het vorige begrotingsjaar toegelicht.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>De toelichting bevat ten minste:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+<li><li.nr>a.</li.nr><al>een specificatie van de baten en lasten als bedoeld in <intref status="actief" doc="1.0:v:BWBR0029876&amp;bijlage=2">bijlage 2</intref> aangevuld met
+bedragen voor begin- en eindstand van de omvang van de algemene reserve,
+bestemmingsreserves en eventuele bestemmingsfondsen;</al></li>
+<li><li.nr>b.</li.nr><al>een overzicht van de algemene heffings-, bestemmingsheffings- en
+retributieverordeningen die ten grondslag liggen aan de begroting, met hun
+tarieven, heffingsgrondslagen, begrote bruto-heffingsopbrengst(en), eventuele
+aftrek als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=126" compleet="nee">artikel 126, zesde lid, van de wet</extref> en begrote netto-opbrengst(en);</al></li>
+<li><li.nr>c.</li.nr><al>een uiteenzetting over de financi&#xEB;le positie van het bedrijfslichaam;</al></li><li><li.nr>d.</li.nr><al>een overzicht van de personele sterkte, zowel uitgedrukt in aantal
+personeelsleden als in voltijdeenheden;</al></li><li><li.nr>e.</li.nr><al>een overzicht van de personeelskosten gespecificeerd naar:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>salarissen;</al></li><li><li.nr>b.</li.nr><al>socialeverzekeringspremies;</al></li><li><li.nr>c.</li.nr><al>pensioenpremies;</al></li><li><li.nr>d.</li.nr><al>niet in premieverband betaalde sociale lasten en overige personeelskosten
+van het eigen personeel;</al></li></lijst></li><li><li.nr>f.</li.nr><al>een overzicht van de vergoedingen van de voorzitter, ingericht overeenkomstig
+het bepaalde in <extref status="actief" doc="1.0:v:BWBR0019562&amp;artikel=6" compleet="nee">artikel 6, eerste lid en tweede lid, van de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens</extref>;</al></li><li><li.nr>g.</li.nr><al>vermelding van de benoemingsgerechtigde organisaties waaraan subsidie wordt verstrekt of waarvan diensten worden ingekocht, alsmede instellingen waarin
+deze organisaties participeren en waaraan subsidie wordt verstrekt of waarvan
+diensten ten behoeve van de sector of het schap worden ingekocht, plus de
+daarmee gemoeide bedragen en de bestedingsdoeleinden;</al></li><li><li.nr>h.</li.nr><al>vermelding van de overige personen en rechtspersonen waaraan subsidie wordt
+verstrekt of waarvan diensten ten behoeve van de sector worden ingekocht, plus
+de daarmee gemoeide bedragen en de bestedingsdoeleinden; hierbij geldt als
+ondergrens: 50.000 euro per subsidie of ingekochte dienst ten behoeve van de
+sector of, indien het totaal aan subsidies of ingekochte diensten niet m&#xE9;&#xE9;r
+bedraagt dan een miljoen euro, vijf procent van het begrote bedrag aan
+subsidies en ingekochte diensten;</al></li></lijst></lid>
+<lid><lidnr status="officieel">3</lidnr><al>De specificaties en overzichten in het tweede lid onder a., d., e. en f. bevatten de
+bedragen van het komende begrotingsjaar, het lopende begrotingsjaar en de
+gerealiseerde bedragen van het daaraan voorafgaande verslagjaar.</al>
+</lid>
+</artikel>
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">13</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Een bedrijfslichaam kan slechts overgaan tot het verstrekken van subsidie of het
+inkopen van diensten ten behoeve van de sector indien aan de volgende
+uitgangspunten is voldaan:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>het doel van de subsidie of de ingekochte dienst ten behoeve van de sector is
+herleidbaar tot de taken en bevoegdheden van het bedrijfslichaam, bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=71" compleet="nee">artikel 71 van de wet</extref> en in zijn instellingsbesluit;</al></li><li><li.nr>b.</li.nr><al>het doel van de subsidie of de ingekochte dienst ten behoeve van de sector is
+niet of niet goed te bereiken door middel van financiering door privaatrechtelijke
+organisaties;</al></li><li><li.nr>c.</li.nr><al>het bedrijfslichaam kan de activiteiten waarvoor de subsidie wordt verleend of
+de dienst ten behoeve van de sector wordt ingekocht niet of niet goed zelf
+uitvoeren;</al></li><li><li.nr>d.</li.nr><al>de activiteiten waarvoor de subsidie wordt verleend of de dienst ten behoeve
+van de sector wordt ingekocht komen in beginsel ten goede aan alle
+ondernemingen waarvoor het bedrijfslichaam is ingesteld, of die behoren tot een
+bepaalde branche of sector binnen zijn werkingssfeer, en de daarbij betrokken
+personen; en</al></li><li><li.nr>e.</li.nr><al>er is voorzien in een tijdige evaluatie van de doelmatigheid en de
+doeltreffendheid van de subsidie of de ingekochte dienst ten behoeve van de
+sector.</al></li></lijst></lid>
+<lid><lidnr status="officieel">2</lidnr><al>In het geval de besluitvorming door het bestuur van het bedrijfslichaam over het
+verlenen van subsidie of het inkopen van een dienst ten behoeve van de sector
+plaatsvindt via de begroting wordt in de toelichting op de begroting voor deze
+subsidie of in te kopen dienst ten behoeve van de sector verantwoord op welke
+wijze aan de onderdelen a. tot en met e., genoemd in het eerste lid, wordt voldaan.</al>
+</lid>
+
+
+
+</artikel>
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">14</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>In het geval van een overschrijding van de in de begroting uitgetrokken bedragen
+van de lasten, alsmede voor lasten welke in de begroting niet waren voorzien,
+wordt een herziene begroting opgesteld.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>Het bepaalde in het eerste lid is niet van toepassing indien het bedrag van de
+overschrijding respectievelijk van de onvoorziene lasten niet meer dan vijf procent van de totale lasten bedraagt of indien blijkt dat voor de overschrijding
+compensatie in de totale baten wordt gevonden.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">15</nr></kop>
+
+<al>Transacties die geen onderdeel zijn van de reguliere bedrijfsvoering of het primaire
+proces van de bedrijfslichamen worden, voor zover deze zijn voorzien, opgenomen in de
+jaarlijkse begroting en daarin afzonderlijk toegelicht. In andere gevallen worden voor
+dergelijke transacties herziene begrotingsverordeningen opgesteld.</al>
+</artikel></paragraaf>
+<paragraaf><kop><label>&#xA7;</label><nr status="officieel">5</nr><titel status="officieel">De jaarrekening</titel></kop>
+
+
+<sub-paragraaf status="goed"><kop><label>&#xA7;</label><nr status="officieel">5.1</nr><titel status="officieel">Algemeen</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">16</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>De jaarrekening bestaat uit:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>de rekening van baten en lasten en de toelichting daarop;</al></li><li><li.nr>b.</li.nr><al>de balans en de toelichting daarop.</al></li></lijst></lid>
+<lid><lidnr status="officieel">2</lidnr><al>De jaarrekening wordt vastgesteld met inachtneming van hetgeen omtrent de
+financi&#xEB;le positie op de balansdatum is gebleken tussen het moment van opmaken
+van de jaarrekening en het tijdstip van vaststelling daarvan, voor zover deze
+aanvullende informatie onontbeerlijk is voor het in <intref status="actief" doc="1.0:v:BWBR0029876&amp;artikel=2">artikel 2</intref> bedoelde inzicht.</al></lid></artikel>
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">17</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>De jaarrekening geeft, in samenhang met de meerjarenraming en de begroting,
+inzicht in de betekenis van de resultaten van het gevoerde beleid, dat ten grondslag
+heeft gelegen aan de bedragen in de rekening, voor het te voeren beleid.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>De jaarrekening geeft, in samenhang met de meerjarenraming en de begroting,
+inzicht in de betekenis van de resultaten van het gevoerde vermogensbeleid voor
+het te voeren vermogensbeleid.</al></lid></artikel>
+</sub-paragraaf><sub-paragraaf status="goed"><kop><label>&#xA7;</label><nr status="officieel">5.2</nr><titel status="officieel">De rekening van baten en lasten en de toelichting daarop</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">18</nr></kop>
+
+
+<al>De rekening van baten en lasten en de toelichting daarop geven getrouw, duidelijk en
+stelselmatig de omvang van alle baten en alle lasten, alsmede het saldo daarvan weer.</al>
+</artikel>
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">19</nr></kop>
+<al>Het besluit tot vaststelling van de rekening van baten en lasten is ingericht
+overeenkomstig de inrichting van de begrotingsverordening en bevat, zoals schematisch
+weergegeven in <intref status="actief" doc="1.0:v:BWBR0029876&amp;bijlage=3">bijlage 3</intref>, de voor het verslagjaar gerealiseerde bedragen.</al>
+
+</artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">20</nr></kop>
+<al>De toelichting op de rekening van baten en lasten is ingericht overeenkomstig de
+inrichting van de toelichting op de begroting zoals bepaald in <intref status="actief" doc="1.0:v:BWBR0029876&amp;artikel=12">artikel 12</intref>, aangevuld met:</al>
+<lijst level="single" nr-sluiting="." start="1" type="expliciet">
+<li><li.nr>a.</li.nr><al>een toelichting op belangrijke afwijkingen tussen begrote en gerealiseerde baten en
+lasten;</al></li>
+<li><li.nr>b.</li.nr><al>een overzicht van de personele sterkte per 1 januari en per 31 december van het
+verslagjaar, zowel uitgedrukt in aantal personeelsleden als in voltijdeenheden en
+aangevuld met een overzicht van de verdeling van de personele sterkte &#x2013;
+omgerekend naar voltijdeenheden &#x2013; over de door het bedrijfslichaam gehanteerde
+salarisschalen/ functiegroepen;</al></li>
+<li><li.nr>c.</li.nr><al>De specificaties en de overzichten in de toelichting op de rekening van baten en
+lasten hebben betrekking op het verslagjaar, de begroting voor dat jaar en het
+voorgaande verslagjaar.</al></li><li><li.nr>d.</li.nr><al>Een toelichting op de toepassing van de onderdelen a. tot en met e., genoemd in
+het <intref status="actief" doc="1.0:v:BWBR0029876&amp;artikel=13">eerste lid van artikel 13</intref>, bij verleende subsidies en ingekochte diensten ten
+behoeve van de sector.</al></li></lijst>
+</artikel></sub-paragraaf><sub-paragraaf status="goed"><kop><label>&#xA7;</label><nr status="officieel">5.3</nr><titel status="officieel">De balans en de toelichting daarop</titel></kop><sub-paragraaf status="goed"><kop><titel status="officieel">Algemeen</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">21</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>De balans, zoals schematisch weergegeven in <intref status="actief" doc="1.0:v:BWBR0029876&amp;bijlage=4">bijlage 4</intref>, geeft tezamen met de
+toelichting daarop getrouw, duidelijk en stelselmatig de financi&#xEB;le positie en de
+samenstelling daarvan in actief- en passiefposten op het einde van het verslagjaar
+weer.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>De balans bevat ook de cijfers van het voorafgaande verslagjaar.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">22</nr></kop>
+
+<al>In de toelichting op de balans wordt vermeld tot welke belangrijke, niet uit de balans
+blijkende, financi&#xEB;le verplichtingen het bedrijfslichaam voor de toekomst is verbonden,
+zoals die welke voortvloeien uit langlopende overeenkomsten of bijzondere kortlopende
+verplichtingen.</al>
+</artikel></sub-paragraaf><sub-paragraaf status="goed"><kop><titel status="officieel">Activa</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">23</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>In de balans worden de activa onderscheiden in vaste en vlottende activa, al naar
+gelang zij zijn bestemd om de uitoefening van de werkzaamheid van het
+bedrijfslichaam al dan niet bestendig te dienen.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>Onder de vaste activa worden afzonderlijk opgenomen de materi&#xEB;le en de financi&#xEB;le
+vaste activa.</al></lid>
+<lid><lidnr status="officieel">3</lidnr><al>Onder de vlottende activa worden afzonderlijk opgenomen de voorraden, de
+vorderingen, de overlopende activa voor zover deze niet zijn begrepen in de
+vorderingen en de liquide middelen.</al></lid>
+</artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">24</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>In de toelichting op de balans worden onder de materi&#xEB;le vaste activa afzonderlijk
+opgenomen:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>bedrijfsgebouwen;</al></li><li><li.nr>b.</li.nr><al>overige aan de bedrijfsuitoefening dienstbare materi&#xEB;le vaste activa;</al></li><li><li.nr>c.</li.nr><al>overige niet aan de bedrijfsuitoefening dienstbare materi&#xEB;le vaste activa.</al></li></lijst></lid>
+<lid><lidnr status="officieel">2</lidnr><al>In de toelichting op de balans worden onder de financi&#xEB;le vaste activa afzonderlijk
+opgenomen:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>deelnemingen;</al></li><li><li.nr>b.</li.nr><al>langlopende leningen;</al></li><li><li.nr>c.</li.nr><al>effecten.</al></li></lijst></lid><lid><lidnr status="officieel">3</lidnr><al>In de toelichting op de balans wordt het bruto-verloop van de vaste activa
+gedurende het verslagjaar weergegeven in een sluitend overzicht van de
+beginstanden, van de mutaties waaronder mede begrepen afschrijvingen en
+waardeverminderingen en van de eindstanden op de balansdatum.</al></lid><lid><lidnr status="officieel">4</lidnr><al>In de toelichting op de balans wordt verslag gedaan van het gevoerde
+vermogensbeleid en de daarbij behaalde resultaten.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">25</nr></kop>
+<al>In de toelichting op de balans worden onder de tot de vlottende activa behorende
+vorderingen afzonderlijk opgenomen:</al>
+<lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>vorderingen uit hoofde van heffingen;</al></li><li><li.nr>b.</li.nr><al>vorderingen op stichtingen, fondsen of instellingen waarmee het bedrijfslichaam
+een bestendige zakelijke relatie heeft;</al></li><li><li.nr>c.</li.nr><al>overige vorderingen.</al></li></lijst></artikel></sub-paragraaf><sub-paragraaf status="goed"><kop><titel status="officieel">Passiva</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">26</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Onder de passiva worden afzonderlijk opgenomen het eigen vermogen, de
+voorzieningen, de langlopende schulden en de vlottende passiva.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>Onder de vlottende passiva worden afzonderlijk opgenomen de kortlopende schulden en de overlopende passiva voor zover deze niet zijn begrepen in de
+schulden.</al></lid>
+</artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">27</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Onder langlopende schulden worden verstaan de schulden met een resterende looptijd van &#xE9;&#xE9;n jaar of langer.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>In de toelichting op de balans worden onder de langlopende schulden afzonderlijk
+opgenomen hypothecaire leningen en andere leningen.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Van de in het tweede lid bedoelde leningen worden naast de omvang van de
+resterende schuldbedragen vermeld de verstrekte zekerheden, de resterende
+looptijden en de werkelijke rentepercentages.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">28</nr></kop>
+
+<al>In de toelichting op de balans worden onder de tot de vlottende passiva behorende
+kortlopende schulden afzonderlijk opgenomen:</al>
+<lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>schulden aan stichtingen, fondsen of instellingen waarmee het bedrijfslichaam een
+bestendige zakelijke relatie heeft;</al></li><li><li.nr>b.</li.nr><al>banksaldi;</al></li><li><li.nr>c.</li.nr><al>schulden ter zake van belastingen en premies sociale verzekering;</al></li><li><li.nr>d.</li.nr><al>schulden ter zake van pensioenen;</al></li><li><li.nr>e.</li.nr><al>overige schulden.</al></li></lijst></artikel></sub-paragraaf><sub-paragraaf status="goed"><kop><titel status="officieel">Reserves</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">29</nr></kop>
+
+<al>Reserves worden in de balans onderscheiden naar:</al>
+<lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>de algemene reserve;</al></li><li><li.nr>b.</li.nr><al>de bestemmingsreserves; en</al></li><li><li.nr>c.</li.nr><al>de bestemmingsfondsen.</al></li></lijst></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">30</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>In de toelichting op de balans wordt van de algemene reserve, de
+bestemmingsreserves en de bestemmingsfondsen voor het verslagjaar een
+verloopoverzicht gegeven met het beginsaldo, de mutaties en het eindsaldo.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>Mutaties van de algemene reserve, de bestemmingsreserves en de
+bestemmingsfondsen zijn alleen mogelijk indien deze passen in de doelstelling van
+de betreffende reserve of het betreffende fonds.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Rente- of dividendontvangsten op reserves worden geboekt ten gunste van de
+rekening van baten en lasten.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">31</nr></kop>
+
+<al>In de toelichting op de balans worden eventuele stille reserves of tekorten geraamd,
+indien:</al>
+<lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>de actuele waarde van materi&#xEB;le vaste activa belangrijk afwijkt van de
+boekwaarde;</al></li><li><li.nr>b.</li.nr><al>de actuarieel wenselijke omvang van voorzieningen belangrijk afwijkt van de
+feitelijke omvang daarvan.</al></li></lijst></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">32</nr></kop>
+
+
+<al>De som van de algemene reserve en de bestemmingsreserves is maximaal gelijk aan
+het totaal van de lasten over het verslagjaar.</al>
+</artikel></sub-paragraaf><sub-paragraaf status="goed"><kop><titel status="officieel">Voorzieningen en niet in de balans opgenomen verplichtingen</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">33</nr></kop>
+
+
+<al>Op voorzieningen en niet in de balans opgenomen verplichtingen is van toepassing
+Richtlijn B10 van de Richtlijnen voor de jaarverslaggeving voor kleine rechtspersonen.</al>
+</artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">34</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>In de toelichting op de balans wordt elke voorziening afzonderlijk vermeld en
+toegelicht.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>Per voorziening wordt het bruto verloop gedurende het verslagjaar in een sluitend overzicht weergegeven.</al><al>Daaruit blijken:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>het saldo aan het begin van het jaar;</al></li><li><li.nr>b.</li.nr><al>de toevoegingen in het jaar ten laste van de rekening van baten en lasten;</al></li><li><li.nr>c.</li.nr><al>de vermeerderingen in het jaar door ontvangen subsidies;</al></li><li><li.nr>d.</li.nr><al>de vermeerderingen in het jaar door overige ontvangsten van derden;</al></li><li><li.nr>e.</li.nr><al>de vrijgevallen bedragen in het jaar ten gunste van de rekening van baten en
+lasten;</al></li><li><li.nr>f.</li.nr><al>de aanwending in het jaar;</al></li><li><li.nr>g.</li.nr><al>het saldo aan het einde van het jaar.</al></li></lijst></lid>
+
+</artikel></sub-paragraaf></sub-paragraaf></paragraaf>
+<paragraaf><kop><label>&#xA7;</label><nr status="officieel">6</nr><titel status="officieel">Externe controle</titel></kop>
+
+
+
+
+
+
+
+
+
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">35</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Externe en onafhankelijke controle van de jaarrekening wordt door het bestuur
+opgedragen aan een registeraccountant of aan een accountantadministratieconsulent
+met een aantekening als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002856&amp;artikel=36" compleet="nee">artikel 36, derde lid van
+de Wet op de Accountants-Administratieconsulenten</extref>, niet zijnde een interne
+accountant van een bedrijfslichaam.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>De onafhankelijke accountant brengt omtrent zijn onderzoek verslag uit aan het
+(dagelijks) bestuur.</al></lid>
+<lid><lidnr status="officieel">3</lidnr><al>De onafhankelijke accountant geeft de uitslag van zijn onderzoek weer in een
+controleverklaring omtrent de getrouwheid van de jaarrekening.</al></lid>
+</artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">36</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Bij zijn controle betrekt de onafhankelijke accountant de naleving door het
+bedrijfslichaam van deze verordening. Hiervan geeft de accountant kennis in zijn
+verklaring.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>De in <intref status="actief" doc="1.0:v:BWBR0029876&amp;artikel=35">artikel 35, derde lid</intref> bedoelde accountantsverklaring wordt tegelijk met de
+jaarrekening van het bedrijfslichaam aan de Toezichtkamer overgelegd.</al></lid></artikel></paragraaf>
+<paragraaf><kop><label>&#xA7;</label><nr status="officieel">7</nr><titel status="officieel">Ontheffingen en advisering</titel></kop>
+
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">37</nr></kop>
+
+<al>Op gemotiveerd verzoek van het bestuur van een bedrijfslichaam kan door de
+Toezichtkamer in bijzondere gevallen, waarin de nakoming van een bij deze verordening
+opgelegde verplichting op overwegende bezwaren stuit, of wegens andere bijzondere
+omstandigheden, aan het bedrijfslichaam ontheffing van die verplichting worden
+verleend. Aan deze ontheffing kunnen voorwaarden worden verbonden.</al>
+</artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">38</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Er is een commissie met vertegenwoordigers van bedrijfslichamen en van het
+secretariaat van de Bestuurskamer, die de Bestuurskamer gevraagd en ongevraagd
+adviseert over de voorschriften en richtlijnen voor de begroting en
+jaarverslaglegging en de toepassing ervan.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>De leden van de commissie worden benoemd door de Bestuurskamer.</al></lid></artikel></paragraaf>
+<paragraaf><kop><label>&#xA7;</label><nr status="officieel">8</nr><titel status="officieel">Overgangs- en slotbepalingen</titel></kop>
+
+
+
+
+
+
+
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">39</nr></kop>
+<al>De <extref status="actief" doc="1.0:v:BWBR0009299" compleet="nee">Verordening financi&#xEB;n bedrijfslichamen 1999</extref> wordt ingetrokken, met dien verstande
+dat hij van kracht blijft voor de begrotingen en de jaarrekeningen over de aan 2012
+voorafgaande begrotingsjaren.</al>
+</artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">40</nr></kop>
+<al>Deze verordening wordt bekendgemaakt in het Verordeningenblad Bedrijfsorganisatie.</al>
+</artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">41</nr></kop>
+<al>Deze verordening treedt in werking met ingang van 1 januari 2012, met dien verstande
+dat hij voor het eerst wordt toegepast bij het opstellen van de begrotingen voor het jaar
+2012.</al>
+</artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">42</nr></kop>
+<al>Deze verordening wordt aangehaald als Verordening financi&#xEB;n bedrijfslichamen 2011.</al>
+</artikel></paragraaf>
+
+
+</regeling-tekst>
+<regeling-sluiting status="goed">
+<gegeven>
+<dagtekening>
+<plaats>Den Haag</plaats>
+<datum isodatum="2011-03-18">18 maart 2011</datum>
+</dagtekening>
+</gegeven>
+<ondertekening>
+<naam>
+<voornaam>A.H.G.</voornaam>
+<achternaam>Rinnooy Kan</achternaam>
+</naam>
+<functie>voorzitter</functie>
+<naam>
+<voornaam>V.C.M.</voornaam>
+<achternaam>Timmerhuis</achternaam>
+</naam>
+<functie>algemeen secretaris</functie>
+</ondertekening>
+</regeling-sluiting>
+<bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">1</nr><titel status="officieel">Baten- en lastenrubrieken</titel></kop>
+<plaatje><illustratie bin-id="248834" display="block" formaat="png" kleur="nee" naam="vbbo2011_18_RE2_blg1" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/248834"/></plaatje>
+</bijlage>
+<bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">2</nr><titel status="officieel">Verordening Begroting (jaar)</titel></kop><al>Verordening van het (bedrijfslichaam) van (datum), houdende de vaststelling van de
+begroting van baten en lasten voor (jaar) (Verordening Begroting (jaar))</al><al>Het bestuur van het (bedrijfslichaam);</al><al>Gelet op <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=119" compleet="nee">artikel 119 van de Wet op de bedrijfsorganisatie</extref>;</al><al>Besluit:</al><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">1</nr></kop><al>De begroting van baten en lasten van het (bedrijfslichaam) voor (jaar) is als volgt:</al><plaatje><illustratie bin-id="248835" display="block" formaat="png" kleur="nee" naam="vbbo2011_18_RE2_blg2" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/248835"/></plaatje></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">2</nr></kop><al>De verordening treedt in werking met ingang van 1 januari (jaar).</al></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">3</nr></kop><al>Deze verordening wordt aangehaald als Verordening Begroting (jaar).</al><al>(plaats), (datum)</al><al>voorzitter</al><al>secretaris</al></artikel></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">3</nr><titel status="officieel">Besluit rekening baten en lasten (jaar)</titel></kop><al>Besluit van het (bedrijfslichaam) van (datum), houdende de vaststelling van de
+rekening van baten en lasten over (jaar) (Besluit rekening baten en lasten (jaar))</al><al>Het bestuur van het (bedrijfslichaam);</al><al>Gelet op <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=124" compleet="nee">artikel 124, derde lid, van de Wet op de bedrijfsorganisatie</extref>;</al><al>Besluit:</al><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">1</nr></kop><al>De rekening van baten en lasten van het (bedrijfslichaam) over (jaar) is als volgt:</al><plaatje><illustratie bin-id="248836" display="block" formaat="png" kleur="nee" naam="vbbo2011_18_RE2_blg3" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/248836"/></plaatje></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">2</nr></kop><al>Dit besluit wordt aangehaald als Besluit rekening baten en lasten (jaar).</al><al>(plaats), (datum)</al><al>voorzitter</al><al>secretaris</al></artikel></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">4</nr><titel status="officieel">Balans</titel></kop><plaatje><illustratie bin-id="248837" display="block" formaat="png" kleur="nee" naam="vbbo2011_18_RE2_blg4" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/248837"/></plaatje></bijlage></regeling>
+</wetgeving>
+  	

@@ -1,0 +1,3382 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0028725" dtdversie="2.0" id="445729" soort="AMvB-BES">
+  
+  <intitule>Besluit
+radioamateurs
+BES</intitule>
+  
+  <wet-besluit>
+    
+    <wettekst>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Definities</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>In dit besluit en de daarop berustende bepalingen
+wordt verstaan
+onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>
+                <nadruk type="cur">wet:</nadruk> <extref status="actief" doc="1.0:v:BWBR0028469" compleet="nee">Wet
+telecommunicatievoorzieningen BES</extref>;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>
+                <nadruk type="cur">beschikking:</nadruk> de
+beschikking waarbij een machtiging is
+verleend;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>
+                <nadruk type="cur">bewijs van
+bevoegdheid:</nadruk> het door Onze
+Minister afgegeven bewijs van bevoegdheid als radioamateur uitgereikt
+na een met goed gevolg afgelegd examen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=6">artikel
+6</intref>;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>
+                <nadruk type="cur">machtiging:</nadruk> een
+machtiging voor een radio-elektrische zend- en ontvanginrichting als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0028469&amp;artikel=15" compleet="nee">artikel 15, eerste lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0028469&amp;artikel=16" compleet="nee">artikel 16 van de wet</extref> bestemd
+voor de aanleg, het bezit of het gebruik van een
+amateurstation;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>
+                <nadruk type="cur">radioamateur:</nadruk> een
+daartoe bevoegd persoon die uit een zuiver persoonlijk oogmerk en
+zonder enig geldelijk voordeel proeven neemt op
+telecommunicatiegebied;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>
+                <nadruk type="cur">amateurstation:</nadruk> een
+zend- en ontvanginrichting voor radiotelegrafie of radiotelefonie,
+bestemd voor het nemen van proeven op
+telecommunicatiegebied;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>
+                <nadruk type="cur">radiotelegrafie:</nadruk> telecommunicatie
+via de ether door middel van
+morsetekens;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>
+                <nadruk type="cur">radiotelefonie:</nadruk> telecommunicatie
+via de ether door middel van spraak;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>
+                <nadruk type="cur">klasse van
+uitzending:</nadruk> een aanduiding
+bestaande uit drie symbolen die respectievelijk de modulatievorm van de
+draaggolf, het type signaal dat de draaggolf moduleert en de soort
+informatie die wordt uitgezonden, aangeven. De betekenis van de
+symbolen is aangegeven in <intref status="actief" doc="1.0:v:BWBR0028725&amp;bijlage=1">bijlage 1</intref> behorende bij dit
+besluit;</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>
+                <nadruk type="cur">bandbreedte:</nadruk> het
+frequentieverschil tussen de hoogste en de laagste frequentie
+waarbinnen tijdens modulatie 99% van de uitgezonden energie wordt
+waargenomen;</al>
+            </li>
+            <li>
+              <li.nr>k.</li.nr>
+              <al>
+                <nadruk type="cur">ongewenste
+hoogfrequentuitstralingen:</nadruk> alle
+hoogfrequente uitstralingen op andere frequenties dan de zendfrequentie
+en de frequentie in de frequentiebanden die noodzakelijkerwijs in
+verband met het modulatieproces in beslag worden
+genomen;</al>
+            </li>
+            <li>
+              <li.nr>l.</li.nr>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>bij
+toepassing van frequentie- of fasemodulatie: het door de direct met de
+antenne-inrichting te koppelen trap van de zendinrichting afgegeven
+gemiddelde
+vermogen;</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>bij
+de overige modulatietoepassingen: 25% van het door de direct met de
+antenne-inrichting te koppelen trap afgegeven gemiddeld vermogen,
+gerekend over een periode van de hoogfrequent uitgangswisselspanning
+tijdens het maximum van het modulerende
+signaal;</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>m.</li.nr>
+              <al>
+                <nadruk type="cur">toegestane
+zendvermogen:</nadruk> de waarde van het
+zendvermogen welke tijdens het gebruik van de zendinrichting niet mag
+worden overschreden;</al>
+            </li>
+            <li>
+              <li.nr>n.</li.nr>
+              <al>
+                <nadruk type="cur">maximum
+zendvermogen:</nadruk> de waarde van het
+zendvermogen welke als gevolg van de constructie van de zendinrichting
+niet kan worden
+overschreden.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1a</nr>
+          </kop>
+          <al>Dit besluit berust op de <extref status="actief" doc="1.0:v:BWBR0028469&amp;artikel=13" compleet="nee">artikelen 13 tot en met
+16</extref>, <extref status="actief" doc="1.0:v:BWBR0028469&amp;artikel=19" compleet="nee">19</extref>, <extref status="actief" doc="1.0:v:BWBR0028469&amp;artikel=31" compleet="nee">31</extref> en <extref status="actief" doc="1.0:v:BWBR0028469&amp;artikel=33" compleet="nee">33 van de Wet telecommunicatievoorzieningen
+BES</extref>.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Algemene
+bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <al>Terzake van telecommunicatievoorzieningen ten
+behoeve van radioamateurs gelden, onverminderd, tenzij anders is
+bepaald, de regels die zijn gesteld bij en krachtens het <extref status="actief" doc="1.0:v:BWBR0028621" compleet="nee">Besluit
+radio-elektrische inrichtingen BES</extref> en de navolgende
+bepalingen.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <al>In afwijking van <extref status="actief" doc="1.0:v:BWBR0028621&amp;artikel=34" compleet="nee">artikel 34, eerste lid, van het
+Besluit radio-elektrische inrichtingen BES</extref>, worden machtigingen voor
+radioamateurs verleend voor ten hoogste tien
+jaar.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Radioamateurs
+verkrijgen een machtiging indien zij in het bezit zijn van een door
+Onze Minister afgegeven bewijs van bevoegdheid als radioamateur. Een
+zodanig bewijs wordt verstrekt nadat zij met goed gevolg een daartoe
+strekkend examen hebben afgelegd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In
+afwijking van het eerste lid wordt de machtiging van de in <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=5">artikel 5,
+eerste lid</intref>, bedoelde Nederlanders en personen van andere nationaliteit
+gedurende drie maanden na hun aankomst op het grondgebied van een
+openbaar lichaam beschouwd als een machtiging in de zin van dit
+besluit.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>In
+afwijking van het eerste lid wordt aan de in <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=5">artikel 5, eerste lid</intref>,
+onderdelen a en b, bedoelde Nederlanders en personen, na verloop van de
+in het tweede lid genoemde periode van drie maanden, tegen betaling van
+een door Onze Minister te bepalen vergoeding machtiging verleend na
+overlegging van de geldige machtiging van het land van
+herkomst.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>In
+afwijking van het eerste lid wordt de machtiging verleend aan een door
+Onze Minister van Onderwijs, Cultuur en Wetenschap erkende
+onderwijsinstelling waar telecommunicatie een deel van het
+onderwijspakket vormt, indien de docent, die belast is met het geven
+van het onderwijs inzake het radioamateurisme, in het bezit is van een
+amateurradio machting A als bedoeld in <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=22">artikel
+22</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>In
+afwijking van het eerste lid kan tevens machtiging worden verleend aan
+een op het grondgebied van een openbaar lichaam gevestigde
+rechtspersoonlijkheid bezittende vereniging van
+radioamateurs.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <al>Geen examen behoeft te worden afgelegd
+door:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>Nederlanders
+die in het bezit zijn van een geldig Nederlands radioamateur
+machtiging;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>personen
+van andere nationaliteit mits zij in het bezit zijn van een geldige
+machtiging van een land dat is aangesloten bij de Conf&#xE9;rence
+Europ&#xE9;enne des Administrations des Postes et des
+T&#xE9;l&#xE9;communications
+(CEPT);</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>personen van
+andere nationaliteit die gedurende een periode van ten hoogste drie
+maanden op het grondgebied van een openbaar lichaam verblijven mits zij
+in bezit zijn van een geldige machtiging van het land van herkomst, en
+dat land radioamateurs afkomstig uit een openbaar lichaam op de voet
+van wederkerigheid gedurende eenzelfde periode zonder aanvullende eisen
+toelaat.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het
+examen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=4">artikel 4</intref>, wordt afgenomen door een bij besluit in
+te stellen commissie.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Tegen de
+beslissing van de commissie staat geen beroep open.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Onze
+Minister stelt een reglement vast voor het examen en bepaalt tevens de
+eisen waaraan moet worden voldaan ter verkrijging van een machtiging
+als radioamateur. Daarin kan mede worden bepaald dat Onze Minister in
+bepaalde gevallen geheel of gedeeltelijk ontheffing kan verlenen indien
+op een andere door Onze Minister te bepalen wijze aan de exameneisen
+wordt voldaan.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De
+aanvrager wordt eerst tot het examen toegelaten nadat de voor het
+examen of een onderdeel daarvan dan wel voor de ontheffing ingevolge
+<extref status="actief" doc="1.0:v:BWBR0028469&amp;artikel=31" compleet="nee">artikel 31, onderdeel a, van de wet</extref> verschuldigde vergoeding is
+betaald.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Het
+examen wordt afgenomen in de Nederlandse of de Engelse taal.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>Onze
+Minister houdt een register bij van de verleende bewijzen van
+bevoegdheid als radioamateur.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <al>Onze Minister kan op verzoek van de belanghebbende
+een uittreksel verstrekken uit het register, waaruit blijkt dat de
+machtinginghouder in het bezit is van een bevoegdheid als radioamateur,
+dat overeenkomt met de daartoe strekkende internationale eisen, zulks
+ter verkrijging van een machtiging in landen waarmede het Koninkrijk
+der Nederlanden laterale of multilaterale overeenkomsten van
+wederkerigheid heeft ondertekend. Dit uittreksel heeft een
+geldigheidsduur van &#xE9;&#xE9;n jaar en wordt opgesteld in de Engelse
+of Spaanse taal.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+          </kop>
+          <al>De uitgifte van roepletters, bedoeld in <extref status="actief" doc="1.0:v:BWBR0028621&amp;artikel=40" compleet="nee">artikel 40
+van het Besluit radio-elektrische inrichtingen BES</extref>, geschiedt voor wat
+betreft radioamateurs overeenkomstig het bepaalde in <intref status="actief" doc="1.0:v:BWBR0028725&amp;bijlage=2">bijlage 2</intref>
+behorende bij dit
+besluit.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Verplichtingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+machtiginghouder is verplicht een register te houden met betrekking tot
+de zendinrichtingen die deel uitmaken of deel hebben uitgemaakt van het
+amateurstation overeenkomstig het model aangegeven in <intref status="actief" doc="1.0:v:BWBR0028725&amp;bijlage=3">bijlage 3</intref>
+behorende bij dit besluit en dit register volledig in te vullen. De
+machtiginghouder dient onverwijld bij elke mutatie een afschrift van
+dit register aan Onze Minister toe te zenden. Onder mutatie wordt
+tevens verstaan veranderingen in het correspondentieadres van de
+machtiginghouder.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+machtiginghouder dient de gegevens met betrekking tot de
+zendinrichtingen gedurende drie jaren in het register te bewaren, te
+rekenen vanaf het moment dat de betreffende zendinrichtingen geen deel
+meer uitmaken van het amateurstation.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Op het
+vaste adres van het amateurstation dienen de beschikking, het
+registratiebewijs en het register aanwezig te zijn.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Indien
+zendinrichtingen van het amateurstation zich op een andere plaats dan
+het vaste adres bevinden, dient het registratiebewijs in afwijking van
+het bepaalde in het derde lid, bij deze zendinrichtingen aanwezig te
+zijn.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Alle aan
+de machtiginghouder verstrekte bescheiden blijven eigendom van de Staat
+der Nederlanden.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+          </kop>
+          <al>Zodra een in dit besluit bedoelde zend- of
+ontvanginrichting voor gebruik gereed is, stelt de machtiginghouder
+Onze Minister daarvan in kennis ten einde de keuring, bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0028621&amp;artikel=38" compleet="nee">artikel 38, eerste lid</extref>, <extref status="actief" doc="1.0:v:BWBR0028621&amp;artikel=69" compleet="nee">onderscheidenlijk 69, eerste lid, van het
+Besluit radio-elektrische inrichtingen BES</extref> te kunnen doen
+plaatsvinden.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+          </kop>
+          <al>De machtiginghouder mag de navolgende
+zendinrichtingen aanwezig
+hebben:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>1.</li.nr>
+              <al>Zendinrichtingen
+die uitsluitend zijn ingericht voor de frequentiebanden waarin
+frequenties voorkomen welke zijn toegewezen aan de machtiginghouder
+mits deze voldoen aan de volgende
+eisen:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>In
+de zendinrichting dienen zodanige technische voorzieningen te zijn
+aangebracht dat het gebruik is geblokkeerd van de niet aan de
+machtiginghouder toegewezen frequenties, &#xE9;&#xE9;n en ander voor
+zover de mechanische, elektrische en elektronische uitvoering van de
+zendinrichting dit
+toelaat;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>Het
+toegestane zendvermogen van de zendinrichtingen bedraagt maximaal
+250&#xA0;Watt, tenzij overeenkomstig <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=12">artikel 12, achtste en negende
+lid</intref>, toestemming is verleend hiervan af te wijken. Tevens mogen delen
+of onderdelen van de zendinrichtingen niet meer hoogfrequent
+zendvermogen kunnen afgeven dan voor de goede werking van deze
+zendinrichtingen noodzakelijk
+is;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>Indien de
+zendinrichting meer zendvermogen kan afgeven dan het toegestane
+zendvermogen moet de zendinrichting zijn uitgerust met een niet direct
+toegankelijke voorziening die ervoor zorgt dat het toegestane
+zendvermogen niet kan worden
+overschreden;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>De
+zendinrichtingen dienen te voldoen aan de in <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=20">artikel 20</intref> gestelde
+technische
+voorschriften.</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>2.</li.nr>
+              <al>Andere
+zendinrichtingen mits deze zodanig zijn gedemonteerd dat de
+zendinrichtingen niet geschikt zijn of op eenvoudige wijze geschikt
+gemaakt kunnen worden voor het doen van
+uitzendingen.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">12</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+machtiginghouder mag het amateurstation slechts gebruiken voor het doen
+van technische en wetenschappelijke onderzoekingen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+machtiginghouder mag uitsluitend informatie uitzenden die betrekking
+heeft op amateurstations en op de door middel van amateurstations te
+verrichten onderzoekingen, alsmede opmerkingen van persoonlijke aard,
+waarvoor uit hoofde van hun onbelangrijkheid het gebruik van de
+openbare Telegraaf- en Telefoondienst niet in aanmerking zou komen. Elk
+ander gebruik van het amateurstation is verboden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De
+machtiginghouder is verplicht het amateurstation te gebruiken
+overeenkomstig de status van de amateurdienst zoals is aangegeven in
+<intref status="actief" doc="1.0:v:BWBR0028725&amp;paragraaf=4">&#xA7;&#xA0;4</intref> en <intref status="actief" doc="1.0:v:BWBR0028725&amp;paragraaf=5">&#xA7;&#xA0;5</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Gedurende
+uitzendingen op frequenties waarop de amateurdienst met een secundaire
+status is toegelaten, is de machtiginghouder
+verplicht:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>te
+allen tijde voorrang te verlenen aan diensten met een primaire
+status;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>ingeval bij
+storing veroorzaakt in een radioverbinding van een primaire dienst,
+deze radioverbinding onmiddellijk te
+be&#xEB;indigen.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De
+machtiginghouder mag het amateurstation doen gebruiken door
+radioamateurs met een A, B, C of N machtiging onder de voor hen
+geldende voorschriften en beperkingen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>De
+machtiginghouder mag het amateurstation slechts gebruiken indien hij
+daarbij aanwezig is, behoudens ingeval van Packet-radio als bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=14">artikel 14, derde lid</intref>, onder b, alsmede in geval van georganiseerde
+radioamateurpeilevenementen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>De
+machtiginghouder dient passende maatregelen te treffen ter voorkoming
+van het gebruik van het amateurstation door onbevoegden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">8</lidnr>
+            <al>Onze
+Minister kan aan de houder van een machtiging A, B of C toestemming
+verlenen, onder door Onze Minister te stellen voorwaarden af te wijken
+van de in de voorschriften en beperkingen voorgeschreven klassen van
+uitzending, frequenties, zendvermogen en het bemand gebruik van het
+amateurstation. In geval Onze Minister toestemming verleent voor
+onbemand gebruik van een zendinrichting, blijft de machtiginghouder
+aansprakelijk dat het gebruik slechts strekt ten dienste van het
+radioamateurisme.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">9</lidnr>
+            <al>Onze
+Minister kan aan de houder van een machtiging A die twee jaar in het
+bezit is van de desbetreffende machtiging, met uitzondering van de
+banden boven de 30&#xA0;MHz en de banden genoemd in <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=22">artikel 22, tweede
+lid</intref>, toestemming verlenen om de maximale vermogen te verhogen tot
+1500&#xA0;Watt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">10</lidnr>
+            <al>Onze
+Minister kan aan een houder van een machtiging A, B, of C die twee jaar
+in het bezit is van desbetreffende machtiging, toestemming verlenen om
+de toegestane zendvermogen in de banden boven de 30&#xA0;MHz te
+verhogen tot 1000 Watt, voor het voeren van technische en
+wetenschappelijke proefnemingen van korte duur.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">11</lidnr>
+            <al>De
+machtiginghouder dient bij het gebruik van het amateurstation overlast
+in het amateurradioverkeer te
+voorkomen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">13</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Bij het
+begin en bij het einde van elke uitzending dient de machtiginghouder
+zijn roepletters ten minste &#xE9;&#xE9;nmaal uit te zenden. Is de
+uitzending opgebouwd uit kortdurende uitzendingen, dan worden deze
+aangemerkt als &#xE9;&#xE9;n uitzending.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Gedurende
+de uitzending dienen de roepletters ten minste &#xE9;&#xE9;nmaal per 10
+minuten duidelijk herkenbaar en waarneembaar in de over te dragen
+informatie te worden uitgezonden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Indien
+tijdens een georganiseerde amateurradiowedstrijd een groepsstation
+wordt gevormd, is het toegestaan dat de deelnemers de roepletters van
+een van de deelnemende machtiginghouders
+gebruiken.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">14</nr>
+          </kop>
+          <al>De uitzending van de roepletters dient op
+&#xE9;&#xE9;n van de hier navolgende wijze te
+geschieden:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>1.</li.nr>
+              <al>Identificatie
+door middel van
+spraak.</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>De
+toegelaten klassen van uitzending zijn:</al>
+                  <al>A3E,
+H3E, R3E, F3E, G3E of
+J3E.</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>Het te bezigen
+spellingsalfabet
+luidt:</al>
+                  <table colsep="0" frame="none" pgwide="1" rowsep="0" tabstyle="tekst">
+                    <tgroup align="left" char="" charoff="50" cols="4" tgroupstyle="tekst">
+                      <colspec colname="col1" colnum="1" colwidth="21*"/>
+                      <colspec colname="col2" colnum="2" colwidth="39*"/>
+                      <colspec colname="col3" colnum="3" colwidth="21*"/>
+                      <colspec colname="col4" colnum="4" colwidth="51*"/>
+                      <tbody valign="top">
+                        <row rowsep="0">
+                          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>A</al>
+                          </entry>
+                          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Alfa</al>
+                          </entry>
+                          <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>N</al>
+                          </entry>
+                          <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>November</al>
+                          </entry>
+                        </row>
+                        <row rowsep="0">
+                          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>B</al>
+                          </entry>
+                          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Bravo</al>
+                          </entry>
+                          <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>O</al>
+                          </entry>
+                          <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Oscar</al>
+                          </entry>
+                        </row>
+                        <row rowsep="0">
+                          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>C</al>
+                          </entry>
+                          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Charlie</al>
+                          </entry>
+                          <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>P</al>
+                          </entry>
+                          <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Papa</al>
+                          </entry>
+                        </row>
+                        <row rowsep="0">
+                          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>D</al>
+                          </entry>
+                          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Delta</al>
+                          </entry>
+                          <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Q</al>
+                          </entry>
+                          <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Quebec</al>
+                          </entry>
+                        </row>
+                        <row rowsep="0">
+                          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>E</al>
+                          </entry>
+                          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Echo</al>
+                          </entry>
+                          <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>R</al>
+                          </entry>
+                          <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Romeo</al>
+                          </entry>
+                        </row>
+                        <row rowsep="0">
+                          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>F</al>
+                          </entry>
+                          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Foxtrot</al>
+                          </entry>
+                          <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>S</al>
+                          </entry>
+                          <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Sierra</al>
+                          </entry>
+                        </row>
+                        <row rowsep="0">
+                          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>G</al>
+                          </entry>
+                          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Golf</al>
+                          </entry>
+                          <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>T</al>
+                          </entry>
+                          <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Tango</al>
+                          </entry>
+                        </row>
+                        <row rowsep="0">
+                          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>H</al>
+                          </entry>
+                          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Hotel</al>
+                          </entry>
+                          <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>U</al>
+                          </entry>
+                          <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Uniform</al>
+                          </entry>
+                        </row>
+                        <row rowsep="0">
+                          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>I</al>
+                          </entry>
+                          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>India</al>
+                          </entry>
+                          <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>V</al>
+                          </entry>
+                          <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Victor</al>
+                          </entry>
+                        </row>
+                        <row rowsep="0">
+                          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>J</al>
+                          </entry>
+                          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Juliet</al>
+                          </entry>
+                          <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>W</al>
+                          </entry>
+                          <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Whiskey</al>
+                          </entry>
+                        </row>
+                        <row rowsep="0">
+                          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>K</al>
+                          </entry>
+                          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Kilo</al>
+                          </entry>
+                          <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>X</al>
+                          </entry>
+                          <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>X-ray</al>
+                          </entry>
+                        </row>
+                        <row rowsep="0">
+                          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>L</al>
+                          </entry>
+                          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Lima</al>
+                          </entry>
+                          <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Y</al>
+                          </entry>
+                          <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Yankee</al>
+                          </entry>
+                        </row>
+                        <row rowsep="0">
+                          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>M</al>
+                          </entry>
+                          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Mike</al>
+                          </entry>
+                          <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Z</al>
+                          </entry>
+                          <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                            <al>Zulu</al>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                  </table>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>2.</li.nr>
+              <al>Identificatie
+door middel van morse
+telegrafie:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>De
+toegelaten klassen van uitzending zijn:</al>
+                  <al>A1A,
+F1A, F2A, J2A en
+G2A.</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>Toegestaan is
+een seinsnelheid van ten hoogste twintig woorden per minuut. Ingeval
+van een georganiseerde amateurradiowedstrijd is een seinsnelheid van
+ten hoogste dertig woorden per minuut
+toegestaan.</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>3.</li.nr>
+              <al>Identificatie
+door middel van automatische
+telegrafie:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>De
+toegelaten klassen van uitzending zijn:</al>
+                  <al>F1B,
+F2B of
+J2B.</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>Toegestaan is
+het gebruik
+van:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                      <li.nr>1&#xB0;.</li.nr>
+                      <al>verreschrijfapparatuur:
+start-stop systeem met 5 eenheden informatie bits volgens het
+internationaal telegrafie-alfabet no.&#xA0;2 (Baudot) met een
+seinsnelheid van 45, 50, 75, 100 of 200
+baud.</al>
+                    </li>
+                    <li>
+                      <li.nr>2&#xB0;.</li.nr>
+                      <al>verreschrijfapparatuur:
+start-stop systeem met 7 eenheden informatie bits volgens het
+internationaal telegrafie-alfabet no.&#xA0;5 (ASCII) met een
+seinsnelheid van 110 of 300
+baud.</al>
+                    </li>
+                    <li>
+                      <li.nr>3&#xB0;.</li.nr>
+                      <al>amtor:
+synchroon systeem met foutencorrectie met 7 eenheden informatie bits
+volgens het telegrafie-alfabet genoemd in aanbeveling 625 van het
+Comit&#xE9; Consultatif International de Radio (CCIR) met een
+seinsnelheid van 100
+baud.</al>
+                    </li>
+                    <li>
+                      <li.nr>4&#xB0;.</li.nr>
+                      <al>systeem
+Hell: hierbij worden de karakters, als een soort beeldschrift
+weergegeven in een raster van 7x7 beeldpunten. De seinsnelheid is 122.5
+baud.</al>
+                    </li>
+                    <li>
+                      <li.nr>5&#xB0;.</li.nr>
+                      <al>Packet-radio
+Ax-25: ARQ-telegrafiesysteem, afgeleid van het transmissieprotocol X.25
+genoemd in de aanbevelingen van het Comit&#xE9; Consultatif
+International de T&#xE9;l&#xE9;phone et de T&#xE9;l&#xE9;graphe
+(CCITT). In het adresveld van het transmissieprotocol X-25 dienen de
+roepletters van de machtiginghouder, de eventuele tussenstations
+waarlangs het bericht wordt verzonden (maximaal 8) en de geadresseerde
+machtiginghouder te zijn opgenomen. De digitale informatie wordt
+uitgezonden in groepen van acht bits welke in het adresveld een
+ASCII-karakter
+vormen.</al>
+                    </li>
+                  </lijst>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>4.</li.nr>
+              <al>Identificatie
+door middel van systemen voor
+beeldoverdracht:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>Facsimil&#xE9;
+en Slow-scan televisie
+(SSTV)</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                      <li.nr>1&#xB0;.</li.nr>
+                      <al>De
+toegelaten klassen van uitzending zijn:</al>
+                      <al>A3C,
+A3F, F3C, F3F, G3C of
+J3C.</al>
+                    </li>
+                    <li>
+                      <li.nr>2&#xB0;.</li.nr>
+                      <al>De opbouw
+van het facsimil&#xE9;-beeld aantal lijnen per minuut: 60, 90, 120 of
+240.</al>
+                    </li>
+                    <li>
+                      <li.nr>3&#xB0;.</li.nr>
+                      <al>De opbouw
+van het slow-scan
+televisiebeeld:</al>
+                      <al>lijnfrequentie: 16 2/3
+Hz</al>
+                      <al>beeldfrequentie: 1/7,2
+Hz</al>
+                      <al>aantal lijnen per beeld:
+120</al>
+                      <al>pulsduur lijnsynchronisatie: 5
+ms</al>
+                      <al>pulsduur beeldsynchronisatie: 30
+ms</al>
+                    </li>
+                    <li>
+                      <li.nr>4&#xB0;</li.nr>
+                      <al>Indien het
+beeldsignaal via frequentiemodulatie van een hulpdraaggolf de zender
+moduleert, gelden hiervoor de volgende eisen voor de modulatie van de
+hulpdraaggolf:</al>
+                      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                        <li>
+                          <li.nr>a.</li.nr>
+                          <al>Facsimil&#xE9;:</al>
+                          <al>Zwartniveau:
+1500 Hz</al>
+                          <al>Witniveau: 2300
+Hz</al>
+                        </li>
+                        <li>
+                          <li.nr>b.</li.nr>
+                          <al>SSTV:</al>
+                          <al>Synchronisatie-impuls
+(ultra zwart): 1200 Hz</al>
+                          <al>Zwartniveau: 1500
+Hz</al>
+                          <al>Witniveau: 2300
+Hz</al>
+                          <al>Indien het beeldsignaal de draaggolf direct
+in frequentie moduleert dient het frequentieverschil tussen de hoogste
+en de laagste frequentie overeen te komen met het verschil tussen de
+hierboven genoemde uiterste
+frequenties.</al>
+                        </li>
+                      </lijst>
+                    </li>
+                    <li>
+                      <li.nr>5&#xB0;.</li.nr>
+                      <al>De
+roepletters moeten aan de ontvangstzijde na demodulatie in leesbaar
+schrift zichtbaar
+zijn.</al>
+                    </li>
+                  </lijst>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>Amateurtelevisie:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                      <li.nr>1&#xB0;.</li.nr>
+                      <al>De
+toegelaten klassen van uitzending zijn: A3F, C3F en
+F3F.</al>
+                    </li>
+                    <li>
+                      <li.nr>2&#xB0;.</li.nr>
+                      <al>De opbouw
+van het beeldsignaal dient zodanig te zijn dat weergave van het beeld
+na demodulatie mogelijk is met het desbetreffende gedeelte van een
+televisieontvanger geschikt voor CCIR-norm B en G:
+lijnfrequentie: 15&#xA0;625 Hz beeldfrequentie: 25 Hz
+rasterfrequentie: 50 Hz aantal lijnen per beeld: 625 horizontale
+afbuiging van links naar rechts verticale afbuiging van boven naar
+beneden.</al>
+                    </li>
+                    <li>
+                      <li.nr>3&#xB0;.</li.nr>
+                      <al>De
+roepletters moeten aan de ontvangstzijde na demodulatie in leesbaar
+schrift zichtbaar
+zijn.</al>
+                    </li>
+                  </lijst>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>5.</li.nr>
+              <al>Afwijkingen:
+Indien bij automatische telegrafie of beeldoverdracht niet aan de
+voorgeschreven wijze van identificatie kan worden voldaan, dient de
+identificatie te geschieden door middel van spraak of
+morse-telegrafie.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">15</nr>
+          </kop>
+          <al>De machtiginghouder mag, behoudens ingeval van
+nood, uitsluitend radioverbindingen maken met radioamateurs alsmede met
+gebruikers van andere stations die bevoegd zijn op amateurfrequenties
+radioverbindingen te
+maken.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">16</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+artikelen <extref status="actief" doc="1.0:v:BWBR0028621&amp;artikel=18" compleet="nee">18 tot en met 25</extref> en <extref status="actief" doc="1.0:v:BWBR0028621&amp;artikel=51" compleet="nee">51 tot en met 58 van het Besluit
+radio-elektrische inrichtingen BES</extref> zijn niet van toepassing.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+machtiginghouder dient er voor te zorgen dat de zendinrichtingen zijn
+voorzien van een serienummer dat niet op eenvoudige wijze
+verwijderbaar of uitwisbaar
+is.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">17</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+mechanische constructie en de elektrische opbouw (van de delen) van het
+amateurstation dienen te voldoen aan &#x2013; naar de stand der
+techniek &#x2013; redelijk te stellen eisen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Tot de in
+het eerste lid bedoelde eisen behoren in ieder
+geval:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>Delen
+van het amateurstation waartussen de spanning meer dan 50&#xA0;Volt
+voor wissel-spanning of 110 Volt voor gelijkspanning kunnen bedragen of
+waarvan de spanning ten opzichte van de aarde meer dan 50&#xA0;Volt
+voor wisselspanning of 110 Volt voor gelijkspanning kunnen bedragen,
+dienen deugdelijk tegen aanraking te zijn
+beschermd.</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>Aanraakbare
+metalen delen van de met het sterkstroomnet verbonden
+inrichtingen dienen op deugdelijke wijze te zijn geaard of dienen door
+middel van een dubbele of versterkte isolatie van de onder spanning
+staande delen te zijn
+gescheiden.</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>Antennes
+en hoogfrequent-voedingslijnen dienen zo te worden geplaatst dat er
+geen gevaar voor aanraking van onder spanning staande delen
+bestaat.</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>Indien de
+voedingsspanning van de met de antenne of antennevoedingslijn
+gekoppelde laatste trap van de zendinrichting meer dan 50 Volt voor de
+wisselspanning of 110 Volt voor gelijkspanning kan bedragen, dient een
+deugdelijke voorziening aanwezig te zijn, die voorkomt dat de
+voedingsspanning op de antenne
+komt.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">18</nr>
+          </kop>
+          <al>De bandbreedte van de uitzendingen dient beperkt
+te worden tot een voor de te nemen proeven noodzakelijke
+grens.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">19</nr>
+          </kop>
+          <al>De stabiliteit van de frequentie van het
+uitgezonden signaal moet voldoen aan &#x2013; naar de stand der
+techniek &#x2013; redelijk te stellen
+eisen.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">20</nr>
+          </kop>
+          <al>Het vermogen van ongewenste
+hoogfrequent-uitstralingen mag per component niet meer bedragen dan in
+de navolgende tabel is
+aangegeven:</al>
+          <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml2">
+            <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml2">
+              <colspec colname="col1" colnum="1" colwidth="52.5*"/>
+              <colspec colname="col2" colnum="2" colwidth="30*"/>
+              <colspec colname="col3" colnum="3" colwidth="30*"/>
+              <thead valign="bottom">
+                <row rowsep="1">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>Frequentieband
+waarin de ongewenste hoogfrequent uitstraling
+plaatsvindt</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>Zendvermogen
+per hoogfrequent
+component</al>
+                  </entry>
+                  <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>Maximaal
+vermogen</al>
+                  </entry>
+                </row>
+              </thead>
+              <tbody valign="top">
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>9
+kHz &#x2013; 40
+MHz</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>1
+Watt</al>
+                  </entry>
+                  <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>100
+microWatt</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>&gt;
+1
+Watt</al>
+                  </entry>
+                  <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013;
+40
+dB(*1)</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>40
+MHz &#x2013; 960
+MHz</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>10
+Watt</al>
+                  </entry>
+                  <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>10
+microWatt</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>&gt;
+10
+Watt</al>
+                  </entry>
+                  <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013;
+60
+dB(*1)</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>960
+MHz &#x2013; 17.7
+GHz</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>10
+Watt</al>
+                  </entry>
+                  <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>100
+microWatt</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013;
+50 dB
+(*1)</al>
+                  </entry>
+                  <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>&gt;
+10
+Watt</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>&gt;
+17.7
+GHz</al>
+                  </entry>
+                  <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>Naar
+de stand van de
+techniek</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">21</nr>
+          </kop>
+          <al>De machtiginghouder moet er voor zorgdragen dat
+door de uitzendingen van de zendinrichting de grenzen van de hem
+toegewezen frequentiebanden en het toegestane zendvermogen niet worden
+overschreden.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Bijzondere
+voorschriften</titel>
+        </kop>
+        <sub-paragraaf status="goed">
+          <kop>
+            <nr status="officieel">I</nr>
+            <titel status="officieel">Amateurradio
+zendmachtiging A</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">22</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+machtiginghouder mag het amateurstation uitsluitend gebruiken in
+overeenstemming met de in het navolgende schema weergegeven
+combinaties:</al>
+              <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml2">
+                <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml2">
+                  <colspec colname="col1" colnum="1" colwidth="91*"/>
+                  <colspec colname="col2" colnum="2" colwidth="36*"/>
+                  <colspec colname="col3" colnum="3" colwidth="296*"/>
+                  <thead valign="bottom">
+                    <row rowsep="1">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Band
+(MHz)</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Status</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Klassen
+van
+uitzending:</al>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody valign="top">
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>1.8
+&#x2013;
+2.0</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+F1B A3E F3E G3E A3C A3F F3C F3F H3E J3C J3E
+R3E.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>3.5
+&#x2013;
+4.0</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+F1B A3E F3E G3E A3C A3F F3C F3F H3E J2B J3C J3E
+R3E.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>7.0
+&#x2013;
+7.3</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+F1B A3E F3E G3E A3C A3F F3C F3F H3E J2B J3C J3E
+R3E.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>10.1
+&#x2013;
+10.15</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+F1B</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>14.0
+&#x2013;
+14.35</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+F1B A3E F3E G3E A3C A3F F3C 3F H3E J2B J3C J3E
+R3E.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>18.068
+&#x2013;
+18.168</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+F1B A3E F3E G3E A3C A3F F3C F3F H3E J2B J3C J3E
+R3E.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>21.0
+&#x2013;
+21.45</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+F1B A3E F3E G3E A3C A3F F3C F3F H3E J2B J3C J3E
+R3E</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>24.89
+&#x2013;
+24.99</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+F1B A3E F3E G3E A3C A3F F3C F3F H3E J2B J3C J3E
+R3E</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>28.0
+&#x2013;
+29.7</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+F1B A3E F3E G3E A3C A3F F3C F3F H3E J2B J3C J3E
+R3E</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>50.0
+&#x2013;
+54.0</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C
+G3C.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>144.0
+&#x2013;
+148.0</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C
+G3C.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>220.0
+&#x2013;
+225.0</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C
+G3C.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>430.0
+&#x2013;
+440.0</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C F1B F2A F2B H3E J3E R3E F3E G3E J2B G2A
+C3F</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>902.0
+&#x2013;
+928.0</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table>
+              <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml2">
+                <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml2">
+                  <colspec colname="col1" colnum="1" colwidth="91*"/>
+                  <colspec colname="col2" colnum="2" colwidth="36*"/>
+                  <colspec colname="col3" colnum="3" colwidth="296*"/>
+                  <thead valign="bottom">
+                    <row rowsep="1">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Band
+(GHz)</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Status</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Klassen
+van
+uitzending:</al>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody valign="top">
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>1.24
+&#x2013;
+1.3</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>2.32
+&#x2013;
+2.45</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>3.3
+&#x2013;
+3.5</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>5.65
+&#x2013;
+5.925</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>10.00
+&#x2013;
+10.50</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>24.00
+&#x2013;
+24.50</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>47.00
+&#x2013;
+47.10</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>75.50
+&#x2013;
+81.00</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>142.00
+&#x2013;
+149.00</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>241.00
+&#x2013;
+250.00</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>In
+de frequentiebanden 10.1 &#x2013; 10.15 MHz, 18.068 &#x2013; 18.168 MHz
+en 24.89 &#x2013; 24.99 MHz is het houden van amateurradiowedstrijden
+niet toegestaan. In de frequentieband 10.1 &#x2013; 10.15 is het
+maximum zendvermogen 250
+Watts.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>In
+de frequentiebanden tussen 1.8 MHz en 148.0 MHz zijn uitsluitend
+smalbandige uitzendingen
+toegestaan.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Het
+gebruik van het amateurstation voor amateurtelevisie is uitsluitend
+toegestaan in frequentiebanden vanaf 430 MHz en hoger. In de
+frequentiebanden 430 &#x2013; 440 MHz is hiervoor uitsluitend de klasse
+van uitzending C3F
+toegestaan.</al>
+            </lid>
+          </artikel>
+        </sub-paragraaf>
+        <sub-paragraaf status="goed">
+          <kop>
+            <nr status="officieel">II</nr>
+            <titel status="officieel">Amateurradio
+machtiging B</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">23</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+machtiginghouder mag het amateurstation uitsluitend gebruiken in
+overeenstemming met de in het navolgende schema weergegeven
+combinaties:</al>
+              <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml2">
+                <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml2">
+                  <colspec colname="col1" colnum="1" colwidth="91*"/>
+                  <colspec colname="col2" colnum="2" colwidth="36*"/>
+                  <colspec colname="col3" colnum="3" colwidth="296*"/>
+                  <thead valign="bottom">
+                    <row rowsep="1">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Band
+(MHz)</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Status</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Klassen
+van
+uitzending:</al>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody valign="top">
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>3.675
+&#x2013;
+3.72</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>7.1
+&#x2013;
+7.1</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>1.1
+&#x2013;
+21.2</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>8.1
+&#x2013;
+28.3</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+F1B
+J2B.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>8.3
+&#x2013;
+28.5</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>H3E
+J3E R3E
+A3E.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>50.0
+&#x2013;
+54.0</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A 2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C
+G3C.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>144.0
+&#x2013;
+148.0</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C
+G3C.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>220.0
+&#x2013;
+225.0</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C
+G3C.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>430.0
+&#x2013;
+440.0</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C F1B F2A F2B H3E J3E R3E F3E G3E J2B G2A
+C3F</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>902.0
+&#x2013;
+928.0</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table>
+              <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml2">
+                <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml2">
+                  <colspec colname="col1" colnum="1" colwidth="91*"/>
+                  <colspec colname="col2" colnum="2" colwidth="36*"/>
+                  <colspec colname="col3" colnum="3" colwidth="296*"/>
+                  <thead valign="bottom">
+                    <row rowsep="1">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Band
+(GHz)</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Status</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Klassen
+van
+uitzending:</al>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody valign="top">
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>1.24
+&#x2013;
+1.3</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>2.32
+&#x2013;
+2.45</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>3.3
+&#x2013;
+3.5</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>5.65
+&#x2013;
+5.925</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>10.00
+&#x2013;
+10.50</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>24.00
+&#x2013;
+24.50</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>47.00
+&#x2013;
+47.20</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>75.50
+&#x2013;
+81.00</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>142.00
+&#x2013;
+149.00</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>241.00
+&#x2013;
+250.00</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>In
+de frequentiebanden tussen 28.1 MHz en 148.0 MHz zijn alleen
+smalbandige uitzendingen
+toegestaan.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Het
+gebruik van het amateurstation voor amateurtelevisie is uitsluitend
+toegestaan in frequentiebanden vanaf 430 MHz en hoger. In de
+frequentieband 430 &#x2013; 440 MHz, is hiervoor uitsluitend de klasse
+van uitzending C3F
+toegestaan.</al>
+            </lid>
+          </artikel>
+        </sub-paragraaf>
+        <sub-paragraaf status="goed">
+          <kop>
+            <nr status="officieel">III</nr>
+            <titel status="officieel">Amateurradio
+machtiging C</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">24</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+machtiginghouder mag het amateurstation uitsluitend gebruiken in
+overeenstemming met de in het navolgende schema weergegeven
+combinaties:</al>
+              <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml2">
+                <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml2">
+                  <colspec colname="col1" colnum="1" colwidth="91*"/>
+                  <colspec colname="col2" colnum="2" colwidth="36*"/>
+                  <colspec colname="col3" colnum="3" colwidth="296*"/>
+                  <thead valign="bottom">
+                    <row rowsep="1">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Band
+(GHz)</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Status</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Klassen
+van
+uitzending:</al>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody valign="top">
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>50.0
+&#x2013;
+54.0</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C
+G3C.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>144.0
+&#x2013;
+148.0</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C
+G3C.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>220.0
+&#x2013;
+225.0</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C
+G3C.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>430.0
+&#x2013;
+440.0</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C F1B F2A F2B H3E J3E R3E F3E G3E J2B G2A
+C3F</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>902.0
+&#x2013;
+928.0</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table>
+              <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml2">
+                <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml2">
+                  <colspec colname="col1" colnum="1" colwidth="91*"/>
+                  <colspec colname="col2" colnum="2" colwidth="36*"/>
+                  <colspec colname="col3" colnum="3" colwidth="296*"/>
+                  <thead valign="bottom">
+                    <row rowsep="1">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Band
+(GHz)</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Status</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Klassen
+van
+uitzending:</al>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody valign="top">
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>1.24
+&#x2013;
+1.3</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>2.32
+&#x2013;
+2.45</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>3.3
+&#x2013;
+3.5</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>5.65
+&#x2013;
+5.925</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>10.00
+&#x2013;
+10.50</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>24.00
+&#x2013;
+24.50</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>47.00
+&#x2013;
+47.20</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>75.50
+&#x2013;
+81.00</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>142.00
+&#x2013;
+149.00</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>241.00
+&#x2013;
+250.00</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>A1A
+A2A A2B A3E A3C A3F F1B F2A F2B F3F H3E J3C J3E R3E F3E G3E A1C A2C J2A
+J2B J2C J3C F2C F3C G1C G1A G2C G3C
+C3F.</al>
+                      </entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>In
+de frequentiebanden 50.0 &#x2013; 54.0 en 144.0 &#x2013;148.0 MHz zijn
+alleen smalbandige uitzendingen
+toegestaan.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Het
+gebruik van het amateurstation voor amateurtelevisie is
+uitsluitend toegestaan in frequentiebanden vanaf 430 MHz en
+hoger. In de 430 &#x2013; 440 MHz frequentieband is uitsluitend de
+klasse van uitzending C3F
+toegestaan.</al>
+            </lid>
+          </artikel>
+        </sub-paragraaf>
+        <sub-paragraaf status="goed">
+          <kop>
+            <nr status="officieel">IV</nr>
+            <titel status="officieel">Radioamateurmachtiging
+N</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">25</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+machtiginghouder mag het amateurstation uitsluitend gebruiken in
+overeenstemming met de in het navolgende schema weergegeven
+combinaties:</al>
+              <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml2">
+                <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml2">
+                  <colspec colname="col1" colnum="1" colwidth="79*"/>
+                  <colspec colname="col2" colnum="2" colwidth="36*"/>
+                  <colspec colname="col3" colnum="3" colwidth="98*"/>
+                  <thead valign="bottom">
+                    <row rowsep="1">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Band
+(MHz)</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Status</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>Klassen
+van
+uitzending:</al>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody valign="top">
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>145.000
+&#x2013;
+145.500</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>F2B
+G2B.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>146.000
+&#x2013;
+148.000</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>F3E
+G3E.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>220.000
+&#x2013;
+225.000</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(P)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>F2B
+G2B F3E
+G3E.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>430.000
+&#x2013;
+433.000</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>F2B
+G2B F3E
+G3E.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>438.000
+&#x2013;
+444.000</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>(S)</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>F2B
+G2B F3E
+G3E.</al>
+                      </entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Het
+maximum toegestane zendvermogen bedraagt 25
+Watt.</al>
+            </lid>
+          </artikel>
+        </sub-paragraaf>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Internationale
+communicatie</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">26</nr>
+          </kop>
+          <al>Ingeval van internationale communicatie gelden
+mede de voorschriften opgenomen in <intref status="actief" doc="1.0:v:BWBR0028725&amp;bijlage=4">bijlage&#xA0;4</intref> behorende bij dit
+besluit. Indien de voorschriften opgenomen in de <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=22">artikelen 22</intref>, <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=23">23</intref>, <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=24">24</intref>
+en <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=25">25</intref> daarvan afwijken, hebben de voorschriften opgenomen in
+bijlage&#xA0;4 voorrang.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Strafbepaling</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">27</nr>
+          </kop>
+          <al>Het is een strafbaar feit als bedoeld in artikel
+35, vierde lid, van de wet
+om:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>een
+verbod als omschreven in <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=12">artikel 12, tweede lid</intref>, te overtreden;
+en</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de verplichtingen
+opgenomen in de <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=1">artikelen 1, onderdeel o</intref>, <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=12">12, eerste, tweede en zesde
+lid</intref>, <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=15">15</intref>, <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=20">20</intref>, <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=22">22</intref>, <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=23">23</intref>, <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=24">24</intref> en <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=25">25</intref> niet na te
+leven.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Overgangs-
+en slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">28</nr>
+          </kop>
+          <al>De geldigheidsduur van een machtiging die is
+verleend krachtens de <extref status="actief" doc="1.0:v:BWBR0028469&amp;artikel=15" compleet="nee">artikel 15, eerste lid, van de Wet
+telecommunicatievoorzieningen</extref> en die bestemd is voor
+telecommunicatievoorzieningen ten behoeve van radioamateurs is,
+gerekend vanaf het tijdstip van verlening, gelijk aan de duur waarvoor
+de machtiging is verleend.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">29</nr>
+          </kop>
+          <al>Een toestemming die is verleend krachtens artikel
+11, eerste lid, onderdeel b, of 12, achtste lid, van het Landsbesluit
+radioamateurs wordt gelijkgesteld met een toestemming verleend
+krachtens <intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=11">artikel 11, eerste lid</intref>, onderdeel b, onderscheidenlijk
+<intref status="actief" doc="1.0:v:BWBR0028725&amp;artikel=12">artikel 12, achtste lid</intref>.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">30</nr>
+          </kop>
+          <al>Dit besluit wordt aangehaald als: Besluit
+radioamateurs
+BES.</al>
+        </artikel>
+      </paragraaf>
+    </wettekst>
+    
+  <bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">1</nr><titel status="officieel">behorende bij het Besluit radioamateurs
+BES</titel></kop>
+<divisie opmaak="default"><kop kopopmaak="vet"><titel status="officieel">Symbolen
+van de klassen van uitzending</titel></kop>
+<al><nadruk type="cur">Eerste symbool
+(modulatie van de draaggolf)</nadruk></al> <al>N =
+ongemoduleerde draaggolf</al> <al>A = dubbelzijband
+(*1)</al> <al>B = onafhankelijke zijbanden</al>
+<al>H = enkelzijband, volledige draaggolf (* l)</al>
+<al>R = enkelzijband, gereduceerde of variabele
+draaggolf (* l)</al> <al>J = enkelzijband, onderdrukte
+draaggolf (*1)</al> <al>C = restzijband (rudimentaire
+zijband) (*1)</al> <al>G = fasemodulatie (*2)</al>
+<al>F = frequentiemodulatie (*2)</al>
+<al>D = de uitzending waarvan de draaggolf zowel in
+amplitude- als in frequentiefase gemoduleerd is, hetzij tegelijk dan
+wel in een van tevoren vastgestelde volgorde</al>
+<al>P = ongemoduleerde pulstrein</al>
+<al>K = pulstrein, amplitude-gemoduleerd</al>
+<al>L = pulstrein, gemoduleerd in lengte of duur</al>
+<al>M = pulstrein, gemoduleerd in positie of fase</al>
+<al>Q = pulstrein, waarbij de draaggolf frequentie- of
+fase-gemoduleerd is gedurende de pulstijd</al> <al>V =
+pulstrein, welke een combinatie is van het bovenstaande of op een
+andere wijze tot stand is gekomen</al> <al>W =
+gevallen, welke door bovenstaande symbolen niet worden gedekt en
+waarbij een uitzending bestaat uit een draaggolf, die tegelijk dan wel
+in een van tevoren vastgestelde volgorde wordt gemoduleerd met een
+combinatie van twee of meer van de volgende wijzen: amplitude,
+frequentie of fase, puls</al> <al>X = gevallen waarin
+niet is voorzien.</al>
+<al><nadruk type="cur">Tweede symbool (type
+signaal dat de draaggolf moduleert)</nadruk></al>
+<al>O = geen modulatie aanwezig</al>
+<al>1 = &#xE9;&#xE9;n enkel kanaal met niet-analoge
+informatie waarbij geen gebruik wordt gemaakt van een modulerende
+hulpdraaggolf</al> <al>2 = &#xE9;&#xE9;n enkel kanaal
+met niet-analoge informatie waarbij gebruik wordt gemaakt van een
+modulerende hulpdraaggolf</al> <al>3 = &#xE9;&#xE9;n
+enkel kanaal met analoge informatie</al> <al>7 = twee
+of meer kanalen met niet-analoge informatie</al> <al>8
+= twee of meer kanalen met analoge informatie.</al>
+<al>9 = samengesteld systeem, waarbij &#xE9;&#xE9;n of
+meer kanalen met niet-analoge informatie te zamen met &#xE9;&#xE9;n of
+meer kanalen met analoge informatie</al> <al>X =
+gevallen waarin niet is voorzien.</al>
+<al><nadruk type="cur">Derde symbool (soort
+informatie welke uitgezonden wordt)</nadruk></al>
+<al>N = geen informatie (hierbij inbegrepen informatie
+van een constante, niet variabele aard. zoals b.v. bij
+standaardfrequenties, radarpulsen etc.)</al> <al>A =
+morse-telegrafie bestemd om op het gehoor opgenomen te worden</al>
+<al>B = telegrafie bestemd voor automatische
+ontvangst</al> <al>C = facsimil&#xE9;</al>
+<al>D = datatransmissie</al> <al>E =
+telefonie</al> <al>F = televisie</al>
+<al>W = combinatie van bovenstaande</al>
+<al>X = gevallen waarin niet is voorzien</al>
+<al>aanduiding dat &#xE9;&#xE9;n dan wel een
+combinatie van de hierboven vermelde codes van toepassing
+zijn</al> <al>(*l) Deze codes
+hebben betrekking op uitzendingen waarbij de draaggolf amplitude
+gemoduleerd wordt, inclusief uitzendingen waarbij de subcarrier
+(hulpdraaggolf) frequentie- of fase-gemoduleerd wordt.</al>
+<al>(*2) Indien niet bekend is of fase- dan wel
+frequentiemo-dulatie wordt toegepast, wordt symbool &#xAB;F&#xBB;
+gebruikt.</al></divisie></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">2</nr><titel status="officieel">behorende bij het Besluit radioamateurs
+BES</titel></kop>
+<al>De uitgifte van roepletters
+als bedoeld in artikel 40 van het Besluit radio-elektrische
+inrichtingen BES voor wat betreft radioamateurs geschiedt
+overeenkomstig de navolgende
+tabel.</al>
+
+<table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml2">
+<tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml2">
+<colspec colname="col1" colnum="1" colwidth="85*"/>
+<colspec colname="col2" colnum="2" colwidth="108*"/>
+<colspec colname="col3" colnum="3" colwidth="265*"/>
+<thead valign="bottom">
+<row rowsep="1">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>Eilandgebied</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>Prefixen
+reeks</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>Gebruik</al></entry></row></thead>
+<tbody valign="top">
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>Bonaire</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>PJ4x</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>Clubstations,
+relaisstations en tijdens internationale
+wedstrijden**)</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>Bonaire</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>PJ4xx
+of
+PJ4xxx</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>Personen
+van Nederlandse nationaliteit of vreemdelingen die in de Nederlandse
+Antillen hun radioamateur examen hebben afgelegd en die op het eiland
+Bonaire woonachtig
+zijn.</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>St.
+Eustatius</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>PJ5x</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>Clubstations,
+relaisstations en tijdens internationale
+wedstrijden**)</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>St.
+Eustatius</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>PJ5xx
+of
+PJSxxx</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>Personen
+van Nederlandse nationaliteit of vreemdelingen die in de Nederlandse
+Antillen hun radioamateur examen hebben afgelegd en die op het eiland
+St. Eustatius woonachtig
+zijn.</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>Saba</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>PJ6x</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>Clubstations,
+relaisstations en tijdens internationale
+wedstrijden**).</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>Saba</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>PJ&#xF3;xx
+of
+PJ&#xF3;xxx</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>Personen
+van Nederlandse nationaliteit of vreemdelingen die in de Nederlandse
+Antillen hun radioamateur examen hebben afgelegd en die op het eiland
+Saba woonachtig
+zijn.</al></entry></row></tbody></tgroup></table><al>PJ2
+etc. is het prefix;</al> <al>x, xx of xxx staat voor
+aantal nader in te vullen letters; bij xx en xxx is de keuze in
+beginsel aan de radioamateur.</al> <al>**)
+Internationale wedstrijden in groepsverband, voor de duur van de
+wedstrijd.</al>
+<divisie opmaak="default"><kop kopopmaak="vet"><titel status="officieel">Algemene
+opmerkingen</titel></kop><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>1.</li.nr><al>Personen die in een openbaar
+lichaam gevestigd zijn doch tijdelijk op een ander openbaar lichaam
+verblijven dan waar zij woonachtig zijn, kunnen gebruik maken van hun
+eigen roepletters. Indien de locatie van waar zij zenden voor de
+verbinding van belang is, kunnen zij desgewenst deze doen voorafgaan
+door het prefix van het openbaar lichaam waar zij tijdelijk
+verblijven.</al></li><li> <li.nr>2.</li.nr><al>De
+prefixen PJO, PJ1, PJ3, PJ8 en PJ9 zullen niet meer ter beschikking
+staan van
+radioamateurs.</al></li></lijst></divisie></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">3</nr><titel status="officieel">behorende bij het Besluit radioamateurs
+BES</titel></kop>
+<divisie opmaak="default"><kop kopopmaak="vet"><titel status="officieel">Register
+amateurstation</titel></kop>
+
+<table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml2"><title>Roepletters
+machtiginghouder:</title>
+<tgroup align="left" char="" charoff="50" cols="4" tgroupstyle="xml2">
+<colspec colname="col1" colnum="1" colwidth="116*"/>
+<colspec colname="col2" colnum="2" colwidth="116*"/>
+<colspec colname="col3" colnum="3" colwidth="116*"/>
+<colspec colname="col4" colnum="4" colwidth="116*"/>
+<thead valign="bottom">
+<row rowsep="1">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>Zender</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>In/van</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>Uit/aan</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>Opmerkingen</al></entry></row></thead>
+<tbody valign="top">
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>fabrikaat
+:</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>naam:</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>naam:</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>no
+.
+l</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>type:</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>adres:</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>adres:</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>serienr.:</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>woonplaats:</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>woonplaats:</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>freq.band:</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>eventuele
+roepletters</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>eventuele
+roepletters</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>vermogen:</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>datum:</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>datum:</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>fabrikaat:</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>naam:</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>naam:</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>no.
+2</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>type:</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>adres:</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>adres:</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>serienr.:</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>woonplaats:</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>woonplaats:</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>freq.band:</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>eventuele
+roepletters:</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>eventuele
+roepletters</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>vermogen:</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>datum:</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>datum:</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>fabrikaat:</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>naam:</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>naam:</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>no.
+3</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>type:</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>adres:</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>adres</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>serienr.:</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>woonplaats:</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>woonplaats:</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>freq.band:</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>eventuele
+roepletters:</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>eventuele
+roepletters:</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>vermogen:</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>datum:</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>datum:</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/></row></tbody></tgroup></table></divisie></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">4</nr><titel status="officieel">behorende bij het Besluit radioamateurs
+BES</titel></kop>
+<divisie opmaak="default"><kop kopopmaak="vet"><titel status="officieel">Internationale
+status van de amateurdienst</titel></kop> <al>De
+verdeling van de frequentiebanden waarin de amateurdienst kan worden
+toegestaan alsmede de daaraan verbonden internationale status van de
+verschillende diensten zijn in onderstaande schema opgenomen. Er komen
+afwijkingen voor tussen de internationale en nationale status en
+frequentiebanden.</al>
+
+<table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml2">
+<tgroup align="left" char="" charoff="50" cols="5" tgroupstyle="xml2">
+<colspec colname="col1" colnum="1" colwidth="12*"/>
+<colspec colname="col2" colnum="2" colwidth="4*"/>
+<colspec colname="col3" colnum="3" colwidth="16*"/>
+<colspec colname="col4" colnum="4" colwidth="66.5*"/>
+<colspec colname="col5" colnum="5" colwidth="14*"/>
+<thead valign="bottom">
+<row rowsep="1">
+<entry align="left" colname="col1" colsep="0" morerows="0" nameend="col3" namest="col1" rotate="0" valign="top"><al>Frequentieband
+in
+MHz.</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>Toewijzingen
+Status*)</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"><al>Bijzonderheden**)</al></entry></row></thead>
+<tbody valign="top">
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>~~L8</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>~</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>1.85</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>AMATEUR
+VASTE EN MOBIELE DIENSTEN,
+AMATEUR,</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>1.85</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>&#x2013;</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>2.00</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>RADION
+AVIGATIE,
+RADIOLOCATIE</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"><al>2</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>3.5</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>&#x2013;</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>4.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>VASTE
+en MOBIELE DIENSTEN,
+AMATEUR</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"><al>1
+en
+3</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>7.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>&#x2013;</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>7.1</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>AMATEUR,
+AMATEURSATELLIET</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"><al>1</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>7.1</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>&#x2013;</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>7.3</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>AMATEUR</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"><al>1</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>10.1</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>&#x2013;</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>10.15</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>VASTE
+DIENSTEN,
+amateur</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"><al>1</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>14.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>&#x2013;</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>14.25</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>AMATEUR,
+AMATEURSATELLIET</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"><al>1</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>18.068</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>&#x2013;</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>18.168</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>AMATEUR</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>21.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>&#x2013;</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>21.45</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>AMATEUR,
+AMATEURSATELLIET</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"><al>1</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>21.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>&#x2013;</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>21.45</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>AMATEUR,
+AMATEURSATELLIET</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"><al>1</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>24.89</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>&#x2013;</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>24.99</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>AMATEUR,
+AMATEURSATELLIET</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"><al>1</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>28.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>&#x2013;</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>29.7</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>AMATEUR,
+AMATEURSATELLIET</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>50.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>&#x2013;</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>54.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>AMATEUR</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"><al>1
+en
+4</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>144.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>&#x2013;</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>146.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>AMATEUR,
+AMATEURSATELLIET</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>146.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>&#x2013;</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>148.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>AMATEUR</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>220.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>&#x2013;</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>225.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>AMATEUR,
+VASTE DIENSTEN,
+radiolocatie</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>430.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>&#x2013;</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>440.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>RADIOLOCATIE,
+amateur</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"><al>5</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>902.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>&#x2013;</al></entry>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>928.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>VASTE
+DIENSTEN, amateur,
+radiolocatie</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"><al>6</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>1240.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>1260.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>RADIOLOCATIE.
+RADIO-NAVIGATIESATELLIET,
+amateur</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>1260.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>1300.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>RADIOLOCATIE,
+amateur</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>2300.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>2450.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>VASTE
+DIENSTEN, MOBIELE DIENSTEN, RADIOLOCATIE,
+amateur</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"><al>5
+en
+7</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>3300.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>3400.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>RADIOLOCATIE,
+amateur, vaste diensten, mobiele
+diensten</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>3400.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>3500.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>VASTE
+DIENSTEN, SATELLIET, amateur, mobiele diensten,
+radiolocatie</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>5650.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>5725.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>RADIOLOCATIE,
+space research (deepspace),
+amateur</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"><al>5</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>5725.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>5850.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>RADIOLOCATIE,
+amateur</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"><al>5
+en
+8</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>5850.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>5925.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>VASTE
+en MOBIELE DIENSTEN, SATELLIET, amateur,
+radiolocatie</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="bottom"><al>5</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>10000.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>10450.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>RADIOLOCATIE,
+amateur</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"><al>9</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>10450.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>10500.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>RADIOLOCATIE,
+amateur,
+amateursatelliet</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>24000.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>24050.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>AMATEUR,
+AMATEURSATELLIET</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>24050.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>24250.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>RADIOLOCATIE,
+amateur, earth
+exploration-satellite</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"><al>10</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>47000.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>47200.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>AMATEUR,
+AMATEURSATELLIET</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>75500.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>76000.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>AMATEUR,
+AMATEURSATELLIET</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>76000.0</al></entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>81000.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>RADIOLOCATIE,
+amateur,
+amateursatelliet</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>142000.0</al>
+</entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>144000.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>AMATEUR,
+AMATEURSATELLIET</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>144000.0</al>
+</entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>149000.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>RADIOLOCATIE,
+amateur,
+amateursatelliet</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"><al>12</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>241000.0</al>
+</entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>248000.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>RADIOLOCATIE,
+amateur, amateur
+satelliet</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"><al>13</al></entry></row>
+<row rowsep="0">
+<entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>248000.0</al>
+</entry>
+<entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+<entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>250000.0</al></entry>
+<entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"><al>AMATEUR,
+AMATEURSATELLIET</al></entry>
+<entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/></row></tbody></tgroup></table><al><nadruk type="cur">*)
+Toelichting op de kolom Toewijzingen Status:</nadruk></al>
+<al>In de kolom toewijzing zijn de diensten opgenomen
+die tot het gebruik van de in de kolom frequentieband vermelde band
+zijn toegelaten.</al> <al>Bij deze toewijzing wordt
+onderscheid gemaakt tussen de primaire en secundaire status van de
+verschillende diensten.</al> <al>Diensten met primaire
+status zijn vermeld in het hoofdlettertype, met secundaire status in
+het normale lettertype.</al> <al>Primaire diensten
+hebben voorrang boven secundaire diensten. Waar storing optreedt moeten
+de secundaire diensten wijken c.q. hun uitzendingen onverwijld staken.
+Primaire diensten onderling hebben gelijke rechten met dien verstande
+dat geen onderlinge storing mag worden veroorzaakt. Secundaire diensten
+mogen geen storing veroorzaken op toepassingen van primaire diensten,
+zij hebben geen recht op bescherming tegen storing veroorzaakt door
+stations behorende tot primaire diensten. Secundaire diensten onderling
+hebben gelijke rechten.</al>
+<al><nadruk type="cur">**) Toelichting op de kolom
+Bijzonderheden:</nadruk></al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>1.</li.nr><al>Een
+deel van deze frequentieband kan ingeval van natuurrampen tijdelijk
+aangewezen worden voor de afwikkeling van het
+radionoodverkeer.</al></li><li><li.nr>2.</li.nr><al>De
+frequentieband 1850 &#x2013; 2000 kHz wordt door Argentini&#xEB;.
+Bolivia, Chili, Mexico, Paraguay, Peru, Uruguay, en Venezuela op
+primaire basis voor de vaste en mobiele diensten, de radionavigatie en
+radiolocatie
+gereserveerd.</al></li><li><li.nr>3.</li.nr><al>De
+frequentieband 3500 &#x2013; 3750 kHz wordt door Honduras, Mexico,
+Peru, en Venezuela op primaire basis voor de vaste en mobiele diensten
+gereserveerd. In Brazili&#xEB; is de band van 3700 4000 kHz op primaire
+basis voor de radiolocatie gereserveerd.</al><al>In
+Argentini&#xEB;, Bolivia, Chili, Ecuador, Paraguay, Peru, en Uruguay is
+de band tussen 3750 en 4000 kHz op primaire basis voor de vaste
+diensten
+gereserveerd.</al></li><li><li.nr>4.</li.nr><al>In
+Cuba wordt de band tussen 146 &#x2013; 148 MHz op primaire basis voor
+de mobiele diensten en vaste verbindingen
+gereserveerd.</al></li><li><li.nr>5.</li.nr><al>Amateur-satcllietgebruik
+in de frequentiebanden 435 &#x2013; 438, 1260&#x2013;1 270, 2 400
+&#x2013; 2 450, 3400 3410 en 5 650 &#x2013; 5 670 MHz is toegelaten op
+de voorwaarde dat de overige diensten hierdoor niet worden
+gestoord.</al><al>In de banden I 260 &#x2013; l 270 en
+5 650 &#x2013; 5 670 MHz is het satellietgebruik beperkt tot de
+richting aarde satelliet.
+A</al></li><li><li.nr>6.</li.nr><al>De frequentieband
+902 &#x2013; 928 MHz is bestemd voor gebruik ten behoeve van
+industri&#xEB;le, wetenschappelijke en medische doeleinden (lSM
+frequentie). Storingen die door ISM-apparatuur in de ISM frequenties
+worden veroorzaakt moeten worden
+geaccepteerd.</al></li><li><li.nr>7.</li.nr><al>De
+frequentieband 2400 &#x2013; 2500 MHz is bestemd voor gebruik ten
+behoeve van industri&#xEB;le, wetenschappelijke en medische doeleinden
+(ISM frequentie). Storingen die door ISM-apparatuur in de ISM
+frequenties worden veroorzaakt moeten worden
+geaccepteerd.</al></li><li><li.nr>8.</li.nr><al>De
+frequentieband 5 725 &#x2013; 5 875 MHz is bestemd voor gebruik ten
+behoeve van industri&#xEB;le, wetenschappelijke en medische doeleinden
+(ISM frequentie). Storingen die door ISM-apparatuur in de ISM
+frequenties worden veroorzaakt moeten worden
+geaccepteerd.</al></li><li><li.nr>9.</li.nr><al>De
+frequentieband 9 975 &#x2013; 10 025 MHz is op secundaire basis
+ingedeeld om door weerradars aan boord van satellieten te worden
+gebruikt. 10. De frequentieband 24 000 &#x2013; 24 125,0 MHz is bestemd
+voor gebruik ten behoeve van industriele, wetenschappelijke en medische
+doeleinden (ISM frequentie). Storingen die door ISM-apparatuur in de
+ISM frequenties worden veroorzaakt moeten worden
+geaccepteerd.</al></li><li><li.nr>11.</li.nr><al>De
+frequentieband 78 &#x2013; 79 GHz mag op primaire basis worden gebruikt
+voor radar aan boord van
+satellieten.</al></li><li><li.nr>12.</li.nr><al>De
+frequentiebanden 144,68 &#x2013; 144,98 GHz, 145,45 &#x2013; 145,75 GHz
+en 146,82 &#x2013; 147,12 GHz zijn op primaire basis toegewezen voor de
+radio-astronomiedienst.</al></li><li><li.nr>13.</li.nr><al>De
+frequentieband 244 &#x2013; 246 GHz is bestemd voor gebruik ten behoeve
+van industri&#xEB;le, wetenschappelijke en medische doeleinden (ISM
+frequentie). Storingen die door ISM apparatuur in de ISM frequenties
+worden veroorzaakt moeten worden
+geaccepteerd.</al></li></lijst></divisie></bijlage></wet-besluit>
+</wetgeving>
+  	

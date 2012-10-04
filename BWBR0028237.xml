@@ -1,0 +1,1415 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0028237" dtdversie="2.0" id="440849" soort="wet-BES">
+  
+  <intitule>Wet overeenkomsten
+langs elektronische weg
+BES</intitule>
+  
+  <wet-besluit>
+    
+    <wettekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>In deze wet en de daarop berustende bepalingen
+wordt verstaan
+onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>
+                <nadruk type="cur">certificaat:</nadruk> een
+bevestiging, afkomstig van een derde, gericht aan de ontvanger van
+langs elektronische weg verzonden informatie, dat die informatie van
+een bepaalde natuurlijke persoon of rechtspersoon afkomstig
+is;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>
+                <nadruk type="cur">certificatiedienstverlener:</nadruk> de
+natuurlijke of rechtspersoon die certificaten afgeeft of andere
+diensten in verband met elektronische handtekeningen
+verleent;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>
+                <nadruk type="cur">commerci&#xEB;le
+communicatie:</nadruk> alle vormen van
+aanbieden en aanprijzen van zaken, diensten, bedrijven en personen,
+waaronder reclame en direct marketing, langs elektronische weg vanuit
+of gericht op de openbare lichamen Bonaire, Sint Eustatius en Saba,
+direct of indirect gericht op het tot stand brengen van
+overeenkomsten;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>
+                <nadruk type="cur">cryptografie:</nadruk> technieken
+voor het versleutelen van elektronisch opgeslagen gegevens met het
+oogmerk dat die gegevens slechts door bepaalde personen te ontsleutelen
+zijn;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>
+                <nadruk type="cur">dienstenaanbieder:</nadruk> de
+natuurlijke of rechtspersoon die diensten aanbiedt strekkende tot het
+faciliteren van informatie langs elektronische
+weg;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>
+                <nadruk type="cur">informatie:</nadruk> alle
+vormen van data, tekst, beeld, geluid, codes,
+computerprogramma&#x2019;s, software en
+databestanden;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>
+                <nadruk type="cur">langs elektronische
+weg:</nadruk> het overbrengen of opslaan
+van gegevens, die daartoe worden omgezet in reeksen elektronische,
+radio-elektrische, elektromagnetische of optische
+signalen;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>
+                <nadruk type="cur">minister:</nadruk> de
+Minister van Justitie;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>
+                <nadruk type="cur">persoonsgegevens:</nadruk> gegevens
+betreffende een bepaalde natuurlijke of rechtspersoon, daaronder zowel
+begrepen informatie die de identiteit bepaalt, met inbegrip van
+adresgegevens, telefoonnummer, faxnummer en elektronisch postadres,
+alsook bijzonderheden met betrekking tot die persoon zoals koopgedrag
+en preferenties.</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>
+                <nadruk type="cur">elektronische
+handtekening:</nadruk> elektronische
+gegevens die zijn vastgehecht aan of logisch geassocieerd zijn met
+andere elektronische gegevens en die worden gebruikt als middel voor
+authentificatie.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Commerci&#xEB;le
+communicatie</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Commerci&#xEB;le
+communicatie dient steeds als zodanig herkenbaar te zijn.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+natuurlijke of rechtspersoon namens wie de commerci&#xEB;le
+communicatie plaatsvindt moet in het kader van die commerci&#xEB;le
+communicatie duidelijk identificeerbaar zijn.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Wanneer
+de aanbieder van commerci&#xEB;le communicatie in het kader van
+commerci&#xEB;le communicatie gebruik maakt van wedstrijden en spelen,
+moeten deze als zodanig herkenbaar zijn, terwijl de
+deelnemingsvoorwaarden gemakkelijk te vervullen moeten zijn en
+nauwkeurig en ondubbelzinnig moeten worden voorgesteld. Het is de
+aanbieder van commerci&#xEB;le communicatie verboden daarbij gebruik te
+maken van enig bij wettelijk voorschrift gereguleerde wedstrijd of
+spel.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <al>Bij algemene maatregel van bestuur
+kunnen:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>categorie&#xEB;n
+van commerci&#xEB;le communicatie worden aangewezen die zijn
+verboden;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>categorie&#xEB;n
+van personen worden aangewezen tot wie het verboden is commerci&#xEB;le
+communicatie te
+richten;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>soorten
+overeenkomsten worden aangewezen
+die:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;</li.nr>
+                  <al>niet
+langs elektronische weg of niet met behulp van een of meer met name
+genoemde elektronische technieken mogen worden gesloten, dan
+wel</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;</li.nr>
+                  <al>ook langs
+niet-elektronische weg toegankelijk moeten
+blijven;</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>in
+het kader van commerci&#xEB;le communicatie verplichte mededelingen
+worden
+voorgeschreven;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>nadere
+regels worden gesteld ten aanzien van de inhoud en aard van de
+commerci&#xEB;le communicatie, de aard of omvang van elektronische
+handel en de doelgroep.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Ongevraagde
+commerci&#xEB;le communicatie dient steeds duidelijk en ondubbelzinnig
+als zodanig herkenbaar te zijn.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+ontvanger van ongevraagde commerci&#xEB;le communicatie wordt bij
+iedere zodanige uiting een goed herkenbare en eenvoudige mogelijkheid
+gegeven om bezwaar te maken tegen nieuwe uitingen. Is een zodanig
+bezwaar eenmaal te kennen gegeven, dan is het versturen van ongevraagde
+commerci&#xEB;le communicatie naar deze ontvanger
+verboden.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Aanbieder
+van commerci&#xEB;le communicatie</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+aanbieder van commerci&#xEB;le communicatie is gehouden bij zijn
+commerci&#xEB;le communicatie ten minste de volgende gegevens volledig
+en duidelijk te
+vermelden:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de
+naam, plaats van vestiging en het adres van de aanbieder van
+commerci&#xEB;le
+communicatie;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de
+gegevens die een snel contact en een rechtstreekse en effectieve
+communicatie met de aanbieder van commerci&#xEB;le communicatie
+mogelijk maken, met inbegrip van diens elektronische
+postadres;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>waar en
+wanneer de aanbieder van commerci&#xEB;le communicatie in het
+handelsregister is ingeschreven, met inbegrip van het
+inschrijvingsnummer, dan wel waar en wanneer de aanbieder van
+commerci&#xEB;le communicatie op andere wijze staat geregistreerd,
+tenzij daarvan geen sprake
+is;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de verschillende
+te volgen etappes om tot een overeenkomst langs elektronische weg te
+komen;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>een
+nauwkeurige en ondubbelzinnige aanduiding van het product of de dienst,
+de prijs, provisie of andersoortige vergoedingen en
+kosten;</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>de wijze van
+betalen en van de levering of
+uitvoering;</al>
+              </li>
+              <li>
+                <li.nr>g.</li.nr>
+                <al>de van
+toepassing zijnde voorwaarden, waaronder voor zover van toepassing
+onder meer zijn begrepen een aanduiding van de regio waarvoor het
+aanbod geldt, de herroepelijk- of onherroepelijkheid van het aanbod en
+de duur daarvan, de leveringstijd, de eventuele bijkomende kosten, met
+inbegrip van transportkosten en
+verzekeringspremies;</al>
+              </li>
+              <li>
+                <li.nr>h.</li.nr>
+                <al>de
+overige rechten en verplichtingen van partijen, met inbegrip van
+opzeggings- en andere be&#xEB;indigingsmogelijkheden,
+alsmede</al>
+              </li>
+              <li>
+                <li.nr>i.</li.nr>
+                <al>het
+toepasselijke recht en de wijze van
+geschillenbeslechting.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Wanneer
+dit in redelijkheid nodig is voor de uitvoering en afwikkeling van een
+overeenkomst langs elektronische weg vermeldt de aanbieder van
+commerci&#xEB;le communicatie voorts de naam, plaats van vestiging en
+het adres van zijn vertegenwoordigers in het land waar de wederpartij
+woont of gevestigd is.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De
+aanbieder van commerci&#xEB;le communicatie die een beroep uitoefent
+dat in zijn land van vestiging, en in het land waarin hij regelmatig
+zijn diensten verleent, door of vanwege de overheid of een
+semi-publiekrechtelijk lichaam, met inbegrip van een orde van beroep of
+soortgelijke instelling, is gereglementeerd, is voorts gehouden om
+informatie te verstrekken bij wie en sinds wanneer hij staat
+ingeschreven, alsmede een correcte omschrijving van zijn beroep en van
+relevante van toepassing zijnde beroepsregels, met inbegrip van een
+bestaande klachtprocedure.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Bij of
+krachtens algemene maatregel van bestuur, kunnen nadere regels worden
+gesteld ter zake van te verstrekken informatie en kunnen
+categorie&#xEB;n van beroepsbeoefenaren geheel of gedeeltelijk van de
+in het derde lid bedoelde verplichting worden ontheven.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Wanneer
+de aanbieder van commerci&#xEB;le communicatie zich bedient van
+aanbiedingen, waaronder onder meer kortingen, premies en geschenken
+worden begrepen, dan moeten deze als zodanig herkenbaar zijn, terwijl
+de voorwaarden om van deze aanbiedingen gebruik te maken, gemakkelijk
+te vervullen moeten zijn en nauwkeurig en ondubbelzinnig moeten worden
+voorgesteld.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Overeenkomsten
+langs elektronische weg</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+aanbieder van commerci&#xEB;le communicatie stelt de wederpartij de
+voorwaarden die de door hem te sluiten overeenkomsten langs
+elektronische weg beheersen, met inbegrip van eventuele algemene
+voorwaarden, langs elektronische weg ter beschikking op een wijze dat
+de wederpartij in staat is deze op te slaan en later weer te geven dan
+wel verstrekt hem deze schriftelijk.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+aanbieder van commerci&#xEB;le communicatie stelt de wederpartij, voor
+of bij het sluiten van een overeenkomst langs elektronische weg,
+passende middelen ter beschikking waarmee de wederpartij op een
+effectieve en toegankelijke wijze zich kan vergewissen van eventuele
+fouten en deze kan
+herstellen.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Elektronische
+handtekening</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een
+elektronische handtekening heeft dezelfde rechtskracht als een
+handgeschreven handtekening en kan als bewijsmiddel in een
+gerechtelijke procedure worden toegelaten.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Certificaten
+die door een certificatiedienstverlener aan het publiek worden
+afgegeven, worden voor bewijsdoeleinden erkend, op voorwaarde dat de
+certificatiedienstverlener voldoet aan bij algemene maatregel van
+bestuur te stellen voorschriften; dan wel de certificatiedienstverlener
+zich voor het certificaat borg stelt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Bij
+algemene maatregel van bestuur kunnen nadere regels worden gesteld met
+betrekking tot elektronische handtekeningen, de erkenning daarvan voor
+andere dan privaatrechtelijke doeleinden, de certificatie en
+certificatiedienstverleners, het toezicht op
+certificatiedienstverleners, de erkenning van certificaten en
+certificatiedienstverleners, de wijze van borgstellen, alsmede
+aanpalende onderwerpen waaromtrent regeling nuttig wordt
+geoordeeld.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Aansprakelijkheid</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Aansprakelijkheid
+dienstenaanbieders</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">8</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Een
+dienstenaanbieder is niet aansprakelijk voor de inhoud van
+commerci&#xEB;le communicatie of andere informatie die door zijn
+tussenkomst langs elektronische weg wordt verzonden of opgeslagen, op
+voorwaarde dat
+hij:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;</li.nr>
+                  <al>niet
+degene is van wie de informatie
+stamt;</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;</li.nr>
+                  <al>de
+ontvanger van de informatie niet heeft
+geselecteerd;</al>
+                </li>
+                <li>
+                  <li.nr>3&#xB0;</li.nr>
+                  <al>de
+doorgegeven informatie niet heeft geselecteerd noch
+gewijzigd;</al>
+                </li>
+                <li>
+                  <li.nr>4&#xB0;</li.nr>
+                  <al>niet
+daadwerkelijk kennis ervan heeft dat de informatie onwettig is of
+onwettige activiteiten betreft,
+en</al>
+                </li>
+                <li>
+                  <li.nr>5&#xB0;</li.nr>
+                  <al>geen verbod
+overtreedt door zijn diensten aan te bieden.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Een
+dienstenaanbieder is gehouden om informatie te verwijderen of de
+toegang daartoe onmogelijk te maken, zodra hem door of namens de
+Minister de verwijdering van de informatie is gelast of de toegang
+daartoe is verboden, alsmede wanneer het hem duidelijk moet zijn dat
+deze informatie onwettig is of onwettige activiteiten
+betreft</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De
+Minister kan de in het tweede lid bedoelde verwijdering slechts
+gelasten en de toegang slechts verbieden, wanneer de informatie
+onwettig is of onwettige activiteiten betreft, of in strijd is met de
+openbare orde en goede zeden dan wel wanneer het algemeen belang of de
+veiligheid van de Staat dat bepaaldelijk
+vordert.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Aansprakelijkheid
+certificatiedienstverleners</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">9</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Een
+certificatiedienstverlener is &#x2013; tenzij hij bewijst dat hij niet
+nalatig heeft gehandeld &#x2013; aansprakelijk voor schade die
+natuurlijke of rechtspersonen die in redelijkheid op een door de
+certificatiedienstverlener afgegeven certificaat vertrouwen
+ondervinden, in samenhang
+met:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de
+juistheid, op het tijdstip van afgifte, van alle gegevens in het
+certificaat en de opneming in een certificaat van alle voor een
+dergelijk certificaat voorgeschreven
+gegevens;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de
+garantie dat de in het certificaat ge&#xEF;dentificeerde ondertekenaar,
+op het tijdstip van afgifte van het certificaat, houder was van de
+gegevens voor het aanmaken van de handtekening, die met de in het
+certificaat gegeven of ge&#xEF;dentificeerde gegevens voor het
+verifi&#xEB;ren van een handtekening
+overeenstemmen;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de
+garantie dat de gegevens voor het aanmaken van de handtekening en die
+voor het verifi&#xEB;ren van de handtekening, &#x2013; ingeval zij
+beide door de certificatiedienstverlener worden gegenereerd &#x2013;,
+complementair kunnen worden gebruikt.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Een
+certificatiedienstverlener is &#x2013; tenzij hij bewijst dat hij niet
+nalatig heeft gehandeld &#x2013; voorts aansprakelijk voor schade die
+bij natuurlijke of rechtspersonen die in redelijkheid op een door de
+certificatiedienstverlener afgegeven certificaat hebben vertrouwd, is
+ontstaan doordat de intrekking van het certificaat niet werd
+geregistreerd.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Een
+certificatiedienstverlener is niet aansprakelijk voor schade die
+voortvloeit uit het gebruik van een certificaat, waarbij de door de
+certificaatdienstverlener op het certificaat aangegeven beperkingen,
+mits die voor derden kenbaar zijn, worden
+overschreden.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Bescherming
+vertrouwelijkheid en privacy</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Persoonsgegevens
+die door een aanbieder van commerci&#xEB;le communicatie of
+dienstenaanbieder worden verkregen mogen slechts worden verwerkt voor
+zover:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>dit
+is gerechtvaardigd in het kader van de normale
+bedrijfsvoering;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>dit
+voor de betrokkene duidelijk
+is;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de gegevens ter
+zake dienend en niet bovenmatig zijn voor het tot stand komen van
+overeenkomsten langs elektronische
+weg;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de gegevens
+juist, volledig en op rechtmatige wijze verkregen zijn,
+en</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>de verwerking
+rechtmatig plaatsvindt.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>is
+verboden persoonsgegevens zonder uitdrukkelijke instemming van de
+betrokkene aan derden te verstrekken, tenzij zulks geschiedt op grond
+van een wettelijke
+verplichting.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Persoonsgegevens
+waarvan de opslag met het oog op reeds aangegane of mogelijk nog aan te
+gane overeenkomsten langs elektronische weg niet meer nodig is worden
+geanonimiseerd of
+vernietigd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Bij
+algemene maatregel van bestuur kunnen nadere regels worden gesteld die
+de opslag, verwerking, het doorgeven, de anonimisering, de vernietiging
+van persoonsgegevens en de inzage door de betrokkene
+betreffen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+informatie die een aanbieder van commerci&#xEB;le communicatie of
+dienstenaanbieder ontvangt en waarvan hij weet of redelijkerwijs kan
+weten dat deze als vertrouwelijk behandeld dient te worden, zal als
+zodanig worden behandeld.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Voor
+zover nodig en mogelijk zal een aanbieder van commerci&#xEB;le
+communicatie of dienstenaanbieder duidelijk en ondubbelzinnig kenbaar
+maken wanneer aan het versturen van informatie met behulp van door hem
+gebruikte of ter beschikking gestelde elektronische technieken
+bijzondere risico's voor het handhaven van de vertrouwelijkheid
+verbonden zijn.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Bij
+algemene maatregel van bestuur kunnen nadere regels worden gesteld met
+betrekking tot het waarborgen van de vertrouwelijkheid van de
+informatie als bedoeld in het eerste
+lid.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Cryptografie</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">12</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het
+gebruik van cryptografische technieken is toegestaan, op voorwaarde dat
+de gebruiker op wettige wijze de beschikking over deze technieken heeft
+verkregen en deze niet gebruikt voor onwettige activiteiten.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Bij
+algemene maatregel van bestuur kunnen nadere regels worden gesteld met
+betrekking tot het gebruik van cryptografische technieken, met inbegrip
+van regels die beogen misbruik te
+voorkomen.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">9</nr>
+          <titel status="officieel">Buitengerechtelijke
+geschillenbeslechting</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">13</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Bij
+algemene maatregel van bestuur kan een college voor buitengerechtelijke
+beslechting van geschillen in het leven worden geroepen, onder daarin
+te bepalen regels, voorwaarden en procedures, met inbegrip van
+beslechting met behulp van daartoe ge&#xEB;igende elektronische
+technieken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Partijen
+kunnen zich voor de beslechting van hun geschillen onderwerpen aan het
+college, bedoeld in het eerste lid, wanneer deze geschillen betrekking
+hebben op commerci&#xEB;le communicatie, overeenkomsten langs
+elektronische weg, aansprakelijkheid van de dienstenaanbieder,
+bescherming van de vertrouwelijkheid en privacy, alsmede certificaten
+en certificatiedienstverleners.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Bij
+algemene maatregel van bestuur kunnen ook andere categorie&#xEB;n van
+geschillen worden aangewezen, waarvan de beslechting aan het in het
+eerste lid bedoelde college kunnen worden
+voorgelegd.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">10</nr>
+          <titel status="officieel">Toezicht
+en opsporing</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Toezicht</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">14</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Met het
+toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn
+belast de daartoe bij ministeri&#xEB;le regeling aangewezen ambtenaren
+of personen. Een zodanige aanwijzing wordt bekendgemaakt in de
+Staatscourant.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De
+krachtens het eerste lid aangewezen ambtenaren en personen zijn,
+uitsluitend voor zover dat voor de vervulling van hun taak
+redelijkerwijze noodzakelijk is,
+bevoegd:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>alle
+inlichtingen te
+vragen;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>inzage te
+verlangen van alle boeken, bescheiden en andere informatiedragers en
+daarvan afschrift te nemen of deze daartoe tijdelijk mee te
+nemen;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>goederen aan
+opneming en onderzoek te onderwerpen, deze daartoe tijdelijk mee te
+nemen en daarvan monsters te
+nemen;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>alle plaatsen
+met uitzondering van woningen zonder de uitdrukkelijke toestemming van
+de bewoner te betreden, eventueel vergezeld van door hen aangewezen
+personen;</al>
+                </li>
+                <li>
+                  <li.nr>e.</li.nr>
+                  <al>woningen
+of tot woning bestemde gedeelten van vaartuigen zonder de
+uitdrukkelijke toestemming van de bewoner binnen te
+treden.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Zo nodig,
+wordt de toegang tot een plaats als bedoeld in het tweede lid,
+onderdeel d, verschaft met behulp van de sterke arm.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Op het
+binnentreden van woningen of van tot woning bestemde gedeelten van
+vaartuigen als bedoeld in het tweede lid, onderdeel e, is Titel X van
+het Derde Boek van het Wetboek van Strafvordering BES van
+overeenkomstige toepassing, met uitzondering van de artikelen 155,
+vierde lid, 156, tweede lid, 157, tweede en derde lid, 158, eerste lid,
+laatste zinsnede, en 160, eerste lid, en met dien verstande dat de
+machtiging wordt verleend door de procureur-generaal.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>Een ieder
+is verplicht aan de toezichthouder alle medewerking te verlenen die op
+grond van het tweede lid wordt gevorderd.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">6</lidnr>
+              <al>Zij die
+uit hoofde van ambt, beroep of wettelijk voorschrift verplicht zijn tot
+geheimhouding, kunnen het verlenen van medewerking weigeren, voor zover
+dit uit hun geheimhoudingsplicht
+voortvloeit.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">15</nr>
+            </kop>
+            <al>Bij de uitoefening van hun taak dragen de
+toezichthouders een door de Minister te verstrekken legitimatiebewijs
+bij
+zich.</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>Desgevraagd
+tonen zij hun legitimatiebewijs
+aanstonds.</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>Het
+legitimatiebewijs bevat een foto van de toezichthouder en vermeldt in
+ieder geval diens naam en
+hoedanigheid.</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>Bij
+algemene maatregel van bestuur kunnen regels worden gesteld met
+betrekking tot de wijze van taakuitoefening van de
+toezichthouders.</al>
+              </li>
+            </lijst>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Opsporing</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">16</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Met de
+opsporing van de bij <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=31">artikel 31</intref> strafbaar gestelde feiten zijn, naast
+de in artikel 184 van het Wetboek van Strafvordering BES bedoelde
+personen, belast de daartoe bij ministeri&#xEB;le regeling aangewezen
+personen. Een zodanige aanwijzing wordt bekend gemaakt in de
+Staatscourant.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Bij
+algemene maatregel van bestuur, kunnen regels worden gesteld omtrent de
+vereisten waaraan de ingevolge het eerste lid aangewezen personen
+dienen te
+voldoen.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">11</nr>
+          <titel status="officieel">Bestuursdwang</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">17</nr>
+          </kop>
+          <al>De Minister is bevoegd tot het doen wegnemen,
+ontruimen, beletten, in de vorige toestand herstellen of verrichten van
+hetgeen in strijd met de in deze wet en de daarop berustende bepalingen
+is of wordt gedaan, gehouden of
+nagelaten.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">18</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een
+beslissing tot toepassing van bestuursdwang wordt op schrift gesteld en
+geldt als een beschikking. De beschikking vermeldt welk voorschrift is
+overtreden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+bekendmaking ervan geschiedt aan de overtreder en andere
+belanghebbenden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>In de
+beschikking wordt een termijn gesteld waarbinnen de overtreder en
+eventuele andere belanghebbenden de tenuitvoerlegging kunnen voorkomen
+door zelf de in de beschikking vermelde maatregelen te treffen. Geen
+termijn behoeft te worden gegund, indien de vereiste spoed zich
+daartegen verzet.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Indien de
+situatie dermate spoedeisend is dat de Minister de beslissing tot
+toepassing van bestuursdwang niet tevoren op schrift kan stellen, zorgt
+de Minister alsnog zo spoedig mogelijk voor de opschriftstelling en de
+bekendmaking.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">19</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+overtreder is de kosten verbonden aan de toepassing van bestuursdwang
+verschuldigd, tenzij de kosten redelijkerwijze niet of niet geheel te
+zijnen laste behoren te komen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+beschikking vermeldt dat de toepassing van bestuursdwang op kosten van
+de overtreder plaatsvindt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Indien
+echter de kosten geheel of gedeeltelijk niet ten laste van de
+overtreder zullen worden gebracht, wordt dat in de beschikking
+vermeld.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Onder de
+kosten worden begrepen de kosten verbonden aan de voorbereiding van
+bestuursdwang, voor zover deze kosten zijn gemaakt na het tijdstip
+waarop de termijn bedoeld in <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=18">artikel 18, derde lid</intref>, is
+verstreken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De kosten
+zijn ook verschuldigd indien de bestuursdwang door opheffing van de
+onrechtmatige situatie niet of niet volledig is
+uitgevoerd.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">20</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+Minister kan van de overtreder bij dwangbevel de verschuldigde kosten,
+verhoogd met de op de invordering vallende kosten,
+invorderen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het
+dwangbevel wordt op kosten van de overtreder bij deurwaardersexploit
+betekend en levert een executoriale titel op in de zin van het Wetboek
+van Burgerlijke Rechtsvordering BES.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Gedurende
+zes weken na de dag van betekening staat verzet tegen het dwangbevel
+open door dagvaarding van de Staat.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Het
+verzet schorst de tenuitvoerlegging. Op verzoek van de Staat kan de
+rechter de schorsing van de tenuitvoerlegging
+opheffen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">21</nr>
+          </kop>
+          <al>De kosten verbonden aan de toepassing van
+bestuursdwang zijn bevoorrecht op de zaak ten aanzien waarvan zij zijn
+besteed en worden na de kosten, bedoeld in artikel 284 van het derde
+Boek van het Burgerlijk Wetboek BES, uit de opbrengst van de zaak
+betaald.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">22</nr>
+          </kop>
+          <al>Om aan een beslissing van bestuursdwang uitvoering
+te geven, komen de ambtenaren of personen die daartoe door de Minister
+zijn aangewezen, de bevoegdheden toe, genoemd in <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=14">artikel 14, tweede en
+derde lid</intref>. Artikel 14, vierde lid, is van
+toepassing.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">23</nr>
+          </kop>
+          <al>Tot de bevoegdheid tot toepassing van
+bestuursdwang behoort het verzegelen van gebouwen, terreinen en hetgeen
+zich daarin of daarop bevindt.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">24</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Tot de
+bevoegdheid tot toepassing van bestuursdwang behoort het meevoeren en
+opslaan van daarvoor vatbare zaken voor zover de toepassing van
+bestuursdwang dit vereist.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien
+zaken zijn meegevoerd en opgeslagen, doet de Minister daarvan
+proces-verbaal opmaken, waarvan afschrift wordt verstrekt aan de
+rechthebbende.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De
+Minister draagt zorg voor de bewaring van de opgeslagen zaken en geeft
+deze zaken terug aan de rechthebbende, zodra dat redelijkerwijze nodig
+is.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De
+Minister is bevoegd de afgifte op te schorten totdat de verschuldigde
+kosten zijn voldaan. Indien de rechthebbende niet tevens de overtreder
+is, is de Minister bevoegd de afgifte op te schorten totdat de kosten
+van bewaring zijn voldaan.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De Staat
+is niet aansprakelijk voor afgifte van het opgeslagene aan een
+onbevoegde.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">25</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+Minister is bevoegd indien een opgeslagen zaak niet binnen dertien
+weken na de opslag kan worden teruggegeven aan de rechthebbende, deze
+te doen verkopen of, indien verkoop naar zijn oordeel niet mogelijk is,
+de zaak om niet aan een derde in eigendom over te dragen of te laten
+vernietigen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Gelijke
+bevoegdheid heeft de Minister ook binnen die termijn zodra de aan de
+toepassing van bestuursdwang verbonden kosten vermeerderd met de voor
+de verkoop, de eigendomsoverdracht om niet of de vernietiging geraamde
+kosten, in verhouding tot de waarde van de zaak onevenredig hoog
+worden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Verkoop,
+eigendomsoverdracht of vernietiging vindt niet plaats binnen twee weken
+na de verstrekking van het afschrift van het proces-verbaal betreffende
+het meevoeren en opslaan, tenzij het gevaarlijke stoffen of eerder aan
+bederf onderhevige stoffen betreft.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Gedurende
+drie jaren na het tijdstip van verkoop heeft degene die op dat tijdstip
+rechthebbende was, recht op de opbrengst van het goed onder aftrek van
+de aan de toepassing van bestuursdwang verbonden kosten en de kosten
+van de verkoop. Indien de rechthebbende niet tevens de overtreder is,
+wordt van de opbrengst de kosten van bestuursdwang niet in mindering
+gebracht.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De Staat
+is niet aansprakelijk voor afgifte van de opbrengst uit de verkoop aan
+een onbevoegde.</al>
+          </lid>
+        </artikel>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Last
+onder dwangsom</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">26</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+Minister kan in plaats van het uitoefenen van bestuursdwang aan de
+overtreder een last onder dwangsom opleggen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De
+Minister stelt de dwangsom vast hetzij op een bedrag ineens hetzij op
+een bedrag per tijdseenheid waarin de last niet is uitgevoerd of op een
+bedrag per overtreding van de last. De Minister stelt tevens een bedrag
+vast waarboven geen dwangsom meer wordt verbeurd. Het vastgestelde
+bedrag van de dwangsom dient in redelijke verhouding te staan tot de
+zwaarte van het geschonden belang en de beoogde werking van de
+dwangsomoplegging.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>In de
+beschikking tot oplegging van een last onder dwangsom die strekt tot
+het ongedaan maken of het be&#xEB;indigen wordt een termijn gesteld
+gedurende welke de overtreder de last kan uitvoeren zonder dat een
+dwangsom wordt verbeurd.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">27</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Verbeurde
+dwangsommen komen toe aan de Staat. De Minister kan bij dwangbevel het
+verschuldigde bedrag invorderen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al><intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=20">Artikel
+20, tweede, derde en vierde lid</intref>, is van
+toepassing.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">28</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+Minister kan op verzoek van de overtreder de last opheffen, de looptijd
+ervan opschorten voor een bepaalde termijn of de dwangsom verminderen
+ingeval van blijvende of tijdelijke gehele of gedeeltelijke
+onmogelijkheid voor de overtreder om aan zijn verplichtingen te
+voldoen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De
+Minister kan op verzoek van de overtreder de last opheffen indien de
+beschikking een jaar van kracht is geweest zonder dat de dwangsom is
+verbeurd.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">29</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+bevoegdheid tot invordering van verbeurde bedragen verjaart door
+verloop van een jaar na de dag waarop zij zijn verbeurd.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De
+verjaring wordt gestuit door faillissement en ieder wettelijk beletsel
+voor invordering van de
+dwangsom.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">12</nr>
+          <titel status="officieel">Aanwijzingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">30</nr>
+          </kop>
+          <al>De Minister kan, wanneer de uitvoering van deze
+wet en de daarop berustende bepalingen dat vordert, aan een aanbieder
+van commerci&#xEB;le communicatie of dienstenaanbieder een of meer
+aanwijzingen geven.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">13</nr>
+          <titel status="officieel">Strafbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">31</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Overtreding
+van het in de <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=2">artikelen 2, derde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=4">4, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=10">10, tweede lid</intref>, of
+krachtens <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=3">artikel 3, onderdelen a en b</intref>, gestelde verbod, is, voor zover
+opzettelijk begaan, een misdrijf en wordt gestraft met, hetzij
+gevangenisstraf van ten hoogste twee jaren en geldboete van de vijfde
+categorie, hetzij met &#xE9;&#xE9;n van beide straffen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Overtreding
+van het in de <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=2">artikelen 2, derde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=4">4, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=10">10, tweede lid</intref>, of
+krachtens <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=3">artikel 3, onderdelen a en b</intref>, gestelde verbod, is, voor zover
+niet opzettelijk begaan, een overtreding en wordt gestraft met, hetzij
+hechtenis van ten hoogste zes maanden en geldboete van de vijfde
+categorie, hetzij met &#xE9;&#xE9;n van beide straffen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Handelen
+in strijd met de bij de bij of krachtens de <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=3">artikelen 3, onderdelen c,
+d, en e</intref>, <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=5">5, eerste, derde en vierde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=8">8 tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=10">10, derde en
+vierde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=11">11, derde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=12">12, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=13">13, derde lid</intref>, of <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=14">14, vijfde
+lid</intref>, gestelde voorschriften, of krachtens <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=30">artikel 30</intref> gegeven
+aanwijzingen, is een overtreding en wordt gestraft met hechtenis van
+ten hoogste zes maanden of geldboete van de vijfde
+categorie.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">32</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Degene
+die opzettelijk de bij <intref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=33">artikel 33</intref> opgelegde geheimhouding schendt,
+wordt gestraft hetzij met gevangenisstraf van ten hoogste twee jaren
+hetzij met een geldboete van de vijfde categorie, hetzij met beide
+straffen. Het in dit lid strafbaar gestelde feit is een
+misdrijf.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Degene
+aan wiens schuld schending van de geheimhouding te wijten is, wordt
+gestraft met hechtenis van ten hoogste zes maanden hetzij met een
+geldboete van de vijfde categorie, hetzij met beide straffen. Het in
+dit lid strafbaar gestelde feit is een overtreding.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Geen
+vervolging wordt ingesteld dan op klachte van degene te wiens aanzien
+de geheimhouding geschonden
+is.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">14</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">33</nr>
+          </kop>
+          <al>Eenieder die betrokken is bij de uitvoering van
+deze wet en daarbij de beschikking krijgt over gegevens waarvan hij het
+vertrouwelijke karakter kent of redelijkerwijs moet vermoeden en voor
+wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter
+zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot
+geheimhouding daarvan behoudens voor zover enig wettelijk voorschrift
+hem tot bekendmaking verplicht of uit zijn taak bij de uitvoering van
+deze wet de noodzaak tot bekendmaking
+voortvloeit.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">34</nr>
+          </kop>
+          <al>[Vervallen]</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">35</nr>
+          </kop>
+          <al>Deze wet wordt aangehaald als: Wet overeenkomsten
+langs elektronische weg
+BES.</al>
+        </artikel>
+      </hoofdstuk>
+    </wettekst>
+    
+  </wet-besluit>
+</wetgeving>
+  	

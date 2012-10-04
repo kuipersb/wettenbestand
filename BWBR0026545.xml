@@ -1,0 +1,4076 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0026545" dtdversie="2.0" id="423929" soort="ministeriele-regeling">
+  
+  <intitule>Regeling
+van e Staatssecretaris van Economische Zaken van 18&#xA0;oktober 2009,
+nr.&#xA0;WJZ/9155615, tot vaststelling van de aanvraag- en
+veilingprocedure voor vergunningen voor frequentieruimte in de 2,6
+GHz-band ten behoeve van mobiele communicatie-toepassingen (Regeling
+aanvraag- en veilingprocedure vergunningen 2,6
+GHz)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Staatssecretaris van
+Economische
+Zaken,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op de
+<extref status="actief" doc="1.0:v:BWBR0009997&amp;artikel=4" compleet="nee">artikelen 4</extref>, <extref status="actief" doc="1.0:v:BWBR0009997&amp;artikel=6" compleet="nee">6</extref>, <extref status="actief" doc="1.0:v:BWBR0009997&amp;artikel=6a" compleet="nee">6a</extref> en <extref status="actief" doc="1.0:v:BWBR0009997&amp;artikel=8" compleet="nee">8 van het
+Frequentiebesluit</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>In
+deze regeling wordt verstaan
+onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>
+                <nadruk type="cur">aanvrager:</nadruk> degene
+die een aanvraag heeft
+ingediend;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>
+                <nadruk type="cur">biedronde:</nadruk> een
+primaire biedronde, de aanvullende biedronde of de
+toewijzingsbiedronde;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>
+                <nadruk type="cur">onderband:</nadruk> het
+frequentiebereik van 2500&#x2013;2565
+MHz;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>
+                <nadruk type="cur">bovenband:</nadruk> het
+frequentiebereik van 2620&#x2013;2685
+MHz;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>
+                <nadruk type="cur">vergelijkbare
+frequentieruimte:</nadruk> frequentieruimte binnen het
+frequentiebereik van 880&#x2013;914 MHz, 925&#x2013;959 MHz,
+1710&#x2013;1782,5 MHz, 1805&#x2013;1877,5 MHz, 1900&#x2013;1980 MHz,
+2019,7&#x2013;2025 MHz en 2110&#x2013;2170
+MHz;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al><nadruk type="cur">deelnemer:</nadruk></al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;.</li.nr>
+                  <al>in
+de <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=9">artikelen 9</intref> en <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=10">10</intref>, in <intref status="actief" doc="1.0:v:BWBR0026545&amp;bijlage=II">bijlage II</intref>, in de primaire biedronden en in de
+aanvullende biedronde: de aanvrager die voldoet aan de in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=6">artikel 6</intref>
+gestelde eisen en wiens aanvraag voldoet aan de in de <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=3">artikelen 3 tot
+en met 5</intref> gestelde eisen en aan wie is meegedeeld dat hij is toegelaten
+tot de veiling;</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;.</li.nr>
+                  <al>in de
+toewijzingsbiedronde: de aanvrager, bedoeld onder 1&#xB0;, wiens
+bieding onderdeel uitmaakt van de combinatie van winnende biedingen,
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=26">artikel
+26</intref>;</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al><nadruk type="cur">winnende
+deelnemer:</nadruk></al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;.</li.nr>
+                  <al>in
+<intref status="actief" doc="1.0:v:BWBR0026545&amp;bijlage=III">bijlage III</intref>: de deelnemer wiens bieding deel uitmaakt van de combinatie
+van winnende biedingen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=26">artikel
+26</intref>;</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;.</li.nr>
+                  <al>in de toewijzingsbiedronde,
+<intref status="actief" doc="1.0:v:BWBR0026545&amp;bijlage=IV">bijlage IV</intref> en in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=38">artikel 38</intref>: de deelnemer wiens bieding deel uitmaakt
+van de finale combinatie van winnende biedingen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=35">artikel
+35</intref>;</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>
+                <nadruk type="cur">groep:</nadruk> groep
+in de zin van <extref status="actief" doc="1.0:v:BWBR0003045&amp;artikel=24b" compleet="nee">artikel 24b van Boek 2 van het Burgerlijk
+Wetboek</extref>;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>
+                <nadruk type="cur">rente:</nadruk> de
+volgens actual/360 berekende rente op basis van de door de Europese
+Centrale Bank vastgestelde Euro Overnight Index Average, minus 4
+basispunten;</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>
+                <nadruk type="cur">werkdagen:</nadruk> maandag
+tot en met vrijdag, niet zijnde een
+feestdag;</al>
+            </li>
+            <li>
+              <li.nr>k.</li.nr>
+              <al><nadruk type="cur">winnende
+bieding:</nadruk></al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;.</li.nr>
+                  <al>in
+de aanvullende biedronde en <intref status="actief" doc="1.0:v:BWBR0026545&amp;bijlage=III">bijlage III</intref>: de bieding die deel uitmaakt
+van de combinatie van winnende biedingen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=26">artikel
+26</intref>;</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;.</li.nr>
+                  <al>in de toewijzingsbiedronde:
+de bieding die deel uitmaakt van de finale combinatie van winnende
+biedingen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=35">artikel
+35</intref>;</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>l.</li.nr>
+              <al>
+                <nadruk type="cur">vertrouwelijke
+informatie:</nadruk> informatie over een aanvrager die niet
+openbaar is en die, wanneer kenbaar gemaakt aan een andere aanvrager
+diens beslissingen met betrekking tot de veiling be&#xEF;nvloedt of kan
+be&#xEF;nvloeden.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Beschikbare
+vergunningen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">(beschikbare
+frequentieruimte)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Ingevolge
+het besluit van de minister van [datum] (Stcrt. 2009, [nummer]) worden
+ten behoeve van het gebruik van frequentieruimte voor terrestrische
+elektronische communicatie de volgende vergunningen door middel van een
+veiling
+verdeeld:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>vergunning
+A: vergunning voor het gebruik van de frequentieruimte tussen 2010 en
+2019,7 MHz;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>vergunning B:
+vergunningen voor het gebruik van frequentieruimte van twee keer 5 MHz
+in de onder- en bovenband waarbij tussen de beide frequentieruimten van
+5 MHz steeds een afstand is van 120
+MHz;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>vergunning C: vergunning voor
+het gebruik van frequentieruimte van 5 MHz binnen het frequentiebereik
+van 2500&#x2013;2685 MHz;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>vergunning
+D: vergunning voor het gebruik van de frequentieruimte tussen
+2615&#x2013;2620 MHz waaraan beperkingen worden opgelegd ter voorkoming
+van interferentie tussen een vergunning B en een vergunning
+C;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>vergunning E: vergunning voor het
+gebruik van de frequentieruimte tussen 2685&#x2013;2690 MHz waaraan
+beperkingen worden opgelegd ter voorkoming van interferentie met de
+frequentieruimte tussen 2690&#x2013;2700
+MHz.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien
+er vergunningen C worden verleend aan een aanvrager, worden aan hem ten
+minste twee vergunningen C verleend, waarbij ter voorkoming van
+interferentie beperkingen opgelegd worden aan het gebruik van de laagst
+gelegen frequentieruimte van 5 MHz waarvoor die aanvrager een
+vergunning C
+verkrijgt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Voor
+het gebruik van de frequentieruimte tussen 2615&#x2013;2620 MHz wordt,
+in afwijking van het eerste lid, onderdeel c, uitsluitend een
+vergunning D verleend, indien voor het gebruik van de frequentieruimte
+tussen 2620&#x2013;2625 MHz een vergunning B wordt verleend, met dien
+verstande dat vergunning D in dat geval verleend wordt aan de aanvrager
+die voor het gebruik van de frequentieruimte tussen 2610&#x2013;2615
+MHz een vergunning C
+verkrijgt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De
+vergunningen B en C worden zodanig verleend dat, met inachtneming van
+het bepaalde in het eerste tot en met derde
+lid:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de
+vergunningen B in de onderband van alle aanvragers samen aaneengesloten
+zijn en beginnen bij 2500 MHz;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de
+vergunningen B in de onderband per aanvrager aaneengesloten
+zijn;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de vergunningen C per aanvrager
+steeds betrekking hebben op aaneengesloten frequentieruimte,
+en</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>een vergunning
+C:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>uitsluitend
+betrekking heeft op de frequentieruimte in de boven- en onderband voor
+zover, na inachtneming van het gestelde onder a tot en met c, en het
+derde lid, de frequentieruimte tussen 2565&#x2013;2620 MHz volledig is
+benut, en</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>wanneer die
+vergunning betrekking heeft op de frequentieruimte in de boven- en
+onderband steeds betrekking heeft op de hoogst gelegen
+frequentieruimte, met dien verstande dat de vergunningen C tevens
+evenwichtig verdeeld worden over de onder- en
+bovenband.</al>
+                  </li>
+                </lijst>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De
+vergunning E wordt verleend aan de aanvrager waaraan een vergunning
+wordt verleend voor het gebruik van de frequentieruimte tussen
+2680&#x2013;2685
+MHz.</al>
+          </lid>
+          
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Vergunningaanvraag
+en zekerheidstelling
+(inschrijvingsfase)</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">(aanvraag)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Degene
+die voor een vergunning als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2, eerste lid</intref>, in
+aanmerking wil komen, dient een aanvraag
+in.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een aanvraag
+heeft betrekking op ten hoogste 8 activiteitspunten, met dien verstande
+dat een aanvraag waarin in de bij deze regeling behorende <intref status="actief" doc="1.0:v:BWBR0026545&amp;bijlage=I">bijlage I</intref>,
+B.1 voorkeur wordt uitgesproken voor een vergunning C, steeds
+betrekking heeft op ten minste twee vergunningen
+C.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>In de
+aanvraag worden de namen vermeld van ten minste &#xE9;&#xE9;n en ten
+hoogste vier natuurlijke personen, die ieder voor zich zelfstandig
+bevoegd zijn om namens de aanvrager handelingen te verrichten gedurende
+de veiling en die daartoe beschikken over een rechtsgeldige en
+toereikende
+volmacht.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De
+aanvraag bevat verder de gegevens en bescheiden, bedoeld in de bij deze
+regeling behorende <intref status="actief" doc="1.0:v:BWBR0026545&amp;bijlage=I">bijlage I</intref>, en wordt overeenkomstig het model in <intref status="actief" doc="1.0:v:BWBR0026545&amp;bijlage=I">die
+bijlage</intref>
+ingedeeld.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De
+aanvraag is in de Nederlandse taal
+gesteld.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>Met de
+gegevens en bescheiden, bedoeld in het vierde lid, worden gelijkgesteld
+zodanige gegevens en bescheiden krachtens het recht van een van de
+andere lidstaten van de Europese Unie of een van de andere staten die
+partij zijn bij de Overeenkomst betreffende de Europese Economische
+Ruimte.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>De
+gegevens en bescheiden, bedoeld in het zesde lid, mogen in afwijking
+van het vijfde lid, in een van de offici&#xEB;le talen van de Europese
+Unie of de Europese Economische Ruimte worden gesteld. In dat geval
+worden die gegevens en bescheiden vergezeld van een Nederlandse
+vertaling van die gegevens en
+bescheiden.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+            <titel status="officieel">(indienen
+aanvraag)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Elke
+aanvrager dient ten hoogste &#xE9;&#xE9;n aanvraag in. Per groep is er
+ten hoogste &#xE9;&#xE9;n
+aanvrager.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+aanvraag wordt uiterlijk op 8 januari 2010 om 14.00 uur per post
+ontvangen dan wel door persoonlijke overhandiging ontvangen op het
+volgende adres:</al>
+            <al>Agentschap Telecom</al>
+            <al>Ter attentie van:
+Veilingteam 2,6 GHz</al>
+            <al>Emmasingel 1</al>
+            <al>9726 AH
+GRONINGEN</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Indien de aanvrager niet heeft
+voldaan aan de in het tweede lid gestelde eisen, wordt de aanvraag
+afgewezen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+            <titel status="officieel">(verzuimherstel)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+aanvrager informeert de minister onmiddellijk, op de wijze, bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=4">artikel 4, tweede lid</intref>, over wijzigingen met betrekking tot de in
+<intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=3">artikel 3, derde en vierde lid</intref>, bedoelde gegevens en
+bescheiden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Onverminderd
+het derde lid, wordt de aanvraag na het tijdstip, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=4">artikel 4,
+tweede lid</intref>, niet
+gewijzigd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Indien
+de aanvrager niet heeft voldaan
+aan:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de
+in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=3">artikel 3, derde tot en met vijfde en zevende lid</intref>, of <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=4">artikel 4,
+eerste lid</intref>, of</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=3">artikel 3,
+tweede lid</intref>,</al>
+              </li>
+            </lijst>
+            <al>gestelde eisen, deelt de minister dit
+de aanvrager mee en stelt de minister de aanvrager in de gelegenheid
+het verzuim te
+herstellen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De
+aanvrager heeft gedurende zeven werkdagen, te rekenen vanaf de dag
+nadat de mededeling, bedoeld in het derde lid, is verstuurd, de
+gelegenheid het verzuim te
+herstellen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De
+gegevens ten behoeve van het verzuimherstel, bedoeld in het derde lid,
+worden op de wijze, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=4">artikel 4, tweede lid</intref>,
+ingediend.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>Indien
+het verzuim, bedoeld in het derde lid, onderdeel a, binnen de termijn,
+genoemd in het vierde lid, niet is hersteld of de aanvraag na herstel
+niet voldoet aan de in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=3">artikel 3, derde tot en met vijfde en zevende
+lid</intref>, of <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=4">artikel 4, eerste lid</intref>, gestelde eisen, kan de minister
+besluiten de aanvraag overeenkomstig <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=4%3A5" compleet="nee">artikel 4:5 Algemene wet
+bestuursrecht</extref> niet te
+behandelen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>Indien
+het verzuim, bedoeld in het derde lid, onderdeel b, binnen de termijn,
+genoemd in het vierde lid, niet is hersteld of de aanvraag na herstel
+niet voldoet aan de in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=3">artikel 3, tweede lid</intref>, gestelde eisen, wordt de
+aanvraag afgewezen voor zover deze betrekking heeft op meer dan 8
+activiteitspunten. Voordat de aanvraag wordt afgewezen deelt de
+minister het voorgenomen besluit mee aan de betrokken aanvrager, en
+wordt de aanvrager overeenkomstig het derde en vierde lid in de
+gelegenheid gesteld om aan te geven naar welke vergunningen en welke
+frequentieruimte zijn voorkeur
+uitgaat.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+            <titel status="officieel">(aanvrager)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+aanvrager is een privaatrechtelijke rechtspersoon naar Nederlands recht
+of het equivalent daarvan naar het recht van een van de overige
+lidstaten van de Europese Unie of een van de overige staten die partij
+zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, en
+heeft zijn statutaire zetel, zijn hoofdbestuur of zijn hoofdvestiging
+binnen de Europese Economische
+Ruimte.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+aanvrager voldoet voorts aan de volgende
+eisen:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de
+aanvrager verkeert niet in staat van faillissement of
+liquidatie;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de aanvrager is geen
+surseance van betaling verleend, noch is door de aanvrager surseance
+van betaling aangevraagd, en</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>er is
+geen beslag gelegd op het vermogen dan wel een of meer bedrijfsmiddelen
+van de aanvrager, die een aanmerkelijk deel van het vermogen van de
+aanvrager
+vormen.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Met
+de eisen van het tweede lid worden gelijkgesteld zodanige eisen volgens
+het recht van een van de andere lidstaten van de Europese Unie of een
+van de andere staten die partij zijn bij de Overeenkomst betreffende de
+Europese Economische
+Ruimte.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Binnen
+zes weken na het tijdstip, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=4">artikel 4, tweede
+lid</intref>:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>stelt
+de minister vast of de aanvrager wiens aanvraag in behandeling is
+genomen, voldoet aan de eisen, bedoeld in het eerste en het tweede lid,
+en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>geeft de minister toepassing aan
+<extref status="actief" doc="1.0:v:BWBR0009997&amp;artikel=6a" compleet="nee">artikel 6a, tweede lid, van het
+Frequentiebesluit</extref>.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Indien
+uit de aanvraag niet blijkt dat aan de eisen, bedoeld in het eerste en
+het tweede lid, is voldaan dan wel voor zover de minister krachtens
+<extref status="actief" doc="1.0:v:BWBR0009997&amp;artikel=6a" compleet="nee">artikel 6a, tweede lid, van het Frequentiebesluit</extref> een aanvrager
+uitsluit van deelname aan de veiling, wijst de minister de aanvraag
+af.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Vaststellen
+noodzaak tot
+veilen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Voor
+het vaststellen of er noodzaak is tot veilen van de vergunningen A, B
+en C, wordt bij de toepassing van het tweede en derde lid uitgegaan van
+de aanvragen die zijn ingediend overeenkomstig de <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=3">artikelen 3 tot en
+met 5</intref> door aanvragers die voldoen aan de in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=6">artikel 6</intref> gestelde
+eisen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+vergunningen A tot en met E worden met inachtneming van het bepaalde in
+<intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2, tweede tot en met zevende lid</intref>, zonder veiling verleend,
+indien:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>voldaan
+kan worden aan de vraag naar vergunningen A, B en C en geen van de
+aanvragers voorkeur heeft uitgesproken voor specifieke frequentieruimte
+als bedoeld in de bij deze regeling behorende <intref status="actief" doc="1.0:v:BWBR0026545&amp;bijlage=I">bijlage I</intref>, onder B.2,
+of</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>er slechts &#xE9;&#xE9;n aanvraag
+is
+ingediend.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Indien
+de vergunningen A tot en met E op grond van het tweede lid zonder
+veiling worden verleend, worden deze vergunningen verleend volgens de
+procedure van op volgorde van binnenkomst als bedoeld in <extref status="actief" doc="1.0:v:BWBR0009997&amp;artikel=2" compleet="nee">artikel 2,
+tweede lid, van het
+Frequentiebesluit</extref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De
+vergunningen A tot en met E worden met inachtneming van het bepaalde in
+<intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2, tweede tot en met zevende lid</intref>, onder toepassing van de
+<intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=31">artikelen 31 tot en met 39</intref> verleend,
+indien:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>voldaan
+kan worden aan de vraag naar vergunningen A, B en C,
+en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>een aanvrager voorkeur heeft
+uitgesproken voor specifieke frequentieruimte als bedoeld in de bij
+deze regeling behorende <intref status="actief" doc="1.0:v:BWBR0026545&amp;bijlage=I">bijlage I</intref>, onder B2.</al>
+              </li>
+            </lijst>
+            <al>De
+<intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=9">artikelen 9</intref> en <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=11">11 tot en met 18</intref> zijn van toepassing. <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=10">Artikel 10</intref> is van
+overeenkomstige toepassing, met dien verstande dat bij toepassing van
+<intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=10">artikel 10, vijfde lid</intref>, moet worden uitgegaan van het tijdstip, bedoeld
+in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=32">artikel 32, eerste lid, onderdeel a</intref>.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+minister deelt de aanvragers zo spoedig mogelijk mee welke vergunningen
+overeenkomstig <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=7">artikel 7</intref> worden
+verleend.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Nadat
+de vergunningen, bedoeld in het eerste lid, zijn verleend, deelt de
+minister de aanvragers mee aan wie welke vergunningen zijn
+verleend.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Toelating
+tot de
+veiling</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+            <titel status="officieel">(toelating
+tot de
+veiling)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Indien
+na toepassing van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=7">artikel 7</intref> de noodzaak van veilen is komen vast te
+staan, deelt de minister iedere aanvrager schriftelijk mee of hij als
+deelnemer wordt toegelaten tot de veiling. De minister deelt iedere
+aanvrager hierbij tevens mee voor hoeveel activiteitspunten hij op
+basis van het krachtens <extref status="actief" doc="1.0:v:BWBR0009997&amp;artikel=6a" compleet="nee">artikel 6a, tweede lid, van het
+Frequentiebesluit</extref> genomen besluit vergunningen mag verwerven tijdens de
+veiling.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+minister deelt iedere deelnemer hierbij tevens
+mee:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>welke
+vergunningen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2, eerste lid, onder a, b en c</intref>
+worden geveild;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>hoeveel andere
+deelnemers zijn toegelaten tot de
+veiling;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de datum en het tijdstip van
+aanvang van de veiling;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>het faxnummer
+voor het indienen van een verzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=16">artikel 16, tweede en
+vijfde lid</intref>, en van een schriftelijke bieding als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=16">artikel 16,
+eerste lid</intref>, en</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>het telefoonnummer
+waarop de minister in geval van bijzondere omstandigheden als bedoeld
+in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=12">artikel 12, derde lid</intref>, bereikbaar
+is.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Zodra
+de deelnemer overeenkomstig <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=10">artikel 10</intref> een bedrag tot zekerheid van de
+gestanddoening van zijn bieding heeft gedaan, deelt de minister hem
+voorts
+mede:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de
+combinatie van zijn inlogcode en zijn wachtwoord,
+en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het internetadres waarop de
+deelnemer inlogt teneinde aan de veiling deel te
+nemen.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+            <titel status="officieel">(waarborgsom/bankgarantie)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Iedere
+deelnemer voldoet een bedrag tot zekerheid van de gestanddoening van
+zijn
+bieding.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien
+de aanvraag van een deelnemer betrekking heeft op ten hoogste twee
+activiteitspunten als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=17">artikel 17, eerste lid</intref>, bedraagt het
+bedrag, bedoeld in het eerste lid, &#x20AC;&#xA0;50.000 per
+activiteitspunt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Indien
+de aanvraag van een deelnemer betrekking heeft op ten minste drie en
+ten hoogste vier activiteitspunten als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=17">artikel 17, eerste
+lid</intref>, bedraagt het bedrag, bedoeld in het eerste lid,
+&#x20AC;&#xA0;100.000 per
+activiteitspunt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Indien
+de aanvraag van een deelnemer betrekking heeft op meer dan vier
+activiteitspunten als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=17">artikel 17, eerste lid</intref>, bedraagt het
+bedrag, bedoeld in het eerste lid, &#x20AC;&#xA0;200.000 per
+activiteitspunt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Uiterlijk
+vijftien werkdagen voor het in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=9">artikel 9, tweede lid, onder c</intref>, bedoelde
+tijdstip:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>is
+het bedrag onder vermelding van Waarborgsom Veiling 2,6 GHz ontvangen
+op bankrekeningnummer 56.99.94.039, IBAN: NL49RBOS0569994039, SWIFT:
+RBOSNL2Aten name van Ministerie van Economische Zaken, Agentschap
+Telecom, Afdeling Finance;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>of is voor
+het bedoelde bedrag ter zekerheidstelling een bankgarantie volgens het
+model dat als <intref status="actief" doc="1.0:v:BWBR0026545&amp;bijlage=II">bijlage II</intref> bij deze regeling is gevoegd, per post
+ontvangen op, dan wel door persoonlijke overhandiging ingediend bij het
+in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=4">artikel 4, tweede lid</intref>, genoemde
+adres.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>De
+deelnemer die heeft voldaan aan de verplichting, bedoeld in het eerste
+tot en met vijfde lid, is gerechtigd om een bieding uit te brengen
+tijdens de eerste primaire
+biedronde.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>Indien
+een deelnemer niet heeft voldaan aan de in het eerste tot en met het
+vijfde lid, gestelde eisen, deelt de minister dit hem mee en stelt de
+minister hem in de gelegenheid het verzuim te
+herstellen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">8</lidnr>
+            <al>De
+deelnemer heeft gedurende zeven werkdagen, te rekenen vanaf de dag
+nadat de mededeling, bedoeld in het zevende lid, is verstuurd, de
+gelegenheid het verzuim te
+herstellen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">9</lidnr>
+            <al>Indien
+een deelnemer het verzuim, bedoeld in het zevende lid, binnen de
+termijn, genoemd in het achtste lid, niet herstelt, is hij niet
+gerechtigd om een bieding uit te brengen tijdens de eerste primaire
+biedronde.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Algemene
+bepalingen omtrent de
+veiling</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+            <titel status="officieel">(vertrouwelijkheid
+en
+samenspanning)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een
+aanvrager, inbegrepen diegene die een aanvrager ten behoeve van de
+veiling bijstaat of een lid van de groep van een aanvrager, verspreidt
+geen vertrouwelijke informatie en doet geen vertrouwelijke informatie
+verspreiden aan een andere aanvrager of een derde, en maakt geen
+vertrouwelijke informatie
+openbaar.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een
+aanvrager, inbegrepen diegene die een aanvrager ten behoeve van de
+veiling bijstaat of een lid van de groep van een aanvrager, onthoudt
+zich voorafgaand aan en gedurende de veilingprocedure van afspraken of
+gedragingen die afbreuk doen of kunnen doen aan een goed verloop van de
+veiling, de mededinging in de veilingprocedure daaronder
+begrepen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De
+minister kan een aanvrager die naar het oordeel van de minister handelt
+in strijd met het eerste of tweede lid van deelname of van verdere
+deelname aan de veiling
+uitsluiten.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">12</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+minister bepaalt de datum en het tijdstip waarop de veiling aanvangt en
+de voor de veiling benodigde
+programmatuur.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+veiling vindt plaats door middel van internet, met behulp van een
+elektronisch
+veilingsysteem.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Gedurende
+de veiling
+communiceert:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de
+minister uitsluitend door middel van het elektronisch systeem met de
+deelnemers, en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>een deelnemer
+uitsluitend per fax met de minister,</al>
+              </li>
+            </lijst>
+            <al>met dien
+verstande dat de minister in geval van bijzondere omstandigheden
+communicatie per telefoon kan
+toestaan.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>In
+afwijking van het derde lid kan gedurende de veiling de communicatie
+tussen een deelnemer en de minister schriftelijk plaatsvinden indien
+sprake is van een elektronische storing als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=16">artikel 16,
+eerste lid</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De
+veiling wordt uitsluitend op werkdagen
+gehouden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>De
+minister leidt de veiling en draagt zorg voor een goed verloop van de
+veiling.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">13</nr>
+            <titel status="officieel">(noodrem)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+minister kan de veiling opschorten voor een termijn van ten hoogste
+&#xE9;&#xE9;n jaar
+indien:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>naar
+zijn oordeel sprake is van afspraken of gedragingen in strijd met
+<intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=11">artikel 11, eerste of tweede lid</intref>;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>dit
+nodig is voor een eerlijk of effici&#xEB;nt verloop van de veiling,
+of</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>zich naar zijn oordeel bijzondere
+omstandigheden voordoen buiten de be&#xEF;nvloedingssfeer van de
+minister of de deelnemers waardoor de veiling tijdelijk geen doorgang
+kan
+vinden.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien
+een deelnemer in strijd heeft gehandeld met <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=11">artikel 11, eerste of
+tweede lid</intref>, kan de
+minister:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de
+uitkomst van een of meer of biedingen of biedronden ongeldig verklaren,
+en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>besluiten dat een of meer
+biedronden opnieuw moeten worden
+gehouden.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">14</nr>
+            <titel status="officieel">(biedronden;
+biedingen;
+afrondingen)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+minister bepaalt wanneer de biedronden van de veiling plaatsvinden en
+de duur van die
+biedronden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een
+deelnemer is onvoorwaardelijk en onherroepelijk aan zijn bieding
+gebonden.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">15</nr>
+            <titel status="officieel">(eisen
+aan een
+bieding)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een
+ongeldige bieding wordt niet in aanmerking genomen
+bij:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het
+bepalen van het einde van de primaire biedronde op basis van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=22">artikel
+22, eerste lid</intref>;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het opstellen van de
+lijst, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=33">artikel 33</intref>:</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>het
+vaststellen van de combinatie van winnende biedingen en de finale
+combinatie van winnende biedingen,
+en</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>het bepalen van de prijzen op
+grond van <intref status="actief" doc="1.0:v:BWBR0026545&amp;bijlage=III">bijlagen III</intref> en
+<intref status="actief" doc="1.0:v:BWBR0026545&amp;bijlage=IV">IV</intref>.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een
+bieding is ongeldig wanneer niet is voldaan aan de volgende
+voorwaarden:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de
+bieding is uitgebracht en bevestigd door middel van het elektronisch
+veilingsysteem via internet;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de
+bieding voldoet aan het in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=17">artikel 17, vijfde of zesde lid</intref>, bepaalde
+activiteitsniveau;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de bieding in de
+primaire biedronde en de aanvullende biedronde heeft uitsluitend
+betrekking op de vergunningen A, B of
+C;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de bieding in de primaire
+biedronde en de aanvullende biedronde geeft de aantallen vergunningen B
+en C aan waarop de bieding betrekking heeft, met dien verstande dat een
+bieding op vergunningen C ten minste twee vergunningen C
+betreft;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>in de aanvullende biedronde
+en in de toewijzingsbiedronde bevat de bieding een biedbedrag en wordt
+die bieding gedaan in eenheden van
+&#x20AC;&#xA0;1000;</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>in een primaire
+biedronde is de bieding de eerste bieding van een deelnemer in die
+ronde;</al>
+              </li>
+              <li>
+                <li.nr>g.</li.nr>
+                <al>het biedbedrag van de bieding
+in de aanvullende ronde&#xA0;voldoet aan de in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=24">artikel 24</intref>, gestelde
+vereisten;</al>
+              </li>
+              <li>
+                <li.nr>h.</li.nr>
+                <al>in de toewijzingsbiedronde
+heeft de bieding van een deelnemer voor een vergunning B of C
+uitsluitend betrekking op een alternatief voor frequentieruimte voor
+die vergunning B of C die voorkomt op de voor die deelnemer
+samengestelde lijst, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=33">artikel
+33</intref>;</al>
+              </li>
+              <li>
+                <li.nr>i.</li.nr>
+                <al>de bieding is in de Nederlandse
+taal gesteld, en</al>
+              </li>
+              <li>
+                <li.nr>j.</li.nr>
+                <al>de bieding is tijdig
+ingediend.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>In
+afwijking van het tweede lid, onderdeel a, is een bieding die is
+uitgebracht door middel van het elektronisch veilingsysteem via
+internet ongeldig en een schriftelijke bieding geldig, indien de
+betrokken deelnemer voor die biedronde toestemming als bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=16">artikel 16</intref> heeft gekregen voor het uitbrengen van een schriftelijke
+bieding, en die toestemming niet is ingetrokken overeenkomstig <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=16">artikel
+16, vijfde
+lid</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Een
+schriftelijke bieding als bedoeld in het derde lid is ongeldig wanneer
+niet is voldaan aan de volgende
+voorwaarden:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de
+bieding voldoet aan de in het tweede lid, onder b tot en met j,
+gestelde voorwaarden;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de bieding
+wordt gedaan overeenkomstig het model in <intref status="actief" doc="1.0:v:BWBR0026545&amp;bijlage=V">bijlage V</intref> bij deze
+regeling;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de bieding wordt ingediend
+middels het krachtens <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=9">artikel 9, tweede lid, onderdeel d</intref>, meegedeelde
+faxnummer, of</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de bieding is leesbaar
+en
+eenduidig.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Indien
+een deelnemer niet heeft voldaan aan de in het tweede lid, onder a tot
+en met i, gestelde voorwaarden, deelt de minister dit de deelnemer mee
+en stelt hij de deelnemer in de gelegenheid het verzuim door middel van
+het elektronisch veilingsysteem te herstellen binnen de duur van de
+betrokken biedronde, dan wel de verlengde biedronde, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=18">artikel
+18, eerste lid, of tweede lid, onderdeel
+a</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>In afwijking
+van het vijfde lid wordt aan een deelnemer die toestemming heeft om een
+schriftelijke bieding in te dienen en die niet heeft voldaan aan de in
+het tweede lid, onder b tot en met i, gestelde voorwaarden of de in het
+vierde lid, onderdelen b of c, gestelde
+voorwaarden:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>per
+fax meegedeeld dat hij niet aan de gestelde voorwaarden heeft voldaan,
+en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>gelegenheid gegeven om het verzuim
+binnen een door de minister gestelde termijn te herstellen, met dien
+verstande dat de minister per deelnemer ten hoogste 10 maal gedurende
+de gehele veiling de gelegenheid kan geven om het verzuim te
+herstellen.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">16</nr>
+            <titel status="officieel">(toestemming
+schriftelijk
+bieding)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Indien
+een deelnemer door een elektronische storing niet in staat is om door
+middel van het elektronisch veilingsysteem een bieding uit te brengen,
+kan de minister toestemming geven om een bieding schriftelijk uit te
+brengen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een
+verzoek tot toestemming als bedoeld in het eerste lid, wordt
+schriftelijk ingediend middels het in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=9">artikel 9, tweede lid, onderdeel
+d</intref>, bedoelde faxnummer, is met redenen omkleed en wordt door de minister
+ontvangen uiterlijk binnen 10 minuten na afloop van de
+biedronde.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De
+minister kan toestemming als bedoeld in het eerste lid geven voor een
+enkele primaire biedronde of voor meerdere primaire biedronden, voor de
+aanvullende biedronde of voor de
+toewijzingsbiedronde.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Aan
+toestemming als bedoeld in het eerste lid kunnen voorschriften worden
+verbonden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De
+minister kan de toestemming, bedoeld in het eerste lid, op verzoek van
+de deelnemer intrekken, wanneer dit verzoek schriftelijk wordt gedaan
+uiterlijk 10 minuten na afloop van de voorgaande biedronde, dan wel de
+verlengde biedronde, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=18">artikel 18, eerste of tweede lid,
+onderdeel b</intref>.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">17</nr>
+            <titel status="officieel">(activiteitsniveau en
+activiteitspunten)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het
+aantal activiteitspunten
+bedraagt:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>met
+betrekking tot vergunning A: 1;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>met
+betrekking tot een vergunning B: 2,
+en</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>met betrekking tot vergunning C:
+het aantal vergunningen waarop de bieding dan wel de voorkeur, bedoeld
+in <intref status="actief" doc="1.0:v:BWBR0026545&amp;bijlage=I">bijlage I</intref>, onder B, betrekking heeft minus
+1.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het
+activiteitsniveau van een bieding is de som van de activiteitspunten
+van de vergunningen waarop de bieding betrekking
+heeft.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Het
+activiteitsniveau van een deelnemer
+bedraagt:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>in
+de eerste primaire biedronde: de som van het aantal activiteitspunten
+waarop de aanvraag van een deelnemer betrekking
+heeft;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>in elke volgende primaire
+biedronde: het aantal activiteitspunten van de bieding van de deelnemer
+in de voorgaande ronde;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>in de
+aanvullende biedronde: het aantal activiteitspunten van de bieding van
+de deelnemer in de laatste primaire
+biedronde.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Indien
+een deelnemer in een primaire biedronde geen bieding uitbrengt of een
+ongeldige bieding uitbrengt, is het activiteitsniveau van de
+betreffende deelnemer in de volgende primaire biedronde
+nul.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Het
+activiteitsniveau van een bieding
+dient:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>in
+een primaire biedronde, en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>in de
+aanvullende biedronde</al>
+              </li>
+            </lijst>
+            <al>niet hoger te zijn dan het
+activiteitsniveau van die deelnemer in die
+biedronde.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>In
+afwijking van het vijfde lid, kan het activiteitsniveau van een bieding
+in de aanvullende biedronde hoger zijn dan het activiteitsniveau van de
+deelnemer, indien aan de volgende voorwaarden wordt
+voldaan:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>in
+enige primaire biedronde is het activiteitsniveau van de deelnemer
+gelijk aan of groter dan het activiteitsniveau van de bieding in de
+aanvullende biedronde, en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het
+biedbedrag van deze bieding is niet hoger dan de prijs van deze bieding
+op basis van de laatste rondeprijs in de primaire biedronde, bedoeld
+onder
+a.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">18</nr>
+            <titel status="officieel">(verlengingen)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Indien
+een deelnemer een biedronde laat verstrijken zonder dat hij een bieding
+uitbrengt wordt die biedronde voor die deelnemer eenmalig van
+rechtswege verlengd met een termijn van 30 minuten, met dien verstande
+dat in ten hoogste twee primaire biedronden voor een deelnemer
+verlenging plaats
+vindt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In
+afwijking van het eerste
+lid:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>kan
+de minister in geval van bijzondere omstandigheden&#xA0;een deelnemer
+op zijn verzoek toestemming verlenen om zijn biedronde te verlengen met
+een door de minister te bepalen
+termijn;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>wordt, indien aan een
+deelnemer toestemming als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=16">artikel 16, eerste lid</intref>, is
+gegeven, de betreffende biedronde voor die deelnemer verlengd
+met&#xA0;een door de minister te bepalen
+termijn.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Het
+verzoek tot toestemming als bedoeld in het tweede lid, onderdeel a, is
+met redenen omkleed en wordt ontvangen uiterlijk binnen 10 minuten na
+afloop van de biedronde of de verlengde biedronde, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=18">artikel
+18, eerste en tweede
+lid</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Aan de
+toestemming,&#xA0;bedoeld in het tweede lid, onderdeel a, kunnen
+voorschriften worden
+verbonden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Een
+op grond van het eerste of tweede lid verlengde biedronde is afgelopen
+zodra:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>alle
+deelnemers wiens biedronde is verlengd, een bieding hebben uitgebracht,
+of</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de biedronde dan wel de verlengde
+biedronde voor een deelnemer is
+verstreken.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>De
+minister deelt in het geval, bedoeld in het eerste en tweede lid, zo
+spoedig mogelijk aan alle deelnemers mee dat de biedronde ten behoeve
+van een of meer deelnemers is
+verlengd.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">De
+hoofdfase van de veiling: de primaire biedronden en de aanvullende
+biedronde</titel>
+        </kop>
+        <sub-paragraaf status="goed">
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">7.1</nr>
+            <titel status="officieel">Primaire
+biedronden</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">19</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+primaire biedronde bestaat uit &#xE9;&#xE9;n of meer
+biedronden.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Een
+deelnemer brengt in een primaire biedronde per biedronde maximaal
+&#xE9;&#xE9;n bieding
+uit.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Een bieding
+in een primaire biedronde heeft uitsluitend betrekking op de
+vergunningen A, B of
+C.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Een bieding
+in een primaire biedronde kan betrekking hebben op andere vergunningen
+dan waarvoor een deelnemer in zijn aanvraag, onderdeel B, een voorkeur
+heeft uitgesproken, alsmede op andere vergunningen dan waarop zijn
+bieding in een voorgaande primaire biedronde betrekking
+had.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>Een bieding
+in een primaire biedronde ziet op het aantal vergunningen waarop een
+deelnemer biedt gelet op de in die biedronde geldende rondeprijs voor
+die vergunningen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=21">artikel
+21</intref>.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">20</nr>
+              <titel status="officieel">(informatie
+voorafgaand aan en na een primaire
+biedronde)</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+minister deelt elke deelnemer voor aanvang van de eerste primaire
+biedronde zijn activiteitsniveau als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=17">artikel 17, derde lid,
+onderdeel a</intref>,
+mee.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De minister
+deelt elke deelnemer voor aanvang van de eerste primaire biedronde de
+aanvangstijd en de duur van de biedronde
+mee.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De minister
+deelt elke deelnemer zo spoedig mogelijk na het einde van een primaire
+biedronde
+mee:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>zijn
+activiteitsniveau als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=17">artikel 17, derde lid, onderdeel
+b</intref>;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>zijn verlengingsmogelijkheden in
+de volgende primaire biedronde;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de
+bieding van de deelnemer in de vorige biedronde,
+en</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>het bedrag van zijn hoogste
+bieding in de veiling tot dan
+toe.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>De
+minister deelt elke deelnemer zo spoedig mogelijk na het einde van een
+primaire biedronde
+mee:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de
+aanvangstijd en de duur van de volgende
+biedronde;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de rondeprijzen die in de
+volgende biedronde gelden per vergunning A, B of
+C;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de totale vraag in de vorige
+biedronde naar vergunningen A, B of
+C.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>In
+afwijking van het vierde lid, onder a en b, wordt geen informatie over
+een volgende primaire biedronde gegeven indien de primaire biedronden
+op grond van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=22">artikel 22</intref>
+eindigen.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">21</nr>
+              <titel status="officieel">(rondeprijzen)</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+rondeprijzen in de eerste primaire biedronde
+zijn:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>&#x20AC;&#xA0;50.000
+voor vergunning
+A;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>&#x20AC;&#xA0;100.000 voor een
+vergunning B;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>&#x20AC;&#xA0;50.000
+voor een vergunning
+C.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>In
+de tweede en volgende primaire biedronden verhoogt de minister de
+rondeprijzen, bedoeld in het eerste lid, overeenkomstig het derde tot
+en met&#xA0;zevende
+lid.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De
+rondeprijs van vergunning A wordt verhoogd indien de vraag in de direct
+daaraan voorafgaande biedronde groter is dan
+&#xE9;&#xE9;n.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>De
+rondeprijs van vergunningen B wordt verhoogd indien met inachtneming
+van het bepaalde in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2, tweede tot en met zevende lid</intref>, in de
+direct daaraan voorafgaande
+biedronde:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de
+vraag naar deze vergunning groter is dan dertien,
+of</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>niet kan worden voldaan aan de
+gezamenlijke vraag naar vergunningen B en
+C.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>De
+rondeprijs van vergunningen C wordt in een biedronde verhoogd indien
+met inachtneming van het bepaalde in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2, tweede tot en met
+zevende lid</intref>, in de direct daaraan voorafgaande biedronde de vraag naar
+de vergunningen C groter is dan tien,
+en:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>niet
+kan worden voldaan aan de gezamenlijke vraag naar vergunningen B en C,
+of</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>niet kan worden voldaan aan de
+vraag naar vergunningen
+C.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">6</lidnr>
+              <al>De
+rondeprijzen, bedoeld in het derde tot en met&#xA0;vijfde lid, worden
+verhoogd in eenheden van
+&#x20AC;&#xA0;1.000.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">7</lidnr>
+              <al>De
+minister verhoogt, in de in het derde tot en met vijfde lid bedoelde
+gevallen, de rondeprijs van een vergunning zodanig
+dat:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de
+verhoging van de rondeprijs van een vergunning in een biedronde ten
+hoogste 100% is ten opzichte van de rondeprijs voor die vergunning in
+de daaraan voorafgaande ronde, en</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de
+rondeprijzen van de vergunningen B en C zich tot elkaar verhouden als
+2:1.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">8</lidnr>
+              <al>Indien
+dit naar het oordeel van de minister nodig is voor een evenwichtige
+vraagontwikkeling of een effici&#xEB;nt verloop van de veiling kan hij
+afwijken van het zevende
+lid.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">22</nr>
+              <titel status="officieel">(einde
+van de primaire
+biedronden)</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+primaire biedronden eindigen indien met inachtneming van het bepaalde
+in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2, tweede tot en met zevende lid</intref>, voldaan kan worden aan de
+vraag naar vergunningen A, B en
+C.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>In afwijking
+van het eerste lid, kan de minister de primaire biedronden
+be&#xEB;indigen indien dat naar de mening van de minister geboden is
+ten behoeve van een effici&#xEB;nt
+veilingproces.</al>
+            </lid>
+          </artikel>
+        </sub-paragraaf>
+        <sub-paragraaf status="goed">
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">7.2</nr>
+            <titel status="officieel">Aanvullende
+biedronde</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">23</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+aanvullende biedronde bestaat uit &#xE9;&#xE9;n biedronde waarin door
+een deelnemer meerdere biedingen kunnen worden
+gedaan.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Een
+bieding in de aanvullende biedronde heeft uitsluitend betrekking op de
+vergunningen A, B of
+C.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Een bieding
+in de aanvullende biedronde kan betrekking hebben op andere
+vergunningen dan waarvoor een deelnemer in zijn aanvraag, onderdeel B,
+een voorkeur heeft uitgesproken, alsmede op andere vergunningen dan
+waarop zijn bieding in enige primaire biedronde betrekking
+had.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>De aanvang
+van de aanvullende biedronde is niet eerder dan ten minste een werkdag
+na het einde van de primaire
+biedronden.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">24</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+minimaal te bieden bedragen in de aanvullende biedronde
+zijn:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>&#x20AC;&#xA0;50.000
+voor vergunning
+A;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>&#x20AC;&#xA0;100.000 voor een
+vergunning B;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>&#x20AC;&#xA0;50.000
+voor een vergunning
+C.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Indien
+een deelnemer in de aanvullende biedronde een bieding uitbrengt op
+hetzelfde aantal vergunningen A, B en C als waarop hij in een primaire
+biedronde heeft geboden, is het biedbedrag van de bieding in de
+aanvullende ronde hoger dan het biedbedrag dat hij in de primaire ronde
+heeft geboden voor datzelfde aantal
+vergunningen.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">25</nr>
+              <titel status="officieel">(informatie
+voorafgaand aan de aanvullende
+biedronde)</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Na
+het einde van de primaire biedronden deelt de minister elke deelnemer
+mee:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>dat
+de primaire biedronden zijn
+ge&#xEB;indigd;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>wanneer de
+aanvullende biedronde een aanvang neemt,
+en</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de duur van de aanvullende
+biedronde.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De
+minister deelt elke deelnemer voor aanvang van de aanvullende biedronde
+zijn activiteitsniveau als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=17">artikel 17, derde lid, onderdeel
+c</intref>,
+mee.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">26</nr>
+              <titel status="officieel">(bepaling
+combinatie van winnende
+biedingen)</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+minister stelt overeenkomstig het tweede tot en met vierde lid de
+combinatie van winnende biedingen
+vast.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De
+combinatie van winnende biedingen is de combinatie van biedingen die
+zijn uitgebracht in de primaire biedronden of in de aanvullende ronden,
+die voldoet aan de volgende
+voorwaarden:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de
+combinatie behelst ten hoogste &#xE9;&#xE9;n bieding per
+deelnemer;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>met inachtneming van het
+bepaalde in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2, tweede tot en met zevende lid</intref>, heeft de
+combinatie betrekking op niet meer vergunningen A, B en C dan er worden
+geveild;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de combinatie heeft de
+hoogste opbrengst van de combinaties van biedingen die voldoen aan de
+onder a en b genoemde
+voorwaarden.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Indien
+er meerdere combinaties van winnende biedingen voldoen aan het tweede
+lid wordt er opnieuw een aanvullende biedronde gehouden, met dien
+verstande dat er ten hoogste drie maal opnieuw een aanvullende
+biedronde wordt
+gehouden.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Indien
+na het drie maal opnieuw houden van een aanvullende biedronde er nog
+steeds meerdere combinaties van winnende biedingen kunnen worden
+vastgesteld op basis van het tweede lid, wordt door middel van loting
+tussen alle combinaties van winnende biedingen die voldoen aan het
+tweede lid, vastgesteld wat de combinatie van winnende biedingen
+is.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">27</nr>
+              <titel status="officieel">(vaststelling
+van de basisprijzen van de winnende
+biedingen)</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Nadat
+de combinatie van winnende biedingen door de minister is vastgesteld
+overeenkomstig <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=26">artikel 26</intref>, bepaalt de minister voor iedere winnende
+bieding een basisprijs op grond van <intref status="actief" doc="1.0:v:BWBR0026545&amp;bijlage=III">bijlage
+III</intref>.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De
+basisprijzen worden naar boven afgerond op eenheden van
+&#x20AC;&#xA0;1000, met dien verstande dat een deelnemer na afronding
+niet meer betaalt dan het biedbedrag van zijn winnende
+bieding.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">28</nr>
+              <titel status="officieel">(mededeling
+combinatie winnende biedingen en
+basisprijzen)</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Na
+het bepalen van de combinatie van winnende biedingen en de basisprijzen
+van iedere winnende bieding deelt de minister iedere deelnemer
+mee:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>welke
+deelnemers op grond van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=26">artikel 26, eerste lid</intref>, vergunningen hebben
+gewonnen alsmede het aantal vergunningen B of C dat die deelnemers
+hebben gewonnen, en</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>dat de
+aanvullende biedronde is
+ge&#xEB;indigd.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De
+minister deelt voorts aan een deelnemer de basisprijs van zijn winnende
+bieding mee.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Na
+het bepalen van de combinatie van winnende biedingen en de basisprijzen
+van iedere winnende bieding maakt de minister
+openbaar:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de
+namen van de deelnemers die op grond van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=26">artikel 26, eerste lid</intref>,
+vergunningen A, B of C hebben gewonnen,
+en</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>het aantal vergunningen B of C dat
+een deelnemer heeft
+gewonnen.</al>
+                </li>
+              </lijst>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">29</nr>
+              <titel status="officieel">(vergunning
+A)</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Vergunning
+A wordt verleend aan de deelnemer die op vergunning A de winnende
+bieding heeft
+gedaan.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De
+minister deelt iedere deelnemer mee aan wie vergunning A is
+verleend.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De
+totaalprijs van vergunning A bestaat uit de op grond van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=27">artikel 27</intref>
+afgeronde basisprijs voor die
+vergunning.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">30</nr>
+              <titel status="officieel">(1
+winnaar voor vergunningen B of
+C)</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Indien de
+combinatie van winnende biedingen, gelet op <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2, tweede tot en
+met zevende lid</intref>, zodanig is samengesteld dat een vergunning B of C
+uitsluitend betrekking heeft op &#xE9;&#xE9;n alternatief voor
+frequentieruimte als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=33">artikel 33</intref>, dan wordt die vergunning
+verleend aan de deelnemer die op die vergunning de winnende bieding
+heeft gedaan.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De
+minister deelt iedere deelnemer mee aan wie de vergunningen, bedoeld in
+het eerste lid, zijn verleend, alsmede voor welke frequentieruimte de
+vergunningen zijn
+verleend.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De
+totaalprijs voor de in het eerste lid bedoelde vergunningen bestaat uit
+de op grond van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=27">artikel 27</intref> afgeronde basisprijs voor die
+vergunningen.</al>
+            </lid>
+          </artikel>
+        </sub-paragraaf>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">De
+tweede fase van de veiling: de
+toewijzingsbiedronde</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">31</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+toewijzingsbiedronde bestaat uit een toewijzingsbiedronde voor de
+vergunningen B en een toewijzingsbiedronde voor de vergunningen C die
+gelijktijdig plaatsvinden en waarin wordt bepaald voor welke
+frequentieruimte een deelnemer een vergunning verkrijgt, met dien
+verstande dat de toewijzingsbiedronde geen betrekking heeft op
+vergunningen die op grond van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=30">artikel 30, eerste lid</intref>, zijn
+verleend.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een
+deelnemer kan in de toewijzingsbiedronde uitsluitend bieden op de
+vergunningen B of C, zoals voorkomend op de voor hem samengestelde
+lijst met alternatieven, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=33">artikel
+33</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De aanvang
+van de toewijzingsbiedronde is niet eerder dan ten minste een werkdag
+na het einde van de aanvullende
+biedronde.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">32</nr>
+            <titel status="officieel">(infoverstrekking
+aan
+deelnemers)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Zo
+spoedig mogelijk na het einde van aanvullende biedronde, deelt de
+minister elke deelnemer
+mee:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>wanneer
+de toewijzingsbiedronde een aanvang neemt,
+en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de duur van de
+toewijzingsbiedronde.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+minister deelt voorts elke deelnemer voor aanvang van de
+toewijzingsbiedronde mee wat de alternatieven zijn waarop de
+betreffende deelnemer op grond van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=33">artikel 33</intref> kan
+bieden.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">33</nr>
+            <titel status="officieel">(lijst
+met verdeelopties)</titel>
+          </kop>
+          <al>De minister stelt op basis van de
+<intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikelen 2, tweede tot en met zevende lid</intref>, <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=26">26, eerste lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=30">artikel
+30, eerste lid</intref>, voor iedere deelnemer een lijst samen met per type
+vergunning de alternatieven voor de frequentieruimte waarop hij gezien
+de aantallen vergunningen B en C die hij heeft gewonnen in de
+toewijzingsbiedronde kan
+bieden.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">34</nr>
+            <titel status="officieel">(geen
+biedingen)</titel>
+          </kop>
+          <al>Indien voor een alternatief voor
+frequentieruimte als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=33">artikel 33</intref> geen bieding wordt
+ontvangen, wordt voor dat alternatief uitgegaan van een biedbedrag van
+nul
+euro.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">35</nr>
+            <titel status="officieel">(bepaling
+finale combinatie van winnende
+biedingen)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+minister stelt overeenkomstig het tweede tot en met derde lid de finale
+combinatie van winnende biedingen voor de vergunningen B en de finale
+combinatie van winnende biedingen voor de vergunningen C
+vast.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De finale
+combinatie van winnende biedingen voor een type vergunning is de
+combinatie van biedingen die voor dat type vergunningen zijn
+uitgebracht in de toewijzingsbiedronde die voldoet aan de volgende
+voorwaarden:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de
+biedingen in de combinatie betreffen alternatieven voor
+frequentieruimte die voor het type vergunning waarop die biedingen
+betrekking hebben voorkomen op de lijst, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=33">artikel 33</intref>,
+en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de combinatie heeft de hoogste
+opbrengst.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Indien
+voor de vergunningen B of C meerdere combinaties van winnende biedingen
+voldoen aan het tweede lid, wordt er voor dat type vergunning opnieuw
+een toewijzingsbiedronde gehouden, met dien verstande dat er ten
+hoogste drie maal opnieuw een toewijzingsbiedronde wordt
+gehouden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Indien
+na het drie maal opnieuw houden van een toewijzingsbiedronde er nog
+steeds meerdere finale combinaties van winnende biedingen voor de
+vergunningen B of C kunnen worden vastgesteld op basis van het eerste
+en tweede lid, wordt door middel van loting tussen alle combinaties van
+winnende biedingen voor dat type vergunning uit de laatste
+toewijzingsbiedronde die voldoen aan het tweede lid, vastgesteld wat de
+finale combinatie van winnende biedingen voor dat type vergunning
+is.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">36</nr>
+            <titel status="officieel">(bepaling
+extra prijzen en
+totaalprijs)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Nadat
+de finale combinatie van winnende biedingen is vastgesteld, bepaalt de
+minister de extra prijzen op grond van <intref status="actief" doc="1.0:v:BWBR0026545&amp;bijlage=IV">bijlage
+IV</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De extra
+prijzen, bedoeld in het eerste lid, worden naar boven afgerond op
+eenheden van &#x20AC;&#xA0;1000, met dien verstande dat een deelnemer
+na afronding niet meer betaalt dan het biedbedrag van zijn winnende
+bieding.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De
+totaalprijs die de winnende deelnemer verschuldigd is voor de door hem
+gewonnen vergunningen, bestaat uit de op grond van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=27">artikel 27, tweede
+lid</intref>, afgeronde basisprijs voor die vergunningen en de op grond van het
+tweede lid afgeronde extra prijs voor die
+vergunningen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">37</nr>
+            <titel status="officieel">(mededeling
+extra prijzen en totaalprijzen en informatie over
+biedingen)</titel>
+          </kop>
+          <al>De minister deelt de deelnemers zo spoedig
+mogelijk na het bepalen van de extra prijzen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=36">artikel 36,
+eerste lid</intref>, en het bepalen van de totaalprijzen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=36">artikel 36,
+derde lid</intref>,
+mee:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>dat
+de veiling is afgelopen;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de
+identiteit van de winnende deelnemers en de door hen gewonnen
+vergunningen, en</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de totaalprijzen die
+op grond van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=36">artikel 36</intref> zijn vastgesteld, inclusief een overzicht van
+basisprijzen en extra
+prijzen.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">9</nr>
+          <titel status="officieel">Vergunningverlening
+na
+veiling</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">38</nr>
+            <titel status="officieel">(verlening
+vergunningen)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Aan
+een winnende deelnemer wordt een vergunning verleend voor de door hem
+gewonnen vergunningen. De totaalprijs voor die vergunningen is gelijk
+aan het bedrag dat aan die deelnemer bekend is gemaakt op grond van
+<intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=37">artikel 37, onderdeel
+c</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In afwijking
+van het eerste lid, worden aan een winnende deelnemer die reeds
+vergunninghouder is van vergunningen voor het gebruik van vergelijkbare
+frequentieruimte niet meer vergunningen A, B of C verleend dan die
+tezamen met die vergunningen overeenkomen met 8 activiteitspunten.
+<intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">Artikel 2, zevende lid</intref>, is van toepassing, met dien verstande dat wordt
+uitgegaan van het aantal vergunningen voor het gebruik van
+vergelijkbare frequentieruimte waarvan deze winnende deelnemer
+vergunninghouder is op het moment dat de vergunningen A, B of C worden
+verleend. De totaalprijs voor die vergunningen is gelijk aan het bedrag
+dat aan deze winnende deelnemer bekend is gemaakt op grond van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=37">artikel
+37, onderdeel c</intref>. Voordat de vergunningen aan deze winnende deelnemer
+worden verleend, deelt de minister het voorgenomen besluit aan hem mee,
+en wordt deze deelnemer in de gelegenheid gesteld om binnen zeven
+werkdagen na de datum van het voorgenomen besluit aan te geven naar
+welke van de gewonnen vergunningen gelet op het bepaalde in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2,
+tweede tot en met vijfde lid</intref>, zijn voorkeur uitgaat. De minister stelt
+op basis van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2, tweede tot en met vijfde lid</intref>, vast welke van de
+gewonnen vergunningen aan deze deelnemer worden verleend en op welke
+frequentieruimte deze vergunningen betrekking
+hebben.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De
+minister wijst de overige aanvragen, voor zover dat nog niet is gebeurd
+op grond van de <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=4">artikelen 4, derde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=5">5, zevende lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=6">6, vijfde
+lid</intref> af.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De
+minister maakt na de veiling de informatie, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=29">artikelen 29,
+tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=30">30, tweede lid</intref> en <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=37">37</intref>
+openbaar.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">10</nr>
+          <titel status="officieel">Terugstorting
+waarborgsommen &amp; teruggave
+bankgaranties</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">39</nr>
+            <titel status="officieel">(terugstorting
+waarborgsommen &amp; teruggave
+bankgaranties)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Uiterlijk
+twee weken nadat de mededeling, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=37">artikel 37</intref>, is
+gedaan:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>stort
+de minister de waarborgsom terug van de
+aanvrager:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>wiens
+bieding geen onderdeel is van de finale combinatie van winnende
+biedingen, en</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>aan wie geen
+vergunning is verleend op grond van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=29">artikel 29, eerste lid</intref>, of <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=30">30,
+eerste lid</intref>;</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>stuurt de
+minister een schriftelijke verklaring als bedoeld in artikel II, onder
+4, van <intref status="actief" doc="1.0:v:BWBR0026545&amp;bijlage=II">bijlage II</intref> aan de bank van iedere aanvrager die ter
+zekerheidstelling een bankgarantie heeft overgelegd
+en:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>wiens
+bieding geen onderdeel is van de finale combinatie van winnende
+biedingen, en</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>aan wie geen
+vergunning is verleend op grond van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=29">artikel 29, eerste lid</intref> of <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=30">30,
+eerste lid</intref>.</al>
+                  </li>
+                </lijst>
+                <al>De Minister stuurt een kopie van deze
+verklaring aan de aanvrager;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>betaalt
+de deelnemer wiens bieding onderdeel uitmaakt van de finale combinatie
+van winnende biedingen of aan wie een vergunning is verleend op grond
+van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=29">artikel 29, eerste lid</intref>, of <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=30">artikel 30, eerste lid</intref>, en die een
+bankgarantie had gesteld, de door hem verschuldigde totaalprijs, door
+overmaking van dat bedrag op het bankrekeningnummer, genoemd in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=10">artikel
+10, vijfde lid</intref>, onder vermelding van &#x2018;Ministerie van Economische
+Zaken, Agentschap Telecom, waarborgsom veiling 2,6 GHz&#x2019;. Zodra
+de verschuldigde totaalprijs is ontvangen stuurt de minister een
+schriftelijke verklaring als bedoeld in artikel II, onder 4, van
+<intref status="actief" doc="1.0:v:BWBR0026545&amp;bijlage=II">bijlage II</intref> aan de bank van die deelnemer. De Minister stuurt een kopie
+van deze verklaring aan de
+deelnemer;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>wordt de waarborgsom van
+de deelnemer wiens bieding onderdeel uitmaakt van de finale combinatie
+van winnende biedingen of aan wie een vergunning is verleend op grond
+van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=29">artikel 29, eerste lid</intref>, of <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=30">artikel 30, eerste lid</intref>, aangewend voor
+de betaling van de door hem verschuldigde totaalprijs, met dien
+verstande
+dat:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>indien
+de waarborgsom minder dan de totaalprijs bedraagt, die deelnemer het
+restant van de totaalprijs betaalt door overmaking van dat restant op
+het bankrekeningnummer, genoemd in artikel 10, vijfde lid, onder
+vermelding van &#x2018;Ministerie van Economische Zaken, Agentschap
+Telecom, waarborgsom veiling 2,6 GHz&#x2019;, uiterlijk twee weken
+nadat de mededeling, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=37">artikel 37</intref>, is gedaan,
+en</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>indien de waarborgsom van
+die deelnemer meer dan de totaalprijs bedraagt, het bedrag van de
+waarborgsom dat resteert, aan die deelnemer wordt teruggestort,
+uiterlijk twee weken nadat de mededeling, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=37">artikel 37</intref>, is
+gedaan.</al>
+                  </li>
+                </lijst>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De minister vergoedt de rente
+over de gestorte waarborgsom vanaf de dag waarop hij de waarborgsom
+heeft ontvangen op het bankrekeningnummer, genoemd in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=10">artikel 10,
+vijfde lid</intref>, met dien verstande dat de rente wordt vergoed tot en met de
+dag:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>voorafgaand aan de dag waarop de waarborgsom door
+de minister wordt teruggestort: voor de aanvrager wiens bieding geen
+onderdeel is van de finale combinatie van winnende biedingen en aan wie
+geen vergunning is verleend op grond van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=29">artikel 29, eerste lid</intref>, of <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=30">30,
+eerste lid</intref>, of</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>waarop de mededeling,
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=37">artikel 37</intref>, is gedaan: voor de deelnemer wiens bieding
+onderdeel uitmaakt van de finale combinatie van winnende biedingen of
+aan wie een vergunning is verleend op grond van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=29">artikel 29, eerste lid</intref>,
+of <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=30">artikel 30, eerste lid</intref>,</al>
+              </li>
+            </lijst>
+            <al>met dien verstande dat
+er alleen rente wordt betaald over het door de deelnemer gestorte
+bedrag.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De
+minister vergoedt voorts aan een deelnemer van wie de waarborgsom meer
+bedraagt dan de totaalprijs, rente over het restant, bedoeld in het
+eerste lid, onderdeel d, sub 2&#xB0;, over de periode vanaf de dag
+waarop de mededeling, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=37">artikel 37</intref>, is gedaan tot en met de
+dag voorafgaand aan de dag waarop de waarborgsom door de minister wordt
+teruggestort, met dien verstande dat er alleen rente wordt betaald over
+dat restant.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De
+minister stort de rente, bedoeld in het tweede en derde lid, op
+dezelfde dag waarop hij de waarborgsom of het bedrag dat resteert van
+de waarborgsom,
+terugstort.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">11</nr>
+          <titel status="officieel">Overgangs-
+en
+slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">40</nr>
+            <titel status="officieel">(vervallen
+maximale frequentieruimte)</titel>
+          </kop>
+          <al><intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">Artikel 2, zesde en zevende
+lid</intref>, vervalt twee en half jaar na het tijdstip, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=4">artikel 4,
+tweede
+lid</intref>.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">41</nr>
+            <titel status="officieel">(inwerkingtreding)</titel>
+          </kop>
+          <al>Deze
+regeling treedt in werking met ingang van de dag na de datum van
+uitgifte van de Staatscourant waarin zij wordt
+geplaatst.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">42</nr>
+            <titel status="officieel">(citeertitel)</titel>
+          </kop>
+          <al>Deze
+regeling wordt aangehaald als: Regeling aanvraag- en veilingprocedure
+vergunningen 2,6
+GHz.</al>
+        </artikel>
+      </paragraaf>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze
+regeling zal met de bijlagen en de toelichting in de Staatscourant
+worden
+geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Den Haag</plaats>
+          <datum isodatum="2009-10-18">18 oktober
+2009</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>De
+<functie>Staatssecretaris</functie> van
+<organisatie afkorting="EZ">Economische Zaken</organisatie>,
+        <naam>
+          <voornaam>F.</voornaam>
+          <achternaam>Heemskerk</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">I</nr><titel status="officieel">als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=3">artikel 3, vierde
+lid</intref></titel>
+      </kop>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">&#x2013; Model
+aanvraagformulier
+&#x2013;</titel>
+        </kop>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">A.1</nr>
+            <titel status="officieel">Algemeen</titel>
+          </kop>
+          <al>Naam
+onderneming:</al>
+          <al>......</al>
+          <al>Rechtsvorm:</al>
+          <al>.....</al>
+          <al>.....</al>
+          <al>Vestigingsplaats:</al>
+          <al>.....</al>
+          <al>Faxnummer:</al>
+          <al>.....</al>
+          <al>.....</al>
+          <al>En
+als deze vestigingsplaats niet dezelfde is als de statutaire zetel van
+het hoofdbestuur</al>
+          <al>Plaats statutaire
+zetel:</al>
+          <al>.....</al>
+          <al>Plaats zetel
+hoofdbestuur:</al>
+          <al>.....</al>
+          <al>Het telefoonnummer waarop in geval
+van &#x2018;bijzondere omstandigheden&#x2019; als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=12">artikel
+12, derde lid</intref>, de vertegenwoordigingsbevoegde tijdens de veiling
+bereikbaar
+is:</al>
+          <al>.....</al>
+          <al>.....</al>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Recent
+uittreksel uit het
+handelsregister</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x25A1;</li.nr>
+                <al>Een
+recent uittreksel, niet ouder dan een maand gerekend vanaf de datum van
+indiening van de aanvraag, van het handelsregister is
+bijgevoegd.</al>
+              </li>
+            </lijst>
+            <al>
+              <nadruk type="cur">Dit uittreksel mag
+in afwijking van</nadruk>
+            <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=3">artikel 3, vijfde lid</intref>, <nadruk type="cur">in een van de offici&#xEB;le
+talen van de Europese Unie of de Europese Economische Ruimte worden
+gesteld. In dat geval dient een Nederlandse vertaling van dit
+uittreksel te worden bijgevoegd</nadruk> (<intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=3">artikel 3, zevende
+lid</intref>).</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Vertegenwoordigingsbevoegdheid</titel>
+            </kop>
+            <al>Lijst
+van degenen die bevoegd zijn om de onderneming rechtsgeldig te
+vertegenwoordigen. Met daarbij vermeld de beperkingen die eventueel met
+betrekking tot de vertegenwoordigingsbevoegdheid
+gelden:</al>
+            <table colsep="0" frame="none" pgwide="1" rowsep="0" tabstyle="tekst">
+              <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="tekst">
+                <colspec colname="col1" colnum="1" colwidth="65*"/>
+                <colspec colname="col2" colnum="2" colwidth="64.5*"/>
+                <tbody valign="top">
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>1.
+.....</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>handtekening</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>.....</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>2.
+....</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>handtekening</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>.....</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>3.
+....</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>handtekening</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>.....</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>4.
+.....</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>handtekening</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>......</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x25A1;</li.nr>
+                <al>Een
+kopie van een document als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006297&amp;artikel=1" compleet="nee">artikel 1 van de Wet op de
+identificatieplicht</extref>, waaruit de identiteit van de houder en de
+geldigheid van het document blijkt, is van elke hierboven genoemde
+persoon bijgevoegd.</al>
+              </li>
+            </lijst>
+            <al>
+              <nadruk type="cur">Indien de
+vertegenwoordigingsbevoegdheid niet blijkt uit het handelsregister,
+maar uit een volmacht, moet een kopie van de volmacht worden
+bijgevoegd.</nadruk>
+            </al>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">A.2</nr>
+            <titel status="officieel">Eigendomsverhoudingen</titel>
+          </kop>
+          <al>Beschrijving
+van de grootte van het aandelenkapitaal, de samenstelling in soorten
+aandelen, zoals gewone, preferente, converteerbare of
+prioriteitsaandelen, en de verdeling over de
+aandeelhouders:</al>
+          <al>.....</al>
+          <al>.....</al>
+          <al>.....</al>
+          <al>.....</al>
+          <al>
+            <nadruk type="cur">Indien
+u meer ruimte nodig heeft kunt u een bijlage gebruiken. Zo mogelijk
+bewijsstukken
+bijvoegen.</nadruk>
+          </al>
+          <al>Beschrijving van de
+zeggenschapsverhoudingen en van alle overeenkomsten die deze
+verhoudingen
+be&#xEF;nvloeden:</al>
+          <al>.....</al>
+          <al>.....</al>
+          <al>.....</al>
+          <al>.....</al>
+          <al>
+            <nadruk type="cur">Indien
+u meer ruimte nodig heeft kunt u een bijlage gebruiken. Zo mogelijk
+bewijsstukken
+bijvoegen.</nadruk>
+          </al>
+          <al>Beschrijving van de
+groep waarvan de aanvrager deel
+uitmaakt:</al>
+          <al>.....</al>
+          <al>.....</al>
+          <al>.....</al>
+          <al>.....</al>
+          <al>
+            <nadruk type="cur">Indien
+u meer ruimte nodig heeft kunt u een bijlage gebruiken. Zo mogelijk
+bewijsstukken
+bijvoegen.</nadruk>
+          </al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">A.3</nr>
+            <titel status="officieel">Overeenkomsten
+met derden</titel>
+          </kop>
+          <al>Beschrijving van alle bestaande
+en voorgenomen strategische overeenkomsten met
+derden:</al>
+          <al>.....</al>
+          <al>.....</al>
+          <al>.....</al>
+          <al>.....</al>
+          <al>
+            <nadruk type="cur">Indien
+u meer ruimte nodig heeft kunt u een bijlage gebruiken. Zo mogelijk
+bewijsstukken
+bijvoegen.</nadruk>
+          </al>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Juridisch
+organogram</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x25A1;</li.nr>
+                <al>Een
+juridisch organogram van de organisatie van de aanvrager is bijgevoegd.
+Hieruit blijkt hoe de eigendoms- en zeggenschapsverhoudingen zijn
+tussen de constituerende
+vennootschappen.</al>
+              </li>
+            </lijst>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">A.4</nr>
+            <titel status="officieel">Schriftelijke
+verklaring omtrent de juistheid van
+gegevens</titel>
+          </kop>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>1.</li.nr>
+              <al>De
+onderneming is een rechtspersoon, opgericht in overeenstemming met het
+recht van een van de lidstaten van de Europese Unie of een van de
+overige staten die partij zijn bij de Overeenkomst betreffende de
+Europese Economische Ruimte en heeft zijn statutaire zetel, zijn
+hoofdbestuur of zijn hoofdvestiging binnen de Europese Economische
+Ruimte.</al>
+            </li>
+            <li>
+              <li.nr>2.</li.nr>
+              <al>De onderneming verkeert
+wel/niet<noot type="voet">
+                  <noot.nr>1</noot.nr>
+                  <noot.al>Doorhalen
+wat niet van toepassing is.</noot.al>
+                </noot>
+in staat van faillissement.</al>
+            </li>
+            <li>
+              <li.nr>3.</li.nr>
+              <al>Aan de
+onderneming is
+wel/geen<noot type="voet">
+                  <noot.nr>1</noot.nr>
+                  <noot.al>Doorhalen
+wat niet van toepassing is.</noot.al>
+                </noot>
+surseance van betaling verleend.</al>
+            </li>
+            <li>
+              <li.nr>4.</li.nr>
+              <al>De
+onderneming heeft
+wel/geen<noot type="voet">
+                  <noot.nr>1</noot.nr>
+                  <noot.al>Doorhalen
+wat niet van toepassing is.</noot.al>
+                </noot>
+surseance van betaling
+aangevraagd.</al>
+            </li>
+            <li>
+              <li.nr>5.</li.nr>
+              <al>Er is
+wel/geen<noot type="voet">
+                  <noot.nr>1</noot.nr>
+                  <noot.al>Doorhalen
+wat niet van toepassing is.</noot.al>
+                </noot>
+substantieel beslag gelegd op bedrijfsmiddelen van de
+onderneming.</al>
+            </li>
+          </lijst>
+          <al>
+            <nadruk type="cur">Indien er beslag
+is gelegd op bedrijfsmiddelen van de
+onderneming:</nadruk>
+          </al>
+          <al>Omvang
+beslag:</al>
+          <al>.....</al>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Verklaring
+notaris</titel>
+            </kop>
+            <al>Ondergetekende, notaris te .....
+(plaatsnaam)</al>
+            <al>verklaart zonder voorbehoud dat de informatie die
+in deze aanvraag is verstrekt onder A.1en A.4 onder 1 en 2, door hem is
+geverifieerd en juist en volledig is bevonden, en verklaart zonder
+voorbehoud dat de informatie die in deze aanvraag is verstrekt onder
+A.2, A.3 en A.4 onder 3, 4 en 5, door hem naar beste kunnen is
+geverifieerd en naar zijn oordeel juist en volledig
+is.</al>
+            <al>Naam:</al>
+            <al>.....</al>
+            <al>.....</al>
+            <al>Plaats:</al>
+            <al>.....</al>
+            <al>.....</al>
+            <al>Datum:</al>
+            <al>.....</al>
+            <al>.....</al>
+            <al>Handtekening</al>
+            <al>.....</al>
+            <al>.....</al>
+            <al>
+              <nadruk type="cur">De
+verklaring van de notaris mag desgewenst door middel van een bijlage
+worden
+verstrekt.</nadruk>
+            </al>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">B.1</nr>
+            <titel status="officieel">Vergunningen
+waarop de aanvraag betrekking heeft</titel>
+          </kop>
+          <al>Ik vraag een
+aantal vergunningen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2</intref> aan ter grootte van
+....... activiteitspunten en vraag bij het verkrijgen van de
+frequentieruimte 2610&#x2013;2615 MHz tevens vergunning D aan en bij
+het verkrijgen van 2680&#x2013;2685 MHz tevens vergunning E
+aan.</al>
+          <al>Toelichting:</al>
+          <al>Op grond van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2,
+tweede tot en met het zevende lid</intref> van de regeling is het maximale
+aantal te verwerven vergunningen gerelateerd aan het aantal
+activiteitspunten. De som van de activiteitspunten mag niet hoger zijn
+dan 8.</al>
+          <al>Voor het bieden op vergunning A is
+&#xE9;&#xE9;n activiteitspunt vereist;</al>
+          <al>Voor het bieden op een
+vergunning B van 2 &#xD7; 5 MHz zijn twee activiteitspunten
+vereist;</al>
+          <al>Voor het bieden op een vergunning C is &#xE9;&#xE9;n
+activiteitspunt vereist, met dien verstande dat in deze aanvraag een
+voorkeur voor nul of ten minste twee vergunningen C moet worden
+aangegeven en steeds op nul of ten minste twee vergunningen C geboden
+moet worden. Met de extra vergunning C (de guardband) wordt
+interferentie voorkomen. Gelet op de functie als guardband is deze
+extra vergunning beperkt bruikbaar. Het voorgaande betekent dat indien
+u 6 vergunningen C aanvraagt, 1 van deze vergunningen zal dienen als
+guardband (zie voorts <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=17">artikel 17, eerste lid, onder c</intref>, van de
+regeling).</al>
+          <al>Voor het bepalen van het aantal activiteitspunten
+kan de volgende tabel een hulpmiddel
+zijn:</al>
+          <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+            <tgroup align="left" char="" charoff="50" cols="4" tgroupstyle="xml1">
+              <colspec colname="col1" colnum="1" colwidth="30*"/>
+              <colspec colname="col2" colnum="2" colwidth="30*"/>
+              <colspec colname="col3" colnum="3" colwidth="37.5*"/>
+              <colspec colname="col4" colnum="4" colwidth="32*"/>
+              <thead valign="bottom">
+                <row rowsep="1">
+                  <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                    <al>Aantal
+vergunningen</al>
+                  </entry>
+                  <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                    <al>Het
+aantal vergunningen met onderstaande factor omzetten naar
+activiteitspunten</al>
+                  </entry>
+                  <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                    <al>Aantal
+activiteitspunten</al>
+                  </entry>
+                </row>
+              </thead>
+              <tbody valign="top">
+                <row rowsep="1">
+                  <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                    <al>Vergunning
+A</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                    <al>vermenigvuldigen
+met
+1</al>
+                  </entry>
+                  <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                </row>
+                <row rowsep="1">
+                  <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                    <al>Vergunning
+B</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                    <al>vermenigvuldigen
+met
+2</al>
+                  </entry>
+                  <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                </row>
+                <row rowsep="1">
+                  <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                    <al>Vergunning
+C</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                    <al>minus
+1 (aftrekken)</al>
+                  </entry>
+                  <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                </row>
+                <row rowsep="1">
+                  <entry align="left" colname="col1" colsep="1" morerows="0" nameend="col3" namest="col1" rotate="0" valign="top">
+                    <al>Totale
+aantal activiteitspunten
+(sommatie)</al>
+                  </entry>
+                  <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">B.2</nr>
+            <titel status="officieel">Voorkeur
+ten behoeve van schaarstebepaling</titel>
+          </kop>
+          <al>Geef een keuze
+hoeveel en welke vergunningen u wilt verwerven, indien
+vergunningverlening plaatsvindt op grond van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=7">artikel 7, derde lid</intref>. De
+voorkeur is onherroepelijk en bindend voor de
+schaarstebepaling.</al>
+          <table colsep="0" frame="none" pgwide="1" rowsep="0" tabstyle="tekst">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="tekst">
+              <colspec colname="col1" colnum="1" colwidth="25*"/>
+              <colspec colname="col2" colnum="2" colwidth="104.5*"/>
+              <tbody valign="top">
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>&#x25AA;
+Vergunning
+A</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>wel/geen<noot type="voet">
+                  <noot.nr>1</noot.nr>
+                  <noot.al>Doorhalen
+wat niet van toepassing is.</noot.al>
+                </noot>
+voorkeur</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>&#x25AA;
+Vergunning
+B</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>voorkeur
+aantal vergunningen
+.....</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>&#x25AA;
+Vergunning
+C</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>voorkeur
+aantal vergunningen ..... (NB: U dient ten minste een voorkeur voor
+twee vergunningen C uit te spreken.)</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x25A1;</li.nr>
+              <al>Ik
+heb voorkeur voor een specifieke plaats in de
+frequentieband.</al>
+            </li>
+            <li>
+              <li.nr>&#x25A1;</li.nr>
+              <al>Ik heb
+<nadruk type="vet">geen</nadruk> voorkeur voor een specifieke plaats in
+de frequentieband.</al>
+            </li>
+          </lijst>
+          <al>Ondertekening</al>
+          <al>De
+bestuurder verklaart zonder voorbehoud dat de informatie die in deze
+aanvraag is verstrekt juist en volledig
+is.</al>
+          <al>Naam:</al>
+          <al>.....</al>
+          <al>.....</al>
+          <al>Plaats:</al>
+          <al>.....</al>
+          <al>.....</al>
+          <al>Datum:</al>
+          <al>.....</al>
+          <al>.....</al>
+          <al>Handtekening</al>
+        </divisie>
+      </divisie>
+    </bijlage>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">II</nr><titel status="officieel">als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=10">artikel 10, eerste
+lid</intref></titel>
+      </kop>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">&#x2013; Model
+bankgarantie
+&#x2013;</titel>
+        </kop>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>I.</li.nr>
+            <al>De ondergetekende .... (<nadruk type="cur">naam
+van een bank die is gevestigd in een van de lidstaten van de Europese
+Unie of in een van de overige staten die partij zijn bij de
+Overeenkomst betreffende de Europese Economische
+Ruimte</nadruk>)<noot type="voet">
+                <noot.nr>1</noot.nr>
+                <noot.al>Hetgeen
+in het bovenstaande cursief is gedrukt moet door de Bank worden
+ingevuld.</noot.al>
+              </noot>
+, gevestigd te ...., mede kantoorhoudende te ....., hierna te noemen:
+&#x2018;de Bank&#x2019;;</al>
+            <al>In aanmerking
+nemende:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>A.</li.nr>
+                <al>dat
+<extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3" compleet="nee">artikel 3.3, eerste lid, van de Telecommunicatiewet</extref> bepaalt dat voor
+het gebruik van frequentieruimte een vergunning is vereist van de
+Minister van Economische Zaken (hierna: &#x2018;de
+Minister&#x2019;);</al>
+              </li>
+              <li>
+                <li.nr>B.</li.nr>
+                <al>dat ..........
+(<nadruk type="cur">naam deelnemer</nadruk>), rechtspersoon naar
+.......... (<nadruk type="cur">het recht van een van de lidstaten van
+de Europese Unie of van een van de overige staten die partij zijn bij
+de Overeenkomst betreffende de Europese Economische Ruimte</nadruk>)
+recht, waarvan de zetel is gevestigd te .........., kantoorhoudende te
+.........., hierna te noemen: &#x2018;de Deelnemer&#x2019;, voornemens
+is een bieding in de veiling uit te brengen teneinde een vergunning als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3" compleet="nee">artikel 3.3, eerste lid, van de Telecommunicatiewet</extref> te
+verwerven;</al>
+              </li>
+              <li>
+                <li.nr>C.</li.nr>
+                <al>dat de Minister met
+betrekking tot de verlening van een vergunning regels heeft gesteld.
+Deze regels zijn vastgelegd in de Regeling aanvraagprocedure en veiling
+vergunningen frequentieruimte voor mobiele
+communicatietoepassingen;</al>
+              </li>
+              <li>
+                <li.nr>D.</li.nr>
+                <al>dat de
+Minister op grond van deze regels van de Deelnemer verlangt dat deze
+een bankgarantie doet stellen ter zekerheid van al hetgeen de Deelnemer
+ter zekerheid verschuldigd is, hierna te noemen: &#x2018;de
+Vordering&#x2019;, aan de Staat der Nederlanden, rechtspersoon naar
+Nederlands recht, waarvan de zetel is gevestigd te
+&#x2019;s-Gravenhage, hierna te noemen: &#x2018;de
+Staat&#x2019;;</al>
+              </li>
+              <li>
+                <li.nr>E.</li.nr>
+                <al>dat de Deelnemer de
+Bank heeft verzocht een onherroepelijke en onafhankelijke bankgarantie
+te stellen ten behoeve van de Staat, welke op eerste verzoek van de
+Staat betaalbaar
+is;</al>
+              </li>
+            </lijst>
+          </li>
+          <li>
+            <li.nr>II.</li.nr>
+            <al>Verbindt zich tot
+het
+navolgende:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>1.</li.nr>
+                <al>De
+Bank stelt zich bij wijze van zelfstandige verbintenis tot een bedrag
+van ..... (zegge: .....), onherroepelijk garant jegens de Staat voor de
+betaling van al hetgeen de Staat blijkens een schriftelijke verklaring
+van de Staat ter zake van de Vordering van de Deelnemer te vorderen
+heeft, aldus dat de Bank zich verbindt het gevorderde bedrag als eigen
+verplichting aan de Staat te
+voldoen.</al>
+              </li>
+              <li>
+                <li.nr>2.</li.nr>
+                <al>De Bank verbindt zich om als
+eigen schuld op eerste verzoek en op de enkele schriftelijke mededeling
+van de Staat zonder overlegging van enig ander document of opgaaf van
+redenen te verlangen, aan de Staat te voldoen het bedrag dat de Staat
+verklaart ter zake van de Vordering van de Deelnemer te vorderen te
+hebben, met dien verstande dat de Bank nimmer gehouden is aan de Staat
+meer te voldoen dan het hiervoor vermelde maximumbedrag.</al>
+                
+              </li>
+              <li>
+                <li.nr>3.</li.nr>
+                <al>Deelberoepen onder deze
+bankgarantie zijn mogelijk. Het maximumbedrag van deze bankgarantie
+wordt met een bedrag gelijk met dat van elk deelberoep
+verlaagd.</al>
+              </li>
+              <li>
+                <li.nr>4.</li.nr>
+                <al>Deze bankgarantie vervalt
+na ontvangst door de Bank van een per aangetekende brief gezonden
+schriftelijke verklaring van de Staat dat de bankgarantie vervalt en in
+ieder geval &#xE9;&#xE9;n jaar na datum van ondertekening van deze
+garantie, tenzij de Bank ten minste &#xE9;&#xE9;n maand voor de
+einddatum van de garantie per aangetekende brief een schriftelijke
+verklaring van of namens de Minister heeft ontvangen dat deze
+bankgarantie niet vervalt, in welk geval de garantie telkens voor een
+nieuwe termijn van een jaar geldig
+is.</al>
+              </li>
+              <li>
+                <li.nr>5.</li.nr>
+                <al>Deze bankgarantie wordt beheerst
+door Nederlands recht. Geschillen ter zake van deze bankgarantie kunnen
+uitsluitend worden voorgelegd aan de bevoegde Nederlandse rechter te
+&#x2019;s-Gravenhage.</al>
+              </li>
+              <li>
+                <li.nr>6.</li.nr>
+                <al>Na verval van
+deze bankgarantie kan de Staat geen enkele aanspraak meer maken jegens
+de Bank uit hoofde van deze bankgarantie tenzij de Bank voorafgaande
+aan het moment waarop deze bankgarantie zou vervallen een mededeling
+ontving als bedoeld onder 2 waaraan de Bank nog niet voldeed. Op
+verzoek van de Bank zal de Staat deze bankgarantie nadat deze is
+vervallen retourneren aan de Bank.</al>
+              </li>
+            </lijst>
+          </li>
+        </lijst>
+        <al>Plaats:</al>
+        <al>.....</al>
+        <al>.....</al>
+        <al>Datum:</al>
+        <al>.....</al>
+        <al>......</al>
+        <al>Naam
+Bank en
+ondertekening</al>
+        <al>.....</al>
+        <al>......</al>
+      </divisie>
+    </bijlage>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">III</nr><titel status="officieel">als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=27">artikel 27, eerste
+lid</intref></titel>
+      </kop>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">&#x2013;
+Basisprijzen &#x2013;</titel>
+        </kop>
+        <al>Door toepassing van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=26">artikel 26</intref>
+zijn n winnende biedingen wb<inf>1</inf>, wb<inf>2</inf>,
+wb<inf>3</inf>, ..., wb<inf>n</inf> bepaald, uitgebracht door de
+deelnemers w<inf>1</inf>, w<inf>2</inf>, w<inf>3</inf>, ...,
+w<inf>n</inf>. Voor een winnende bieding wb<inf>i</inf> is de prijs
+p<inf>i</inf> geboden. De totale opbrengst van de winnende biedingen
+wb<inf>1</inf>, wb<inf>2</inf>, wb<inf>3</inf>, ..., wb<inf>n</inf> is
+gelijk aan T, ofwel T
+=</al>
+        <plaatje>
+          <illustratie bin-id="245227" breedte="13mm" display="block" formaat="png" hoogte="12mm" kleur="nee" naam="35320-002.png" type="lijn" uitlijning="start" url="http://wetten.overheid.nl/Illustration/245227"/>
+        </plaatje>
+        <al>De basisprijs wordt vastgesteld overeenkomstig het
+bepaalde onder 1 en
+2:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>1.</li.nr>
+            <al>Voor
+elke winnende bieding wb<inf>i</inf> wordt een basisprijs b<inf>i</inf>
+bepaald, die aan de volgende voorwaarden
+voldoet:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>b<inf>i</inf>
+is groter dan of gelijk aan de som van de prijzen van vergunningen
+zoals vastgesteld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=24">artikel 24</intref> waarop de bieding wb<inf>i</inf>
+betrekking heeft;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>b<inf>i</inf> is
+kleiner dan of gelijk aan p<inf>i</inf>,
+en</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de verzameling {b<inf>1</inf>,
+b<inf>2</inf>, b<inf>3</inf>, ..., b<inf>n</inf>} voldoet aan de
+volgende voorwaarde: als bij ongewijzigde biedingen van de deelnemers
+die geen winnende bieding hebben uitgebracht alle biedingen van een
+winnende deelnemer w<inf>i</inf> worden verlaagd met (p<inf>i</inf>
+&#x2013; b<inf>i</inf>), voor i = 1, 2, ..., n, leidt toepassing van
+<intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=26">artikel 26, tweede lid, onderdelen a en b</intref>, niet tot een andere bieding
+of een andere combinatie van biedingen die een hogere opbrengst heeft
+dan wb<inf>1</inf>, wb<inf>2</inf>, wb<inf>3</inf>, ...,
+wb<inf>n</inf>;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de verzameling
+{b<inf>1</inf>, b<inf>2</inf>, b<inf>3</inf>, ..., b<inf>n</inf>} heeft
+de laagst mogelijke opbrengst, ofwel de som van de
+basisprijzen</al>
+                <plaatje>
+                  <illustratie bin-id="245228" breedte="10mm" display="block" formaat="png" hoogte="12mm" kleur="nee" naam="35320-003.png" type="lijn" uitlijning="start" url="http://wetten.overheid.nl/Illustration/245228"/>
+                </plaatje>
+                <al>is
+minimaal.</al>
+              </li>
+            </lijst>
+          </li>
+          <li>
+            <li.nr>2.</li.nr>
+            <al>Indien meer
+verzamelingen {b<inf>1</inf>, b<inf>2</inf>, b<inf>3</inf>, ...,
+b<inf>n</inf>} aan de onder 1 gestelde voorwaarden voldoen, wordt uit
+deze verzamelingen de verzameling basisprijzen gekozen met de laagste
+opportuniteitskostenvariantie OV. De opportuniteitskostenvariantie OV
+is de som van de kwadratische verschillen tussen de basisprijzen en de
+bijbehorende opportuniteitskosten, ofwel OV
+=</al>
+            <plaatje>
+              <illustratie bin-id="245229" breedte="25mm" display="block" formaat="png" hoogte="12mm" kleur="nee" naam="35320-004.png" type="lijn" uitlijning="start" url="http://wetten.overheid.nl/Illustration/245229"/>
+            </plaatje>
+            <al>met dien verstande
+dat:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>O<inf>i</inf>
+de opportuniteitskosten zijn van de winnende bieding wb<inf>i</inf>,
+bepaald door:</al>
+                <al>O<inf>i</inf> = p<inf>i</inf> &#x2013;T +
+Z<inf>i</inf> en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>Z<inf>i</inf> de
+totale opbrengst is van de overeenkomstig artikel 26 bepaalde
+combinatie van winnende biedingen, indien deelnemer w<inf>i</inf> niet
+aan de veiling zou hebben
+deelgenomen.</al>
+              </li>
+            </lijst>
+          </li>
+        </lijst>
+      </divisie>
+    </bijlage>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">IV</nr><titel status="officieel">als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=36">artikel 36, eerste lid</intref>,
+van de regeling aanvraag- en veiling procedure vergunningen 2,6
+ghz</titel>
+      </kop>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">&#x2013; Extra
+prijzen &#x2013;</titel>
+        </kop>
+        <al>Door toepassing van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=35">artikel 35</intref> zijn n
+winnende biedingen wb<inf>1</inf>, wb<inf>2</inf>, wb<inf>3</inf>, ...,
+wb<inf>n</inf> bepaald, uitgebracht door de deelnemers w<inf>1</inf>,
+w<inf>2</inf>, w<inf>3</inf>, ..., w<inf>n</inf>. Voor een winnende
+bieding wb<inf>i</inf> is de prijs p<inf>i</inf> geboden. De totale
+opbrengst van de winnende biedingen wb<inf>1</inf>, wb<inf>2</inf>,
+wb<inf>3</inf>, ..., wb<inf>n</inf> is gelijk aan T, ofwel T
+=</al>
+        <plaatje>
+          <illustratie bin-id="245230" breedte="12mm" display="block" formaat="png" hoogte="12mm" kleur="nee" naam="35320-005.png" type="lijn" uitlijning="start" url="http://wetten.overheid.nl/Illustration/245230"/>
+        </plaatje>
+        <al>De extra prijs wordt vastgesteld overeenkomstig het
+bepaalde onder 1 en
+2:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>1.</li.nr>
+            <al>Voor elke winnende bieding wb<inf>i</inf> wordt
+een extra prijs eb<inf>i</inf> bepaald, met dien verstande dat aan de
+volgende voorwaarden wordt
+voldaan:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>eb<inf>i</inf>
+is gelijk aan of groter dan
+0;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>eb<inf>i</inf> is
+kleiner dan of gelijk aan p<inf>i</inf>,
+en</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de verzameling {eb<inf>1</inf>,
+eb<inf>2</inf>, eb<inf>3</inf>, ..., eb<inf>n</inf>} voldoet aan de
+volgende voorwaarde: als alle biedingen in de toewijzingsbiedronde van
+een winnende
+deelnemer</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>&#x2013;</li.nr>
+                    <al>worden
+verlaagd met (p<inf>i</inf> &#x2013; eb<inf>i</inf>), voor i = 1, 2,
+..., n, en</al>
+                  </li>
+                  <li>
+                    <li.nr>&#x2013;</li.nr>
+                    <al>niet verder dan tot
+nul worden verlaagd,</al>
+                  </li>
+                </lijst>
+                <al>leidt toepassing van <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=35">artikel
+35, tweede lid, onderdeel a</intref>, niet tot een andere bieding of een andere
+combinatie van biedingen die een hogere opbrengst heeft dan
+wb<inf>1</inf>, wb<inf>2</inf>, wb<inf>3</inf>, ...,
+wb<inf>n</inf>;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de verzameling
+{eb<inf>1</inf>, eb<inf>2</inf>, eb<inf>3</inf>, ..., eb<inf>n</inf>}
+heeft de laagst mogelijke opbrengst, ofwel de som van de extra
+prijzen</al>
+                <plaatje>
+                  <illustratie bin-id="245231" breedte="11mm" display="block" formaat="png" hoogte="11mm" kleur="nee" naam="35320-006.png" type="lijn" uitlijning="start" url="http://wetten.overheid.nl/Illustration/245231"/>
+                </plaatje>
+                <al>is
+minimaal.</al>
+              </li>
+            </lijst>
+          </li>
+          <li>
+            <li.nr>2.</li.nr>
+            <al>Indien meer
+verzamelingen {eb<inf>1</inf>, eb<inf>2</inf>, eb<inf>3</inf>, ...,
+eb<inf>n</inf>} aan de onder 1 gestelde voorwaarden voldoen, wordt uit
+deze verzamelingen de verzameling extra prijzen gekozen met de laagste
+opportuniteitskostenvariantie OV. De opportuniteitskostenvariantie OV
+is de som van de kwadratische verschillen tussen de extra prijzen en de
+bijbehorende opportuniteitskosten, ofwel OV
+=</al>
+            <plaatje>
+              <illustratie bin-id="245232" breedte="27mm" display="block" formaat="png" hoogte="13mm" kleur="nee" naam="35320-007.png" type="lijn" uitlijning="start" url="http://wetten.overheid.nl/Illustration/245232"/>
+            </plaatje>
+            <al>met dien verstande
+dat:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>O<inf>i</inf> de opportuniteitskosten zijn van de
+winnende bieding wb<inf>i</inf> , bepaald door:</al>
+                <al>O<inf>i</inf> =
+p<inf>i</inf> &#x2013; T + Z<inf>i</inf>.
+en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>Z<inf>i</inf> de totale opbrengst
+is van de overeenkomstig <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=35">artikel 35</intref> bepaalde finale combinatie van
+winnende biedingen, indien deelnemer
+w<inf>i</inf> &#x20AC;&#xA0;0,00 had
+uitgebracht
+voor alle mogelijke combinaties van
+biedingen.</al>
+              </li>
+            </lijst>
+          </li>
+        </lijst>
+      </divisie>
+    </bijlage>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">V</nr><titel status="officieel">als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=15">artikel 15, vierde lid
+onder b</intref>, van de regeling aanvraag- en veiling procedure vergunningen
+2,6 ghz.</titel>
+      </kop>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">&#x2013;
+Biedkaart
+&#x2013;</titel>
+        </kop>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Instructies</titel>
+          </kop>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>Een
+bieding wordt uitgebracht in eenheden van duizend
+Euro</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>Een bieding wordt
+uitgebracht door middel van deze
+biedkaart</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>Het bedrag van elke
+bieding wordt in cijfers en letters
+geschreven</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>Indien op een
+vergunning geen bieding wordt uitgebracht dit aankruisen onder
+&#x2018;geen bieding&#x2019;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>De
+biedkaart wordt in het Nederlands
+ingevuld</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>De biedkaart wordt
+door een vertegenwoordigingsbevoegde
+ondertekend</al>
+            </li>
+          </lijst>
+          <table colsep="0" frame="all" pgwide="1" rowsep="0" tabstyle="xml1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+              <colspec colname="col01" colnum="1" colwidth="10*"/>
+              <colspec colname="col1" colnum="2" colwidth="119.5*"/>
+              <tbody valign="top">
+                <row rowsep="0">
+                  <entry align="left" colsep="0" morerows="0" nameend="col1" namest="col01" rotate="0" valign="top">
+                    <al>
+                      <nadruk type="vet">Niet
+in te vullen door de
+deelnemer:</nadruk>
+                    </al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col01" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col01" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>Informatie
+ronde: Primaire biedronde/Aanvullende
+biedronde/Toewijzingsbiedronde</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col01" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col01" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>Biedronde
+nr:</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col01" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>Datum:</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col01" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>Tijdstip:
+van ..... uur tot .....
+uur</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col01" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col01" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>Activiteitsniveau
+deelnemer in deze biedronde:</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col01" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col01" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>Verlenging
+op grond van artikel 18, tweede lid, onder b, voor de
+periode:</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col01" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>dag
+..... uur ..... tot ..... dag .....
+uur.</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col01" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>1.</li.nr>
+              <al>Door
+de deelnemer in te vullen indien zijn bieding betrekking heeft op de
+<nadruk type="vet">primaire
+biedronde</nadruk>
+                <noot type="voet">
+                  <noot.nr>1</noot.nr>
+                  <noot.al>De
+deelnemer vult uitsluitend de kolom &#x2018;Aantal&#x2019; en de kolom
+&#x2018;Geen bieding&#x2019; in.</noot.al>
+                </noot>
+              </al>
+              <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                <tgroup align="left" char="" charoff="50" cols="5" tgroupstyle="xml1">
+                  <colspec colname="col1" colnum="1" colwidth="30*"/>
+                  <colspec colname="col2" colnum="2" colwidth="14.5*"/>
+                  <colspec colname="col3" colnum="3" colwidth="30*"/>
+                  <colspec colname="col4" colnum="4" colwidth="40*"/>
+                  <colspec colname="col5" colnum="5" colwidth="15*"/>
+                  <thead valign="bottom">
+                    <row rowsep="1">
+                      <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                        <al>Vergunning</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                        <al>Aantal</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                        <al>Bedrag
+in &#x20AC;&#xA0; per
+vergunning</al>
+                      </entry>
+                      <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                        <al>Het
+bedrag voluit en in BLOKLETTERS geschreven in de Nederlandse
+taal</al>
+                      </entry>
+                      <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                        <al>Geen
+bieding</al>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody valign="top">
+                    <row rowsep="1">
+                      <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                        <al>
+                          <nadruk type="vet">A</nadruk>
+(de vergunning bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2.1 onder
+a.</intref>)</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                        <al>&#x25A1;</al>
+                      </entry>
+                    </row>
+                    <row rowsep="1">
+                      <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                        <al>
+                          <nadruk type="vet">B</nadruk>
+(de vergunning bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2.1 onder
+b</intref>.)</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                        <al>&#x25A1;</al>
+                      </entry>
+                    </row>
+                    <row rowsep="1">
+                      <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                        <al>
+                          <nadruk type="vet">C</nadruk>
+(de vergunning bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2.1 onder
+c</intref>.)</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                        <al>&#x25A1;</al>
+                      </entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table>
+            </li>
+            <li>
+              <li.nr>2.</li.nr>
+              <al>Door
+de deelnemer in te vullen indien zijn bieding betrekking heeft op de
+<nadruk type="vet">aanvullende
+biedronde</nadruk>
+              </al>
+              <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml1">
+                  <colspec colname="col1" colnum="1" colwidth="50*"/>
+                  <colspec colname="col2" colnum="2" colwidth="29.5*"/>
+                  <colspec colname="col3" colnum="3" colwidth="50*"/>
+                  <thead valign="bottom">
+                    <row rowsep="1">
+                      <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                        <al>Bieding</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                        <al>Totaalbedrag
+in
+&#x20AC;&#xA0;</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                        <al>Het
+totaalbedrag voluit en in blokletters geschreven in de Nederlandse
+taal</al>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody valign="top">
+                    <row rowsep="1">
+                      <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                        <al>.....
+&#xD7; A (vergunning <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2.1 onder a</intref>)</al>
+                        <al>..... &#xD7; B
+(vergunning <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2.1 onder b</intref>)</al>
+                        <al>..... &#xD7; C (vergunning
+<intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2.1 onder
+c</intref>)</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                    </row>
+                    <row rowsep="1">
+                      <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                        <al>.....
+&#xD7; A (vergunning <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2.1 onder a</intref>)</al>
+                        <al>..... &#xD7; B
+(vergunning <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2.1 onder b</intref>)</al>
+                        <al>..... &#xD7; C (vergunning
+<intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2.1 onder
+c</intref>)</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                    </row>
+                    <row rowsep="1">
+                      <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                        <al>.....
+&#xD7; A (vergunning <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2.1 onder a</intref>)</al>
+                        <al>..... &#xD7; B
+(vergunning <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2.1 onder b</intref>)</al>
+                        <al>..... &#xD7; C (vergunning
+<intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=2">artikel 2.1 onder
+c</intref>)</al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table>
+            </li>
+            <li>
+              <li.nr>3.</li.nr>
+              <al>Door
+de deelnemer in te vullen indien zijn bieding betrekking heeft op de
+<nadruk type="vet">toewijzingsbiedronde</nadruk>
+              </al>
+              <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml1">
+                  <colspec colname="col1" colnum="1" colwidth="50*"/>
+                  <colspec colname="col2" colnum="2" colwidth="29.5*"/>
+                  <colspec colname="col3" colnum="3" colwidth="50*"/>
+                  <thead valign="bottom">
+                    <row rowsep="1">
+                      <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                        <al>Alternatief
+nr. ... uit de lijst, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026545&amp;artikel=33">art. 33</intref></al>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                        <al>Bedrag
+in
+&#x20AC;&#xA0;</al>
+                      </entry>
+                      <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                        <al>Het
+bedrag voluit en in BLOKLETTERS geschreven in de Nederlandse
+taal</al>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody valign="top">
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                    </row>
+                    <row rowsep="1">
+                      <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                    </row>
+                    <row rowsep="1">
+                      <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                    </row>
+                    <row rowsep="1">
+                      <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table>
+            </li>
+          </lijst>
+          <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+            <tgroup align="left" char="" charoff="50" cols="1" tgroupstyle="xml1">
+              <colspec colname="col1" colnum="1" colwidth="129.5*"/>
+              <tbody valign="top">
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                    <al>Handtekening(en)
+en na(a)m(en)
+vertegenwoordigingsbevoegde(n):</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </divisie>
+      </divisie>
+    </bijlage>
+  </regeling>
+</wetgeving>
+  	

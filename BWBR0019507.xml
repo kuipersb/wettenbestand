@@ -1,0 +1,2317 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0019507" dtdversie="2.0" id="339729" soort="ministeriele-regeling">
+  
+  <intitule>Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 1&#xA0;februari 2006, nr. LMV 2006.229362, Directie Lokale Milieukwaliteit en Verkeer, Afdeling Sturing Bodemsaneringsoperatie, houdende nadere regels voor uniforme saneringen (Regeling uniforme saneringen)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op het <extref status="actief" doc="1.0:v:BWBR0019511" compleet="nee">Besluit uniforme saneringen</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <paragraaf>
+        <kop>
+          <label>Paragraaf</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Algemene bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1.1</nr>
+            <titel status="officieel">Definities</titel>
+          </kop>
+          <al>In deze regeling wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>besluit: het <extref status="actief" doc="1.0:v:BWBR0019511" compleet="nee">Besluit uniforme saneringen</extref>;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>streefwaarde: de getalsmatige invulling van het gehalte aan chemische stoffen in grondwater, zoals
+            vermeld in <extref status="actief" doc="1.0:v:BWBR0025649&amp;bijlage=1" compleet="nee">tabel 1 van bijlage 1 bij de Circulaire bodemsanering 2009</extref>;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>interventiewaarde: de getalsmatige invulling van het gehalte aan chemische stoffen in grond en grondwater, zoals
+            vermeld in <extref status="actief" doc="1.0:v:BWBR0025649&amp;bijlage=1" compleet="nee">tabel 1 van bijlage 1 bij de Circulaire bodemsanering 2009</extref>;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>tussenwaarde: het rekenkundig gemiddelde van de streefwaarde en de interventiewaarde van een verontreinigende stof in het grondwater;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>immobiele verontreinigingssituatie: een situatie waarbij de in de bodem aanwezige verontreinigende stoffen zich tot ten hoogste de tussenwaarde hebben verspreid naar het grondwater;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>mobiele verontreinigingssituatie: een situatie waarbij de in de bodem aanwezige verontreinigende stoffen zich tot meer dan de tussenwaarde hebben verspreid naar het grondwater;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>achtergrondwaarden: de getalsmatige invulling van het gehalte aan chemische stoffen in de bodem, zoals opgenomen in <extref status="actief" doc="1.0:v:BWBR0023085&amp;bijlage=B" compleet="nee">tabel 1 van bijlage B bij de Regeling bodemkwaliteit</extref>;</al>
+            </li><li><li.nr>h.</li.nr><al>maximale waarden: de getalsmatige invulling van het gehalte aan chemische stoffen in de bodem, zoals opgenomen in <extref status="actief" doc="1.0:v:BWBR0023085&amp;bijlage=B" compleet="nee">tabel 1 van bijlage B bij de Regeling bodemkwaliteit</extref>;</al>
+              
+              
+              
+              </li><li><li.nr>i.</li.nr><al>lokale maximale waarden: de getalsmatige invulling van het gehalte aan chemische stoffen in de bodem, bedoeld in <extref status="actief" doc="1.0:v:BWBR0022929&amp;artikel=44" compleet="nee">artikel 44 van het Besluit bodemkwaliteit</extref>;</al></li>
+            
+            <li><li.nr>j.</li.nr><al>bodemfuncties: bodemfuncties als bedoeld in <extref status="actief" doc="1.0:v:BWBR0022929&amp;artikel=1" compleet="nee">artikel 1 van het Besluit bodemkwaliteit</extref> en <extref status="actief" doc="1.0:v:BWBR0023085&amp;artikel=4.7.1" compleet="nee">artikel 4.7.1 van de Regeling bodemkwaliteit</extref>;</al></li><li><li.nr>k.</li.nr><al>bodemfunctieklassen wonen of industrie: bodemfunctieklassen wonen of industrie als bedoeld in <extref status="actief" doc="1.0:v:BWBR0022929&amp;artikel=55" compleet="nee">artikel 55, eerste lid, van het Besluit bodemkwaliteit</extref>;</al></li><li><li.nr>l.</li.nr><al>gebiedsspecifiek
+toetsingskader: toetsingskader als bedoeld in <extref status="actief" doc="1.0:v:BWBR0022929&amp;afdeling=2" compleet="nee">hoofdstuk 4, afdeling 2,
+van het Besluit
+bodemkwaliteit</extref>;</al></li><li>
+              <li.nr>m.</li.nr>
+              <al>projectgebied de Kempen: het gebied bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;bijlage=3">bijlage 3</intref>;</al>
+            </li>
+            
+            <li>
+              <li.nr>n.</li.nr>
+              <al>NEN: door de Stichting Nederlands Normalisatie-instituut uitgegeven norm;</al>
+            </li>
+            <li>
+                           <li.nr>o.</li.nr>
+                           <al>NEN
+5725: Bodem &#x2013; Landbodem &#x2013; Strategie voor het uitvoeren
+van vooronderzoek bij verkennend en nader onderzoek, januari
+2009;</al>
+                        </li>
+                        <li>
+                           <li.nr>p.</li.nr>
+                           <al>NEN 5740: Bodem &#x2013;
+Landbodem &#x2013; Strategie voor het uitvoeren van verkennend
+bodemonderzoek &#x2013; Onderzoek naar de milieuhygi&#xEB;nische
+kwaliteit van bodem en grond, januari
+2009;</al>
+                        </li>
+            <li>
+              <li.nr>q.</li.nr>
+              <al>NEN 5707: 2003: &#x2018;Inspectie, monsterneming en analyse van asbest in bodem;</al>
+            </li>
+            <li>
+              <li.nr>r.</li.nr>
+              <al>NTA: door de Stichting Nederlands Normalisatie-instituut uitgegeven
+technische
+afspraak;</al>
+            </li>
+          <li>
+              <li.nr>s.</li.nr>
+              <al>NTA
+5755: Bodem &#x2013; Landbodem &#x2013; Strategie voor het uitvoeren
+van nader onderzoek &#x2013; Onderzoek naar de aard en omvang van
+bodemverontreiniging, juli
+2010.</al>
+            </li></lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1.2</nr>
+            <titel status="officieel">Aanwijzing van categorie&#xEB;n van uniforme saneringen</titel>
+          </kop>
+          <al>Als categorie&#xEB;n van uniforme saneringen, bedoeld in <extref status="actief" doc="1.0:v:BWBR0003994&amp;artikel=39b" compleet="nee">artikel 39b van de wet</extref>, worden aangewezen:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>immobiel;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>mobiel;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>tijdelijk uitplaatsen;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>projectgebied de Kempen.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1.3</nr>
+            <titel status="officieel">Melding uniforme sanering</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Degene die het voornemen heeft te saneren overeenkomstig het <extref status="actief" doc="1.0:v:BWBR0019511" compleet="nee">besluit</extref> verstrekt bij de melding, bedoeld in <extref status="actief" doc="1.0:v:BWBR0019511&amp;artikel=6" compleet="nee">artikel 6 van het besluit</extref>, de volgende gegevens aan het bevoegd gezag:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de naam, adres- en woonplaatsgegevens van de saneerder en de eigenaar of erfpachter van de saneringslocatie,dan wel, indien de sanering
+zich over meerdere aaneengesloten kadastrale percelen uitstrekt, van de
+betrokken eigenaren of
+erfpachters;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de kadastrale gegevens met betrekking tot de saneringslocatie;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de rapporten van de uitgevoerde bodemonderzoeken, bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;paragraaf=3">paragraaf 3</intref>;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de onderzoeksgegevens, bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;paragraaf=3">paragraaf 3</intref>, zoals aangegeven in de modellen die zijn opgenomen in <intref status="actief" doc="1.0:v:BWBR0019507&amp;bijlage=4">bijlage 4</intref>;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>het tijdstip waarop de sanering naar verwachting zal aanvangen, of, voorzover bekend, het tijdstip van de feitelijke aanvang van de sanering;</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>het tijdstip waarop de sanering naar verwachting zal zijn uitgevoerd;</al>
+              </li>
+              <li>
+                <li.nr>g.</li.nr>
+                <al>een situatietekening waarop is aangegeven:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>de saneringslocatie;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>de geplande saneringswerkzaamheden, inclusief dwarsdoorsnede; en</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;.</li.nr>
+                    <al>de plaats en de soort voorzieningen;</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>h.</li.nr>
+                <al>voor grondwateronttrekkingen een beschrijving van de wijze waarop dit zal plaatsvinden, de debieten, de te onttrekken hoeveelheden en vrachten aan verontreinigingen en de toe te passen reinigingsmethoden en lozingen;</al>
+              </li>
+              <li>
+                <li.nr>i.</li.nr>
+                <al>gegevens over de voor de uitvoering van de werkzaamheden benodigde vergunningen, ontheffingen, toestemmingen en meldingen, zoals aangegeven in de modellen die zijn opgenomen in <intref status="actief" doc="1.0:v:BWBR0019507&amp;bijlage=4">bijlage 4</intref>;</al>
+              </li>
+              <li>
+                <li.nr>j.</li.nr>
+                <al>gegevens over de voor de uitvoering op de saneringslocatie van belang zijnde infrastructurele voorzieningen, waaronder gebouwen, wegen, verhardingen en eventueel aanwezige kabels, leidingen, puin;</al>
+              </li>
+              <li>
+                <li.nr>k.</li.nr>
+                <al>de overige gegevens en documenten, zoals aangegeven in de modellen die zijn opgenomen in <intref status="actief" doc="1.0:v:BWBR0019507&amp;bijlage=4">bijlage 4</intref>.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Voor het verstrekken van de gegevens bij de melding, bedoeld in het eerste lid, wordt per categorie uniforme saneringen gebruik gemaakt van een formulier waarvan de modellen zijn opgenomen in <intref status="actief" doc="1.0:v:BWBR0019507&amp;bijlage=4">bijlage 4</intref>.</al>
+          </lid>
+          
+          
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1.4</nr>
+            <titel status="officieel">Melding wijziging</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De melding van wijzigingen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0019511&amp;artikel=10" compleet="nee">artikel 10 van het besluit</extref> geschiedt:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>onmiddellijk nadat van de wijzigingen of gewijzigde omstandigheden is gebleken, voorzover het betreft gegevens, bedoeld in <extref status="actief" doc="1.0:v:BWBR0019511&amp;artikel=6" compleet="nee">artikel 6, eerste lid, onder a, b en c van het besluit</extref>;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>onmiddellijk nadat van de wijzigingen of gewijzigde omstandigheden is gebleken, voorzover het betreft de volgende gegevens:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>de persoons- en adresgegevens; en</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>de verwachte dan wel de feitelijke aanvangsdatum van de sanering;</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>binnen twee weken nadat van de wijzigingen of gewijzigde omstandigheden is gebleken, voorzover het betreft gegevens, bedoeld in <extref status="actief" doc="1.0:v:BWBR0019511&amp;artikel=6" compleet="nee">artikel 6, eerste lid, onder d</extref>, en gegevens met betrekking tot de feitelijke situatie, waartoe in ieder geval behoren:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>de kadastrale gegevens met betrekking tot de saneringslocatie;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>de gegevens omtrent het huidige en toekomstige gebruik van de saneringslocatie; en</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;.</li.nr>
+                    <al>de verwachte dan wel de feitelijke einddatum van de sanering.</al>
+                  </li>
+                </lijst>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien tijdens de sanering sprake is van actuele risico&#x2019;s, als gevolg van de aangetroffen verontreinigingssituatie of calamiteiten bij de uitvoering van de saneringswerkzaamheden, wordt dit onmiddellijk nadat van deze risico&#x2019;s is gebleken, gemeld aan het bevoegd gezag door degene die saneert of degene die de sanering feitelijk uitvoert.</al>
+          </lid>
+          
+        </artikel>
+        <artikel status="goed">
+              <kop>
+                <label>Artikel</label><nr status="officieel">1.5</nr><titel status="officieel">Onderzoek</titel>
+              </kop>
+              <lid><lidnr status="officieel">1</lidnr><al>De saneerder voert de volgende onderzoeken uit, tenzij in <intref status="actief" doc="1.0:v:BWBR0019507&amp;paragraaf=3">paragraaf 3</intref> anders is bepaald:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                           <li.nr>a.</li.nr>
+                           <al>vooronderzoek
+overeenkomstig NEN
+5725;</al>
+                        </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>verkennend onderzoek overeenkomstig NEN 5740. De onderzoeksstrategie dient te worden gebaseerd op de gegevens van het vooronderzoek bedoeld in sub a;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>indien de resultaten van het onderzoek, bedoeld onder a, daartoe aanleiding geven dient een onderzoek naar asbest te worden uitgevoerd, overeenkomstig NEN 5707:2003; en</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>nader onderzoek overeenkomstig NTA 5755, waarbij de aard en omvang
+van de verontreinigingen in de bodem worden
+vastgesteld.</al>
+                </li>
+              </lijst></lid><lid><lidnr status="officieel">2</lidnr><al>Onderzoek als bedoeld in het eerste lid, onder b en c, kan achterwege blijven indien eerder in een ander kader onderzoek is uitgevoerd dat representatief is voor de heersende situatie en waarvan de resultaten nog voldoende actueel zijn.</al></lid>
+              
+              <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>De
+persoon of instelling die de onderzoeken, bedoeld in het eerste lid en
+<intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.4.5">artikel 3.4.5, tweede lid</intref>, uitvoert beschikt daartoe over een erkenning
+op grond van het <extref status="actief" doc="1.0:v:BWBR0022929" compleet="nee">Besluit bodemkwaliteit</extref> en staat op grond van <extref status="actief" doc="1.0:v:BWBR0022929&amp;artikel=9" compleet="nee">artikel
+9, tweede lid, van dat besluit</extref> vermeld op die
+erkenning.</al>
+                     </lid><lid><lidnr status="officieel">4</lidnr><al>De gegevens voortvloeiend uit de onderzoeken bedoeld in het eerste en tweede lid worden in de vorm van bodemonderzoeksrapporten vastgelegd.</al></lid>
+              
+            <lid>
+                     <lidnr status="officieel">5</lidnr>
+                     <al>Met
+de in deze regeling genoemde normen en richtlijnen worden gelijkgesteld
+normen en richtlijnen die zijn vastgesteld in een andere lidstaat van
+de Europese Unie dan wel een staat, niet zijnde een lidstaat van de
+Europese Unie, die partij is bij een daartoe strekkend of mede daartoe
+strekkend verdrag dat Nederland bindt, en een beschermingsniveau bieden
+dat ten minste gelijkwaardig is aan het niveau dat met de nationale
+eisen wordt
+nagestreefd.</al>
+                  </lid></artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>Paragraaf</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Uitvoeringsbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2.1</nr>
+            <titel status="officieel">Melding aanvang saneringswerkzaamheden</titel>
+          </kop>
+          <al>Degene die saneert, meldt aan het bevoegd gezag schriftelijk de datum en het tijdstip van de feitelijke aanvang van de saneringswerkzaamheden uiterlijk vijf werkdagen voorafgaande aan de aanvang.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2.2</nr>
+            <titel status="officieel">Saneringsuitvoering</titel>
+          </kop>
+          <lid><lidnr status="officieel">1</lidnr><al>De sanering wordt uitgevoerd door een persoon of instelling die op grond van het <extref status="actief" doc="1.0:v:BWBR0022929" compleet="nee">Besluit bodemkwaliteit</extref>, beschikt over een erkenning voor het uitvoeren van de betrokken werkzaamheden.</al></lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De verontreinigingen binnen de saneringslocatie zijn goed bereikbaar met de in te zetten technieken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De saneringslocatie en buiten de saneringslocatie liggende depots zijn omgeven door een hekwerk. Na het be&#xEB;indigen van de dagelijkse werkzaamheden wordt het hekwerk afgesloten. Het hekwerk is aan de buitenzijden voorzien van het duidelijk leesbaar opschrift, luidende: verboden toegang voor onbevoegden, gevaarlijk terrein.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De saneerder, dan wel degene die de sanering feitelijk uitvoert, stelt het bevoegd gezag in staat om de uitvoering van de sanering te controleren, zowel gedurende als na afloop van de sanering.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2.3</nr>
+            <titel status="officieel">Milieukundige begeleiding</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De werkzaamheden worden milieukundig begeleid, tenzij in <intref status="actief" doc="1.0:v:BWBR0019507&amp;paragraaf=3">paragraaf 3</intref> anders is bepaald.</al>
+          </lid>
+          <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De
+persoon of instelling die de milieukundige begeleiding uitvoert
+beschikt daartoe over een erkenning op grond van het <extref status="actief" doc="1.0:v:BWBR0022929" compleet="nee">Besluit
+bodemkwaliteit</extref> en staat op grond van <extref status="actief" doc="1.0:v:BWBR0022929&amp;artikel=9" compleet="nee">artikel 9, tweede lid, van dat
+besluit</extref> vermeld op die
+erkenning.</al>
+                     </lid><lid><lidnr status="officieel">3</lidnr><al>Gedurende de sanering houdt de milieukundig begeleider een logboek bij.</al></lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2.4</nr>
+            <titel status="officieel">Opslag van grond</titel>
+          </kop>
+          <al>Het tijdelijk opslaan van bij de sanering vrijkomende verontreinigde grond en bodemvreemd materiaal dient te voldoen aan de volgende eisen, tenzij in <intref status="actief" doc="1.0:v:BWBR0019507&amp;paragraaf=3">paragraaf 3</intref> anders is bepaald:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de tijdelijke opslag is toegestaan binnen het geval van verontreiniging;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>depots en containers voor tijdelijke opslag dienen op deugdelijke wijze te worden afgedekt met een lekdicht folie;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>het is niet toegestaan de opslag te laten voortduren:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;.</li.nr>
+                  <al>na het be&#xEB;indigen van de grondsanering, of</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;.</li.nr>
+                  <al>langer dan zes maanden na de aanvang van de sanering.</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>partijen verontreinigde grond worden naar aard, samenstelling en verontreiniging in te onderscheiden deelpartijen opgeslagen, zonder dat de grond een bewerking heeft ondergaan. De deelpartijen dienen fysiek te worden gescheiden.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2.5</nr>
+            <titel status="officieel">Afvoer van grond</titel>
+          </kop>
+          <al>Vrijgekomen asbesthoudende grond of bodemmateriaal wordt uiterlijk binnen vier weken na het vrijkomen ervan afgevoerd.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>Paragraaf</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Categorie&#xEB;n van uniforme saneringen</titel>
+        </kop>
+        <sub-paragraaf status="goed">
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">3.1</nr>
+            <titel status="officieel">Categorie: immobiel</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.1.1</nr>
+              <titel status="officieel">Reikwijdte</titel>
+            </kop>
+            <al>Tot de categorie van uniforme saneringen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=1.2">artikel 1.2, onder a</intref>, behoren saneringen die voldoen aan de volgende voorwaarden:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de saneringslocatie betreft een landbodem;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de sanering heeft betrekking op een immobiele verontreinigingssituatie;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>toegepast wordt ten hoogste &#xE9;&#xE9;n van de saneringsaanpakken beschreven in de <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.1.2">artikelen 3.1.2 tot en met 3.1.5</intref>;</al>
+              </li>
+              
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de eventuele verspreiding van verontreinigende stoffen uit de grond van de saneringslocatie heeft niet geleid tot een overschrijding van de tussenwaarde voor die stoffen in het grondwater; en</al>
+              </li>
+              
+            <li><li.nr>e.</li.nr><al>het betreft een verontreiniging met stoffen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;bijlage=6">bijlage 6</intref> onder categorie Immobiel waarop het <extref status="actief" doc="1.0:v:BWBR0019511" compleet="nee">besluit</extref> van toepassing is.</al></li></lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.1.2</nr>
+              <titel status="officieel">Saneringsaanpak: open ontgraving tot niveau terugsaneerwaarde</titel>
+            </kop>
+            <al>De saneringsaanpak bedoeld in <extref status="actief" doc="1.0:v:BWBR0019511&amp;artikel=3" compleet="nee">artikel 3, eerste lid, onder b, van het besluit</extref> bestaat bij deze categorie uniforme saneringen uit:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het ontgraven van de aanwezige verontreinigde grond tot minimaal het niveau van de terugsaneerwaarde als bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.1.6">artikel 3.1.6</intref>; en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het van de saneringslocatie afvoeren van de ontgraven verontreinigde grond;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>het eventueel aanvullen van de ontgraving met grond van een kwaliteit van ten hoogste het concentratieniveau voor stoffen bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.1.7">artikel 3.1.7</intref>.</al>
+              </li>
+            </lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.1.3</nr>
+              <titel status="officieel">Saneringsaanpak: aanbrengen isolatielaag</titel>
+            </kop>
+            <al>De saneringsaanpak bedoeld in <extref status="actief" doc="1.0:v:BWBR0019511&amp;artikel=3" compleet="nee">artikel 3, eerste lid, onder c, van het besluit</extref>, bestaat bij deze categorie uniforme saneringen uit:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>in geval van het aanbrengen van een leeflaag dat:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>deze bestaat uit een laag grond met een op de bodemfunctie afgestemde kwaliteit die ten hoogste gelijk is aan het concentratieniveau voor stoffen bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.1.7">artikel 3.1.7</intref>; </al>
+                  </li>
+                  <li>
+                    <li.nr>2e.</li.nr>
+                    <al>deze een standaarddikte heeft van mimimaal &#xE9;&#xE9;n meter;</al>
+                  </li>
+                  <li><li.nr>3e.</li.nr><al>deze, in afwijking van het bepaalde onder 2e, een dikte heeft van minimaal 50 centimeter in geval van bijzondere situaties waarbij als gevolg van de situering van het gebied waarbinnen de saneringslocatie is gelegen al beperkingen in het gebruik gelden; en</al></li><li>
+                    <li.nr>4e.</li.nr>
+                    <al>tussen de grond in de leeflaag en de onderliggende verontreinigde bodem een signaallaag aanwezig is.</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>in geval van het aanbrengen van een duurzame aaneengesloten afdeklaag, dat deze in zijn geheel bestaat uit beton, asfalt, asfaltbeton, stelconplaten of bestrating met klinkers of tegels;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>in afwijking van onderdeel b geldt voor spoorwegterreinen die zich bevinden op kadastrale percelen die in eigendom zijn van NS Vastgoed BV en Railinfratrust BV, dat een aaneengesloten duurzame afdeklaag tevens kan bestaan uit:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>1e.</li.nr>
+                <al>een laag ballastmateriaal met een minimum dikte van 25 centimeter met daaronder een aaneengesloten waterdoorlatend geotextiel;</al>
+              </li>
+              <li>
+                <li.nr>2e.</li.nr>
+                <al>een splitbed met een minimum dikte van 25 centimeter met daaronder een aaneengesloten waterdoorlatend geotextiel op een fundatielaag bestaande uit zand.</al>
+              </li>
+            </lijst>
+              </li>
+            <li><li.nr>d.</li.nr><al>dat de verontreinigde grond die moet worden afgegraven om de isolatielaag te kunnen aanbrengen, moet worden afgevoerd, indien herschikken binnen de saneringslocatie niet tot de mogelijkheden behoort.</al></li></lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.1.4</nr>
+              <titel status="officieel">Saneringsaanpak: open ontgraving in combinatie met aanbrengen isolatielaag</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Een combinatie van de saneringsaanpakken bedoeld in <extref status="actief" doc="1.0:v:BWBR0019511&amp;artikel=3" compleet="nee">artikel 3, eerste lid, onder b en c, van het besluit</extref> is toegestaan.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>In afwijking van <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.1.2">artikel 3.1.2, onder b</intref>, is herschikken van de verontreinigde grond, op dat deel van de saneringslocatie waar een isolatielaag wordt aangebracht, toegestaan.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.1.5</nr>
+              <titel status="officieel">Saneringsaanpak: open ontgraving in combinatie met aanbrengen aanvullaag</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>In stedelijke gebieden, waarvoor geen gebiedsspecifiek toetsingskader is vastgesteld, is de saneringsaanpak bedoeld in het tweede lid toegestaan voorzover sprake is van een dunne verontreinigde toplaag met een dikte van ten hoogste 50 centimeter, waarvan de onderliggende bodem een kwaliteit heeft van ten hoogste de helft van de naar grondsoort gecorrigeerde interventiewaarde.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De saneringsaanpak bedoeld in <extref status="actief" doc="1.0:v:BWBR0019511&amp;artikel=3" compleet="nee">artikel 3, eerste lid, onder b, van het besluit</extref>, in combinatie met het aanbrengen van een laag aanvulgrond, bestaat uit:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>het ontgraven van de verontreinigde toplaag tot ten hoogste de helft van de naar grondsoort gecorrigeerde interventiewaarden;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>het aanbrengen van een laag aanvulgrond met ten minste een dikte van 50 centimeter, van een op de bodemfunctieklasse afgestemde kwaliteit van ten hoogste het concentratieniveau voor stoffen bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.1.7">artikel 3.1.7</intref>, en</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>het van de saneringslocatie afvoeren van de ontgraven verontreinigde grond.</al>
+                </li>
+              </lijst>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.1.6</nr>
+              <titel status="officieel">Terugsaneerwaarde</titel>
+            </kop>
+            <al>De terugsaneerwaarden voor de saneringsaanpak, bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.1.2">artikel 3.1.2</intref>, zijn ten hoogste gelijk aan:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de achtergrondwaarden voor situaties waarvoor geen bodemfunctieklassenkaart is vastgesteld of voor gebieden die niet zijn ingedeeld in een bodemfunctieklasse;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de maximale waarden voor de bodemfunctieklasse wonen of industrie van het gebied waarbinnen de saneringslocatie is gelegen; of</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>indien de saneringslocatie is gelegen in een gebied waarvoor een gebiedsspecifiek toetsingskader is vastgesteld, de hierin vastgelegde lokale maximale waarden voor de met de sanering te realiseren bodemfunctie.</al>
+                </li>
+              </lijst></artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.1.7</nr>
+              <titel status="officieel">Kwaliteit leeflaag en aanvulgrond</titel>
+            </kop>
+            <al>De kwaliteit van de grond in de leeflaag en de laag aanvulgrond komt, bij de saneringsaanpakken bedoeld in de <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.1.2">artikelen 3.1.2</intref>, <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.1.3">3.1.3, onder a</intref>, <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.1.4">3.1.4</intref> en <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.1.5">3.1.5</intref>, ten minste overeen met:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de achtergrondwaarden voor situaties waarvoor geen bodemfunctieklassenkaart is vastgesteld of voor gebieden die niet zijn ingedeeld in een bodemfunctieklasse;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de maximale waarden voor de kwaliteitsklasse die behoort bij de bodemfunctie van het gebied waarbinnen de saneringslocatie is gelegen; of</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>indien de saneringslocatie is gelegen in een gebied waarvoor een gebiedsspecifiek toetsingskader is vastgesteld, de hierin vastgelegde lokale maximale waarden voor de kwaliteitsklasse die behoort bij de met de sanering te realiseren bodemfunctie.</al>
+                </li>
+              </lijst>
+          </artikel>
+          
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.1.8</nr>
+              <titel status="officieel">Onderzoek bij aanbrengen isolatielaag</titel>
+            </kop>
+            <al><intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=1.5">Artikel 1.5, eerste lid, onder d</intref>, is niet van toepassing voor de saneringsaanpak bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.1.3">artikel 3.1.3</intref> en <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.1.5">3.1.5</intref>.</al></artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.1.9</nr>
+              <titel status="officieel">Nazorg isolatielaag</titel>
+            </kop>
+            <lid><lidnr status="officieel">1</lidnr><al>Een saneringsaanpak bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.1.3">artikel 3.1.3, onderdeel a</intref>, mag niet leiden tot beperkingen voor de bodemfunctie van de saneringslocatie en het gebruik van de bodem. Het gebruik van de bodem van de saneringslocatie wordt vermeld op het formulier bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=1.3">artikel 1.3, tweede lid</intref>.</al></lid><lid><lidnr status="officieel">2</lidnr><al>In geval <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.1.3">artikel 3.1.3, onderdeel a, onder 3e</intref>, van toepassing is worden de voor het gebied waarin de saneringslocatie is gelegen reeds bestaande beperkingen in het gebruik eveneens vermeld op het formulier bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=1.3">artikel 1.3, tweede lid</intref>.</al></lid><lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Bij een saneringsaanpak als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0019511&amp;artikel=3" compleet="nee">artikel 3, eerste lid, onder c, van het
+besluit</extref> wordt de verontreinigingssituatie, zoals deze na de sanering onder de isolatielaag aanwezig is, beschreven in het verslag, bedoeld in <extref status="actief" doc="1.0:v:BWBR0019511&amp;artikel=13" compleet="nee">artikel 13 van het besluit</extref>.</al>
+            </lid>
+          </artikel>
+        </sub-paragraaf>
+        <sub-paragraaf status="goed">
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">3.2</nr>
+            <titel status="officieel">Categorie: mobiel</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.2.1</nr>
+              <titel status="officieel">Reikwijdte</titel>
+            </kop>
+            <lid><lidnr status="officieel">1</lidnr><al>Tot de categorie van uniforme saneringen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=1.2">artikel 1.2, onder b</intref>, behoren saneringen die voldoen aan de volgende voorwaarden:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de saneringslocatie betreft een landbodem;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de sanering heeft betrekking op een op zichzelf staande mobiele verontreinigingssituatie;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>toegepast wordt een saneringsaanpak bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.2">artikel 3.2.2</intref>, <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.2a">3.2.2a</intref>, <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.2b">3.2.2b</intref> of <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.3">3.2.3</intref> of een combinatie hiervan;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>het betreft verontreiniging met stoffen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;bijlage=6">bijlage 6</intref> onder categorie Mobiel waarop het <extref status="actief" doc="1.0:v:BWBR0019511" compleet="nee">besluit</extref> van toepassing is;</al>
+              </li>
+              
+              <li>
+                           <li.nr>e.</li.nr>
+                           <al>de verontreiniging in het grondwater is te bereiken met de in te zetten technieken;</al>
+                        </li>
+              <li>
+                           <li.nr>f.</li.nr>
+                           <al>een kwetsbaar object als bedoeld in de <extref status="actief" doc="1.0:v:BWBR0025649" compleet="nee">Circulaire bodemsanering</extref> is niet gelegen binnen het bodemvolume dat wordt ingesloten door de interventiewaarde contour in het grondwater of een straal van 100 meter er om heen, en</al>
+                        </li>
+            <li>
+                           <li.nr>g.</li.nr>
+                           <al>de in te zetten technieken leiden niet tot een verandering in de bodemgesteldheid die van nadelige invloed kan zijn op een binnen het invloedgebied gelegen kwetsbaar object als bedoeld in de Circulaire bodemsaneringen.</al>
+                        </li></lijst></lid>
+          <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Verontreinigingen in de vaste bodem die aanwezig zijn op plaatsen die niet bereikbaar
+zijn met de in te zetten technieken, zoals onder gebouwen,
+hoofd(transport)leidingen en andere belangrijke (ondergrondse)
+infrastructuur, worden niet tot de saneringslocatie gerekend, indien
+een voorziening is aangebracht als bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.8">artikel
+3.2.8</intref>.</al>
+                     </lid></artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.2.2</nr>
+              <titel status="officieel">Saneringsaanpak: open ontgraving tot niveau terugsaneerwaarde</titel>
+            </kop>
+            <al>De saneringsaanpak, bedoeld in <extref status="actief" doc="1.0:v:BWBR0019511&amp;artikel=3" compleet="nee">artikel 3, eerste lid, onder b, van het besluit</extref> bestaat bij deze categorie uniforme saneringen uit:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                           <li.nr>a.</li.nr>
+                           <al>het ontgraven van de verontreinigde grond en het daarin aanwezige verontreinigde grondwater tot minimaal het niveau van de terugsaneerwaarde bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.4">artikel 3.2.4</intref>;</al>
+                        </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het van de saneringslocatie afvoeren van deze grond;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>het aanvullen van de ontgraving met grond van een kwaliteit van ten hoogste het concentratieniveau voor stoffen bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.5">artikel 3.2.5</intref>.</al>
+              </li>
+            </lijst>
+          </artikel>
+          <artikel status="goed">
+              <kop>
+                <label>Artikel</label><nr status="officieel">3.2.2a</nr><titel status="officieel">Saneringsaanpak: open ontgraving tot niveau terugsaneerwaarde (combi)</titel>
+              </kop>
+              <lid><lidnr status="officieel">1</lidnr><al>De saneringsaanpak, bedoeld in <extref status="actief" doc="1.0:v:BWBR0019511&amp;artikel=3" compleet="nee">artikel 3, eerste lid, onder e, van het besluit</extref> bestaat bij deze categorie uniforme saneringen uit:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>het tijdelijk uitplaatsen van de aanwezige verontreinigde grond zoals bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.3.1">artikel 3.3.1</intref> en volgens de aanpak als bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.3.2">artikel 3.3.2</intref>;</al>
+                </li>
+                <li>
+                           <li.nr>b.</li.nr>
+                           <al>het ontgraven van de te saneren verontreinigde grond en het daarin aanwezige verontreinigde grondwater tot minimaal het niveau van de terugsaneerwaarde bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.4">artikel 3.2.4</intref>;</al>
+                        </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>het van de saneringslocatie afvoeren van de te saneren grond;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>het aanvullen van de ontgraving tot het niveau van de terug te plaatsen grond bedoeld in onderdeel a met grond van een kwaliteit van ten hoogste het concentratieniveau voor stoffen bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.5">artikel 3.2.5</intref>; en</al>
+                </li>
+                <li>
+                  <li.nr>e.</li.nr>
+                  <al>het weer terugplaatsen van de verontreinigde grond, bedoeld in onderdeel a.</al>
+                </li>
+              </lijst></lid>
+              
+              <lid><lidnr status="officieel">2</lidnr><al>Bij de saneringsaanpak bedoeld in het eerste lid kan, in afwijking van <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.1">artikel 3.2.1, onderdeel b</intref>, tevens sprake zijn van een immobiele verontreinigingssituatie.</al></lid>
+            </artikel><artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">3.2.2b</nr>
+                        <titel status="officieel">Saneringsaanpak: saneren verontreinigde grond en verontreinigd grondwater tot niveau terugsaneerwaarde</titel>
+                     </kop>
+                     <al>De saneringsaanpak, bedoeld in <extref status="actief" doc="1.0:v:BWBR0019511&amp;artikel=3" compleet="nee">artikel 3, eerste lid, onder b en d, van het besluit</extref>, bestaat bij deze categorie uniforme saneringen uit:</al>
+                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                        <li>
+                           <li.nr>a.</li.nr>
+                           <al>het ontgraven van de aanwezige verontreinigde grond in de bronzone tot ten minste het niveau van de terugsaneerwaarde bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.4">artikel 3.2.4</intref>;</al>
+                        </li>
+                        <li>
+                           <li.nr>b.</li.nr>
+                           <al>het van de saneringslocatie afvoeren van deze grond;</al>
+                        </li>
+                        <li>
+                           <li.nr>c.</li.nr>
+                           <al>het aanvullen van de ontgraving met grond van een kwaliteit van ten hoogste het concentratieniveau voor stoffen bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.5">artikel 3.2.5</intref>;</al>
+                        </li>
+                        <li>
+                           <li.nr>d.</li.nr>
+                           <al>het onttrekken van het aanwezige verontreinigde grondwater uit de pluim tot minimaal het niveau van de terugsaneerwaarde, bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.4">artikel 3.2.4</intref>, en het behandelen van het hierbij vrijkomende water, dan wel de inzet van in de saneringspraktijk gangbare en bewezen intensieve in-situ technieken voor sanering van de pluim, waarmee de in artikel 3.2.4 bedoelde terugsaneerwaarde kan worden gerealiseerd, zoals beschreven in de Richtlijn herstel en beheer (water)bodemkwaliteit(www.bodemrichtlijn.nl).</al>
+                        </li>
+                     </lijst>
+                  </artikel><artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.2.3</nr>
+              <titel status="officieel">Saneringsaanpak: saneren verontreinigd grondwater tot niveau terugsaneerwaarde</titel>
+            </kop>
+            <al>De saneringsaanpak, bedoeld in <extref status="actief" doc="1.0:v:BWBR0019511&amp;artikel=3" compleet="nee">artikel 3, eerste lid, onder d, van het besluit</extref>, bestaat bij deze categorie uniforme saneringen uit:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het onttrekken van verontreinigd grondwater tot minimaal het niveau van de terugsaneerwaarde bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.4">artikel 3.2.4</intref> en het behandelen van het hierbij vrijkomende water; of</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de inzet van in de saneringspraktijk gangbare en bewezen intensieve in-situ technieken, waarmee de in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.4">artikel 3.2.4</intref> bedoelde terugsaneerwaarde kan worden gerealiseerd, zoals beschreven in de Richtlijn herstel en beheer (water)bodemkwaliteit (www.bodemrichtlijn.nl).</al>
+                
+              </li>
+            </lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.2.4</nr>
+              <titel status="officieel">Terugsaneerwaarde</titel>
+            </kop>
+            <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>De verontreinigde grond van de saneringslocatie, bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.2">artikel 3.2.2</intref>, wordt ontgraven tot een niveau waarop de ontgraving geurvrij is en tot minimaal de naar grondsoort gecorrigeerde concentraties:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>0,1 maal de interventiewaarden van de somparameter voor naftaleen, fenantreen, antraceen, fluorantheen, chryseen, benzoantraceen, benzopyreen, benzofluorantheen, indenopyreen en benzoperyleen en de natuurlijke achtergrondwaarde voor aromatische stoffen;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>de maximale waarden voor de bodemfunctieklasse wonen voor metalen, overige anorganische stoffen en minerale olie, of de voor deze stoffen vastgestelde lokale maximale waarden.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De grondwaterverontreiniging van de saneringslocatie, bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.2">artikel 3.2.2 tot en met 3.2.3</intref>, wordt voor alle aanwezige verontreinigende stoffen gesaneerd tot een niveau gelijk aan of lager dan de interventiewaarde.</al>
+                     </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.2.5</nr>
+              <titel status="officieel">Kwaliteit aanvulgrond</titel>
+            </kop>
+            <lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>Voor de kwaliteit van de aanvulgrond onder de contactlaag geldt dat:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>deze vrij is van mobiele verontreinigingen;</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>voor de immobiele verontreinigingen het concentratieniveau voor stoffen ten hoogste gelijk is aan het concentratieniveau voor stoffen van de aansluitende bodem.</al>
+                  </li>
+                </lijst>
+              </lid>
+              <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>De kwaliteit van de grond in de contactlaag komt ten minste overeen met:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>de achtergrondwaarden voor situaties waarvoor geen bodemfunctieklassenkaart is vastgesteld of voor gebieden die niet zijn ingedeeld in een bodemfunctieklasse;</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>de maximale waarden voor de kwaliteitsklasse die behoort bij de bodemfunctie van het gebied waarbinnen de saneringslocatie is gelegen; of</al>
+                  </li>
+                  <li>
+                    <li.nr>c.</li.nr>
+                    <al>indien de saneringslocatie is gelegen in een gebied waarvoor een gebiedsspecifiek toetsingskader is vastgesteld, de hierin vastgelegde lokale maximale waarden voor de kwaliteitsklasse die behoort bij de met de sanering te realiseren bodemfunctie.</al>
+                  </li>
+                </lijst>
+                </lid>
+          </artikel>
+          
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.2.6</nr>
+              <titel status="officieel">Melding datum einddiepte ontgraving</titel>
+            </kop>
+            <al>De datum waarop de einddiepte van de ontgraving zal worden bereikt wordt door de saneerder dan wel degene die de sanering uitvoert uiterlijk &#xE9;&#xE9;n werkdag voorafgaande aan het bereiken van dat punt aan het bevoegd gezag gemeld.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.2.7</nr>
+              <titel status="officieel">Opslag van verontreinigde grond</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Ter bepaling van de afvoerbestemming kan de verontreinigde grond ten hoogste drie werkdagen worden opgeslagen op de saneringslocatie.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De opgeslagen grond is van de onderliggende bodem gescheiden door middel van een lekdicht folie.</al>
+            </lid>
+          <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Indien de grond wordt opgeslagen, wordt deze gescheiden naar grondsoort of naar aard en graad van verontreiniging, dan wel een combinatie daarvan.</al>
+                     </lid></artikel>
+        <artikel status="goed">
+              <kop>
+                <label>Artikel</label><nr status="officieel">3.2.8</nr><titel status="officieel">Voorzieningen in geval van achterblijvende verontreinigingen</titel>
+              </kop>
+              <al>In geval van een sanering van een verontreinigingssituatie, bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.1">artikel 3.2.1, tweede lid</intref>, geldt dat de saneerder een isolerende voorziening aanbrengt. Horizontale monitoringsdrains worden aangemerkt als isolerende voorziening.</al>
+            </artikel>
+          </sub-paragraaf>
+        <sub-paragraaf status="goed">
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">3.3</nr>
+            <titel status="officieel">Categorie: tijdelijk uitplaatsen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.3.1</nr>
+              <titel status="officieel">Reikwijdte</titel>
+            </kop>
+            <al>Tot de categorie van uniforme saneringen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=1.2">artikel 1.2, onder c</intref>, behoren saneringen die voldoen aan de volgende voorwaarden:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de saneringslocatie betreft een landbodem;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de sanering betreft een immobiele verontreinigingssituatie;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>toegepast wordt een saneringsaanpak bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.3.2">artikel 3.3.2</intref>;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>het tijdelijk uitplaatsen is noodzakelijk voor de uitvoering van civieltechnische werkzaamheden zoals voor de aanleg, het onderhoud of de verwijdering van ondergrondse infrastructuur, waaronder wordt begrepen kabels, leidingen, rioleringen, duikers, funderingen en vergelijkbare activiteiten binnen een geval van verontreiniging; en</al>
+              </li>
+              
+              
+            <li><li.nr>e.</li.nr><al>het betreft een verontreiniging met stoffen bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;bijlage=6">bijlage 6</intref> onder categorie Tijdelijk uitplaatsen waarop het <extref status="actief" doc="1.0:v:BWBR0019511" compleet="nee">besluit</extref> van toepassing is.</al></li></lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.3.2</nr>
+              <titel status="officieel">Saneringsaanpak: het verplaatsen van verontreinigde grond</titel>
+            </kop>
+            <al>De saneringsaanpak, bedoeld in <extref status="actief" doc="1.0:v:BWBR0019511&amp;artikel=3" compleet="nee">artikel 3, eerste lid, onder a, van het besluit</extref> bestaat bij deze categorie uniforme saneringen uit:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het na uitplaatsen zoveel mogelijk terug brengen van de tijdelijk uitgeplaatste grond in het hetzelfde ontgravingsprofiel onder dezelfde bodemomstandigheden zonder dat de grond een bewerking heeft ondergaan; en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>eventueel het van de locatie afvoeren van de overtollige verontreinigde grond.</al>
+              </li>
+            </lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.3.3</nr>
+              
+            </kop>
+            <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al><intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=1.5">Artikel
+1.5, eerste lid, onder a en d</intref>, is niet van toepassing op de categorie
+uniforme saneringen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.3.1">artikel
+3.3.1</intref>.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Het in
+<intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=1.5">artikel 1.5, eerste lid, onder b</intref>, genoemde onderzoek kan worden beperkt
+tot de bodem die valt binnen het profiel van ontgraving van de
+saneringslocatie.</al>
+                     </lid></artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.3.4</nr>
+              <titel status="officieel">Nadere regels eenvoudige saneringen tijdelijk uitplaatsen</titel>
+            </kop>
+            <al>Voor saneringen die binnen de termijn, bedoeld in <extref status="actief" doc="1.0:v:BWBR0019511&amp;artikel=7" compleet="nee">artikel 7 van het besluit</extref> aanvangen, geldt dat de kwaliteit van de terug te plaatsen grond niet verschilt met die van de aansluitende bodem.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.3.5</nr>
+              <titel status="officieel">Milieukundige begeleiding</titel>
+            </kop>
+            <al>Milieukundige begeleiding is slechts van toepassing op situaties waarbij:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>een deel van de verontreinigde grond niet wordt teruggebracht in het profiel van ontgraving, maar zal worden afgevoerd;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>op de saneringslocatie reeds een isolatielaag in de vorm van een leeflaag of andere duurzame afdeklaag aanwezig is en de ontgraving dieper reikt dan deze isolatielaag;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de ontgraving dieper reikt dan de verontreinigde bodemlaag en daardoor selectief moet worden ontgraven.</al>
+              </li>
+            </lijst>
+          </artikel>
+        </sub-paragraaf>
+        <sub-paragraaf status="goed">
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">3.4</nr>
+            <titel status="officieel">Categorie: projectgebied de Kempen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.4.1</nr>
+              <titel status="officieel">Reikwijdte</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>In deze paragraaf wordt verstaan onder:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>zinkassen: restproduct van de (voormalige) zinkertsverwerkende bedrijven in de Nederlandse en Belgische Kempen, bedoeld in het &#x2018;Basisdocument: beginseldocument Actief Bodembeheer de Kempen van 5&#xA0;februari 2001&#x2019;;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>moestuin: (een deel van) een perceel dat, binnen de gebruiksfunctie &#x2018;wonen&#x2019;, bedoeld is om gewassen te telen voor eigen consumptie;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>siertuin: (een deel van) een perceel waar, binnen de gebruiksfunctie &#x2018;wonen&#x2019;, geen gewassen worden of zullen worden geteeld voor eigen consumptie en waar geen beweiding van kleinvee plaatsvindt;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>Protocol Bodemonderzoek Zivest/zinkassenerven: het voor het projectgebied de Kempen geldende onderzoeksprotocol.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Tot de categorie van uniforme saneringen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=1.2">artikel 1.2, onder d</intref>, behoren saneringen die voldoen aan de volgende voorwaarden:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de saneringslocatie betreft een landbodem gelegen binnen het projectgebied de Kempen;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de functieklasse van het huidig dan wel toekomstig gebruik van de saneringslocatie betreft wonen met moestuin, wonen met siertuin of industrie;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de sanering heeft betrekking op een verontreinigingssituatie waarbij zinkassen in de bodem aanwezig zijn of waarbij de bodem verontreinigd is geraakt door de aanwezigheid van zinkassen;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>het betreft een saneringsaanpak bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.4.2">artikel 3.4.2</intref>;</al>
+                </li>
+                
+              <li><li.nr>e.</li.nr><al>het betreft een verontreiniging met stoffen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;bijlage=6">bijlage 6</intref> onder categorie De Kempen waarop het <extref status="actief" doc="1.0:v:BWBR0019511" compleet="nee">besluit</extref> van toepassing is.</al></li></lijst>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.4.2</nr>
+              <titel status="officieel">Saneringsaanpak: open ontgraving tot niveau terugsaneerwaarde</titel>
+            </kop>
+            <al>De saneringsaanpak, bedoeld in <extref status="actief" doc="1.0:v:BWBR0019511&amp;artikel=3" compleet="nee">artikel 3, eerste lid, onder b, van het besluit</extref>, bestaat bij deze categorie uniforme saneringen uit:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het ontgraven van de aanwezige verontreinigde grond en zinkassen tot minimaal het niveau van de terugsaneerwaarde bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.4.3">artikel 3.4.3</intref>;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het van de saneringslocatie afvoeren van de ontgraven verontreinigde grond en zinkassen; en</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>het aanvullen van de ontgraving met grond met een kwaliteit bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.4.4">artikel 3.4.4</intref>.</al>
+              </li>
+            </lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.4.3</nr>
+              <titel status="officieel">Terugsaneerwaarde</titel>
+            </kop>
+            <al>De terugsaneerwaarden bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.4.2">artikel 3.4.2</intref> zijn ten hoogste gelijk aan de lokale maximale waarden voor de betreffende bodemfunctieklasse, genoemd in <intref status="actief" doc="1.0:v:BWBR0019507&amp;bijlage=3">bijlage 3</intref>.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.4.4</nr>
+              <titel status="officieel">Kwaliteit aanvulgrond</titel>
+            </kop>
+            <al>Het concentratieniveau voor stoffen in de laag aanvulgrond, in geval van de saneringsaanpak bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.4.2">artikel 3.4.2</intref>, is ten hoogste gelijk aan de maximale waarden voor kwaliteitsklasse wonen bij de functieklassen &#x2018;wonen met moestuin&#x2019; en &#x2018;wonen met siertuin&#x2019; en de kwaliteitsklasse industrie bij de functieklasse industrie, genoemd in <intref status="actief" doc="1.0:v:BWBR0019507&amp;bijlage=3">bijlage 3</intref>.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.4.5</nr>
+              <titel status="officieel">Onderzoek</titel>
+            </kop>
+            <lid><lidnr status="officieel">1</lidnr><al><intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=1.5">Artikel 1.5, eerste, tweede en vierde lid</intref>, is niet van toepassing.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De saneerder voert een bodemonderzoek uit overeenkomstig het Protocol Bodemonderzoek Zivest/zinkassenerven.</al></lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.4.6</nr>
+              <titel status="officieel">Tijdelijke opslag van verontreinigde grond met of tengevolge van zinkassen</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Het depot voor tijdelijke opslag van verontreinigde grond dient het te worden voorzien van een afsluitbaar hek.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De opgeslagen grond is van de onderliggende bodem gescheiden door middel van een lekdicht folie.</al>
+            </lid>
+          </artikel>
+        </sub-paragraaf>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>Paragraaf</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Afronding sanering</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4.1</nr>
+            <titel status="officieel">Melding afronding sanering</titel>
+          </kop>
+          <al>Degene die saneert, meldt de datum van afronding van de sanering aan het bevoegd gezag schriftelijk binnen twee weken na de datum van be&#xEB;indiging van de saneringswerkzaamheden.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4.2</nr>
+            <titel status="officieel">Evaluatieverslag</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Degene die saneert verstrekt bij het verslag, bedoeld in <extref status="actief" doc="1.0:v:BWBR0019511&amp;artikel=13" compleet="nee">artikel 13 van het besluit</extref>, de volgende gegevens aan het bevoegd gezag:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de naam, adres- en woonplaatsgegevens van de melder, de eigenaar of erfpachter van de saneringslocatie, of, indien de
+sanering zich over meerdere aaneengesloten kadastrale percelen
+uitstrekt, van de betrokken eigenaren of
+erfpachters, en de saneerder;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de kadastrale gegevens met betrekking tot de saneringslocatie;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de toegepaste categorie van uniforme saneringen;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de toegepaste saneringsaanpak of -aanpakken;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>een revisietekening waarop is aangegeven:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>de gerealiseerde oppervlakte van de saneringslocatie;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>de gerealiseerde saneringswerkzaamheden, inclusief dwarsdoorsnede; en</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;.</li.nr>
+                    <al>de plaats en de soort voorzieningen;</al>
+                  </li>
+                <li><li.nr>4e.</li.nr><al>de voorzieningen, inclusief hun beschrijving, bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.8">artikel 3.2.8</intref>;</al></li></lijst>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>een overzicht van het totale grondverzet op de saneringslocatie;</al>
+              </li>
+              <li>
+                <li.nr>g.</li.nr>
+                <al>de hoeveelheid, kwaliteit en de feitelijke afvoerbestemming van bij de sanering vrijgekomen verontreinigde grond;</al>
+              </li>
+              <li>
+                <li.nr>h.</li.nr>
+                <al>de hoeveelheid en kwaliteit van de aangevoerde grond;</al>
+              </li>
+              <li>
+                <li.nr>i.</li.nr>
+                <al>de dikte, aard, constructie en kwaliteit van de aangebrachte isolatielaag;</al>
+              </li>
+              <li>
+                <li.nr>j.</li.nr>
+                <al>de gerealiseerde terugsaneerwaarden voor grond en grondwater;</al>
+              </li>
+              <li>
+                <li.nr>k.</li.nr>
+                <al>voor grondwateronttrekkingen een beschrijving van de wijze waarop dit heeft plaatsgevonden, de debieten, de onttrokken hoeveelheden, gehalten aan verontreinigingen, de eventuele (voor)zuivering en lozingswijze; en</al>
+              </li>
+              <li>
+                <li.nr>l.</li.nr>
+                <al>in geval van toepassing van de saneringsaanpak bedoeld in <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.1.3">artikelen 3.1.3</intref> of <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.1.4">3.1.4</intref> een beschrijving van de eventuele beperkingen van het gebruik van de bodem als gevolg van het aanwezig zijn van de isolatielaag; en</al>
+              </li>
+              <li>
+                <li.nr>m.</li.nr>
+                <al>de overige gegevens en documenten, zoals aangegeven in de modellen die zijn opgenomen in <intref status="actief" doc="1.0:v:BWBR0019507&amp;bijlage=5">bijlage 5</intref>.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De gegevens met betrekking tot gerealiseerde aspecten bedoeld in het eerste lid, onder e tot en met k, worden achterwege gelaten in het verslag indien:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>gesaneerd is volgens de saneringsaanpak verplaatsen van verontreinigde grond, bedoeld in <extref status="actief" doc="1.0:v:BWBR0019511&amp;artikel=3" compleet="nee">artikel 3, eerste lid, onder a, van het besluit</extref>;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de uitkomende grond is teruggebracht in de ontgraving; en</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de kwaliteit van de terug te plaatsen grond niet verschilt met de kwaliteit van de aansluitende bodem.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Voor het verstrekken van de gegevens bij het verslag, bedoeld in het eerste lid, wordt per categorie uniforme saneringen gebruik gemaakt van een formulier waarvan de modellen zijn opgenomen in <intref status="actief" doc="1.0:v:BWBR0019507&amp;bijlage=5">bijlage 5</intref>.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>Paragraaf</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5.1</nr>
+          </kop>
+          <al>Deze regeling treedt in werking op het tijdstip waarop het <extref status="actief" doc="1.0:v:BWBR0019511" compleet="nee">Besluit uniforme saneringen</extref> in werking treedt. Indien de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst later is gelegen dan de tweede dag v&#xF3;&#xF3;r genoemd tijdstip, treedt deze regeling in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5.2</nr>
+          </kop>
+          <al>Deze regeling wordt aangehaald als: Regeling uniforme saneringen.</al>
+        </artikel>
+      </paragraaf>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de <intref status="actief" doc="1.0:v:BWBR0019507&amp;bijlage=4">bijlagen 4</intref> en <intref status="actief" doc="1.0:v:BWBR0019507&amp;bijlage=5">5</intref>, die ter inzage worden gelegd bij het Ministerie van VROM en op internet worden geplaatst op www.vrom.nl.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Den Haag</plaats>
+          <datum isodatum="2006-02-01">1 februari 2006</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>De <functie>Staatssecretaris</functie> van <organisatie afkorting="VROM">Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</organisatie>,
+        <naam>
+          <voornaam>P.L.B.A. van</voornaam>
+          <achternaam>Geel</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+    
+    
+    <bijlage status="goed">
+      <kop>
+                        <label>Bijlage</label><nr status="officieel">3</nr><titel status="officieel">, behorende bij de <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.4.1">artikelen 3.4.1</intref> en <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.4.3">3.4.3</intref> van de Regeling uniforme
+saneringen
+</titel>
+                     </kop>
+      <divisie opmaak="default">                        <kop>
+                           <titel status="officieel">Lokale
+maximale waarden in het projectgebied de
+Kempen</titel>
+                        </kop>
+                        <al>Waarden in relatie tot achtergrondwaarden en
+interventiewaarden voor een standaardbodem (25% lutum en 10% organisch
+stof) uitgedrukt in mg/kg
+ds.</al>
+                        <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="zebra1">
+                           <tgroup align="left" char="" charoff="50" cols="7" tgroupstyle="zebra1">
+                              <colspec colname="col1" colnum="1" colwidth="21.5*"/>
+                              <colspec colname="col2" colnum="2" colwidth="18*"/>
+                              <colspec colname="col3" colnum="3" colwidth="18*"/>
+                              <colspec colname="col4" colnum="4" colwidth="18*"/>
+                              <colspec colname="col5" colnum="5" colwidth="18*"/>
+                              <colspec colname="col6" colnum="6" colwidth="18*"/>
+                              <colspec colname="col7" colnum="7" colwidth="18*"/>
+                              <thead valign="bottom">
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Achtergrondwaarden</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" nameend="col6" namest="col3" rotate="0" valign="top">
+                                       <al>Maximale
+waarden</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Interventiewaarden</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="1" rotate="0" valign="top">
+                                       <al>Stof</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="1" rotate="0" valign="top">
+                                       <al>Bodemfunctie-klasse
+landbouw en
+natuur</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Bodemfunctie-klasse
+wonen met
+moestuin*</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Bodemfunctie-klasse
+wonen met
+siertuin*</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Bodemfunctie-klasse
+wonen</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Bodemfunctie-klasse
+industrie**</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="1" rotate="0" valign="top"/>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Kwaliteitsklasse
+wonen met
+moestuin*</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Kwaliteitsklasse
+wonen met
+siertuin*</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Kwaliteitsklasse
+wonen</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Kwaliteitsklasse
+industrie**</al>
+                                    </entry>
+                                 </row>
+                              </thead>
+                              <tbody valign="top">
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Antimoon</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>4</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>15</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>15</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>15</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>22</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>22</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Arseen</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>20</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>55*</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>55*</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>27</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>76</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>76</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Barium</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Cadmium</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,6</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>3,7*</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>12*</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>1,2</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>12**</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>13</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Chroom</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>55</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>62</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>62</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>62</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>180</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>180
+(Cr III)</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Cobalt</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>15</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>35</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>35</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>35</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>190</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>190</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Koper</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>40</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>190*</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>190*</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>54</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>190</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>190</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Kwik</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,15</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,83</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,83</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,83</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>4,8</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>36
+(anorg)</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Lood</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>50</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>85</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>276*</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>210</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>530</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>530</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Molybdeen</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>1,5</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>88</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>88</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>88</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>190</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>190</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Nikkel</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>35</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>39</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>39</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>39</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>100</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>100</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Tin</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>6,5</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>180</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>180</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>180</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>900</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>900</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Vanadium</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>80</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>97</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>97</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>97</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>250</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>250</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Zink</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>140</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>720*</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>720*</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>200</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>720</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>720</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>PAK
+(10-VROM)</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>1,5</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>6,8</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>6,8</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>6,8</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>40</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>40</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>DDT
+(som)</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,20</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,20</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,20</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,20</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>1</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>1,7</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>DDD
+(som)</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,10</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,13</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,13</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,13</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>1,3</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>2,3</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>DDE
+(som)</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,02</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,84</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,84</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,84</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>34</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>34</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Drins
+(som)<sup>1</sup>
+                                       </al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,015</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,04</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,04</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,04</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,14</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>4,0</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Aldrin</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>0,32</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Minerale
+Olie</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>190</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>190</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>190</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>190</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>500</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>5000</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Asbest</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>--</al>
+                                    </entry>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>100</al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>100</al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>100</al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>100</al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>100</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>Andere
+stoffen</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al><sup>2</sup>
+                                          
+                                       </al>
+                                    </entry>
+                                    <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>
+                                          <sup>2</sup>
+                                       </al>
+                                    </entry>
+                                    <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>
+                                          <sup>2</sup>
+                                       </al>
+                                    </entry>
+                                    <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                       <al>
+                                          <sup>2</sup>
+                                       </al>
+                                    </entry>
+                                    <entry align="left" colname="col7" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 </row>
+                              </tbody>
+                           </tgroup>
+                           
+                        </table>
+                        <al><sup>1</sup> Som
+aldrin, dieldrin,
+endrin</al><al><sup>2</sup> Zie
+tabel 1 van <extref status="actief" doc="1.0:v:BWBR0023085&amp;bijlage=B" compleet="nee">bijlage B van de Regeling bodemkwaliteit</extref> voor de generieke
+maximale waarden wonen en
+industrie.</al><al>*
+De bodemfunctieklasse wonen en bodemkwaliteitsklasse wonen zoals
+opgenomen in de bijlagen bij de <extref status="actief" doc="1.0:v:BWBR0023085" compleet="nee">Regeling bodemkwaliteit</extref> is alleen voor
+het projectgebied De Kempen verbijzonderd in het gebruik als moestuin
+en als siertuin voor zover sprake is van een be&#xEF;nvloeding door
+zinkassen. De verbijzondering geldt binnen het projectgebied alleen
+voor de stoffen Arseen, Cadmium, Koper, Lood en Zink. Indien niet
+sprake is van een aantoonbare be&#xEF;nvloeding door zinkassen dan
+gelden de generieke waarden voor de bodemfunctieklasse en
+kwaliteitsklasse wonen van tabel 1, <extref status="actief" doc="1.0:v:BWBR0023085&amp;bijlage=B" compleet="nee">bijlage B van de Regeling
+bodemkwaliteit</extref>.</al>
+                              <al>** Voor de bodemfunctie- en
+bodemkwaliteitsklasse industrie is binnen het projectgebied De Kempen
+uitsluitend voor de stof cadmium een verbijzondering van toepassing.
+Indien niet sprake is van een aantoonbare be&#xEF;nvloeding door
+zinkassen dan gelden de generieke waarden voor de bodemfunctieklasse en
+kwaliteitsklasse industrie van tabel 1, <extref status="actief" doc="1.0:v:BWBR0023085&amp;bijlage=B" compleet="nee">Bijlage B van de Regeling
+bodemkwaliteit</extref>.</al>
+        <al>Met
+bovenstaande gebiedsgerichte verbijzondering voor moestuin en siertuin
+is door Gedeputeerde Staten van Noord-Brabant ingestemd op 6&#xA0;april
+2004 onder nummer 982886 en door Gedeputeerde Staten van de provincie
+Limburg op 1&#xA0;juni 2004 onder besluit 2004/30014.</al>
+                        <al>Voor het
+gebruik van de concentraties in de tabel geldt, dat voor andere bodems
+dan de standaard bodem een bodemtype correctie moet worden uitgevoerd
+conform de bestaande formules voor het corrigeren van genoemde
+waarden.</al>
+                        <al>De situering en omvang van het projectgebied van
+Actief Bodembeheer de Kempen staat weergegeven in de volgende tekening
+(in
+kleur).</al>
+                        <plaatje><illustratie bin-id="245426" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/245426"/><bijschrift locatie="onder">Figuur 1 .
+Overzicht projectgebied De Kempen</bijschrift></plaatje>
+                        <al>Het Projectgebied De Kempen betreft de volgende
+gemeenten:</al>
+                        <table colsep="0" frame="none" pgwide="1" rowsep="0" tabstyle="tekst">
+                           <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="tekst">
+                              <colspec colname="col1" colnum="1" colwidth="65*"/>
+                              <colspec colname="col2" colnum="2" colwidth="64.5*"/>
+                              <tbody valign="top">
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Asten</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Maasbree</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Bergeijk</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Maasgouw</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Best</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Meijel</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Bladel</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Nederweert</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Boxtel</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Nuenen
+ca</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Cranendonck</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Oirschot</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Deurne</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Reusel
+&#x2013; De Mierden</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Eersel</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Schijndel</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Eindhoven</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Sevenum</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Geldrop-Mierlo</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Sint-Michielsgestel</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Gemert-Bakel</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Sint-Oedenrode</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Heeze-Leende</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Someren</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Helden
+&#x2013; Panningen</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Son
+en Breugel</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Helmond</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Tilburg</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Hilvarenbeek</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Valkenswaard</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Horst
+aan de Maas</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Veghel</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Kessel</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Veldhoven</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Laarbeek</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Vught</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Leudal</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Waalre</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>Weert</al>
+                                    </entry>
+                                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+                                 </row>
+                              </tbody>
+                           </tgroup>
+                        </table></divisie>
+    </bijlage>
+  <bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">4</nr><titel status="officieel">behorende bij <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=1.3">artikel  1.3</intref> van de Regeling uniforme saneringen</titel></kop><plaatje><illustratie bin-id="249215" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249215"/></plaatje>
+         <plaatje><illustratie bin-id="249216" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249216"/></plaatje><plaatje><illustratie bin-id="249217" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249217"/></plaatje><plaatje><illustratie bin-id="249218" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249218"/></plaatje><plaatje><illustratie bin-id="249219" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249219"/></plaatje><plaatje><illustratie bin-id="249220" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249220"/></plaatje><plaatje><illustratie bin-id="249221" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249221"/></plaatje><plaatje><illustratie bin-id="249222" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249222"/></plaatje><plaatje><illustratie bin-id="249223" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249223"/></plaatje><plaatje><illustratie bin-id="249224" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249224"/></plaatje><plaatje><illustratie bin-id="249225" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249225"/></plaatje><plaatje><illustratie bin-id="249226" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249226"/></plaatje><plaatje><illustratie bin-id="249227" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249227"/></plaatje><plaatje><illustratie bin-id="249228" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249228"/></plaatje><plaatje><illustratie bin-id="249229" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249229"/></plaatje><plaatje><illustratie bin-id="249230" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249230"/></plaatje><plaatje><illustratie bin-id="249231" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249231"/></plaatje><plaatje><illustratie bin-id="249232" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249232"/></plaatje><plaatje><illustratie bin-id="249233" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249233"/></plaatje><plaatje><illustratie bin-id="249234" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249234"/></plaatje><plaatje><illustratie bin-id="249235" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249235"/></plaatje><plaatje><illustratie bin-id="249236" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249236"/></plaatje><plaatje><illustratie bin-id="249237" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249237"/></plaatje><plaatje><illustratie bin-id="249238" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249238"/></plaatje><plaatje><illustratie bin-id="249239" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249239"/></plaatje><plaatje><illustratie bin-id="249240" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249240"/></plaatje><plaatje><illustratie bin-id="249241" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249241"/></plaatje><plaatje><illustratie bin-id="249242" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249242"/></plaatje><plaatje><illustratie bin-id="249243" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249243"/></plaatje><plaatje><illustratie bin-id="249244" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249244"/></plaatje><plaatje><illustratie bin-id="249245" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249245"/></plaatje><plaatje><illustratie bin-id="249246" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249246"/></plaatje><plaatje><illustratie bin-id="249247" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249247"/></plaatje><plaatje><illustratie bin-id="249248" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249248"/></plaatje><plaatje><illustratie bin-id="249249" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249249"/></plaatje><plaatje><illustratie bin-id="249250" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249250"/></plaatje><plaatje><illustratie bin-id="249251" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249251"/></plaatje><plaatje><illustratie bin-id="249252" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249252"/></plaatje><plaatje><illustratie bin-id="249253" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249253"/></plaatje><plaatje><illustratie bin-id="249254" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249254"/></plaatje><plaatje><illustratie bin-id="249255" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249255"/></plaatje><plaatje><illustratie bin-id="249256" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249256"/></plaatje><plaatje><illustratie bin-id="249257" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249257"/></plaatje></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">5</nr><titel status="officieel">behorende bij <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=4.2">artikel  4.2</intref> van de Regeling uniforme saneringen</titel></kop><plaatje><illustratie bin-id="249258" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249258"/></plaatje><plaatje><illustratie bin-id="249259" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249259"/></plaatje><plaatje><illustratie bin-id="249260" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249260"/></plaatje><plaatje><illustratie bin-id="249261" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249261"/></plaatje><plaatje><illustratie bin-id="249262" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249262"/></plaatje><plaatje><illustratie bin-id="249263" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249263"/></plaatje><plaatje><illustratie bin-id="249264" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249264"/></plaatje><plaatje><illustratie bin-id="249265" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249265"/></plaatje><plaatje><illustratie bin-id="249266" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249266"/></plaatje><plaatje><illustratie bin-id="249267" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249267"/></plaatje><plaatje><illustratie bin-id="249268" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249268"/></plaatje><plaatje><illustratie bin-id="249269" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249269"/></plaatje><plaatje><illustratie bin-id="249270" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249270"/></plaatje><plaatje><illustratie bin-id="249271" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249271"/></plaatje><plaatje><illustratie bin-id="249272" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249272"/></plaatje><plaatje><illustratie bin-id="249273" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249273"/></plaatje><plaatje><illustratie bin-id="249274" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249274"/></plaatje><plaatje><illustratie bin-id="249275" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249275"/></plaatje><plaatje><illustratie bin-id="249276" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249276"/></plaatje><plaatje><illustratie bin-id="249277" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249277"/></plaatje><plaatje><illustratie bin-id="249278" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249278"/></plaatje><plaatje><illustratie bin-id="249279" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249279"/></plaatje><plaatje><illustratie bin-id="249280" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249280"/></plaatje><plaatje><illustratie bin-id="249281" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249281"/></plaatje><plaatje><illustratie bin-id="249282" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249282"/></plaatje><plaatje><illustratie bin-id="249283" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249283"/></plaatje><plaatje><illustratie bin-id="249284" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249284"/></plaatje><plaatje><illustratie bin-id="249285" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249285"/></plaatje><plaatje><illustratie bin-id="249286" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249286"/></plaatje><plaatje><illustratie bin-id="249287" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249287"/></plaatje><plaatje><illustratie bin-id="249288" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249288"/></plaatje><plaatje><illustratie bin-id="249289" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249289"/></plaatje><plaatje><illustratie bin-id="249290" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249290"/></plaatje><plaatje><illustratie bin-id="249291" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249291"/></plaatje><plaatje><illustratie bin-id="249292" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249292"/></plaatje><plaatje><illustratie bin-id="249293" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249293"/></plaatje><plaatje><illustratie bin-id="249294" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/249294"/></plaatje></bijlage><bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">6</nr>
+      <titel status="officieel">behorende bij de <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.1.1">artikelen 3.1.1</intref>, <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.1">3.2.1</intref>, <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.2.4">3.2.4</intref>, <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.3.1">3.3.1</intref> en <intref status="actief" doc="1.0:v:BWBR0019507&amp;artikel=3.4.1">3.4.1</intref> van de Regeling uniforme saneringen</titel></kop>
+      <divisie opmaak="default"><kop><titel status="officieel">Reikwijdte stoffen in de regeling uniforme saneringen waarbij sanering noodzakelijk
+is</titel></kop><table frame="topbot" tabstyle="stcrt2"><tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="stcrt2">
+            <colspec colname="col1" colnum="1" colwidth="44*"/>
+            <colspec colname="col2" colnum="2" colwidth="29.5*"/>
+            <colspec colname="col3" colnum="3" colwidth="29.5*"/>
+            <thead valign="bottom">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Stofgroepen en Stoffen</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Categorie Mobiel*</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Categorie Immobiel, tijdelijk uitplaatsen en De Kempen*</al>
+                </entry>
+              </row>
+            </thead>
+            <tbody valign="top">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1. metalen</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>JA</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>JA</al>
+                </entry>
+              </row>
+              
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2. overige anorganische stoffen</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>JA</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>JA</al>
+                </entry>
+              </row>
+              
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>3. aromatische stoffen</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>JA</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>NEE</al>
+                </entry>
+              </row>
+              
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>4. pak&#x2019;s</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>JA</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"><al>JA</al></entry>
+              </row>
+              
+              
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>5. gechloreerde koolwaterstoffen</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>NEE</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>NEE</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>a. (vluchtige) chloorkoolwaterstoffen</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>b. chloorbenzenen</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>c. chloorfenolen</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>d. PCB&#x2019;s</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>e. overige gechloreerde kws</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+              </row>
+              
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>6. bestrijdingsmiddelen</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>NEE</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>a. organochloorbestrijdingsmiddelen</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>JA</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>b. organofosforpesticiden</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>NEE</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>c. organotinbestrijdingsmiddelen</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>NEE</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>d. MCPA</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>NEE</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>e. overige bestrijdingsmiddelen</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>NEE</al>
+                </entry>
+              </row>
+              
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>7. minerale olie</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>JA</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>JA</al>
+                </entry>
+              </row>
+              
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>8. asbest</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>n.v.t.</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>JA</al>
+                </entry>
+              </row>
+              
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>9. overige stoffen</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>NEE</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>NEE</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table><al>* JA = BUS is van toepassing.</al><al>NEE = BUS is niet van toepassing.</al></divisie>
+    </bijlage></regeling>
+</wetgeving>
+  	

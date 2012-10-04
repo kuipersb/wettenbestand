@@ -1,0 +1,478 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0031944" dtdversie="2.0" id="477919" soort="zbo">
+  
+  <intitule>Regeling Declaratiebepalingen DBC GGZ</intitule>
+  
+  <regeling>
+    <aanhef>
+      <considerans>
+        <considerans.al>Ingevolge de <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=37" compleet="nee">artikelen 37</extref> en <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=38" compleet="nee">38 van de Wet marktordening gezondheids-zorg</extref> (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van het declaratieverkeer tussen zorgaanbieders en zorgverzekeraars.</considerans.al>
+        <considerans.al>Ingevolge <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=27" compleet="nee">artikel 27  van de Wmg</extref> is de NZa onder meer bevoegd tot het stellen van regels met betrekking tot de controle door zorgverzekeraars.</considerans.al>
+      </considerans>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Reikwijdte</titel>
+        </kop>
+        <al>Deze regeling is van toepassing op zorgaanbieders die tweedelijns curatieve geestelijke gezondheidszorg, zoals omschreven bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0018450" compleet="nee">Zorgverzekeringswet</extref>, leveren.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <al>In het vervolg van deze regeling wordt verstaan onder:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+          <li>
+            <li.nr>2.1</li.nr>
+            <al>
+              <nadruk type="cur">Zorgaanbieder</nadruk>
+            </al>
+            <al>De natuurlijke persoon of rechtspersoon die beroeps- of bedrijfsmatig zorg verleent, als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031944&amp;artikel=1">artikel 1 van deze regeling</intref>, voor zover deze ingevolge een beschikking van de NZa dient te declareren in DBC&#x2019;s.</al>
+            <al>Waar in deze regeling wordt gesproken van zorgaanbieder wordt ingevolge <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=62" compleet="nee">artikel 62, eerste lid, Wmg</extref>, tevens gedoeld op degene die een administratie voert als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=44" compleet="nee">artikel 44, van de Wmg</extref>.</al>
+            <al>Waar in deze regeling wordt gesproken van zorgaanbieder wordt ingevolge <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=62" compleet="nee">artikel 62, tweede lid, Wmg</extref>, tevens gedoeld op degene die ten behoeve van de zorgaanbieder gegevens verzamelt, bewaart en bewerkt, alsmede op de groep in de zin van <extref status="actief" doc="1.0:v:BWBR0003045&amp;artikel=24b" compleet="nee">artikel 24b van Boek 2 van het Burgerlijk Wetboek</extref>, indien zorgaanbieders daartoe behoren.</al>
+          </li>
+          <li>
+            <li.nr>2.2</li.nr>
+            <al>
+              <nadruk type="cur">Cli&#xEB;nt</nadruk>
+            </al>
+            <al>Iemand die zorg afneemt, respectievelijk krijgt geleverd, van een zorgaanbieder als bedoeld in artikel 2.1.</al>
+          </li>
+          <li>
+            <li.nr>2.3</li.nr>
+            <al>
+              <nadruk type="cur">DBC</nadruk>
+            </al>
+            <al>Diagnose behandeling combinatie (DBC) typeert het geheel van prestaties van zorgaanbieders voortvloeiend uit de zorgvraag waarvoor een cli&#xEB;nt de zorgaanbieders consulteert.</al>
+          </li>
+          <li>
+            <li.nr>2.4</li.nr>
+            <al>
+              <nadruk type="cur">DBC-traject</nadruk>
+            </al>
+            <al>Een DBC duurt maximaal 365 dagen. Wanneer het zorgtraject van een DBC langer dan 365 dagen duurt, wordt dit vervolgtraject getypeerd met een zogenoemde vervolg-DBC. Voor klinische DBC's geldt dat de bekostiging na 365 opnamedagen ten laste van de AWBZ komt. Derhalve is een DBC altijd gerelateerd aan een bepaalde periode binnen een zorgtraject, het zogenoemde DBC-traject. Binnen deze periode wordt de DBC-dataset opgebouwd die gebruikt wordt voor de typering van de DBC als declarabel product.</al>
+          </li>
+          <li>
+            <li.nr>2.5</li.nr>
+            <al>
+              <nadruk type="cur">DBC-dataset</nadruk>
+            </al>
+            <al>De dataset bevat de gegevens waarmee een DBC getypeerd kan worden. De onderdelen van de DBC-dataset zijn: startdatum, medisch inhoudelijke informatie (zorgtype, diagnoseclassificatie en productgroep-codes voor behandeling), de deelprestaties verblijf en einddatum. Aan een DBC-dataset is de hoeveelheid ingezette activiteiten en verrichtingen gekoppeld op basis waarvan door de validatiemodule de productgroep(code) voor behandeling en de deelprestaties verblijf worden bepaald. Vanuit de productgroepcode voor behandeling wordt de bijbehorende prestatiecode afgeleid, waaraan een declaratiecode wordt toegevoegd. Aan de deelprestaties verblijf wordt direct een tarief gekoppeld.</al>
+          </li>
+          <li>
+            <li.nr>2.6</li.nr>
+            <al>
+              <nadruk type="cur">DBC-prestatiecode</nadruk>
+            </al>
+            <al>De twaalfcijferige code, die het afgesloten en gevalideerde DBC-traject beschrijft. De code bestaat uit het samenstelsel van de codes van het zorgtype, de diagnoseclassificatie, de productgroep voor behandeling en de deelprestaties verblijf. Op de posities waar voorheen de verblijfsgroepen waren opgenomen, worden deze posities nu altijd gevuld met een 0 (in totaal dus 000).</al>
+          </li>
+          <li>
+            <li.nr>2.7</li.nr>
+            <al>
+              <nadruk type="cur">DBC Validatie</nadruk>
+            </al>
+            <al>Zorgaanbieders zijn ten behoeve van de registratie en declaratie van DBC's gehouden in hun registratie en declaratiesoftware een validatie-module op te nemen. Deze dient als instrument om de betrouwbaarheid van DBC's te toetsen en de juistheid van de registratie te verifi&#xEB;ren.</al>
+          </li>
+          <li>
+            <li.nr>2.8</li.nr>
+            <al>
+              <nadruk type="cur">Productstructuur en productgroepen voor behandeling en deelprestaties verblijf</nadruk>
+            </al>
+            <al>De productstructuur bestaat uit productgroepen voor behandeling en daarnaast worden er 7 deelprestaties verblijf onderscheiden. Aan de productgroepen zijn bedragen en codes (3 posities) gekoppeld. Aan de deelprestaties verblijf zijn bedragen gekoppeld.</al>
+          </li>
+          <li>
+            <li.nr>2.9</li.nr>
+            <al>
+              <nadruk type="cur">DBC-tarief</nadruk>
+            </al>
+            <al>Het DBC-tarief bestaat uit de combinatie van het bedrag dat is gekoppeld aan de productgroep voor behandeling en het bedrag dat is gekoppeld aan de deelprestaties voor verblijf (en het aantal dagen per deelprestaties verblijf) volgens de productstructuur DBC GGZ. Indien geen sprake is van verblijf, bestaat het DBC-tarief uitsluitend uit het bedrag dat is gekoppeld aan de productgroep voor behandeling. Het tarief is gebaseerd op de volledige kostprijs van de verleende zorg, inclusief kapitaalslasten.</al>
+          </li>
+          <li>
+            <li.nr>2.10</li.nr>
+            <al>
+              <nadruk type="cur">Declaratiecode</nadruk>
+            </al>
+            <al>De zescijferige codes die gekoppeld zijn aan de productgroepen voor behandeling. Aan een declaratiecode is een tarief gekoppeld.</al>
+          </li>
+          <li>
+            <li.nr>2.11</li.nr>
+            <al>
+              <nadruk type="cur">AGB-code</nadruk>
+            </al>
+            <al>Algemeen GegevensBeheer-Zorverleners is een database waarin gegevens van zorgverleners in Nederland zijn geregistreerd. Het bestand bevat ook gegevens die van belang zijn voor het communicatie- en declaratieproces tussen zorgverlener en zorgverzekeraar.</al>
+          </li>
+          <li>
+            <li.nr>2.12</li.nr>
+            <al>
+              <nadruk type="cur">Lekenomschrijving</nadruk>
+            </al>
+            <al>Een voor cli&#xEB;nten in niet medische terminologie verklarende omschrijving van het in rekening gebrachte DBC-tarief.</al>
+          </li>
+          <li>
+            <li.nr>2.13</li.nr>
+            <al>
+              <nadruk type="cur">Overige producten</nadruk>
+            </al>
+            <al>Prestaties geleverd door aanbieders van curatieve GGZ als bedoeld in de <extref status="actief" doc="1.0:v:BWBR0018450" compleet="nee">Zorgverzekeringswet</extref> die betrekking hebben op het uitvoeren van onderzoeken en het opstellen van rapportages ter vaststelling van de geestelijke gezondheidstoestand, alsmede prestaties die geen onderdeel zijn van de geldende DBC-productstructuur doch waarvoor op grond van een besluit of aanwijzing van de Minister een tarief in rekening mag worden gebracht. Het beleid met betrekking tot de overige producten is vastgelegd in de beleidsregel Overige producten GGZ Zvw.</al>
+          </li>
+          <li>
+            <li.nr>2.14</li.nr>
+            <al>
+              <nadruk type="cur">Onderlinge dienstverlening</nadruk>
+            </al>
+            <al>Onder onderlinge dienstverlening wordt verstaan: de zorg als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=1" compleet="nee">artikel 1, Wmg</extref>, die door een zorgaanbieder wordt verleend als onderdeel van de beschrijving van een door een andere zorgaanbieder uit te voeren prestatie op het gebied van curatieve GGZ. De eerstgenoemde zorgaanbieder wordt in dit kader aangeduid als &#x2018;uitvoerende zorgaanbieder&#x2019;. De laatstgenoemde zorgaanbieder wordt in dit kader aangeduid als de &#x2018;opdrachtgevende zorgaanbieder&#x2019;.</al>
+          </li>
+          <li>
+            <li.nr>2.15</li.nr>
+            <al>
+              <nadruk type="cur">A-segment, B-segment</nadruk>
+            </al>
+            <al>Indien er sprake is van prijsregulering voor bepaalde DBC tarieven dan worden deze tarieven aangeduid als vallend onder het A-segment. Indien er geen sprake is van prijsregulering voor bepaalde DBC tarieven dan worden deze DBC tarieven aangeduid als vallend onder het B-segment.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Doel</titel>
+        </kop>
+        <al>Het doel van deze regeling is regels te stellen die in acht moeten worden genomen bij het declareren van DBC-tarieven en verrekenbedragen. Ook wordt geregeld welke gegevens de factuur inzake de geleverde zorg minimaal moet bevatten.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Declaratiebepalingen</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">4.1</lidnr>
+          <al>
+            <nadruk type="cur">Algemene toelichting</nadruk>
+          </al>
+          <al>Voor de DBC-tarieven gelden prestatiebeschrijvingen met landelijke tarieven (A-segment) voorzien van een declaratiecode zoals vastgelegd in de Beleidsregel DBC-tarifering behandeling en verblijf in de curatieve geestelijke gezondheidszorg. De zorgaanbieder declareert het DBC-tarief of voorzover van toepassing het met de zorgverzekeraar overeengekomen DBC-tarief. Voor een algemene toelichting op de DBC-registratie wordt verwezen naar de Regeling instructie DBC-registratie GGZ, die van toepassing was op het moment van openen van de DBC. Alleen afgesloten DBC&#xB4;s die volgens deze regeling zijn getypeerd en zijn gevalideerd conform de Regeling DBC GGZ validatie kunnen worden gedeclareerd.</al>
+          <al>De zorginstelling declareert het totale DBC-tarief, inclusief het honorarium voor de in de instelling werkzame vrijgevestigde psychiaters. Intramurale vrijgevestigde psychiaters declareren, bij wijze van onderlinge dienstverlening, de honorariumbedragen aan of via de zorginstelling.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4.2.1</lidnr>
+          <al>
+            <nadruk type="cur">Moment van declaratie</nadruk>
+          </al>
+          <al>Declaratie van een DBC tarief vindt plaats wanneer de DBC is afgesloten en gevalideerd. In de Regeling instructie DBC-registratie GGZ worden de voorwaarden genoemd om een DBC af te sluiten.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4.2.2</lidnr>
+          <al>
+            <nadruk type="cur">Te declareren DBC-tarief</nadruk>
+          </al>
+          <al>Het DBC-tarief kan in rekening worden gebracht voor alle afgesloten DBC's en zijn gevalideerd door de zorgaanbieder door middel van de validatiemodule.</al>
+          <al>Het DBC-tarief dat wordt gedeclareerd is het tarief dat van toepassing was op het moment van openen van de DBC.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4.2.3</lidnr>
+          <al>
+            <nadruk type="cur">Aan wie wordt het DBC-tarief gedeclareerd?</nadruk>
+          </al>
+          <al>Het DBC-tarief wordt gedeclareerd bij de cli&#xEB;nt of bij de ziektekosten-verzekeraar. Wanneer de cli&#xEB;nt gedurende het DBC-traject is veranderd van ziektekostenverzekeraar, dient het DBC-tarief te worden gedeclareerd bij de ziektekostenverzekeraar bij wie de pati&#xEB;nt verzekerd was op de startdatum van de DBC.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4.2.4</lidnr>
+          <al>
+            <nadruk type="cur">Onderlinge dienstverlening</nadruk>
+          </al>
+          <al>Onderlinge dienstverlening houdt in, dat de uitvoerende zorgaanbieder, d.w.z. de zorgaanbieder die de zorgprestatie levert, de kosten die met die zorgprestatie verband houden in rekening brengt bij de zorgaanbieder die om die zorgprestatie heeft verzocht, c.q. daartoe opdracht heeft verstrekt.</al>
+          <al>Indien sprake is van onderlinge dienstverlening mag de uitvoerende zorgaanbieder geen DBC en ook geen overig of ondersteunend product, behorend bij het DBC-traject, bij de cli&#xEB;nt of bij de verzekeraar in rekening brengen. Voor meer informatie over onderlinge dienstverlening wordt verwezen naar de beleidsregel &#x2018;Tarifering onderlinge dienstverlening GGZ Zvw&#x2019;.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4.3</lidnr>
+          <al>
+            <nadruk type="cur">Parallelle DBC's</nadruk>
+          </al>
+          <al>Binnen de GGZ kunnen meerdere DBC's voor dezelfde cli&#xEB;nt voorkomen (maximaal 3). Voor de wijze waarop dient te worden omgegaan met parallelle DBC's, wordt verwezen naar de Regeling instructie DBC-registratie GGZ.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Overige bedragen</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">5.1</lidnr>
+          <al>
+            <nadruk type="cur">Overige producten</nadruk>
+          </al>
+          <al>De overige producten hebben geen relatie met het DBC-traject van een cli&#xEB;nt. De integrale tarieven voor de overige producten kunnen daarom afzonderlijk gedeclareerd worden aan de cli&#xEB;nt, ziektekostenverzekeraar of aan de opdrachtgever. Voor meer informatie over overige producten wordt verwezen naar de beleidsregel &#x2018;Overige producten GGZ Zvw&#x2019;.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5.2</lidnr>
+          <al>
+            <nadruk type="cur">Verrekenpercentage gebudgetteerde instellingen</nadruk>
+          </al>
+          <al>Alle tarieven, inclusief een eventueel tussen zorgaanbieder en zorgverzekeraar overeengekomen verrekenpercentage, worden in rekening gebracht door declaratie van een DBC.</al>
+          <al>Indien sprake is van een overeengekomen verrekenpercentage, wordt per zorgaanbieder onderscheid gemaakt in verrekenpercentages voor DBC-tarieven inclusief verblijf en exclusief verblijf.</al>
+          <al>Zorgaanbieders die zowel klinische (intramurale) als ambulante (extramurale) zorg verlenen, passen het verrekenpercentage uitsluitend toe op de klinische DBC-tarieven.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Gegevens op de factuur</titel>
+        </kop>
+        <al>Elke factuur dient naast de gebruikelijke informatie de volgende gegevens te bevatten:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+          <li>
+            <li.nr>6.1</li.nr>
+            <al>
+              <nadruk type="cur">DBC-traject startdatum</nadruk>
+            </al>
+            <al>Bij initi&#xEB;le DBC's is dit de datum waarop het eerste pati&#xEB;ntgebonden contact plaatsvindt. Bij vervolg DBC's is dit de startdatum van het vervolg DBC-traject.</al>
+          </li>
+          <li>
+            <li.nr>6.2</li.nr>
+            <al>
+              <nadruk type="cur">DBC-traject einddatum</nadruk>
+            </al>
+            <al>De DBC wordt afgesloten zodra de laatste activiteit (direct of indirect cli&#xEB;ntgebonden) voor een cli&#xEB;nt is geleverd.</al>
+          </li>
+          <li>
+            <li.nr>6.3</li.nr>
+            <al>
+              <nadruk type="cur">Declaratiecode</nadruk>
+            </al>
+            <al>In het A-segment begint de 6 cijferige declaratiecode uit de NZa-tariefgroep met het getal 25 of 10 als sprake is van verzekerde zorg en met het getal 27 als sprake is van niet verzekerde zorg. In het B-segment begint de declaratiecode uit de NZa- tariefgroep met het getal 26 als sprake is van verzekerde zorg en met het getal 28 als sprake is van niet verzekerde zorg.</al>
+          </li>
+          <li>
+            <li.nr>6.4</li.nr>
+            <al>
+              <nadruk type="cur">Kostenbedrag</nadruk>
+            </al>
+            <al>Op de factuur wordt het DBC-tarief en het verrekenpercentage (bij papieren facturatie ook het bedrag) afzonderlijk vermeld. Het te betalen bedrag wordt rekenkundig afgerond op twee decimalen.</al>
+          </li>
+          <li>
+            <li.nr>6.5</li.nr>
+            <al>
+              <nadruk type="cur">AGB-code</nadruk>
+            </al>
+            <al>Voor zelfstandig gevestigde zorgaanbieders: de AGB-zorgverlenerscode en - indien relevant - de AGB-praktijkcode.</al>
+            <al>Voor instellingen: de AGB-instellingscode en - indien relevant - de AGB-zorgverlenerscode.</al>
+          </li>
+          <li>
+            <li.nr>6.6</li.nr>
+            <al>
+              <nadruk type="cur">DBC-prestatiecode</nadruk>
+            </al>
+            <al>De specificatie van het geleverde zorgproduct. De DBC-prestatiecode wordt afgeleid van de gevalideerde DBC-dataset. Deze code bestaat uit 12 alfanumerieke posities, gevuld volgens vier 3-cijferige DBC-componenten en in onderstaande volgorde:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>1.</li.nr>
+                <al>zorgtype;</al>
+              </li>
+              <li>
+                <li.nr>2.</li.nr>
+                <al>diagnoseclassificatie;</al>
+              </li>
+              <li>
+                <li.nr>3.</li.nr>
+                <al>verblijf (altijd 000 omdat de deelprestaties verblijf apart vermeld worden);</al>
+              </li>
+              <li>
+                <li.nr>4.</li.nr>
+                <al>productgroep voor behandeling van de DBC-dataset.</al>
+              </li>
+            </lijst>
+            <al>De diagnose-informatie op de factuur dient zich te beperken tot de 14 diagnose hoofdgroepen in uitsluitend de langdurende of intensieve behandelgroepen overeenkomstig de productstructuur. Voor de behandelgroepen &#x2018;indirecte tijd&#x2019;, &#x2018;diagnostiek&#x2019;, &#x2018;crisis&#x2019; en &#x2018;kortdurend&#x2019; is vermelding van diagnose-informatie op de factuur niet toegestaan. Evenmin is het toegestaan dat uit de factuur blijkt of er ten aanzien van het zorgtype sprake is van een rechterlijke uitspraak.</al>
+          </li>
+          <li>
+            <li.nr>6.7</li.nr>
+            <al>
+              <nadruk type="cur">Deelprestaties verblijf</nadruk>
+            </al>
+            <al>In totaal worden zeven deelprestaties verblijf onderscheiden (deelprestatie verblijf A t/m G). De deelprestaties verblijf worden per dag afgerekend en altijd in combinatie met een productgroep voor behandeling in rekening gebracht. Op de factuur wordt vermeld welke deelprestaties verblijf geleverd zijn met daarbij de datum waarop de deelprestaties verblijf hebben plaatsgevonden.</al>
+          </li>
+          <li>
+            <li.nr>6.8</li.nr>
+            <al>
+              <nadruk type="cur">Lekenomschrijving</nadruk>
+            </al>
+            <al>Indien een zorgaanbieder aan de cli&#xEB;nt factureert, voegt hij op de factuur aan het DBC-tarief de lekenomschrijving met betrekking tot de geleverde zorg toe. Vermelding van de lekenomschrijving blijft achterwege, indien de zorgaanbieder de factuur rechtstreeks aan de zorgverzekeraar zendt.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Uitzondering in geval van privacybezwaren</titel>
+        </kop>
+        <tussenkop kopopmaak="cur">
+          <nadruk type="vetcur">Algemeen</nadruk>
+        </tussenkop>
+        <lid>
+          <lidnr status="officieel">7.1</lidnr>
+          <al>De artikelen 6.3, 6.6 en 6.8, voor zover betrekking hebbend op tot de diagnose herleidbare gegevens, blijven buiten toepassing indien de cli&#xEB;nt en de zorgaanbieder gezamenlijk een verklaring hebben ondertekend overeenkomstig bijlage 1.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">7.2</lidnr>
+          <al>De verklaring bedoeld in artikel 7.1 dient v&#xF3;&#xF3;r, doch uiterlijk op het moment van indiening van de factuur bij de zorgverzekeraar in het bezit te worden gesteld van de zorgverzekeraar van de cli&#xEB;nt.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">7.3</lidnr>
+          <al>De zorgaanbieder houdt in zijn administratie een afschrift van de in artikel 7.1 bedoelde verklaring.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">7.4</lidnr>
+          <al>In aanvulling op de uitzonderingsbepaling van artikel 7.1 en zonodig in afwijking van artikel 6.4, zijn cli&#xEB;nt en zorgaanbieder gerechtigd om een tarief, niet hoger dan het geldende maximumtarief, te declareren zodanig dat dit afwijkende tarief niet herleidbaar is naar de diagnose. De zorgaanbieder, al dan niet in gezamenlijkheid met de cli&#xEB;nt, dient in dit geval in overleg met de zorgverzekeraar tot een afwijkende, doch voor beide partijen aanvaardbare betalingsprocedure te komen. De zorgverzekeraar is gehouden om binnen redelijke grenzen medewerking te verlenen aan de totstandkoming van zo&#x2019;n betalingsprocedure.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">7.5</lidnr>
+          <al>Controle door de zorgverzekeraar op de rechtmatigheid van facturen die op grond van dit artikel door een zorgaanbieder, dan wel een cli&#xEB;nt, ter betaling aan die zorgverzekeraar zijn aangeboden, vindt plaats door of onder verantwoordelijkheid van een medisch adviseur.</al>
+        </lid>
+        <tussenkop kopopmaak="cur">
+          <nadruk type="vetcur">Zelfbetalers</nadruk>
+        </tussenkop>
+        <lid>
+          <lidnr status="officieel">7.6</lidnr>
+          <al>De artikelen 6.3, 6.6 en 6.8, voor zover betrekking hebbend op tot de diagnose herleidbare gegevens, blijven buiten toepassing indien een cli&#xEB;nt aan de zorgaanbieder te kennen geeft de factuur, resp. facturen, met betrekking tot de door hem genoten behandeling(en) zelf te zullen betalen, althans niet ter betaling bij zijn zorgverzekeraar aan te bieden.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">7.7</lidnr>
+          <al>Indien een cli&#xEB;nt bedoeld in artikel 7.6 zich bedenkt en de factuur op een later moment alsnog ter betaling wil indienen bij zijn zorgverzekeraar, dan dient alsnog een verklaring als bedoeld in artikel 7.1 te worden ingevuld en ondertekend. De artikelen 7.2 tot en met 7.5 zijn in dat geval van overeenkomstige toepassing.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Intrekking oude regel(s)</titel>
+        </kop>
+        <al>Gelijktijdig met de inwerkingtreding van deze regel wordt de '<extref status="actief" doc="1.0:v:BWBR0031644" compleet="nee">Regeling Declaratiebepalingen DBC GGZ</extref>', kenmerk NR/CU-520, ingetrokken.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">9</nr>
+          <titel status="officieel">Inwerkingtreding en citeerregel</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">9.1</lidnr>
+          <al>Deze regeling treedt in werking op PM<noot id="n1e11806374" type="voet">
+              <noot.nr>1</noot.nr>
+              <noot.al>De datum van inwerkingtreding is de dag na de publicatiedatum van deze regeling in de Staatscourant.</noot.al>
+            </noot>.</al>
+
+          <al>Ingevolge artikel 20, tweede lid, onderdeel a, van de Wet marktordening gezondheidszorg (Wmg) zal deze regeling in de Staatscourant worden gepubliceerd<noot id="n2e11806374" type="voet">
+              <noot.nr>2</noot.nr>
+              <noot.al> Staatscourant d.d. <nadruk type="vet">PM</nadruk> nr. <nadruk type="vet">PM</nadruk>
+              </noot.al>
+            </noot>.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">9.2</lidnr>
+          <al>Deze regeling kan worden aangehaald als: 'Regeling declaratiebepalingen DBC GGZ'.</al>
+        </lid>
+      </artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <ondertekening>
+        <functie>Met vriendelijke groet</functie>,
+        <functie>Nederlandse Zorgautoriteit</functie>,
+        <naam>
+          <voornaam>mr. drs. T.W.</voornaam>
+          <achternaam>Langejan,</achternaam>
+        </naam>
+        <functie>voorzitter Raad van Bestuur.</functie>
+      </ondertekening>
+    </regeling-sluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label>
+        <nr status="officieel">1</nr>
+      </kop>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Privacy verklaring</titel>
+        </kop>
+        <al>Ondergetekenden:</al>
+        <al>[cli&#xEB;nt]</al>
+        <al>en</al>
+        <al>[zorgaanbieder]</al>
+        <al>verklaren:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>1.</li.nr>
+            <al>Dat tussen partijen een behandelrelatie is aangegaan, waarvoor de zorgaanbieder een tarief in rekening wenst te brengen overeenkomstig de Wet marktordening gezondheidszorg.</al>
+          </li>
+        </lijst>
+        <al>
+          <nadruk type="cur">Vermelding diagnose-informatie op factuur</nadruk>
+        </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>2.</li.nr>
+            <al>Dat de cli&#xEB;nt er uit oogpunt van bescherming van zijn persoonlijke levenssfeer bezwaar tegen heeft, dat gegevens die te herleiden zijn tot een door de zorgaanbieder met betrekking tot de cli&#xEB;nt gestelde diagnose, op de declaratie worden vermeld.</al>
+          </li>
+          <li>
+            <li.nr>3.</li.nr>
+            <al>Dat de zorgaanbieder, in overeenstemming met artikel 7 van de Regeling Declaratiebepalingen DBC GGZ, vermelding van de onder 2 vermelde gegevens achterwege zal laten.</al>
+          </li>
+        </lijst>
+        <al>
+          <nadruk type="cur">Aanlevering gegevens aan DIS</nadruk>
+        </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>4.</li.nr>
+            <al>Dat de cli&#xEB;nt er uit oogpunt van bescherming van zijn persoonlijke levenssfeer bezwaar tegen heeft, dat MDS-gegevens als bedoeld in artikel 5 van de Regeling &#x2018;Verplichte aanlevering minimale dataset GGZ Zvw&#x2019;, aan DIS worden aangeleverd.</al>
+          </li>
+          <li>
+            <li.nr>5.</li.nr>
+            <al>Dat de zorgaanbieder, in overeenstemming met artikel 6 van de Regeling &#x2018;Verplichte aanlevering minimale dataset GGZ Zvw&#x2019;, de aanlevering van de onder 4 bedoelde MDS-gegevens aan DIS achterwege zal laten.</al>
+          </li>
+        </lijst>
+        <al>PLAATS: .....</al>
+        <al>DATUM: .....</al>
+        <table colsep="0" frame="none" pgwide="1" rowsep="0" tabstyle="tekst">
+          <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="tekst">
+            <colspec colname="col1" colnum="1" colwidth="265*"/>
+            <colspec colname="col2" colnum="2" colwidth="265*"/>
+            <tbody valign="top">
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Handtekening cli&#xEB;nt</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Handtekening zorgaanbieder</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>.....</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>.....</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </divisie>
+    </bijlage>
+  </regeling>
+</wetgeving>
+  	

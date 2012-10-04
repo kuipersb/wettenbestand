@@ -1,0 +1,2908 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0014538" dtdversie="2.0" id="267119" soort="ministeriele-regeling" xml:lang="nl"> 
+   
+   
+   
+  <intitule>Regeling identificatie en registratie van dieren</intitule> 
+   
+  <regeling> 
+	 <aanhef> 
+		<wie>De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,</wie> 
+		<considerans> 
+		  <considerans.al bevat="grondslag">Gelet op titel I en III, van
+			 <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening (EG) nr. 1760/2000</extref> van het Europees Parlement en de Raad van de
+			 Europese Unie van 17 juli 2000 (PbEG L 204) tot vaststelling van een
+			 identificatie- en registratieregeling voor runderen en inzake de etikettering
+			 van rundvlees en rundvleesproducten en tot intrekking van <extref doc="" label="verordening" reeks="Celex" compleet="nee">Verordening (EG) nr.
+			 820/97</extref> van de Raad; op <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening (EG) nr. 2629/97</extref> van de Commissie van de
+			 Europese Gemeenschappen van 29 december 1997 houdende uitvoeringsbepalingen van
+			 <extref doc="" label="verordening" reeks="Celex" compleet="nee">Verordening (EG) nr. 820/97</extref> van de Raad inzake oormerken, bedrijfsregisters en
+			 paspoorten overeenkomstig de identificatie- en registratieregeling voor
+			 runderen (PbEG L 354); op <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening (EG) nr. 494/98</extref> van de Commissie van de
+			 Europese Gemeenschappen van 27 februari 1998 houdende uitvoeringsbepalingen
+			 voor <extref doc="" label="verordening" reeks="Celex" compleet="nee">Verordening (EG) nr. 820/97</extref> van de Raad wat de toepassing van de minimale
+			 administratieve sancties in het kader van de identificatie- en
+			 registratieregeling voor runderen betreft (PbEG L 060); op <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr.
+			 64/432/EEG</extref> van de Raad van de Europese Gemeenschappen van 26 juni 1964, inzake
+			 veterinairrechtelijke vraagstukken op het gebied van het intracommunautair
+			 handelsverkeer in runderen en varkens (PbEG L 121); op <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 92/102/EEG</extref>
+			 van de Raad van de Europese Gemeenschappen van 27 november 1992 met betrekking
+			 tot de identificatie en de registratie van dieren (PbEG L 355); op beschikking
+			 nr. 2000/678/EG van de Commissie van de Europese Gemeenschappen van 23 oktober
+			 2000 houdende vaststelling van uitvoeringsbepalingen inzake de registratie van
+			 bedrijven in nationale gegevensbanken voor varkens, zoals bedoeld in <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn
+			 64/432/EEG</extref> van de Raad (PbEG L 281);</considerans.al> 
+		  <considerans.al bevat="grondslag">Gelet op de
+			 <extref status="actief" doc="1.0:v:BWBR0005662&amp;artikel=105" compleet="nee">artikelen 105</extref> en
+			 <extref status="actief" doc="1.0:v:BWBR0005662&amp;artikel=107" compleet="nee">107 van de Gezondheids- en welzijnswet
+			 voor dieren</extref> en op <extref status="actief" doc="1.0:v:BWBR0009019&amp;artikel=3" compleet="nee">artikel
+			 3 van het Besluit identificatie en registratie van
+			 dieren</extref>;</considerans.al> 
+		</considerans> 
+		<afkondiging> 
+		  <al>Besluit:</al> 
+		</afkondiging> 
+	 </aanhef> 
+	 <regeling-tekst> 
+		<paragraaf> 
+		  <kop> 
+			 <label>&#xA7;</label><nr>1</nr><titel>Begripsbepalingen </titel> 
+		  </kop> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">1</nr> 
+			 </kop> 
+			 <al>In deze regeling wordt verstaan onder:</al> 
+			 <lijst level="single" nr-sluiting="." start="a" type="expliciet"> 
+				<li><li.nr>a.</li.nr><al><extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening 1760/2000</extref>: <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening (EG) nr. 1760/2000</extref> van het Europees Parlement en de Raad van de Europese Unie van 17 juli 2000 tot vaststelling van een identificatie- en registratieregeling voor runderen en inzake de etikettering van rundvlees en rundvleesproducten en tot intrekking van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening (EG) nr. 820/97</extref> van de Raad van de Europese Unie (PbEG L 204);</al></li><li> 
+				  <li.nr>b.</li.nr> 
+				  <al> <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening 911/2004</extref>: <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening (EG) nr. 911/2004</extref> van de Commissie van de Europese Gemeenschappen van 29 april 2004 tot uitvoering van <extref doc="" label="verordening" reeks="Celex" compleet="nee">Verordening (EG) nr. 1760/2000</extref> van het Europees Parlement en de Raad wat betreft oormerken, paspoorten en bedrijfsregisters (PbEU L 163);</al> 
+				</li> 
+				<li> 
+				  <li.nr>c.</li.nr> 
+				  <al> <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening 494/98</extref>: <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening (EG) nr. 494/98</extref> van de
+					 Commissie van de Europese Gemeenschappen van 27 februari 1998 houdende
+					 uitvoeringsbepalingen voor <extref doc="" label="verordening" reeks="Celex" compleet="nee">Verordening (EG) nr. 820/97</extref> van de Raad wat de
+					 toepassing van de minimale administratieve sancties in het kader van de
+					 identificatie- en registratieregeling voor runderen betreft (PbEG L 060);</al> 
+				</li> 
+				<li><li.nr>d.</li.nr><al><extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening 21/2004</extref>: <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening (EG) nr. 21/2004</extref> van de Raad van de Europese Unie van 17 december 2003 tot vaststelling van een identificatie- en registratieregeling voor schapen en geiten en tot wijziging van <extref doc="" label="verordening" reeks="Celex" compleet="nee">Verordening (EG) nr. 1782/2003</extref> en de <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijnen 92/102/EEG</extref> en <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">64/432/EEG</extref> (PbEU L 5);</al></li><li> 
+				  <li.nr>e.</li.nr> 
+				  <al> <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn 64/432/EEG</extref>: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 64/432/EEG</extref> van de Raad
+					 van de Europese Gemeenschappen van 26 juni 1964, inzake veterinairrechtelijke
+					 vraagstukken op het gebied van het intracommunautair handelsverkeer in runderen
+					 en varkens (PbEG L 121);</al> 
+				</li> 
+				<li><li.nr>f. </li.nr><al>richtlijn 88/661/EEG: richtlijn nr. 88/661/EEG van de Raad van de Europese Gemeenschappen van 19 december 1988 betreffende de zo&#xF6;technische normen die gelden voor fokvarkens (PbEG L 382);</al></li><li> 
+				  <li.nr>g.</li.nr> 
+				  <al> beschikking 2000/678/EG: beschikking nr. 2000/678/EG van de
+					 Commissie van de Europese Gemeenschappen van 23 oktober 2000 houdende
+					 vaststelling van uitvoeringsbepalingen inzake de registratie van bedrijven in
+					 nationale gegevensbanken voor varkens, zoals bedoeld in <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn 64/432/EEG</extref>
+					 van de Raad (PbEG L 281);</al> 
+				</li> 
+				<li>
+                           <li.nr>h.</li.nr>
+                           <al>beschikking
+2006/968/EG: beschikking 2006/968/EG van de Commissie van
+15&#xA0;december 2006 tot uitvoering van Verordening (EG) nr. 21/2004
+van de Raad wat betreft richtsnoeren en procedures voor de
+elektronische identificatie van schapen en geiten (PbEU L
+401);</al>
+                        </li><li> 
+				  <li.nr>i.</li.nr> 
+				  <al> besluit: <extref status="actief" doc="1.0:v:BWBR0009019" compleet="nee">Besluit
+					 identificatie en registratie van dieren</extref>;</al> 
+				</li> 
+				<li> 
+				  <li.nr>j.</li.nr> 
+				  <al> minister: Minister
+van Economische Zaken, Landbouw en
+Innovatie;</al> 
+				</li> 
+				<li> 
+				  <li.nr>k.</li.nr> 
+				  <al> ministerie: Ministerie van Landbouw, Natuur en
+					 Voedselkwaliteit;</al> 
+				</li> 
+				<li> 
+				  <li.nr>l.</li.nr> 
+				  <al> VWA: Voedsel en Waren Autoriteit;</al> 
+				</li> 
+				<li> 
+				  <li.nr>m.</li.nr> 
+				  <al><redactie type="vervanging">vervallen;</redactie></al></li> 
+				<li> 
+				  <li.nr>n.</li.nr> 
+				  <al> rund: dier dat behoort tot de familie der Bovidae en het
+					 geslacht Bos, met inbegrip van de soorten Bison bison en Bubalus bubalus;</al> 
+				</li> 
+				<li> 
+				  <li.nr>o.</li.nr> 
+				  <al> varken: dier behorende tot de familie der Suidae;</al> 
+				</li> 
+				<li> 
+				  <li.nr>p.</li.nr> 
+				  <al> slachtvarken: varken als bedoeld in artikel 2, tweede lid,
+					 onderdeel b, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn 64/432/EEG</extref>;</al> 
+				</li> 
+				<li> 
+				  <li.nr>q.</li.nr> 
+				  <al> schaap: dier dat behoort tot de familie der Bovidae en het
+					 geslacht Ovis;</al> 
+				</li> 
+				<li> 
+				  <li.nr>r.</li.nr> 
+				  <al> geit: dier dat behoort tot de familie der Bovidae en het
+					 geslacht Capra;</al> 
+				</li> 
+				<li> 
+				  <li.nr>s.</li.nr> 
+				  <al> dieren: runderen, varkens, slachtvarkens, schapen en
+					 geiten;</al> 
+				</li> 
+				<li> 
+				  <li.nr>t.</li.nr> 
+				  <al> vervallen;</al> 
+				</li> 
+				<li> 
+				  <li.nr>u.</li.nr> 
+				  <al> vervallen;</al> 
+				</li> 
+				<li>
+                           <li.nr>v.</li.nr>
+                           <al>
+                              <nadruk type="cur">bedrijf:</nadruk> op &#xE9;&#xE9;n locatie op het Nederlands grondgebied gelegen:</al>
+                           <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                              <li>
+                                 <al>bedrijf als bedoeld in artikel 2, tweede gedachtestreepje, van verordening 1760/2000, voor zover dit begrip betrekking heeft op runderen;</al>
+                              </li>
+                              <li>
+                                 <al>bedrijf als bedoeld in artikel 2, onderdeel b, van richtijn 2008/71/EG, voor zover dit begrip betrekking heeft op varkens, of</al>
+                              </li>
+                              <li>
+                                 <al>bedrijf als bedoeld in artikel 2, onderdeel b, van verordening 21/2004, voor zover dit begrip betrekking heeft op schapen of geiten;</al>
+                              </li>
+                           </lijst>
+                        </li> 
+				<li> 
+				  <li.nr>w.</li.nr> 
+				  <al> merk: merkteken dat dient ter identificatie van een dier;</al> 
+				</li> 
+				<li> 
+				  <li.nr>x.</li.nr> 
+				  <al> merken: het identificeren van een dier met een merk;</al> 
+				</li> 
+				<li> 
+				  <li.nr>y.</li.nr> 
+				  <al> hermerken: een dier dat het oorspronkelijke merk verloren
+					 heeft, opnieuw voorzien van een merk;</al> 
+				</li> 
+				<li> 
+				  <li.nr>z.</li.nr> 
+				  <al> gezondheidscertificaat: een geldig, volledig ingevuld,
+					 gedagtekend en ondertekend certificaat als bedoeld in artikel 5 van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn
+					 64/432/EEG</extref>, als bedoeld in artikel 9 van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 91/68/EEG</extref> van de Raad
+					 van de Europese Gemeenschappen van 28 januari 1991 inzake veterinairrechtelijke
+					 voorschriften voor het intracommunautaire handelsverkeer in schapen en geiten
+					 (PbEG L 046), ofwel als bedoeld in artikel 11 van
+richtlijn nr. 2004/68/EG van de Raad van de Europese Unie van
+26&#xA0;april 2004 tot vaststelling van veterinairrechtelijke
+voorschriften voor de invoer in en de doorvoer via de Gemeenschap van
+bepaalde levende hoefdieren, tot wijziging van de Richtlijnen
+90/426/EEG en 92/65/EEG en tot intrekking van Richtlijn 72/462/EEG
+(PbEU L
+139);</al> 
+				</li> 
+				<li> 
+				  <li.nr>aa.</li.nr> 
+				  <al> bestemmingsadres: het in het gezondheidscertificaat vermelde
+					 adres van bestemming;</al> 
+				</li> 
+				 
+				<li> 
+				  <li.nr>bb.</li.nr> 
+				  <al><redactie type="vervanging">vervallen;</redactie></al></li><li> 
+				  <li.nr>cc.</li.nr> 
+				  <al> lidstaat: lidstaat van de Europese Unie, niet zijnde
+					 Nederland;</al> 
+				</li> 
+				<li> 
+				  <li.nr>dd.</li.nr> 
+				  <al> derde land: land, niet zijnde Nederland en niet zijnde een
+					 lidstaat;</al> 
+				</li> 
+				<li> 
+				  <li.nr>ee.</li.nr> 
+				  <al> UBN: door de minister toegewezen uniek bedrijfsnummer als
+					 bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=3">artikel 3, eerste
+					 lid</intref>;</al> 
+				</li> 
+				<li>
+                           <li.nr>ff.</li.nr>
+                           <al>
+                              categorie
+1-verwerkingsbedrijf: een bedrijf dat
+overeenkomstig artikel 24, eerste lid, onderdeel a, van verordening
+(EG) nr. 1069/2009 van het Europees Parlement en de Raad van 21 oktober
+2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor
+menselijke consumptie bestemde dierlijke bijproducten en afgeleide
+producten en tot intrekking van Verordening (EG) nr. 1774/2002, is
+erkend om categorie 1-materiaal te
+verwerken;</al></li> 
+				<li>
+                           <li.nr>gg.</li.nr>
+                           <al>
+                              categorie
+2-verwerkingsbedrijf:  een bedrijf dat
+overeenkomstig artikel 24, eerste lid, onderdeel a, van verordening
+(EG) nr. 1069/2009 van het Europees Parlement en de Raad van
+21&#xA0;oktober 2009 tot vaststelling van gezondheidsvoorschriften
+inzake niet voor menselijke consumptie bestemde dierlijke bijproducten
+en afgeleide producten en tot intrekking van Verordening (EG) nr.
+1774/2002, is erkend om categorie 2-materiaal te
+verwerken;</al>
+                        </li>
+              <li>
+                <li.nr>hh.</li.nr>
+                <al>relatienummer: uniek nummer dat door Dienst Regelingen van het ministerie aan een houder van dieren is toegekend;</al>
+              </li><li> 
+				  <li.nr>ii.</li.nr> 
+				  <al> verhandelen: het voorhanden of in voorraad hebben,
+					 afleveren, te koop aanbieden, kopen, vervreemden, afvoeren en aanvoeren;</al> 
+				</li><li>
+              <li.nr>jj.</li.nr>
+              <al>conventioneel merk: merk, niet zijnde een elektronisch merk;</al>
+            </li>
+            <li>
+              <li.nr>kk.</li.nr>
+              <al>elektronisch merk: merk voorzien van elektronische transponder,
+geplaatst in een oormerk, maagbolus, injectaat of
+pootband;</al></li>
+            <li>
+              <li.nr>ll.</li.nr>
+              <al>ommerken: een dier voorzien van een ander merk overeenkomstig <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=38">artikel 38</intref>;</al>
+            </li><li>
+                           <li.nr>mm.</li.nr>
+                           <al>
+                              <nadruk type="cur">richtlijn 92/102/EEG:</nadruk> richtlijn nr.&#xA0;92/102/EEG van de Raad van de Europese Gemeenschappen van 27&#xA0;november 1992 met betrekking tot de identificatie en registratie van dieren (PbEG L 355);</al>
+                        </li>
+                        <li>
+                           <li.nr>nn.</li.nr>
+                           <al>
+                              <nadruk type="cur">richtlijn 2008/71/EG:</nadruk> richtlijn nr.&#xA0;2008/71/EG van de Raad van de Europese Unie van 15&#xA0;juli 2008 met betrekking tot de identificatie en registratie van varkens (PbEU L 213);</al>
+                        </li><li>
+                           <li.nr>oo.</li.nr>
+                           <al>
+                              <nadruk type="cur">stallijst:</nadruk> overzicht
+van alle op een bepaald moment onder een UBN in het I&amp;R-systeem
+geregistreerde runderen, schapen of geiten en van oormerken die op dat
+moment op dat UBN in voorraad
+zijn;</al>
+                        </li>
+                        <li>
+                           <li.nr>pp.</li.nr>
+                           <al>
+                              <nadruk type="cur">bedrijfsregister:</nadruk> door
+de houder op zijn bedrijf bij te houden register, bedoeld in artikel 5,
+eerste lid, van verordening 21/2004 voor wat betreft schapen en geiten
+of zoals bedoeld in artikel&#xA0;7, eerste lid, eerste
+gedachtestreepje, van verordening 1760/2000 voor wat betreft
+runderen;</al>
+                        </li>
+                        <li>
+                           <li.nr>qq.</li.nr>
+                           <al>
+                              <nadruk type="cur">wet:</nadruk> Gezondheids-
+en welzijnswet voor
+dieren;</al>
+                        </li>
+                        <li>
+                           <li.nr>rr.</li.nr>
+                           <al>
+                              <nadruk type="cur">I&amp;R-systeem:</nadruk> door
+de bevoegde autoriteit bijgehouden, gecentraliseerd en gecomputeriseerd
+gegevensbestand als bedoeld in artikel&#xA0;5 van verordening 1760/2000
+of artikel&#xA0;5 van verordening
+21/2004.</al>
+                        </li></lijst> 
+		  </artikel> 
+		</paragraaf> 
+		<paragraaf> 
+		  <kop> 
+			 <label>&#xA7;</label><nr>2</nr><titel>Registratie van houders van dieren
+				</titel> 
+		  </kop> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">2</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>De houder van dieren meldt zich binnen 3 werkdagen te rekenen vanaf de dag na de dag waarop hij dieren is gaan houden aan bij de
+				  minister.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">2</lidnr> 
+				 
+			 <al>De aanmelding, bedoeld in het eerste lid, geschiedt telefonisch of via het internet bij de Dienst regelingen van het ministerie.</al></lid> 
+			 <lid> 
+				<lidnr status="officieel">3</lidnr> 
+				 
+			 <al>Bij de aanmelding, bedoeld in het eerste lid, verstrekt de houder de volgende gegevens:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+						<li> <li.nr>a.</li.nr> 
+						  <al>naam, adres en woonplaats van de houder;</al> 
+						</li> 
+						<li> <li.nr>b.</li.nr> 
+						  <al>voor zover de houder een natuurlijke persoon is, de geboortedatum en het geslacht van de houder;</al> 
+						</li> 
+						<li> <li.nr>c.</li.nr> 
+						  <al>voor zover de houder een rechtspersoon betreft, de datum van oprichting en het inschrijfnummer van de houder bij de Kamer van Koophandel en Fabrieken;</al> 
+						</li> 
+						<li> <li.nr>d.</li.nr> 
+						  <al>adres van het bedrijf waar de dieren worden gehouden;</al> 
+						</li> 
+						<li> <li.nr>e.</li.nr> 
+						  <al>de gehouden diersoorten;</al> 
+						</li> 
+						<li> <li.nr>f.</li.nr> 
+						  <al>voor zover de houder varkens houdt, de gegevens, bedoeld in artikel 1, tweede lid, onderdeel a en d, van beschikking 2000/678/EG.</al> 
+						</li> 
+					 </lijst></lid><lid><lidnr status="officieel">4</lidnr><al>Na de aanmelding, bedoeld in het eerste lid, worden de gegevens die de houder op grond van het derde lid heeft gemeld geregistreerd in een gecomputeriseerd gegevensbestand.</al></lid><lid><lidnr status="officieel">5</lidnr><al>Voor zover op een bedrijf &#xE9;&#xE9;n of meer varkens worden gehouden, zijn van het bedrijf in het computeriseerde gegevensbestand, bedoeld in het vierde lid, tevens de gegevens, bedoeld in artikel 1, eerste lid, onderdeel e, van beschikking 2000/678/EG en gegevens over de oormerkafgifte opgenomen.</al></lid> 
+		  <lid> 
+					 <lidnr status="officieel">6</lidnr> 
+					 <al>Voor zover op een bedrijf &#xE9;&#xE9;n of meer schapen of geiten worden gehouden, zijn van het bedrijf in het gecomputeriseerde gegevensbestand, bedoeld in het vierde lid, tevens de
+gegevens, bedoeld in deel D, onderdeel 1, punten b tot en met e en g,
+van de bijlage bij <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening 21/2004</extref> opgenomen.</al> 
+				  </lid><lid><lidnr status="officieel">7</lidnr><al>De ingevolge het derde lid verstrekte gegevens kunnen mede worden gebruikt voor de kwaliteitsbeoordeling van een PRTR-verslag, bedoeld in artikel 9, tweede lid, van de EG-verordening PRTR.</al></lid></artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">3</nr> 
+			 </kop> 
+			 <lid> <lidnr status="officieel">1</lidnr> 
+					 <al>De minister bevestigt de aanmelding, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=2">artikel 2</intref>, onder vermelding van het ter identificatie van het bedrijf toegekende UBN en de gegevens die de houder op grond van <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=2">artikel 2, derde lid</intref>, heeft gemeld.</al> 
+				  </lid> 
+				  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">4</nr> 
+			 </kop> 
+			 <lid><lidnr status="officieel">1</lidnr><al>Van iedere wijziging van de gegevens, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=2">artikel&#xA0;2, derde lid</intref>,
+				doet de houder binnen
+30&#xA0;dagen nadat deze wijziging zich heeft voorgedaan
+				opgave onder vermelding van het UBN van het betrokken bedrijf.</al> 
+		  </lid><lid><lidnr status="officieel">2</lidnr><al>Van
+iedere wijziging van de gegevens, bedoeld in deel D, onderdeel 1,
+punten b tot en met e en g, van de bijlage bij verordening 21/2004 die
+ingevolge <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=2">artikel&#xA0;2, zesde lid</intref>, in het gecomputeriseerde
+gegevensbestand zijn opgenomen, doet de houder van schapen en geiten
+binnen 30&#xA0;dagen nadat deze wijziging zich heeft voorgedaan opgave
+onder vermelding van het UBN van het betrokken
+bedrijf.</al></lid><lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Bij wijziging van de locatie van het bedrijf wordt een nieuwe aanmelding als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=2">artikel 2</intref> gedaan. </al>
+                     </lid></artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr>5</nr> 
+			 </kop> 
+			 <al>De gegevens, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=2">artikel 2, tweede lid</intref>, worden in het gecomputeriseerd
+				gegevensbestand bewaard tot drie jaar nadat de houder ingevolge
+				<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=4">artikel 4</intref> opgave heeft gedaan
+				dat hij de betrokken diersoort niet meer houdt. </al> 
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">6</nr> 
+			 </kop> 
+			 <al>De houder bewaart een kopie van de bevestiging, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=3">artikel 3</intref>, tot 3 jaar nadat het laatste dier van het bedrijf is
+				afgevoerd. </al> 
+		  </artikel> 
+		   
+		</paragraaf> 
+		<paragraaf> 
+		  <kop> 
+			 <label>&#xA7;</label><nr status="officieel">3</nr><titel status="officieel">Merken </titel> 
+		  </kop> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">8</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>Het merk waarmee runderen ingevolge artikel 4 van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening 1760/2000</extref> worden ge&#xEF;dentificeerd, is een oormerk dat voldoet aan de artikelen 1, 2 en 3 en in voorkomend geval artikel 4 van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening 911/2004</extref> en voor zover het rund in Nederland is geboren, aan de eisen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12a">artikel 12a</intref>.</al> 
+			 </lid> 
+			 <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Het
+merk waarmee varkens worden ge&#xEF;dentificeerd, is het door de
+minister toegelaten oormerk, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12k">artikel 12k</intref>, dat voldoet aan de
+eisen van <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12l">artikel 12l, tweede
+lid</intref>.</al>
+                     </lid> 
+			 <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>In
+afwijking van het tweede lid, is het merk waarmee varkens als bedoeld
+in artikel&#xA0;1, onderdeel&#xA0;a of b, van richtlijn 88/661/EEG
+worden ge&#xEF;dentificeerd het merk, bedoeld in het tweede lid, of een
+tatoeage die voldoet aan de eisen van
+<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12m">artikel&#xA0;12m</intref>.</al>
+                     </lid><lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Het
+merk waarmee slachtvarkens worden gemerkt, is het door de minister
+toegelaten slachtmerk als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12k">artikel&#xA0;12k</intref>, dat voldoet aan
+de eisen van <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12l">artikel 12l, tweede
+lid</intref>.</al>
+                     </lid> 
+			 <lid> 
+					 <lidnr status="officieel">5</lidnr> 
+					 <al>Het merk waarmee schapen en geiten ingevolge artikel 4 van verordening 21/2004 worden ge&#xEF;dentificeerd voldoet aan <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel 12e</intref>.</al> 
+				  </lid> 
+			 </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">9</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>De merken worden uitsluitend op bestelling aan de houder
+				  verstrekt door de minister of door een leverancier die door de minister
+als leverancier van merken en slachtmerken is
+geregistreerd.</al> 
+			 </lid> 
+			 <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De
+bestelling, bedoeld in het eerste lid, geschiedt, voor zover de
+bestelling betrekking heeft
+op:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>runderen,
+elektronisch bij Dienst Regelingen van het
+ministerie;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>schapen en geiten en
+varkens, rechtstreeks bij de leverancier bedoeld in het eerste
+lid.</al>
+                           </li>
+                        </lijst>
+                     </lid> 
+			 <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>De
+leverancier, bedoeld in het eerste lid, voldoet aan de volgende
+eisen:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>de
+leverancier houdt een inzichtelijke administratie bij, waaruit per UBN
+of relatienummer, per besteldatum, de hoeveelheid bestelde en de
+hoeveelheid geleverde merken, de hoeveelheid geleverde slachtmerken
+blijkt alsmede, voor zover het merken betreft als
+bedoeld:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>&#x2013;</li.nr>
+                                    <al>in
+<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=8">artikel 8, eerste lid</intref>, de op de geleverde merken vermelde
+identificatiecode, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=14">artikel 14, onderdeel
+b</intref></al>
+                                 </li>
+                                 <li>
+                                    <li.nr>&#x2013;</li.nr>
+                                    <al>in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=8">artikel 8, vijfde lid</intref>, de
+op de geleverde merken vermelde identificatiecode, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel
+12e</intref></al>
+                                 </li>
+                              </lijst>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>de leverancier
+levert de merken uitsluitend aan de houder indien deze de merken heeft
+besteld overeenkomstig het tweede
+lid;</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>de leverancier levert aan een
+houder geen merken en slachtmerken voor varkens die niet zijn voorzien
+van het UBN van het betrokken bedrijf,
+en</al>
+                           </li>
+                           <li>
+                              <li.nr>d.</li.nr>
+                              <al>de leverancier verstrekt,
+voorzover het betrekking heeft op merken en slachtmerken voor varkens,
+maandelijks aan de minister per UBN een overzicht van het aantal
+bestelde en het aantal geleverde merken, onder vermelding van de op de
+geleverde merken vermelde
+gegevens.</al>
+                           </li>
+                        </lijst>
+                     </lid> 
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">10</nr> 
+			 </kop> 
+			 <lid> 
+					 <lidnr status="officieel">1</lidnr> 
+					 <al>Het is verboden dieren te merken en te hermerken.</al> 
+				  </lid> 
+				  <lid> 
+					 <lidnr status="officieel">2</lidnr> 
+					 <al>Het verbod, bedoeld in het eerste lid, geldt niet, indien het merken, of hermerken van een rund met &#xE9;&#xE9;n oormerk, gebeurt door:</al> 
+					 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+						<li> 
+						  <li.nr>a.</li.nr> 
+						  <al>de houder van de te merken dieren, tenzij deze een vervoerder van runderen, een eigenaar of exploitant van een runderverzamelcentrum, of een slachthuis voor runderen is;</al> 
+						</li> 
+						<li> 
+						  <li.nr>b.</li.nr> 
+						  <al>een derde die daartoe door de houder van het te merken dier is aangewezen;</al> 
+						</li> 
+						<li> 
+						  <li.nr>c.</li.nr> 
+						  <al>een ambtenaar van de Algemene Inspectiedienst.</al> 
+						</li> 
+					 </lijst> 
+				  </lid> 
+				  <lid> 
+					 <lidnr status="officieel">3</lidnr> 
+					 <al>Ingeval een rund twee merken heeft verloren, gebeurt het hermerken onder toezicht van een ambtenaar van de Algemene Inspectiedienst van het Ministerie.</al> 
+				  </lid> 
+			 <lid> 
+				<lidnr status="officieel">4</lidnr> 
+				<al>Het vervangen van een merk waarop niet de letters `NL' staan
+				  vermeld, door een merk als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=8">artikel 8,
+				  eerste lid</intref>, gebeurt onder toezicht van ambtenaren van de Algemene Inspectiedienst van het ministerie.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">5</lidnr> 
+				<al>De minister kan een houder de bevoegdheid tot het merken of het
+				  hermerken ontzeggen indien de houder naar het oordeel van de minister niet
+				  langer handelt in overeenstemming met deze regeling. Indien de houder de
+				  bevoegdheid is ontzegd, levert hij alle nog niet aangebrachte merken binnen 3 werkdagen te rekenen vanaf de dag na de dag waarop de bevoegdheid is ontzegd
+				  in bij het ministerie. </al> 
+			 </lid> 
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">11</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>De houder draagt er zorg voor dat de merken aan of in de dieren die hij houdt, bevestigd, onderscheidenlijk aanwezig blijven.</al> 
+			 </lid> 
+			  
+			 <lid> 
+				<lidnr status="officieel">2</lidnr> 
+				<al>Indien een merk voor runderen, overeenkomstig de toestemming,
+				  bedoeld in <extref status="actief" doc="1.0:v:BWBR0005662&amp;artikel=104" compleet="nee">artikel 104, tweede lid, van
+				  de wet</extref>, is verwijderd, meldt de houder de identificatiecode, bedoeld in
+				  <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=14">artikel 14, onderdeel b</intref>, van
+				  dat merk aan de minister.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">3</lidnr> 
+				<al>Het is verboden een merk te hergebruiken </al> 
+			 </lid> 
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">12</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>Het is verboden zonder toestemming van de minister merken aan
+				  derden te verstrekken of merken van derden aan te nemen of voor handen te
+				  hebben.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">2</lidnr> 
+				<al>Het is de houder verboden:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>andere dieren dan die hij houdt te merken;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>dieren die hij houdt te merken met merken die blijkens de op het merk vermelde gegevens door de minister aan derden ter beschikking zijn gesteld, of:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>ingeval van runderen, met merken die niet afkomstig zijn van een leverancier als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12a">artikel 12a, onderdeel b</intref>, en</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>ingeval van varkens met merken die niet door de minister of een leverancier als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=9">artikel 9, eerste lid</intref>, ter beschikking zijn gesteld;</al>
+                  </li>
+                <li><li.nr>3&#xB0;.</li.nr><al>ingeval
+van schapen en geiten, met merken die niet afkomstig zijn van een
+leverancier als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12f">artikel&#xA0;12f, eerste lid, onderdeel
+c</intref>.</al></li></lijst>
+              </li>
+            </lijst> 
+			 </lid> 
+		  <lid><lidnr status="officieel">3</lidnr><al>In afwijking van het eerste lid, is het de houder van
+runderen, schapen of geiten
+toegestaan de in dat lid bedoelde handelingen te verrichten, indien de houder die de merken verstrekt, voorafgaand aan die verstrekking melding maakt van de beoogde verstrekking bij Dienst Regelingen van het ministerie, en de houder die de merken ontvangt, binnen 3 werkdagen, te rekenen vanaf de dag na de dag van ontvangst, melding maakt van de ontvangst bij Dienst Regelingen van het ministerie.</al></lid><lid><lidnr status="officieel">4</lidnr><al>De meldingen, bedoeld in het derde lid, geschieden per telefoon via het daartoe ingerichte voice response systeem, of elektronisch.</al></lid><lid><lidnr status="officieel">5</lidnr><al>In afwijking van het tweede lid, onderdeel b, is het de houder van runderen, schapen of geiten toegestaan de runderen
+onderscheidenlijk schapen of
+geiten te merken met merken die overeenkomstig het eerste lid door een andere houder zijn verstrekt, nadat de meldingen, bedoeld in het derde lid, zijn gedaan.</al></lid></artikel> 
+		<sub-paragraaf status="goed"><kop><label>&#xA7;</label><nr status="officieel">3.1</nr><titel status="officieel">Merken van runderen</titel></kop><artikel status="goed">
+                <kop>
+                  <label>Artikel</label><nr status="officieel">12a</nr>
+                </kop>
+              <al>De eisen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=8">artikel 8, eerste lid</intref>, zijn:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>het model van het merk, dan wel de merken alsmede de wijzigingen daarvan zijn goedgekeurd door de minister;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>het merk is afkomstig van een door de minister geregistreerde leverancier, en</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>op het merk is een door de minister afgegeven identificatiecode aangebracht.</al>
+                </li>
+              </lijst></artikel>
+              
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label><nr status="officieel">12b</nr>
+                </kop>
+              <lid><lidnr status="officieel">1</lidnr><al>De aanvraag tot goedkeuring van een model van het merk, dan wel merken, en de wijzigingen daarvan, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12a">artikel 12a, eerste lid, onderdeel a</intref>, geschiedt schriftelijk in papieren versie en wordt ingediend bij Dienst Regelingen van het ministerie. De aanvraag gaat vergezeld van het model van het merk, dan wel de merken, waarvoor goedkeuring wordt aangevraagd.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Een model van het merk, dan wel merken en de wijzigingen daarvan worden door de minister goedgekeurd indien:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>het merk, dan wel de merken voldoen aan de artikelen 1, 2, 3 en in voorkomend geval artikel 4 van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening 911/2004</extref>, en</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>het merk, dan wel de merken een gele kleur hebben.</al>
+                </li>
+              </lijst></lid><lid><lidnr status="officieel">3.</lidnr><al>Het is toegestaan op een merk ter aanvulling op de gegevens die ingevolge artikel 1 en in voorkomend geval artikel 4 van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening 911/2004</extref> op het merk worden vermeld, een streepjescode als bedoeld in artikel 1, derde lid, van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening 911/2004</extref>, aan te brengen.</al></lid></artikel>
+              
+              
+              
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label><nr status="officieel">12c</nr>
+                </kop>
+              <lid><lidnr status="officieel">1</lidnr><al>Ingeval een model van een merk, dan wel de merken door de minister is goedgekeurd, wordt de leverancier van dat merk geregistreerd door de minister, voor zover de betreffende leverancier niet reeds geregistreerd is.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De minister haalt de registratie, bedoeld in het eerste lid, door, indien:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de leverancier aan een houder van runderen een merk heeft geleverd waarvan het model niet overeenkomstig <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12b">artikel 12b, tweede lid</intref>, is goedgekeurd door de minister;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de leverancier niet voldoet aan <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=9">artikel 9, derde lid, onderdelen a en c</intref>.</al>
+                </li>
+              </lijst></lid><lid><lidnr status="officieel">3</lidnr><al>De doorhaling van de registratie, bedoeld in het tweede lid, wordt ongedaan gemaakt, indien de desbetreffende leverancier ten genoegen van de minister heeft aangetoond dat hij overeenkomstig de bepalingen van deze regeling zal handelen.</al></lid></artikel>
+              
+              
+              
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label><nr status="officieel">12d</nr>
+                </kop><al>De bestelling van merken voor runderen geschiedt, voor zover de bestelling bij de minister geplaatst wordt, per telefoon via het daartoe ingerichte voice response systeem, of elektronisch.</al>
+              </artikel>
+              
+            </sub-paragraaf><sub-paragraaf status="goed"><kop><label>&#xA7;</label><nr status="officieel">3.2</nr><titel status="officieel">Merken van schapen en geiten</titel></kop><artikel status="goed">
+                <kop>
+                  <label>Artikel</label><nr status="officieel">12e</nr>
+                </kop>
+              <lid><lidnr status="officieel">1</lidnr><al>Schapen
+en geiten worden ge&#xEF;dentificeerd door middel
+van:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>&#xE9;&#xE9;n
+conventioneel merk, zijnde een oormerk, en &#xE9;&#xE9;n elektronisch
+merk, zijnde een
+oormerk;</al></li><li><li.nr>b.</li.nr><al>&#xE9;&#xE9;n conventioneel
+merk, zijnde een oormerk, en &#xE9;&#xE9;n elektronisch merk, zijnde
+een bolus;</al></li><li><li.nr>c.</li.nr><al>&#xE9;&#xE9;n
+conventioneel merk, zijnde een oormerk, en &#xE9;&#xE9;n elektronisch
+merk, zijnde een pootband, voor zover de schapen en geiten niet
+deelnemen aan het intracommunautaire
+handelsverkeer;</al></li><li><li.nr>d.</li.nr><al>&#xE9;&#xE9;n
+conventioneel merk, zijnde een oormerk, en &#xE9;&#xE9;n elektronisch
+merk, zijnde een injectaat, voor zover de schapen en geiten niet
+deelnemen aan het intracommunautaire
+handelsverkeer;</al></li><li><li.nr>e.</li.nr><al>&#xE9;&#xE9;n
+elektronisch merk, zijnde een oormerk, en &#xE9;&#xE9;n conventioneel
+merk, zijnde een
+pootband;</al></li><li><li.nr>f.</li.nr><al>&#xE9;&#xE9;n elektronisch
+merk, zijnde een oormerk, en &#xE9;&#xE9;n tatoeage voor zover de
+schapen en geiten niet deelnemen aan het intracommunautaire
+handelsverkeer;</al></li><li><li.nr>g.</li.nr><al>&#xE9;&#xE9;n
+elektronisch merk, zijnde een bolus, en &#xE9;&#xE9;n conventioneel
+merk, zijnde een
+pootband;</al></li><li><li.nr>h.</li.nr><al>&#xE9;&#xE9;n elektronisch
+merk, zijnde een bolus, en &#xE9;&#xE9;n tatoeage, voor zover de
+schapen en geiten niet deelnemen aan het intracommunautaire
+handelsverkeer, of</al></li><li><li.nr>i.</li.nr><al>een tijdelijk
+merk, ingeval de situatie, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=36">artikel&#xA0;36, vierde lid</intref>, in
+samenhang met artikel&#xA0;36, tweede lid, van toepassing
+is.</al></li></lijst></lid><lid><lidnr status="officieel">2</lidnr><al>De
+identificatiemiddelen, bedoeld in het eerste lid, onderdelen a tot en
+met e, g en i, voldoen aan de eisen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12f">artikel&#xA0;12f,
+eerste lid</intref>.</al></lid><lid><lidnr status="officieel">3</lidnr><al>De
+identificatiemiddelen, bedoeld in het eerste lid, onderdelen f en h,
+voldoen aan de eisen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12f">artikel&#xA0;12f, tweede
+lid</intref>.</al></lid></artikel>
+              
+              
+              
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label><nr status="officieel">12f</nr>
+                </kop>
+              <lid><lidnr status="officieel">1</lidnr><al>De
+eisen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e, tweede lid</intref>
+zijn:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>de
+modellen van de merken, en wijzigingen daarvan, zijn goedgekeurd door
+de Minister overeenkomstig
+<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12g">artikel&#xA0;12g</intref>;</al></li><li><li.nr>b.</li.nr><al>op de merken zijn
+de door de Minister voorgeschreven gegevens, bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12i">artikel&#xA0;12i</intref>, aangebracht;</al></li><li><li.nr>c.</li.nr><al>het
+merk is afkomstig van een door de minister geregistreerde leverancier,
+die voldoet aan de eisen, bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12h">artikel&#xA0;12h</intref>.</al></li></lijst></lid><lid><lidnr status="officieel">2</lidnr><al>De
+eisen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e, derde lid</intref>,
+zijn:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>voor
+het elektronische merk dezelfde eisen die gesteld worden aan een
+elektronisch merk ingevolge het eerste lid, met dien verstande dat deze
+eisen op een enkel merk betrekking hebben,
+en</al></li><li><li.nr>b.</li.nr><al>voor de tatoeage de eisen in
+<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12j">artikel
+12j</intref>.</al></li></lijst></lid></artikel>
+              
+              
+              
+              
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label><nr status="officieel">12g</nr>
+                </kop>
+              <lid><lidnr status="officieel">1</lidnr><al>De
+aanvraag tot goedkeuring van een model geschiedt schriftelijk en wordt
+ingediend bij de Algemeen Directeur van de Dienst Regelingen van het
+Ministerie. De schriftelijke aanvraag gaat vergezeld van de modellen
+van de merken waarvoor goedkeuring wordt
+aangevraagd.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Een
+model van een conventioneel merk wordt door de Minister goedgekeurd
+indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>het
+voldoet aan deel A, onderdelen 1 tot en met 4, van de bijlage bij
+verordening 21/2004, en</al></li><li><li.nr>b.</li.nr><al>het de
+volgende kleur
+heeft:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>1.</li.nr><al>een
+groene kleur in geval van identificatie als bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e, eerste lid, onderdelen a en
+e</intref>;</al></li><li><li.nr>2.</li.nr><al>een grijze kleur in geval van
+identificatie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e, eerste lid, onderdelen b
+en g</intref>;</al></li><li><li.nr>3.</li.nr><al>een oranje kleur in geval van
+identificatie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e, eerste lid, onderdeel
+c</intref>;</al></li><li><li.nr>4.</li.nr><al>een witte kleur in geval van
+identificatie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e, eerste lid, onderdeel
+d</intref>;</al></li><li><li.nr>5.</li.nr><al>een rode kleur ingeval van
+identificatie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e, eerste lid, onderdeel
+i</intref>.</al></li></lijst></li></lijst></lid><lid>
+<lidnr status="officieel">3</lidnr><al>Een model van een elektronisch
+merk wordt door de Minister goedgekeurd
+indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>het
+voldoet aan deel A, onderdelen 1 tot en met 4 en 6, van de bijlage bij
+verordening 21/2004;</al></li><li><li.nr>b.</li.nr><al>het voldoet aan
+de richtsnoeren en procedures die krachtens artikel&#xA0;9, eerste lid,
+van verordening 21/2004 zijn vastgesteld,
+en</al></li><li><li.nr>c.</li.nr><al>het de volgende kleur
+heeft:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>1.</li.nr><al>een
+groene kleur in geval van identificatie als bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e, eerste lid, onderdelen a, e en
+f</intref>;</al></li><li><li.nr>2.</li.nr><al>een oranje kleur in geval van
+identificatie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e, eerste lid, onderdeel
+c</intref>;</al></li><li><li.nr>3.</li.nr><al>een rode kleur in geval van
+identificatie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e, eerste lid, onderdeel
+i</intref>.</al></li></lijst></li></lijst></lid></artikel>
+              
+              
+              
+              
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label><nr status="officieel">12h</nr>
+                </kop>
+              <lid><lidnr status="officieel">1</lidnr><al>Ingeval
+een model van een merk is goedgekeurd overeenkomstig <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12g">artikel&#xA0;12g,
+tweede of derde lid</intref>, wordt de leverancier van dat merk geregistreerd
+door de Minister, voor zover de betreffende leverancier niet reeds
+geregistreerd
+is.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De
+minister haalt de registratie, bedoeld in het eerste lid, door,
+indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>de
+leverancier aan een houder van schapen of geiten een merk heeft
+geleverd waarvan het model niet overeenkomstig <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12g">artikel&#xA0;12g, tweede
+of derde lid</intref>, is goedgekeurd door de
+Minister;</al></li><li><li.nr>b.</li.nr><al>de leverancier van merken
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e, eerste lid, onderdelen a tot en met i</intref>,
+niet voldoet aan de eisen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=9">artikel&#xA0;9, vierde
+lid</intref>.</al></li></lijst></lid><lid><lidnr status="officieel">3</lidnr><al>De
+doorhaling van de registratie, bedoeld in het tweede lid, wordt
+ongedaan gemaakt, indien de desbetreffende leverancier ten genoegen van
+de Minister heeft aangetoond dat hij overeenkomstig de bepalingen van
+deze regeling zal
+handelen.</al></lid></artikel>
+              
+              
+              
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label><nr status="officieel">12i</nr>
+                </kop>
+              <lid><lidnr status="officieel">1</lidnr><al>Op
+een conventioneel merk worden, in geval van identificatie als bedoeld
+in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e, eerste lid, onderdelen a, b, c, d, e, g en i</intref>, de
+volgende gegevens
+vermeld:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>de
+letters &#x2018;NL&#x2019;;</al></li><li><li.nr>b.</li.nr><al>gevolgd
+door een door de Minister toegekende individuele code van ten hoogste
+12
+cijfers.</al></li></lijst></lid><lid><lidnr status="officieel">2</lidnr><al>Op
+een elektronisch merk worden, in geval van identificatie als bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e, eerste lid, onderdelen a, b, c, e, f, g, h en i</intref>, de
+gegevens, bedoeld in het eerste lid
+vermeld.</al></lid><lid><lidnr status="officieel">3</lidnr><al>De
+elektronische transponder in een elektronisch merk, in geval van
+identificatie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e, eerste lid, onderdelen a
+tot en met i</intref>, vermeldt bij uitlezing de volgende
+gegevens:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>de
+cijfers &#x2018;528&#x2019;;</al></li><li><li.nr>b.</li.nr><al>gevolgd
+door een door de Minister toegekende individuele code van ten hoogste
+12 cijfers, die overeenkomt met de gegevens op het elektronische merk
+waarin deze transponder is
+geplaatst.</al></li></lijst></lid><lid><lidnr status="officieel">4</lidnr><al>In
+geval van identificatie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=37">artikel&#xA0;37</intref>, voldoet het
+conventionele merk aan het eerste
+lid.</al></lid><lid><lidnr status="officieel">5</lidnr><al>Op het
+merk, bedoeld in het eerste, tweede en vierde lid, kunnen, buiten het
+deel waar de gegevens, bedoeld in het eerste en tweede lid, zijn
+aangebracht, ter aanvulling andere gegevens worden
+vermeld.</al></lid></artikel>
+              
+              <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">12j</nr>
+                     </kop>
+                     <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>De
+tatoeage bij schapen en geiten bestaat uit de letters
+&#x2018;NL&#x2019; gevolgd door het nummer als bedoeld in deel A,
+onderdeel 2, onder b, van de bijlage bij verordening 21/2004, dat
+overeenkomt met het nummer van het desbetreffende elektronische
+identificatiemiddel.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De
+tatoeage wordt aangebracht in de kleuren zwart of
+groen.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>De
+tatoeage wordt aangebracht met een daarvoor geschikte tang op een
+zodanige wijze dat de tekens goed leesbaar
+blijven.</al>
+                     </lid>
+                  </artikel></sub-paragraaf><sub-paragraaf status="goed"><kop>
+                        <label>&#xA7;</label>
+                        <nr status="officieel">3.3</nr>
+                        <titel status="officieel">Merken
+van
+varkens</titel>
+                     </kop><artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">12k</nr>
+                        </kop>
+                        <al>De
+eisen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=8">artikel 8, tweede en vierde lid</intref>,
+zijn:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>het
+model van het merk of slachtmerk alsmede de wijzigingen daarvan zijn
+goedgekeurd door de minister;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>het
+merk of slachtmerk is afkomstig van een door de minister geregistreerde
+leverancier.</al>
+                           </li>
+                        </lijst>
+                     </artikel>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">12l</nr>
+                        </kop>
+                        <lid>
+                           <lidnr status="officieel">1</lidnr>
+                           <al>De
+aanvraag tot goedkeuring van een model van het merk of slachtmerk, en
+de wijzigingen daarvan, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12k">artikel 12k, onderdeel a</intref>, geschiedt
+schriftelijk en wordt ingediend bij Dienst Regelingen van het
+ministerie. De aanvraag gaat vergezeld van het model van het merk of
+slachtmerk waarvoor goedkeuring wordt
+aangevraagd.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2</lidnr>
+                           <al>Een
+model van het merk of slachtmerk en de wijzigingen daarvan, worden door
+de minister goedgekeurd
+indien:</al>
+                           <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                              <li>
+                                 <li.nr>a.</li.nr>
+                                 <al>het
+merk of slachtmerk voldoet aan artikel 5 van de richtlijn
+92/102;</al>
+                              </li>
+                              <li>
+                                 <li.nr>b.</li.nr>
+                                 <al>het merk is vervaardigd van
+thermoplastisch kunststof en het slachtmerk van
+metaal;</al>
+                              </li>
+                              <li>
+                                 <li.nr>c.</li.nr>
+                                 <al>het slachtmerk een beugelmerk
+is;</al>
+                              </li>
+                              <li>
+                                 <li.nr>d.</li.nr>
+                                 <al>het merk een gele kleur heeft en
+het slachtmerk een metaalkleur
+heeft;</al>
+                              </li>
+                              <li>
+                                 <li.nr>e.</li.nr>
+                                 <al>op het merkdeel van het
+oormerk dat na aanbrengen van het merk direct zichtbaar is uitsluitend
+vermeld
+staat:</al>
+                                 <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                    <li>
+                                       <li.nr>&#x2013;</li.nr>
+                                       <al>de
+letters &#x2018;NL&#x2019;, gevolgd door het UBN van het bedrijf waar
+het varken geboren is, dat een minimale hoogte van 7&#xA0;millimeter en
+maximale hoogte van 10 millimeter heeft,
+en</al>
+                                    </li>
+                                    <li>
+                                       <li.nr>&#x2013;</li.nr>
+                                       <al>de letter
+&#x2018;I&amp;R&#x2019; of het onderstaande
+logo:</al>
+                                    <plaatje><illustratie bin-id="248378" display="block" formaat="png" kleur="nee" naam="92111-001" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/248378"/></plaatje></li>
+                                 </lijst></li>
+                              <li>
+                                 <li.nr>f.</li.nr>
+                                 <al>de informatie op het merk in
+zwart schrift is aangebracht;</al>
+                              </li>
+                              <li>
+                                 <li.nr>g.</li.nr>
+                                 <al>in
+&#xE9;&#xE9;n zijde van het slachtmerk, in de afmeting van 6,5 bij 3,5
+millimeter, de volgende gegevens zijn
+gestanst:</al>
+                                 <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                    <li>
+                                       <li.nr>&#x2013;</li.nr>
+                                       <al>het
+UBN van het bedrijf waarvan het varken voor de slacht wordt afgevoerd,
+en</al>
+                                    </li>
+                                    <li>
+                                       <li.nr>&#x2013;</li.nr>
+                                       <al>het logo zoals afgebeeld in
+lid 2, onder e;</al>
+                                    </li>
+                                 </lijst>
+                              </li>
+                              <li>
+                                 <li.nr>h.</li.nr>
+                                 <al>een
+slachtmerk een lengte heeft van maximaal 55 millimeter, een rond
+oormerk een diameter heeft van maximaal 30&#xA0;millimeter en bij
+oormerken met een andere vorm de afstand vanaf het hart van de
+bevestiging tot de buitenrand maximaal 25&#xA0;millimeter
+bedraagt.</al>
+                              </li>
+                           </lijst>
+                        </lid>
+                     </artikel>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">12m</nr>
+                        </kop>
+                        <lid>
+                           <lidnr status="officieel">1</lidnr>
+                           <al>De
+tatoeage van raszuivere of hybride fokvarkens bestaat uit een uniek
+door de minister verstrekt nummer dat in een voor de ambtenaren als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0005662&amp;artikel=114" compleet="nee">artikel 114, eerste en tweede lid, van de wet</extref> toegankelijk
+geautomatiseerd gegevensbestand door de stamboekhouder is verbonden met
+het UBN van het bedrijf van geboorte van het
+fokvarken.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2</lidnr>
+                           <al>De
+tatoeage wordt aangebracht in de kleuren zwart of
+groen.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">3</lidnr>
+                           <al>De
+tatoeage wordt aangebracht met een daarvoor geschikte tang op een
+zodanige wijze dat de tekens goed leesbaar
+blijven.</al>
+                        </lid>
+                     </artikel>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">12n</nr>
+                        </kop>
+                        <lid>
+                           <lidnr status="officieel">1</lidnr>
+                           <al>Ingeval
+een model van een merk of slachtmerk door de minister is goedgekeurd,
+wordt de leverancier van dat merk of slachtmerk geregistreerd door de
+minister, voor zover de leverancier niet reeds geregistreerd
+is.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2</lidnr>
+                           <al>De minister
+haalt de registratie, bedoeld in het eerste lid, door,
+indien:</al>
+                           <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                              <li>
+                                 <li.nr>a.</li.nr>
+                                 <al>de
+leverancier aan een houder van varkens een merk of slachtmerk heeft
+geleverd waarvan het model niet overeenkomstig de eisen van
+<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12l">artikel&#xA0;12l</intref> is goedgekeurd door de
+minister;</al>
+                              </li>
+                              <li>
+                                 <li.nr>b.</li.nr>
+                                 <al>de leverancier niet voldoet
+aan <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=9">artikel 9, derde lid, onderdelen a en
+c</intref>.</al>
+                              </li>
+                           </lijst>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">3</lidnr>
+                           <al>De
+doorhaling van de registratie, bedoeld in het tweede lid, wordt
+ongedaan gemaakt, indien de desbetreffende leverancier ten genoegen van
+de minister heeft aangetoond dat hij overeenkomstig de bepalingen van
+deze regeling zal
+handelen.</al>
+                        </lid>
+                     </artikel>
+                  </sub-paragraaf></paragraaf> 
+		<paragraaf> 
+		  <kop> 
+			 <label>&#xA7;</label><nr>4</nr><titel>Identificatie en registratie:
+				algemeen </titel> 
+		  </kop> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">13</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>Dieren worden ge&#xEF;dentificeerd en geregistreerd
+				  overeenkomstig:</al> 
+				<lijst level="single" nr-sluiting="." start="a" type="expliciet"> 
+				  <li> 
+					 <li.nr>a.</li.nr> 
+					 <al> titel I van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening 1760/2000</extref> en de
+						<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=14">artikelen 14 tot en met
+						23</intref> en <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=25">25</intref>,
+						indien het runderen betreft;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>b.</li.nr> 
+					 <al> de <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=28">artikelen 28 tot
+						en met 32</intref>, indien het varkens betreft;</al> 
+				  </li> 
+				  <li>
+                           <li.nr>c.</li.nr>
+                           <al>verordening 21/2004 en de <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikelen 12e</intref> en <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=34">34 tot en met 37</intref>, indien het schapen en geiten betreft. </al>
+                        </li> 
+				</lijst> 
+			 </lid> 
+			 <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>In zoverre in afwijking van het eerste lid, zijn:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>uit lidstaten afkomstige varkens ge&#xEF;dentificeerd overeenkomstig richtlijn 2008/71/EG, door middel van het in betrokken lidstaat aangebrachte identificatiemerkteken als bedoeld in artikel 5, derde lid, van richtlijn 2008/71/EG;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>uit lidstaten afkomstige schapen en geiten die geboren zijn op of voor 9&#xA0;juli 2005 ge&#xEF;dentificeerd overeenkomstig richtlijn 92/102/EEG, zoals deze gold op 8&#xA0;juli 2005, door middel van het in betrokken lidstaat aangebrachte identificatiemerkteken als bedoeld in artikel 5, derde lid, van richtlijn 92/102/EEG.</al>
+                           </li>
+                        </lijst>
+                     </lid> 
+		  </artikel> 
+		</paragraaf> 
+		<paragraaf> 
+		  <kop> 
+			 <label>&#xA7;</label><nr status="officieel">5</nr><titel status="officieel">Identificatie en registratie van
+				runderen </titel> 
+		  </kop> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">14</nr> 
+			 </kop> 
+			 <al>In deze paragraaf wordt verstaan onder:</al> 
+			 <lijst level="single" nr-sluiting="." start="a" type="expliciet"> 
+				<li> 
+				  <li.nr>a.</li.nr> 
+				  <al> I&amp;R-systeem rund: gecomputeriseerd gegevensbestand als
+					 bedoeld in artikel 5 van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening 1760/2000</extref>;</al> 
+				</li> 
+				<li> 
+				  <li.nr>b.</li.nr> 
+				  <al>identificatiecode: op het voor een rund bestemd merk vermelde
+					 identificatiecode als bedoeld in artikel 4, eerste lid, van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening
+					 1760/2000</extref>, bestaande uit de in artikel 1, tweede lid, van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening 911/2004</extref>
+					 bedoelde landcode gevolgd door maximaal twaalf cijfers, die, blijkens de in
+					 het I&amp;R-systeem rund opgenomen gegevens bij het betrokken rund behoort en
+					 aan de hand waarvan elk individueel dier kan worden ge&#xEF;dentificeerd en kan
+					 worden nagegaan op welk bedrijf het is geboren;</al> 
+				</li> 
+				<li> 
+				  <li.nr>c.</li.nr> 
+				  <al> mutatieoverzicht: overzicht van alle aangevoerde en
+					 afgevoerde runderen betreffende een UBN, zoals geregistreerd in het
+					 I&amp;R-systeem rund;</al> 
+				</li> 
+				<li> 
+				  <li.nr>d.</li.nr> 
+				  <al> stallijst: overzicht van alle op een bepaald moment onder
+					 een UBN in het I&amp;R-systeem rund geregistreerde runderen en van de oormerken
+					 die op dat moment op dat UBN in voorraad zijn;</al> 
+				</li> 
+				<li> 
+				  <li.nr>e.</li.nr> 
+				  <al>overzicht dierhistoriestatus: overzicht van ten aanzien van een bepaald rund in het I&amp;R-systeem rund geregistreerde gegevens, met inbegrip van gegevens omtrent het van kracht zijn van een verbod als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=39">artikel 39</intref> of <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=40">artikel 40</intref> en met uitzondering van gegevens omtrent de verblijfplaatsen van het rund;</al> 
+				</li> 
+				<li><li.nr>f.</li.nr><al>overzicht dierstatus: overzicht van ten aanzien van een bepaald rund in het I&amp;R-systeem rund geregistreerde gegevens, met inbegrip van gegevens omtrent het van kracht zijn van een verbod als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=39">artikel 39</intref> of <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=40">artikel 40</intref> en gegevens omtrent de verblijfplaatsen van het rund;</al></li><li> 
+				  <li.nr>g.</li.nr> 
+				  <al> paspoort: paspoort als bedoeld in
+					 <extref status="actief" doc="1.0:v:BWBR0007049&amp;artikel=3.1" compleet="nee">artikel 3.1 van de Regeling handel
+					 levende dieren en levende producten</extref>;</al> 
+				</li> 
+				<li> 
+				  <li.nr>h.</li.nr> 
+				  <al> bedrijfsregister: het door de houder op zijn bedrijf bij te
+					 houden register, bedoeld in artikel 7, eerste lid, eerste gedachtestreepje, van
+					 <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening 1760/2000</extref>;</al> 
+				</li> 
+			 <li><li.nr>i.</li.nr><al>doodgeboorte: de geboorte van een kalf na een draagtijd door de moeder van minimaal 7 maanden, waarbij het kalf op het moment van geboorte niet levend is, of niet levensvatbaar is en sterft voordat bij het kalf een merk is aangebracht.</al></li></lijst> 
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr>15</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr>1</lidnr> 
+				<al>De termijn, bedoeld in artikel 4, tweede lid, van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening
+				  1760/2000</extref>, waarbinnen de merken worden aangebracht, bedraagt 3 werkdagen vanaf
+				  de dag van geboorte.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr>2</lidnr> 
+				<al>De termijn, bedoeld in artikel 4, derde lid, van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening
+				  1760/2000</extref>, waarbinnen een uit een derde land ingevoerd rund op het
+				  bestemmingsadres, niet zijnde een slachthuis, wordt ge&#xEF;dentificeerd, bedraagt 3
+				  werkdagen vanaf de dag van aanvoer op het bestemmingsadres. </al> 
+			 </lid> 
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">16</nr> 
+			 </kop> 
+			 <al>Indien een rund &#xE9;&#xE9;n merk heeft verloren, bestelt de houder binnen 3 werkdagen te rekenen vanaf de dag na de dag waarop het merk is verloren een vervangend merk met dezelfde identificatiecode, en hermerkt hij het rund zodra het merk in zijn bezit is en in elk geval binnen 10 werkdagen nadat het verlies van het merk van een rund is geconstateerd.</al> 
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">17</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>Het I&amp;R-systeem rund wordt beheerd door de minister.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">2</lidnr> 
+				<al>Het I&amp;R-systeem rund bevat tenminste de in artikel 14,
+				  derde lid, onder C, punt 1, 2 en 3, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn 64/432/EEG</extref>, bedoelde
+				  informatie alsmede de identificatiecodes van de aan de houder geleverde, maar nog niet
+				  bij runderen aangebrachte merken.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">3</lidnr> 
+				<al>De minister verstrekt de houder van runderen op diens verzoek een mutatieoverzicht, een stallijst, een overzicht dierhistoriestatus, een overzicht dierstatus, en een afschrift van het bedrijfsregister betreffende een aan de houder toegekend UBN.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">4</lidnr> 
+				<al>De minister kan aan een ander dan de houder van een rund
+				  kenbaar maken of er op het desbetreffende rund een verbod als bedoeld in de
+				  <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=39">artikelen 39</intref> en
+				  <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=40">40</intref> van toepassing is. </al> 
+			 </lid> 
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">18</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>De in artikel 6 van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening 1760/2000</extref> bedoelde paspoorten
+				  worden alleen afgegeven voor runderen die bestemd zijn voor het
+				  intracommunautaire handelsverkeer.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">2</lidnr> 
+				<al>Een paspoort als bedoeld in het eerste lid wordt afgegeven door
+				  de minister.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">3</lidnr> 
+				<al>Een paspoort wordt aangevraagd door de houder van het rund waarop het paspoort betrekking heeft.</al> 
+			 </lid> 
+			 <lid>
+                <lidnr status="officieel">4</lidnr>
+                <al>De aanvraag, bedoeld in het derde lid, geschiedt uitsluitend elektronisch.</al>
+              </lid><lid> 
+				<lidnr status="officieel">5</lidnr> 
+				<al>Ten aanzien van een rund wordt geen paspoort afgegeven indien
+				  op dat rund een verbod als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=39">artikelen 39</intref> en <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=40">40</intref> van toepassing is. </al> 
+			 </lid> 
+		  <lid>
+                        <lidnr status="officieel">6</lidnr>
+                        <al>Een
+paspoort blijft 3 werkdagen na de datum van de aanvraag zoals vermeld
+op het paspoort
+geldig.</al>
+                     </lid></artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">19</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>De houder tekent in het bedrijfsregister binnen 3 werkdagen te rekenen vanaf de dag na de dag waarop de gebeurtenis heeft plaatsgevonden aan de
+				  gegevens, bedoeld in artikel 7, eerste lid, tweede gedachtestreepje, van
+				  <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening 1760/2000</extref> en bedoeld in artikel 8, onderdelen a tot en met d, van
+				  <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening 911/2004</extref> en indien een rund op het bedrijf van de houder is geboren
+				  de identificatiecode van de moeder van dat rund.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">2</lidnr> 
+				<al>Het bedrijfsregister wordt schriftelijk of elektronisch
+				  bijgehouden.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">3</lidnr> 
+				<al>Indien het bedrijfsregister schriftelijk wordt bijgehouden,
+				  tekent de houder de in het eerste lid bedoelde gegevens op de daarbij
+				  aangegeven wijze aan in het door de minister verstrekte bedrijfsregister dat
+				  overeenkomt met het in <intref status="actief" doc="1.0:v:BWBR0014538&amp;bijlage=III">bijlage III, onderdeel a</intref>, vastgestelde model.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">4</lidnr> 
+				<al>Indien het bedrijfsregister elektronisch wordt bijgehouden,
+				  draagt de houder er zorg voor dat de in het eerste lid bedoelde gegevens per
+				  rund overzichtelijk in beeld kunnen worden gebracht en ter plekke kunnen worden
+				  uitgeprint.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">5</lidnr> 
+				<al>De periode, bedoeld in artikel 7, vierde lid, van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening
+				  1760/2000</extref>, dat het bedrijfsregister wordt bewaard, bedraagt drie jaar. </al> 
+			 </lid> 
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">20</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>De termijn, bedoeld in artikel 7, eerste lid, tweede
+				  gedachtestreepje, van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening 1760/2000</extref>, waarbinnen de houder de minister
+				  in kennis stelt van de in dat onderdeel bedoelde gegevens, bedraagt 3 werkdagen, te rekenen vanaf de dag na de dag waarop de gebeurtenis waarvan kennisgeving wordt gedaan, heeft plaatsgevonden.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">2</lidnr> 
+				<al>Bij de in het eerste lid bedoelde kennisgeving doet de houder opgave van zijn relatienummer, het UBN van het betrokken bedrijf en van de identificatiecode van het betrokken rund, alsmede in voorkomend geval van het feit dat merkverlies is opgetreden.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">3</lidnr> 
+				<al>Indien de in het eerste lid bedoelde kennisgeving betrekking
+				  heeft op de geboorte van een rund wordt tevens opgave gedaan van de in artikel
+				  14, derde lid, onder C, punt 1, derde, vierde en vijfde gedachtestreepje, van
+				  <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn 64/432/EEG</extref>, bedoelde gegevens.</al> 
+			 </lid> 
+			 <lid><lidnr status="officieel">4</lidnr><al>Indien de in het eerste lid bedoelde kennisgeving betrekking heeft op de aanvoer van een uit een lidstaat ingevoerd rund op een bedrijf, niet zijnde een slachthuis, dat het bestemmingsadres is, wordt tevens opgave gedaan van de in artikel 14, derde lid, onder C, punt 1, eerste tot en met vijfde gedachtestreepje van richtlijn 64/432/EEG bedoelde gegevens, alsmede het land van geboorte, het land van herkomst en de datum van aanvoer van het rund op het bedrijf, alvorens uitvoering wordt gegeven aan het bepaalde in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=21a">artikel 21a, eerste lid</intref>.</al></lid><lid> 
+				<lidnr status="officieel">5</lidnr> 
+				<al>Indien de in het eerste lid bedoelde kennisgeving betrekking
+				  heeft op de aanvoer van een uit een derde land ingevoerd rund op een bedrijf
+				  dat het bestemmingsadres is, wordt tevens opgave gedaan van de in artikel 14,
+				  derde lid, onder C, punt 1, derde, vierde en vijfde gedachtestreepje, van
+				  <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn 64/432/EEG</extref>, bedoelde gegevens en van de in artikel 4, derde lid, van
+				  <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening 1760/2000</extref>, bedoelde oorspronkelijke identificatie door het derde
+				  land.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">6</lidnr> 
+				<al>De houder stelt de minister in kennis van elke doodgeboorte, onder vermelding van zijn relatienummer, het UBN van het betrokken bedrijf, de datum waarop de doodgeboorte heeft plaatsgevonden en de identificatiecode van de moeder van het doodgeboren kalf.</al> 
+			 </lid> 
+		  <lid><lidnr status="officieel">7</lidnr><al>De kennisgeving in het zesde
+lid, geschiedt binnen 3 werkdagen, te rekenen vanaf de dag na de dag waarop de doodgeboorte heeft plaatsgevonden.</al></lid><lid>
+                        <lidnr status="officieel">8</lidnr>
+                        <al>In
+afwijking van het eerste en zesde lid geschiedt de kennisgeving vanaf
+80 werkdagen of later na de datum van de gebeurtenis uitsluitend
+schriftelijk.</al>
+                     </lid></artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">21</nr> 
+			 </kop> 
+			 <lid><lidnr status="officieel">1</lidnr><al>De kennisgevingen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=20">artikel 20, eerste en vijfde lid</intref>, geschieden per telefoon via het daartoe ingerichte voice response systeem, of elektronisch.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Het eerste lid is tevens van toepassing op een kennisgeving die niet binnen de termijn, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=20">artikel 20, eerste en zesde lid</intref>, is gedaan.</al></lid>
+              
+            </artikel> 
+		  <artikel status="goed"><kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">21a</nr> 
+			 </kop><lid><lidnr>1</lidnr><al>Ingeval een of meer uit een lidstaat ingevoerde runderen worden aangevoerd op een bedrijf dat het bestemmingsadres is, wordt het originele paspoort binnen 5 werkdagen, te rekenen vanaf de dag na de dag waarop is aangevoerd, aan de minister verstuurd.</al></lid><lid><lidnr>2</lidnr><al>In afwijking van <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=21">artikel 21, eerst lid</intref>, geschiedt de kennisgeving, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=20">artikel 20, eerste lid</intref>, die betrekking heeft op de aanvoer van een uit een lidstaat of een derde land ingevoerd rund op een bedrijf dat het bestemmingsadres is, uitsluitend elektronisch.</al></lid>
+              
+            </artikel><artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">22</nr> 
+			 </kop> 
+			 <lid><lidnr status="officieel">1</lidnr><al>In afwijking van <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=21">artikel 21, tweede lid</intref>, geschiedt de kennisgeving die meer dan 80 werkdagen na de gebeurtenis, te rekenen vanaf de dag na de dag waarop de gebeurtenis heeft plaatsgevonden, wordt gedaan, uitsluitend schriftelijk in papieren versie.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Ingeval de in het eerste lid bedoelde kennisgeving betrekking heeft op de geboorte van een rund gaat de kennisgeving vergezeld van het verslag van een DNA-onderzoek op basis waarvan wordt geconcludeerd dat de identificatiecode van de moeder van dat rund overeenstemt met de opgave van het in artikel 14, derde lid, onder C, punt 1, vijfde gedachtestreepje, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn 64/432/EEG</extref>, bedoelde gegeven.</al></lid><lid> 
+				<lidnr status="officieel">3</lidnr> 
+				<al>Indien de houder de kennisgeving, bedoeld in
+				  <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=20">artikel 20, eerste en vijfde lid</intref>, heeft nagelaten of
+				  bij deze kennisgeving onjuiste of onvolledige gegevens heeft verstrekt, kan
+				  hierin op kosten van de nalatige houder door de minister worden voorzien. </al>
+				
+			 </lid> 
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">23</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>De houder kan een kennisgeving herstellen.</al> 
+			 </lid> 
+			 <lid><lidnr status="officieel">2</lidnr><al>Het
+verzoek tot herstel van een kennisgeving geschiedt per telefoon via het
+daartoe ingerichte voice response systeem of elektronisch of via een
+schriftelijke, papieren
+versie.</al></lid> 
+			 <lid> 
+				<lidnr status="officieel">3</lidnr> 
+				<al>De minister kan nadere voorwaarden stellen waaronder het
+				  herstel, bedoeld in het eerste lid, wordt geaccepteerd. </al> 
+			 </lid> 
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr>24</nr> 
+			 </kop> 
+			 <al>De ambtenaren, bedoeld in <extref status="actief" doc="1.0:v:BWBR0005662&amp;artikel=114" compleet="nee">artikel 114, eerste lid, van de wet</extref> zijn
+				tevens belast met het toezicht op de naleving van titel I van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening
+				1760/2000</extref>. </al> 
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr>25</nr> 
+			 </kop> 
+			 <al>Indien het bedrijf een slachthuis is, zorgt de houder ervoor dat
+				de karkassen van de runderen zijn ge&#xEF;dentificeerd tot en met het tijdstip van
+				de weging na slachting. </al> 
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">26</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>Indien runderen worden aangevoerd op een slachthuis,
+				  controleert de houder, overeenkomstig een door de minister goedgekeurd
+				  protocol, terstond na aanvoer of de runderen overeenkomstig
+				  <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=13">artikel 13, eerste lid, onderdeel
+				  a</intref>, zijn ge&#xEF;dentificeerd en geregistreerd.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">2</lidnr> 
+				<al>Indien bij de in het eerste lid bedoelde controle blijkt dat
+				  runderen niet volledig zijn ge&#xEF;dentificeerd en geregistreerd, wordt hiervan
+				  terstond melding gedaan aan de VWA.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">3</lidnr> 
+				<al>De runderen, bedoeld in het tweede lid, worden terstond
+				  afgezonderd van de overige runderen in het slachthuis. De ambtenaar van de VWA
+				  kan ter zake aanwijzingen geven.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">4</lidnr> 
+				<al>Runderen worden slechts geslacht indien bij de in het eerste
+				  lid bedoelde controle is gebleken dat de runderen overeenkomstig
+				  <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=13">artikel 13, eerste lid, onderdeel
+				  a</intref>, zijn ge&#xEF;dentificeerd en geregistreerd.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">5</lidnr> 
+				<al>In afwijking van het vierde lid, is het toegestaan de in het
+				  tweede lid bedoelde runderen te slachten indien:</al> 
+				<lijst level="single" nr-sluiting="." start="a" type="expliciet"> 
+				  <li> 
+					 <li.nr>a.</li.nr> 
+					 <al> voorzover het runderen betreft die zijn ge&#xEF;dentificeerd
+						met &#xE9;&#xE9;n merk, is gebleken dat dit oormerk bij het rund behoort en dat van deze
+						runderen de gegevens, bedoeld in artikel 14, derde lid, onder C, onderdeel 1,
+						van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn 64/432/EEG</extref>, juist en volledig in het I&amp;R-systeem rund zijn
+						vermeld;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>b.</li.nr> 
+					 <al> voorzover het runderen betreft die zijn ge&#xEF;dentificeerd
+						met &#xE9;&#xE9;n of twee merken en waarvan uitsluitend de gegevens, bedoeld in artikel
+						14, derde lid, onder C, onderdeel 1, derde en vierde gedachtestreepje van
+						<extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn 64/432/EEG</extref>, niet, niet juist of niet volledig in het I&amp;R-systeem
+						rund zijn vermeld, is gebleken dat dit onderscheidenlijk deze merken bij het
+						rund behoren en nadat deze gegevens alsnog in het I&amp;R-systeem rund zijn
+						vermeld;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>c.</li.nr> 
+					 <al> voorzover het na 1 januari 1998 geboren runderen betreft
+						die zijn ge&#xEF;dentificeerd met &#xE9;&#xE9;n of twee merken en waarvan uitsluitend de
+						gegevens, bedoeld in artikel 14, derde lid, onder C, onderdeel 1, vijfde
+						gedachtestreepje, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn 64/432/EEG</extref>, niet, niet juist of niet volledig
+						in het I&amp;R-systeem rund zijn vermeld, is gebleken dat dit onderscheidenlijk
+						deze merken bij het rund behoren en ten aanzien van deze runderen, indien deze 12 maanden of ouder zijn, een onderzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;bijlage=II">bijlage II, onderdeel 1</intref> heeft plaatsgevonden;</al> 
+				  </li> 
+				  <li>
+                <li.nr>d.</li.nr>
+                <al>voor zover het runderen betreft die zijn ge&#xEF;dentificeerd met &#xE9;&#xE9;n of twee merken en waarvan uitsluitend de gegevens, bedoeld in artikel 14, derde lid, onder C, onderdeel 1, zevende gedachtestreepje, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn 64/432/EEG</extref>, niet juist of niet volledig in het I&amp;R-systeem rund zijn vermeld, is gebleken dat dit onderscheidenlijk deze oormerken bij het rund behoren, tenzij als gevolg van de ontbrekende gegevens de ambtenaar, bedoeld in <extref status="actief" doc="1.0:v:BWBR0005662&amp;artikel=114" compleet="nee">artikel 114, eerste lid, van de wet</extref>, niet in staat is de herkomst van het rund vast te stellen in welk geval plaatsvindt, afhankelijk van de aard van de onjuistheid of onvolledigheid:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>een onderzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;bijlage=II">bijlage II, onderdelen 2 en 3</intref>, naar het gebruik van stoffen met hormonale, dan wel antihormonale werking of naar de aanwezigheid van &#xDF;-agonisten, daaronder begrepen bestanddelen daarvan en eventuele omzettingsproducten;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>een onderzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;bijlage=II">bijlage II, onderdeel 4</intref>, of</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;.</li.nr>
+                    <al>een onderzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;bijlage=II">bijlage II, onderdeel 1</intref>.</al>
+                  </li>
+                </lijst>
+              </li>
+            </lijst> 
+			 </lid> 
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr>27</nr> 
+			 </kop> 
+			 <al>De minister is bevoegd uitvoering te geven aan artikel 1, tweede
+				lid, van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening 494/98</extref>. </al> 
+		  </artikel> 
+		</paragraaf> 
+		<paragraaf> 
+		  <kop> 
+			 <label>&#xA7;</label><nr>6</nr><titel>Identificatie en registratie van
+				varkens </titel> 
+		  </kop> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">28</nr> 
+			 </kop> 
+			 <al>In deze paragraaf wordt verstaan onder spenen: het blijvend onttrekken van biggen aan een zogende zeug.</al> 
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">29</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>Op een bedrijf geboren varkens worden gemerkt binnen &#xE9;&#xE9;n week nadat zij zijn gespeend, of uiterlijk binnen 3 maanden na de geboorte, of zoveel eerder als zij van het bedrijf worden
+				  afgevoerd.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">2</lidnr> 
+				<al>Uit een derde land ingevoerde varkens worden op het
+				  bestemmingsadres gemerkt binnen 3 werkdagen vanaf de dag van aanvoer op het
+				  bestemmingsadres.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">3</lidnr> 
+				<al>Het tweede lid geldt niet indien het bestemmingsadres een
+				  slachthuis is, mits betrokken varkens op dit slachthuis binnen 3 werkdagen na
+				  aanvoer worden geslacht.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">4</lidnr> 
+				<al>Onverminderd het eerste lid, worden slachtvarkens voordat ze
+				  van een bedrijf worden afgevoerd naar een slachthuis, hetzij rechtstreeks,
+				  hetzij via een verzamelcentrum, gemerkt met een slachtmerk als bedoeld in
+				  <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=8">artikel 8, derde lid</intref>.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">5</lidnr> 
+				<al>Varkens, waarbij merkverlies is opgetreden, worden binnen 3 werkdagen te rekenen vanaf de dag na de dag waarop het merkverlies is opgetreden, hermerkt.</al> 
+			 </lid> 
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">30</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>Varkens gaan bij afvoer van een bedrijf, tijdens het vervoer en
+				  bij aanvoer op een bedrijf vergezeld van een vervoersdocument.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">2</lidnr> 
+				<al>Het vervoersdocument wordt in drievoud opgemaakt, waarbij een
+				  exemplaar bestemd is voor de houder die de varkens van zijn bedrijf afvoert,
+				  een exemplaar bestemd is voor de vervoerder en een exemplaar bestemd is voor de
+				  houder die de varkens op zijn bedrijf aanvoert.</al> 
+			 </lid> 
+			 <lid>
+					 <lidnr status="officieel">3</lidnr>
+					 <al>Het vervoersdocument wordt door de betrokken houders ondertekend en bevat ten minste de volgende gegevens:</al> 
+					 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+						<li> 
+						  <li.nr>a.</li.nr> 
+						  <al>datum van de aanvoer en de afvoer;</al> 
+						</li> 
+						<li> 
+						  <li.nr>b.</li.nr> 
+						  <al>UBN en naam, adres en woonplaats van het bedrijf van herkomst en van het bedrijf van bestemming;</al> 
+						</li> 
+						<li> 
+						  <li.nr>c.</li.nr> 
+						  <al>de UBN&#x2019;s van het oormerk, indien deze afwijken van het in onderdeel b bedoelde UBN van het bedrijf van herkomst;</al> 
+						</li> 
+						<li> 
+						  <li.nr>d.</li.nr> 
+						  <al>het aantal varkens;</al> 
+						</li> 
+						<li> 
+						  <li.nr>e.</li.nr> 
+						  <al>het kenteken van het transportmiddel.</al> 
+						</li> 
+					 </lijst>
+				  </lid>
+				  <lid>
+					 <lidnr status="officieel">4</lidnr>
+					 <al>In afwijking van het tweede lid kan worden volstaan met een vervoersdocument bestemd voor de vervoerder, indien de houder die de varkens van zijn bedrijf afvoert, alsmede de houder die varkens op zijn bedrijf aanvoert de gegevens, bedoeld in het derde lid, op elektronische wijze beschikbaar heeft in zijn bedrijfsregister, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=31">artikel 31, eerste lid</intref>.</al>
+				  </lid> 
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">31</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>De houder houdt schriftelijk of elektronisch op een
+				  overzichtelijke wijze op het bedrijf een bedrijfsregister bij waarin hij
+				  binnen 3 werkdagen te rekenen vanaf de dag na de dag waarop de gebeurtenis heeft plaatsgevonden opneemt:</al> 
+				<lijst level="single" nr-sluiting="." start="a" type="expliciet"> 
+				  <li> 
+					 <li.nr>a.</li.nr> 
+					 <al> opgetreden merkverlies, onder vermelding van het
+						oormerknummer en de datum;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>b.</li.nr> 
+					 <al> aan- en afvoer van varkens op onderscheidenlijk van zijn
+						bedrijf, onder vermelding van:</al> 
+					 <lijst level="single" nr-sluiting="." start="1" type="ndash"> 
+						<li> 
+						  <al>het UBN van het bedrijf van herkomst of van het bedrijf
+							 van bestemming, of bij invoer of uitvoer naam, adres en woonplaats van deze
+							 bedrijven;</al> 
+						</li> 
+						<li> 
+						  <al>oormerknummers;</al> 
+						</li> 
+						<li> 
+						  <al>het aantal varkens;</al> 
+						</li> 
+						<li> 
+						  <al>de datum;</al> 
+						</li> 
+						<li> 
+						  <al>indien het de invoer van varkens betreft,
+							 het nummer van het gezondheidscertificaat;</al> 
+						</li> 
+						<li> 
+						  <al>indien het uit een derde land ingevoerde varkens
+							 betreft en het betrokken bedrijf het bestemmingsadres is, het door het derde
+							 land toegekende identificatienummer en het oormerknummer van het op het bedrijf
+							 aangebrachte merk, en</al> 
+						</li> 
+						<li> 
+						  <al>het kenteken van het transportmiddel.</al> 
+						</li></lijst> 
+				  </li> 
+				</lijst> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">2</lidnr> 
+				<al>Bij dit register worden de voor de houder bestemde exemplaren van het vervoersdocument bewaard.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">3</lidnr> 
+				<al>De in het eerste en tweede lid bedoelde gegevens worden drie
+				  jaar op het bedrijf bewaard. </al> 
+			 </lid> 
+		  <lid> 
+					 <lidnr status="officieel">4</lidnr> 
+					 <al>Indien het bedrijfsregister elektronisch wordt bijgehouden, draagt de houder er zorg voor dat de in het eerste lid, alsmede in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=30">artikel 30, derde lid</intref>, bedoelde gegevens overzichtelijk in beeld kunnen worden gebracht en ter plekke kunnen worden uitgeprint.</al> 
+				  </lid></artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">32</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>De houder meldt de aan- en afvoer van varkens op,
+				  onderscheidenlijk van zijn bedrijf en de afvoer van dode varkens van zijn
+				  bedrijf binnen twee werkdagen aan de minister.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">2</lidnr> 
+				<al>De melding bevat de volgende gegevens:</al> 
+				<lijst level="single" nr-sluiting="." start="a" type="expliciet"> 
+				  <li> 
+					 <li.nr>a.</li.nr> 
+					 <al> het UBN van het betrokken bedrijf;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>b.</li.nr> 
+					 <al> het UBN van het bedrijf van herkomst of van het bedrijf
+						van bestemming van de varkens;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>c.</li.nr> 
+					 <al>in voorkomend geval land van herkomst of land van
+						bestemming;</al> 
+				  </li> 
+				   
+				  <li> 
+					 <li.nr>d.</li.nr> 
+					 <al>het aantal en het soort varkens;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>e.</li.nr> 
+					 <al>de datum, en</al> 
+				  </li><li><li.nr>f.</li.nr> 
+					 <al>het kenteken van het transportmiddel.</al></li> 
+				   
+				</lijst> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">3</lidnr> 
+				<al>De melding geschiedt per telefoon via het daartoe ingerichte
+				  voice response systeem of wordt op elektronische wijze toegezonden
+				  overeenkomstig de door de minister aangegeven wijze.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">4</lidnr> 
+				<al>In afwijking van het eerste lid, kan het melden van de afvoer van dode varkens naar een categorie 1-verwerkingsbedrijf of een categorie 2-verwerkingsbedrijf geschieden door tussenkomst van het desbetreffende bedrijf, indien de houder het desbetreffende bedrijf hiertoe schriftelijk in papieren versie heeft gemachtigd.</al> 
+			 </lid> 
+			  
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr>33</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr>1</lidnr> 
+				<al>Indien het bedrijf een slachthuis is, controleert de houder,
+				  overeenkomstig een door de minister goedgekeurd protocol, terstond na aanvoer
+				  of de varkens ingevolge <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=13">artikel 13, eerste lid,
+				  onderdeel b</intref>, zijn ge&#xEF;dentificeerd en geregistreerd.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr>2</lidnr> 
+				<al>Indien bij de in het eerste lid bedoelde controle blijkt dat
+				  varkens niet volledig zijn ge&#xEF;dentificeerd en geregistreerd, doet de houder
+				  hiervan terstond melding aan de VWA. </al> 
+			 </lid> 
+		  </artikel> 
+		</paragraaf> 
+		<paragraaf> 
+		  <kop> 
+			 <label>&#xA7;</label><nr status="officieel">7</nr><titel status="officieel">Identificatie en registratie van
+				schapen en geiten </titel> 
+		  </kop> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">34</nr> 
+			 </kop> 
+			 <al>In
+deze paragraaf wordt verstaan
+onder:</al><definitielijst nr-sluiting="." plaatsing="inline" type="expliciet"><definitie-item><li.nr>a.</li.nr><term>I&amp;R-systeem
+schapen en geiten:</term><definitie><al>geautomatiseerd gegevensbestand
+als bedoeld in artikel 8, eerste lid, van verordening
+21/2004;</al></definitie></definitie-item><definitie-item><li.nr>b.</li.nr><term>identificatiecode:</term><definitie><al>op
+het voor een schaap of geit bestemd merk vermelde of uit de
+elektronische transponder in een elektronisch merk uit te lezen
+identificatiecode als bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12i">artikel&#xA0;12i</intref>.</al></definitie></definitie-item></definitielijst> 
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">35</nr> 
+			 </kop> 
+			 <lid><lidnr status="officieel">1</lidnr><al>Alle
+schapen en geiten die op of voor 9&#xA0;juli 2005 zijn geboren, zijn
+tenminste met &#xE9;&#xE9;n merk
+gemerkt.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De
+termijn, bedoeld in artikel&#xA0;4, eerste lid, van verordening
+21/2004, waarbinnen de merken worden aangebracht, bedraagt zes maanden
+na de geboorte, of zoveel eerder als het schaap of de geit wordt
+afgevoerd of over de openbare weg wordt
+verplaatst.</al></lid><lid><lidnr status="officieel">3</lidnr><al>In
+afwijking van het tweede lid kan een schaap die de leeftijd van
+&#xE9;&#xE9;n week nog niet heeft bereikt en dat nog niet is gemerkt,
+worden verplaatst over de openbare weg ten behoeve van een verplaatsing
+binnen het bedrijf, indien het desbetreffende schaap wordt verplaatst
+in gezelschap van het
+moederdier.</al></lid><lid><lidnr status="officieel">4</lidnr><al>De
+termijn, bedoeld in artikel&#xA0;4, vierde lid, van verordening
+21/2004, waarbinnen de merken worden aangebracht bij een uit een derde
+land ingevoerde schaap of geit, bedraagt drie werkdagen, gerekend vanaf
+de dag van aanvoer op het
+bedrijf.</al></lid></artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">36</nr> 
+			 </kop> 
+			 <lid><lidnr status="officieel">1</lidnr><al>Indien
+een schaap dat, of een geit die geboren is op of voor 9&#xA0;juli 2005,
+door &#xE9;&#xE9;n merk is gemerkt en het merk heeft verloren, hermerkt
+de houder het schaap of de geit binnen drie werkdagen te rekenen vanaf
+de dag na de dag waarop het verlies is opgetreden met een vervangend
+merk.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Indien een
+schaap dat, of een geit die geboren is na 9&#xA0;juli 2005, door middel
+van twee merken is gemerkt, &#xE9;&#xE9;n merk heeft verloren, bestelt
+de houder binnen drie werkdagen te rekenen vanaf de dag na de dag
+waarop het verlies is opgetreden een vervangend merk met dezelfde
+gegevens als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12f">artikel&#xA0;12f, eerst lid, onderdeel b</intref>, en
+hermerkt het schaap of de geit zodra het merk in zijn bezit
+is.</al></lid><lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>In afwijking van het tweede lid, mag de houder bij een schaap dat of een geit die een merk heeft verloren, het andere merk ook verwijderen en het schaap of de geit merken met twee nieuwe merken overeenkomstig <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel 12e</intref>.</al>
+                     </lid><lid><lidnr status="officieel">4</lidnr><al>In
+afwijking van het tweede lid, mag de houder bij een schaap dat of geit
+die rechtstreeks of via een verzamelcentrum wordt afgevoerd naar een
+slachthuis binnen Nederland, het verloren merk binnen drie werkdagen te
+rekenen vanaf de dag na de dag waarop het verlies is opgetreden,
+vervangen door
+een:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>elektronisch
+tijdelijk merk als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e, onderdeel i</intref>, voor zover
+het schaap of de geit een elektronisch merk heeft
+verloren;</al></li><li><li.nr>b.</li.nr><al>conventioneel tijdelijk
+merk als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e, onderdeel i</intref>, voor zover het
+schaap of de geit een conventioneel merk heeft
+verloren.</al></li></lijst></lid><lid><lidnr status="officieel">5</lidnr><al>Indien
+een schaap of geit waarvan een verloren merk is vervangen door een
+tijdelijk merk als bedoeld in het vierde lid, niet wordt afgevoerd naar
+een slachthuis, wordt het tijdelijke merk verwijderd en wordt het
+schaap of de geit voor afvoer van het bedrijf hergemerkt met een
+vervangend merk overeenkomstig het tweede
+lid.</al></lid> 
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">37</nr> 
+			 </kop> 
+			 <lid><lidnr status="officieel">1</lidnr><al>Een
+houder kan bij een schaap of geit, geboren op of voor 9&#xA0;juli 2005,
+een tweede merk met dezelfde gegevens als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12f">artikel&#xA0;12f,
+eerste lid, onderdeel b</intref>,
+aanbrengen.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Het
+tweede merk, bedoeld in het eerste lid, is een conventioneel
+merk.</al></lid></artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">38</nr> 
+			 </kop> 
+			 <lid><lidnr status="officieel">1</lidnr><al>In
+afwijking van <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=10">artikel 10, eerste lid</intref>, is het de houder toegestaan om
+zijn schapen of geiten die zijn gemerkt met &#xE9;&#xE9;n conventioneel
+merk of twee conventionele merken om te merken met merken als bedoeld
+in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e, eerste lid, onderdelen a tot en met
+h</intref>.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De schapen en
+geiten, bedoeld in het eerste lid, worden overeenkomstig de eisen van
+<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e, eerste lid, onderdelen a tot en met h</intref>,
+omgemerkt.</al></lid>
+            </artikel> 
+		<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">38a</nr></kop><al>Elektronische
+merken worden uitgelezen met een uitleesapparaat als bedoeld in
+hoofdstuk I, onderdeel e, van de bijlage bij beschikking 2006/968/EG,
+dat voldoet aan hoofdstuk III, onderdeel&#xA0;1, van de bijlage bij
+beschikking
+2006/968/EG.</al></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">38b</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Naast
+de gegevens, bedoeld in deel C, onderdeel 1, van de bijlage bij
+verordening 21/2004 wordt op het verplaatsingsdocument, bedoeld in
+artikel&#xA0;6, eerste lid, van verordening 21/2004 de
+identificatiecode van de verplaatste schapen en geiten vermeld en
+wordt, indien schapen en geiten via een schapen- of
+geitenverzamelcentrum worden afgevoerd, verklaard
+dat:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>de
+schapen en geiten tenminste gedurende 21&#xA0;dagen v&#xF3;&#xF3;r het
+laden, of, in het geval van dieren die minder dan 21&#xA0;dagen oud
+zijn, sinds hun geboorte op het bedrijf van oorsprong hebben
+verbleven;</al></li><li><li.nr>b.</li.nr><al>er gedurende de laatste
+21&#xA0;dagen v&#xF3;&#xF3;r het laden geen schapen of geiten zijn
+binnengebracht op het bedrijf van oorsprong
+en</al></li><li><li.nr>c.</li.nr><al>er gedurende 30&#xA0;dagen
+v&#xF3;&#xF3;r verzending op het bedrijf van oorsprong geen
+evenhoevigen zijn binnengebracht uit derde
+landen.</al></li></lijst></lid><lid><lidnr status="officieel">2</lidnr><al>Het
+verplaatsingsdocument, bedoeld in het eerste lid, wordt in drievoud
+opgemaakt, waarbij een exemplaar bestemd is voor de houder die de
+schapen of geiten van zijn bedrijf afvoert, een exemplaar bestemd is
+voor de vervoerder en een exemplaar bestemd is voor de houder die de
+schapen of geiten op zijn bedrijf
+aanvoert.</al></lid><lid><lidnr status="officieel">3</lidnr><al>In
+afwijking van het eerste en tweede lid, is het toegestaan
+dat:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>schapen
+en geiten vergezeld gaan van een uitleesapparaat waarin de gegevens
+zijn opgenomen die ingevolge artikel&#xA0;6, eerste lid, van
+verordening 21/2004 in samenhang met deel C, onderdeel 1, van de
+bijlage bij verordening 21/2004, in het verplaatsingsdocument zijn
+opgenomen, of</al></li><li><li.nr>b.</li.nr><al>de kennisgeving als
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=38d">artikel&#xA0;38d, zesde lid</intref>, in afwijking van artikel 38d,
+zevende lid, heeft plaatsgevonden voorafgaand aan de afvoer van de
+dieren van het bedrijf en de kennisgeving is geschied op de wijze als
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=38f">artikel 38f, eerste lid, onderdeel
+b</intref>.</al></li></lijst></lid><lid><lidnr status="officieel">4</lidnr><al>De
+termijn, bedoeld in artikel&#xA0;6, derde lid, van verordening 21/2004
+bedraagt drie
+jaar.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">38c</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Het
+I&amp;R-systeem schapen en geiten wordt beheerd door de
+minister.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Naast
+de gegevens die ingevolge verordening 21/2004 in het I&amp;R-systeem
+schapen en geiten opgenomen zijn, bevat het I&amp;R-systeem schapen en
+geiten tenminste de identificatiecodes van de aan de houder geleverde,
+maar nog niet bij schapen of geiten aangebrachte
+merken.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">38d</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De
+houder van schapen of geiten stelt de minister bij het aanbrengen van
+de merken na de geboorte van een schaap of geit als bedoeld in
+artikel&#xA0;4, eerste lid, van verordening 21/2004, in kennis van de
+gegevens, bedoeld in deel B, onderdeel 2, onder a, b en d, van de
+bijlage bij verordening
+21/2004.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De
+houder van schapen of geiten stelt de minister bij de dood van een
+schaap of geit in kennis van de gegevens, bedoeld in deel B, onderdeel
+2, onder a, c en d, van de bijlage bij verordening 21/2004, behoudens
+in gevallen waarin de kennisgeving, bedoeld in het eerste lid, nog niet
+heeft
+plaatsgevonden.</al></lid><lid><lidnr status="officieel">3</lidnr><al>De
+houder van schapen of geiten stelt de minister bij de aanvoer van een
+schaap of geit in kennis van de gegevens, bedoeld in deel D, onderdeel
+2, onder a, b, d en e van de bijlage bij verordening 21/2004, alsmede
+van de identificatiecode van de aangevoerde
+dieren.</al></lid><lid><lidnr status="officieel">4</lidnr><al>Indien
+de kennisgeving als bedoeld in het derde lid, betrekking heeft op de
+aanvoer van een schaap of geit, afkomstig uit een lidstaat, wordt
+tevens opgave gedaan van het land van herkomst en de
+diersoort.</al></lid><lid><lidnr status="officieel">5</lidnr><al>Indien
+de kennisgeving, bedoeld in het derde lid, betrekking heeft op de
+aanvoer van een schaap of geit, afkomstig uit een derde land, wordt
+tevens opgave gedaan van het land van herkomst, de diersoort en de
+oorspronkelijke identificatiecode van het
+dier.</al></lid><lid><lidnr status="officieel">6</lidnr><al>De houder
+van schapen of geiten stelt de minister bij de afvoer van een schaap of
+geit, in kennis van de gegevens, bedoeld in deel D, onderdeel 2, onder
+a, b, c en d van de bijlage bij verordening 21/2004, alsmede van de
+identificatiecode van het dier, met dien verstande dat indien
+<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=38b">artikel&#xA0;38b, derde lid, onderdeel b</intref>, van toepassing is de houder
+van de dieren de minister eveneens in kennis stelt van de diersoort,
+het vergunningnummer of de naam van de vervoerder en het kenteken van
+het
+transportmiddel.</al></lid><lid>
+                        <lidnr status="officieel">7</lidnr>
+                        <al>De kennisgeving, bedoeld in het tweede tot en met het zesde lid, geschiedt binnen 7 dagen, te rekenen vanaf de dag na de dag waarop de gebeurtenis waarvan kennisgeving wordt gedaan, heeft plaatsgevonden.</al>
+                     </lid><lid>
+                        <lidnr status="officieel">8</lidnr>
+                        <al>De kennisgeving, bedoeld in het eerste lid, geschiedt binnen 6 maanden na de geboorte, of zoveel eerder als het schaap of de geit wordt afgevoerd of over de openbare weg wordt verplaatst.</al>
+                     </lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">38e</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De
+houder van schapen of geiten stelt de minister bij het vervangen van
+een verloren merk door twee nieuwe merken, als bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=36">artikel&#xA0;36, derde lid</intref>, in kennis van de identificatiecode van het
+oorspronkelijke merk, de identificatiecode van de nieuwe merken en de
+datum van het aanbrengen van de vervangende
+merken.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De
+houder van schapen of geiten stelt de minister bij het vervangen van
+een verloren merk bij schapen en geiten door een tijdelijk merk, als
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=36">artikel&#xA0;36, vierde lid</intref>, in kennis van de
+identificatiecode van het dier, de identificatiecode van het tijdelijke
+merk en de datum van het aanbrengen van het tijdelijke
+merk.</al></lid><lid><lidnr status="officieel">3</lidnr><al>De houder
+van schapen of geiten stelt de minister bij het ommerken van schapen en
+geiten als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=38">artikel&#xA0;38</intref>, in kennis van de
+identificatiecode van het oorspronkelijke merk, de identificatiecode
+van de nieuwe merken en de datum van aanbrengen van de vervangende
+merken.</al></lid><lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>De kennisgeving, bedoeld in het eerste tot en met het derde lid, geschiedt binnen zeven dagen, te rekenen vanaf de dag na de dag waarop de gebeurtenis waarvan kennisgeving wordt gedaan, heeft plaatsgevonden of zoveel eerder als het schaap of de geit wordt afgevoerd of over de openbare weg wordt verplaatst.</al>
+                     </lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">38ea</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De
+houder van schapen en geiten als bedoeld in de <extref status="actief" doc="1.0:v:BWBR0022975&amp;artikel=5.2.1" compleet="nee">artikelen&#xA0;5.2.1 tot en met 5.2.3 van de
+Regeling tijdelijke maatregelen dierziekten</extref> stelt de minister
+overeenkomstig <extref status="actief" doc="1.0:v:BWBR0022975&amp;artikel=5.2.4" compleet="nee">artikel 5.2.4, vierde lid, van de Regeling tijdelijke
+maatregelen dierziekten</extref> na iedere uitgevoerde vaccinatie in kennis van
+de datum waarop het dier is gevaccineerd en de status van de
+vaccinatie.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Onder
+de status van de vaccinatie, bedoeld in het eerste lid wordt
+verstaan:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>de
+eerste vaccinatie;</al></li><li><li.nr>b.</li.nr><al>de tweede
+vaccinatie, of</al></li><li><li.nr>c.</li.nr><al>een
+herhalingsvaccinatie.</al></li></lijst></lid><lid><lidnr status="officieel">3</lidnr><al>De
+kennisgeving, bedoeld in het eerste lid, geschiedt binnen 7&#xA0;dagen,
+te rekenen vanaf de dag na de dag waarop de vaccinatie is
+uitgevoerd.</al></lid><lid><lidnr status="officieel">4</lidnr><al>De
+minister kan aan een ander dan de houder van een schaap of geit de
+datum waarop het dier is gevaccineerd en de status van de vaccinatie
+kenbaar
+maken.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">38f</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De
+kennisgevingen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=38d">artikel&#xA0;38d, eerste tot en met zesde
+lid</intref> en <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=38e">38e, eerste, tot en met derde lid</intref>,
+geschieden:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>per
+telefoon via het daartoe ingerichte voice response systeem,
+of</al></li><li><li.nr>b.</li.nr><al>elektronisch.</al></li></lijst></lid><lid><lidnr status="officieel">2</lidnr><al>Het
+eerste lid is tevens van toepassing op een kennisgeving die niet binnen
+de termijn, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=38d">artikel&#xA0;38d, zevende lid</intref> en<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=38e"> 38e, vierde
+lid</intref>, is
+gedaan.</al></lid><lid><lidnr status="officieel">3</lidnr><al>De
+kennisgeving, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=38ea">artikel 38ea, eerste lid</intref>,
+geschiedt:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>elektronisch,
+of</al></li><li><li.nr>b.</li.nr><al>via het
+LNV-loket.</al></li></lijst></lid><lid><lidnr status="officieel">4</lidnr><al>Het
+derde lid is tevens van toepassing op een kennisgeving die niet binnen
+de termijn, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=38ea">artikel 38ea, derde lid</intref>, is
+gedaan.</al></lid><lid><lidnr status="officieel">5</lidnr><al>De
+minister kan nadere voorwaarden stellen waaronder de kennisgeving,
+bedoeld in het derde lid, wordt
+geaccepteerd.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">38g</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De
+houder kan een kennisgeving
+herstellen.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Het
+verzoek tot herstel van een kennisgeving, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=38d">artikel 38d,
+eerste tot en met zesde lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=38e">38e, eerste tot en met derde lid</intref>,
+geschiedt via het voice response systeem of
+elektronisch.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Het
+verzoek tot herstel van een kennisgeving, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=38ea">artikel&#xA0;38ea,
+eerste lid</intref>, geschiedt elektronisch of via het
+LNV-loket.</al></lid><lid><lidnr status="officieel">4</lidnr><al>De
+minister kan nadere voorwaarden stellen waaronder het herstel, bedoeld
+in het eerste lid, wordt
+geaccepteerd.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">38h</nr></kop><al>Het
+is verboden in strijd te handelen met de artikelen 4, eerste, vierde en
+vijfde lid, 5, vijfde lid, 6, eerste en derde lid, en 8, tweede lid,
+van verordening
+21/2004.</al></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">38i</nr></kop><al>De
+ambtenaren, bedoeld in <extref status="actief" doc="1.0:v:BWBR0005662&amp;artikel=114" compleet="nee">artikel&#xA0;114, eerste lid, van de wet</extref> zijn
+tevens belast met het toezicht op de naleving van verordening
+21/2004.</al></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">38j</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Indien
+het bedrijf een slachthuis is, controleert de houder, overeenkomstig
+een door de minister goedgekeurd protocol, terstond na aanvoer of de
+schapen of geiten overeenkomstig <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=13">artikel&#xA0;13, eerste lid, onderdeel
+c</intref>, zijn
+ge&#xEF;dentificeerd.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Indien
+bij de in het eerste lid bedoelde controle blijkt dat schapen of geiten
+niet volledig zijn ge&#xEF;dentificeerd, doet de houder hiervan
+terstond melding aan de
+VWA.</al></lid><lid><lidnr status="officieel">3</lidnr><al>De schapen
+of geiten, bedoeld in het tweede lid, worden terstond afgezonderd van
+de overige schapen en geiten in het slachthuis. De ambtenaar van de VWA
+kan ter zake aanwijzingen
+geven.</al></lid><lid><lidnr status="officieel">4</lidnr><al>Schapen
+en geiten worden slechts geslacht indien bij de in het eerste lid
+bedoelde controle is gebleken dat de schapen en geiten overeenkomstig
+<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=13">artikel&#xA0;13, eerste lid, onderdeel c</intref>, zijn
+ge&#xEF;dentificeerd.</al></lid><lid><lidnr status="officieel">5</lidnr><al>In
+afwijking van het vierde lid, is het toegestaan de in het tweede lid
+bedoelde schapen of geiten te slachten indien een onderzoek als bedoeld
+in <intref status="actief" doc="1.0:v:BWBR0014538&amp;bijlage=II">bijlage II</intref>, onderdeel 2 of 3, bij deze regeling heeft
+plaatsgevonden.</al></lid><lid><lidnr status="officieel">6</lidnr><al>Indien
+een schaap of geit dat, onderscheidenlijk die is gemerkt met merken als
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e, eerste lid, onderdelen b, d, g of h</intref> ter
+slacht wordt gebracht, vernietigt de houder, onder toezicht van de
+offici&#xEB;le dierenarts, het elektronische merk terstond na de
+slacht.</al></lid></artikel></paragraaf> 
+		<paragraaf> 
+		  <kop> 
+			 <label>&#xA7;</label><nr status="officieel">8</nr><titel status="officieel">Overige
+bepalingen over de identificatie en
+registratie</titel> 
+		  </kop> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr>39</nr> 
+			 </kop> 
+			 <al>Het is verboden dieren die niet overeenkomstig deze regeling zijn
+				ge&#xEF;dentificeerd of zijn geregistreerd, te houden, te verhandelen, te vervoeren,
+				aan te voeren of af te voeren. </al> 
+		  </artikel> 
+		  <artikel status="goed"> 
+				  <kop> 
+					 <label>Artikel</label> 
+					 <nr status="officieel">39a</nr> 
+				  </kop> 
+				  <lid> 
+					 <lidnr status="officieel">1</lidnr> 
+					 <al>In afwijking van <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=39">artikel 39</intref> is het toegestaan een rund te houden dat niet overeenkomstig deze regeling is ge&#xEF;dentificeerd of geregistreerd, indien:</al> 
+					 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+						<li> 
+						  <li.nr>a.</li.nr> 
+						  <al>de houder van het desbetreffende rund kennisgeving heeft gedaan aan de Minister van de aanwezigheid van dat rund op zijn bedrijf;</al> 
+						</li> 
+						<li> 
+						  <li.nr>b.</li.nr> 
+						  <al>bij het desbetreffende rund onder toezicht van een ambtenaar van de Algemene Inspectiedienst van het Ministerie een driehoekige inkeping ter grootte van ongeveer 1 centimeter in beide oormerken van het rund is aangebracht;</al> 
+						</li> 
+						<li> 
+						  <li.nr>c.</li.nr> 
+						  <al>de houder van het desbetreffende rund toestaat dat door een ambtenaar van de Algemene Inspectiedienst van het Ministerie een haarmonster en een foto van het rund wordt genomen, en</al> 
+						</li> 
+						<li> 
+						  <li.nr>d.</li.nr> 
+						  <al>voor zover het desbetreffende rund &#xE9;&#xE9;n of twee merken heeft verloren, de houder van het rund er zorg voor draagt dat het rund, overeenkomstig <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=16">artikel 16</intref> en met inachtneming van de bepalingen van <intref status="actief" doc="1.0:v:BWBR0014538&amp;paragraaf=3">paragraaf 3</intref> en <intref status="actief" doc="1.0:v:BWBR0014538&amp;sub-paragraaf=3.1">3.1</intref>, wordt hermerkt en dat overeenkomstig onderdeel b een inkeping wordt aangebracht in het merk, onderscheidenlijk de merken.</al> 
+						</li> 
+					 </lijst> 
+				  </lid> 
+				  <lid> 
+					 <lidnr status="officieel">2</lidnr> 
+					 <al>De houder van het rund doet bij de kennisgeving, bedoeld in het eerste lid, onderdeel a, opgave van de in artikel 14, derde lid, onder C, punt 1, derde en vierde gedachtestreepje, van richtlijn 64/432/EEG, bedoelde gegevens.</al> 
+				  </lid> 
+				  <lid> 
+					 <lidnr status="officieel">3</lidnr> 
+					 <al>De kennisgeving, bedoeld in het eerste lid, onderdeel a, geschiedt schriftelijk door middel van een door Dienst Regelingen van het Ministerie verstrekt formulier.</al> 
+				  </lid> 
+				  <lid> 
+					 <lidnr status="officieel">4</lidnr> 
+					 <al>De kennisgeving, bedoeld in het eerste lid, onderdeel a, kan niet ongedaan worden gemaakt.</al> 
+				  </lid> 
+				  <lid> 
+					 <lidnr status="officieel">5</lidnr> 
+					 <al><intref status="actief" doc="1.0:v:BWBR0014538&amp;paragraaf=3">Paragraaf 3</intref> en <intref status="actief" doc="1.0:v:BWBR0014538&amp;sub-paragraaf=3.1">3.1</intref> zijn van overeenkomstige toepassing op de oormerken, bedoeld in het eerste lid, onderdeel b.</al> 
+				  </lid> 
+				  <lid> 
+					 <lidnr status="officieel">6</lidnr> 
+					 <al>In afwijking van <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=39">artikel 39</intref> is het toegestaan een rund ten aanzien waarvan wordt voldaan aan het eerste lid rechtstreeks af te voeren, en te vervoeren naar het slachthuis, met het oog op destructie.</al> 
+				  </lid> 
+				</artikel><artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">40</nr> 
+			 </kop> 
+			 <lid> <lidnr status="officieel">1</lidnr> 
+                <al>In de situaties, bedoeld in artikel 1, eerste lid, artikel 3 en artikel 4, eerste en tweede lid, van verordening 494/98, verbiedt de minister het aanvoeren van runderen op het bedrijf, het afvoeren van runderen van dit bedrijf, en het vervoeren of verhandelen van runderen afkomstig van dit bedrijf.</al> 
+              </lid> 
+              <lid> <lidnr status="officieel">2</lidnr> 
+                <al>In de situatie, bedoeld in artikel 2, tweede lid, van verordening 494/98, verbiedt de minister het afvoeren van runderen van het bedrijf, en het vervoeren of verhandelen van runderen afkomstig van dit bedrijf.</al> 
+              </lid> 
+              <lid> <lidnr status="officieel">3</lidnr> 
+                <al>Bij de vaststelling van een situatie als bedoeld in het eerste lid worden runderen waarvan de houder heeft voldaan aan de vereisten bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=39a">artikel 39a, eerste lid</intref>, buiten beschouwing gelaten.</al> 
+              </lid><lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Het
+is verboden in strijd te handelen met een verbod als bedoeld in het
+eerste of tweede
+lid.</al>
+                     </lid></artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">41</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>In afwijking van de <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=39">artikelen 39</intref>
+				  en <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=40">40</intref> kan de minister uit het oogpunt van de gezondheid en het welzijn van de dieren op het bedrijf toestemming geven voor het rechtstreekse vervoer naar het slachthuis, dat plaatsvindt onder toezicht van ambtenaren als bedoeld in <extref status="actief" doc="1.0:v:BWBR0005662&amp;artikel=114" compleet="nee">artikel 114,
+				  tweede lid, van de wet</extref>.</al> 
+			 </lid><lid><lidnr status="officieel">2</lidnr><al>Aan de toestemming, bedoeld in het eerste lid, kunnen voorwaarden worden verbonden.</al></lid> 
+			 <lid> 
+				<lidnr status="officieel">3</lidnr> 
+				<al>De <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=39">artikelen 39</intref>
+				  en <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=40">40</intref> gelden niet met
+				  betrekking tot de afvoer van kadavers van runderen van een bedrijf en bij
+				  vervoer van kadavers van runderen, mits de kadavers rechtstreeks worden vervoerd naar een categorie 1-verwerkingsbedijf of een categorie 2-verwerkingsbedrijf en de kadavers ten minste in &#xE9;&#xE9;n oor zijn gemerkt. </al> 
+			 </lid> 
+		  </artikel> 
+		  <artikel status="goed"><kop><label>Artikel</label><nr>42</nr></kop><al>In zoverre in afwijking van de <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=39">artikelen 39</intref> en <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=40">40, tweede lid</intref>, behoeft bij rechtstreeks vervoer van runderen naar een slachthuis en bij aanvoer van runderen op een slachthuis niet te zijn voldaan aan <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=13">artikel 13, eerste lid,
+				onderdeel a</intref>, indien slechts &#xE9;&#xE9;n van de gegevens, bedoeld in artikel 14, derde lid, onder C, punt 1, derde, vierde, vijfde en zevende gedachtestreepje, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn 64/432/EEG</extref> ontbreekt.</al></artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr>43</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr>1</lidnr> 
+				<al>Degene die ingevolge deze regeling gegevens moet melden,
+				  bijhouden of vermelden op daartoe bestemde bescheiden, doet dit volledig, juist
+				  en naar waarheid.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr>2</lidnr> 
+				<al>Het bijhouden of vermelden van de in het eerste lid bedoelde
+				  gegevens geschiedt, voor zover niet uitdrukkelijk anders is bepaald, onverwijld
+				  nadat de gegevens bekend zijn bij degene die zij ingevolge deze regeling moet
+				  bijhouden of vermelden.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr>3</lidnr> 
+				<al>De gegevens, bedoeld in het eerste lid, worden, voor zover niet
+				  uitdrukkelijk anders is bepaald, gedurende drie jaar bewaard. </al> 
+			 </lid> 
+		  </artikel> 
+		</paragraaf> 
+		<paragraaf><kop>
+                        <label>&#xA7;</label>
+                        <nr status="officieel">8a</nr>
+                        <titel status="officieel">Tarieven</titel>
+                     </kop><sub-paragraaf status="goed"><kop>
+                           <label>&#xA7;</label>
+                           <nr status="officieel">8a.1</nr>
+                           <titel status="officieel">Runderen</titel>
+                        </kop>
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">43a</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Ter
+zake van het voorhanden of het in voorraad hebben van runderen is de
+houder van een of meer runderen jaarlijks een bedrag verschuldigd dat
+bestaat
+uit:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>een
+vast bedrag per aan de houder toegekend UBN van &#x20AC;&#xA0;33,50,
+en</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>een bedrag afhankelijk van de
+aantallen runderen die op het bedrijf van de houder zijn geboren, zijn
+aangevoerd vanuit Nederland, of zijn aangevoerd uit het
+buitenland.</al>
+                                 </li>
+                              </lijst>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>Het
+verschuldigde bedrag, bedoeld in het eerste lid, onderdeel b,
+bedraagt:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>&#x20AC; 1,31
+per rund dat is
+geboren,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>&#x20AC;&#xA0;0,05 per rund
+dat is aangevoerd vanuit Nederland,
+en</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>c.</li.nr>
+                                    <al>&#x20AC;&#xA0;0,64 per rund dat is
+aangevoerd uit het buitenland,</al>
+                                 </li>
+                              </lijst>
+                              <al>op het bedrijf van
+de houder, bedoeld in het eerste lid.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">3</lidnr>
+                              <al>In afwijking van het tweede
+lid, onderdeel c, is het verschuldigde bedrag per rund dat vanuit het
+buitenland rechtstreeks wordt aangevoerd op een slachthuis
+&#x20AC;&#xA0;0,05.</al>
+                           </lid>
+                        </artikel>
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">43b</nr>
+                           </kop>
+                           <al>De
+aantallen runderen die op het bedrijf van een houder zijn geboren, dan
+wel aangevoerd vanuit Nederland of uit het buitenland, zoals bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=43a">artikel 43a, eerste lid, onderdeel b</intref>, zijn de aantallen in een
+kalenderjaar op het bedrijf van de houder geboren of aangevoerde
+runderen zoals geregistreerd onder het aan de houder toegekende UBN in
+het I&amp;R-systeem Rund, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=14">artikel 14, onderdeel
+a</intref>.</al>
+                        </artikel>
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">43c</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Voor
+het op aanvraag verlenen van een goedkeuring als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12a">artikel
+12a, onderdeel a</intref>, in samenhang met <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12b">artikel 12b, eerste lid</intref>, van een
+model van een oormerk voor runderen, alsmede de wijzigingen daarvan, is
+de leverancier van het oormerk een vergoeding verschuldigd aan de
+minister van
+&#x20AC;&#xA0;483,75.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>Voor
+de registratie van een leverancier als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12a">artikel 12a,
+onderdeel b</intref>, in samenhang met <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12c">artikel 12c, eerste lid</intref>, is de
+leverancier van het oormerk een vergoeding verschuldigd aan de minister
+van
+&#x20AC;&#xA0;220,00.</al>
+                           </lid>
+                        </artikel>
+                        
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">43e</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Voor
+het verwerken van een kennisgeving als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=21">artikel 21, tweede
+lid</intref>, is de houder door wie of namens wie de kennisgeving is verricht
+een vergoeding van &#x20AC;&#xA0;1,08 per kennisgeving per rund
+verschuldigd.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>Voor
+het in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=22">artikel 22, derde lid</intref>, bedoelde invoeren van ontbrekende of
+juiste gegevens is de houder namens wie de kennisgeving is verricht de
+volgende vergoedingen per kennisgeving per rund
+verschuldigd:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>ingeval
+aanvullend onderzoek nodig is:
+&#x20AC;&#xA0;27,91;</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>ingeval geen
+aanvullend onderzoek nodig is:
+&#x20AC;&#xA0;16,84.</al>
+                                 </li>
+                              </lijst>
+                           </lid>
+                        </artikel>
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">43f</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Voor
+het verwerken van een verzoek tot herstel als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=23">artikel 23,
+tweede lid</intref> is de houder die het verzoek tot herstel doet een vergoeding
+verschuldigd van &#x20AC;&#xA0;1,08 per
+gegeven.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>Voor
+het verwerken van een schriftelijke kennisgeving als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=23">artikel
+23, tweede lid</intref>, is de houder door wie of namens wie de kennisgeving is
+verricht een vergoeding van &#x20AC;&#xA0;10,00 per kennisgeving per
+rund
+verschuldigd.</al>
+                           </lid>
+                        </artikel>
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">43g</nr>
+                           </kop>
+                           <al>Ter
+zake van het afleggen van een bedrijfsbezoek ten behoeve van het
+hermerken van runderen, is de houder van die runderen een bedrag
+verschuldigd van &#x20AC;&#xA0;44,06 vermeerderd met een bedrag dat
+overeenkomt met &#x20AC;&#xA0;54,53 vermenigvuldigd met het aantal uren
+dat met de afhandeling van het verzoek is
+gemoeid.</al>
+                        </artikel></sub-paragraaf><sub-paragraaf status="goed"><kop>
+                           <label>&#xA7;</label>
+                           <nr status="officieel">8a.2</nr>
+                           <titel status="officieel">Varkens</titel>
+                        </kop>
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">43h</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Ter
+zake van het voorhanden of het in voorraad hebben van varkens is de
+houder van een of meer varkens jaarlijks een bedrag verschuldigd dat
+bestaat
+uit:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>een
+vast bedrag per aan de houder toegekend UBN, zoals opgenomen in het
+tweede en derde lid, en</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>een bedrag
+van &#x20AC;&#xA0;0,20 per door of namens de houder verrichte melding
+als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=32">artikel 32, eerste en tweede
+lid</intref>.</al>
+                                 </li>
+                              </lijst>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>Het
+vaste bedrag, bedoeld in het eerste lid, onderdeel a, bedraagt indien
+de houder van de varkens geen handelaar in varkens, of eigenaar of
+exploitant van een slachthuis of een verzamelcentrum voor varkens
+is:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>&#x20AC;&#xA0;33,50
+indien het door de houder op het desbetreffende UBN aantal gehouden
+varkens minder dan 20 bedraagt,
+of</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>&#x20AC;&#xA0;99,00 indien het
+door de houder op het desbetreffende UBN aantal gehouden varkens 20 of
+meer dan 20
+bedraagt.</al>
+                                 </li>
+                              </lijst>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">3</lidnr>
+                              <al>Het
+vaste bedrag, bedoeld in het eerste lid, onderdeel a, bedraagt
+&#x20AC;&#xA0;99,00 indien de houder van de varkens een handelaar in
+varkens, of eigenaar of exploitant van een slachthuis of een
+verzamelcentrum voor varkens
+is.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">4</lidnr>
+                              <al>Het aantal
+gehouden varkens, bedoeld in tweede lid, onderdelen a en b, is het
+gemiddeld aantal in het desbetreffende kalenderjaar door de houder
+gehouden varkens. Het gemiddeld aantal gehouden varkens wordt door de
+houder bepaald door het aantal door de houder op de eerste dag elk
+kwartaal gehouden varkens op te tellen en vervolgens te delen door
+vier.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">5</lidnr>
+                              <al>Een houder
+komt in aanmerking voor het tarief, bedoeld in het tweede lid,
+onderdeel a, indien het door de houder bepaalde gemiddeld aantal
+gehouden varkens op verzoek van ambtenaren van de Algemene
+Inspectiedienst met schriftelijke stukken kan worden
+gestaafd.</al>
+                           </lid>
+                        <lid>
+                        <lidnr status="officieel">6</lidnr>
+                        <al>Voor
+het op aanvraag verlenen van een goedkeuring als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12k">artikel
+12k, onderdeel a</intref>, in samenhang met <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12l">artikel&#xA0;12l, eerste lid</intref>, aan
+een model van een merk of slachtmerk voor varkens, alsmede de
+wijzigingen daarvan, is de leverancier van het oormerk een vergoeding
+verschuldigd aan de minister van
+&#x20AC;&#xA0;483,75.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">7</lidnr>
+                        <al>Voor
+de registratie van een leverancier als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12k">artikel 12k,
+onderdeel b</intref>, in samenhang met <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12l">artikel&#xA0;12l, eerste lid</intref>, is de
+leverancier van het oormerk een vergoeding verschuldigd aan de minister
+van
+&#x20AC;&#xA0;220,00.</al>
+                     </lid></artikel></sub-paragraaf><sub-paragraaf status="goed"><kop>
+                           <label>&#xA7;</label>
+                           <nr status="officieel">8a.3</nr>
+                           <titel status="officieel">Schapen
+en
+geiten</titel>
+                        </kop>
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">43i</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Ter
+zake van het voorhanden of het in voorraad hebben van een of meer
+schapen of geiten is de houder van schapen of geiten jaarlijks een
+bedrag van &#x20AC;&#xA0;33,50 per aan de houder toegekend UBN
+verschuldigd.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>In
+aanvulling op het eerste lid is de houder per aan de houder toegekend
+UBN, waar op 1&#xA0;november van het voorgaande jaar meer dan 100
+schapen of geiten worden gehouden, jaarlijks een bedrag van
+&#x20AC;&#xA0;540
+verschuldigd.</al>
+                           </lid>
+                        </artikel>
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">43j</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Voor
+het op aanvraag verlenen van een goedkeuring als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12f">artikel
+12f, eerste lid, onderdeel a</intref>, in samenhang met <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12g">artikel 12g, eerste lid</intref>,
+van een model van een merk voor schapen en geiten, alsmede de
+wijzigingen daarvan, is de leverancier van het oormerk een vergoeding
+aan de Minister verschuldigd van
+&#x20AC;&#xA0;483,75.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>Voor
+de registratie van een leverancier als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12f">artikel 12f, eerste
+lid, onderdeel c</intref>, in samenhang met <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12h">artikel 12h, eerste lid</intref>, is de
+leverancier van het oormerk een vergoeding verschuldigd aan de Minister
+van
+&#x20AC;&#xA0;220,00.</al>
+                           </lid>
+                        </artikel></sub-paragraaf><sub-paragraaf status="goed"><kop>
+                           <label>&#xA7;</label>
+                           <nr status="officieel">8a.4</nr>
+                           <titel status="officieel">Overige
+bepalingen
+tarieven</titel>
+                        </kop>
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">43k</nr>
+                           </kop>
+                           <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Indien
+een houder dieren van meerdere diersoorten houdt en aan die houder is
+&#xE9;&#xE9;n UBN toegekend, is de houder voor elke diersoort die hij
+houdt in voorkomend geval het vaste bedrag verschuldigd, bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=43a">artikel 43a, eerste lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=43g">43g, tweede lid</intref>, en het bedrag, bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=43i">artikel
+43i</intref>.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Voor het op
+aanvraag in papieren versie verstrekken van de overzichten, bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=1">artikel&#xA0;1, onderdelen&#xA0;oo en pp</intref>, is de aanvrager de volgende
+vergoedingen
+verschuldigd:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>een
+vast bedrag van &#x20AC; 2,63 voor een
+stallijst;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>een vast bedrag van
+&#x20AC; 3,96 voor een afschrift
+bedrijfsregister.</al>
+                           </li>
+                        </lijst>
+                     </lid></artikel>
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">43l</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>De
+hoogte van het totaal verschuldigde bedrag wordt vastgesteld door de
+minister.</al>
+                           </lid>
+                           <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Bij de vaststelling, bedoeld in het eerste lid, kan de minister de ingevolge deze regeling verschuldigde bedragen verrekenen met de werkelijk bij de uitvoering van de in deze regeling bedoelde handelingen gemaakte kosten, indien de gemaakte kosten lager uitvallen dan de verschuldigde bedragen. </al>
+                     </lid><lid>
+                              <lidnr status="officieel">3</lidnr>
+                              <al>De
+ingevolge deze regeling verschuldigde bedragen zijn verschuldigd aan de
+minister.</al>
+                           </lid>
+                        </artikel></sub-paragraaf></paragraaf><paragraaf><kop>
+                        <label>&#xA7;</label>
+                        <nr status="officieel">8b</nr>
+                        <titel status="officieel">Medebewind</titel>
+                     </kop>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">43m</nr>
+                        </kop>
+                        <lid>
+                           <lidnr status="officieel">1</lidnr>
+                           <al>Ter
+uitvoering van <extref status="actief" doc="1.0:v:BWBR0005662&amp;artikel=94" compleet="nee">artikel 94, eerste lid, onderdeel h, en tweede lid, van
+de Gezondheids- en welzijnwet voor dieren</extref> wordt medewerking gevorderd
+van het bestuur van het Productschap Vee en
+Vlees.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2</lidnr>
+                           <al>De in het
+eerste lid bedoelde medewerking bestaat uit het verrichten van
+werkzaamheden en het bij verordening stellen van nadere regels, die
+noodzakelijk zijn voor het heffen van een vergoeding van kosten inzake
+het krachtens <extref status="actief" doc="1.0:v:BWBR0009019&amp;artikel=2" compleet="nee">artikel 2, tweede lid, onderdeel d, van het Besluit
+identificatie en registratie van dieren</extref> uitgegeven
+identificatiedocument voor eenhoevige dieren, alsmede uit het
+vaststellen van een tarief ter zake van deze
+vergoeding.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">3</lidnr>
+                           <al>Onverminderd
+het tweede lid bestaat de gevorderde medewerking uit het verrichten van
+werkzaamheden en het bij verordening stellen van nadere regels met
+betrekking tot de betaling van de in het tweede lid bedoelde
+vergoeding.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">4</lidnr>
+                           <al>Bij
+verordening als bedoeld in het tweede en derde lid, kan de bevoegdheid
+tot het vaststellen van de hoogte van de in het tweede lid bedoelde
+vergoeding worden overgedragen aan een ander orgaan van het
+Productschap Vee en
+Vlees.</al>
+                        </lid>
+                     </artikel>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">43n</nr>
+                        </kop>
+                        <al>Het
+Productschap Vee en Vlees kan in de <extref status="actief" doc="1.0:v:BWBR0026239" compleet="nee">Verordening identificatie en
+registratie van paardachtigen (PVV) 2009</extref> bepalen dat bij overtreding
+van de <extref status="actief" doc="1.0:v:BWBR0026239&amp;artikel=6" compleet="nee">artikelen 6, derde en vierde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0026239&amp;artikel=7" compleet="nee">7, eerste en tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0026239&amp;artikel=9" compleet="nee">9,
+tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0026239&amp;artikel=10" compleet="nee">10</extref>, <extref status="actief" doc="1.0:v:BWBR0026239&amp;artikel=12" compleet="nee">12</extref> en <extref status="actief" doc="1.0:v:BWBR0026239&amp;artikel=13" compleet="nee">13 van die verordening tuchtrechtelijke
+maatregelen</extref> worden
+gesteld.</al>
+                     </artikel>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">43o</nr>
+                        </kop>
+                        <al>Regelgeving
+die tot 1 januari 2010 gebaseerd was op de <extref status="actief" doc="1.0:v:BWBR0016030&amp;artikel=1" compleet="nee">artikelen 1</extref> en <extref status="actief" doc="1.0:v:BWBR0016030&amp;artikel=2" compleet="nee">2 van de
+Regeling medebewind vergoeding en tuchtrechtelijke maatregelen
+identificatie en registratie eenhoevige dieren</extref> berust op de <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=43m">artikelen
+43m</intref> en
+<intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=43n">43n</intref>.</al>
+                     </artikel></paragraaf><paragraaf> 
+		  <kop> 
+			 <label>&#xA7;</label><nr status="officieel">9</nr><titel status="officieel">Overgangs- en slotbepalingen
+				</titel> 
+		  </kop> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr>44</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr>1</lidnr> 
+				<al>Indien een houder van dieren op het tijdstip van
+				  inwerkingtreding van deze regeling overeenkomstig artikel 2 van
+				  de Regeling identificatie en registratie van dieren 2002 is
+				  geregistreerd, geldt deze registratie als een registratie overeenkomstig
+				  <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=2">artikel 2 van deze regeling</intref>.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr>2</lidnr> 
+				<al>Indien een UBN op het tijdstip van inwerkingtreding van deze
+				  regeling is toegekend, geldt dit UBN als UBN dat is toegekend overeenkomstig
+				  <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=3">artikel 3, tweede lid, van deze regeling</intref>.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr>3</lidnr> 
+				<al>Ontheffingen van het bij of krachtens artikel 3 van de
+				  Verordening identificatie en registratie varkens 1998 bepaalde die zijn
+				  verleend aan een houder van fokvarkens en op grond waarvan het die houder is
+				  toegestaan fokvarkens te merken met een tatoeage, gelden tot 1 januari 2004 als
+				  een ontheffing van <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=8">artikel 8 van deze regeling</intref>.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr>4</lidnr> 
+				<al>In afwijking van de <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=29">artikelen
+				  29, eerste en derde lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=34">34,
+				  eerste en vierde lid</intref>, hoeven varkens, schapen en geiten die
+				  v&#xF3;&#xF3;r 1 februari 2003 vanuit een derde land worden ingevoerd waarbij het
+				  bestemmingsadres een slachthuis is, niet te worden gemerkt overeenkomstig deze
+				  regeling mits de dieren op dit slachthuis binnen 30 dagen na aanvoer worden
+				  geslacht.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr>5</lidnr> 
+				<al>De houder neemt de schapen en geiten die ingevolge
+				  <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=34">artikel 34, eerste lid</intref>, alsnog
+				  worden gemerkt uiterlijk 1 mei 2003 op in het bedrijfsregister, bedoeld in
+				  <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=36">artikel 36</intref>, en vermeldt daarbij
+				  het oormerknummer van het aangebrachte merk en, voor zover bekend, de
+				  geboortedatum van het desbetreffende schaap of de desbetreffende geit.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr>6</lidnr> 
+				<al>Tot 1 februari 2003 kan de houder van schapen of geiten gebruik
+				  maken van het bedrijfsregister, respectievelijk het vervoersdocument dat
+				  overeenkomt met het model dat is opgenomen in Bijlage II, onderdeel B,
+				  respectievelijk Bijlage III, van de Regeling identificatie en registratie van
+				  dieren 2002. </al> 
+			 </lid> 
+		  </artikel> 
+		  <artikel status="goed"><kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">44a</nr> 
+			 </kop><lid><lidnr>1</lidnr><al>Van de toegelaten oormerken voor runderen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;bijlage=I">bijlage I, onderdeel B, onder 1</intref>, bij de Regeling identificatie en registratie van dieren zoals die luidde onmiddellijk voor inwerkingtreding van de regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit, van 27 november 2006, houdende wijziging van de Regeling identificatie en registratie van dieren in verband met modernisering van voorschriften I&amp;R runderen (TRCJZ/2006/3606), worden de modellen geacht te zijn goedgekeurd op grond van <intref status="slapend" verwijzing-id="2096732">artikel 12a, onderdeel a</intref>.</al></lid><lid><lidnr>2</lidnr><al>De leveranciers van voor runderen toegelaten oormerken, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;bijlage=I">bijlage I, onderdeel B, onder 1</intref>, van de Regeling identificatie en registratie van dieren zoals die luidde onmiddellijk voor inwerkingtreding van de regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit, van 27 november 2006, houdende wijziging van de Regeling identificatie en registratie van dieren in verband met modernisering van voorschriften I&amp;R runderen (TRCJZ/2006/3606), worden geacht te zijn geregistreerd op grond van <intref status="slapend" verwijzing-id="2096734">artikel 12a, onderdeel b</intref>.</al></lid>
+              
+              <lid><lidnr>3</lidnr><al>In afwijking van <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=23">artikel 23, tweede lid</intref>, geschiedt het verzoek tot herstel van een kennisgeving die v&#xF3;&#xF3;r 1&#xA0;december 2006 is gedaan, schriftelijk in papieren versie aan het ministerie.</al></lid></artikel><artikel status="goed"><kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">44b</nr> 
+			 </kop><lid><lidnr status="officieel">1</lidnr><al>Van de toegelaten oormerken voor schapen en geiten, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;bijlage=I">bijlage I, onderdeel D, onder 1, 2 en 3</intref>, bij de Regeling identificatie en registratie van dieren zoals die luidde onmiddellijk voor inwerkingtreding van de regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit, van 27 november 2006, houdende wijziging van de Regeling identificatie en registratie van dieren in verband met modernisering van voorschriften I&amp;R runderen (TRCJZ/2006/3606), wordt het model goedgekeurd op grond van <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12f">artikel 12f, eerste lid, onderdeel a</intref>.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Leveranciers van voor schapen en geiten toegelaten oormerken, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;bijlage=I">bijlage I, onderdeel D, onder 1, 2 en 3</intref>, bij de Regeling identificatie en registratie van dieren zoals die luidde onmiddellijk voor inwerkingtreding van de regeling van 27 november 2006, TRCJZ/2006/3606 worden geacht te zijn geregistreerd door Dienst Regelingen van het Ministerie op grond van <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12f">artikel 12f, eerste lid, onderdeel c</intref>.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Merken die zijn gebruikt in de Pilot Elektronische identificatie en registratie voor schapen en geiten, als bedoeld in de beschikking van de Minister van Landbouw, Natuur en Voedselkwaliteit van 27 april 2006 houdende een ontheffing op de Regeling Identificatie en Registratie van dieren en het Ingrepenbesluit, VD/06/920, worden geacht te zijn goedgekeurd op grond van <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12f">artikel 12f, eerste lid, onderdeel a</intref>.</al></lid><lid><lidnr status="officieel">4</lidnr><al>Leveranciers van merken die zijn gebruikt in de Pilot Elektronische identificatie en registratie voor schapen en geiten, als bedoeld in de beschikking van de Minister van Landbouw, Natuur en Voedselkwaliteit van 27 april 2006 houdende een ontheffing op de Regeling Identificatie en Registratie van dieren en het Ingrepenbesluit, VD/06/920, worden geacht te zijn geregistreerd op grond van <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12f">artikel 12f, tweede lid, onderdeel b</intref>.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">44c</nr></kop><lid><lidnr status="officieel">1</lidnr><al><redactie type="vervanging">Vervallen.</redactie>.</al></lid><lid><lidnr status="officieel">2</lidnr><al><redactie type="vervanging">Vervallen.</redactie>.</al></lid><lid><lidnr status="officieel">3</lidnr><al><redactie type="vervanging">Vervallen.</redactie>.</al></lid><lid><lidnr status="officieel">4</lidnr><al><redactie type="vervanging">Vervallen.</redactie>.</al></lid><lid><lidnr status="officieel">5</lidnr><al><intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=36">Artikel&#xA0;36,
+vierde lid</intref>, van de Regeling identificatie en registratie van dieren,
+zoals die luidde onmiddellijk voor inwerkingtreding van dit artikel,
+blijft van toepassing voor houders die ingevolge <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=36">artikel&#xA0;36,
+eerste lid</intref>, van de Regeling identificatie en registratie van dieren,
+zoals die luidde onmiddellijk voor inwerkingtreding van dit artikel,
+gegevens hebben aangetekend in het register, bedoeld in artikel 5,
+eerste lid, van verordening
+21/2004.</al></lid><lid><lidnr status="officieel">6</lidnr><al>Een
+houder mag schapen en geiten die geboren zijn voor 1&#xA0;januari 2010,
+na deze datum identificeren overeenkomstig <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e, eerste
+lid, onderdelen a, f, en g en tweede lid</intref>, van de Regeling identificatie
+en registratie van dieren, zoals die luidde onmiddellijk voor
+inwerkingtreding van dit
+artikel.</al></lid><lid><lidnr status="officieel">7</lidnr><al>Schapen
+en geiten die ge&#xEF;dentificeerd zijn overeenkomstig <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e</intref>
+in samenhang met de <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=34">artikelen 34 tot en met 34b</intref> van de Regeling
+identificatie en registratie van dieren, zoals die luidde onmiddellijk
+voor inwerkingtreding van dit artikel, worden geacht te zijn
+ge&#xEF;dentificeerd overeenkomstig <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=12e">artikel&#xA0;12e</intref> in samenhang met
+de <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=35">artikelen 35 tot en met
+38</intref>.</al></lid><lid><lidnr status="officieel">8</lidnr><al><redactie type="vervanging">Vervallen.</redactie>.</al></lid><lid><lidnr status="officieel">9</lidnr><al><redactie type="vervanging">Vervallen.</redactie>.</al></lid><lid><lidnr status="officieel">10</lidnr><al><redactie type="vervanging">Vervallen.</redactie>.</al></lid><lid>
+<lidnr status="officieel">11</lidnr><al><redactie type="vervanging">Vervallen.</redactie>.</al></lid><lid>
+                     <lidnr status="officieel">12</lidnr>
+                     <al><redactie type="vervanging">Vervallen.</redactie>.</al>
+                  </lid>
+                  <lid>
+                     <lidnr status="officieel">13</lidnr>
+                     <al>In
+afwijking van het eerste, tweede en derde lid, stelt de houder van
+schapen of geiten op een bedrijf waar op grond van <extref status="actief" doc="1.0:v:BWBR0005662&amp;artikel=22" compleet="nee">artikel 22, eerste
+lid, onderdeel d, van de Gezondheids- en welzijnswet</extref> voor dieren vanaf
+1 juli 2010 een besmetting met Q-koorts is geconstateerd, de minister
+binnen twee weken na voornoemde constatering ten aanzien van alle door
+hem gehouden schapen en geiten in kennis van de gegevens, bedoeld in
+deel B, onderdeel 2, onder a, b en d, van de bijlage bij verordening
+21/2004.</al>
+                  </lid></artikel><artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">44d</nr>
+                     </kop>
+                     <al>Deze
+regeling berust mede op <extref status="actief" doc="1.0:v:BWBR0002252&amp;artikel=13" compleet="nee">artikel 13 van de Landbouwwet</extref>, de <extref status="actief" doc="1.0:v:BWBR0005662&amp;artikel=94" compleet="nee">artikelen 94</extref>,
+<extref status="actief" doc="1.0:v:BWBR0005662&amp;artikel=108" compleet="nee">108</extref> en <extref status="actief" doc="1.0:v:BWBR0005662&amp;artikel=108a" compleet="nee">108a van de Gezondheids- en welzijnswet voor dieren</extref> en <extref status="actief" doc="1.0:v:BWBR0006829&amp;artikel=2" compleet="nee">artikel 2
+van het Besluit verdachte
+dieren</extref>.</al>
+                  </artikel><artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr>45</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr>1</lidnr> 
+				<al>De Regeling identificatie en registratie van dieren 2002 wordt
+				  ingetrokken.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr>2</lidnr> 
+				<al>In afwijking van het eerste lid blijft de regeling, bedoeld in
+				  het eerste lid, van toepassing voor zover dat voor de strafrechtelijke
+				  handhaving van de daarin opgenomen bepalingen noodzakelijk is. </al> 
+			 </lid> 
+		  </artikel> 
+		  <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">45a</nr>
+                     </kop>
+                     <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>De
+<extref status="actief" doc="1.0:v:BWBR0014539" compleet="nee">Regeling tarieven I&amp;R</extref> wordt
+ingetrokken.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De
+<extref status="actief" doc="1.0:v:BWBR0016030" compleet="nee">Regeling medebewind vergoeding en tuchtrechtelijke maatregelen
+identificatie en registratie eenhoevige dieren</extref> wordt
+ingetrokken.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>In
+afwijking van het eerste lid blijft de regeling, bedoeld in het eerste
+lid, van toepassing ten aanzien van de bevoegdheid van de minister om
+de hoogte van de totaal verschuldigde bedragen overeenkomstig die
+regeling vast te
+stellen.</al>
+                     </lid>
+                  </artikel><artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr>46</nr> 
+			 </kop> 
+			 <al>Deze regeling treedt in werking met ingang van 1 januari 2003,
+				met uitzondering van <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=34">artikel 34, eerste
+				lid</intref>, dat op 1 mei 2003 in werking treedt. </al> 
+		  </artikel> 
+		  <artikel status="goed"><kop><label>Artikel</label><nr>47</nr></kop><al>Deze regeling wordt aangehaald als: Regeling identificatie en
+				registratie van dieren.</al></artikel> 
+		</paragraaf> 
+	 </regeling-tekst> 
+	 <regeling-sluiting status="goed"> 
+		<slotformulering> 
+		  <al>Deze regeling zal met de toelichting in de Staatscourant worden
+			 geplaatst.</al> 
+		</slotformulering> 
+		<ondertekenaar> 
+		  <ondertekening>De <functie> Staatssecretaris</functie> van
+			 <organisatie>Landbouw, Natuurbeheer en Visserij</organisatie>, 
+			 <naam> 
+				<voornaam>B.J.</voornaam><achternaam>Odink</achternaam> 
+			 </naam> </ondertekening> 
+		</ondertekenaar> 
+	 </regeling-sluiting> 
+	  
+	 <bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">II</nr><titel status="officieel">Onderzoeken als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014538&amp;artikel=26">artikel 26</intref></titel></kop><al>1. Een onderzoek van hersenweefsel met &#xE9;&#xE9;n van de testen als bedoeld in bijlage X, hoofdstuk C, punt 4, van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening (EG) nr. 999/2001</extref> van het Europees Parlement en de Raad van de Europese Unie van 22&#xA0;mei 2001 houdende vaststelling van voorschriften inzake preventie, bestrijding en uitroeiing van bepaalde overdraagbare spongiforme encefalopathie&#xEB;n (PbEG L 147).</al>
+              <al>2. Een onderzoek naar stoffen waarvan de toediening bij of krachtens een wettelijk voorschrift is verboden.</al>
+              <al>3. Een onderzoek naar stoffen waarvan de aanwezigheid een bij of krachtens wettelijk voorschrift vastgestelde hoeveelheid overschrijdt.</al>
+              <al>4. Een onderzoek naar de aanwezigheid van residuen van bacteriegroeiremmende stoffen met behulp van de Nieuwe Nederlandse Niertest (NNNT).</al></bijlage><bijlage status="goed">
+		<kop><label>Bijlage</label><nr status="officieel">III</nr></kop> 
+		<divisie opmaak="default">
+		  <kop><label>Onderdeel</label><nr status="officieel">A</nr>
+		  </kop>
+		<plaatje><illustratie bin-id="55373" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/55373"/></plaatje></divisie>
+		
+	 </bijlage>
+	 
+  </regeling>
+</wetgeving>
+  	

@@ -1,0 +1,848 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0023197" dtdversie="2.0" id="390449" soort="zbo">
+  
+  <intitule>Regeling inrichting en gebruik van een infrastructuur voor elektronische informatie-uitwisseling ter uitvoering van de Zorgverzekeringswet</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>Het College voor zorgverzekeringen,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=92" compleet="nee">artikel 92 van de Zorgverzekeringswet</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Heeft in zijn vergadering van 17&#xA0;december 2007 besloten de volgende regeling vast te stellen:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+        </kop>
+        <al>Een zorgverzekeraar maakt voor de in deze regeling aan te wijzen informatie-uitwisselingen met de volgende personen en instanties gebruik van de in deze regeling te omschrijven infrastructuur voor elektronische communicatie:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>andere zorgverzekeraars;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>het College voor zorgverzekeringen (CVZ);</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>de Belastingdienst (BD);</al>
+          </li>
+          <li>
+            <li.nr>d.</li.nr>
+            <al>het Uitvoeringsinstituut werknemersverzekeringen (UWV);</al>
+          </li>
+          <li>
+            <li.nr>e.</li.nr>
+            <al>de Sociale Verzekeringsbank (SVB);</al>
+          </li>
+          <li>
+            <li.nr>f.</li.nr>
+            <al>het Inlichtingenbureau (IB);</al>
+          </li>
+          <li>
+            <li.nr>g.</li.nr>
+            <al>het Centraal Bureau voor de Statistiek (CBS).</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+        </kop>
+        <al>Het college wijst als infrastructuur aan hetgeen hierna wordt omschreven in <intref status="actief" doc="1.0:v:BWBR0023197&amp;artikel=3">artikel 3, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023197&amp;artikel=4">artikel 4</intref>, en <intref status="actief" doc="1.0:v:BWBR0023197&amp;artikel=5">artikel 5</intref>.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De zorgverzekeraar draagt er zorg voor dat voor elke bij die zorgverzekeraar verzekerde persoon de volgende gegevens worden opgenomen in een centrale database, die wordt aangeduid als het Referentiebestand Verzekerden Zorgverzekeringswet (RBVZ):</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>het Burgerservicenummer van de verzekerde;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>het UZOVI-nummer van de betreffende verzekeraar;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de begindatum van de verzekering;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>de einddatum van de verzekering.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Voor de toepassing van deze regeling wordt, tenzij uitdrukkelijk anders bepaald, het college aangemerkt als zorgverzekeraar voor zover het betreft de in <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=69" compleet="nee">artikel 69 van de Zorgverzekeringswet</extref> bedoelde personen die zich bij het college hebben aangemeld, worden die personen gelijkgesteld met verzekerden, en worden met begindatum respectievelijk einddatum van de verzekering gelijkgesteld de begindatum respectievelijk einddatum van de inschrijving bij het college.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Een zorgverzekeraar levert de in <intref status="actief" doc="1.0:v:BWBR0023197&amp;artikel=3">artikel 3</intref> genoemde gegevens op een gestandaardiseerde wijze, als omschreven in  de functionele beschrijving en de berichtspecificaties voor het RBVZ, elektronisch aan voor verwerking in het RBVZ.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De zorgverzekeraar treft de voorzieningen die noodzakelijk zijn om te bewerkstelligen dat de in de eigen administratie verwerkte gegevens en de in het RBVZ opgenomen gegevens juist en actueel zijn en op elkaar aansluiten en blijven aansluiten.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De zorgverzekeraars dragen de inrichting en het beheer van het RBVZ op aan een rechtspersoon. Deze rechtspersoon is bevoegd de opgedragen taak, met inachtneming van de door de zorgverzekeraars gestelde voorwaarden en onverminderd de verantwoordelijkheid van die rechtspersoon, aan een andere rechtspersoon ter uitvoering te geven.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De in het eerste lid, eerste volzin, bedoelde rechtspersoon biedt tevens diensten en faciliteiten aan ten behoeve van het routeren en distribueren van informatie tussen de in <intref status="actief" doc="1.0:v:BWBR0023197&amp;artikel=1">artikel 1</intref> bedoelde instanties. Deze routerings- en distributiefunctie wordt aangeduid als Sektoraal Aanspreekpunt Zorgverzekeringen (SA-Z). Het RBVZ wordt door het SA-Z gebruikt als verwijsinstrument bij de routering en distributie van elektronische berichten.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De door de in het eerste lid, eerste zin, bedoelde rechtspersoon te leveren diensten en faciliteiten omvatten mede het inrichten en beheren, in aanvulling op het RBVZ en in opdracht en onder verantwoordelijkheid van de zorgverzekeraars, van de volgende bestanden:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>gemoedsbezwaarden;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>militairen;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>werknemers, al dan niet zijnde grensarbeiders, met een dienstbetrekking in Nederland en een woonadres buiten Nederland;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>ondernemers die buiten Nederland wonen maar in Nederland bedrijf uitoefenen;</al>
+            </li>
+          <li>
+                        <li.nr>e.</li.nr>
+                        <al>wanbetalers;</al>
+                     </li><li>
+                           <li.nr>f.</li.nr>
+                           <al>onverzekerden.</al>
+                        </li></lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Een zorgverzekeraar stelt ten minste de volgende eisen aan de op grond van het eerste lid, eerste zin, aan te wijzen rechtspersoon:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de rechtspersoon voert geen taken uit in strijd met de geldende wet- en regelgeving;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de rechtspersoon heeft geen winstoogmerk;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de rechtspersoon neemt maatregelen ter waarborging van de veiligheid en betrouwbaarheid van het informatieverkeer en van de privacy;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>de rechtspersoon treft maatregelen ter waarborging van de continu&#xEF;teit van de dienstverlening;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>de rechtspersoon legt over de uitvoering van haar taken ten minste jaarlijks verantwoording, inclusief een financi&#xEB;le verantwoording, af aan de zorgverzekeraars en aan het college;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>een besluit tot opheffing van de rechtspersoon kan slechts worden genomen in overeenstemming met de zorgverzekeraar;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>het gebruik van de infrastructuur voor andere dan de in <intref status="actief" doc="1.0:v:BWBR0023197&amp;artikel=6">artikel 6</intref> genoemde informatie-uitwisselingen mag niet ten koste gaan van de in <intref status="actief" doc="1.0:v:BWBR0023197&amp;artikel=6">artikel 6</intref> genoemde informatie-uitwisselingen.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>De kosten voor de dienstverlening bedoeld in deze regeling worden gedragen door de zorgverzekeraars, naar rato van het aantal bij hen ingeschreven verzekerden. De rechtspersoon bedoeld in <intref status="actief" doc="1.0:v:BWBR0023197&amp;artikel=5">artikel 5, eerste lid, eerste volzin</intref>, stelt jaarlijks in overeenstemming met de zorgverzekeraars een begroting op die bepalend is voor de te betalen bijdrage per zorgverzekeraar.</al>
+        </lid>
+      </artikel>
+      <paragraaf>
+        <kop>
+          <titel status="officieel">De informatie-uitwisselingen</titel>
+        </kop>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Informatie-uitwisselingen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0023197&amp;artikel=1">artikel 1</intref> zijn:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>1.</li.nr>
+              <al>Melding van begindatum en einddatum van inschrijvingen van verzekerden door zorgverzekeraars aan andere zorgverzekeraars ten behoeve van de oplegging van boetes op grond van <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=96" compleet="nee">artikel 96 Zvw</extref>.</al>
+            </li>
+            <li>
+              <li.nr>2.</li.nr>
+              <al>Melding van begindatum en einddatum van inschrijvingen van verzekerden door zorgverzekeraars aan het CVZ ten behoeve van uitvoering van de risicoverevening.</al>
+            </li>
+            <li>
+              <li.nr>3.</li.nr>
+              <al>Melding van begindatum en einddatum van inschrijvingen van verzekerden door zorgverzekeraars aan de Belastingdienst ten behoeve van uitvoering <extref status="actief" doc="1.0:v:BWBR0018451" compleet="nee">Wet op de zorgtoeslag</extref>. </al>
+            </li>
+            <li>
+              <li.nr>4.</li.nr>
+              <al>Melding van begindatum en einddatum van inschrijvingen van verzekerden door zorgverzekeraars aan het CBS ten behoeve van monitoring aantal onverzekerden. </al>
+            </li>
+            <li>
+              <li.nr>5.</li.nr>
+              <al>Melding van begindatum en einddatum van de status van gemoedsbezwaarde door de SVB aan zorgverzekeraars, het CVZ en de Belastingdienst ten behoeve van de toetsing verzekeringsplichtigheid, de uitvoering van <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=70" compleet="nee">artikel 70 van de Zorgverzekeringswet</extref>, en de uitvoering van de <extref status="actief" doc="1.0:v:BWBR0018451" compleet="nee">Wet op de zorgtoeslag</extref>. </al>
+            </li>
+            <li>
+              <li.nr>6.</li.nr>
+              <al>Melding van begindatum en einddatum van de status van militair door het UWV aan zorgverzekeraars en de Belastingdienst ten behoeve van de toetsing op verzekeringsplichtigheid, en ten behoeve van de uitvoering van de <extref status="actief" doc="1.0:v:BWBR0018451" compleet="nee">Wet op de zorgtoeslag</extref>. </al>
+            </li>
+            <li>
+              <li.nr>7.</li.nr>
+              <al>Melding van begindatum en einddatum van de status van grensarbeider door het UWV aan zorgverzekeraars ten behoeve van de toetsing op verzekeringsplichtigheid. </al>
+            </li>
+            <li>
+              <li.nr>8.</li.nr>
+              <al>Melding van begindatum en einddatum van de status van in het buitenland wonende maar in Nederland bedrijf uitoefenende ondernemers door de Belastingdienst aan zorgverzekeraars ten behoeve van de toetsing op verzekeringsplichtigheid.</al>
+            </li>
+          <li><li.nr>9.</li.nr><al>Melding
+van de datum waarop de situatie bedoeld in <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=18c" compleet="nee">artikel 18c, eerste lid
+Zorgverzekeringswet</extref> zich voordoet en melding van de datum bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=18d" compleet="nee">artikel 18d, derde lid, Zorgverzekeringswet</extref> aan het CVZ ten behoeve van
+uitvoering van het bepaalde in <extref status="actief" doc="1.0:v:BWBR0018450&amp;afdeling=3.3.2" compleet="nee">afdeling 3.3.2</extref> en <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=34a" compleet="nee">artikel 34a van de
+Zorgverzekeringswet</extref>.</al></li><li>
+                           <li.nr>10.</li.nr>
+                           <al>Melding van begindatum en einddatum van
+inschrijvingen van verzekerden door zorgverzekeraars aan de Sociale
+Verzekeringsbank ten behoeve van de opsporing van
+onverzekerden.</al>
+                        </li></lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>In een <intref status="actief" doc="1.0:v:BWBR0023197&amp;bijlage=">bijlage</intref> bij deze regeling worden de in het eerste lid omschreven informatie-uitwisselingen gespecificeerd.</al>
+        </lid>
+      </artikel></paragraaf>
+      
+      
+      
+    <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Publicatie en in werkingtreding</titel>
+        </kop>
+        <al>Deze regeling zal met de toelichting en de <intref status="actief" doc="1.0:v:BWBR0023197&amp;bijlage=">bijlage</intref> worden gepubliceerd in de Staatscourant. Zij treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.</al>
+      </artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Citeertitel</titel>
+        </kop>
+        <al>Deze regeling wordt aangehaald als: Regeling elektronisch gegevensverkeer Zorgverzekeringswet</al>
+      </artikel></regeling-tekst>
+    <regeling-sluiting status="goed">
+      <ondertekening>
+        <functie>Voorzitter Raad van Bestuur</functie>,
+        <naam>
+          <voornaam>P.C.</voornaam>
+          <achternaam>Hermans</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><titel status="officieel">als bedoeld in <intref status="actief" doc="1.0:v:BWBR0023197&amp;artikel=6">artikel 6, tweede lid</intref></titel>
+      </kop>
+      <al>In onderstaande tabel wordt per bewerking vermeld:</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>welke gegevens het betreft en hoe die gegevens worden bewerkt;</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>op welke informatie-uitwisseling de bewerking betrekking heeft respectievelijk wat het doel van de bewerking is;</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>wie verantwoordelijk is voor de bewerking;</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>wat de wettelijke grondslag is.</al>
+        </li>
+      </lijst>
+      <table frame="topbot" tabstyle="stcrt3">
+        <tgroup align="left" char="" charoff="50" cols="5" tgroupstyle="stcrt3">
+          <colspec colname="col1" colnum="1" colwidth="8*"/>
+          <colspec colname="col2" colnum="2" colwidth="37*"/>
+          <colspec colname="col3" colnum="3" colwidth="37*"/>
+          <colspec colname="col4" colnum="4" colwidth="37*"/>
+          <colspec colname="col5" colnum="5" colwidth="37*"/>
+          <thead valign="bottom">
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Nr</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Verwerking</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Doel verwerking</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Verantwoordelijk voor verwerking in de zin van de <extref status="actief" doc="1.0:v:BWBR0011468" compleet="nee">Wbp</extref></al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wettelijke grondslag</al>
+              </entry>
+            </row>
+          </thead>
+          <tbody valign="top">
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Melding van verzekerden door zorgverzekeraars aan RBVZ.</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>&#x2013; Instandhouding faciliteit sectoraal berichtenverkeer</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Zorgverzekeraars</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al><extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=35" compleet="nee">artt. 35, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=86" compleet="nee">86, derde lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=89" compleet="nee">89, eerste lid, Zvw</extref></al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Gegevens: burgerservicenummer, ingangs-/einddatum zorgverzekering, Uzovi-code zorgverzekeraar</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Melding van verzekerden &#x2013; vanuit RBVZ &#x2013; aan CVZ.</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>&#x2013; Uitvoering risico-verevening (vaststellen vereveningsbijdragen)</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>CVZ</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al><extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=35" compleet="nee">artt. 35, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=86" compleet="nee">86, derde lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=89" compleet="nee">89, eerste lid, Zvw</extref></al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Gegevens: als 1, behoudens burgerservicenummer (BSN moet worden gepseudonimiseerd)</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>NB: door pseudonimisering BSN is dit strikt genomen geen uitwisseling van persoonsgegevens en hoeft dus niet aan CBP te worden gemeld.</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>3</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Melding van verzekerden &#x2013; vanuit RBVZ &#x2013; aan zorgverzekeraars (namens CVZ).</al>
+                <al>Gegevens: als 1</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>&#x2013; Uitvoering risico-verevening (opsporen van dubbel verzekerden)</al>
+                <al>&#x2013; Melding dubbel verzekerden aan zorgverzekeraars</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>CVZ</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al><extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=35" compleet="nee">art. 35, derde lid, Zvw</extref>, juncto <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=86" compleet="nee">art. 86, derde lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=89" compleet="nee">art. 89, eerste lid, Zvw</extref></al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>4</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Melding &#x2013; vanuit RBVZ &#x2013; van de einddatum vorige verzekering aan zorgverzekeraars.</al>
+                <al>Gegevens: als 1</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Boete-oplegging ivm niet of te laat verzekerd zijn van een verzekeringsplichtige</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Zorgverzekeraars</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al><extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=96" compleet="nee">art. 96, eerste en vijfde lid</extref>, juncto <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=86" compleet="nee">art. 86, derde lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=89" compleet="nee">art. 89, eerste lid, Zvw</extref></al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>5</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Melding van contra-indicaties uit deelbestanden RBVZ aan zorgverzekeraars</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Toets verzekeringsplicht/ acceptatieplicht</al>
+                <al>(contra-indicaties, zoals status militair, gemoedsbe-</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Zorgverzekeraars</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al><extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=3" compleet="nee">Art. 3, eerste lid</extref>, juncto <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=2" compleet="nee">art. 2, eerste en tweede lid</extref>, juncto <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=86" compleet="nee">art. 86, derde lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=89" compleet="nee">art. 89, eerste lid, Zvw</extref></al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Gegevens: burgerservicenummer, melding samenloop met onverenigbare deelbestanden</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>zwaarde, verdragsgerechtigde)</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>6</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Melding van verdragsgerechtigde personen door CVZ aan deelbestand RBVZ.</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>&#x2013; Instandhouding faciliteit sectoraal berichtenverkeer</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>CVZ</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al><extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=69" compleet="nee">art. 69, eerste, tweede en vierde lid</extref>, juncto <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=86" compleet="nee">art. 86, derde lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=89" compleet="nee">art. 89, eerste lid, Zvw</extref></al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Gegevens: burgerservicenummer, ingangs-/einddatum verdragsaanspraken, Uzovi-code CVZ</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>7</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Melding vanuit RBVZ (einddatum vorige inschrijving) en deelbestanden (contra-indicaties) aan CVZ</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Boete-oplegging te late meldingen verdragsgerechtigdheid Toets recht inschrijving als verdragsgerechtigde</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>CVZ</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al><extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=69" compleet="nee">art. 69, derde lid</extref>, juncto <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=86" compleet="nee">art. 86, derde lid,</extref> en <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=89" compleet="nee">art. 89, eerste lid, Zvw</extref></al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>8</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Melding van gemoedsbezwaarden door SVB via deelbestand RBVZ aan CVZ, zorgverzekeraars en BD.</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>&#x2013; Uitvoering spaarrrekening gemoedsbezwaarden (toets op niet verzekerd zijn)</al>
+                <al>&#x2013; Toets op contra-indicatie verzekeringsplicht door zorg-</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>CVZ</al>
+                <al>Zorgverzekeraars</al>
+                <al>BD</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al><extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=70" compleet="nee">art. 70</extref>, juncto <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=2" compleet="nee">artt. 2, tweede lid, onderdeel b</extref>, <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=3" compleet="nee">3, eerste lid</extref>, <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=86" compleet="nee">86, derde lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=89" compleet="nee">89, eerste lid, Zvw</extref></al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Gegevens: burgerservicenummer, ingangs-/einddatum status</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>verzekeraars</al>
+                <al>&#x2013; Uitvoering <extref status="actief" doc="1.0:v:BWBR0018451" compleet="nee">Wet op de zorgtoeslag</extref> (Wzt)</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al><extref status="actief" doc="1.0:v:BWBR0018451&amp;artikel=2" compleet="nee">art. 2 Wzt</extref></al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>9</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Melding van verzekerden en verdragsgerechtigden vanuit RBVZ namens zorgverzekeraars en CVZ aan BD</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Uitvoering <extref status="actief" doc="1.0:v:BWBR0018451" compleet="nee">Wet op de zorgtoeslag</extref> (Wzt)</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Zorgverzekeraars en CVZ</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al><extref status="actief" doc="1.0:v:BWBR0018451&amp;artikel=2" compleet="nee">art. 2 Wzt</extref></al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Gegevens: burgerservicenummer, wel/geen inschrijving tijdens periode zorgtoeslag</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>10</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Melding van verzekerden en verdragsgerechtigden vanuit RBVZ namens zorgverzekeraars en CVZ aan CBS</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Vaststelling aantal onverzekerden door CBS</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>CVZ en zorgverzekeraars</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al><extref status="actief" doc="1.0:v:BWBR0015926&amp;artikel=33" compleet="nee">artt. 33-36 Wet CBS</extref>, <extref status="actief" doc="1.0:v:BWBR0016060&amp;artikel=2" compleet="nee">art. 2 Besluit gegevensverwerving CBS</extref></al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" colname="col1" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Gegevens:</al>
+                <al>burgerservicenummer, ingangs/einddatum verzekering,</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>11</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Melding &#x2013; door zorgverzekeraars &#x2013; van verzekerden met achterstand premiebetaling aan gemeenten/inlichtingenbureau</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Sociale diensten in staat stellen premie in te houden op uitkering van uitkeringsgerechtigden met achterstand en rechtstreeks te betalen aan verzekeraar</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Zorgverzekeraars</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al><extref status="actief" doc="1.0:v:BWBR0015703&amp;artikel=57" compleet="nee">artt. 57</extref> en <extref status="actief" doc="1.0:v:BWBR0015703&amp;artikel=63" compleet="nee">63 Wet werk en bijstand</extref>, <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=89" compleet="nee">art. 89, eerste lid, Zvw</extref></al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>12</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Melding door UWV &#x2013; via deelbestand RBVZ &#x2013; aan zorgverzekeraars en belastingdienst van personen die status militair krijgen/verliezen</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>&#x2013; Toetsing verzekeringsplicht/ acceptatieplicht/ inschrijving (zie ook 4)</al>
+                <al>&#x2013; Uitvoering <extref status="actief" doc="1.0:v:BWBR0018451" compleet="nee">Wet op de zorgtoeslag</extref></al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Zorgverzekeraars</al>
+                <al>Belastingdienst</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Zorgverzekeraars: <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=2" compleet="nee">artt. 2, tweede lid, onderdeel a</extref>, <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=3" compleet="nee">3, eerste lid</extref>, <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=86" compleet="nee">86, derde lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=89" compleet="nee">89, eerste lid, Zvw</extref>.</al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" colname="col1" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Gegevens: burgerservicenummer, indicatie status militair, begin/ einddatum status</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Belastingdienst: <extref status="actief" doc="1.0:v:BWBR0018451&amp;artikel=2" compleet="nee">art. 2 Wzt</extref>, juncto <extref status="actief" doc="1.0:v:BWBR0018472&amp;artikel=38" compleet="nee">art. 38 Awir</extref> en <extref status="actief" doc="1.0:v:BWBR0018707&amp;artikel=1a" compleet="nee">artt. 1a</extref> en <extref status="actief" doc="1.0:v:BWBR0018707&amp;artikel=1b" compleet="nee">1b van het daarop steunende Uitvoeringsbesluit Awir</extref></al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>13</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Melding van in het buitenland wonende, maar in NL werkende verzekeringsplichtige grensarbeiders en werknemers, door UWV uit polisadministratie, via deelbestand RBVZ, aan zorgverzekeraars</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>&#x2013; Vaststelling verzekeringsplicht door zorgverzekeraars</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Zorgverzekeraars</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Zorgverzekeraars: <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=2" compleet="nee">artt. 2, tweede lid, onderdeel a</extref>, <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=3" compleet="nee">3, eerste lid</extref>, <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=86" compleet="nee">86, derde lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=89" compleet="nee">89, eerste lid, Zvw</extref>.</al>
+                <al>
+                  <extref doc="" label="verordening" reeks="Celex" compleet="nee">Verordening 1408/71</extref> + bilaterale verdragen.</al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Gegevens: burgerservicenummer, status grensarbeider, begin/ einddatum status</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>14</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Melding van in buitenland wonende, maar in NL bedrijf uitoefenende ondernemers, door belastingdienst, via deelbestand RBVZ, aan zorgverzekeraars</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>&#x2013; Vaststelling verzekeringsplicht door zorgverzekeraars</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Zorgverzekeraars</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Zorgverzekeraars: <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=2" compleet="nee">artt. 2, tweede lid, onderdeel a</extref>, <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=3" compleet="nee">3, eerste lid</extref>, <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=86" compleet="nee">86, derde lid,</extref> en <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=89" compleet="nee">89, eerste lid, Zvw</extref>,</al>
+                <al>
+                  <extref doc="" label="verordening" reeks="Celex" compleet="nee">Verordening 1408/71</extref> + bilaterale verdragen</al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Gegevens: burgerservicenummer, status ondernemer, begin/ einddatum status</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" morerows="0" rotate="0" valign="top"/>
+            </row><row><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/></row><row><entry align="left" morerows="0" rotate="0" valign="top"><al>15</al></entry><entry align="left" morerows="0" rotate="0" valign="top"><al>Melding
+van verzekerden of verzekeringnemers die voldoen aan het bepaalde in
+<extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=18c" compleet="nee">artikel&#xA0;18c, eerste lid</extref> dan wel <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=18d" compleet="nee">artikel&#xA0;18d, derde lid</extref> aan
+CVZ</al>
+                     </entry><entry align="left" morerows="0" rotate="0" valign="top"><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                     <li>
+                        <li.nr>&#x2013;</li.nr>
+                        <al>Oplegging
+en be&#xEB;indiging bestuurlijke
+premieregime</al>
+                     </li>
+                     <li>
+                        <li.nr>&#x2013;</li.nr>
+                        <al>Vaststelling
+periode en hoogte van de compensatie voor
+zorgverzekeraars</al>
+                     </li>
+                  </lijst></entry><entry align="left" morerows="0" rotate="0" valign="top"><al>CVZ</al></entry><entry align="left" morerows="0" rotate="0" valign="top"><al><extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=18c" compleet="nee">Art. 18c eerste lid</extref>, <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=18d" compleet="nee">18d derde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=18e" compleet="nee">artikel&#xA0;18e</extref> en <extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=34a" compleet="nee">34a
+Zvw</extref>.</al></entry></row><row><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/></row><row><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"><al>Gegevens: UZOVI-nummer, locatiecode, burgerservicenummer,
+geboortedatum, NAW-gegevens, bankrekeningnummer, aan- en afmelddata
+status, ingangsdatum compensatie, ingangsdatum verzekering, reden
+afmelding en uitbetaling zorgtoeslag aan
+zorgverzekeraar</al></entry><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/></row><row><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/></row><row><entry align="left" morerows="0" rotate="0" valign="top"><al>16</al></entry><entry align="left" morerows="0" rotate="0" valign="top"><al>Melding
+van verzekerden vanuit RBVZ door zorgverzekeraars aan
+SVB</al>
+                     
+                  </entry><entry align="left" morerows="0" rotate="0" valign="top"><al> &#x2013; Vergelijking
+met het AWBZ-verzekerdenbestand teneinde na te gaan welke
+verzekeringsplichtigen in weerwil van hun
+verzekeringsplicht niet krachtens een zorgverzekering verzekerd
+zijn.</al></entry><entry align="left" morerows="0" rotate="0" valign="top"><al>Zorgverzekeraars
+en CVZ.</al></entry><entry align="left" morerows="0" rotate="0" valign="top"><al>De
+<extref status="actief" doc="1.0:v:BWBR0018450&amp;artikel=9a" compleet="nee">artikelen 9a en met 9d Zvw</extref> jo. <extref status="actief" doc="1.0:v:BWBR0018715&amp;artikel=6.4a.1" compleet="nee">artikel 6.4a.1 Regeling
+zorgverzekering</extref>.</al></entry></row><row><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/></row><row><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"><al>Gegevens: burgerservicenummer, ingangs-/einddatum
+zorgverzekering,
+Uzovicode.</al></entry><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/></row><row><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/></row>
+          </tbody>
+        </tgroup>
+      </table>
+    </bijlage>
+  </regeling>
+</wetgeving>
+  	

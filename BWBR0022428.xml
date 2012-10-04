@@ -1,0 +1,916 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0022428" dtdversie="2.0" id="382759" soort="wet">
+  
+  
+  <intitule>Wet
+van 21 juli 2007, houdende algemene bepalingen betreffende de
+toekenning, het beheer en het gebruik van het burgerservicenummer (Wet
+algemene bepalingen
+burgerservicenummer)</intitule>
+  
+  <wet-besluit>
+    <aanhef>
+      <wij>Wij
+Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van
+Oranje-Nassau, enz. enz. enz.</wij>
+      <considerans>
+        <considerans.al>Allen,
+die deze zullen zien of horen lezen, saluut! doen te
+weten:</considerans.al>
+        <considerans.al>Alzo Wij in overweging genomen
+hebben, dat het wenselijk is algemene regels te stellen in verband met
+de invoering van een uniek persoonsnummer teneinde de doelmatigheid van
+de administraties van de overheid en enige andere sectoren te vergroten
+en de dienstverlening aan de burger te verbeteren, een en ander met
+inachtneming van de eisen die daaraan behoren te worden gesteld ter
+bescherming van de persoonlijke
+levenssfeer;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Zo is het, dat Wij, de Raad van State gehoord,
+en met gemeen overleg der Staten-Generaal, hebben goedgevonden en
+verstaan, gelijk Wij goedvinden en verstaan bij
+deze:</al>
+      </afkondiging>
+    </aanhef>
+    <wettekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Algemene
+bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>In deze wet
+en de daarop berustende bepalingen wordt verstaan
+onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                              <li.nr>a.</li.nr>
+                              <al>Onze
+Minister: Onze Minister van Binnenlandse Zaken en
+Koninkrijksrelaties;</al>
+                           </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>burgerservicenummer: het als zodanig
+overeenkomstig deze wet aan een natuurlijke persoon toegekend
+nummer;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>overheidsorgaan:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;.</li.nr>
+                  <al>een orgaan van een rechtspersoon die
+krachtens publiekrecht is ingesteld, of</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;.</li.nr>
+                  <al>een ander persoon of college, met enig
+openbaar gezag bekleed;</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>gebruiker:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;.</li.nr>
+                  <al>een overheidsorgaan;</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;.</li.nr>
+                  <al>ieder ander dan een overheidsorgaan of
+degene aan wie het burgerservicenummer is toegekend, voor zover deze
+werkzaamheden verricht waarbij het gebruik door hem of haar van het
+burgerservicenummer bij of krachtens de wet is
+voorgeschreven;</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>GBA:
+basisadministratie van persoonsgegevens als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006723&amp;artikel=2" compleet="nee">artikel 2 van de
+Wet gemeentelijke basisadministratie
+persoonsgegevens</extref>;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>beheervoorziening:
+de beheervoorziening, bedoeld in <intref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=3">artikel
+3</intref>;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>nummerregister: het nummerregister
+dat deel uitmaakt van de
+beheervoorziening;</al>
+            </li>
+            <li>
+                              <li.nr>h.</li.nr>
+                              <al>sociaal-fiscaalnummer:
+het sociaal-fiscaalnummer, bedoeld in <extref status="actief" doc="1.0:v:BWBR0002320&amp;artikel=2" compleet="nee">artikel 2, derde lid, onderdeel
+k, van de Algemene wet inzake
+rijksbelastingen</extref>.</al>
+                           </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <al>Het
+burgerservicenummer bevat geen informatie over de persoon aan wie het
+is toegekend.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Nummerbeheer</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">De
+beheervoorziening</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Onze Minister draagt zorg voor de inrichting
+en de instandhouding van een beheervoorziening, waarvan deel
+uitmaken:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>voorzieningen met behulp waarvan nummers die als
+burgerservicenummer kunnen worden toegekend, worden aangemaakt en ter
+beschikking worden gesteld;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>het
+nummerregister;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>voorzieningen met
+behulp waarvan het nummerregister kan worden
+geraadpleegd;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>voorzieningen met
+behulp waarvan de daartoe bestemde registraties kunnen worden
+geraadpleegd teneinde na te
+gaan:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                      <li.nr>1&#xB0;.</li.nr>
+                      <al>of aan een bepaalde persoon reeds een
+burgerservicenummer is toegekend en zo ja, welk
+burgerservicenummer;</al>
+                    </li>
+                    <li>
+                      <li.nr>2&#xB0;.</li.nr>
+                      <al>aan
+welke persoon een bepaald burgerservicenummer is
+toegekend;</al>
+                    </li>
+                    <li>
+                      <li.nr>3&#xB0;.</li.nr>
+                      <al>of het
+Nederlandse document, met behulp waarvan een persoon zich
+identificeert, een document is als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006297&amp;artikel=1" compleet="nee">artikel 1, eerste lid,
+onder 1&#xB0;, 2&#xB0; of 4&#xB0;, van de Wet op de
+identificatieplicht</extref>;</al>
+                    </li>
+                  </lijst>
+                </li>
+                <li>
+                  <li.nr>e.</li.nr>
+                  <al>voorzieningen met behulp waarvan op verzoek aan
+een college van burgemeester en wethouders gegevens worden verstrekt,
+die noodzakelijk zijn voor de uitvoering van <intref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=8">artikel 8, tweede lid,
+tweede volzin</intref>.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Bij of
+krachtens algemene maatregel van bestuur worden nadere regels gesteld
+met betrekking tot de inrichting, de instandhouding, de werking en de
+beveiliging van de beheervoorziening.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Het
+nummerregister</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">4</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Het nummerregister
+bevat:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de aangemaakte nummers, bedoeld in <intref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=3">artikel 3,
+eerste lid, onder a</intref>, en</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de bij
+algemene maatregel van bestuur te bepalen administratieve gegevens, die
+op deze nummers betrekking hebben.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Bij of krachtens de maatregel, bedoeld in het
+eerste lid, onder b, worden tevens regels gesteld omtrent het opnemen,
+wijzigen en verwijderen van de administratieve
+gegevens.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">5</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Een college van burgemeester en wethouders
+verschaft Onze Minister onverwijld de inlichtingen omtrent de
+toekenning, die voor de bijhouding van het nummerregister van belang
+zijn.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Bij ministeri&#xEB;le
+regeling worden regels gesteld omtrent de in het eerste lid bedoelde
+inlichtingen.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">6</nr>
+            </kop>
+            <al>Bij of
+krachtens algemene maatregel van bestuur kunnen verplichtingen worden
+geregeld van overheidsorganen om aan Onze Minister de inlichtingen te
+verschaffen die voor de bijhouding van het nummerregister van belang
+zijn.</al>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Aanmaken en
+toekennen van burgerservicenummers</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <al>Onze
+Minister draagt er zorg voor dat een nummer dat als burgerservicenummer
+kan worden toegekend slechts &#xE9;&#xE9;nmaal wordt aangemaakt en
+ter beschikking gesteld aan een bestuursorgaan dat bevoegd is het
+nummer toe te kennen.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het college van burgemeester en wethouders
+kent onmiddellijk na de inschrijving van een persoon in de GBA aan deze
+ingeschrevene een burgerservicenummer toe, tenzij aan hem reeds een
+burgerservicenummer is toegekend.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het burgerservicenummer wordt toegekend uit de
+nummers die op grond van <intref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=7">artikel 7</intref> aan het college van burgemeester en
+wethouders ter beschikking zijn gesteld. Indien aan de ingeschrevene
+reeds een sociaal-fiscaalnummer is toegekend, wordt, in afwijking van
+de eerste volzin, dit nummer door het college van burgemeester en
+wethouders aan hem als burgerservicenummer toegekend.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Het college van burgemeester en wethouders draagt
+zorg dat een burgerservicenummer foutloos en slechts
+&#xE9;&#xE9;nmaal wordt toegekend.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>In verband met de uitvoering van dit artikel maakt
+het college van burgemeester en wethouders gebruik van de
+voorzieningen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=3">artikel 3, eerste lid, onder c, d en
+e</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Bij of krachtens algemene
+maatregel van bestuur worden regels gesteld omtrent de uitvoering van
+dit artikel, waaronder regels betreffende de verplichtingen van
+overheidsorganen om gegevens te verstrekken die voor de uitvoering
+noodzakelijk zijn. De maatregel bepaalt in ieder geval welke gegevens
+in verband met de uitvoering van dit artikel aan een college van
+burgemeester en wethouders worden
+verstrekt.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het college van burgemeester en wethouders
+dat een burgerservicenummer heeft toegekend, stelt degene aan wie het
+nummer is toegekend daarvan binnen vier weken na de toekenning in
+kennis onder vermelding van het desbetreffende
+burgerservicenummer.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Bij
+minderjarigen jonger dan 16 jaar en bij onder curatele gestelden
+geschiedt de kennisgeving aan de ouders, voogden of verzorgers,
+onderscheidenlijk aan de curator.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Bij ministeri&#xEB;le regeling worden nadere
+regels gesteld omtrent de in het eerste lid bedoelde
+kennisgeving.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Algemene
+bepalingen betreffende het gebruik van het burgerservicenummer en de
+beheervoorziening</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Het gebruik
+van het burgerservicenummer</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">10</nr>
+            </kop>
+            <al>Overheidsorganen kunnen bij het verwerken van persoonsgegevens in
+het kader van de uitvoering van hun taak gebruik maken van het
+burgerservicenummer, met inachtneming van hetgeen bij of krachtens dit
+hoofdstuk is bepaald.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">11</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Bij het uitwisselen van persoonsgegevens
+tussen gebruikers onderling, waarbij een persoonsnummer wordt gebruikt
+als middel om persoonsgegevens in verband te brengen met een persoon
+aan wie een burgerservicenummer is toegekend, wordt het
+burgerservicenummer van die persoon vermeld.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Het eerste lid is niet van toepassing voor
+zover:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>ten behoeve van de desbetreffende
+gegevensverwerking bij of krachtens wet het gebruik van een ander
+persoonsnummer dan het burgerservicenummer is
+voorgeschreven;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>sprake is van
+bijzondere omstandigheden waarin het gebruik van het
+burgerservicenummer in een individueel geval onwenselijk is met het oog
+op de bescherming van de persoonlijke levenssfeer van de betrokkene, de
+opsporing of vervolging van strafbare feiten dan wel de veiligheid van
+de staat.</al>
+                </li>
+              </lijst>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">12</nr>
+            </kop>
+            <al>Indien bij
+het verwerken van persoonsgegevens een burgerservicenummer wordt
+gebruikt, vergewist de gebruiker zich ervan dat het burgerservicenummer
+betrekking heeft op de persoon wiens persoonsgegevens hij
+verwerkt.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">13</nr>
+            </kop>
+            <al>Degene aan
+wie een burgerservicenummer is toegekend, dan wel diens wettelijk
+vertegenwoordiger, kan niet worden verplicht bij het verstrekken van
+persoonsgegevens aan een gebruiker een ander persoonsnummer te
+verstrekken dan het burgerservicenummer dat aan hem, onderscheidenlijk
+aan degene die hij vertegenwoordigt, is
+toegekend.</al>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Het
+verstrekken van inlichtingen aan gebruikers</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">14</nr>
+            </kop>
+            <al>Aan een
+gebruiker worden op zijn verzoek uit het nummerregister de inlichtingen
+verstrekt, die hij nodig heeft in verband met het gebruik van een
+burgerservicenummer.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">15</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Aan een overheidsorgaan worden in verband met
+de uitvoering van <intref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=12">artikel 12</intref> op zijn verzoek uit de registraties,
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=3">artikel 3, eerste lid, onder d</intref>, de gegevens verstrekt, die
+hij nodig heeft teneinde na te
+gaan:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>of aan een bepaalde persoon reeds een
+burgerservicenummer is toegekend en zo ja, welk
+burgerservicenummer;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>aan welke
+persoon een bepaald burgerservicenummer is toegekend;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>of het Nederlandse document, met behulp waarvan
+een persoon zich identificeert, een document is als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006297&amp;artikel=1" compleet="nee">artikel
+1, eerste lid, onder 1&#xB0;, 2&#xB0; of 4&#xB0;, van de Wet op
+de identificatieplicht</extref>.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Met betrekking tot een gebruiker, niet zijnde een
+overheidsorgaan, is het eerste lid, aanhef en onder c, van
+overeenkomstige toepassing.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Bij of
+krachtens de wet kunnen gevallen worden geregeld, waarin een gebruiker,
+niet zijnde een overheidsorgaan, in verband met de uitvoering van
+<intref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=12">artikel 12</intref> bevoegd dan wel gehouden is een registratie als bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=3">artikel 3, eerste lid, onder d</intref>, te raadplegen teneinde na te
+gaan:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>of aan een bepaalde persoon reeds een
+burgerservicenummer is toegekend en zo ja, welk
+burgerservicenummer;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>aan welke
+persoon een bepaald burgerservicenummer is
+toegekend.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>In de
+gevallen, bedoeld in het derde lid, is het eerste lid van
+overeenkomstige toepassing.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">16</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Bij of krachtens algemene maatregel van
+bestuur worden nadere regels gesteld betreffende de voorwaarden
+waaronder en de wijze waarop gebruikers in verband met de uitvoering
+van deze paragraaf gebruik kunnen maken
+van:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>het nummerregister;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de voorzieningen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=3">artikel 3, eerste
+lid, onder d</intref>.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Bij of
+krachtens de maatregel, bedoeld in het eerste lid, worden regels
+gesteld omtrent de verplichtingen van overheidsorganen om gegevens te
+verstrekken die voor de uitvoering van deze paragraaf noodzakelijk
+zijn. De maatregel bepaalt in ieder geval welke gegevens in verband met
+de uitvoering van deze paragraaf aan een gebruiker worden
+verstrekt.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Bij of krachtens de
+maatregel, bedoeld in het eerste lid, worden in ieder geval regels
+gesteld betreffende de beveiliging van de technische voorzieningen,
+waarmee de gebruikers kunnen aansluiten op de
+beheervoorziening.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">Sectorale
+berichtenvoorzieningen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">17</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Bij algemene maatregel van bestuur, op
+voordracht van Onze Minister die het aangaat, kan worden bepaald dat
+bij of krachtens de maatregel aangewezen gebruikers of
+categorie&#xEB;n van gebruikers uitsluitend door tussenkomst van een
+bij de algemene maatregel van bestuur ingestelde sectorale
+berichtenvoorziening gebruik kunnen maken van de voorzieningen, bedoeld
+in <intref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=3">artikel 3, eerste lid, onder c en d</intref>. De maatregel bepaalt wie met
+betrekking tot de sectorale berichtenvoorziening de verantwoordelijke
+is.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Bij de algemene maatregel van
+bestuur, bedoeld in het eerste lid, kan tevens worden bepaald dat voor
+bij of krachtens de maatregel aangewezen gebruikers of
+categorie&#xEB;n van gebruikers een bevoegdheid of een verplichting
+geldt als bedoeld in <intref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=15">artikel 15, derde lid</intref>.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De verantwoordelijke, bedoeld in het eerste lid,
+tweede volzin, levert de inlichtingen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=14">artikel 14</intref>, alsmede
+de gegevens, bedoeld in <intref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=15">artikel 15, eerste lid</intref>, door aan de gebruiker
+die door tussenkomst van de sectorale
+berichtenvoorziening de
+inlichtingen, onderscheidenlijk de gegevens, verzocht.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>De <intref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=14">artikelen 14</intref> en <intref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=15">15, eerste lid</intref>, zijn van
+overeenkomstige toepassing op de verantwoordelijke, bedoeld in het
+eerste lid, tweede volzin.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>De
+verantwoordelijke, bedoeld in het eerste lid, tweede volzin, gaat na of
+degene die door tussenkomst van de sectorale berichtenvoorziening
+toegang tot een voorziening als bedoeld in <intref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=3">artikel 3, eerste lid, onder
+c of d</intref>, verlangt een krachtens het eerste lid aangewezen gebruiker is
+dan wel behoort tot een daartoe krachtens het eerste lid aangewezen
+categorie van gebruikers.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">6</lidnr>
+              <al>Bij of
+krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid,
+worden nadere regels gesteld met betrekking tot de inrichting, de
+instandhouding, de werking en de beveiliging van de sectorale
+berichtenvoorziening.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Bescherming
+van persoonsgegevens, toezicht en controle</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">18</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Onze Minister draagt zorg voor de inrichting
+en de instandhouding van een voorziening met behulp waarvan voor
+eenieder algemene informatie beschikbaar wordt gesteld met betrekking
+tot:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het gebruik van
+burgerservicenummers;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de
+gegevensverwerkingen van gebruikers, waarbij burgerservicenummers
+worden gebruikt.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Overheidsorganen verschaffen Onze Minister
+desgevraagd de inlichtingen betreffende gegevensverwerkingen, die van
+belang zijn voor de uitvoering van het eerste lid.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Bij of krachtens algemene maatregel van bestuur
+kunnen nadere regels worden gesteld met betrekking tot de verplichting,
+bedoeld in het tweede lid.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">19</nr>
+          </kop>
+          <al>Onze
+Minister benoemt een functionaris voor de gegevensbescherming als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=62" compleet="nee">artikel 62 van de Wet bescherming persoonsgegevens</extref>, die
+toeziet op de verwerking van persoonsgegevens in verband met de
+uitvoering van deze wet, voor zover Onze Minister voor deze
+gegevensverwerkingen de verantwoordelijke
+is.</al>
+        </artikel>
+        
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">21</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Onze Minister verricht eens per drie jaar een
+onderzoek naar de inrichting, de werking en de beveiliging van de
+beheervoorziening.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+bestuursorganen die burgerservicenummers toekennen, verschaffen Onze
+Minister desgevraagd de inlichtingen betreffende de toekenning van
+burgerservicenummers.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Onze
+Minister die het aangaat verricht eens per drie jaar een onderzoek naar
+de inrichting, de werking en de beveiliging van een sectorale
+berichtenvoorziening als bedoeld in <intref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=17">artikel 17, eerste lid</intref>, die onder
+zijn verantwoordelijkheid valt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Bij of krachtens algemene maatregel van bestuur,
+op voordracht van Onze Minister, onderscheidenlijk Onze Minister die
+het aangaat in overeenstemming met Onze Minister, worden nadere regels
+gesteld met betrekking tot de beoordelingscriteria en de wijze van
+uitvoering van de onderzoeken, bedoeld in het eerste, onderscheidenlijk
+het derde lid.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Overgangs- en
+slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">22</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het sociaal-fiscaalnummer dat op het moment
+van inwerkingtreding van dit artikel is toegekend aan een persoon die
+is ingeschreven in de GBA van een gemeente, wordt aangemerkt als diens
+burgerservicenummer. <intref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=9">Artikel 9</intref> is niet van toepassing.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Op het tijdstip waarop <intref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=3">artikel 3, eerste lid,
+aanhef en onder b</intref>, in werking treedt, worden in het nummerregister
+opgenomen:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de burgerservicenummers, bedoeld in het eerste
+lid, alsmede de op die nummers betrekking hebbende administratieve
+gegevens;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de sociaal-fiscale nummers
+die voor het tijdstip, bedoeld in de aanhef, zijn toegekend en waarop
+het eerste lid niet van toepassing is, alsmede de op die nummers
+betrekking hebbende administratieve
+gegevens.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">23</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Ten aanzien van de personen aan wie op grond
+van deze wet een burgerservicenummer is toegekend, wordt de vermelding
+van het sociaal-fiscaalnummer in enige registratie of op enig document
+gelijkgesteld met de vermelding van het
+burgerservicenummer.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het eerste
+lid is van overeenkomstige toepassing ten aanzien van de vermelding van
+het begrip sociaal-fiscaalnummer in enig wettelijk
+voorschrift.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">24</nr>
+          </kop><al><redactie type="vervanging">Wijzigt de Wet gemeentelijke basisadministratie
+persoonsgegevens.</redactie></al></artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">25</nr>
+          </kop>
+          <al>De
+artikelen van deze wet treden in werking op een bij koninklijk besluit
+te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen
+daarvan verschillend kan worden vastgesteld, waarbij onderscheid kan
+worden gemaakt tussen categorie&#xEB;n van
+gebruikers.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">26</nr>
+          </kop>
+          <al>Deze wet
+wordt aangehaald als: Wet algemene bepalingen
+burgerservicenummer.</al>
+        </artikel>
+      </hoofdstuk>
+    </wettekst>
+    <wetsluiting status="goed">
+      <slotformulering>
+        <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst
+en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks
+aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Gegeven te
+
+					Tavarnelle</plaats>
+          <datum isodatum="21 juli 2007">21
+juli
+2007</datum>
+        </dagtekening>
+        <koning>Beatrix</koning>
+      </gegeven>
+      <ondertekening>
+        <functie>De
+
+          Staatssecretaris
+           van
+
+          Binnenlandse Zaken en
+Koninkrijksrelaties
+          
+        </functie>,
+        <naam>
+          <voornaam>A. Th.
+B.</voornaam>
+          <achternaam>Bijleveld-Schouten</achternaam>
+        </naam>
+      </ondertekening>
+      <uitgifte>
+        <datum isodatum="2007-08-28">de <nadruk type="cur">achtentwintigste</nadruk>
+augustus 2007</datum>
+        <ondertekening>
+          <functie>De 
+            Minister
+             van
+
+            Justitie
+            
+          </functie>,
+          <naam>
+            <voornaam>E.
+M. H.</voornaam>
+            <achternaam>Hirsch
+Ballin</achternaam>
+          </naam>
+        </ondertekening>
+      </uitgifte>
+    </wetsluiting>
+  </wet-besluit>
+</wetgeving>
+  	

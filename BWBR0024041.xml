@@ -1,0 +1,593 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0024041" dtdversie="2.0" id="398889" soort="AMvB">
+  
+  <intitule>Besluit
+van 12 juni 2008, houdende regels voor een systeem van
+informatie-uitwisseling ter voorkoming van graafschade
+
+                (Besluit informatie-uitwisseling ondergrondse
+netten)</intitule>
+  
+  <wet-besluit>
+    <aanhef>
+      <wij>Wij
+Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van
+Oranje-Nassau, enz. enz. enz.</wij>
+      <considerans>
+        <considerans.al>Op de
+voordracht van Onze Minister van Economische Zaken, gedaan mede namens
+Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en
+Milieubeheer van 18 oktober 2007, nr. WJZ 7121121;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op de
+<extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=8" compleet="nee">artikelen 8, derde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=20" compleet="nee">20</extref>, <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=21" compleet="nee">21, eerste,
+tweede en derde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=22" compleet="nee">22, eerste lid</extref>, <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=23" compleet="nee">23</extref> en <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=46" compleet="nee">46, derde lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=49" compleet="nee">49, eerste
+lid, van de Wet informatie-uitwisseling ondergrondse
+netten</extref>;</considerans.al>
+        <considerans.al bevat="gehoord">De
+Raad van State gehoord (advies van 14 december 2007, nr.
+W10.07.0385/III);</considerans.al>
+        <considerans.al bevat="gezien">Gezien het nader rapport van Onze
+Minister van Economische Zaken, uitgebracht mede namens Onze Minister
+van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 juni
+2008, nr. WJZ 8033314;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Hebben goedgevonden en
+verstaan:</al>
+      </afkondiging>
+    </aanhef>
+    <wettekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+        </kop>
+        <al>In dit
+besluit en de daarop berustende bepalingen wordt verstaan
+onder:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>wet: de <extref status="actief" doc="1.0:v:BWBR0023775" compleet="nee">Wet informatie-uitwisseling ondergrondse
+netten</extref>;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>beheerdersinformatie: de
+informatie die een beheerder verstrekt ingevolge <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=10" compleet="nee">artikel 10, eerste
+lid</extref>, of <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=46" compleet="nee">artikel 46, derde lid, van de
+wet</extref>.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Een beheerpolygoon, ori&#xEB;ntatiepolygoon
+en graafpolygoon wordt weergegeven door een tekening van een vlak aan
+de hand van co&#xF6;rdinaten van het rijksdriehoekstelsel op door de
+Dienst verstrekt kaartmateriaal.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De beheerder stelt een beheerpolygoon op voor elk
+net dat hij beheert.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De omvang en
+vorm van het gebied van de beheerpolygoon is gerelateerd aan de ligging
+van het net dat binnen dat gebied wordt beheerd, waarbij rekening wordt
+gehouden met een zorgvuldigheidsmarge tussen de ligging van het net en
+de grens van het gebied, en waarbij netten die een verbinding vormen
+als bedoeld in <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=45" compleet="nee">artikel 45, tweede lid, van de wet</extref>, buiten beschouwing
+kunnen blijven.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>De Dienst verricht
+de registratie, bedoeld in <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=18" compleet="nee">artikel 18, vierde lid, onderdeel b, van de
+wet</extref>, overeenkomstig de gebiedsaanduiding die desgevraagd door de
+gemeente in wier grondgebied het net zich bevindt, is
+gegeven.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>De
+ori&#xEB;ntatiepolygoon past binnen een vierkant waarvan de zijdes
+langs de x- en y-co&#xF6;rdinaten lopen en waarvan de zijdes een
+lengte van 2,5 kilometer hebben.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">6</lidnr>
+          <al>De graafpolygoon past binnen een vierkant waarvan
+de zijdes langs de x- en y-co&#xF6;rdinaten lopen en waarvan de
+zijdes een lengte van 500 meter
+hebben. Indien
+overeenkomstig <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=12" compleet="nee">artikel 12 van de wet</extref> graafmeldingen gezamenlijk worden
+gedaan door tussenkomst van een door Onze Minister aangewezen
+organisatie, past de graafpolygoon binnen een vierkant waarvan de
+zijdes langs de x- en y-co&#xF6;rdinaten lopen en waarvan de zijdes een
+lengte van 1.500 meter
+hebben.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Beheerders, opdrachtgevers, grondroerders, en
+bestuursorganen hebben toegang tot en aansluiting op het
+informatiesysteem, mits zij zich daartoe tevoren hebben aangemeld bij
+de Dienst.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Een grondroerder of
+opdrachtgever heeft slechts toegang tot en aansluiting op het
+informatiesysteem indien hij in het kader van de uitoefening van een
+beroep of een bedrijf graafwerkzaamheden onder zijn
+verantwoordelijkheid of leiding laat verrichten, respectievelijk
+opdracht geeft tot het uitvoeren van een werk waarbij
+graafwerkzaamheden worden verricht.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Bij ministeri&#xEB;le regeling worden nadere
+regels gesteld over de in het eerste lid bedoelde aanmelding, met
+inbegrip van de verstrekking van gegevens omtrent de aan te melden
+organisatie en personen.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+        </kop>
+        <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>De
+registratiemelding, het ori&#xEB;ntatieverzoek en de graafmelding
+worden gedaan en het graafbericht wordt verzonden via het elektronisch
+informatiesysteem, met dien verstande
+dat:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>het
+ori&#xEB;ntatieverzoek en de graafmelding door tussenkomst van de
+Dienst kunnen worden
+gedaan;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>graafmeldingen
+voor graafwerkzaamheden als bedoeld in <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=8" compleet="nee">artikel 8, derde lid, van de wet</extref>
+overeenkomstig <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=12" compleet="nee">artikel 12 van de wet</extref> gezamenlijk kunnen worden gedaan
+door tussenkomst van een door Onze Minister aangewezen
+organisatie.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De registratiemelding omvat een aanduiding van de
+functie van het betreffende net overeenkomstig een bij
+ministeri&#xEB;le regeling te bepalen
+functie-indeling.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De graafmelding
+omvat de aanvangsdatum van de voorgenomen graafwerkzaamheden en een
+aanduiding van de aard van deze werkzaamheden. De eerste
+volzin is niet van toepassing op graafmeldingen die overeenkomstig
+<extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=12" compleet="nee">artikel 12 van de wet</extref> gezamenlijk worden gedaan door tussenkomst van
+een door Onze Minister aangewezen
+organisatie.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Bij ministeri&#xEB;le regeling kunnen regels
+worden gesteld over de wijze waarop en de vorm waarin een
+registratiemelding, een ori&#xEB;ntatieverzoek, een graafmelding, een
+ontvangstbevestiging als bedoeld in <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=9" compleet="nee">artikel 9, onderdeel a, van de wet</extref>,
+of een graafbericht wordt gedaan, en over de hierbij te verstrekken
+gegevens.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De liggingsgegevens die deel uitmaken van de
+beheerdersinformatie hebben betrekking op elk in de
+ori&#xEB;ntatiepolygoon of graafpolygoon gelegen net, en worden
+weergegeven door een tekening op een bij ministeri&#xEB;le regeling
+te bepalen schaalgrootte.</al>
+        </lid>
+        <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De
+liggingsgegevens die deel uitmaken van de beheerdersinformatie, hebben
+betrekking op de horizontale ligging en zijn gebaseerd op de meest
+nauwkeurige metingen die voor de beheerder beschikbaar zijn, met dien
+verstande dat de metingen ten minste een nauwkeurigheid van een meter
+hebben.</al>
+                     </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Bij ministeri&#xEB;le regeling kan worden
+bepaald dat op de in het eerste lid bedoelde tekening markeringen en
+afzonderlijke elementen van het net als zodanig worden weergegeven, en
+kunnen nadere regels worden gesteld ten aanzien van de weergave van
+deze gegevens.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>De
+beheerdersinformatie omvat de volgende
+gegevens:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de functie van het net overeenkomstig de bij
+ministeri&#xEB;le regeling te bepalen functie-indeling;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>indien meer dan &#xE9;&#xE9;n door de
+beheerder beheerd net op onderling zo geringe afstand is gelegen dat
+deze op de in het eerste lid bedoelde kaart niet afzonderlijk kunnen
+worden weergegeven: het aantal netten;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>andere, bij ministeri&#xEB;le regeling bepaalde
+gegevens.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>Het vierde
+lid, onderdeel b, is niet van toepassing voor zover het netten betreft
+die deel uitmaken van een stervormig aangelegd aansluitnetwerk en
+indien wordt voldaan aan de bij ministeri&#xEB;le regeling gestelde
+regels.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">6</lidnr>
+          <al>Bij ministeri&#xEB;le
+regeling kunnen regels worden gesteld over de wijze waarop
+beheerdersinformatie wordt verstrekt en over de daarbij te verstrekken
+contactgegevens.</al>
+        </lid>
+        <lid>
+                        <lidnr status="officieel">7</lidnr>
+                        <al>Bij
+ministeri&#xEB;le regeling kunnen nadere regels worden gesteld over de
+gebiedsinformatie die op grond van <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=11" compleet="nee">artikel 11 van de wet</extref> aan de
+grondroerder wordt verstrekt en over de wijze waarop deze
+gebiedsinformatie wordt
+verstrekt.</al>
+                     </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+        </kop>
+        <al>De maximale
+diepgang, bedoeld in <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=8" compleet="nee">artikel 8, derde lid, van de wet</extref>, bedraagt 50
+centimeter.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Indien als gevolg van een calamiteit
+onverwijld graafwerkzaamheden noodzakelijk zijn om persoonlijk letsel
+of grote schade te voorkomen zijn de <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=2" compleet="nee">artikelen 2</extref>, <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=8" compleet="nee">8</extref> en <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=13" compleet="nee">13 van de wet</extref>
+niet van toepassing.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Indien
+graafwerkzaamheden worden verricht als bedoeld in het eerste lid,
+draagt de opdrachtgever er zorg voor dat deze graafwerkzaamheden zoveel
+mogelijk op zorgvuldige wijze kunnen worden verricht, rekening houdend
+met de urgentie van de werkzaamheden.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De grondroerder verricht de in het eerste lid
+bedoelde graafwerkzaamheden op zorgvuldige wijze, rekening
+houdend met de urgentie van de werkzaamheden.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>De grondroerder stelt voorafgaand aan de in het
+eerste lid bedoelde graafwerkzaamheden de Dienst daarvan in kennis,
+waarna de Dienst onverwijld de contactgegevens van de beheerders van
+netten die op de graaflocatie zijn gelegen en informatie over de
+functie van deze netten aan de grondroerder verstrekt. De Dienst draagt
+in verband hiermee zorg voor permanente bereikbaarheid van de
+Dienst.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>De Dienst kan de
+uitvoering van het vierde lid opdragen aan een instelling die permanent
+bereikbaar is.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">6</lidnr>
+          <al>De grondroerder
+wint voor zover mogelijk bij de beheerders van netten die zijn gelegen
+op de graaflocatie, informatie in over de precieze ligging van netten
+op de graaflocatie. De grondroerder neemt in elk geval contact op met
+de beheerders van een net met gevaarlijke inhoud dat op de graaflocatie
+is gelegen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">7</lidnr>
+          <al>De beheerder van een
+net met gevaarlijke inhoud zorgt dat hij met het oog op de uitvoering
+van het zesde lid permanent telefonisch bereikbaar is voor het
+verschaffen van informatie en het treffen van voorzorgsmaatregelen voor
+zover dat nodig en mogelijk is.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">8</lidnr>
+          <al>De
+opdrachtgever meldt onder opgaaf van redenen uiterlijk de eerstvolgende
+werkdag bij Onze Minister indien hij opdracht heeft gegeven tot
+graafwerkzaamheden als bedoeld in het eerste
+lid.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">8</nr>
+        </kop>
+        <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>De
+gebieden, bedoeld in <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=23" compleet="nee">artikel 23 van de wet</extref>,
+zijn:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>de
+luchthavens Schiphol, Rotterdam, Lelystad, Maastricht, Eelde,
+Leeuwarden, Volkel, Eindhoven, De Peel, Gilze Rijen, Woensdrecht en De
+Kooy;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>de plaatsen
+van vestiging van de inrichtingen die beschikken over een vergunning
+als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15" compleet="nee">artikel 15, onder b, van de
+Kernenergiewet</extref>;</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>de
+marinehavens van Den Helder en
+Vlissingen;</al>
+                           </li>
+                           <li>
+                              <li.nr>d.</li.nr>
+                              <al>de
+plaatsen van vestiging van militaire zend- en ontvangstinstallaties die
+naar hun aard een bijzondere vorm van informatiebeveiliging
+vereisen.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>In dit
+artikel wordt onder gebiedsbeheerder
+verstaan:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>voor
+de in het eerste lid, onder a, bedoelde burgerluchthavens: de
+exploitant van de
+luchthaven;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>voor de
+in het eerste lid, onder a, bedoelde militaire luchthavens: Onze
+Minister van
+Defensie;</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>voor de in
+het eerste lid, onder b, bedoelde gebieden: de houder van de
+vergunning; en</al>
+                           </li>
+                           <li>
+                              <li.nr>d.</li.nr>
+                              <al>voor
+de in het eerste lid, onder c en d, bedoelde gebieden: Onze Minister
+van Defensie.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>De
+gebiedsbeheerder doet bij de Dienst opgave van de begrenzing van de
+gebieden, bedoeld in het eerste lid, waarover hij het beheer voert en
+stelt onverwijld de Dienst in kennis van wijzigingen van die
+begrenzing.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Indien
+een ori&#xEB;ntatieverzoek of graafmelding betrekking heeft op gebied
+als bedoeld in het eerste lid:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>verstrekt
+de gebiedsbeheerder geen liggingsgegevens over netten die hij beheert
+aan de
+Dienst;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>verstrekt de
+Dienst gebiedsinformatie onverwijld, doch uiterlijk binnen twee
+werkdagen na verzending van het graafbericht, aan de
+gebiedsbeheerder;</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>indien
+de gebiedsbeheerder niet degene is die het ori&#xEB;ntatieverzoek of de
+graafmelding heeft ingediend, verstrekt hij onverwijld de van de Dienst
+ontvangen gebiedsinformatie en beheerdersinformatie over eigen netten
+die zijn gelegen in de ori&#xEB;ntatiepolygoon of de graafpolygoon aan
+degene die het ori&#xEB;ntatieverzoek of de graafmelding heeft gedaan,
+voor zover dit naar zijn oordeel noodzakelijk is voor het zorgvuldig
+verrichten van de graafwerkzaamheden en geen afbreuk doet aan het
+vereiste niveau van informatiebeveiliging.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">5</lidnr>
+                        <al>Op de
+verstrekking van informatie door de gebiedsbeheerder is <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=11" compleet="nee">artikel 11,
+derde lid</extref>, en zijn de krachtens <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=21" compleet="nee">artikel 21</extref> en <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=22" compleet="nee">22 van de wet</extref> gestelde
+regels van overeenkomstige
+toepassing.</al>
+                     </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">9</nr>
+        </kop>
+        <al>De
+bewaarplicht, bedoeld in <extref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=20" compleet="nee">artikel 20 van de wet</extref>, geldt voor een periode
+van vijf jaar.</al>
+      </artikel>
+      
+      
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">12</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Dit besluit, met uitzondering van <intref status="actief" doc="1.0:v:BWBR0024041&amp;artikel=6">artikel 6</intref>,
+treedt in werking op 1 juli 2008.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al><intref status="actief" doc="1.0:v:BWBR0024041&amp;artikel=6">Artikel 6</intref> treedt in werking op 1 oktober
+2008.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">13</nr>
+        </kop>
+        <al>Dit besluit
+wordt aangehaald als: Besluit informatie-uitwisseling ondergrondse
+netten.</al>
+      </artikel>
+    </wettekst>
+    <wetsluiting status="goed">
+      <slotformulering>
+        <al>Lasten en bevelen dat dit besluit met de daarbij behorende nota van
+toelichting in het Staatsblad zal worden geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>'s-Gravenhage</plaats>
+          <datum isodatum="2008-06-12">12
+juni 2008</datum>
+        </dagtekening>
+        <koning>Beatrix</koning>
+      </gegeven>
+      <ondertekening>
+        <functie>De 
+          Minister
+           van
+
+          Economische
+Zaken
+          
+        </functie>,
+        <naam>
+          <voornaam>M. J. A. van
+der</voornaam>
+          <achternaam>Hoeven</achternaam>
+        </naam>
+      </ondertekening>
+      <ondertekening>
+        <functie>De
+
+          Minister
+           van
+
+          Volkshuisvesting, Ruimtelijke Ordening en
+Milieubeheer
+          
+        </functie>,
+        <naam>
+          <voornaam>J.
+M.</voornaam>
+          <achternaam>Cramer</achternaam>
+        </naam>
+      </ondertekening>
+      <uitgifte>
+        <datum isodatum="2008-06-26">de
+          <nadruk type="cur">zesentwintigste</nadruk>
+juni 2008</datum>
+        <ondertekening>
+          <functie>De 
+            Minister
+             van
+
+            Justitie
+            
+          </functie>,
+          <naam>
+            <voornaam>E.
+M. H.</voornaam>
+            <achternaam>Hirsch
+Ballin</achternaam>
+          </naam>
+        </ondertekening>
+      </uitgifte>
+    </wetsluiting>
+  </wet-besluit>
+</wetgeving>
+  	

@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0021403" dtdversie="2.0" id="372599" soort="beleidsregel">
+  
+  <intitule>Richtlijn voor strafvordering verduistering</intitule>
+  
+  <circulaire>
+    
+    <circulaire-tekst>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Beschrijving</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Deze richtlijn ziet op verduistering. Primair is de waarde van de (beoogde) goederen van invloed op de zwaarte van de sanctie. Daarnaast zal, in geval de verduistering in dienstbetrekking plaats heeft gevonden, dit strafverzwarend te worden beoordeeld; juist het plegen van de verduistering in een situatie waarin sprake zou moeten zijn van een vertrouwensband wordt als kwalijker gezien.</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Aard van de richtlijn</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Commuun</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Basisdelicten</titel>
+        </kop>
+        <tekst status="goed">
+          <al>&#x2013; Verduistering</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Wettekst</titel>
+        </kop>
+        <tekst status="goed">
+          <al>&#x2013; <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=321" compleet="nee">Wetboek van Strafrecht art. 321</extref></al>
+          <al>&#x2013; <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=322" compleet="nee">Wetboek van Strafrecht art. 322</extref></al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Basisdelict</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed"><kop><titel status="officieel">Verduistering</titel></kop><tekst status="goed">
+          
+          <tussenkop>Beschrijving</tussenkop>
+          <al>Dit basisdelict ziet op verduistering, zowel in dienstbetrekking als daarbuiten. Het schenden van het vertrouwen door het plegen van de verduistering tijdens een dienstbetrekking dient strafverzwarend te worden beoordeeld. Daarnaast dient de waarde van de (beoogde) goederen als strafverzwarende beoordelingsfactor te worden gehanteerd.</al>
+          <tussenkop>Toepasselijk kader</tussenkop>
+          <al>Commuun en verkeer</al>
+          <tussenkop>Basispunten</tussenkop>
+          <al>6 punten</al>
+          <tussenkop>Basisfactoren</tussenkop>
+          <al>Categorie economische waarde van de (beoogde) goederen</al>
+          <al>&#x2013; Tot en met f 100: 0 pt</al>
+          <al>&#x2013; Van f 101 tot en met f 250: 4 pt</al>
+          <al>&#x2013; f 251 of meer: 4 pt</al>
+          <al>Indien de economische waarde van de beoogde goederen relatief laag is, bestaat bij een aantal delicten, zoals de winkeldiefstal, in principe de mogelijkheid om een politietransactie aan te bieden. Voor die delicten is gekozen voor een stapsgewijze invloed volgens een beperkt aantal schijven. Indien het bedrag echter groter is dan f 250 wordt voor het delict geen transactie meer door de politie aangeboden. In dat geval speelt de economische waarde van de beoogde goederen op evenredige wijze mee bij het bepalen van het aantal strafpunten. Ook voor andere delicten waar de economische waarde een rol speelt is gekozen voor deze opbouw.</al>
+          <tussenkop>Economische waarde van de (beoogde) goederen</tussenkop>
+          <al>&#x2013; Schijf 1: f 250 t/m f 2500: bedrag gedeeld door 125 pt</al>
+          <al>&#x2013; Schijf 2: het gedeelte tussen f 2500 en f 10000: bedrag gedeeld door 500 pt</al>
+          <al>&#x2013; Schijf 3: het gedeelte boven f 10000: bedrag gedeeld door 1000 pt</al>
+          <tussenkop>Delictspecifieke factoren</tussenkop>
+          <al>Heeft de verduistering in dienstbetrekking plaatsgevonden.</al>
+          <al>&#x2013; Nee, de verduistering vond niet in dienstbetrekking plaats: +0 %</al>
+          <al>&#x2013; Ja, de verduistering vond in dienstbetrekking plaats: +50 %</al>
+          <tussenkop>Medeplegen</tussenkop>
+          <al>&#x2013; Er is geen sprake van medeplegen: +0 %</al>
+          <al>&#x2013; Er is sprake van medeplegen: +25 %</al>
+          <tussenkop>Wettelijke factoren</tussenkop>
+          <tussenkop>Medeplichtigheid</tussenkop>
+          <al>&#x2013; Dader: +0 %</al>
+          <al>&#x2013; Medeplichtige: -33 %</al>
+          <tussenkop>Poging</tussenkop>
+          <al>&#x2013; Voltooid delict: +0 %</al>
+          <al>&#x2013; Poging tot plegen: -33 %</al>
+          <tussenkop>Recidiveregeling</tussenkop>
+          <al>Mate van recidive (5 jaar)</al>
+          <table frame="none" tabstyle="tekst">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="tekst">
+              <colspec colname="col1" colnum="1" colwidth="30*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="20*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Geen recidive</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+0 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 1 maal</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+10 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Meermalen</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+20 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+dagvaarden</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+<tussenkop>Draagkracht</tussenkop>
+          <al>Geen</al>
+          <tussenkop>Speciale regelingen</tussenkop>
+          <al>&#x2013; Schaderegeling</al>
+          <tussenkop>Bijzonderheden</tussenkop>
+          <al>Geen</al>
+        </tekst></circulaire.divisie>
+      </circulaire.divisie>
+    </circulaire-tekst>
+  <bijlage status="goed"><kop><label>Bijlage</label></kop><al><redactie type="vervanging">Niet opgenomen.</redactie></al></bijlage></circulaire>
+</wetgeving>
+  	

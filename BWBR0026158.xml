@@ -1,0 +1,751 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0026158" dtdversie="2.0" id="420059" soort="wet">
+  
+  <intitule>Wet
+van 2 juli 2009 tot implementatie van richtlijn nr. 2007/2/EG van het
+Europees Parlement en de Raad van de Europese Unie van 14&#xA0;maart
+2007 tot oprichting van een infrastructuur voor ruimtelijke informatie
+in de Gemeenschap (Inspire)
+                (Implementatiewet EG-richtlijn
+infrastructuur ruimtelijke informatie)</intitule>
+  
+  <wet-besluit>
+    <aanhef>
+      <wij>Wij Beatrix, bij de gratie Gods, Koningin der
+Nederlanden, Prinses van Oranje-Nassau, enz. enz.
+enz.</wij>
+      <considerans>
+        <considerans.al>Allen, die deze zullen zien of
+horen lezen, saluut! doen te weten:</considerans.al>
+
+        <considerans.al>Alzo Wij in overweging genomen hebben, dat het
+noodzakelijk is ter implementatie van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr.
+2007/2/EG</extref> van het Europees Parlement en de Raad van de Europese Unie
+van 14&#xA0;maart 2007 tot oprichting van een infrastructuur voor
+ruimtelijke informatie in de Gemeenschap (Inspire) (PbEU
+L&#xA0;108), regels te stellen om de toegankelijkheid
+van ruimtelijke informatie, in het bijzonder met het oog op de
+bescherming van het milieu, te
+vergroten;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Zo is het, dat Wij, de Raad van State gehoord, en
+met gemeen overleg der Staten-Generaal, hebben goedgevonden en
+verstaan, gelijk Wij goedvinden en verstaan bij
+deze:</al>
+      </afkondiging>
+    </aanhef>
+    <wettekst>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Algemene
+bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>In deze
+wet en de daarop berustende bepalingen wordt verstaan
+onder:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+              <li>
+                <al>
+                  <nadruk type="cur">derde
+partij:</nadruk> natuurlijke persoon of
+rechtspersoon die geen bestuursorgaan
+is;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">diensten
+met betrekking tot ruimtelijke
+gegevens:</nadruk>  de verwerking van de
+ruimtelijke gegevens die zich in verzamelingen ruimtelijke gegevens
+bevinden of de verwerking van de aanverwante metagegevens door middel
+van een computertoepassing;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">EG-richtlijn infrastructuur ruimtelijke
+informatie:</nadruk>
+                  <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr.
+2007/2/EG</extref> van het Europees Parlement en de Raad van de Europese Unie
+van 14&#xA0;maart 2007 tot oprichting van een infrastructuur voor
+ruimtelijke informatie in de Gemeenschap (Inspire) (PbEU
+L&#xA0;108);</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">interoperabiliteit:</nadruk> de
+mogelijkheid dat, zonder terugkerende handmatige verrichtingen,
+verzamelingen ruimtelijke gegevens zodanig worden gecombineerd en dat
+diensten zodanig op elkaar inwerken dat het resultaat coherent is en de
+meerwaarde van de verzamelingen gegevens en de diensten wordt
+verhoogd;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">metagegevens:</nadruk> 
+informatie waarin verzamelingen ruimtelijke gegevens en diensten met
+betrekking tot ruimtelijke gegevens worden beschreven en die het
+mogelijk maakt deze gegevens en diensten te zoeken, te inventariseren
+en te gebruiken;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">netwerk:</nadruk> het
+netwerk van diensten met betrekking tot verzamelingen ruimtelijke
+gegevens en diensten met betrekking tot ruimtelijke gegevens, bedoeld
+in artikel 11, eerste lid, van de EG-richtlijn infrastructuur
+ruimtelijke informatie;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">Onze
+Minister:</nadruk>  Onze Minister van
+Volkshuisvesting, Ruimtelijke Ordening en
+Milieubeheer;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">ruimtelijke
+gegevens:</nadruk> gegevens die direct of
+indirect verwijzen naar een specifieke locatie of een specifiek
+geografisch gebied;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">verzameling ruimtelijke
+gegevens:</nadruk> een identificeerbare
+verzameling ruimtelijke
+gegevens.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In deze
+wet en de daarop berustende bepalingen wordt onder bestuursorgaan mede
+verstaan een onder verantwoordelijkheid van een bestuursorgaan werkzame
+instelling, dienst of bedrijf.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Deze wet
+is van toepassing op een verzameling ruimtelijke gegevens
+die:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>betrekking
+heeft op een onderdeel van het Nederlands grondgebied of van de
+Nederlandse exclusieve economische
+zone;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>beschikbaar is
+in elektronische
+vorm;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>wordt bewaard door of
+namens een bestuursorgaan in de zin dat de desbetreffende verzameling
+ruimtelijke gegevens is geproduceerd of ontvangen dan wel wordt beheerd
+of bijgewerkt door dat bestuursorgaan en binnen zijn publieke taak
+valt, dan
+wel,</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>wordt
+bewaard door of namens een derde partij waaraan het netwerk, ter
+beschikking is gesteld overeenkomstig <intref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=7">artikel 7</intref>,
+en</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>betrekking
+heeft op een of meer van bij algemene maatregel van bestuur aangewezen
+thematische categorie&#xEB;n.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Ingeval
+door of namens verscheidene bestuursorganen meerdere identieke
+exemplaren van dezelfde verzameling ruimtelijke gegevens worden
+bewaard, is deze wet uitsluitend van toepassing op de referentieversie
+waaraan de verscheidene exemplaren worden ontleend. Indien een
+verzameling ruimtelijke gegevens die door of namens een bestuursorgaan
+wordt bewaard, onderdeel is van een verzameling ruimtelijke gegevens
+die is opgenomen in een door Onze Minister aangewezen voorziening, is
+deze wet uitsluitend van toepassing op laatstgenoemde
+verzameling.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Deze wet
+is tevens van toepassing op diensten met betrekking tot ruimtelijke
+gegevens die onderdeel zijn van een verzameling ruimtelijke gegevens
+als bedoeld in het eerste lid.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <al>In
+afwijking van <intref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=2">artikel 2, eerste lid, aanhef en onderdeel c, onder
+1&#xB0;</intref>, is deze wet op een verzameling ruimtelijke gegevens die wordt
+bewaard door of namens een orgaan van een gemeente of een waterschap
+uitsluitend van toepassing, indien deze gegevens worden verzameld dan
+wel verspreid op grond van een bij of krachtens een wet gegeven
+regel.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <al>In
+afwijking van <intref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=2">artikel 2, eerste lid, aanhef en onderdeel c, onder
+1&#xB0;</intref>, is ingeval door of namens een bestuursorgaan een verzameling
+ruimtelijke gegevens wordt bewaard ten aanzien waarvan een derde partij
+intellectuele eigendomsrechten heeft, deze wet op die verzameling
+ruimtelijke gegevens uitsluitend van toepassing voor zover die derde
+partij daarmee heeft ingestemd.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Verplichtingen
+bestuursorganen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een
+bestuursorgaan door of namens welke een verzameling ruimtelijke
+gegevens wordt bewaard stelt hiervoor en voor de diensten met
+betrekking tot ruimtelijke gegevens metagegevens op en werkt die
+bij.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Bij of
+krachtens algemene maatregel van bestuur kunnen categorie&#xEB;n van
+metagegevens worden aangewezen waarvoor de in het eerste lid genoemde
+verplichting geldt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Bij of
+krachtens algemene maatregel van bestuur kunnen regels worden gesteld
+omtrent het opstellen en bijwerken van
+metagegevens.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een
+bestuursorgaan door of namens welke een verzameling ruimtelijke
+gegevens wordt bewaard, koppelt aan het
+netwerk:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>die
+verzameling ruimtelijke
+gegevens;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de
+diensten met betrekking tot ruimtelijke gegevens,
+en</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de op die
+verzameling en diensten betrekking hebbende
+metagegevens.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Bij of
+krachtens algemene maatregel van bestuur kunnen regels worden gesteld
+omtrent de eisen met betrekking tot interoperabiliteit en harmonisatie
+waaraan een verzameling ruimtelijke gegevens en de diensten met
+betrekking tot ruimtelijke gegevens die ingevolge het eerste lid aan
+het netwerk worden gekoppeld, moeten voldoen en de wijze waarop de
+koppeling, bedoeld in het eerste lid,
+plaatsvindt.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Derde
+partijen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Onze
+Minister verleent op verzoek van een derde partij instemming om een
+door of namens die derde partij bewaarde verzameling ruimtelijke
+gegevens, de diensten met betrekking tot ruimtelijke gegevens en de op
+die verzameling en diensten betrekking hebbende metagegevens te
+koppelen aan het netwerk.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+instemming wordt verleend, indien de derde partij naar het oordeel van
+Onze Minister kan voldoen aan de eisen die ingevolge de <intref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=5">artikelen 5</intref> en
+<intref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=6">6</intref> voor een bestuursorgaan gelden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Op een
+derde partij waaraan instemming is verleend zijn de <intref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=5">artikelen 5</intref> en <intref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=6">6</intref>
+van overeenkomstige toepassing.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De
+instemming wordt
+ingetrokken:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>op
+verzoek van de desbetreffende derde
+partij;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>indien de
+desbetreffende derde partij naar het oordeel van Onze Minister niet
+voldoet aan de <intref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=5">artikelen 5</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=6">6</intref>.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Bij
+ministeri&#xEB;le regeling kunnen regels worden gesteld omtrent de
+wijze van inrichting en indiening van een verzoek als bedoeld in het
+eerste en vierde lid, onderdeel a, de daarbij te verstrekken gegevens
+en over te leggen bescheiden.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Toegang tot
+verzamelingen ruimtelijke gegevens en diensten met betrekking tot
+ruimtelijke gegevens</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+          </kop>
+          <al>Tot de
+aan het netwerk gekoppelde verzamelingen ruimtelijke gegevens en
+diensten met betrekking tot ruimtelijke gegevens wordt toegang verleend
+via:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>het
+Inspire-geoportaal, bedoeld in artikel 15, eerste lid, van de
+EG-richtlijn infrastructuur ruimtelijke informatie,
+en</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>een nationaal
+toegangspunt.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Ten
+aanzien van de aan het netwerk gekoppelde verzamelingen ruimtelijke
+gegevens en diensten met betrekking tot ruimtelijke gegevens kan een
+ieder gebruik maken van de diensten, bedoeld in artikel 11, eerste lid,
+van de EG-richtlijn infrastructuur ruimtelijke informatie. Deze
+diensten
+betreffen:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>zoekdiensten;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>raadpleegdiensten;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>downloaddiensten;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>verwerkingsdiensten
+en</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>diensten die het
+mogelijk maken diensten met betrekking tot ruimtelijke gegevens op te
+roepen.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Bij of
+krachtens algemene maatregel van bestuur worden regels gesteld omtrent
+de diensten, bedoeld in het eerste lid. Deze regels hebben ten minste
+betrekking op zoekcriteria voor de in het eerste lid, onderdeel a,
+bedoelde diensten.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Bij of
+krachtens algemene maatregel van bestuur worden regels gesteld omtrent
+het uitwisselen van verzamelingen ruimtelijke gegevens en diensten met
+betrekking tot ruimtelijke gegevens die van invloed kunnen zijn op het
+milieu, tussen Nederlandse bestuursorganen via de diensten, bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=9">artikel 9, eerste lid, onderdelen b tot en met e</intref>. Deze regels hebben
+ten minste betrekking op het voorkomen van praktische belemmeringen op
+de plaats van gebruik bij het uitwisselen van verzamelingen en
+diensten.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De regels
+omtrent het uitwisselen van verzamelingen ruimtelijke gegevens en
+diensten met betrekking tot ruimtelijke gegevens zoals bedoeld in het
+eerste lid zijn van overeenkomstige toepassing op het uitwisselen van
+verzamelingen ruimtelijke gegevens en diensten met betrekking tot
+ruimtelijke gegevens die van invloed kunnen zijn op het milieu, tussen
+Nederlandse bestuursorganen en bestuursorganen van andere lidstaten,
+tussen Nederlandse bestuursorganen en instellingen en organen van de
+Europese Gemeenschap, en tussen Nederlandse bestuursorganen en organen
+die zijn opgericht bij internationale overeenkomsten waarbij de
+Gemeenschap en de lidstaten partij zijn, mits laatstgenoemde organen
+hun verzamelingen ruimtelijke gegevens en diensten met betrekking tot
+ruimtelijke gegevens op een wederkerige en gelijkwaardige wijze hebben
+opengesteld als het bestuursorgaan van wiens verzamelingen ruimtelijke
+gegevens en diensten met betrekking tot ruimtelijke gegevens zij
+gebruik wensen te maken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Omtrent
+de voorwaarden voor toegang tot verzamelingen ruimtelijke gegevens en
+diensten met betrekking tot ruimtelijke gegevens door instellingen en
+organen van de Europese Gemeenschap kunnen aanvullende regels worden
+gesteld.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Het
+uitwisselen van de verzamelingen ruimtelijke gegevens en diensten, als
+bedoeld in het tweede lid, met het oog op het gebruik van die
+verzamelingen en diensten voor publieke taken die van invloed kunnen
+zijn op het milieu, kan uitsluitend worden beperkt met overeenkomstige
+toepassing van <extref status="actief" doc="1.0:v:BWBR0005252&amp;artikel=10" compleet="nee">artikel 10, eerste lid, onderdeel b, tweede lid,
+onderdelen a en c, en zevende lid, onderdeel b, van de Wet openbaarheid
+van bestuur</extref>.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+          </kop>
+          <al>In
+afwijking van het bepaalde in <intref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=9">artikel 9</intref> kan de publieke toegang tot
+verzamelingen ruimtelijke gegevens en diensten met betrekking tot
+ruimtelijke gegevens via de diensten, bedoeld in het eerste lid van <intref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=9">dat
+artikel</intref>, en diensten, die de elektronische handel in die diensten
+mogelijk maken, worden beperkt met overeenkomstige toepassing van
+<extref status="actief" doc="1.0:v:BWBR0005252&amp;artikel=10" compleet="nee">artikel 10 van de Wet openbaarheid van bestuur</extref>, met dien verstande dat
+op de diensten bedoeld in het <intref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=9">eerste lid, onderdeel a, van artikel 9</intref>,
+uitsluitend de gronden, bedoeld in <extref status="actief" doc="1.0:v:BWBR0005252&amp;artikel=10" compleet="nee">artikel 10, eerste lid, onderdeel b,
+tweede lid, onderdeel a, en zevende lid, onderdeel b, van de Wet
+openbaarheid van bestuur</extref> van overeenkomstige toepassing
+zijn.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">12</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het
+gebruik van de diensten, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=9">artikel 9, eerste lid, onderdelen a
+en b</intref>, is voor een ieder kosteloos. Voor de overige in <intref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=9">artikel 9, eerste
+lid</intref>, bedoelde diensten kunnen vergoedingen in rekening worden
+gebracht.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In
+afwijking van het eerste lid kan een bestuursorgaan voor de in <intref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=9">artikel
+9, eerste lid, onderdeel b</intref>, bedoelde diensten vergoedingen in rekening
+brengen, indien deze nodig zijn om te waarborgen dat de desbetreffende
+verzamelingen ruimtelijke gegevens en diensten met betrekking tot
+ruimtelijke gegevens in stand worden gehouden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Een
+bestuursorgaan dat vergoedingen in rekening brengt voor de in <intref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=9">artikel
+9, eerste lid, onderdelen b, c of e</intref>, vermelde diensten, stelt diensten
+die elektronische handel in die diensten mogelijk maken,
+beschikbaar.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Bij of
+krachtens algemene maatregel van bestuur kunnen omtrent de uitvoering
+van het eerste tot en met het derde lid nadere regels worden gesteld.
+Deze regels kunnen tevens betrekking hebben op een
+tariefsystematiek.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">13</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Indien
+een bestuursorgaan voor het uitwisselen van gegevens, bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=10">artikel 10, eerste en tweede lid</intref>, vergoedingen in rekening brengt,
+gelden dezelfde vergoedingen voor Nederlandse bestuursorganen,
+bestuursorganen van andere lidstaten, instellingen en organen van de
+Europese Gemeenschappen, en organen die zijn opgericht bij
+internationale overeenkomsten waarbij de Gemeenschap en de lidstaten
+partij zijn als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=10">artikel 10, tweede lid</intref>, en blijven deze
+vergoedingen beperkt tot het bedrag dat ten minste nodig is om de
+noodzakelijke kwaliteit en beschikbaarheid van de gegevens te
+garanderen, vermeerderd met een redelijk rendement op de investering en
+met inachtneming van, voor zover van toepassing, vereisten inzake
+zelffinanciering van het desbetreffende bestuursorgaan.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het
+verstrekken aan instellingen en organen van de Europese Gemeenschap van
+verzamelingen ruimtelijke gegevens en diensten met betrekking tot
+ruimtelijke gegevens die zij nodig hebben ter vervulling van hun
+verplichtingen met betrekking tot verslaglegging krachtens de
+Gemeenschapswetgeving inzake het milieu, geschiedt
+kosteloos.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Bij of
+krachtens algemene maatregel van bestuur kunnen omtrent de uitvoering
+van het eerste lid nadere regels worden
+gesteld.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Co&#xF6;rdinatie
+en uitvoering</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">14</nr>
+          </kop>
+          <al>Als
+nationaal contactpunt, als bedoeld in artikel 19, tweede lid, van de
+EG-richtlijn infrastructuur ruimtelijke informatie, wordt Onze Minister
+aangewezen.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">15</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Onze
+Minister draagt aan een of meerdere door hem aan te wijzen instanties
+op:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het
+beheer van het nationaal toegangspunt tot het netwerk, bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=8">artikel 8, onderdeel
+b</intref>;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de inrichting van
+het nationale gedeelte van het netwerk.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Bij of
+krachtens algemene maatregel van bestuur kunnen nadere regels gesteld
+worden omtrent het eerste lid.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">16</nr>
+          </kop>
+          <al>Deze
+wet treedt in werking op een bij koninklijk besluit te bepalen
+tijdstip, dat voor de verschillende artikelen of onderdelen daarvan
+verschillend kan worden vastgesteld.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">17</nr>
+          </kop>
+          <al>Deze
+wet wordt aangehaald als: Implementatiewet EG-richtlijn infrastructuur
+ruimtelijke informatie.</al>
+        </artikel>
+      </paragraaf>
+    </wettekst>
+    <wetsluiting status="goed">
+      <slotformulering>
+        <al>Lasten en bevelen
+dat deze in het Staatsblad zal worden geplaatst en dat alle
+ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat,
+aan de nauwkeurige uitvoering de hand zullen
+houden.</al>
+      </slotformulering>
+      <gegeven>
+        <label>Gegeven te
+</label>
+        <dagtekening>
+          <plaats>&#x2019;s-Gravenhage</plaats>
+          <datum isodatum="2009-07-02">2
+juli 2009</datum>
+        </dagtekening>
+        <koning>Beatrix</koning>
+      </gegeven>
+      <ondertekening>
+        <functie>De 
+          Minister
+           van
+
+          Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+          
+        ,</functie>
+        <naam>
+          <voornaam>J.
+M.</voornaam>
+          <achternaam>Cramer</achternaam>
+        </naam>
+      </ondertekening>
+      <uitgifte>
+        <datum isodatum="2009-07-27">de
+          <nadruk type="cur">zevenentwintigste</nadruk>
+juli 2009</datum>
+        <ondertekening>
+          <functie>De 
+            Minister
+             van
+
+            Justitie
+            
+          ,</functie>
+          <naam>
+            <voornaam>E.
+M. H.</voornaam>
+            <achternaam>Hirsch
+Ballin</achternaam>
+          </naam>
+        </ondertekening>
+      </uitgifte>
+    </wetsluiting>
+  </wet-besluit>
+</wetgeving>
+  	

@@ -1,0 +1,749 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0031560" dtdversie="2.0" id="474079" soort="AMvB">
+  
+  <intitule>Besluit van 4 mei 2012, houdende regels voor de scheepvaart over meldingsformaliteiten en over de verwerking van de ontvangen gegevens door organisaties en personen die niet aan het scheepvaartverkeer deelnemen
+                (Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart)</intitule>
+  
+  <wet-besluit>
+    <aanhef>
+      <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+      <considerans>
+        <considerans.al bevat="voordracht">Op de voordracht van Onze Minister van Infrastructuur en Milieu van 6&#xA0;maart 2012, nr.&#xA0;IenM/BSK-2012/20694, Hoofddirectie Bestuurlijke en Juridische Zaken;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn 2010/65</extref>/EU van het Europees Parlement en de Raad van 20&#xA0;oktober 2010 betreffende meldingsformaliteiten voor schepen die aankomen in en/of vertrekken uit havens van de lidstaten en tot intrekking van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn 2002/6/EG</extref> (PbEU 2010, L&#xA0;283), Hoofdstuk&#xA0;V, Voorschrift 19-1, van het op 1&#xA0;november 1974 te Londen tot stand gekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb.&#xA0;1976, 157), en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen (SOLAS-verdrag), <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn 2002/59/EG</extref> van het Europees Parlement en de Raad van 27&#xA0;juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot het intrekken van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn 93/75/EEG</extref> van de Raad (PbEG 2002, L&#xA0;131), Verordening (EG) nr.&#xA0;725/2004 van het Europees Parlement en de Raad van 31&#xA0;maart 2004 betreffende de verbetering van de beveiliging van schepen en havenfaciliteiten (PbEU 2004, L&#xA0;129), <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn 2005/44/EG</extref> van het Europees Parlement en de Raad van 7&#xA0;september 2005 betreffende geharmoniseerde River Information Services (RIS) op de binnenwateren in de Gemeenschap (PbEU 2005, L&#xA0;255), <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn 2009/16/EG</extref> van het Europees Parlement en de Raad van 23&#xA0;april 2009 betreffende havenstaatcontrole (Herschikking) (PbEU 2009, L&#xA0;131), en de <extref status="actief" doc="1.0:v:BWBR0023009&amp;artikel=8" compleet="nee">artikelen&#xA0;8 van de Binnenvaartwet</extref>, <extref status="actief" doc="1.0:v:BWBR0016991&amp;artikel=15" compleet="nee">15 van de Havenbeveiligingswet</extref>, <extref status="actief" doc="1.0:v:BWBR0004364&amp;artikel=3" compleet="nee">3</extref>, <extref status="actief" doc="1.0:v:BWBR0004364&amp;artikel=4" compleet="nee">4</extref>, <extref status="actief" doc="1.0:v:BWBR0004364&amp;artikel=20" compleet="nee">20</extref> en <extref status="actief" doc="1.0:v:BWBR0004364&amp;artikel=31" compleet="nee">31, elfde lid, van de Scheepvaartverkeerswet</extref> en <extref status="actief" doc="1.0:v:BWBR0003642&amp;artikel=38" compleet="nee">38 van de Wet voorkoming verontreiniging door schepen</extref>;</considerans.al>
+        <considerans.al bevat="gehoord">De Afdeling advisering van de Raad van State gehoord (advies van 6&#xA0;april 2012, nr.&#xA0;W14.12.0069/IV);</considerans.al>
+        <considerans.al bevat="gezien">Gezien het nader rapport van Onze Minister van Infrastructuur en Milieu van 27&#xA0;april 2012, nr.&#xA0;IenM/BSK-2012/60139, Hoofddirectie Bestuurlijke en Juridische Zaken;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Hebben goedgevonden en verstaan:</al>
+      </afkondiging>
+    </aanhef>
+    <wettekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Algemene bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Definities</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>In dit besluit en de daarop berustende bepalingen, met uitzondering van <intref status="actief" doc="1.0:v:BWBR0031560&amp;hoofdstuk=6">hoofdstuk&#xA0;6</intref>, wordt verstaan onder:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>
+                  <nadruk type="cur">AIS:</nadruk> op een schip ge&#xEF;nstalleerd automatisch identificatiesysteem als bedoeld in de artikelen 6 en 6bis van de richtlijn monitoring- en informatiesysteem zeescheepvaart of tracking- en tracingsysteem als bedoeld in artikel 5 van de richtlijn River Information Services;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>
+                  <nadruk type="cur">Kustwachtcentrum:</nadruk> Kustwachtcentrum in Den Helder;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>
+                  <nadruk type="cur">NCA-SafeSeaNet:</nadruk> degene die als nationaal bevoegde autoriteit belast is met de taken genoemd in bijlage&#xA0;III, onder 2, van de richtlijn monitoring- en informatiesysteem zeescheepvaart;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr><al><nadruk type="cur">bevoegde autoriteit:</nadruk></al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>voor de wateren in beheer bij het Rijk: de personen die als zodanig bij ministeri&#xEB;le regeling zijn aangewezen door Onze Minister;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>voor de wateren in beheer bij een ander openbaar lichaam: het bestuur van dat openbaar lichaam, dan wel de personen die als zodanig door het bestuur zijn aangewezen;</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>
+                  <nadruk type="cur">richtlijn meldingsformaliteiten:</nadruk>
+                  <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn 2010/65</extref>/EU van het Europees Parlement en de Raad van 20&#xA0;oktober 2010 betreffende meldingsformaliteiten voor schepen die aankomen in en/of vertrekken uit havens van de lidstaten en tot intrekking van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn 2002/6/EG</extref> (PbEU 2010, L&#xA0;283);</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>
+                  <nadruk type="cur">richtlijn monitoring- en informatiesysteem zeescheepvaart:</nadruk>
+                  <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn 2002/59/EG</extref> van het Europees Parlement en de Raad van de Europese Unie van 27&#xA0;juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot het intrekken van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn 93/75/EEG</extref> van de Raad (PbEG 2002, L&#xA0;131);</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>
+                  <nadruk type="cur">richtlijn River Information Services:</nadruk>
+                  <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn 2005/44/EG</extref> van het Europees Parlement en de Raad van 7&#xA0;september 2005 betreffende geharmoniseerde River Information Services (RIS) op de binnenwateren in de Gemeenschap (PbEU 2005, L&#xA0;255);</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>
+                  <nadruk type="cur">RIS:</nadruk> River Information Services als bedoeld in <extref status="actief" doc="1.0:v:BWBR0004364&amp;artikel=1" compleet="nee">artikel&#xA0;1 van de Scheepvaartverkeerswet</extref>;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>
+                  <nadruk type="cur">RIS-autoriteit:</nadruk> de bevoegde instantie voor de RIS-toepassing en voor de internationale uitwisseling van gegevens, bedoeld in artikel&#xA0;8 van de richtlijn River Information Services;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>
+                  <nadruk type="cur">SafeSeaNet:</nadruk> het communautaire systeem voor de uitwisseling van maritieme informatie, bedoeld in de richtlijn monitoring- en informatiesysteem zeescheepvaart;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>
+                  <nadruk type="cur">Uniek Europees scheepsidentificatienummer:</nadruk> nummer als bedoeld in artikel 2.18 van bijlage&#xA0;II van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn 2006/87/EG</extref> van het Europees Parlement en de Raad van 12&#xA0;december 2006 tot vaststelling van de technische voorschriften voor binnenschepen en tot intrekking van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn 82/714/EEG</extref> van de Raad (PbEU 2006, L&#xA0;389);</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>
+                  <nadruk type="cur">verordening scheeps- en havenbeveiliging:</nadruk> Verordening (EG) nr.&#xA0;725/2004 van het Europees Parlement en de Raad van 31&#xA0;maart 2004 betreffende de verbetering van de beveiliging van schepen en havenfaciliteiten (PbEU 2004, L&#xA0;129).</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In <intref status="actief" doc="1.0:v:BWBR0031560&amp;hoofdstuk=6">hoofdstuk 6</intref> en de daarop berustende bepalingen, wordt verstaan onder:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>
+                  <nadruk type="cur">applicatie-serviceprovider:</nadruk> serviceprovider, die de van een meldplichtig zeeschip ontvangen meldplichtige gegevens doorzendt naar het LRIT-datacentrum;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>
+                  <nadruk type="cur">LRIT:</nadruk> long range identification and tracking systeem als bedoeld in Hoofdstuk&#xA0;V, Voorschrift 19-1, onderdeel&#xA0;4.1, van het SOLAS-verdrag;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>
+                  <nadruk type="cur">LRIT-datacentrum:</nadruk> datacentrum waarin meldplichtige gegevens worden opgeslagen;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>
+                  <nadruk type="cur">meldplichtige gegevens:</nadruk> gegevens, bedoeld in Hoofdstuk&#xA0;V, Voorschrift 19-1, onderdeel&#xA0;5, van het SOLAS-verdrag;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>
+                  <nadruk type="cur">SOLAS-verdrag:</nadruk> het op 1 november 1974 te Londen tot stand gekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb.&#xA0;1976, 157), en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Meldingsformaliteiten</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Aankomst- en vertrekmeldingen</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De kapitein, de exploitant of de agent van een zeeschip dat behoort tot een bij ministeri&#xEB;le regeling vast te stellen categorie van zeeschepen en dat op weg is van of naar een in Nederland gelegen haven, ankerplaats, terminal of een in de Nederlandse territoriale zee gelegen laad- of losinrichting, meldt de bevoegde autoriteit de bij ministeri&#xEB;le regeling te bepalen gegevens omtrent de aankomst, het vertrek en de positie van het schip, de gegevens met betrekking tot het schip, de daarmee vervoerde lading en de uit te voeren reis.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Bij ministeri&#xEB;le regeling worden nadere regels gesteld met betrekking tot:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de gevallen waarin en de voorwaarden waaronder vrijstelling of ontheffing van deze meldplicht mogelijk is, en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de wijze waarop en het moment waarop de melding plaatsvindt.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">Beveiligingsmelding</titel>
+          </kop>
+          <al>Bij ministeri&#xEB;le regeling worden nadere regels gesteld omtrent de door een kapitein, exploitant of agent van een schip aan de bevoegde autoriteit te verschaffen inlichtingen als bedoeld in artikel 6 van de verordening scheeps- en havenbeveiliging.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+            <titel status="officieel">Melding ten behoeve van havenstaatcontrole</titel>
+          </kop>
+          <al>De kapitein, de exploitant of de agent van een schip dat op weg is naar een haven als bedoeld in <extref status="actief" doc="1.0:v:BWBR0008999&amp;artikel=1" compleet="nee">artikel&#xA0;1 van de Wet havenstaatcontrole</extref> en dat in aanmerking komt voor een uitgebreide inspectie als bedoeld in die wet, meldt aan het bij ministeri&#xEB;le regeling aangewezen bestuursorgaan, de bij die regeling te bepalen gegevens op een bij die regeling vast te stellen moment en wijze, voordat met het schip een in Nederland gelegen haven, een in de Nederlandse territoriale zee gelegen offshore-installatie of een ankerplaats ter hoogte van die haven of offshore-installatie wordt aangedaan.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Beheer en hergebruik van gegevens</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+            <titel status="officieel">Toepassingsgebied</titel>
+          </kop>
+          <al>Dit hoofdstuk is van toepassing op de gegevens:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>die een bevoegde autoriteit heeft ontvangen op grond van een melding als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=2">artikel&#xA0;2</intref> van dit besluit, <extref status="actief" doc="1.0:v:BWBR0003628&amp;artikel=9.07" compleet="nee">artikel 9.07 van het Binnenvaartpolitiereglement</extref>, <extref status="actief" doc="1.0:v:BWBR0006923&amp;artikel=12.01" compleet="nee">artikel 12.01 van het Rijnvaartpolitiereglement</extref>, <extref status="actief" doc="1.0:v:BWBR0005393&amp;artikel=51" compleet="nee">artikel 51, eerste en tweede lid van het Scheepvaartreglement Westerschelde</extref> of <extref status="actief" doc="1.0:v:BWBR0004552&amp;artikel=29" compleet="nee">artikel&#xA0;29 van het Scheepvaartreglement Eemsmonding</extref> en de gegevens die hij heeft ontvangen bij of krachtens verdrag of <extref status="actief" doc="1.0:v:BWBR0004364&amp;artikel=4" compleet="nee">artikel&#xA0;4 van de Scheepvaartverkeerswet</extref> of van een aan boord van een schip aanwezig AIS;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>die een havenbeheerder, bedoeld in <extref status="actief" doc="1.0:v:BWBR0003642&amp;artikel=1" compleet="nee">artikel 1 van de Wet voorkoming verontreiniging door schepen</extref> heeft ontvangen op grond van <extref status="actief" doc="1.0:v:BWBR0003642&amp;artikel=12a" compleet="nee">artikel&#xA0;12a van de Wet voorkoming verontreiniging door schepen</extref>;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>die een bevoegde autoriteit heeft ontvangen uit de te verschaffen inlichtingen als bedoeld in artikel 6 van de verordening scheeps- en havenbeveiliging en <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=3">artikel&#xA0;3</intref>;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>die het aangewezen bestuursorgaan, bedoeld in artikel 4, heeft ontvangen ten behoeve van een uitgebreide inspectie als bedoeld in <extref status="actief" doc="1.0:v:BWBR0008999&amp;artikel=9" compleet="nee">artikel&#xA0;9 van de Wet havenstaatcontrole</extref>, en</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>die Onze Minister heeft ontvangen in verband met de afgifte en het gebruik van het uniek Europees scheepsidentificatienummer, krachtens <extref status="actief" doc="1.0:v:BWBR0023009&amp;artikel=8" compleet="nee">artikel&#xA0;8 van de Binnenvaartwet</extref>.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+            <titel status="officieel">Zorg- en bewaarplicht</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Onverminderd de <extref status="actief" doc="1.0:v:BWBR0011468" compleet="nee">Wet bescherming persoonsgegevens</extref> en <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=2%3A5" compleet="nee">artikel 2:5 van de Algemene wet bestuursrecht</extref>, treft een ontvanger van gegevens, bedoeld in <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=5">artikel&#xA0;5</intref>, passende technische en organisatorische maatregelen ten behoeve van de adequate opslag en verwerking van de gegevens die aan hem worden verstrekt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een ontvanger van gegevens, bedoeld in <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=5">artikel 5</intref>, bewaart de door hem ontvangen gegevens zo lang als hij die gegevens redelijkerwijs nodig heeft ten behoeve van de uitvoering van zijn wettelijke taak, dan wel gedurende de termijn die daarvoor is vastgesteld op grond van punten&#xA0;2.2 en 2.3 van bijlage&#xA0;III van de richtlijn monitoring- en informatiesysteem zeescheepvaart of op grond van andere internationale verplichtingen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+            <titel status="officieel">Structurele uitwisseling van gegevens tussen bevoegde autoriteiten</titel>
+          </kop>
+          <al>Een bevoegde autoriteit stelt door hem ontvangen gegevens beschikbaar aan andere bevoegde autoriteiten, voor zover deze autoriteiten deze gegevens nodig hebben ten behoeve van de uitvoering van hun wettelijke taak.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+            <titel status="officieel">Structurele uitwisseling van gegevens in andere gevallen</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een ontvanger van gegevens, bedoeld in <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=5">artikel 5</intref>:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>stelt door hem ontvangen gegevens ter beschikking aan andere in dat artikel genoemde ontvangers van gegevens, aan bestuursorganen en aan overheidsdiensten, voor zover deze ontvangers, organen of diensten deze gegevens nodig hebben ten behoeve van de uitvoering van hun wettelijke taak, en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>kan de door hem ontvangen gegevens ter beschikking stellen aan derden ter bevordering van de handel en het transport in de logistieke keten.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In afwijking van het eerste lid worden geen gegevens ter beschikking gesteld indien hiertegen bij of krachtens verdrag, wettelijke bepaling of om andere zwaarwegende redenen, beletselen bestaan.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Ten behoeve van de uitvoering van het eerste lid worden door de daarbij betrokken partijen in elk geval schriftelijk vastgelegd welke gegevens ter beschikking worden gesteld, voor welk doel zij ter beschikking worden gesteld, op welke wijze de verstrekker van de gegevens hierover in kennis wordt gesteld en de termijn dat deze gegevens door de ontvangende partij mogen worden bewaard. Voor zover van toepassing worden daarbij tevens afspraken vastgelegd over het waarborgen van de bescherming van de door de ontvangende partij verkregen commerci&#xEB;le- en privacygevoelige gegevens en over het verdere hergebruik van deze gegevens binnen de logistieke keten.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Het tweede en derde lid zijn niet van toepassing op de uitwisseling van gegevens tussen bevoegde autoriteiten, bedoeld in <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=7">artikel&#xA0;7</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Bij ministeri&#xEB;le regeling kunnen nadere regels worden gesteld over de wijze waarop de uitwisseling van gegevens, bedoeld in het eerste lid, geschiedt.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+            <titel status="officieel">Gegevensverstrekking op verzoek</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een ontvanger van gegevens, bedoeld in <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=5">artikel 5</intref>, geeft, buiten de in <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=8">artikel&#xA0;8</intref> bedoelde gevallen, slechts na een daartoe strekkend verzoek inzage in door hem ontvangen gegevens of verstrekt deze gegevens aan:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>personen die als toezichthouder zijn aangewezen voor zover het verzoek zijn grondslag vindt in het toezicht op de regelgeving waarvoor de betreffende persoon als toezichthouder is aangewezen en voor zover gericht naar gegevens wordt gevraagd;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>degenen die belast zijn met taken in het kader van de rampenbestrijding en crisisbeheersing als bedoeld in de <extref status="actief" doc="1.0:v:BWBR0027466" compleet="nee">Wet veiligheidsregio&#x2019;s</extref> of de bestrijding van schadelijke gevolgen van een ongeval, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0005444" compleet="nee">Wet bestrijding ongevallen Noordzee</extref>, en het onderzoek naar dergelijke incidenten op grond van de Rijkswet onderzoeksraad voor de veiligheid;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>ambtenaren die bij of krachtens <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=141" compleet="nee">artikel 141 van het Wetboek van Strafvordering</extref> belast zijn met de opsporing van een strafbaar feit voor zover gericht naar gegevens wordt gevraagd;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>ambtenaren aangesteld voor de uitvoering van de politietaak voor zover gericht naar gegevens wordt gevraagd;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>een verzekeraar als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=1%3A1" compleet="nee">artikel 1:1 van de Wet op het financieel toezicht</extref>, indien deze verzekeraar aannemelijk maakt deze gegevens nodig te hebben voor het behartigen van de belangen van degene die bij hem verzekerd is en nadat deze verzekerde daarvoor toestemming heeft verleend, of</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>een advocaat indien deze aannemelijk maakt de gegevens nodig te hebben voor het behartigen van de belangen van zijn cli&#xEB;nt.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een verzoek om inzage of verstrekking van gegevens wordt schriftelijk ingediend.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Aan de inzage of verstrekking van gegevens kunnen voorschriften en beperkingen worden verbonden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Bij het ter inzage geven of verstrekken van persoonsgegevens worden gegevens van andere personen voor zover mogelijk anoniem gemaakt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Na inzage of verstrekking van gegevens wordt schriftelijk vastgelegd: de naam van de degene op wie of het schip waarop de gegevens betrekking hebben, de wijze en het moment waarop inzage werd verleend of verstrekking van de gegevens plaatsvond, welke gegevens het betrof en de naam- en adresgegevens van de verzoeker.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Internationale uitwisseling van scheepvaartgegevens</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Organisatorische bepalingen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">10</nr>
+              <titel status="officieel">Aanwijzing NCA-SafeSeaNet en RIS-autoriteit</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Bij ministeri&#xEB;le regeling worden een NCA-SafeSeaNet en een RIS-autoriteit aangewezen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De NCA-SafeSeaNet en de RIS-autoriteit vertegenwoordigen, indien de geco&#xF6;rdineerde nationale en internationale uitvoering van bindende besluiten van instellingen van de Europese gemeenschappen dit vereist, een of meer van de in <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=5">artikel 5</intref> genoemde ontvangers van gegevens, bestuursorganen of overheidsdiensten.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=6">artikelen 6</intref>, <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=8">8</intref> en <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=9">9</intref> zijn van overeenkomstige toepassing op de gegevens die de NCA-SafeSeaNet en de RIS-autoriteit ontvangen in verband met de uitvoering van dit artikel.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">11</nr>
+              <titel status="officieel">Uitbreiding taken bevoegde autoriteiten</titel>
+            </kop>
+            <al>Een bevoegde autoriteit die bij ministeri&#xEB;le regeling tevens als plaatselijk bevoegde autoriteit is aangewezen, kan namens een andere in <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=5">artikel&#xA0;5</intref> bedoelde ontvanger van gegevens, of namens een bestuursorgaan of overheidsdienst, gegevens omtrent schepen, dan wel de lading of de passagiers, opvragen, ontvangen of van de indiening hiervan ontheffing verlenen en kan deze gegevens doorgeven aan SafeSeaNet, indien dit ten behoeve van de effici&#xEB;nte uitvoering van bindende besluiten van instellingen van de Europese Unie of om redenen van doelmatigheid, gewenst is. Tenzij hierover bij ministeri&#xEB;le regeling nadere regels zijn gesteld, is <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=8">artikel 8, tweede en derde lid</intref>, daarbij van overeenkomstige toepassing.</al>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Internationale uitwisseling van gegevens</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">12</nr>
+              <titel status="officieel">Structurele doorgifte van gemelde gegevens aan SafeSeaNet</titel>
+            </kop>
+            <al>Op bij ministeri&#xEB;le regeling bepaalde wijze worden onverwijld doorgegeven aan SafeSeaNet:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>door een bevoegde autoriteit, de gegevens die hem op grond van <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=2">artikel&#xA0;2</intref> zijn verschaft;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al><redactie type="vervanging">dit onderdeel is nog niet in werking getreden;</redactie></al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al><redactie type="vervanging">dit onderdeel is nog niet in werking getreden.</redactie></al>
+              </li>
+            </lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">13</nr>
+              <titel status="officieel">Internationale doorgifte van gemelde gegevens op verzoek</titel>
+            </kop>
+            <al>Onverminderd <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=12">artikel 12</intref>, worden de in dat artikel bedoelde gegevens op een bij ministeri&#xEB;le regeling bepaalde wijze verstrekt aan een bevoegde instantie van een andere lidstaat van de Europese Unie, indien deze daarom verzoekt en indien dit noodzakelijk is voor de maritieme veiligheid of beveiliging, dan wel voor de bescherming van het mariene milieu.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">14</nr>
+              <titel status="officieel">Structurele internationale doorgifte ontvangen RIS-gegevens</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Ten behoeve van de uitvoering van de richtlijn River Information Services worden de in het tweede lid genoemde gegevens van een schip, dat de grens met een andere lidstaat van de Europese Unie zal overschrijden, voordat het schip de grens met die lidstaat overschrijdt door een bevoegde autoriteit of de RIS-autoriteit, verstrekt aan een bevoegde instantie in die lidstaat op de route van dat schip of aan degene die in de betreffende lidstaat is aangewezen als RIS-autoriteit.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De in het eerste lid bedoelde gegevens, betreffen de gegevens, bedoeld in <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=5">artikel&#xA0;5, onderdeel&#xA0;a</intref>, met uitzondering van de in dat onderdeel genoemde meldingen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=2">artikel 2</intref> van dit besluit, en de gegevens, bedoeld in onderdeel&#xA0;e, van artikel&#xA0;5.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Ook aan een bevoegde instantie van een derde land kunnen ter uitvoering van bindende besluiten van instellingen van de Europese Unie, gegevens worden verstrekt als bedoeld in het eerste en tweede lid. Indien het betreffende derde land geen partij is bij de overeenkomst betreffende de Europese Economische Ruimte is dit alleen mogelijk voor zover ten minste een gelijkwaardige bescherming van gegevens is gewaarborgd en nadat dit in een bestuursrechtelijke overeenkomst is vastgelegd.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">Bepalingen ten behoeve van de Kustwacht op grond van de richtlijn monitoring- en informatiesysteem zeescheepvaart</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">15</nr>
+              <titel status="officieel">Structurele internationale doorgifte van ontvangen AIS-gegevens</titel>
+            </kop>
+            <al>Het Kustwachtcentrum stelt de gegevens die hij via AIS van een schip ontvangt ter beschikking aan kustwachtstations van andere lidstaten van de Europese Unie en aan de Europese Commissie en kan deze gegevens ook beschikbaar stellen aan een bevoegde instantie van een derde land. Indien het betreffende derde land geen partij is bij de overeenkomst betreffende de Europese Economische Ruimte is dit alleen mogelijk voor zover ten minste een gelijkwaardige bescherming van gegevens is gewaarborgd en nadat dit in een bestuursrechtelijke overeenkomst ter uitvoering van de doelstelling genoemd in artikel&#xA0;1 van de richtlijn monitoring- en informatiesysteem zeescheepvaart is vastgelegd.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">16</nr>
+              <titel status="officieel">Informatieverstrekking aan andere kuststations</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Het Kustwachtcentrum deelt bij hem bekende relevante informatie met betrekking tot in artikel 16, eerste lid, van de richtlijn monitoring- en informatiesysteem zeescheepvaart, bedoelde schepen onverwijld, op een bij ministeri&#xEB;le regeling bepaalde wijze, mede aan de betrokken kuststations, bedoeld in artikel&#xA0;3, onderdeel&#xA0;n, van de richtlijn monitoring- en informatiesysteem zeescheepvaart, van de overige lidstaten van de Europese Unie langs de door het zeeschip te volgen route.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Het Kustwachtcentrum verstrekt de in artikel 17 van de richtlijn monitoring- en informatiesysteem zeescheepvaart, bedoelde informatie, op een bij ministeri&#xEB;le regeling bepaalde wijze aan een bevoegde instantie als bedoeld in artikel 3, onderdeel k, van de richtlijn monitoring- en informatiesysteem zeescheepvaart, van een andere lidstaat van de Europese Unie, die daarom uit veiligheidsoverwegingen verzoekt.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">17</nr>
+              <titel status="officieel">Informatieverstrekking aan de scheepvaart bij incidenten</titel>
+            </kop>
+            <al>Het Kustwachtcentrum maakt door middel van een radiobericht in het betrokken zeegebied openbaar:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>een aan hem gemeld incident of ongeval op zee als bedoeld in artikel&#xA0;17, eerste lid, van de richtlijn monitoring- en informatiesysteem zeescheepvaart, met een zeeschip;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>een aan hem bekende aanwezigheid van zeeschepen die een bedreiging vormen voor de veiligheid op zee, de veiligheid van personen of het mariene milieu;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>in geval van gevaarlijke ijsgang, alle nodige informatie over de ijsgang, de aanbevolen routes en de ijsbreekdiensten in het betrokken zeegebied.</al>
+              </li>
+            </lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">18</nr>
+              <titel status="officieel">Incidentmelding door zeeschepen</titel>
+            </kop>
+            <al>De exploitant van een zeeschip die door de kapitein van dat schip op de hoogte is gesteld van een incident of ongeval met dat schip op zee als bedoeld in artikel&#xA0;17, eerste lid, van de richtlijn monitoring- en informatiesysteem zeescheepvaart, neemt onmiddellijk contact op met het Kustwachtcentrum en houdt zich voor zover nodig ter beschikking van dit centrum.</al>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>Paragraaf</label>
+            <nr status="officieel">4</nr>
+            <titel status="officieel">Overige bepalingen in verband met de richtlijn monitoring- en informatiesysteem zeescheepvaart</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">19</nr>
+              <titel status="officieel">Uitzondering op verplichtingen richtlijn monitoring- en informatiesystemen zeescheepvaart</titel>
+            </kop>
+            <al>De <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=12">artikelen 12, aanhef en onderdeel a</intref>, <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=13">13</intref>, <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=16">16</intref>, <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=17">17</intref> en <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=18">18</intref> zijn niet van toepassing met betrekking tot gegevens verkregen van een schip als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=2">artikel&#xA0;2, tweede lid</intref>, in samenhang met artikel&#xA0;6bis, van de richtlijn monitoring- en informatiesysteem zeescheepvaart.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">20</nr>
+              <titel status="officieel">Vertrouwelijkheid</titel>
+            </kop>
+            <al>Indien een lidstaat van de Europese Unie daarom verzoekt, wordt de informatie, die overeenkomstig artikel&#xA0;20&#xA0;bis, derde lid, van de richtlijn monitoring- en informatiesysteem zeescheepvaart is verstrekt, vertrouwelijk behandeld door degenen die deze informatie ontvangen.</al>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Bepalingen in verband met de richtlijn River Information Services</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">21</nr>
+            <titel status="officieel">Scheepvaartwegen met RIS-toepassing</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Onze Minister draagt, met inachtneming van de artikelen&#xA0;3, onderdelen&#xA0;d, e, f, g en h, 4, eerste lid, tweede lid, derde lid, onderdelen&#xA0;a, b, c, eerste volzin, en d, vierde en vijfde lid, en de daarbij behorende bijlagen en artikel&#xA0;9, tweede lid, van de richtlijn River Information Services, zorg voor RIS op de scheepvaartwegen die behoren tot of aansluiten op scheepvaartwegen klasse&#xA0;IV en hoger zoals vastgesteld door de Conf&#xE9;rence Europ&#xE9;enne des Ministres de Transport op basis van de documenten genoemd in artikel&#xA0;2, eerste lid, van de RIS-richtlijn.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een bevoegde autoriteit en de RIS-autoriteit treffen in het belang van de bescherming van persoonsgegevens en de bescherming van de persoonlijke levenssfeer van degenen die van diensten die via RIS worden aangeboden, gebruik maken, passende en organisatorische maatregelen ten behoeve van de veiligheid en de beveiliging van de aangeboden diensten. De maatregelen garanderen, rekening houdend met de stand van de techniek en de kosten van de tenuitvoerlegging, een passend beschermingsniveau dat in verhouding staat tot het desbetreffende risico. <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.3" compleet="nee">Artikel&#xA0;11.3, tweede lid, van de Telecommunicatiewet</extref> is daarbij van overeenkomstige toepassing.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al><extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.5a" compleet="nee">Artikel 11.5a van de Telecommunicatiewet</extref> is van overeenkomstige toepassing op de verwerking van positiegegevens die via een tracking- en tracingsysteem als bedoeld in artikel&#xA0;5 van de richtlijn River Information Services zijn verkregen, met uitzondering van de verwerking van positiegegevens die door een bevoegde autoriteit of de RIS-autoriteit worden verwerkt ten behoeve van bij ministeri&#xEB;le regeling genoemde diensten die via RIS worden aangeboden.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Melden en opvragen gegevens van zeeschepen ten behoeve van LRIT</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">22</nr>
+            <titel status="officieel">Aanwijzing ten behoeve van LRIT</titel>
+          </kop>
+          <al>Bij ministeri&#xEB;le regeling worden aangewezen:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>een LRIT-datacentrum;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>een of meerdere applicatie-service providers, die voldoen aan bij die regeling te stellen voorwaarden;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>degene die bevoegd is meldplichtige gegevens bij het LRIT-datacentrum op te vragen;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>degene die bevoegd is te bepalen met welke intervallen meldplichtige gegevens door middel van het LRIT worden verzonden; en</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>degene aan wie wordt gemeld dat het LRIT is uitgeschakeld.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">23</nr>
+            <titel status="officieel">Melding door middel van het LRIT</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De kapitein van een meldplichtig zeeschip meldt door middel van het LRIT de meldplichtige gegevens via een op grond van <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=22">artikel&#xA0;22, onderdeel&#xA0;b</intref>, aangewezen applicatie-service provider aan het op grond van artikel&#xA0;22, onderdeel&#xA0;a, aangewezen LRIT-datacentrum.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De melding bedoeld in het eerste lid, geschiedt met de intervallen zoals bepaald door degene die daartoe op grond van <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=22">artikel&#xA0;22, onderdeel&#xA0;d</intref>, is aangewezen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Wanneer het LRIT overeenkomstig Hoofdstuk V, Voorschrift 19-1, onderdeel&#xA0;7, van het SOLAS-verdrag is uitgeschakeld, meldt de kapitein dit aan degene die op grond van <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=22">artikel&#xA0;22, onderdeel&#xA0;e</intref>, is aangewezen en maakt daarvan aantekening in het document, bedoeld in Hoofdstuk&#xA0;V, Voorschrift&#xA0;28, van het SOLAS-verdrag, waarbij hij aangeeft waarom en hoe lang het LRIT werd uitgeschakeld.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Indien de melding, bedoeld in het derde lid, is geschied door de eigenaar, de rompbevrachter, de agent, of een ander die zeggenschap heeft over het gebruik van het desbetreffend meldplichtig zeeschip, is de kapitein van de meldingsplicht ontheven.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">24</nr>
+            <titel status="officieel">Opvragen gegevens LRIT</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Degene die op grond van <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=22">artikel 22, onderdeel c</intref>, is aangewezen, vraagt gegevens op bij het LRIT-datacentrum in overeenstemming met Hoofdstuk&#xA0;V, Voorschrift 19-1, onderdeel 8.1, van het SOLAS-verdrag.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een op grond van het eerste lid aangewezen organisatie die een Search and Rescue dienst is, kan, voor zover dat voor een goede uitvoering van de reddingstaak noodzakelijk is, bij het LRIT-datacentrum gegevens met betrekking tot ieder zeeschip opvragen, waar ter wereld dat zich ook bevindt.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">25</nr>
+            <titel status="officieel">Wijziging richtlijnen</titel>
+          </kop>
+          <al>Een wijziging van de richtlijn monitoring- en informatiesysteem zeescheepvaart, van de richtlijn River Information Services, van de richtlijn meldingsformaliteiten, of van de daarbij behorende bijlagen gaat voor de toepassing van dit besluit of voor de hierop berustende bepalingen gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn dan wel de gewijzigde bijlagen uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekend gemaakt, een ander tijdstip wordt vastgesteld.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">26</nr>
+            <titel status="officieel">Wijziging <extref status="actief" doc="1.0:v:BWBR0003628" compleet="nee">Binnenvaartpolitiereglement</extref></titel>
+          </kop><al><redactie type="vervanging">Wijzigt het Binnenvaartpolitiereglement.</redactie></al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">27</nr>
+            <titel status="officieel">Wijziging <extref status="actief" doc="1.0:v:BWBR0003627" compleet="nee">Vaststellingsbesluit Binnenvaartpolitiereglement</extref></titel>
+          </kop><al><redactie type="vervanging">Wijzigt het Vaststellingsbesluit Binnenvaartpolitiereglement.</redactie></al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">28</nr>
+            <titel status="officieel">Wijziging <extref status="actief" doc="1.0:v:BWBR0005315" compleet="nee">Scheepvaartreglement Kanaal van Gent naar Terneuzen</extref></titel>
+          </kop><al><redactie type="vervanging">Wijzigt het Scheepvaartreglement Kanaal van Gent naar Terneuzen.</redactie></al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">29</nr>
+            <titel status="officieel">Wijziging <extref status="actief" doc="1.0:v:BWBR0005393" compleet="nee">Scheepvaartreglement Westerschelde</extref></titel>
+          </kop><al><redactie type="vervanging">Wijzigt het Scheepvaartreglement Westerschelde.</redactie></al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">30</nr>
+            <titel status="officieel">Wijziging <extref status="actief" doc="1.0:v:BWBR0007914" compleet="nee">Scheepvaartreglement territoriale zee</extref></titel>
+          </kop><al><redactie type="vervanging">Wijzigt het Scheepvaartreglement territoriale zee.</redactie></al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">31</nr>
+            <titel status="officieel">Strafbepaling</titel>
+          </kop>
+          <al>Overtreding van de <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=2">artikelen 2</intref>, <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=3">3</intref>, <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=4">4</intref>, <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=23">23, eerste, tweede en derde lid</intref>, of <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=24">24, eerste lid</intref>, en de daarop berustende bepalingen is een strafbaar feit.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">32</nr>
+            <titel status="officieel">Intrekken besluit</titel>
+          </kop><al>Het <extref status="actief" doc="1.0:v:BWBR0022612" compleet="nee">Besluit gegevens scheepvaart 2007</extref> wordt ingetrokken.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">33</nr>
+            <titel status="officieel">Citeertitel</titel>
+          </kop>
+          <al>Dit besluit wordt aangehaald als: Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">34</nr>
+            <titel status="officieel">Inwerkingtreding</titel>
+          </kop>
+          <al>Dit besluit treedt in werking met ingang van 19&#xA0;mei 2012 met uitzondering van de <intref status="actief" doc="1.0:v:BWBR0031560&amp;artikel=12">onderdelen&#xA0;b en c van artikel&#xA0;12</intref>, die met ingang van 1&#xA0;juni 2015 in werking treden.</al>
+        </artikel>
+      </hoofdstuk>
+    </wettekst>
+    <wetsluiting status="goed">
+      <slotformulering>
+        <al>Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>&#x2019;s-Gravenhage</plaats>
+          <datum isodatum="2012-05-04">4 mei 2012</datum>
+        </dagtekening>
+        <koning>Beatrix</koning>
+      </gegeven>
+      <ondertekening>
+        <functie>De 
+          Minister
+           van 
+          Infrastructuur en Milieu,
+          
+        </functie>
+        <naam>
+          <voornaam>M. H.</voornaam>
+          <achternaam>Schultz van Haegen-Maas Geesteranus</achternaam>
+        </naam>
+      </ondertekening>
+      <uitgifte>
+        <datum isodatum="2012-05-15">
+          de <nadruk type="cur">vijftiende</nadruk> mei 2012</datum>
+        <ondertekening>
+          <functie>De 
+            Minister
+             van 
+            Veiligheid en Justitie,
+            
+          </functie>
+          <naam>
+            <voornaam>I. W.</voornaam>
+            <achternaam>Opstelten</achternaam>
+          </naam>
+        </ondertekening>
+      </uitgifte>
+    </wetsluiting>
+    
+    
+  </wet-besluit>
+</wetgeving>
+  	

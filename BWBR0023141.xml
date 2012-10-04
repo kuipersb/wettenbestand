@@ -1,0 +1,660 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0023141" dtdversie="2.0" id="389889" soort="ministeriele-regeling">
+  
+  <intitule>Besluit vaststelling aansluitvoorwaarden MijnOverheid.nl</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,</wie>
+      <considerans>
+        <considerans.al bevat="gezien">Gezien het <extref status="actief" doc="1.0:v:BWBR0021970" compleet="nee">Besluit beheer Persoonlijke Internetpagina</extref> van 25 mei 2007;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+        </kop>
+        <al>De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties stelt de Aansluitvoorwaarden MijnOverheid.nl vast zoals opgenomen in <intref status="actief" doc="1.0:v:BWBR0023141&amp;bijlage=1">bijlage 1</intref>.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+        </kop>
+        <al>De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties stelt de Gebruiksvoorwaarden MijnOverheid.nl vast zoals opgenomen in <intref status="actief" doc="1.0:v:BWBR0023141&amp;bijlage=2">bijlage 2</intref>.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+        </kop>
+        <al>Het bekendmaken van toekomstige wijzigingen van de Aansluitvoorwaarden MijnOverheid.nl of de Gebruiksvoorwaarden Mijnoverheid.nl vindt plaats door het opnemen van de herziene versie met een doorlopend volgnummer op www.mijnoverheid.nl.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+        </kop>
+        <al>De voorwaarden als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0023141&amp;artikel=1">artikelen 1.</intref> en <intref status="actief" doc="1.0:v:BWBR0023141&amp;artikel=2">2.</intref> treden in werking op 1 januari 2008</al>
+      </artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <ondertekening>De <functie>Staatssecretaris</functie> van <organisatie afkorting="BZK">Binnenlandse Zaken en Koninkrijksrelaties</organisatie>, 
+        <naam>
+          <voornaam>A.Th.B.</voornaam>
+          <achternaam>Bijleveld-Schouten</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+    <bijlage status="goed">
+       <kop>
+        <label>Bijlage</label>
+      <nr status="officieel">1</nr></kop>
+      <al>Aansluitvoorwaarden MijnOverheid.nl</al>
+      <al>versie 1.0</al>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">
+              <nadruk type="cur">Artikel 1 Begrippen</nadruk>
+            </nadruk>
+          </titel>
+        </kop>
+        <al>In deze aansluitvoorwaarden en de daarbij behorende bijlagen wordt verstaan onder:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>1.</li.nr>
+            <al>aanbieder: een publiekrechtelijke of een privaatrechtelijke organisatie, een college of een persoon met een publieke taak of bevoegdheid die via MijnOverheid.nl een webdienst aanbiedt;</al>
+          </li>
+          <li>
+            <li.nr>2.</li.nr>
+            <al>aansluitformulier MijnOverheid.nl: het formulier waarmee de aanbieder de aanvraag voor de aansluiting van een webdienst op MijnOverheid.nl indient;</al>
+          </li>
+          <li>
+            <li.nr>3.</li.nr>
+            <al>aansluitvoorwaarden MijnOverheid.nl: de voorwaarden waaronder aan een aanbieder de aansluiting en het gebruik van zijn webdienst op MijnOverheid.nl wordt toegekend;</al>
+          </li>
+          <li>
+            <li.nr>4.</li.nr>
+            <al>aanvraag: een verzoek van een aanbieder aan BZK met gebruik van het ingevulde en ondertekende aansluitformulier MijnOverheid.nl, voor de aansluiting van een webdienst aan Mijnoverheid.nl;</al>
+          </li>
+          <li>
+            <li.nr>5.</li.nr>
+            <al>beheerfunctionaliteit: een online voorziening die de aanbieder ondersteunt bij het beheer van zijn contactgegevens en de aansluitgegevens van zijn webdienst;</al>
+          </li>
+          <li>
+            <li.nr>6.</li.nr>
+            <al>beveiligingsincident: een gebeurtenis binnen of buiten Mijnoverheid.nl die een bedreiging vormt of kan vormen voor de betrouwbaarheid, vertrouwelijkheid of beschikbaarheid van Mijnoverheid.nl;</al>
+          </li>
+          <li>
+            <li.nr>7.</li.nr>
+            <al>Bijlage aansluitspecificatie: een onderdeel van de aansluitvoorwaarden MijnOverheid.nl, met een beschrijving van de aanwijzingen en specificaties, waaronder programmatuur en specificaties van de koppelvlakken voor de aansluiting van een webdienst van de aanbieder op MijnOverheid.nl.;</al>
+          </li>
+          <li>
+            <li.nr>8.</li.nr>
+            <al>burger: een natuurlijk persoon die is ingeschreven in de gemeentelijke basisadministratie persoonsgegevens en in bezit is van een burgerservicenummer, een sociaal-fiscaal nummer of een ander van overheidswege toegekend nummer;</al>
+          </li>
+          <li>
+            <li.nr>9.</li.nr>
+            <al>BZK: de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;</al>
+          </li>
+          <li>
+            <li.nr>10.</li.nr>
+            <al>DigiD: code voor de gebruiker voor het verkrijgen van toegang tot MijnOverheid.nl en tot de webdienst;</al>
+          </li>
+          <li>
+            <li.nr>11.</li.nr>
+            <al>DigiD-voorziening: gemeenschappelijk systeem waarmee de authenticiteit van de gebruiker wordt geverifieerd;</al>
+          </li>
+          <li>
+            <li.nr>12.</li.nr>
+            <al>gebruiker: de burger die gebruik maakt van MijnOverheid.nl;</al>
+          </li>
+          <li>
+            <li.nr>13.</li.nr>
+            <al>gebruiksvoorwaarden MijnOverheid.nl: de voorwaarden waaronder een gebruiker in mag loggen op MijnOverheid.nl en gebruik mag maken van de daarop aangeboden webdiensten;</al>
+          </li>
+          <li>
+            <li.nr>14.</li.nr>
+            <al>loggegevens: de gegevens die BZK en de aanbieder registreren over de toegang tot en het gebruik van MijnOverheid.nl en de beheerfunctionaliteit;</al>
+          </li>
+          <li>
+            <li.nr>15.</li.nr>
+            <al>koppelvlak: connector bij MijnOverheid.nl waarop de aanbieder zijn webdienst kan aansluiten;</al>
+          </li>
+          <li>
+            <li.nr>16.</li.nr>
+            <al>MijnOverheid.nl: persoonlijke internetpagina, ondergebracht op de website, die de gebruiker ondersteunt bij het gebruikmaken van een webdienst;</al>
+          </li>
+          <li>
+            <li.nr>17.</li.nr>
+            <al>persoonsgegeven: elk gegeven betreffende een ge&#xEF;dentificeerde of identificeerbare natuurlijke persoon;</al>
+          </li>
+          <li>
+            <li.nr>18.</li.nr>
+            <al>webdienst: een binnen MijnOverheid.nl beschikbare elektronische dienst van de aanbieder ten behoeve van het elektronische berichtenverkeer tussen de gebruiker en de aanbieder in de zin van <extref status="actief" doc="1.0:v:BWBR0005537&amp;afdeling=2.3" compleet="nee">afdeling 2.3 van de Algemene wet bestuursrecht</extref>;</al>
+          </li>
+          <li>
+            <li.nr>19.</li.nr>
+            <al>website: https://www.mijnoverheid.nl/.</al>
+          </li>
+        </lijst>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 2 Aansluiting en beheer</nadruk>
+          </titel>
+        </kop>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>1.</li.nr>
+            <al>Met het ondertekenen en het indienen van het aansluitformulier bij BZK maakt de aanbieder kenbaar de aansluitvoorwaarden te aanvaarden.</al>
+          </li>
+          <li>
+            <li.nr>2.</li.nr>
+            <al>Met de schriftelijke acceptatie van een aanvraag door BZK komt de overeenkomst tot stand tussen de aanbieder en BZK waarop de aansluitvoorwaarden van toepassing zijn. De overeenkomst geldt voor onbepaalde tijd.</al>
+          </li>
+          <li>
+            <li.nr>3.</li.nr>
+            <al>Indien de aanbieder zijn webdienst niet binnen &#xE9;&#xE9;n jaar na acceptatie van de aanvraag op MijnOverheid.nl heeft aangesloten, vervalt de overeenkomst van rechtswege en is de aansluiting van de webdienst op MijnOverheid.nl niet langer mogelijk.</al>
+          </li>
+          <li>
+            <li.nr>4.</li.nr>
+            <al>Bij aansluiting op MijnOverheid.nl dient de aanbieder te handelen overeenkomstig de aansluitvoorwaarden MijnOverheid.nl en de door BZK gegeven aanvullende aanwijzingen.</al>
+          </li>
+          <li>
+            <li.nr>5.</li.nr>
+            <al>Voor het aansluiten van een webdienst op MijnOverheid.nl en de toegang tot de beheerfunctionaliteit brengt BZK geen kosten in rekening.</al>
+          </li>
+          <li>
+            <li.nr>6.</li.nr>
+            <al>BZK stelt binnen &#xE9;&#xE9;n maand na acceptatie van de aanvraag de beheerfunctionaliteit en gegevens van koppelvlak ter beschikking aan de aanbieder.</al>
+          </li>
+          <li>
+            <li.nr>7.</li.nr>
+            <al>De aanbieder levert binnen twee maanden na acceptatie van de aanvraag alle aansluitgegevens van zijn webdienst aan BZK aan.</al>
+          </li>
+          <li>
+            <li.nr>8.</li.nr>
+            <al>BZK voert binnen &#xE9;&#xE9;n maand nadat de a anbieder de aansluitgegevens als bedoeld in het vorige lid heeft aangeleverd, een acceptatietest en impactanalyse uit. Bij een positieve beoordeling sluit BZK de webdienst aan op MijnOverheid.nl. Bij een negatieve beoordeling maakt BZK de reden daarvan kenbaar aan de a anbieder. De aanbieder past binnen 2 maanden de aansluitgegevens aan conform door BZK gegeven aanwijzingen, tenzij de aanbieder niet langer prijs stelt op de aansluiting.</al>
+          </li>
+          <li>
+            <li.nr>9.</li.nr>
+            <al>Indien de aanbieder onjuiste, onvolledige of onduidelijke informatie in de Bijlage aansluitspecificatie constateert, stelt de aanbieder BZK hiervan onverwijld op de hoogte.</al>
+          </li>
+          <li>
+            <li.nr>10.</li.nr>
+            <al>Na een mededeling als bedoeld in het vorige lid of indien BZK op andere wijze op de hoogte wordt gesteld over onvolledige of onduidelijke informatie in de Bijlage aansluitspecificatie, corrigeert BZK de onjuiste, onvolledige of onduidelijke informatie zo spoedig mogelijk maar in ieder geval binnen 2 maanden na het bekend worden ervan en stelt de a anbieder daarvan onverwijld op de hoogte.</al>
+          </li>
+        </lijst>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 3 Authenticatie en toegang van de gebruiker</nadruk>
+          </titel>
+        </kop>
+        <al>1. De aanbieder is voor zijn webdienst geregistreerd als afnemer van de DigiD-voorziening.</al>
+        <al>2. Om de webdienst binnen MijnOverheid.nl via eenmalig inloggen voor de gebruiker toegankelijk te maken, verstrekt BZK authenticatiegegevens, ook wel credentials genoemd, aan de aanbieder op het moment dat de gebruiker een webdienst binnen MijnOverheid.nl opent.</al>
+        <al>3. De aanbieder geeft de gebruiker toegang tot de webdienst op basis van deze authenticatiegegevens, mits het zekerheidsniveau van DigiD dat de aanbieder hanteert hetzelfde of lager is dan het zekerheidsniveau dat BZK hanteert voor de toegang tot MijnOverheid.nl.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 4 Webdienst</nadruk>
+          </titel>
+        </kop>
+        <al>1. De aanbieder is verantwoordelijk voor de inrichting en instandhouding van zijn webdienst. De aanbieder kan daarbij eigen gebruiksvoorwaarden hanteren mits deze voorwaarden niet strijdig zijn met de aansluitvoorwaarden en de gebruiksvoorwaarden van MijnOverheid.nl.</al>
+        <al>2. Binnen MijnOverheid.nl wordt bij iedere webdienst de naam van de aanbieder en zijn contactgegevens getoond. De aanbieder kan deze gegevens beheren via de beheerfunctionaliteit.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 5 Inspanningsverplichting en onderhoud</nadruk>
+          </titel>
+        </kop>
+        <al>1. BZK heeft een inspanningsverplichting ten opzichte van de aanbieder voor de instandhouding van een ononderbroken toegang tot de beheerfunctionaliteit en voor een ononderbroken aansluiting van de webdienst op MijnOverheid.nl.</al>
+        <al>2. De aanbieder heeft een inspanningsverplichting voor het ononderbroken beschikbaar stellen van zijn webdienst en is verantwoordelijk voor het beheer van de aansluitgegevens van zijn webdienst via de beheerfunctionaliteit.</al>
+        <al>3. BZK kan te allen tijde, zonder voorafgaande aankondiging, MijnOverheid.nI, de beheerfunctionaliteit of onderdelen ervan buiten gebruik stellen in verband met het voorkomen of opheffen van storingen.</al>
+        <al>4. BZK kan MijnOverheid.nl, de beheerfunctionaliteit of onderdelen ervan, na aankondiging buiten gebruik stellen voor het plegen van gepland onderhoud.</al>
+        <al>5. BZK informeert de aanbieder over het onderhoudsschema. BZK informeert de aanbieder minimaal dertig dagen van te voren wanneer het geplande onderhoud plaatsvindt.</al>
+        <al>6. BZK voert voor zover mogelijk het onderhoud uit tijdens de uren waarop het minst gebruik wordt gemaakt van MijnOverheid.nl.</al>
+        <al>7. In het geval MijnOverheid.nl of de beheerfunctionaliteit niet beschikbaar is, zal BZK de aanbieder hierover informeren en voor zover mogelijk een indicatie van de onderbrekingsduur geven.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 6 Servicedesk MijnOverheid.nl</nadruk>
+          </titel>
+        </kop>
+        <al>De Servicedesk MijnOverheid.nl fungeert als het centrale aanspreekpunt voor de aanbieder voor vragen over de werking van MijnOverheid.nl en de beheerfunctionaliteit. Contactgegevens staan in de Bijlage aansluitspecificatie.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 7 Privacy</nadruk>
+          </titel>
+        </kop>
+        <al>1. De verwerking van persoonsgegevens door BZK en de aanbieder vindt plaats overeenkomstig de vigerende wettelijke bepalingen.</al>
+        <al>2. BZK en de aanbieder zijn gerechtigd tot het gebruik van het BSN en het sociaal-fiscaalnummer of een ander van overheidswege aan de gebruiker toegekend nummer.</al>
+        <al>3. Bij iedere webdienst wordt een privacyverklaring van de aanbieder getoond, waarin wordt aangegeven wat de doeleinden zijn van de verwerking van de persoonsgegevens van de gebruiker binnen de webdienst en op welke wijze de gebruiker zijn daarmee verband houdende rechten kan uitoefenen.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 8 Beveiliging</nadruk>
+          </titel>
+        </kop>
+        <al>1. BZK treft de noodzakelijke organisatorische en technische beveiligingsmaatregelen tegen verlies of onrechtmatige verwerking van de persoonsgegevens van de gebruiker binnen MijnOverheid.nl.</al>
+        <al>2. De aanbieder treft de noodzakelijke organisatorische en technische beveiligingsmaatregelen tegen verlies of onrechtmatige verwerking van de persoonsgegevens binnen de webdienst. De aanbieder draagt er tevens zorg voor dat wordt voldaan aan de beveiligingsmaatregelen die zijn beschreven in de Bijlage aansluitspecificatie.</al>
+        <al>3. Indien een partij aanwijzingen heeft dat de andere partij de beveiligingsmaatregelen niet treft, niet naleeft of niet volledig naleeft, stelt eerstgenoemde partij de andere partij hiervan schriftelijk op te hoogte. De andere partij is gehouden aannemelijk te maken dat de beveiligingsmaatregelen juist en volledig worden nageleefd. Indien BZK of de aanbieder het, in de voorgaande twee volzinnen bedoelde, bewijs niet tot tevredenheid van de andere partij binnen een redelijke termijn levert, is artikel 10, tweede lid, sub c  of artikel 10, derde lid, sub b van overeenkomstige toepassing.</al>
+        <al>4. BZK kan te allen tijde, zonder voorafgaande bekendmaking, de toegang tot MijnOverheid.nl, de beheerfunctionaliteit en de aansluiting op een webdienst onderbreken, indien er sprake is van een beveiligingsincident of een dreiging daartoe.</al>
+        <al>5. Loggegevens worden op verzoek uitgewisseld tussen BZK en de aanbieder indien dit noodzakelijk is in verband met een beveiligingsincident of een dreiging daartoe.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 9 Geheimhouding</nadruk>
+          </titel>
+        </kop>
+        <al>1. BZK en de aanbieder houden de onderling uitgewisselde gegevens geheim waarvan redelijkerwijs is aan te nemen dat bekendmaking daarvan de belangen van de andere partij zou schaden . Geheim te houden gegevens zijn in ieder geval: de persoonsgegevens van de gebruiker, de loggegevens voorzover het geen persoonsgegevens betreft en de Bijlage aansluitspecificatie.</al>
+        <al>2. De geheimhoudingsplicht zoals bedoeld in het voorgaande lid, vangt aan met de aanvraag van</al>
+        <al>de aanbieder en loopt door na be&#xEB;indiging van de aansluiting van webdienst.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 10 Be&#xEB;indiging aansluiting webdienst</nadruk>
+          </titel>
+        </kop>
+        <al>1. BZK en de aanbieder kunnen te allen tijde schriftelijk, met een opzegtermijn van twee maanden, de aansluiting van een webdienst be&#xEB;indigen.</al>
+        <al>2. BZK schort de toegang tijdelijk op dan wel be&#xEB;indigt de aansluiting van een webdienst indien:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>de aanbieder de aansluitvoorwaarden niet naleeft;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>de aanbieder de gewijzigde aansluitvoorwaarden niet accepteert;</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>de aanbieder de beveiligingsmaatregelen niet treft of niet naleeft.</al>
+          </li>
+        </lijst>
+        <al>3. De aanbieder schort de aansluiting van een webdienst tijdelijk op dan wel be&#xEB;indigt deze indien:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>BZK de aansluitvoorwaarden niet naleeft;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>BZK de beveiligingsmaatregelen niet treft of niet naleeft.</al>
+          </li>
+        </lijst>
+        <al>4. Na de be&#xEB;indiging van de aansluiting op MijnOverheid.nl bewaren BZK en de aanbieder de loggegevens ten minste &#xE9;&#xE9;n jaar of langer voorzover dit niet anders wettelijk is voorgeschreven.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 11 Intellectueel eigendom en communicatie</nadruk>
+          </titel>
+        </kop>
+        <al>1. Alle intellectuele eigendomsrechten, waaronder auteursrechten, databankrechten en merkenrecht met betrekking tot MijnOverheid.nl, de beheerfunctionaliteit en de aansluitvoorwaarden zijn voorbehouden aan BZK, tenzij anders is aangegeven.</al>
+        <al>2. BZK verleent de aanbieder het gebruiksrecht op de in lid 1 genoemde rechten met als doel de aansluiting te realiseren en te beheren.</al>
+        <al>3. Het eerste lid is niet van toepassing op de webdienst van de aanbieder en de door de gebruiker en de aanbieder binnen MijnOverheid.nl bewaarde gegevens.</al>
+        <al>4. De aanbieder zal in zijn communicatie over MijnOverheid.nl conform de voorschriften zoals vermeld in de Bijlage aansluitspecificatie handelen.</al>
+        <al>5. BZK kan in zijn communicatie de aanbieder als referentie noemen.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 12 Wijziging aansluitvoorwaarden</nadruk>
+          </titel>
+        </kop>
+        <al>1. BZK heeft het recht de aansluitvoorwaarden te wijzigen. Uiterlijk twintig werkdagen voorafgaande aan de datum van inwerkingtreding wordt de aanbieder hierover schriftelijk ge&#xEF;nformeerd en wordt hij in de gelegenheid gesteld de gewijzigde aansluitvoorwaarden al dan niet te accepteren.</al>
+        <al>2. In het geval de aanbieder een wijziging in de aansluitvoorwaarden niet accepteert, is artikel 10, lid 2, aanhef en sub b, van toepassing.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 13 Geschilbeslechting en toepasselijk recht</nadruk>
+          </titel>
+        </kop>
+        <al>1. In het geval zich een geschil voordoet bij de aansluiting van een webdienst op MijnOverheid.nl en dit geschil niet na deugdelijk onderling overleg tot oplossing kan worden gebracht, zullen de betrokken partijen een commissie benoemen van niet-betrokken deskundigen, waarbij elke partij daartoe een deskundige aanwijst, terwijl deze aldus aangewezen deskundigen de derde aanwijzen die als voorzitter van de commissie zal fungeren. De commissie van deskundigen brengt een voor beide partijen bindend advies dat &#x2013; in het geval het een organisatie van de centrale overheid betreft &#x2013; slechts terzijde kan worden gesteld door een besluit van de ministerraad.</al>
+        <al>2. Op deze aansluitvoorwaarden is het Nederlands recht van toepassing.</al>
+      </divisie>
+    </bijlage>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel"> 2</nr>
+      </kop>
+      <al>Gebruiksvoorwaarden MijnOverheid.nl</al>
+      <al>versie 1.0</al>
+      <table frame="none" tabstyle="stcrt1">
+        <title>Inhoudsopgave</title>
+        <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="stcrt1">
+          <colspec colname="col1" colnum="1" colwidth="14*"/>
+          <colspec colname="col2" colnum="2" colwidth="36*"/>
+          <tbody valign="top">
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Artikel 1</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Begrippen</al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Artikel 2</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Toegang en gebruik</al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Artikel 3</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Inspanningsverplichting en onderhoud</al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Artikel 4</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Helpdesk MijnOverheid.nl</al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Artikel 5</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Privacy binnen MijnOverheid.nl</al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Artikel 6</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Privacy binnen webdiensten</al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Artikel 7</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Beveiliging</al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Artikel 8</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Be&#xEB;indiging</al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Artikel 9</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Intellectueel eigendom</al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Artikel 10</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Klachten</al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Artikel 11</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Wijziging gebruiksvoorwaarden</al>
+              </entry>
+            </row>
+            <row>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Artikel 12</al>
+              </entry>
+              <entry align="left" morerows="0" rotate="0" valign="top">
+                <al>Geschilbeslechting en toepasselijk recht</al>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 1 Begrippen</nadruk>
+          </titel>
+        </kop>
+        <al>In deze gebruiksvoorwaarden wordt verstaan onder:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>1.</li.nr>
+            <al>aanbieder: een publieke of private organisatie, een college of persoon met een publieke taak of bevoegdheid die via MijnOverheid.nl een Webdienst aanbiedt;</al>
+          </li>
+          <li>
+            <li.nr>2.</li.nr>
+            <al>beveiligingsincident: een gebeurtenis binnen of buiten MijnOverheid.nl die een bedreiging vormt of kan vormen voor de betrouwbaarheid, vertrouwelijkheid of beschikbaarheid van MijnOverheid.nl;</al>
+          </li>
+          <li>
+            <li.nr>3.</li.nr>
+            <al>burger: natuurlijk persoon die is ingeschreven in de gemeentelijke basisadministratie persoonsgegevens en in bezit is van een burgerservicenummer, een sociaal-fiscaal nummer of een ander van overheidswege toegekend nummer;</al>
+          </li>
+          <li>
+            <li.nr>4.</li.nr>
+            <al>BZK: de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;</al>
+          </li>
+          <li>
+            <li.nr>5.</li.nr>
+            <al>DigiD: code voor het verkrijgen van toegang tot MijnOverheid.nl en tot een webdienst;</al>
+          </li>
+          <li>
+            <li.nr>6.</li.nr>
+            <al>gebruiker: een burger die gebruik maakt van MijnOverheid.nl;</al>
+          </li>
+          <li>
+            <li.nr>7.</li.nr>
+            <al>gebruiksvoorwaarden: de voorwaarden waaronder een gebruiker inlogt en gebruik maakt van de functionaliteiten van MijnOverheid.nl ;</al>
+          </li>
+          <li>
+            <li.nr>8.</li.nr>
+            <al>loggegevens: gegevens die BZK en de aanbieder registreren over de toegang tot en het gebruik van MijnOverheid.nl door de gebruiker;</al>
+          </li>
+          <li>
+            <li.nr>9.</li.nr>
+            <al>MijnOverheid.nl: persoonlijke internetpagina, ondergebracht op de website, die de gebruiker ondersteunt bij het gebruikmaken van een webdienst;</al>
+          </li>
+          <li>
+            <li.nr>10.</li.nr>
+            <al>persoonsgegeven: elk gegeven betreffende een ge&#xEF;dentificeerde of identificeerbare natuurlijke persoon;</al>
+          </li>
+          <li>
+            <li.nr>11.</li.nr>
+            <al>webdienst: een binnen MijnOverheid.nl beschikbare elektronische dienst van de aanbieder ten behoeve van het elektronische berichtenverkeer tussen de gebruiker en de aanbieder in de zin van <extref status="actief" doc="1.0:v:BWBR0005537&amp;afdeling=2.3" compleet="nee">afdeling 2.3 van de Algemene wet bestuursrecht</extref>;</al>
+          </li>
+          <li>
+            <li.nr>12.</li.nr>
+            <al>website: http://www.mijnoverheid.nl.</al>
+          </li>
+        </lijst>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 2 Toegang en gebruik</nadruk>
+          </titel>
+        </kop>
+        <al>1. BZK stelt MijnOverheid.nl voor onbeperkte duur aan de gebruiker ter beschikking, tenzij op grond van artikel 8 de toegang tot MijnOverheid.nl be&#xEB;indigd wordt.</al>
+        <al>2. BZK brengt voor de toegang tot en gebruik van MijnOverheid.nl geen kosten in rekening.</al>
+        <al>3. De gebruiker beschikt over een DigiD voor het activeren van en toegang verkrijgen tot MijnOverheid.nl.</al>
+        <al>4. Om een webdienst binnen MijnOverheid.nl via eenmalig inloggen voor de gebruiker toegankelijk te maken, verstrekt BZK authenticatiegegevens aan de aanbieder op het moment dat de gebruiker een webdienst binnen MijnOverheid.nl opent. De aanbieder geeft de gebruiker toegang tot een webdienst op basis van deze authenticatiegegevens, mits het zekerheidsniveau hetzelfde of lager is dan het zekerheidsniveau van DigiD dat BZK hanteert voor de toegang tot MijnOverheid.nl.</al>
+        <al>5. De gebruiker neemt kennis van de gebruiksvoorwaarden en accepteert deze voordat de gebruiker van MijnOverheid.nl gebruik maakt.</al>
+        <al>6. Bij gebruik van MijnOverheid.nl dient de gebruiker te handelen overeenkomstig de gebruiksvoorwaarden en door BZK gegeven aanwijzingen.</al>
+        <al>7. De toegang tot en het gebruik van de functies van MijnOverheid.nl zijn strikt persoonlijk. De gebruiker gaat zorgvuldig om met MijnOverheid.nl.</al>
+        <al>8. De aanbieder draagt de verantwoordelijkheid voor zijn webdienst en kan daarbij eigen, aanvullende gebruiksvoorwaarden voor zijn webdienst hanteren.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 3 Inspanningsverplichting en onderhoud</nadruk>
+          </titel>
+        </kop>
+        <al>1. BZK heeft een inspanningsverplichting ten opzichte van de gebruiker voor de instandhouding van een ononderbroken toegang tot de MijnOverheid.nl.</al>
+        <al>2. De aanbieder is verantwoordelijk voor de beschikbaarheid van zijn webdienst.</al>
+        <al>3. BZK kan te allen tijde, zonder voorafgaande bekendmaking, MijnOverheid.nl of onderdelen daarvan buiten gebruik stellen voor het opheffen van storingen.</al>
+        <al>4. BZK kan MijnOverheid.nl of onderdelen daarvan, na aankondiging buiten gebruik stellen voor het plegen van onderhoud. BZK zal de gebruiker minimaal vijf dagen voorafgaand aan het plegen van gepland onderhoud hierover per e-mail of via de website informeren.</al>
+        <al>5. BZK voert voor zover mogelijk het onderhoud uit tijdens de uren waarop het minst gebruik wordt gemaakt van MijnOverheid.nl.</al>
+        <al>6. In het geval MijnOverheid.nl tijdelijk niet beschikbaar is, zal BZK voor zover mogelijk een melding daaromtrent met de geschatte onderbrekingsduur op de website plaatsen.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 4 Helpdesk</nadruk>
+          </titel>
+        </kop>
+        <al>1. De Helpdesk MijnOverheid.nl fungeert als het centrale aanspreekpunt voor de gebruiker voor vragen over MijnOverheid.nl. Contactgegevens zijn te vinden op de website.</al>
+        <al>2. Voor vragen over de binnen MijnOverheid.nl beschikbare webdiensten kan contact opgenomen worden met de aanbieder. Binnen MijnOverheid.nl wordt bij het gebruik van een webdienst de naam van de aanbieder en zijn contactgegevens getoond.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 5 Privacy binnen MijnOverheid.nl</nadruk>
+          </titel>
+        </kop>
+        <al>1. De gebruiker heeft de mogelijkheid om binnen MijnOverheid.nl Persoonsgegevens te bewaren en in te zien.</al>
+        <al>2. Het verwerken van persoonsgegevens door MijnOverheid.nl heeft tot doel:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>het aan de gebruiker via MijnOverheid.nl aanbieden van de mogelijkheid tot inzage en een verzoek tot wijziging van de eigen persoonsgegevens die bij de aanbieder over de gebruiker bekend zijn;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>de webdiensten van de aanbieder meer op maat aanbieden aan de gebruiker;</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>het hergebruik van de eigen persoonsgegevens door de gebruiker binnen MijnOverheid.nl mogelijk maken;</al>
+          </li>
+          <li>
+            <li.nr>d.</li.nr>
+            <al>de gebruiker binnen MijnOverheid.nl archiveringsmogelijkheden bieden van het elektronisch berichtenverkeer met de aanbieder;</al>
+          </li>
+          <li>
+            <li.nr>e.</li.nr>
+            <al>het mogelijk maken om aan de gebruiker berichten inzake MijnOverheid.nl te versturen, of vanuit de aanbieder aan de gebruiker berichten inzake webdiensten te versturen.</al>
+          </li>
+        </lijst>
+        <al>3. De gebruiker is verantwoordelijk voor de juistheid en volledigheid van de door de gebruiker binnen MijnOverheid.nl bewaarde persoonsgegevens.</al>
+        <al>4. MijnOverheid.nl geeft anderen dan de gebruiker geen inzage in de door de gebruiker binnen MijnOverheid.nl bewaarde persoonsgegevens. De door de gebruiker binnen MijnOverheid.nl bewaarde persoonsgegevens worden niet aan derden, zoals aanbieders, verstrekt, tenzij daarvoor een wettelijke grondslag bestaat of tenzij de gebruiker daarvoor ondubbelzinnige toestemming heeft gegeven.</al>
+        <al>5. BZK kan loggegevens verstrekken aan de aanbieder en kan de aanbieder verzoeken om loggegevens indien dit noodzakelijk is in verband met het goede beheer van MijnOverheid.nl of van de daarbinnen aangeboden webdiensten.</al>
+        <al>6. De verwerking van persoonsgegevens binnen MijnOverheid.nl vindt plaats overeenkomstig de vigerende wettelijke bepalingen. De verwerking van persoonsgegevens binnen MijnOverheid.nl is op grond van <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=27" compleet="nee">artikel 27van de Wet bescherming persoonsgegevens</extref> gemeld bij het College bescherming persoonsgegevens en is onder meldingsnummer 1327633 in het register van het College bescherming persoonsgegevens opgenomen.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 6 Privacy binnen de webdiensten</nadruk>
+          </titel>
+        </kop>
+        <al>1. Bij iedere webdienst wordt een mededeling van de aanbieder inzake de doeleinden van de verwerking van persoonsgegevens getoond, de zogenaamde privacyverklaring.</al>
+        <al>2. MijnOverheid.nl geeft aan anderen dan de gebruiker en de aanbieder van de desbetreffende webdienst geen inzage in de persoonsgegevens binnen de webdienst.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 7 Beveiliging</nadruk>
+          </titel>
+        </kop>
+        <al>1. BZK treft alle noodzakelijke organisatorische en technische beveiligingsmaatregelen tegen verlies of onrechtmatige verwerking van de persoonsgegevens van de gebruiker.</al>
+        <al>2. BZK kan te allen tijde, zonder voorafgaande bekendmaking, de toegang tot MijnOverheid.nl onderbreken indien er sprake is van een beveiligingsincident of een dreiging daartoe.</al>
+        <al>3. BZK zal zo mogelijk voorafgaand aan de in het voorgaande lid genoemde onderbreking de gebruiker via een bericht binnen MijnOverheid.nl of via de website informeren over de aard en verwachte duur van de onderbreking.</al>
+        <al>4. De gebruiker is verantwoordelijk voor de beveiliging van zijn eigen systeem inclusief internetverbinding.</al>
+        <al>5. Indien de gebruiker kennis heeft van misbruik of oneigenlijk gebruik door een derde van MijnOverheid.nl, meldt de gebruiker dit onverwijld aan BZK via de Helpdesk MijnOverheid.nl. BZK kan als gevolg van deze melding de toegang tot MijnOverheid.nl met onmiddellijke ingang be&#xEB;indigen.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 8 Be&#xEB;indiging</nadruk>
+          </titel>
+        </kop>
+        <al>1. De gebruiker kan te allen tijde MijnOverheid.nl via de website be&#xEB;indigen. De gebruiker zal in dat geval via de website erop gewezen worden dat de gegevens die zijn opgeslagen in Mijnoverheid.nl voor hem verloren gaan, tenzij hij voor de be&#xEB;indiging deze gegevens overbrengt naar zijn eigen PC.</al>
+        <al>2. BZK kan de toegang tot MijnOverheid.nl be&#xEB;indigen indien:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>de gebruiker MijnOverheid.nl voor een aaneengesloten periode van 2 jaar niet heeft gebruikt;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>in geval van misbruik of oneigenlijk gebruik van MijnOverheid.nl door de gebruiker.</al>
+          </li>
+        </lijst>
+        <al>3. Bij be&#xEB;indiging van de toegang tot MijnOverheid.nl door BZK zal BZK de persoonsgegevens van de gebruiker niet langer bewaren in een vorm die het mogelijk maakt de gebruiker te identificeren.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 9 Intellectueel eigendom</nadruk>
+          </titel>
+        </kop>
+        <al>1. De intellectuele eigendomsrechten, waaronder auteursrechten, databankrechten en merkenrechten, met betrekking tot de website en MijnOverheid.nl zijn voorbehouden aan BZK, tenzij anders is aangegeven.</al>
+        <al>2. Het eerste lid is niet van toepassing op de webdienst van de aanbieder en de door de gebruiker binnen Mijnoverheid.nl bewaarde gegevens.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 10 Klachten</nadruk>
+          </titel>
+        </kop>
+        <al>1. In het geval van klachten over het gebruik van MijnOverheid.nl of handelingen van BZK met betrekking tot MijnOverheid.nl, is de klachtenregeling van BZK van toepassing. Klachten dienen binnen &#xE9;&#xE9;n jaar na het voorval te worden gemeld bij BZK. De brochure over de regeling is te vinden op http://www.BZK.nl/contents/pages/43155/brochureinternklachtrecht.pdf.</al>
+        <al>2. Indien de gebruiker klachten heeft over de webdienst van de aanbieder of over handelingen van de aanbieder in verband met de webdienst, neemt de gebruiker daarover contact op met aanbieder.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 11 Wijziging gebruiksvoorwaarden</nadruk>
+          </titel>
+        </kop>
+        <al>1. BZK heeft het recht de gebruiksvoorwaarden te wijzigen. Uiterlijk twintig werkdagen voorafgaande aan de datum van inwerkingtreding wordt de gebruiker hierover per e-mail of via de website ge&#xEF;nformeerd, en wordt de gebruiker in de gelegenheid gesteld kennis te nemen van de gewijzigde gebruiksvoorwaarden. Indien de gebruiker te kennen geeft de gewijzigde gebruiksvoorwaarden niet te willen accepteren, be&#xEB;indigt BZK zijn toegang tot MijnOverheid.nl.</al>
+        <al>2. BZK draagt zorg voor publicatie van de geldende versie van de gebruiksvoorwaarden op de website, en voor het kunnen printen, downloaden en opslaan van de gebruiksvoorwaarden.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Artikel 12 Toepasselijk recht</nadruk>
+          </titel>
+        </kop>
+        <al>Op deze gebruiksvoorwaarden is Nederlands recht van toepassing.</al>
+      </divisie>
+    </bijlage>
+  </regeling>
+</wetgeving>
+  	

@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0021772" dtdversie="2.0" id="376199" soort="zbo">
+  
+  <intitule>Regeling Aanlevering en verspreiding scoregegevens zorgzwaartepakketten (ZZP&#x2019;s) ten behoeve van de Nederlands Zorgautoriteit</intitule>
+  
+  <circulaire>
+    <circulaire.aanhef>
+      <context>
+        <context.al>De Nederlandse Zorgautoriteit (NZa),</context.al>
+        <context.al>Gelet op <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=68" compleet="nee">artikel 68, eerste lid, Wet Marktordening gezondheidszorg</extref> (WMg);</context.al>
+        <context.al>Stelt de volgende regeling vast:</context.al>
+      </context>
+    </circulaire.aanhef>
+    <circulaire-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Algemeen</titel>
+        </kop>
+        <al>Deze regeling is van toepassing op de zorg of dienst als omschreven bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0002614" compleet="nee">Algemene Wet Bijzondere Ziektekosten</extref> (AWBZ) en wordt geleverd door zorgaanbieders die zijn toegelaten voor de functie verblijf, in combinatie met de functies persoonlijke verzorging, verpleging, ondersteunende begeleiding, activerende begeleiding of behandeling als omschreven in het <extref status="actief" doc="1.0:v:BWBR0014149" compleet="nee">Besluit zorgaanspraken AWBZ</extref>.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <tussenkop>2.1 Zorgaanbieder</tussenkop>
+        <al>Zorgaanbieder als omschreven in <intref status="actief" doc="1.0:v:BWBR0021772&amp;artikel=1">artikel 1</intref> van deze regeling.</al>
+        <tussenkop>2.2 Zorgzwaartepakket</tussenkop>
+        <al>Een zorgzwaartepakket (ZZP) is een volledig pakket van intramurale zorg dat aansluit op de kenmerken van de cli&#xEB;nt en het soort zorg dat de cli&#xEB;nt nodig heeft. Een ZZP bestaat uit een beschrijving van het type cli&#xEB;nt (een cli&#xEB;ntprofiel), het aantal uren zorg dat bij dit cli&#xEB;ntprofiel beschikbaar wordt gesteld en een beschrijving van die zorg. De ZZP&#x2019;s zijn door het Ministerie van VWS vastgesteld. Een overzicht van de vastgestelde ZZP&#x2019;s is beschikbaar op de website www.zorgzwaartebekostiging.nl en op te vragen bij de NZa.</al>
+        <tussenkop>2.3 ZZP&#x2019;s scoren</tussenkop>
+        <al>Het bepalen van een ZZP per cli&#xEB;nt op basis van de hulp die een cli&#xEB;nt gezien zijn/haar beperkingen en stoornissen nodig heeft. Het betreft cli&#xEB;nten die zorg met verblijf ontvangen.</al>
+        <al>Cli&#xEB;nten die geneeskundige geestelijke gezondheidszorg ontvangen en korter dan 365 dagen bij de zorgaanbieder verblijven. worden bij de ZZP-opgave buiten beschouwing gelaten.</al>
+        <tussenkop>2.4 ZZP-scoreprogramma</tussenkop>
+        <al>Een beveiligde en landelijke beschikbare webapplicatie, die in opdracht van het Ministerie van VWS is ontwikkeld door Het Bureau Hoeksma, Homans &amp; Menting organisatieadviseurs BV (HHM) te Enschede.</al>
+        <tussenkop>2.5 CIZ</tussenkop>
+        <al>Het Centrum indicatiestelling zorg (CIZ) is beheerder van de gegevens die door middel van deze regeling worden opgevraagd.</al>
+        <tussenkop>2.6 Ribw</tussenkop>
+        <al>Zorgaanbieder die is toegelaten voor de functies persoonlijke verzorging. ondersteunende begeleiding, activerende begeleiding. verblijf &#xE9;n niet voor behandeling als omschreven in het <extref status="actief" doc="1.0:v:BWBR0014149" compleet="nee">Besluit zorgaanspraken AWBZ</extref> voor verzekerden met een psychiatrische aandoening.</al>
+        <tussenkop>2.7 GVT</tussenkop>
+        <al>Zorgaanbieder die is toegelaten voor de functies persoonlijke verzorging. ondersteunende begeleiding. activerende begeleiding en verblijf &#xE9;n niet voor behandeling als omschreven in het <extref status="actief" doc="1.0:v:BWBR0014149" compleet="nee">Besluit zorgaanspraken AWBZ</extref> voor verzekerden met een verstandelijke, lichamelijke of zintuiglijke handicap.</al>
+        <tussenkop>2.8 Verzorgingshuis</tussenkop>
+        <al>Zorgaanbieder die is toegelaten voor de functies persoonlijke verzorging, verpleging, ondersteunende begeleiding, activerende begeleiding en verblijf &#xE9;n niet voor behandeling als omschreven in het <extref status="actief" doc="1.0:v:BWBR0014149" compleet="nee">Besluit zorgaanspraken AWBZ</extref> voor verzekerden met een somatische dan wel psychogeriatrische aandoening of beperking en voor verzekerden met een psychosociaal probleem.</al>
+        <tussenkop>2.9 Verpleeghuis</tussenkop>
+        <al>Zorgaanbieder die is toegelaten voor de functies persoonlijke verzorging, verpleging, ondersteunende begeleiding, activerende begeleiding, behandeling en verblijf als omschreven in het <extref status="actief" doc="1.0:v:BWBR0014149" compleet="nee">Besluit zorgaanspraken AWBZ</extref> voor verzekerden met een somatische dan wel psychogeriatrische aandoening of beperking.</al>
+        <tussenkop>2.10 Aanwezigheidsdagen</tussenkop>
+        <al>Het aantal dagen dat een cli&#xEB;nt fysiek verblijft bij de zorgaanbieder.</al>
+        <tussenkop>2.11 Dagbesteding</tussenkop>
+        <al>Een gestructureerde en niet-vrijblijvende vorm van besteding van de dag.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Doel</titel>
+        </kop>
+        <al>De registratie en verstrekking van de in <intref status="actief" doc="1.0:v:BWBR0021772&amp;artikel=4">artikel 4</intref> van deze regeling bedoelde gegevens door de zorgaanbieders geschiedt ten behoeve van:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>het verkrijgen van een beeld van de actuele en betrouwbare zorgzwaarte van de cli&#xEB;ntenpopulatie per zorgaanbieder, ter voorbereiding op de invoering van de zorgzwaartebekostiging. Deze zorgzwaartegegevens zijn enerzijds het uitgangspunt voor de volume- en prijsafspraken in ZZP&#x2019;s per 2008 en anderzijds de basis voor op- en afbouwtrajecten in het kader van de herallocatie die voortvloeit uit de invoering van de zorgzwaartebekostiging.</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>het valideren van de voorlopige prijzen per ZZP in 2007 en/of het vaststellen van de prijzen per ZZP in de beleidsregels voor 2008.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Gegevensset ZZP-score ten behoeve van de NZa</titel>
+        </kop>
+        <al>Het verstrekken van de ZZP-gegevens door zorgaanbieders aan het CIZ ten behoeve van de NZa als bedoeld in <intref status="actief" doc="1.0:v:BWBR0021772&amp;artikel=6">artikel 6</intref> van deze regeling. betreft de gegevens in de navolgende tabel. Deze gegevens dienen, op grond van <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=63" compleet="nee">artikel 63 Wmg</extref>, volledig en naar waarheid te worden verstrekt.</al>
+        <al>De peildatum die gehanteerd dient te worden bij het verstrekken van onderstaande gegevens is 1&#xA0;november 2006.</al>
+        <al>Het ZZP-scoreprogramma is geschikt voor het leveren van deze gegevens aan het CIZ. Voor een verdere beschrijving van de via het ZZP-scoreprogramma aan te leveren gegevens waarmee wordt voldaan aan deze regeling, wordt verwezen naar de toelichting bij deze regeling.</al>
+        <tussenkop>Gegevensset ZZP-score ten behoeve van de NZA</tussenkop>
+        <al>
+          <nadruk type="cur">Gegevens zorgaanbieder</nadruk>
+        </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>Naam zorgaanbieder.</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>Plaats zorgaanbieder.</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>NZa-categorie.</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>NZa-nummer.</al>
+          </li>
+        </lijst>
+        <al>
+          <nadruk type="cur">Capaciteitsgegevens intramuraal</nadruk>
+        </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>Capaciteit: totaal aantal toegelaten plaatsen in 2006 (inclusief logeerplaatsen en kortverblijfplaatsen).</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>Capaciteit: totaal aantal afgesproken plaatsen in 2006 (inclusief logeerplaatsen en kortverblijfplaatsen).</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>Aantal afgesproken dagen: aantal (kort)verblijfsdagen in 2006 (exclusief afgesproken dagen geneeskundige geestelijke gezondheidszorg voor cli&#xEB;nten die korter dan 365 dagen bij de zorgaanbieder verblijven).</al>
+          </li>
+        </lijst>
+        <al>
+          <nadruk type="cur">Dagbesteding algemeen</nadruk>
+        </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>Aantal GVT-bewoners dat op peildatum bij de zorgaanbieder verblijft en waarvoor dagbesteding gefinancierd wordt via de Beleidsregel extramurale zorg.</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>Aantal Ribw-bewoners dat op peildatum bij de zorgaanbieder verblijft en waarvoor de dagbesteding gefinancierd wordt via de prestatie &#x2018;Uren recreatieeducatie-arbeidsmatige activiteiten (F125)&#x2019;.</al>
+          </li>
+        </lijst>
+        <al>
+          <nadruk type="cur">Woonzorg formatie</nadruk>
+        </al>
+        <al>&#x2013; De uitkomst van een formatie controle, waaruit de verhouding blijkt tussen het volume van de zorg in combinatie met de geleverde soorten zorg enerzijds en de beschikbare personeelsformatie anderzijds.</al>
+        <al>
+          <nadruk type="cur">Verblijfsgegevens</nadruk>
+        </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>Het aantal cli&#xEB;nten waarvoor aanvullende verpleeghuiszorg (in het verzorgingshuis) van toepassing is. En indien dit voor &#xE9;&#xE9;n of meer cli&#xEB;nten van toepassing is:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>NZa-categorie van betrokken verpleeghuis.</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>NZa-nummer van betrokken verpleeghuis.</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>Naam betrokken verpleeghuis.</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>Plaats betrokken verpleeghuis.</al>
+              </li>
+            </lijst>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>Totaal aantal verwachte aanwezigheidsdagen logeer- en/of weekendopvang in 2006.</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>Totaal aantal structureel geplande afwezigheidsdagen in 2006.</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>Het aantal cli&#xEB;nten waarvoor voortgezet verblijf, als bedoeld in het <extref status="actief" doc="1.0:v:BWBR0014149" compleet="nee">Besluit zorgafspraken AWBZ</extref>, van toepassing is.</al>
+          </li>
+        </lijst>
+        <al>
+          <nadruk type="cur">Zorgzwaarte</nadruk>
+        </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>Per zorgaanbieder de mate waarin een ZZP-advies (zoals gegenereerd wordt door het ZZP-scoreprogramma) met betrekking tot een te scoren ZZP is opgevolgd:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>Het aantal en percentage ZZP&#x2019;s waarvoor het advies is opgevolgd.</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>Het aantal en percentage ZZP&#x2019;s waarvoor het advies niet is opgevolgd en waarvoor het definitief gescoorde ZZP hoger is dan het geadviseerde ZZP.</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>Het aantal en percentage ZZP&#x2019;s waarvoor het advies niet is opgevolgd en waarvoor het definitief gescoorde ZZP lager is dan het geadviseerde ZZP.</al>
+              </li>
+            </lijst>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>Per definitief gescoord ZZP:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>Het totaal aantal cli&#xEB;nten dat in dit ZZP is gescoord.</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>Het totaal aantal aanwezigheidsdagen op jaarbasis dat bij dit ZZP behoort.</al>
+              </li>
+            </lijst>
+          </li>
+        </lijst>
+        <al>
+          <nadruk type="cur">Dagbesteding</nadruk>
+        </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>Per ZZP het gemiddeld aantal dagdelen per week waarvoor AWBZ-gefinancierde dagbesteding van toepassing is.</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>Per zorgaanbieder het wei of niet van toepassing zijn van AWBZ-gefinancierde dagbesteding bij het eigen NZa-nummer, een ander NZa-nummer of beide.</al>
+          </li>
+        </lijst>
+        <al>
+          <nadruk type="cur">Extreme zorgzwaarte</nadruk>
+        </al>
+        <al>&#x2013; Het aantal cli&#xEB;nten waarvoor, gezien de zorgzwaarte van de cli&#xEB;nt, geen enkel ZZP voldoende toereikend is.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Uiterste aanleverdatum</titel>
+        </kop>
+        <al>Zorgaanbieders leveren uiterlijk 29 januari 2007 de gegevens ten behoeve van de NZa als bedoeld in <intref status="actief" doc="1.0:v:BWBR0021772&amp;artikel=4">artikel 4</intref> aan het CIZ.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Rapportageplicht</titel>
+        </kop>
+        <al>Indien een zorgaanbieder de gegevens niet, niet tijdig of niet compleet aan het CIZ levert, rapporteert het CIZ dit onverwijld aan de NZa onder vermelding van de naam van de zorgaanbieder en waar mogelijk voorzien van de door de zorgaanbieder opgegeven reden om de gegevens niet, niet tijdig of niet compleet aan te leveren.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Verstrekking gegevens door het CIZ aan de NZa</titel>
+        </kop>
+        <al>Ten behoeve van de onder <intref status="actief" doc="1.0:v:BWBR0021772&amp;artikel=3">artikel 3</intref> van deze regeling gestelde doelen verstrekt het CIZ de in <intref status="actief" doc="1.0:v:BWBR0021772&amp;artikel=4">artikel 4</intref> bedoelde, door de zorgaanbieders aangeleverde, gegevens aan de NZa.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Aanlevering gegevens door de zorgaanbieder aan het zorgkantoor</titel>
+        </kop>
+        <al>De gescoorde ZZP&#x2019;s per zorgaanbieder vormen een onderdeel van het lokaal overleg over de volume- en prijsafspraken 2007.</al>
+        <al>De zorgaanbieder stelt hiervoor uiterlijk 29 januari 2007 minimaal de volgende gegevens ter beschikking aan het aangewezen zorgkantoor:</al>
+        <al>Per definitief gescoord ZZP:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>Het totaal aantal cli&#xEB;nten dat in dit ZZP is gescoord;</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>Het totaal aantal aanwezigheidsdagen op jaarbasis dat bij dit ZZP behoort,</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">9</nr>
+          <titel status="officieel">Verstrekking gegevens door zorgaanbieder en zorgkantoor aan de NZa</titel>
+        </kop>
+        <al>In het lokaal overleg bespreken zorgaanbieder en zorgkantoor de gescoorde ZZP&#x2019;s van de betreffende zorgaanbieder.</al>
+        <al>Zorgaanbieder en zorgkantoor doen gelijktijdig met iedere volume- en prijsafspraak in 2007 ook een opgave van ZZP&#x2019;s aan de NZa. Deze opgave vormt een integraal onderdeel van het budgetformulier 2007.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">10</nr>
+          <titel status="officieel">Slotbepaling</titel>
+        </kop>
+        <al>De regeling kan worden aangehaald als &#x2018;Regeling aanlevering en verspreiding scoregegevens ZZP&#x2019;s ten behoeve van de NZa&#x2019;.</al>
+      </artikel>
+      <tekst status="goed">
+        <al>Deze regeling treedt in werking na plaatsing in de Staatscourant.</al>
+        
+      </tekst>
+    </circulaire-tekst>
+  </circulaire>
+</wetgeving>
+  	

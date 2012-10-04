@@ -1,0 +1,728 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0024357" dtdversie="2.0" id="402049" soort="pbo">
+  
+  <intitule>Verordening van het Productschap Pluimvee en Eieren van 1 november 2007, houdende de vaststelling van een bestemmingsheffing ten behoeve van de legsector voor het jaar 2008 (Verordening bestemmingsheffingen legsector (PPE) 2008)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>Het bestuur van het Productschap Pluimvee en Eieren;</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=126" compleet="nee">artikel 126 van de Wet op de bedrijfsorganisatie</extref> en <extref status="actief" doc="1.0:v:BWBR0016490&amp;artikel=8" compleet="nee">artikel 8 van het Instellingsbesluit Productschap Pluimvee en Eieren</extref>;</considerans.al>
+        <considerans.al bevat="gezien">Gezien de <extref status="actief" doc="1.0:v:BWBR0017350" compleet="nee">Verordening algemene bepalingen heffingen (PPE) 2005</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <hoofdstuk>
+        <kop>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>Deze verordening neemt over de begripsbepalingen van de <extref status="actief" doc="1.0:v:BWBR0017350" compleet="nee">Verordening algemene bepalingen heffingen (PPE) 2005</extref> en verstaat voorts onder:</al>
+          <table frame="none" tabstyle="stcrt2">
+            <tgroup align="left" char="" charoff="50" cols="4" tgroupstyle="stcrt2">
+              <colspec colname="col1" colnum="1" colwidth="5*"/>
+              <colspec colname="col2" colnum="2" colwidth="30*"/>
+              <colspec colname="col3" colnum="3" colwidth="8*"/>
+              <colspec colname="col4" colnum="4" colwidth="60*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>1.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>o. en o. fonds</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>:</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>het fonds als bedoeld in <extref status="actief" doc="1.0:v:BWBR0015225&amp;artikel=1" compleet="nee">artikel 1 van de Verordening fonds voor onderzoek en ontwikkeling PPE 2003</extref>;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>2.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>afzetbevorderingsfonds</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>:</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>het fonds als bedoeld in <extref status="actief" doc="1.0:v:BWBR0015222&amp;artikel=1" compleet="nee">artikel 1 van de Verordening fonds afzetbevordering PPE 2003</extref>;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>3.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>kwaliteitsverbeteringsfonds</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>:</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>het fonds als bedoeld in <extref status="actief" doc="1.0:v:BWBR0015221&amp;artikel=1" compleet="nee">artikel 1 van de Verordening fonds voor kwaliteitsverbetering PPE 2003</extref>;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>4.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>M.g. fonds</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>:</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>het fonds als bedoeld in <extref status="actief" doc="1.0:v:BWBR0016064&amp;artikel=2" compleet="nee">artikel 2 van de Verordening financieringsfonds ten behoeve van het ruimen van met M.g. besmette ouderdieren leg- en vleesrassen kippen (PPE) 2003</extref>;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>5.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>gezondheidszorgfonds</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>:</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>het fonds als bedoeld in <extref status="actief" doc="1.0:v:BWBR0015223&amp;artikel=1" compleet="nee">artikel 1 van de Verordening fonds gezondheidszorg PPE 2003</extref>.</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Broedeieren en eendagskuikens</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De ondernemer die in het kalenderjaar 2008 broedeieren, bestemd om hieruit fok- en vermeerderingspluimvee of gebruikspluimvee te verkrijgen inlegt of pleegt in te leggen, ongeacht of er al dan niet daadwerkelijk eendagskuikens uit worden verkregen, is aan het productschap een bestemmingsheffing verschuldigd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het tarief van de in het eerste lid bedoeld heffing bedraagt voor broedeieren:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>voor legrassen kippen voor het verkrijgen van fok- en vermeerderingspluimvee &#x20AC;&#xA0;0,00553 per ingelegd broedei,</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>voor legrassen kippen voor het verkrijgen van gebruikspluimvee &#x20AC;&#xA0;0,00021 per ingelegd broedei.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De ondernemer die eendagskuikens plaatst om deze op te fokken tot grootmoederdieren, moederdieren of gebruikspluimvee is aan het productschap een bestemmingsheffing verschuldigd over de aantallen door hem met dat doel in het kalenderjaar 2008 geplaatste eendagskuikens.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het tarief van de in het eerste lid bedoeld heffing bedraagt voor legrassen kippen:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>&#x20AC;&#xA0;0,00632 per eendagskuiken in geval van opfok grootmoederdieren,</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>&#x20AC;&#xA0;0,00836 per eendagskuiken in geval van opfok moederdieren,</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>&#x20AC;&#xA0;0,0021 per eendagskuiken in geval van opfok gebruikspluimvee.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De ondernemer die een opfokvermeerderingsbedrijf uitoefent is over het kalenderjaar 2008 aan het productschap een bestemmingsheffing verschuldigd ten behoeve van het M.g. fonds.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het tarief van de in het eerste lid bedoeld heffing bedraagt voor tot geslachtsrijpe moederdieren op te fokken eendagskuikens op opfokbedrijven &#x20AC;&#xA0;0,01765 per kuiken.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Grootmoederdieren en moederdieren</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De ondernemer die grootmoederdieren of moederdieren houdt is aan het productschap een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2008 gehouden moederdieren voor legrassen kippen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het tarief van de in het eerste lid bedoeld heffing bedraagt voor legrassen kippen:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>&#x20AC;&#xA0;0,00 per grootmoederdier,</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>&#x20AC;&#xA0;0,06085 per moederdier.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De in het eerste lid bedoeld heffing is &#xE9;&#xE9;nmaal gedurende het leven van een grootmoederdier of moederdier van legrassen kippen verschuldigd, en wel:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>zodra het grootmoederdier of moederdier is geplaatst, of</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>zodra het grootmoederdier of moederdier de leeftijd van 20 weken heeft bereikt, in het geval het in het bedrijf van oorsprong in productie wordt genomen.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De ondernemer die een vermeerderingsbedrijf uitoefent is over het kalenderjaar 2008 aan het productschap een bestemmingsheffing verschuldigd ten behoeve van het M.g. fonds.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het tarief van de in het eerste lid bedoeld heffing bedraagt voor legrassen kippen op de vermeerderingsbedrijven &#x20AC;&#xA0;0,07162 per moederdier.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Indien de functies van opfok- en vermeerderingsbedrijf binnen &#xE9;&#xE9;n bedrijf worden uitgeoefend, is het in het tweede lid genoemde tarief verschuldigd wanneer de moederdieren 20 weken oud zijn.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Legkippen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De ondernemer die legkippen houdt is aan het productschap een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2008 gehouden legkippen tegen een tarief van &#x20AC;&#xA0;0,015 per legkip.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De in het eerste lid bedoelde heffing is gedurende het leven van een legkip &#xE9;&#xE9;nmaal verschuldigd, en wel:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>zodra de legkip is geplaatst, of</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>zodra de legkip de leeftijd van 18 weken heeft bereikt.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Eieren</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De houder van een pakstation is aan het productschap een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2008 afgeleverde eieren tegen een tarief van &#x20AC;&#xA0;0,0000113 per ei.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De in het eerste lid bedoelde heffing is niet verschuldigd voor die eieren ten aanzien waarvan naar genoegen van het productschap wordt aangetoond dat zij:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>niet in Nederland zijn geproduceerd, of</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>gesorteerd ontvangen zijn van een andere houder van een pakstation, als zodanig geregistreerd bij het productschap, of</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>afgeleverd zijn aan een eiproductenfabrikant.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Eiproducten</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De eiproductenfabrikant is over de door hem ontvangen en tot eiproduct verwerkte eieren een bestemmingsheffing verschuldigd tegen een tarief van &#x20AC;&#xA0;0,00002 per kilogram tot eiproduct verwerkte eieren.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De in het eerste lid bedoelde heffing is niet verschuldigd voor die eieren ten aanzien waarvan naar genoegen van het productschap wordt aangetoond dat zij niet in Nederland zijn geproduceerd.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Overige bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+          </kop>
+          <al>De bestemmingsheffingen, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0024357&amp;artikel=2">artikelen 2 tot en met 9</intref>, zijn bestemd voor de fondsen overeenkomstig de nadere verdeling zoals opgenomen in de <intref status="actief" doc="1.0:v:BWBR0024357&amp;bijlage=">bijlage</intref>.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+          </kop>
+          <al>Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0017350" compleet="nee">Verordening algemene bepalingen heffingen (PPE) 2005</extref>.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">12</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Deze verordening wordt aangehaald als: Verordening bestemmingsheffingen legsector (PPE) 2008.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Deze verordening treedt in werking met ingang van 1 januari 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst, wordt uitgegeven na 1 januari 2008, treedt zij in werking met ingang van de tweede dag na dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2008.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <gegeven>
+        <dagtekening>
+          <plaats>Zoetermeer</plaats>
+          <datum isodatum="2007-11-01">1 november 2007</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>
+        <naam>
+          <voornaam>J.J.</voornaam>
+          <achternaam>Ramekers</achternaam>
+        </naam>
+        <functie>voorzitter</functie>
+      </ondertekening>
+      <ondertekening>
+        <naam>
+          <voornaam>B.M.</voornaam>
+          <achternaam>Dellaert</achternaam>
+        </naam>
+        <functie>secretaris</functie>
+      </ondertekening>
+      
+    </regeling-sluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label>
+      </kop>
+      <al>Nadere verdeling van de heffingen naar fondsen, zoals bedoeld in <intref status="actief" doc="1.0:v:BWBR0024357&amp;artikel=10">artikel 10</intref> van de Verordening bestemmingsheffingen legsector (PPE) 2008</al>
+      <table frame="topbot" tabstyle="stcrt3"> 
+        <tgroup align="left" char="" charoff="50" cols="8" tgroupstyle="stcrt3"> <colspec colname="col1" colnum="1" colwidth="20*"/>
+          <colspec colname="col2" colnum="2" colwidth="40*"/>
+          <colspec colname="col3" colnum="3" colwidth="16*"/>
+          <colspec colname="col4" colnum="4" colwidth="16*"/>
+          <colspec colname="col5" colnum="5" colwidth="16*"/>
+          <colspec colname="col6" colnum="6" colwidth="16*"/>
+          <colspec colname="col7" colnum="7" colwidth="16*"/>
+          <colspec colname="col8" colnum="8" colwidth="16*"/>
+          <thead valign="bottom"> 
+            <row> 
+              <entry align="left" morerows="1" rotate="0" valign="top"> 
+                <al>LEGSECTOR</al> 
+              </entry> 
+              <entry align="left" morerows="1" rotate="0" valign="top"> 
+                <al>grondslag heffing</al> 
+              </entry> 
+              <entry align="left" morerows="1" rotate="0" valign="top"> 
+                <al>heffingseenheid</al> 
+              </entry> 
+              <entry colname="col4" morerows="0" rotate="0"> 
+              </entry> 
+              <entry align="left" morerows="0" nameend="col8" namest="col5" rotate="0" rowsep="1" valign="top"> 
+                <al>Verdeling van de bestemmingsheffingen over de fondsen:</al> 
+              </entry> 
+            </row> 
+            <row> 
+              <entry align="left" colname="col4" morerows="0" rotate="0" valign="top"> 
+                <al>heffing</al> 
+              </entry> 
+              <entry align="left" colname="col5" morerows="0" rotate="0" valign="top"> 
+                <al>O&amp;O / Kwal</al> 
+              </entry> 
+              <entry align="left" colname="col6" morerows="0" rotate="0" valign="top"> 
+                <al>afzetbevordering</al> 
+              </entry> 
+              <entry align="left" colname="col7" morerows="0" rotate="0" valign="top"> 
+                <al>Mg bestrijding</al> 
+              </entry> 
+              <entry align="left" colname="col8" morerows="0" rotate="0" valign="top"> 
+                <al>gezondheidszorg</al> 
+              </entry> 
+            </row> 
+          </thead> 
+          <tbody valign="top"> 
+            <row> 
+              <entry align="left" colname="col1" morerows="0" rotate="0" rowsep="1" valign="top"> 
+                <al>Artikel</al> 
+              </entry> 
+              <entry align="left" colname="col2" morerows="0" rotate="0" rowsep="1" valign="top"> 
+              </entry> 
+              <entry align="left" colname="col3" morerows="0" rotate="0" rowsep="1" valign="top"> 
+              </entry> 
+              <entry align="center" colname="col4" morerows="0" rotate="0" rowsep="1" valign="top"> 
+                <al>&#x20AC;</al> 
+              </entry> 
+              <entry align="center" colname="col5" morerows="0" rotate="0" rowsep="1" valign="top"> 
+                <al>&#x20AC;</al> 
+              </entry> 
+              <entry align="center" colname="col6" morerows="0" rotate="0" rowsep="1" valign="top"> 
+                <al>&#x20AC;</al> 
+              </entry> 
+              <entry align="center" colname="col7" morerows="0" rotate="0" rowsep="1" valign="top"> 
+                <al>&#x20AC;</al> 
+              </entry> 
+              <entry align="center" colname="col8" morerows="0" rotate="0" rowsep="1" valign="top"> 
+                <al>&#x20AC;</al> 
+              </entry> 
+            </row> 
+            <row> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al><intref status="actief" doc="1.0:v:BWBR0024357&amp;artikel=2">2. lid 2, a</intref></al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>inleggen broedeieren, ter verkrijging fok-/vermeerderingsplvee</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>per stuk</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,00553</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,00408</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                  <entry align="left" morerows="0" rotate="0" valign="top"> 
+                    <al>0,00145</al> 
+                  </entry> 
+            </row> 
+            <row> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al><intref status="actief" doc="1.0:v:BWBR0024357&amp;artikel=2">2, lid 2, b</intref></al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>inleggen broedeieren, ter verkrijging gebruikspluimvee</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>per stuk</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,00021</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,00001</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                  <entry align="left" morerows="0" rotate="0" valign="top"> 
+                    <al>0,0002</al> 
+                  </entry> 
+            </row> 
+            <row> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al><intref status="actief" doc="1.0:v:BWBR0024357&amp;artikel=3">3, lid 2, a</intref></al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>plaatsen eendagskuikens opfok grootmoederdieren</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>per stuk</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,00632</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,00043</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                  <entry align="left" morerows="0" rotate="0" valign="top"> 
+                    <al>0,00589</al> 
+                  </entry> 
+            </row> 
+            <row> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al><intref status="actief" doc="1.0:v:BWBR0024357&amp;artikel=3">3, lid 2, b</intref></al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>plaatsen eendagskuikens opfok moederdieren</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>per stuk</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,00836</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,00142</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                  <entry align="left" morerows="0" rotate="0" valign="top"> 
+                    <al>0,00694</al> 
+                  </entry> 
+            </row> 
+            <row> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al><intref status="actief" doc="1.0:v:BWBR0024357&amp;artikel=3">3, lid 2, c</intref></al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>plaatsen eendagskuikens opfok gebruikspluimvee</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>per stuk</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,0021</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,0004</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                  <entry align="left" morerows="0" rotate="0" valign="top"> 
+                    <al>0,0017</al> 
+                  </entry> 
+            </row> 
+            <row> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al><intref status="actief" doc="1.0:v:BWBR0024357&amp;artikel=4">4, lid 2</intref></al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>plaatsen eendagskuikens opfok moederdieren</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>per stuk</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,01765</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                  <entry align="left" morerows="0" rotate="0" valign="top"> 
+                    <al>0,01765</al> 
+                  </entry> 
+                  <entry align="left" morerows="0" rotate="0" valign="top"/> 
+            </row> 
+            <row> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al><intref status="actief" doc="1.0:v:BWBR0024357&amp;artikel=5">5, lid 2, a</intref></al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>houden grootmoederdieren</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>per stuk</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                  <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                    <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                      <entry align="left" morerows="0" rotate="0" valign="top"/> 
+            </row> 
+            <row> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al><intref status="actief" doc="1.0:v:BWBR0024357&amp;artikel=5">5, lid 2, b</intref></al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>houden moederdieren</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>per stuk</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,06085</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,003</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                  <entry align="left" morerows="0" rotate="0" valign="top"> 
+                    <al>0,05785</al> 
+                  </entry> 
+            </row> 
+            <row> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al><intref status="actief" doc="1.0:v:BWBR0024357&amp;artikel=6">6, lid 2</intref></al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>houden moederdieren</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>per stuk</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,07162</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                  <entry align="left" morerows="0" rotate="0" valign="top"> 
+                    <al>0,07162</al> 
+                  </entry> 
+                  <entry align="left" morerows="0" rotate="0" valign="top"/> 
+            </row> 
+            <row> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al><intref status="actief" doc="1.0:v:BWBR0024357&amp;artikel=7">7, lid 1</intref></al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>houden legkippen</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>per stuk</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,015</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,00325</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,0035</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                <entry align="left" morerows="0" rotate="0" valign="top"> 
+                  <al>0,00825</al> 
+                </entry> 
+            </row> 
+            <row> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al><intref status="actief" doc="1.0:v:BWBR0024357&amp;artikel=8">8, lid 1</intref></al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>afgeleverde gesorteerde eieren</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>per stuk</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,0000113</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,0000023</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,0000090</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                <entry align="left" morerows="0" rotate="0" valign="top"/> 
+            </row> 
+            <row> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al><intref status="actief" doc="1.0:v:BWBR0024357&amp;artikel=9">9, lid 1</intref></al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>tot eiproduct verwerkte eieren</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>per kg eieren</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,00002</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"> 
+                <al>0,00002</al> 
+              </entry> 
+              <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                <entry align="left" morerows="0" rotate="0" valign="top"/> 
+                  <entry align="left" morerows="0" rotate="0" valign="top"/> 
+            </row> 
+          </tbody> 
+        </tgroup> 
+      </table>
+    </bijlage>
+  </regeling>
+</wetgeving>
+  	

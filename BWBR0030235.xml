@@ -1,0 +1,645 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0030235" dtdversie="2.0" id="460829" soort="zbo">
+  
+  <intitule>Regeling declaratie
+AWBZ-zorg</intitule>
+  
+  <regeling>
+    <aanhef>
+      
+      <wie>De
+Nederlandse Zorgautoriteit
+(NZa),</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op
+<extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=37" compleet="nee">artikel 37</extref> en <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=38" compleet="nee">artikel 38 van de Wet marktordening gezondheidszorg</extref>
+(Wmg);</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Heeft de volgende
+regeling
+vastgesteld:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Werkingssfeer</titel>
+        </kop>
+        <al>Deze
+regeling heeft betrekking op het declareren van intramurale en
+extramurale zorg of diensten en dagbesteding als omschreven bij of
+krachtens de <extref status="actief" doc="1.0:v:BWBR0002614" compleet="nee">AWBZ</extref> die wordt geleverd door zorgaanbieders als bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0030235&amp;artikel=3">artikel 3, onder 1</intref>, van deze
+regeling.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Doel</titel>
+        </kop>
+        <al>De
+declaratievoorschriften hebben tot doel het specificeren van op
+verrichte prestaties betrekking hebbende rekeningen teneinde
+inzichtelijke, rechtmatige declaraties te bevorderen en dubbele
+declaraties te
+voorkomen.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <al>In
+deze regeling wordt verstaan
+onder:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+          <li>
+            <li.nr>1</li.nr>
+            <al>
+              <nadruk type="cur">Zorgaanbieder</nadruk>
+            </al>
+            <al>Zorgaanbieder
+zoals omschreven in <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=1" compleet="nee">artikel 1, onderdeel c, onder 1&#xB0; van de Wmg</extref>
+voor zover deze is toegelaten voor een of meer van de functies
+persoonlijke verzorging, verpleging, begeleiding, behandeling of
+verblijf als omschreven in het <extref status="actief" doc="1.0:v:BWBR0014149" compleet="nee">Besluit Zorgaanspraken AWBZ</extref>
+(BZA).</al>
+          </li>
+          <li>
+            <li.nr>2</li.nr>
+            <al>
+              <nadruk type="cur">Zorgkantoor</nadruk>
+            </al>
+            <al>Een
+verbindingskantoor als bedoeld in <extref status="actief" doc="1.0:v:BWBR0003585&amp;artikel=1" compleet="nee">artikel 1, onderdeel c van het
+Administratiebesluit Bijzondere
+Ziektekostenverzekering</extref>.</al>
+          </li>
+          <li>
+            <li.nr>3</li.nr>
+            <al>
+              <nadruk type="cur">CIZ</nadruk>
+            </al>
+            <al>Het
+Centrum Indicatiestelling Zorg als bedoeld in <extref status="actief" doc="1.0:v:BWBR0008946&amp;artikel=1" compleet="nee">artikel 1 onderdeel b van
+het
+Zorgindicatiebesluit</extref>.</al>
+          </li>
+          <li>
+            <li.nr>4</li.nr>
+            <al>
+              <nadruk type="cur">CIZ-indicatie</nadruk>
+            </al>
+            <al>Indicatiebesluit
+als bedoeld in <extref status="actief" doc="1.0:v:BWBR0008946&amp;artikel=1" compleet="nee">artikel 1 onderdeel d van het
+Zorgindicatiebesluit</extref>.</al>
+          </li>
+          <li>
+            <li.nr>5</li.nr>
+            <al>
+              <nadruk type="cur">Cli&#xEB;nt</nadruk>
+            </al>
+            <al>Verzekerde
+als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002614&amp;artikel=5" compleet="nee">artikel 5 van de Algemene Wet Bijzondere Ziektekosten</extref>
+(AWBZ) die op grond van een CIZ-indicatie zijn aanspraak op AWBZ-zorg
+tot gelding
+brengt.</al>
+          </li>
+          <li>
+            <li.nr>6</li.nr>
+            <al>
+              <nadruk type="cur">Verblijfszorg</nadruk>
+            </al>
+            <al>De
+zorg als bedoeld in <extref status="actief" doc="1.0:v:BWBR0014149&amp;artikel=9" compleet="nee">artikel 9</extref> en <extref status="actief" doc="1.0:v:BWBR0014149&amp;artikel=13" compleet="nee">artikel 13 lid 2 van het Besluit
+zorgaanspraken
+AWBZ</extref>.</al>
+          </li>
+          <li>
+            <li.nr>7</li.nr>
+            <al>
+              <nadruk type="cur">ZZP</nadruk>
+            </al>
+            <al>Een
+zorgzwaartepakket bestaande uit een volledig pakket van verblijfszorg
+dat aansluit op de kenmerken van de cli&#xEB;nt en de soort zorg dat
+die cli&#xEB;nt nodig
+heeft.</al>
+          </li>
+          <li>
+            <li.nr>8</li.nr>
+            <al>
+              <nadruk type="cur">Kortdurend
+verblijf</nadruk>
+            </al>
+            <al>Verblijfszorg voor zover deze door een
+zorgaanbieder wordt geleverd gedurende &#xE9;&#xE9;n, twee of drie
+etmalen per week aan cli&#xEB;nten die door het CIZ zijn
+ge&#xEF;ndiceerd voor extramurale zorg en kortdurend verblijf klasse I,
+II of
+III.</al>
+          </li>
+          <li>
+            <li.nr>9</li.nr>
+            <al>
+              <nadruk type="cur">Langdurig
+verblijf</nadruk>
+            </al>
+            <al>Verblijfszorg voor zover deze door een
+zorgaanbieder wordt geleverd gedurende tenminste vier etmalen per week
+aan cli&#xEB;nten met een CIZ-indicatie in termen ZZP&#x2019;s of zijn
+aangewezen op een ZZP bij het ontbreken van een indicatie in
+ZZP&#x2019;s.</al>
+          </li>
+          <li>
+            <li.nr>10</li.nr>
+            <al>
+              <nadruk type="cur">Verblijfscomponent</nadruk>
+            </al>
+
+            <al>Intramurale
+prestatie voor niet-ge&#xEF;ndiceerde partner en voor tijdelijk
+verblijf, vastgesteld in de <nadruk type="cur">Beleidsregel
+prestatiebeschrijving en tarieven
+zorgzwaartepakketten.</nadruk>
+            </al>
+          </li>
+          <li>
+            <li.nr>11</li.nr>
+            <al>
+              <nadruk type="cur">Intramurale
+prestatie</nadruk>
+            </al>
+            <al>Als intramurale prestatie worden
+aangemerkt de in de <nadruk type="cur">Beleidsregel
+prestatiebeschrijvingen en tarieven zorgzwaartepakketten, Beleidsregel
+volledig pakket thuis, Beleidsregel extreme kosten zorggebonden
+materiaal en geneesmiddelen</nadruk> en<nadruk type="cur">Beleidsregel
+vergoeding van inrichtingskosten bij gedwongen verhuizing</nadruk>
+vastgestelde
+prestaties.</al>
+          </li>
+          <li>
+            <li.nr>12</li.nr>
+            <al>
+              <nadruk type="cur">Dagbesteding
+prestatie</nadruk>
+            </al>
+            <al>Als dagbesteding prestatie worden
+aangemerkt de in de <nadruk type="cur">Beleidsregel tarieven en
+prestatiebeschrijvingen dagbesteding en vervoer AWBZ</nadruk>
+vastgestelde
+prestaties.</al>
+          </li>
+          <li>
+            <li.nr>13</li.nr>
+            <al>
+              <nadruk type="cur">Extramurale
+prestatie</nadruk>
+            </al>
+            <al>Als extramurale prestatie worden
+aangemerkt de in de <nadruk type="cur">Beleidsregel
+prestatiebeschrijvingen en tarieven extramurale zorg</nadruk>
+vastgestelde
+prestaties.</al>
+          </li>
+          <li>
+            <li.nr>14</li.nr>
+            <al>
+              <nadruk type="cur">Declaratie</nadruk>
+            </al>
+            <al>De
+tussen zorgaanbieder en zorgkantoor overeengekomen wijze waarop de door
+de zorgaanbieder verrichte of te verrichten zorgprestatie bij het
+zorgkantoor in rekening wordt
+gebracht.</al>
+          </li>
+          <li>
+            <li.nr>15</li.nr>
+            <al>
+              <nadruk type="cur">Declaratieperiode</nadruk>
+            </al>
+            <al>Een
+periode van vier weken of een kalendermaand waarover de zorgaanbieders
+de geleverde zorg declareren, overeenkomstig de daartoe gemaakte
+afspraken met het
+zorgkantoor.</al>
+          </li>
+          <li>
+            <li.nr>16</li.nr>
+            <al>
+              <nadruk type="cur">Tarief</nadruk>
+            </al>
+            <al>Prijs
+voor een prestatie, een deel van een prestatie of geheel van prestaties
+van een zorgaanbieder (<extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=1" compleet="nee">artikel 1, onder k,
+Wmg</extref>).</al>
+          </li>
+          <li>
+            <li.nr>17</li.nr>
+            <al>
+              <nadruk type="cur">Onderaanneming
+of uitbesteding</nadruk>
+            </al>
+            <al>Er is sprake van onderaanneming
+c.q. uitbesteding wanneer een door het zorgkantoor gecontracteerde
+zorgaanbieder de gecontracteerde zorg laat uitvoeren door een andere
+zorgaanbieder als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=1" compleet="nee">artikel 1 sub c, onderdeel 1 van de
+Wmg</extref>.</al>
+          </li>
+          <li>
+            <li.nr>18</li.nr>
+            <al>
+              <nadruk type="cur">De
+vrouwen-/mannenopvang</nadruk>
+            </al>
+            <al>Betreft het tijdelijk bieden
+van onderdak en begeleiding aan personen die, al dan niet gedwongen, de
+thuissituatie hebben verlaten in verband met geweld in huiselijke
+kring.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Declaratiebepalingen</titel>
+        </kop>
+        <al>Zorgaanbieders
+specificeren de declaratie als
+volgt:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>1.</li.nr>
+            <al>Zorgaanbieders maken bij declaratie aan
+zorgkantoren in de factuur duidelijk zichtbaar de prestaties die in
+rekening worden gebracht en welk tarief daarbij wordt gehanteerd. De
+declaratie van intramurale prestaties, dagbesteding prestaties en
+extramurale prestaties, vindt plaats op cli&#xEB;ntniveau. Dit houdt in
+dat de declaratie bestaat uit een overzicht van het per cli&#xEB;nt
+geleverde aantal eenheden, het daarbij gehanteerde tarief en het
+totaalbedrag per prestatie per
+declaratieperiode.</al>
+          </li>
+          <li>
+            <li.nr>2.</li.nr>
+            <al>In afwijking van
+artikel 4.1 vindt de declaratie van de geleverde productie van een
+aantal prestaties plaats op prestatieniveau. Dit houdt in dat de
+declaratie bestaat uit een overzicht van het geleverde aantal eenheden,
+het daarbij gehanteerde tarief en het totaalbedrag per prestatie per
+declaratieperiode. Het betreft de volgende
+prestaties:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>De
+dagen waarop een door het zorgkantoor &#xE9;n zorgaanbieder aangemerkt
+bed voor crisisopvang niet bezet is door een
+cli&#xEB;nt.</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>Mutatiedagen
+V&amp;V.</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>Inloopfunctie
+GGZ.</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>Extramurale zorg die geleverd
+wordt aan cli&#xEB;nten aangewezen op kortdurend verblijf, ook wel
+logeren genoemd.</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>Uitleen
+verpleegartikelen.</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>Uitleen
+anti-decubitusmatrassen,
+statisch.</al>
+              </li>
+              <li>
+                <li.nr>g.</li.nr>
+                <al>Uitleen
+anti-decubitusmatrassen, licht
+dynamisch.</al>
+              </li>
+              <li>
+                <li.nr>h.</li.nr>
+                <al>Uitleen
+anti-decubitusmatrassen, sterk
+dynamisch.</al>
+              </li>
+              <li>
+                <li.nr>i.</li.nr>
+                <al>Transport (uitleen
+verpleegartikelen).</al>
+              </li>
+              <li>
+                <li.nr>j.</li.nr>
+                <al>Verpleging:
+AIV.</al>
+              </li>
+              <li>
+                <li.nr>k.</li.nr>
+                <al>Behandeling ZG
+auditief.</al>
+              </li>
+              <li>
+                <li.nr>l.</li.nr>
+                <al>Behandeling ZG
+visueel.</al>
+              </li>
+            </lijst>
+          </li>
+          <li>
+            <li.nr>3.</li.nr>
+            <al>Indien sprake
+is van extramurale prestaties gedurende een deel van een uur wordt het
+in rekening te brengen tarief naar evenredigheid berekend. Voorzover
+zorgkantoren en zorgaanbieders geen bestendige gedragslijn hebben over
+de afronding van de geleverde prestatie, indien sprake is van
+zorgverlening gedurende een deel van een uur, wordt de zorg afgerond op
+het dichtstbijzijnde veelvoud van vijf
+minuten.</al>
+          </li>
+          <li>
+            <li.nr>4.</li.nr>
+            <al>In geval een zorgaanbieder
+zorg levert aan te merken als vrouwen-/ mannenopvang wordt op een
+zodanige wijze gedeclareerd dat de gegevens niet te herleiden zijn tot
+de verzekerde en/of de plaats waar de verzekerde
+verblijft.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Declaratie
+afwezigheidsdagen</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Zorgaanbieders
+declareren de prestaties voorzover deze daadwerkelijk zijn geleverd,
+met uitzondering van het
+volgende:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>Voor zorgaanbieders als bedoeld in <intref status="actief" doc="1.0:v:BWBR0030235&amp;artikel=3">artikel 3,
+onder 1</intref> van deze regeling die zijn toegelaten voor de functie verblijf
+van verzekerden met een somatische/psychogeriatrische aandoening of
+beperking maar die niet zijn toegelaten voor de functie behandeling
+(verzorgingshuizen)
+geldt:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Gedurende
+tijdelijke afwezigheid van een cli&#xEB;nt declareert de zorgaanbieder
+tegen het afgesproken tarief dat tevens gedeclareerd wordt bij
+aanwezigheid van de cli&#xEB;nt in de instelling, met ingang van de
+eerste dag van afwezigheid van de cli&#xEB;nt het ZZP dat de
+cli&#xEB;nt tot afwezigheid kreeg
+geleverd.</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>Voor
+zorgaanbieders als bedoeld in <intref status="actief" doc="1.0:v:BWBR0030235&amp;artikel=3">artikel 3, onder 1</intref> van deze regeling die
+zijn toegelaten voor de functies behandeling en verblijf van
+verzekerden met een somatische/psychogeriatrische aandoening of
+beperking (verpleeghuizen)
+geldt:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Gedurende
+tijdelijke afwezigheid van een cli&#xEB;nt declareert de zorgaanbieder
+tegen het afgesproken tarief dat tevens gedeclareerd wordt bij
+aanwezigheid van de cli&#xEB;nt in de instelling, met ingang van de
+eerste dag van afwezigheid van de cli&#xEB;nt maximaal veertien dagen
+het ZZP dat de cli&#xEB;nt tot afwezigheid kreeg geleverd. Dit maximum
+geldt niet in het geval van een
+ziekenhuisopname.</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>Voor
+zorgaanbieders als bedoeld in <intref status="actief" doc="1.0:v:BWBR0030235&amp;artikel=3">artikel 3, onder 1</intref> van deze regeling die
+niet zijn toegelaten voor de functie behandeling maar wel zijn
+toegelaten voor verblijf van verzekerden met een verstandelijke,
+lichamelijke of zintuiglijke, handicap (GVT&#x2019;s)
+geldt:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Gedurende
+tijdelijke afwezigheid van een cli&#xEB;nt declareert de zorgaanbieder,
+tegen het afgesproken tarief dat tevens gedeclareerd wordt bij
+aanwezigheid van de cli&#xEB;nt in de instelling, met ingang van de
+eerste dag van afwezigheid van de cli&#xEB;nt het ZZP dat de
+cli&#xEB;nt tot afwezigheid kreeg
+geleverd.</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>Voor
+zorgaanbieders als bedoeld in <intref status="actief" doc="1.0:v:BWBR0030235&amp;artikel=3">artikel 3, onder 1</intref> van deze regeling die
+zijn toegelaten voor de functies behandeling en verblijf van
+verzekerden met een verstandelijke, lichamelijke of zintuiglijke
+handicap (intramurale GHZ-instellingen)
+geldt:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Gedurende
+tijdelijke afwezigheid van een cli&#xEB;nt declareert de zorgaanbieder
+tegen het afgesproken tarief dat tevens gedeclareerd wordt bij
+aanwezigheid van de cli&#xEB;nt in de instelling, met ingang van de
+eerste dag van afwezigheid van de cli&#xEB;nt maximaal veertien dagen
+per keer het ZZP dat de cli&#xEB;nt tot afwezigheid kreeg geleverd. Te
+beginnen op de eerste dag na vertrek uit de instelling. Dit maximum
+geldt niet in het geval van een
+ziekenhuisopname.</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Voor
+cli&#xEB;nten die als leerlingen voor dagonderwijs staan ingeschreven
+en dit onderwijs ook daadwerkelijk volgen declareert de zorgaanbieder
+tegen het afgesproken tarief dat tevens gedeclareerd wordt bij
+aanwezigheid van de cli&#xEB;nt in de instelling, met ingang van de
+eerste dag van afwezigheid van de cli&#xEB;nt het ZZP dat de
+cli&#xEB;nt tot afwezigheid kreeg geleverd tot een maximum van de
+wettelijke
+vakantieduur.</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>Voor
+cli&#xEB;nten die zijn aangewezen op GGZ ZZP C1 tot en met GGZ ZZP C6
+geldt:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Gedurende
+tijdelijke afwezigheid van een cli&#xEB;nt declareert de zorgaanbieder
+tegen het afgesproken tarief dat tevens gedeclareerd wordt bij
+aanwezigheid van de cli&#xEB;nt in de instelling, met ingang van de
+eerste dag van afwezigheid van de cli&#xEB;nt het ZZP dat de
+cli&#xEB;nt tot afwezigheid kreeg
+geleverd.</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Voor cli&#xEB;nten
+die als leerlingen voor dagonderwijs staan ingeschreven en dit
+onderwijs ook daadwerkelijk volgen declareert de zorgaanbieder tegen
+het afgesproken tarief dat tevens gedeclareerd wordt bij aanwezigheid
+van de cli&#xEB;nt in de instelling, met ingang van de eerste dag van
+afwezigheid van de cli&#xEB;nt het ZZP dat de cli&#xEB;nt tot
+afwezigheid kreeg geleverd tot een maximum van de wettelijke
+vakantieduur.</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>Voor
+cli&#xEB;nten die zijn aangewezen op GGZ ZZP B1 tot en met GGZ ZZP B7
+geldt:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Gedurende
+tijdelijke afwezigheid van een cli&#xEB;nt declareert de zorgaanbieder
+tegen het afgesproken tarief dat tevens gedeclareerd wordt bij
+aanwezigheid van de cli&#xEB;nt in de instelling, met ingang van de
+eerste dag van afwezigheid van de cli&#xEB;nt maximaal veertien dagen
+per keer het ZZP dat de cli&#xEB;nt tot afwezigheid kreeg geleverd. Te
+beginnen op de eerste dag na vertrek uit de instelling. Dit maximum
+geldt niet in het geval van een
+ziekenhuisopname.</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Voor
+cli&#xEB;nten die als leerlingen voor dagonderwijs staan ingeschreven
+en dit onderwijs ook daadwerkelijk volgen declareert de zorgaanbieder
+tegen het afgesproken tarief dat tevens gedeclareerd wordt bij
+aanwezigheid van de cli&#xEB;nt in de instelling, met ingang van de
+eerste dag van afwezigheid van de cli&#xEB;nt het ZZP dat de
+cli&#xEB;nt tot afwezigheid kreeg geleverd tot een maximum van de
+wettelijke
+vakantieduur.</al>
+                </li>
+              </lijst>
+            </li>
+          </lijst>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Onderaanneming
+of
+uitbesteding</titel>
+        </kop>
+        <al>Indien
+sprake is van onderaanneming of uitbesteding wordt de prestatie alleen
+door de zorgaanbieder die door het zorgkantoor voor de betreffende
+prestatie is gecontracteerd in rekening gebracht. De zorgaanbieder die
+de zorg in onderaanneming uitvoert of aan wie de zorgverlening is
+uitbesteed, mag noch een afzonderlijke prestatie noch een deel van de
+prestatie in rekening brengen aan het
+zorgkantoor.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Intrekking</titel>
+        </kop>
+        <al>Gelijktijdig
+met de inwerkingtreding van deze regeling wordt de <extref status="actief" doc="1.0:v:BWBR0029904" compleet="nee">Regeling declaratie
+AWBZ-zorg</extref>, met kenmerk NR/CA-300-006,
+ingetrokken.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Overgangsbepaling</titel>
+        </kop>
+        <al>De
+<extref status="actief" doc="1.0:v:BWBR0029904" compleet="nee">Regeling declaratie AWBZ-zorg</extref>, met kenmerk CA/NR.-300.006 blijft van
+toepassing op besluiten en aangelegenheden die hun grondslag vinden in
+die regeling en die betrekking hebben op de periode waarvoor die
+regeling
+gold.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">9</nr>
+          <titel status="officieel">Citeertitel</titel>
+        </kop>
+        <al>Deze
+regeling wordt aangehaald als: &#x2018;Regeling declaratie
+AWBZ-zorg&#x2019;.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">10</nr>
+          <titel status="officieel">Inwerkingtreding</titel>
+        </kop>
+        <al>Deze
+regeling treedt in werking met ingang van 1 januari 2012. Indien de
+Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na
+31&#xA0;december 2011, treedt de regeling in werking met ingang van de
+tweede dag na de dagtekening van de Staatscourant waarin zij wordt
+geplaatst en werkt zij terug tot en met 1&#xA0;januari
+2012.</al>
+      </artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <ondertekening>De 
+        <organisatie>Raad van Bestuur van de Nederlandse Zorgautoriteit</organisatie>
+        <naam>
+          <voornaam>M.E.</voornaam>
+          <achternaam>Homan,</achternaam>
+        </naam>
+        <functie>lid Raad van Bestuur.</functie>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

@@ -1,0 +1,1094 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0021345" dtdversie="2.0" id="372019" soort="zbo">
+  
+  <intitule>Skal-Reglement voor Certificatie en Toezicht</intitule>
+  
+  <circulaire>
+    <circulaire-tekst>
+      <circulaire.divisie opmaak="default" status="goed">
+        <tekst status="goed">
+          <al>Het gebruik van dit reglement door derden, voor welk doel dan ook, is uitsluitend toegestaan nadat een schriftelijke overeenkomst met Stichting Skal is gesloten waarin het gebruiksrecht is geregeld.</al>
+          <al>Stichting Skal</al>
+          <al>Certificatie Biologische Productie</al>
+          <al>Postbus 384</al>
+          <al>8000 AJ Zwolle</al>
+          <al>Telefoon: 038-4268181</al>
+          <al>Telefax: 038-4268182</al>
+          <al>E-mail: info@skal.nl</al>
+          <al>Internet: www.skal.nl</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Begripsomschrijvingen</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">1.1</nr>
+            <titel status="officieel">Algemene begripsomschrijvingen</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. Onder certificatie wordt in dit reglement verstaan het uitvoeren van activiteiten op grond waarvan Skal verklaart dat er een gerechtvaardigd vertrouwen bestaat dat een duidelijk omschreven product of voortbrengingsproces voldoet aan de daaraan gestelde certificatie-eisen, vastgelegd in de certificatiegrondslagen.</al>
+            <al>2. Als algemene begripsomschrijvingen zijn van toepassing de termen en definities, zoals vastgelegd in:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>van toepassing zijnde publiekrechtelijke voorschriften;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>statuten van Skal;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>andere door Skal gehanteerde eisenstellende documenten;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>NEN-ISO 9000: 2000.</al>
+              </li>
+            </lijst>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">1.2</nr>
+            <titel status="officieel">Specifieke begripsomschrijvingen</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Aanvullend op de algemene begripsomschrijvingen wordt in dit reglement verstaan onder:</al>
+            <al>1. Publiekrechtelijke voorschriften: <extref doc="" label="verordening" reeks="Celex" compleet="nee">Verordening (EEG) Nr. 2092/91</extref> en de daarbij behorende bijlagen, de <extref status="actief" doc="1.0:v:BWBR0002755" compleet="nee">Landbouwkwaliteitswet</extref> (Stb. 1971, 371), het <extref status="actief" doc="1.0:v:BWBR0005740" compleet="nee">Landbouwkwaliteitsbesluit biologische produktiemethode</extref> en de <extref status="actief" doc="1.0:v:BWBR0008176" compleet="nee">Landbouwkwaliteitsregeling biologische productiemethode 1996</extref>.</al>
+
+            <al>2. Biologische productiemethode: Voortbrenging van plantaardige en dierlijke landbouwproducten en houden van dieren overeenkomstig de bij of krachtens de <extref doc="" label="verordening" reeks="Celex" compleet="nee">Verordening (EEG) Nr. 2092/91</extref>, zoals deze is of zal komen te luiden, gestelde voorschriften, die door Skal worden gehanteerd als grondslag voor certificatie en waarnaar wordt verwezen in de Skal-Certificatiegrondslagen Biologische Productie Nederland.</al>
+
+            <al>3. Toezicht: De werkzaamheden die door of namens Skal worden verricht om na te gaan of aan de voorschriften voor de biologische productiemethode zoals vastgelegd in <extref doc="" label="verordening" reeks="Celex" compleet="nee">Verordening (EEG) Nr. 2092/91</extref>, het <extref status="actief" doc="1.0:v:BWBR0005740" compleet="nee">Landbouwkwaliteitsbesluit biologische produktiemethode</extref>, de <extref status="actief" doc="1.0:v:BWBR0008176" compleet="nee">Landbouwkwaliteitsregeling biologische productiemethode 1996</extref> en de interpretaties hieromtrent zoals vastgesteld door de Minister en de voorschriften in het Skal-Reglement voor Certificatie en Toezicht wordt voldaan.</al>
+            <al>4. Certificatiegrondslagen: Document van Skal waarin alle eisen zijn gebundeld die door Skal worden gehanteerd als grondslag voor certificatie van en toezicht op een bepaald product of proces<noot type="eind"><noot.nr>1</noot.nr><noot.al>In de Skal-Certificatiegrondslagen Biologische Productie Nederland zijn opgenomen of wordt verwezen naar de eisen die voortvloeien uit de publiekrechtelijke voorschriften en de vastgestelde interpretaties van die eisen, en andere eisenstellende documenten, zonodig aangevuld met andere eisen, die moeten verzekeren dat producten en voortbrengingsprocessen aan de daaraan gestelde eisen voldoen.</noot.al></noot>.</al>
+            <al>5. Leverancier: De partij (marktdeelnemer) die producten produceert, bereidt, opslaat, importeert of in de handel brengt. En die er voor verantwoordelijk is dat producten en processen bij voortduring voldoen aan de eisen waarop de certificatie is gebaseerd<noot type="eind"><noot.nr>2</noot.nr><noot.al>Begripsomschrijving ontleend aan EN 45011: &#x2018;the party that is responsible for ensuring that products meet and, if applicable, continue to meet the requirements on which the certification is based&#x2019;.</noot.al></noot>. </al>
+            <al>6. Producent: De partij (marktdeelnemer) die zelf producten voortbrengt, al dan niet als leverancier in de zin van voorgaande begripsomschrijving.</al>
+            <al>7. Kwaliteitsplan: Een beschrijving van de door de leverancier uit te voeren controle- en voorzorgsmaatregelen, alsmede alle noodzakelijke administratieve handelingen om zeker te stellen dat gecertificeerde producten bij voortduring aan de certificatiegrondslagen voldoen.</al>
+            <al>8. Certificatiemerk: Het op gecertificeerde producten aan te brengen merk en/of aanduiding, als bewijs dat producten zijn gecertificeerd.</al>
+            <al>9. Skal: Stichting Skal.</al>
+            <al>10. Monsteronderzoek: Uitvoering van technische handelingen ter bepaling van een of meer eigenschappen van een product volgens een gespecificeerde procedure. Dit is een onderzoeksmethode waarvan gebruik gemaakt kan worden bij de inspectie en vrijwel altijd wordt uitgevoerd in een laboratorium.</al>
+          </tekst>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Certificatie</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">2.1</nr>
+            <titel status="officieel">Voorwaarden</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. De aan Certificatie en Toezicht verbonden voorwaarden zijn vastgelegd in dit reglement en in het:</al>
+            <al>Skal-Aanduidingenreglement;</al>
+            <al><extref status="actief" doc="1.0:v:BWBR0015357" compleet="nee">Skal-Reglement Bezwaar</extref>;</al>
+            <al><extref status="actief" doc="1.0:v:BWBR0018852" compleet="nee">Skal-Bijdragereglement</extref>;</al>
+            <al><extref status="actief" doc="1.0:v:BWBR0005891" compleet="nee">Skal-Tuchtrechtreglement</extref>;</al>
+            <al>Skal-Sanctiereglement;</al>
+            <al>Skal-Reglement van Beroep.</al>
+            <al>Skal en de leverancier zijn aan deze voorwaarden gebonden, behoudens het in <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=2.1">artikel 2.1, lid 2 en lid 3</intref> bepaalde.</al>
+            <al>2. Bij de uitvoering van certificatie is Skal gebonden aan de accreditatiereglementen en -criteria, die door de Raad voor Accreditatie worden gehanteerd. Voor zover deze accreditatiereglementen en -criteria betrekking hebben op de verhouding tussen Skal, de leverancier en/of de Raad van Accreditatie, geldt het bepaalde in die reglementen en criteria, ook als er sprake is van strijdigheid met dit reglement<noot type="eind"><noot.nr>3</noot.nr><noot.al>Toelichting: indien de door de Raad voor Accreditatie in accreditatiereglementen en interpretatiedocumenten van de norm EN 45011 vastgestelde eisen strenger zijn dan de bepalingen van dit reglement, dan prevaleren deze eisen. In alle andere situaties gelden de bepalingen van dit Reglement voor Certificatie en Toezicht.</noot.al></noot>.</al>
+            <al>3. Wanneer Skal in licentie gebruik maakt van een certificatieregeling of certificatiemerk van een externe organisatie, gelden de tussen Skal en de licentieverlener overeengekomen licentievoorwaarden, ook als er sprake is van strijdigheid met dit reglement.</al>
+            <al>4. De leveringsvoorwaarden van de leverancier mogen niet in strijd zijn met dit reglement. Wanneer dit wel het geval is, prevaleren de bepalingen van dit reglement.</al>
+            <al>5. Certificatiewerkzaamheden zullen worden uitgevoerd door Skal-medewerkers die daarvoor zijn gekwalificeerd. De kwalificatie-eisen worden vastgesteld door het Algemeen Bestuur van Skal.</al>
+            <al>6. Skal kan de uitvoering van toelatingsonderzoeken en/of inspectie na certificatieverlening, of onderdelen daarvan, opdragen aan derden (onafhankelijke en onpartijdige deskundigen, onderzoek- of inspectie-instellingen of laboratoria), voor zover de wet zich daar niet tegen verzet en de Minister daarmee heeft ingestemd. Voor zover er accreditatie-eisen voor deze derden zijn vastgesteld zal Skal deze werkzaamheden uitsluitend opdragen aan derden die voldoen aan deze eisen.</al>
+            <al>7. Iedere leverancier is ten opzichte van de Stichting mede aansprakelijk voor personen, die in of voor zijn bedrijf werkzaam zijn.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">2.2</nr>
+            <titel status="officieel">Certificaathouder</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Alleen leveranciers, die voldoen aan de onder <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=1.2">artikel 1.2, lid 5</intref> vermelde begripsomschrijving, kunnen certificaathouder zijn.</al>
+            <al>Wanneer de leverancier de producten waarvoor hij is gecertificeerd niet zelf produceert, bereidt, importeert of onverpakt opslaat, moet de kwaliteitsverantwoordelijkheid van de leverancier zijn vastgelegd in een schriftelijke overeenkomst tussen hem en de feitelijke producent, waarin ten minste is geregeld:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>op welke manier de leverancier verifieert dat de producten van de feitelijke producent voldoen aan de in de certificatiegrondslagen gestelde eisen;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>dat de leverancier bij de producent kan afdwingen dat producten worden voortgebracht die voldoen aan de in het certificaat vermelde specificatie;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>dat Skal alle noodzakelijke werkzaamheden in het kader van certificatie zowel in het bedrijf van de leverancier als bij de feitelijke producent mag (laten) uitvoeren, zonodig met inbegrip van het treffen van maatregelen bij geconstateerde tekortkomingen;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>dat een certificatiemerk uitsluitend mag worden aangebracht op producten die aan de leverancier worden geleverd.</al>
+              </li>
+            </lijst>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">2.3</nr>
+            <titel status="officieel">Betekenis van Skal-certificaten</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Een certificaat van Skal betekent dat:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>certificatie is verleend voor de daarin gespecificeerde producten en dat deze dus geacht kunnen worden te voldoen aan en te zijn voortgebracht volgens de voor die producten door Skal gehanteerde certificatiegrondslagen;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>certificatie is verleend voor de daarin gespecificeerde voortbrengingsprocessen en dat deze dus geacht kunnen worden te voldoen aan de voor die processen door Skal gehanteerde certificatiegrondslagen.</al>
+              </li>
+            </lijst>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">2.4</nr>
+            <titel status="officieel">Uitvoeringsvorm van Skal-certificaten</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Het model van het certificaat Biologische Productie Nederland is als <intref status="actief" doc="1.0:v:BWBR0021345&amp;bijlage=1">bijlage 1</intref> bij dit reglement gevoegd.<noot type="eind"><noot.nr>4</noot.nr><noot.al>Het model is, voor zover nodig, in overeenstemming met de daaraan gestelde publiekrechtelijke eisen.</noot.al></noot> Overige certificaten zijn als bijlage van de betreffende certificatiegrondslagen opgenomen.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">2.5</nr>
+            <titel status="officieel">Geldigheidsduur</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. Een certificatie wordt verleend voor onbepaalde tijd. Een certificatie kan worden opgeschort of ingetrokken bij tekortkomingen of overtredingen, conform het gestelde in <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=5">hoofdstuk 5</intref> van dit reglement.</al>
+            <al>2. Een Skal-certificaat (het document) wordt steeds na maximaal drie jaar verlengd. Verlenging is een verklaring die is mede gebaseerd op het feit dat Skal de leverancier gedurende de voorgaande drie jaren heeft beoordeeld op alle normelementen.</al>
+            <al>3. Een certificaat verliest zijn geldigheid bij intrekking of opschorting van de certificatie.</al>
+            <al>4. Een certificatie en daarmee de geldigheid van het certificaat, vervalt bij be&#xEB;indiging van de certificatieovereenkomst tussen Skal en de leverancier.<noot type="eind"><noot.nr>5</noot.nr><noot.al>Zie voor be&#xEB;indiging van certificaten ook artikel 5.3.</noot.al></noot></al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">2.6</nr>
+            <titel status="officieel">Certificatiemerk</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. Nadat door Skal een certificatie is verleend en het certificaat is verstrekt heeft de leverancier het recht om een certificatiemerk aan te brengen op producten die onder certificatie in de handel worden gebracht.</al>
+            <al>2. Het certificatiemerk en de wijze van merken moeten worden uitgevoerd overeenkomstig:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>het Skal-Aanduidingenreglement;</al>
+                <al>en, indien van toepassing:</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>de door licentieverleners gestelde eisen.</al>
+              </li>
+            </lijst>
+            <al>3. Producten die niet voldoen aan of die niet zijn voortgebracht volgens de in de certificatiegrondslagen gestelde eisen, mogen niet worden voorzien van een certificatiemerk. De leverancier is verplicht om hierop toe te zien en eventueel reeds aangebrachte merken te verwijderen.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">2.7</nr>
+            <titel status="officieel">Certificatieovereenkomst en aansluiting</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Voor de uitvoering van certificatie en toezicht sluiten de leverancier en Skal een overeenkomst. De overeenkomst komt tot stand nadat Skal een volledig ingevuld en ondertekend aanmeldingsformulier met de bijbehorende bijlagen, alsmede de in het <extref status="actief" doc="1.0:v:BWBR0018852" compleet="nee">Skal-Bijdragereglement</extref> bedoelde aansluitingsbijdrage heeft ontvangen, en Skal de aansluiting aan de leverancier schriftelijk heeft bevestigd. De leverancier is vanaf dat moment aangeslotene.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">2.8</nr>
+            <titel status="officieel">Vergoedingen</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. De leverancier is verplicht tot betaling van een vergoeding (bijdrage) aan Skal. De aard, de hoogte van de bijdrage en de overige voorwaarden zijn geregeld in:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>het <extref status="actief" doc="1.0:v:BWBR0018852" compleet="nee">Skal-Bijdragereglement</extref>;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>het jaarlijks vastgestelde Tarievenblad.</al>
+              </li>
+            </lijst>
+            <al>2. Op alle producten die voorzien zijn van een certificatiemerk zijn de bepalingen van dit reglement en het in dit reglement van toepassing verklaarde <extref status="actief" doc="1.0:v:BWBR0018852" compleet="nee">Skal-Bijdragereglement</extref> van toepassing.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">2.9</nr>
+            <titel status="officieel">Openbaarmaking</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. De leverancier mag publiceren dat zijn producten of voortbrengingsprocessen gecertificeerd zijn, maar uitsluitend en ondubbelzinnig voor de in het certificaat gespecificeerde producten of voortbrengingsprocessen. Elke andere wijze van openbaarmaking wordt door Skal beschouwd als oneigenlijk gebruik van het certificaat, zoals omschreven in <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=4.4">artikel 4.4</intref> van dit reglement.</al>
+            <al>2. Skal houdt een register bij, waarin alle Skal-certificaten zijn opgenomen met vermelding van de naam van de leverancier en de gecertificeerde producten of voortbrengingsprocessen. Dit register is openbaar.</al>
+            <al>3. Skal houdt een register bij van alle aangeslotenen en verstrekt deze lijst jaarlijks aan de bevoegde instantie.</al>
+          </tekst>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Aanvraagprocedure</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">3.1</nr>
+            <titel status="officieel">Informatie</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Skal zal een leverancier die daarom verzoekt op de hoogte stellen van de hoofdzaken van de aanvraagprocedure, de daarbij te hanteren werkwijze en de kosten die aan certificatie zijn verbonden.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">3.2</nr>
+            <titel status="officieel">In behandeling nemen van de aanvraag</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. Nadat Skal het door de leverancier ingevulde en voor akkoord getekende aanmeldingsformulier heeft ontvangen en indien de leverancier nog niet is aangesloten, de betaling van de aansluitingsbijdrage als bedoeld in <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=2.7">artikel 2.7</intref> is ontvangen, neemt Skal zonodig contact op met de leverancier om een afspraak te maken voor het uit te voeren onderzoek.</al>
+            <al>2. Wanneer bij de aanvraag de noodzakelijke gegevens ontbreken voor het uitvoeren van het toelatingsonderzoek stelt Skal de leverancier in de gelegenheid om deze gegevens alsnog binnen redelijke tijd aan te vullen. Vanaf het moment van verzoek om aanvulling van ontbrekende gegevens wordt de behandeling van de aanvraag opgeschort.</al>
+            <al>3. Wanneer de leverancier nalaat om de gevraagde gegevens binnen de daarvoor door Skal gestelde termijn aan te leveren kan Skal binnen vier weken na het verstrijken van deze termijn besluiten om de aanvraag niet in behandeling te nemen. De leverancier heeft geen recht op restitutie van de door hem betaalde aansluitingsbijdrage.</al>
+            <al>4. De leverancier mag niet de indruk wekken dat de producten of voortbrengingsprocessen, waarvoor hij een aanvraag heeft ingediend, zijn gecertificeerd zolang het certificaat niet is verstrekt. Overtreding van deze bepaling wordt door Skal beschouwd als oneigenlijk gebruik van het certificaat, zoals omschreven in <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=4.4">artikel 4.4</intref> van dit reglement.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">3.3</nr>
+            <titel status="officieel">Toelatingsonderzoek</titel>
+          </kop>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Algemeen</titel>
+            </kop>
+            <tekst status="goed">
+              <al-groep><al>1. Het door Skal uit te voeren toelatingsonderzoek vindt plaats aan de hand van de geldende certificatiegrondslagen, en omvat ten minste:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>beoordeling van het voortbrengingsproces;</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>beoordeling van het kwaliteitsplan van de leverancier en de in verband daarmee door hem bijgehouden administratie;</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>beoordeling van de door de leverancier gehanteerde klachtenprocedure.</al>
+                </li>
+              </lijst></al-groep>
+              <al-groep><al>Zonodig vindt beoordeling plaats op in de certificatiegrondslagen opgenomen nadere eisen met betrekking tot:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>het (ontwerp van het) product;</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>monsteronderzoek;</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>overige procedures.</al>
+                </li>
+              </lijst>
+              <al>De uitvoering van onderdelen van het toelatingsonderzoek kan door Skal worden opgedragen aan derden, overeenkomstig het in <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=2.1">artikel 2.1, lid 6</intref> bepaalde.</al></al-groep>
+              <al-groep><al>2. De leverancier verleent de noodzakelijke medewerking aan het toelatingsonderzoek door:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>inspecteurs, die met het toelatingsonderzoek zijn belast, toe te laten tot alle bedrijfsonderdelen die voor het uitvoeren van het onderzoek noodzakelijk zijn;</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>inzage te verschaffen in de administratie die de leverancier als onderdeel van zijn kwaliteitsplan moet bijhouden;</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>inzage te verschaffen in het klachtenregister.</al>
+                </li>
+              </lijst></al-groep>
+              <al-groep><al>De leverancier stelt Skal alle monsters en voor de beoordeling relevante gegevens, gratis ter beschikking.</al></al-groep>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Beoordeling van het voortbrengingsproces</titel>
+            </kop>
+            <tekst status="goed">
+              <al>3. Bij de beoordeling van het voortbrengingsproces wordt nagegaan of de producent in staat is om producten voort te brengen die aan de certificatiegrondslagen voldoen. Als referentie voor de beoordeling van het voortbrengingsproces kan een soortgelijk proces worden beoordeeld. De beoordeling omvat tenminste:</al>
+              <al>de hoedanigheid, oorsprong en herkomst van grondstoffen, ingredi&#xEB;nten, hulpstoffen, halfproducten en eindproducten;</al>
+              <al>de toepassing van de principes van de biologische voortbrengingsmethoden;</al>
+              <al>het intern transport en de opslag.</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Beoordeling van het kwaliteitsplan</titel>
+            </kop>
+            <tekst status="goed">
+              <al>4. De beoordeling van het kwaliteitsplan omvat in ieder geval:</al>
+              <al>de aanwezigheid in de organisatiestructuur van een functionaris die belast is met het beheer van het kwaliteitsplan;</al>
+              <al>de aanwezigheid en het functioneren van het kwaliteitsplan; dit plan moet voldoende zekerheid bieden dat producten en/of voortbrengingsprocessen bij voortduring voldoen aan de in de certificatiegrondslagen gestelde eisen en dat dit aan de hand van interne controleresultaten en de daarover bijgehouden administratie door de leverancier kan worden aangetoond.</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Klachtenprocedure en eventuele andere vereiste procedures</titel>
+            </kop>
+            <tekst status="goed">
+              <al>5. De leverancier moet een procedure hebben voor het behandelen van klachten van afnemers<noot type="eind"><noot.nr>6</noot.nr><noot.al>Deze eis is ontleend aan de accreditatienorm EN 45011.</noot.al></noot>. Daarin moet geregeld zijn dat hij:</al>
+              <al>een registratie bijhoudt van alle klachten over de door hem in de handel gebrachte gecertificeerde producten;</al>
+              <al>ge&#xEB;igende maatregelen neemt in verband met dergelijke klachten;</al>
+              <al>de getroffen maatregelen naar aanleiding van klachten vastlegt.</al>
+              <al>Skal zal de aanwezigheid en het functioneren van deze klachtenprocedure toetsen. Zonodig vindt ook een toetsing plaats naar de aanwezigheid en het functioneren van andere in de certificatiegrondslagen voorgeschreven procedures.</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Producteisen</titel>
+            </kop>
+            <tekst status="goed">
+              <al>6. Bij de beoordeling van het (ontwerp van het) product wordt nagegaan of het product of de (beoogde) samenstelling van het product voldoet aan de in de certificatiegrondslagen gestelde eisen.</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Monsteronderzoek</titel>
+            </kop>
+            <tekst status="goed">
+              <al>7. Indien monsteronderzoek vereist is, zal Skal monsters nemen bij de leverancier en deze (laten) onderzoeken aan de hand van de gestelde eisen.</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Contractbeoordeling</titel>
+            </kop>
+            <tekst status="goed">
+              <al>8. Wanneer de leverancier niet de feitelijke producent is van de te certificeren producten, zal Skal de in <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=2.2">artikel 2.2</intref> bedoelde overeenkomst tussen de leverancier en de producent beoordelen.</al>
+            </tekst>
+          </circulaire.divisie>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">3.4</nr>
+            <titel status="officieel">Rapportage over het toelatingsonderzoek</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Degene die het toelatingsonderzoek heeft uitgevoerd legt zijn bevindingen vast in een rapport. Het rapport over dat deel van het toelatingsonderzoek dat bij de leverancier is uitgevoerd wordt mede ondertekend door de leverancier.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">3.5</nr>
+            <titel status="officieel">Besluit op de aanvraag</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. Behoudens het gestelde in <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=5.3">artikel 5.3, lid 8</intref> beslist<noot type="eind"><noot.nr>7</noot.nr><noot.al>Het certificatiebesluit vindt plaats door een daartoe gekwalificeerde beslisser die niet zelf bij het toelatingsonderzoek was betrokken.</noot.al></noot> Skal over de aanvraag binnen een maand nadat het onderzoek en de rapportage daarover is afgerond. Het besluit wordt schriftelijk meegedeeld aan de leverancier.</al>
+            <al>2. Bij een positief besluit ontvangt de leverancier het certificaat.</al>
+            <al>3. Bij een negatief besluit wijst Skal de aanvraag af onder schriftelijke vermelding van de redenen die tot dit besluit hebben geleid. Hiermee vervalt de met de leverancier gesloten certificatieovereenkomst en wordt de leverancier uitgeschreven als aangeslotene, tenzij er nog een certificatieovereenkomst voor een ander product of voortbrengingsproces bestaat.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">3.6</nr>
+            <titel status="officieel">Be&#xEB;indiging van de aanvraag</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. Indien bij de behandeling van de aanvraag naar het oordeel van Skal blijkt dat de leverancier geen of onvoldoende maatregelen treft om te voldoen aan de in de certificatiegrondslagen gestelde eisen of onvoldoende medewerking verleent om dit aan te tonen, kan Skal de behandeling van de aanvraag be&#xEB;indigen.</al>
+            <al>2. Indien tijdens het onderzoek blijkt dat een positief besluit over het verlenen van de certificatie redelijkerwijs niet te verwachten is, kan de behandeling van de aanvraag in onderling overleg worden be&#xEB;indigd.</al>
+            <al>3. De leverancier kan ten allen tijde schriftelijk zijn aanvraag tussentijds intrekken. Eventueel door Skal gemaakte kosten zullen door de leverancier worden vergoed.</al>
+            <al>4. Bij be&#xEB;indiging van de aanvraag vervalt de certificatieovereenkomst en wordt de leverancier uitgeschreven als aangeslotene, tenzij er nog een certificatieovereenkomst voor een ander product of voortbrengingsproces bestaat.</al>
+          </tekst>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Toezicht</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">4.1</nr>
+            <titel status="officieel">Algemeen</titel>
+          </kop>
+          <tekst status="goed">
+            <al><extref status="actief" doc="1.0:v:BWBR0002755&amp;artikel=15" compleet="nee">Artikel 15 van de Landbouwkwaliteitswet</extref> is van toepassing op het toezicht op de aangeslotenen.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">4.2</nr>
+            <titel status="officieel">Inspecties</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. Skal voert regelmatig inspecties uit op naleving door de leverancier van zijn verplichtingen. Deze inspecties vinden op willekeurige tijdstippen plaats met een frequentie die door het bestuur van Skal is vastgesteld met een minimum van &#xE9;&#xE9;nmaal per kalenderjaar. De uitvoering van de inspecties kan door Skal worden opgedragen aan derden, overeenkomstig het in <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=2.1">artikel 2.1, lid 6</intref> bepaalde.</al>
+            <al>2. Skal kent de volgende inspecties:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>Basisinspectie minimaal &#xE9;&#xE9;n keer per jaar een fysieke inspectie en beoordeling op risico&#x2019;s. Minimaal &#xE9;&#xE9;n keer in de drie jaar een volledige beoordeling op alle normelementen.</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>Extra inspectie een aanvullende inspectie op de basisinspectie, te denken valt aan bijvoorbeeld flitsinspectie, diepte-inspecties, financi&#xEB;le inspectie en projectinspectie.</al>
+              </li>
+            </lijst>
+            <al>3. De leverancier verleent de noodzakelijke medewerking aan de inspecties door:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>inspecteurs, die met het inspecties zijn belast, toe te laten tot alle bedrijfsonderdelen die voor het uitvoeren van inspecties noodzakelijk zijn;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>inzage te verschaffen in de administratie die de leverancier als onderdeel van zijn kwaliteitsplan moet bijhouden;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>inzage te verschaffen in het klachtenregister;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>indien daarom wordt verzocht, gevraagde informatie toe te zenden.</al>
+              </li>
+            </lijst>
+            <al>4. De leverancier stelt kosteloos de benodigde monsters en apparatuur ter beschikking.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">4.3</nr>
+            <titel status="officieel">Uitvoeren van inspecties</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. Uitvoeren van inspecties vindt plaats op het bedrijf van de leverancier. Wanneer de leverancier niet de producent is, vinden bovendien inspecties plaats in het bedrijf van de feitelijke producent.</al>
+            <al>2. Wanneer de leverancier niet de producent is van de gecertificeerde producten, zal Skal bovendien nagaan of de in <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=2.2">artikel 2.2</intref> bedoelde overeenkomst wordt nagekomen.</al>
+            <al>3. Skal is bevoegd naast het in <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=4.2">artikel 4.2, lid 1</intref> en <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=4.3">artikel 4.3, lid 1</intref> gestelde op andere wijze na te gaan of de leverancier aan zijn verplichtingen voldoet<noot type="eind"><noot.nr>8</noot.nr><noot.al>Deze bevoegdheid is mede gebaseerd op de Landbouwkwaliteitswet, artikel 15, waarin is geregeld dat controles ook kunnen plaats vinden in voertuigen en andere plaatsen waar gecertificeerde producten aanwezig zijn.</noot.al></noot>.</al>
+            <al>4. Skal verstrekt aan de leverancier een rapport over de uitgevoerde inspectie. Dit rapport wordt mede ondertekend door de leverancier.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">4.4</nr>
+            <titel status="officieel">Oneigenlijk gebruik van certificaten en certificatiemerken</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. Skal ziet er op toe dat geen oneigenlijk gebruik wordt gemaakt van certificaten en certificatiemerken door aangeslotenen of door derden.</al>
+            <al>2. Als oneigenlijk gebruik door aangeslotenen wordt in ieder geval beschouwd:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>het wekken van de indruk dat producten of voortbrengingsprocessen, waarvoor een aanvraag is ingediend, reeds gecertificeerd zijn;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>het wekken van de indruk dat een certificaat betrekking heeft op andere producten of voortbrengingsprocessen dan waarvoor certificatie is verleend;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>het wekken van de indruk dat een certificaat nog geldig is tijdens een periode van opschorting van de certificatie;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>het gebruik van onjuiste certificatiemerken.</al>
+              </li>
+            </lijst>
+            <al>3. Acties ter bescherming van certificatiemerken tegen oneigenlijk gebruik door derden komen aan Skal c.q. de beheerder van het certificatiemerk toe.</al>
+            <al>4. Skal kan, al dan niet tezamen met leveranciers van gecertificeerde producten of voortbrengingsprocessen, een vordering instellen tegen derden die oneigenlijk gebruik maken van certificaten en certificatiemerken.</al>
+          </tekst>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Maatregelen bij tekortkomingen en overtredingen, opschorting en intrekking van de certificatie</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">5.1</nr>
+            <titel status="officieel">Algemeen</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. Wanneer bij het toelatingsonderzoek of de inspectie tekortkomingen worden vastgesteld, zullen door Skal maatregelen worden getroffen overeenkomstig de als <intref status="actief" doc="1.0:v:BWBR0021345&amp;bijlage=2">bijlage 2</intref> bij dit reglement gevoegde &#x2018;Maatregelen bij afwijkingen&#x2019;.</al>
+            <al>2. Overtreding van een of meer voorschriften gebaseerd op het Besluit, is aan tuchtrecht onderworpen en kan overeenkomstig de in artikel 5.1, lid 1 bedoelde <intref status="actief" doc="1.0:v:BWBR0021345&amp;bijlage=2">bijlage</intref> worden voorgelegd aan het Tuchtgerecht.</al>
+            <al>3. Overtreding van een of meer voorschriften niet gebaseerd op het Besluit, is aan sanctierecht onderworpen en kan overeenkomstig de in artikel 5.1, lid 1 bedoelde <intref status="actief" doc="1.0:v:BWBR0021345&amp;bijlage=2">bijlage</intref> worden voorgelegd aan de Sanctiecommissie.</al>
+            <al>4. Onverminderd het in voorgaande leden bepaalde zal Skal, wanneer bij het toezicht een overtreding wordt vastgesteld die als overtreding van <extref status="actief" doc="1.0:v:BWBR0002755&amp;artikel=18" compleet="nee">artikel 18, lid 2 van de Landbouwkwaliteitswet</extref> juncto <extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=1" compleet="nee">artikel 1 van de Wet op de economische delicten</extref> wordt aangemerkt, deze overtreding via de Algemene Inspectie Dienst (AID) aanhangig maken voor strafrechtelijke vervolging.</al>
+            <al>5. Skal stelt de leverancier schriftelijk op de hoogte van zijn beslissing omtrent de getroffen maatregel.</al>
+            <al>6. De kosten van door Skal opgelegde herinspecties, of van door het Tuchtgerecht of de Sanctiecommissie opgelegde verscherpte toezichtmaatregelen worden aan de leverancier in rekening gebracht volgens het geldende Tarievenblad. Wanneer de maatregel extra monsteronderzoek inhoudt, zullen de daaraan verbonden kosten separaat in rekening worden gebracht.</al>
+            <al>7. Bij intrekking of opschorting van een certificatie moet de leverancier het certificaat onverwijld retourneren aan Skal en zijn afnemers over de opschorting informeren. Skal behoudt zich echter het recht voor om zelf, op kosten van de leverancier, de afnemer(s) van de betreffende leverancier te informeren. De leverancier is verplicht Skal op verzoek te voorzien van een lijst van afnemers.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">5.2</nr>
+            <titel status="officieel">Opschorting van de certificatie</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. Een certificatie kan door Skal worden opgeschort in de volgende gevallen:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>ernstige tekortkomingen, vastgesteld tijdens de inspecties;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>het niet treffen van corrigerende maatregelen op vastgestelde tekortkomingen die op zich nog geen reden tot opschorting waren;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>door de leverancier doorgevoerde wijzigingen, die nader onderzoek door Skal vereisen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=7.3">artikel 7.3, lid 2</intref>.</al>
+              </li>
+            </lijst>
+            <al>2. Tijdens een periode van opschorting van de certificatie blijft de overeenkomst tussen Skal en de leverancier van kracht.</al>
+            <al>3. Tijdens een periode van opschorting van de certificatie mag de leverancier geen gebruik maken van het certificaat en geen producten verhandelen die zijn voorzien van het certificatiemerk. De leverancier mag ook niet de indruk wekken dat hij nog het recht zou hebben op het gebruik van het certificaat en het certificatiemerk. Overtreding van deze bepaling wordt door Skal beschouwd als oneigenlijk gebruik van het certificaat in de zin van <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=4.4">artikel 4.4</intref> van dit reglement.</al>
+            <al>4. Een certificatie blijft gedurende een periode van maximaal 12 maanden opgeschort. De leverancier dient bij een opschorting zelf tijdig Skal te informeren dat hij de afwijking heeft gecorrigeerd. Skal zal dan een her-inspectie uitvoeren ter verificatie. Indien de afwijking is opgeheven, zal de opschorting worden be&#xEB;indigd. Indien de afwijking niet binnen de termijn van 12 maanden wordt opgeheven, zal de betreffende certificatie worden ingetrokken.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">5.3</nr>
+            <titel status="officieel">Intrekking van de certificatie</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. Een certificatie kan door Skal met onmiddellijke ingang worden ingetrokken in de volgende gevallen:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>ernstige tekortkomingen, als bedoeld in <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=5.2">artikel 5.2, lid 1</intref>, vastgesteld tijdens een inspectie;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>het niet treffen van corrigerende maatregelen tijdens een periode van opschorting;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>de leverancier in ernstige mate in strijd heeft gehandeld met &#xE9;&#xE9;n of meer van zijn verplichtingen, waaronder tevens vallen zijn financi&#xEB;le verplichtingen;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>de leverancier de belangen van Skal ernstig heeft geschaad;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>ernstige tekortkomingen, vastgesteld na het op de markt brengen van producten en het mogelijk niet voldoen aan de eisen.</al>
+              </li>
+            </lijst>
+            <al>2. In andere dan de hierboven genoemde gevallen, en behoudens het in <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=7.3">artikel 7.3, lid 3</intref> bepaalde (intrekking als gevolg van door de leverancier niet geaccepteerde wijziging van de certificatiegrondslagen), kan de certificatie worden be&#xEB;indigd met inachtneming van een termijn van ten minste drie volle kalendermaanden. Be&#xEB;indiging moet per aangetekende brief aan de andere partij worden meegedeeld, onder vermelding van de datum van de be&#xEB;indiging. Bij een opzegging door Skal zal daarbij de reden van opzegging worden aangegeven.</al>
+            <al>3. Skal kan een certificatie intrekken of opschorten wanneer de leverancier gedurende langere tijd een zo geringe of onregelmatige voortbrenging heeft dat dit voor Skal gerede twijfels oplevert of de leverancier in staat is om te voldoen aan de in de certificatiegrondslagen gestelde eisen.</al>
+            <al>4. Vanaf de datum van be&#xEB;indiging van de certificatie mag de leverancier geen gebruik maken van het certificaat en geen producten meer afleveren die zijn voorzien van het certificatiemerk. De leverancier mag ook niet de indruk wekken dat hij nog het recht zou hebben op het gebruik van het certificaat en het certificatiemerk. Overtreding van deze bepaling wordt door Skal beschouwd als oneigenlijk gebruik van het certificaat in de zin van <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=4.4">artikel 4.4</intref> van dit reglement.</al>
+            <al>5. Be&#xEB;indiging van de certificatie laat de financi&#xEB;le verplichtingen van de leverancier tegenover Skal onverlet.</al>
+            <al>6. Bij be&#xEB;indiging van de certificatie vervalt de met de leverancier gesloten certificatieovereenkomst en wordt de leverancier uitgeschreven als aangeslotene, tenzij er nog een certificatieovereenkomst voor een ander product of voortbrengingsproces bestaat.</al>
+            <al>7. Tot en met negen maanden na be&#xEB;indiging van de certificatieovereenkomst blijft de leverancier verplicht om alle inlichtingen aan Skal te verschaffen, die nodig zijn voor de afhandeling van zijn (contractuele) verplichtingen.</al>
+            <al>8. Indien de certificatie is ingetrokken en de leverancier opnieuw een aanvraag indient voor hetzelfde of sterk overeenkomend voortbrengingsproces of product, kan het certificatiebesluit op deze aanvraag worden uitgesteld: er wordt in dat geval niet eerder dan 6 maanden na ontvangst van de aanvraag certificatie verleend.</al>
+          </tekst>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Klachten, bezwaar en beroep, beroep tegen uitspraak Tuchtgerecht en Sanctiecommissie</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">6.1</nr>
+            <titel status="officieel">Klachten van derden</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. Skal behoudt zich het recht voor om naar aanleiding van een ontvangen klacht door een derde, over een leverancier een onafhankelijk onderzoek in te stellen.</al>
+            <al>2. Indien een klacht gegrond blijkt, kan dit voor Skal aanleiding zijn tot overleg met de leverancier over maatregelen ter verbetering, herziening van het kwaliteitsplan, of tot het treffen van een maatregel zoals bedoeld in <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=5.1">artikel 5.1</intref>.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">6.2</nr>
+            <titel status="officieel">Klachten van leveranciers</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. Wanneer Skal een klacht ontvangt over het eigen functioneren wordt deze behandeld door een daartoe bevoegde medewerker van Skal die niet zelf betrokken was bij het functioneren dat aanleiding gaf tot de klacht</al>
+            <al>2. De klacht moet in principe binnen een termijn van zes weken na registratie van ontvangst van de klacht zijn afgehandeld.</al>
+            <al>3. Wanneer een klacht niet naar tevredenheid van de klager is afgehandeld kan deze zijn bevindingen binnen &#xE9;&#xE9;n jaar voorleggen aan de Nationale Ombudsman.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">6.3</nr>
+            <titel status="officieel">Bezwaar</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. Tegen een besluit of maatregel van Skal kan door belanghebbenden binnen een termijn van zes weken na dagtekening bezwaar worden ingediend bij de Skal-Commissie Bezwaarschriften, overeenkomstig het <extref status="actief" doc="1.0:v:BWBR0015357" compleet="nee">Skal-Reglement Bezwaar</extref>.</al>
+            <al>2. Het maken van bezwaar laat het besluit of de maatregel van Skal onverlet, tenzij bij of krachtens wettelijk voorschrift anders is bepaald, totdat dienaangaande een uitspraak is gedaan.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">6.4</nr>
+            <titel status="officieel">Beroep tegen een beslissing op bezwaar</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. Het instellen van beroep vindt plaats overeenkomstig het <extref status="actief" doc="1.0:v:BWBR0015357" compleet="nee">Skal-Reglement Bezwaar</extref>. Dit betekent dat:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>indien de beslissing op bezwaar is gebaseerd op het Besluit er beroep openstaat bij de Sector Bestuursrecht van de Rechtbank, dan wel indien er sprake is van een beslissing op bezwaar als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002755&amp;artikel=14" compleet="nee">artikel 14 van de Landbouwkwaliteitswet</extref> het College van Beroep voor het bedrijfsleven;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>in de overige beslissingen op bezwaar er beroep open staat bij het Skal-College van Beroep.</al>
+              </li>
+            </lijst>
+            <al>Het instellen van beroep laat het besluit of de maatregel van Skal onverlet, tenzij bij of krachtens wettelijk voorschrift anders is bepaald, totdat dienaangaande een uitspraak is voldaan.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">6.5</nr>
+            <titel status="officieel">Beroep tegen een uitspraak van het Tuchtgerecht</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Beroep tegen een uitspraak van het Tuchtgerecht als bedoeld in <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=5.1">artikel 5.1, lid 2</intref> kan worden ingesteld bij het College van Beroep voor het bedrijfsleven op grond van de <extref status="actief" doc="1.0:v:BWBR0016341" compleet="nee">Wet Tuchtrechtspraak Bedrijfsorganisatie</extref>.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">6.6</nr>
+            <titel status="officieel">Beroep tegen een uitspraak van de Sanctiecommissie</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Beroep tegen een uitspraak van de Sanctiecommissie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=5.1">artikel 5.1, lid 3</intref> kan overeenkomstig het Skal-Reglement van Beroep worden ingesteld bij het Skal-College van Beroep.</al>
+          </tekst>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Overige bepalingen</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">7.1</nr>
+            <titel status="officieel">Arbeidsomstandigheden</titel>
+          </kop>
+          <tekst status="goed">
+            <al>De leverancier dient er zorg voor te dragen, onverlet zijn verplichting uit hoofde van de ARBO-wetgeving, dat de arbeidsomstandigheden in zijn bedrijf en op plaatsen waar de werkzaamheden worden uitgevoerd zodanig zijn dat geen gevaar bestaat voor de veiligheid en de gezondheid van medewerkers van Skal bij de uitvoering van hun werkzaamheden. Zonodig dient de leverancier veiligheidsmiddelen ter beschikking te stellen met de daarbij behorende instructie.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">7.2</nr>
+            <titel status="officieel">Geheimhouding</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. Skal-medewerkers zijn verplicht tot geheimhouding tegenover derden, met uitzondering van het bevoegd gezag<noot type="eind"><noot.nr>9</noot.nr><noot.al>Onder het bevoegd gezag wordt ook verstaan het bevoegd gezag van een ander EU-lid en door dit bevoegd gezag erkende controleorganisaties c.q. toezichthoudende organisaties.</noot.al></noot>, over alle gegevens, waarvan zij kennis nemen als gevolg van de uitvoering van certificatiewerkzaamheden.</al>
+            <al>2. Bij de inschakeling van derden bij de uitvoering van certificatiewerkzaamheden zullen deze een verklaring ondertekenen, waarin de geheimhoudingsplicht als vastgelegd in het eerste lid is geregeld.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">7.3</nr>
+            <titel status="officieel">Wijzigingen</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. De leverancier is verplicht om een wijziging in de rechtsvorm, tenaamstelling, statutaire zetel en plaats van de vestiging van het bedrijf onmiddellijk schriftelijk aan Skal te melden.</al>
+            <al>2. De leverancier moet Skal onmiddellijk op de hoogte stellen van wijzigingen of het ontstaan van situaties die direct verband (kunnen) hebben met het al dan niet voldoen aan de in de certificatiegrondslagen gestelde eisen. Skal stelt daarop vast of aanvullend onderzoek noodzakelijk is en stelt de leverancier daarvan op de hoogte. Indien aanvullend onderzoek nodig is kan Skal de certificatie opschorten. De opschorting wordt opgeheven zodra Skal de leverancier van het positieve resultaat van het aanvullend onderzoek op de hoogte heeft gesteld.</al>
+            <al>3. Skal informeert de leverancier tijdig over een te verwachten wijziging van de certificatiegrondslagen, de datum van inwerkingtreding en de eventuele overgangstermijn. Wanneer de leverancier niet akkoord gaat met de wijzigingen moet hij dit binnen een door Skal gestelde termijn schriftelijk melden. In dat geval vervalt de certificatie op de datum, waarop de gewijzigde certificatiegrondslagen in werking treden.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">7.4</nr>
+            <titel status="officieel">Aansprakelijkheid</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. Skal is jegens de leverancier aansprakelijk voor tekortkomingen in de uitvoering van haar werkzaamheden, voor zover deze het gevolg zijn van het niet in acht nemen door Skal van de zorgvuldigheid, deskundigheid en het vakmanschap waarop bij het uitvoeren van de werkzaamheden mag worden vertrouwd. De aansprakelijkheid voor de schade veroorzaakt door de tekortkomingen wordt beperkt tot het bedrag van driemaal het totaal van de door leverancier verschuldigde bijdragen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0018852&amp;circulaire.divisie=3" compleet="nee">artikel 3 van het Skal-Bijdragereglement</extref> in het jaar waarin de aanspraak op de schade wordt ingediend bij Skal.</al>
+            <al>2. Eventuele aanspraken van de leverancier als bedoeld in <intref status="actief" doc="1.0:v:BWBR0021345&amp;circulaire.divisie=7.4">artikel 7.4, lid 1</intref> dienen binnen &#xE9;&#xE9;n jaar na het ontstaan van de schade te zijn ingediend, bij gebreke waarvan de leverancier zijn rechten heeft verwerkt.</al>
+          </tekst>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <tekst status="goed">
+          <al>1. Dit reglement vervangt alle voorgaande versie van het Skal-Reglement voor Certificatie en Toezicht.</al>
+          <al>2. Dit reglement kan worden aangehaald onder de naam Skal-Reglement voor Certificatie en Toezicht.</al>
+          <al>3. Dit reglement treedt in werking op de tweede dag na publicatie in de Staatscourant.</al>
+          <al>4. Wijzigingen van dit reglement treden eerst in werking na goedkeuring en openbaarmaking door de Minister en publicatie door de zorg van de Minister in de Staatscourant.</al>
+          <al>5. In alle gevallen waarin dit reglement niet voorziet, beslist het Bestuur van Skal.</al>
+          <al>Dit reglement is door het Bestuur van Stichting Skal vastgesteld op 22 september 2006.</al>
+        </tekst>
+      </circulaire.divisie>
+    </circulaire-tekst>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label>
+        <nr status="officieel">1</nr>
+        <titel status="officieel">Model certificaat</titel>
+      </kop>
+      <plaatje><illustratie bin-id="242154" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/242154"/></plaatje>
+      <plaatje><illustratie bin-id="242155" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/242155"/></plaatje>
+    </bijlage>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label>
+        <nr status="officieel">2</nr>
+        <titel status="officieel">Maatregelen bij afwijkingen</titel>
+      </kop>
+      <al>Een situatie die niet in overeenstemming is met de eisen van de van toepassing zijnde certificatiegrondslagen of de relevante reglementen van Skal, wordt bestempeld als een afwijking. Een afwijking wordt, afhankelijk van de ernst, volgens onderstaande richtlijnen en tabel ingedeeld en afgehandeld.</al>
+      <al>Certificatie wordt slechts verleend c.q. uitgebreid, indien bij het toelatingsonderzoek is vastgesteld dat geen afwijkingen (meer) aanwezig zijn. Indien bij het toelatingsonderzoek een afwijking wordt geconstateerd zal dus geen certificatie worden verleend, totdat deze afwijking is opgeheven.</al>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Indeling van afwijkingen in categorie&#xEB;n</titel>
+        </kop>
+        <al>NC C, lichte afwijking: een kleine afwijking die niet direct van invloed is op het product. Of een kleine afwijking in het kader van een toelatingsonderzoek.</al>
+        <al>NC B, ernstige afwijking: een op zich zelf staande afwijking die direct van invloed is, of kan zijn, op het eindproduct. Of een niet binnen de gestelde termijn opgeloste lichte afwijking. Of een lichte afwijking die binnen 24 maanden na opheffen opnieuw geconstateerd wordt.</al>
+        <al>NC A, fatale afwijking: een afwijking die systematisch is (en nog steeds voortduurt) en daardoor betrekking heeft op meerdere partijen, producten, percelen of dieren en die direct van invloed is, of kan zijn, op het eindproduct. Of een afwijking met langdurige gevolgen die de basisprincipes van de biologische landbouw schendt (bijvoorbeeld: gebruik kunstmest of een niet toegelaten gewasbeschermingsmiddel). Of een niet binnen de gestelde termijn opgeloste ernstige afwijking. Of een ernstige afwijking die binnen 24 maanden na opheffen opnieuw geconstateerd wordt.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Opheffen van afwijkingen</titel>
+        </kop>
+        <al>Een afwijking wordt opgeheven indien de leverancier de afwijking afdoende heeft gecorrigeerd (door middel van een corrigerende maatregel en zomogelijk correctie) en dit door Skal is geverifieerd.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Maatregelen bij afwijkingen</titel>
+        </kop>
+        <al>Leveranciers moeten elke afwijking binnen de kortst mogelijke termijn aantoonbaar corrigeren, uiterlijk binnen de door Skal gestelde periode. Skal kan een kortere periode opleggen waarbinnen de afwijking gecorrigeerd moet zijn, gebaseerd op het advies van de inspecteur.</al>
+        <al>In een individueel geval kan bij zeer bijzondere omstandigheden de opgelegde termijn om een afwijking te corrigeren door Skal worden verlengd.</al>
+        <al>Bij een afwijking kan de verplichting worden opgelegd de naar de biologische productiemethode en/of Skal verwijzende aanduidingen te verwijderen van (of deze niet aan te brengen op) de afwijkende producten.</al>
+        <al>Skal zal bij in ieder geval een ernstige of fatale afwijking overwegen een Tuchtrechtelijke Verklaring (TV) of een Verklaring van Overtreding (VO) aan te zeggen, ten behoeve van het kunnen opleggen van een sanctie. Een Tuchtrechtelijke Verklaring wordt overeenkomstig het <extref status="actief" doc="1.0:v:BWBR0005891" compleet="nee">Tuchtrechtreglement Skal</extref> ter afhandeling voorgelegd aan het Tuchtgerecht. Een Verklaring van Overtreding wordt overeenkomstig het Sanctiereglement Skal ter afhandeling voorgelegd aan de Sanctiecommissie van Skal.</al>
+        <al>Skal kan een aparte her-inspectie uitvoeren ter verificatie van de opgelegde verplichting aanduidingen te verwijderen en/of ter verificatie van de corrigerende maatregel en/of correctie.</al>
+        <al>Een certificatie blijft maximaal 12 maanden opgeschort. De leverancier dient bij een opschorting zelf tijdig Skal te informeren dat hij de afwijking heeft gecorrigeerd. Skal zal dan een her-inspectie uitvoeren ter verificatie. Indien de afwijking wordt opgeheven, zal de opschorting worden be&#xEB;indigd. Indien de afwijking niet binnen de termijn van 12 maanden wordt opgeheven, zal de betreffende certificatie worden ingetrokken.</al>
+        <al>Indien binnen 24 maanden na constatering van de eerste, een tweede of dezelfde fatale afwijking wordt geconstateerd, zal Skal alle certificaties van de leverancier intrekken en alle lopende aanvragen voor certificatie afwijzen. Dit geldt ook indien tegelijkertijd twee fatale afwijkingen worden geconstateerd.</al>
+        <table frame="topbot" tabstyle="stcrt3">
+          <tgroup align="left" char="" charoff="50" cols="9" tgroupstyle="stcrt3">
+            <colspec colname="col1" colnum="1" colwidth="10*"/>
+            <colspec colname="col2" colnum="2" colwidth="15*"/>
+            <colspec colname="col3" colnum="3" colwidth="30*"/>
+            <colspec colname="col4" colnum="4" colwidth="15*"/>
+            <colspec colname="col5" colnum="5" colwidth="15*"/>
+            <colspec colname="col6" colnum="6" colwidth="15*"/>
+            <colspec colname="col7" colnum="7" colwidth="15*"/>
+            <colspec colname="col8" colnum="8" colwidth="21*"/>
+            <colspec colname="col9" colnum="9" colwidth="20*"/>
+            <thead valign="bottom">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al> Categorie </al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al> Naam </al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al> In welke situaties </al>
+                </entry>
+                <entry align="left" morerows="0" nameend="col9" namest="col4" rotate="0" valign="top">
+                  <al> Maatregelen </al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colname="col1" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col2" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col3" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col4" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col5" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col6" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col7" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" nameend="col9" namest="col8" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al> Maximale termijn om te corrigeren </al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al> Opleggen verplichting aanduidingen te verwijderen </al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al> Aanzeggen TV / VO mogelijk </al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al> Her-inspectie ter verificatie </al>
+                </entry>
+                <entry align="left" morerows="0" nameend="col9" namest="col8" rotate="0" valign="top">
+                  <al> Maatregelen indien afwijking niet opgeheven binnen termijn om te corrigeren </al>
+                </entry>
+              </row>
+            </thead>
+            <tbody valign="top">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>
+                    <nadruk type="vet">NC C</nadruk>
+                  </al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>lichte afwijking</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Een kleine afwijking die niet direct van invloed is op het product.</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>12 maanden</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>nee</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>ja</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>nee</al>
+                </entry>
+                <entry align="left" morerows="0" nameend="col9" namest="col8" rotate="0" valign="top">
+                  <al>1.: certificatie blijft in stand, afwijking wordt NC B.</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colname="col1" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col2" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col3" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col4" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col5" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col6" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col7" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" nameend="col9" namest="col8" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Een kleine afwijking in het kader van een toelatingsonderzoek.</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" nameend="col9" namest="col8" rotate="0" valign="top">
+                  <al>2.: afwijzen aanvraag voor certificatie.</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colname="col1" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col2" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col3" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col4" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col5" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col6" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col7" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" nameend="col9" namest="col8" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>
+                    <nadruk type="vet">NC B</nadruk>
+                  </al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>ernstige afwijking</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Een op zich zelf staande afwijking die direct van invloed is, of kan zijn, op het eindproduct.</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>3 maanden</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1.: ja</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>ja</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>ja</al>
+                </entry>
+                <entry align="left" morerows="0" nameend="col9" namest="col8" rotate="0" valign="top">
+                  <al>1. t/m 3.: certificatie blijft in stand / ongewijzigd, afwijking wordt NC A.</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colname="col1" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col2" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col3" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col4" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col5" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col6" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col7" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col8" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col9" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Een niet binnen de gestelde termijn opgeloste lichte afwijking (NC C).</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2. en 3.: nee</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" colname="col1" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col2" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col3" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col4" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col5" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col6" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col7" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col8" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col9" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Een lichte afwijking (NC C) die binnen 24 maanden na opheffen opnieuw geconstateerd wordt.</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" colname="col1" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col2" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col3" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col4" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col5" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col6" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col7" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col8" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col9" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>
+                    <nadruk type="vet">NC A</nadruk>
+                  </al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>fatale afwijking</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Een afwijking met langdurige gevolgen die de basisprincipes van de biologische landbouw schendt.</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>geen</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>ja</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>ja</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>ja</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1.: intrekken certificaties waarop afwijking betrekking heeft c.q. afwijzen aanvraag voor certificatie.</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+
+                  <al> Indien binnen 24 maanden na constatering van de eerste, een tweede of dezelfde fatale afwijking wordt geconstateerd, zal Skal alle certificaties van de leverancier intrekken en alle lopende aanvragen voor certificatie afwijzen. <nadruk type="cur">Dit geldt ook indien tegelijkertijd twee fatale afwijkingen worden geconstateerd.</nadruk>
+                  </al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colname="col1" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col2" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col3" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col4" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col5" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col6" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col7" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col8" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col9" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Een afwijking die systematisch is (en nog steeds voortduurt) en daardoor betrekking heeft op meerdere partijen, producten, percelen of dieren en die direct van invloed is, of kan zijn, op het eindproduct.</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2. t/m 4.: opschorten certificaties waarop afwijking betrekking heeft c.q. afwijzen aanvraag voor certificatie.</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" colname="col1" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col2" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col3" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col4" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col5" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col6" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col7" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col8" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col9" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Een niet binnen de gestelde termijn opgeloste ernstige afwijking (NC B).</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" colname="col1" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col2" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col3" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col4" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col5" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col6" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col7" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col8" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" colname="col9" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Een ernstige afwijking (NC B) die binnen 24 maanden na opheffen opnieuw geconstateerd wordt.</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </divisie>
+    </bijlage>
+  </circulaire>
+</wetgeving>
+  	

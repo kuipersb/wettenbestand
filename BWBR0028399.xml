@@ -1,0 +1,3864 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0028399" dtdversie="2.0" id="442469" soort="AMvB-BES">
+  
+  <intitule>Besluit
+telecommunicatie scheepvaart
+BES</intitule>
+  
+  <wet-besluit>
+    
+    <wettekst>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Definities</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>In dit besluit en de daarop berustende bepalingen
+wordt verstaan
+onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>
+                <nadruk type="cur">wet:</nadruk> <extref status="actief" doc="1.0:v:BWBR0028469" compleet="nee">Wet
+telecommunicatievoorzieningen BES</extref>;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>
+                <nadruk type="cur">radioreglement:</nadruk> het
+bij het op 6 november 1982 te Nairobi gesloten Internationale Verdrag
+betreffende de Telecommunicatie
+(Trb.&#xA0;1983,
+164) behorende bij het op 6&#xA0;december 1979 te Gen&#xE8;ve
+tot stand gekomen Radioreglement 1979
+(Trb.&#xA0;1981,
+78);</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>
+                <nadruk type="cur">beschikking:</nadruk> de
+beschikking waarbij een machtiging is
+verleend;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>
+                <nadruk type="cur">machtiging:</nadruk> een
+machtiging voor een radio-elektrische zend- of ontvanginrichting als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0028469&amp;artikel=15" compleet="nee">artikel 15, eerste lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0028469&amp;artikel=16" compleet="nee">16, eerste lid, van de
+wet</extref>;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>
+                <nadruk type="cur">bewijs van
+goedkeuring:</nadruk> een bewijsstuk als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0028621&amp;artikel=38" compleet="nee">artikel 38, eerste lid</extref>, <extref status="actief" doc="1.0:v:BWBR0028621&amp;artikel=69" compleet="nee">onderscheidenlijk 69, eerste lid,
+van het Besluit radio-elektrische inrichtingen
+BES</extref>;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>
+                <nadruk type="cur">algemeen certificaat maritieme
+radiocommunicatie, beperkt certificaat maritieme radiocommunicatie,
+certificaat VHF
+marifonie:</nadruk> bewijsstukken van een
+met goed gevolg afgelegd examen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0028399&amp;artikel=30">artikel
+30</intref>;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>
+                <nadruk type="cur">marifoon:</nadruk> een
+zend- en ontvanginrichting ten behoeve van mondelinge maritieme VHF- en
+UHF-radiocommunicatie;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>
+                <nadruk type="cur">radiotelegraaf:</nadruk> een
+zend- en ontvanginrichting ten behoeve van maritieme MF- en
+HF-radiocommunicatie door middel van morsetekens of telegrafie bestemd
+voor de automatische ontvangst;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>
+                <nadruk type="cur">radiotelefoon:</nadruk> een
+zend- en ontvanginrichting ten behoeve van maritieme telecommunicatie
+via de ether door middel van spraak;</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>
+                <nadruk type="cur">kuststation:</nadruk> een
+op een vaste plaats opgestelde zend- en ontvanginrichting bestemd voor
+zowel maritieme radiocommunicatie als openbaar verkeer en dat is
+aangesloten op de openbare
+telecommunicatie-infrastructuur;</al>
+            </li>
+            <li>
+              <li.nr>k.</li.nr>
+              <al>
+                <nadruk type="cur">beperkt
+kuststation:</nadruk> een kuststation dat
+niet is aangesloten op de openbare
+telecommunicatie-infrastructuur;</al>
+            </li>
+            <li>
+              <li.nr>l.</li.nr>
+              <al>
+                <nadruk type="cur">portofoon:</nadruk> een
+draagbare zend- en ontvanginrichting ten behoeve van maritieme
+VHF-radiocommunicatie;</al>
+            </li>
+            <li>
+              <li.nr>m.</li.nr>
+              <al>
+                <nadruk type="cur">scheepsstation:</nadruk> een
+zend- en ontvanginrichting aan boord van een schip bestaande uit een
+marifoon-, een radiotelefooninstallatie, radiotelegraafinstallatie, een
+EPIRB, SART alsmede een
+satellietsysteem;</al>
+            </li>
+            <li>
+              <li.nr>n.</li.nr>
+              <al>
+                <nadruk type="cur">scheepssatellietstation:</nadruk> een
+zend- en ontvanginrichting aan boord van een schip, geschikt voor
+deelname aan het nood-, spoed- en veiligheidsverkeer alsmede aan
+algemeen communicatieverkeer door middel van een
+satellietsysteem;</al>
+            </li>
+            <li>
+              <li.nr>o.</li.nr>
+              <al>
+                <nadruk type="cur">satellietsysteem:</nadruk> een
+door een organisatie beheerd communicatiesysteem waarbij gebruik
+gemaakt wordt van
+satellietverbindingen;</al>
+            </li>
+            <li>
+              <li.nr>p.</li.nr>
+              <al>
+                <nadruk type="cur">EPIRB:</nadruk> Emergency
+Position Indication Radio Beacon;</al>
+            </li>
+            <li>
+              <li.nr>q.</li.nr>
+              <al>
+                <nadruk type="cur">SART:</nadruk> Search
+and Rescue Radio Transponder;</al>
+            </li>
+            <li>
+              <li.nr>r.</li.nr>
+              <al>
+                <nadruk type="cur">INMARSAT:</nadruk> International
+Maritime Satellite Organization;</al>
+            </li>
+            <li>
+              <li.nr>s.</li.nr>
+              <al>
+                <nadruk type="cur">POSS:</nadruk> Polar
+Orbiting Satellite Service;</al>
+            </li>
+            <li>
+              <li.nr>t.</li.nr>
+              <al>
+                <nadruk type="cur">GMDSS:</nadruk> Global
+Maritime Distress and Safety System;</al>
+            </li>
+            <li>
+              <li.nr>u.</li.nr>
+              <al>
+                <nadruk type="cur">DSC:</nadruk> Digital
+Selective Calling;</al>
+            </li>
+            <li>
+              <li.nr>v.</li.nr>
+              <al>
+                <nadruk type="cur">DPT:</nadruk> Direct
+Printing Telegraphy;</al>
+            </li>
+            <li>
+              <li.nr>w.</li.nr>
+              <al>
+                <nadruk type="cur">zeegebieden:</nadruk> de
+internationaal afgebakende gebieden van de zee ten behoeve van de
+scheepvaartcommunicatie, onderscheidenlijk aangeduid als A1, A2, A3 en
+A4;</al>
+            </li>
+            <li>
+              <li.nr>x.</li.nr>
+              <al>
+                <nadruk type="cur">zeegebied
+A1:</nadruk> een gebied binnen het VHF
+radiotelefonie bereik van ten minste een kuststation of kustwachtpost
+waarin een ononderbroken DSC-alarmering beschikbaar
+is;</al>
+            </li>
+            <li>
+              <li.nr>y.</li.nr>
+              <al>
+                <nadruk type="cur">zeegebied
+A2:</nadruk> een gebied, met uitzondering
+van het zeegebied A1, binnen het MF radiotelefonie bereik van ten
+minste een kuststation of kustwachtpost, waarin ononderbroken
+DSC-alarmering beschikbaar is;</al>
+            </li>
+            <li>
+              <li.nr>z.</li.nr>
+              <al>
+                <nadruk type="cur">zeegebied
+A3:</nadruk> een gebied, met uitzondering
+van de zeegebieden A1 en A2, binnen het bereik van een geostationaire
+INMARSAT-satelliet waarin ononderbroken alarmering beschikbaar
+is;</al>
+            </li>
+            <li>
+              <li.nr>aa.</li.nr>
+              <al>
+                <nadruk type="cur">zeegebied
+A4:</nadruk> een gebied liggende buiten de
+zeegebieden A1, A2 en
+A3.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1a</nr>
+          </kop>
+          <al>Dit besluit berust op de <extref status="actief" doc="1.0:v:BWBR0028469&amp;artikel=13" compleet="nee">artikelen 13 tot en met
+16</extref>, <extref status="actief" doc="1.0:v:BWBR0028469&amp;artikel=19" compleet="nee">19</extref>, <extref status="actief" doc="1.0:v:BWBR0028469&amp;artikel=31" compleet="nee">31</extref> en <extref status="actief" doc="1.0:v:BWBR0028469&amp;artikel=33" compleet="nee">33 van de Wet telecommunicatievoorzieningen
+BES</extref>.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Algemene
+bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <al>Ter zake van telecommunicatievoorzieningen ten
+behoeve van de scheepvaart gelden, onverminderd de regels gesteld bij
+en krachtens artikel 101 van het <extref status="actief" doc="1.0:v:BWBR0016880" compleet="nee">Schepenbesluit 2004</extref>, bij en krachtens
+het <extref status="actief" doc="1.0:v:BWBR0013342" compleet="nee">Vissersvaartuigenbesluit 2002</extref> voor zover betrekking hebbende op
+maritieme radiocommunicatie alsmede, tenzij anders bepaald, gesteld bij
+en krachtens het <extref status="actief" doc="1.0:v:BWBR0028621" compleet="nee">Besluit radio-elektrische inrichtingen BES</extref>, de
+navolgende bepalingen.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+geldigheidsduur van machtigingen voor de in dit besluit bedoelde
+radio-elektrische zend- en ontvanginrichtingen bedraagt 5
+jaren.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In
+afwijking van het bepaalde in het eerste lid kan in geval van een
+registratie van een schip in een openbaar lichaam, na overlegging van
+een lijst met gegevens inzake het schip en de aan boord van dat schip
+aanwezige apparatuur, door Onze Minister een voorlopige machtiging
+worden afgegeven voor de duur van de reis naar het land waar de
+registratie zal geschieden of voor ten hoogste
+3&#xA0;maanden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>In
+afwijking van het bepaalde in het eerste lid, kan door Onze Minister
+een voorlopige machtiging worden afgegeven voor de duur van de reis in
+het geval het schip tijdelijk wenst te varen buiten het zeegebied
+waarvoor het beschikt over een machtiging overeenkomstig het eerste
+lid. Een zodanige machtiging dient te worden aangevraagd v&#xF3;&#xF3;r
+het tijdstip van aanvang van de desbetreffende reis.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Onverminderd
+het bepaalde in <extref status="actief" doc="1.0:v:BWBR0028469&amp;artikel=15" compleet="nee">artikel 15, achtste lid, van de wet</extref> wordt een
+machtiging v&#xF3;&#xF3;r de afloop van de in het eerste lid bedoelde
+geldigheidsduur ingetrokken
+indien:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de
+zend- en ontvanginrichting is verwijderd of het schip waarop de zend-
+en ontvanginrichting zich bevindt uit de vaart is
+genomen;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de zend- en
+ontvanginrichting of het schip waarop de zend- en ontvanginrichting
+zich bevindt in andere handen is overgegaan; dan
+wel</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de zeebrief van
+het desbetreffende schip ingevolge de artikelen 22 en 23 van het
+Zeebrievenbesluit van Cura&#xE7;ao en Sint Maarten is vervallen
+onderscheidenlijk ingetrokken.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Bij de
+machtiging of de voorlopige machtiging wordt een bijlage gevoegd waarop
+de apparatuur is vermeld waarvoor het
+geldt.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+bediening van de in dit besluit bedoelde zend- en ontvanginrichtingen
+door anderen dan de houder van een eerste klasse radio elektronisch
+certificaat of een tweede klasse radio elektronisch certificaat dan wel
+een algemeen certificaat maritieme radiocommunicatie als bedoeld in
+onderscheidenlijk de artikelen 3890B, 3890C en 3890D van het
+radioreglement, is, behoudens in de gevallen waarin is aangegeven dat
+de bediening ook mag geschieden door de houder van een beperkt
+certificaat maritieme radiocommunicatie als bedoeld in artikel 3890E
+van het radioreglement of de houder van een certificaat VHF marifonie
+als bedoeld in de artikelen 3887 of 3945 van het radioreglement of een
+ander al dan niet onder toezicht van een certificaathouder,
+verboden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Ten
+bewijze dat de houder van een der in het eerste lid bedoelde
+certificaten bevoegd is tot het bedienen van de in dat certificaat
+bedoelde zendinrichting, dient de houder steeds desgevraagd dit
+certificaat aan te kunnen
+tonen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Zodra een
+zend- of ontvanginrichting als bedoeld in <intref status="actief" doc="1.0:v:BWBR0028399&amp;artikel=3">artikel 3, eerste lid</intref>, voor
+gebruik gereed is, stelt de machtiginghouder Onze Minister daarvan in
+kennis ten einde de keuring, bedoeld in <extref status="actief" doc="1.0:v:BWBR0028621&amp;artikel=38" compleet="nee">artikel 38, eerste lid</extref>,
+onderscheidenlijk <extref status="actief" doc="1.0:v:BWBR0028621&amp;artikel=69" compleet="nee">69, eerste lid, van het Besluit radio-elektrische
+inrichtingen BES</extref>, te kunnen doen plaatsvinden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het
+bewijs van goedkeuring, bedoeld in de in het eerste lid genoemde
+artikelleden van het <extref status="actief" doc="1.0:v:BWBR0028621" compleet="nee">Besluit radio-elektrische inrichtingen BES</extref>, wordt
+onverwijld na de afgifte daarvan in afschrift gezonden aan de Inspectie
+Verkeer en Waterstaat.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>In
+afwijking van <extref status="actief" doc="1.0:v:BWBR0028621&amp;artikel=38" compleet="nee">artikel 38, tweede lid</extref>, onderscheidenlijk <extref status="actief" doc="1.0:v:BWBR0028621&amp;artikel=69" compleet="nee">69, tweede lid,
+van het Besluit radio-elektrische inrichtingen BES</extref> kan de aldaar
+bedoelde keuring op schepen die niet vanuit een haven van een openbaar
+lichaam werkzaam zijn, worden verricht door instanties die daarvoor
+door Onze Minister zijn erkend.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In een in
+het eerste lid bedoeld geval mag de zend- en ontvanginrichting in
+gebruik worden genomen indien de certificaten, bedoeld in <extref status="actief" doc="1.0:v:BWBR0001876&amp;artikel=3" compleet="nee">artikel 3 van
+de Schepenwet</extref>, zijn afgegeven.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Zo
+spoedig mogelijk na kennisgeving van de verlening van de in het tweede
+lid bedoelde certificaten door de overlegging van een kopie van deze
+certificaten aan Onze Minister, wordt het in <extref status="actief" doc="1.0:v:BWBR0028621&amp;artikel=38" compleet="nee">artikel 38, eerste lid</extref>,
+onderscheidenlijk <extref status="actief" doc="1.0:v:BWBR0028621&amp;artikel=69" compleet="nee">artikel 69, eerste lid</extref>, bedoelde bewijs van
+goedkeuring afgegeven.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+zendinrichting van jachten en andere vaartuigen waarop het
+<extref status="actief" doc="1.0:v:BWBR0016880" compleet="nee">Schepenbesluit 2004</extref> of het <extref status="actief" doc="1.0:v:BWBR0013342" compleet="nee">Vissersvaartuigenbesluit 2002</extref> niet van
+toepassing zijn en die varen in het zeegebied A1, binnen het bereik van
+een VHF kuststation en die belast zijn met reddingswerkzaamheden op
+zee, vaartuigen die passagiers of vracht vervoeren en vaartuigen die
+buitengaats hun werkzaamheden verrichten zijn uitgerust overeenkomstig
+de eisen gesteld in artikel 10 van Bijlage V behorende bij het
+Schepenbesluit 2004.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Vaartuigen
+en vissersboten waarop het <extref status="actief" doc="1.0:v:BWBR0013342" compleet="nee">Vissersvaartuigenbesluit 2002</extref> niet van
+toepassing is noch het tweede lid, en die uitsluitend in het zeegebied
+A1 hun werkzaamheden verrichten dienen uitgerust te zijn met een VHF
+installatie.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De
+zendinrichtingen van jachten en andere vaartuigen waarop het
+<extref status="actief" doc="1.0:v:BWBR0016880" compleet="nee">Schepenbesluit 2004</extref> of het <extref status="actief" doc="1.0:v:BWBR0013342" compleet="nee">Vissersvaartuigenbesluit 2002</extref> niet van
+toepassing is, die varen in zeegebied A1 en A2, binnen het bereik van
+een MF kuststation en die belast zijn met reddingswerkzaamheden op zee,
+vaartuigen die passagiers of vracht vervoeren, dienen uitgerust te zijn
+overeenkomstig artikel 11 van Bijlage V behorende bij het
+Schepenbesluit 2004 of de op maritieme radiocommunicatie betrekking
+hebbende voorschriften van het Vissersvaartuigenbesluit
+2002.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De
+kapitein of de eigenaar van een vaartuig is verplicht bij het daarvoor
+in aanmerking komende havenkantoor melding te doen van ieder vertrek
+buitengaats en iedere aankomst vanuit zee. Gedurende de vaart behoort
+het vaartuig enkele keren per dag verbinding te onderhouden met het
+daarvoor in aanmerking komende kuststation of indien het jachten
+betreft met de daarvoor in aanmerking komende
+jachthaven.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Alvorens
+te gaan zenden overtuigt de machtiginghouder zich ervan dat de
+radiocommunicatie van medegebruikers van de betreffende frequentie niet
+zal worden gehinderd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een
+zendinrichting mag niet onnodig zijn ingeschakeld. Berichten worden zo
+kort mogelijk gehouden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Aan
+uitzendingen met betrekking tot noodgevallen wordt voorrang verleend
+boven andere uitzendingen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Indien
+een zendinrichting wordt gebruikt ten behoeve van het nood-, spoed- en
+veiligheidsverkeer worden voor de afwikkeling van dat radioverkeer de
+procedures &#x2013; voor zover van toepassing &#x2013; in acht genomen
+die zijn beschreven in de hoofdstukken IX en IX N van het
+radioreglement.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het
+handboek waarin deze procedures zijn opgenomen, dient bij de
+zendinrichting aanwezig te
+zijn.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Bij het
+begin en bij het einde van elke uitzending dient de machtiginghouder de
+internationaal vastgestelde roepletters dan wel identificatiecode ten
+minste eenmaal uit te zenden. Is de uitzending opgebouwd uit
+kortdurende uitzendingen dan wordt deze reeks kortdurende uitzendingen
+aangemerkt als &#xE9;&#xE9;n uitzending.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Bij het
+spellen van de roepletters of identificatiecode wordt gebruik gemaakt
+van het volgende
+spellingsalfabet:</al>
+            <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml2">
+              <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml2">
+                <colspec colname="col1" colnum="1" colwidth="141*"/>
+                <colspec colname="col2" colnum="2" colwidth="141*"/>
+                <colspec colname="col3" colnum="3" colwidth="141*"/>
+                <thead valign="bottom">
+                  <row rowsep="1">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Letter</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Radiotelefonie</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Radiotelegrafie</al>
+                    </entry>
+                  </row>
+                </thead>
+                <tbody valign="top">
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>A</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Alfa
+(Al-fa)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>.-</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>B</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Bravo
+(Bra-vo)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>-...</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>C</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Charlie
+(Tj/Sjar-lie)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>-.-.</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>D</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Delta
+(Del-tah)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>-..</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>E</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Echo
+(Ek-ko)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>.</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>F</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Foxtrot
+(Foks-trot)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>..-.</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>G</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Golf
+(Golf)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>--.</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>H</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Hotel
+(Ho-tel)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>....</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>I</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>India
+(In-di-ah)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>..</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>J</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Juliett
+(Djoe-li-et)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>.---</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>K</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Kilo
+(Kie-lo)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>-.-</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>L</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Lima
+(Lie-mah)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>.-..</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>M</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Mike
+(Maik)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>--</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>N</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>November
+(No-vem-ber)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>-.</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>O</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Oscar
+(Os-kar)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>---</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>P</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Papa
+(Pah-pah)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>.--.</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Q</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Quebec
+(Kwie-bek)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>--.-</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>R</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Romeo
+(Ro-mi-o)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>.-.</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>S</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Sierra
+(Sie-er-rah)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>...</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>T</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Tango
+(Tang-go)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>-</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>U</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Uniform
+(Joe-ni-form)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>..-</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>V</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Victor
+(Vik-tor)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>...-</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>W</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Whiskey
+(Wis-kie)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>.--</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>X</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>X-ray
+(Eks-ree)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>-..-</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Y</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Yankee
+(Jeng-kee)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>-.--</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Z</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Zulu
+(Zoe-loe)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>--..</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Komma</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Decimal
+(Dee-sie-maal)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>--..-</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Punt</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Stop
+(Stop)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>.-.-.-</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Dubbelepunt</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>[:]</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>---...</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Vraagteken</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>[?]</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>..--..</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Apostrophe</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>[']</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>.---.</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Scheidingsteken</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>[-]</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>-....-</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Deelteken</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>[:
+of
+/]</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>-..-.</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Linker-haak</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>[(]</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>-.--.</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Rechter-haak</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>[)]</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>-.--.-</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Aanhalingstekens</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>["
+"]</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>.-..-.</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Is-gelijk-teken</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>[=]</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>-...-</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Optelteken</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>[+]</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>.-.-.</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Vermenigvuldigteken</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>[x]</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>-..-</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Begrepen</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>...-.</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Foutteken
+(acht punten of
+meer)</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>........</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Uitnodiging
+om te
+zenden</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>-.-</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Startsignaal(bij
+begin elke
+uitzending)</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>-.-.-</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Wachtteken</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>.-...</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Eindeteken</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>...-.-</al>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Indien
+in een identificatiecode cijfers zijn opgenomen, wordt gebruik gemaakt
+van de volgende cijfer
+aanduidingen:</al>
+            <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml2">
+              <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml2">
+                <colspec colname="col1" colnum="1" colwidth="141*"/>
+                <colspec colname="col2" colnum="2" colwidth="141*"/>
+                <colspec colname="col3" colnum="3" colwidth="141*"/>
+                <thead valign="bottom">
+                  <row rowsep="1">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Cijfer</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Radiotelefonie</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Radiotelegrafie</al>
+                    </entry>
+                  </row>
+                </thead>
+                <tbody valign="top">
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>0</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Nadazero
+(Nah-dah-zi-roh)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>-----</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>1</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Unaone
+(Oe-nah-wun)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>.----</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>2</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Bissotwo
+(Bies-soh-toh)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>..---</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>3</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Terrathree
+(Ter-rah-trie)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>...--</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>4</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Kartefour
+(Kar-tee-for)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>....-</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>5</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Pantafive
+(Pan-tah-faiv)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>.....</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>6</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Soxisix
+(Sok-sie-siks)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>----.</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>7</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Setteseven
+(Set-tee-sevun)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>---..</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>8</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Oktoeight
+(Okt-too-eejt)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>--...</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>9</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Novenine
+(No-vee-nain)</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>-....</al>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+machtiginghouder mag een zendinrichting gedurende korte tijd testen en
+neemt daarbij de internationale voorschriften in acht.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Tijdens
+het testen van de zendinrichting dient het woord &#xAB;test&#xBB; te
+worden uitgesproken, gevolgd door de roepletters. Bij het spellen wordt
+gebruik gemaakt van het in <intref status="actief" doc="1.0:v:BWBR0028399&amp;artikel=10">artikel 10, tweede lid</intref>, opgenomen
+spellingsalfabet.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">12</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+machtiginghouder is bevoegd de zend- en ontvanginrichting te gebruiken
+ten dienste van de veiligheid van de scheepvaart dan wel ten dienste
+van het al dan niet openbaar verkeer.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Voor de
+afwikkeling van het radio maritieme verkeer of openbaar
+berichtenverkeer dienen de procedures in acht genomen te worden zoals
+aangegeven in <intref status="actief" doc="1.0:v:BWBR0028399&amp;bijlage=1">bijlage 1</intref> behorende bij dit besluit.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De
+machtiginghouder is
+bevoegd:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>radiotelegrammen
+te wisselen met de voor het openbaar radioverkeer bestemde stations,
+alsook met de niet voor het openbaar verkeer bestemde stations, voor
+zover hieruit geen belemmering voor het openbaar radioverkeer ontstaat.
+Beide bevoegdheden zijn gegeven behoudens de bijzondere bepalingen
+welke voor enige dezer stations mochten
+gelden;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>telefoongesprekken
+te voeren door tussenkomst van de voor het openbaar radioverkeer
+bestemde stations met telefonische aansluitingen op de
+telecommunicatie-infrastructuur, alsook met de niet voor het openbaar
+verkeer bestemde stations, een en ander onder dezelfde voorwaarden als
+in onderdeel a
+genoemd.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Overige
+verplichtingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">13</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+machtiginghouder is verplicht Onze Minister onverwijld schriftelijk in
+kennis te stellen
+van:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>elke
+wijziging in of vervanging van een zend- en ontvanginrichting;
+en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>elke verandering
+van het correspondentie-adres.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Zodra een
+zend- of ontvanginrichting wordt verwijderd of een schip waarop een
+zend- of ontvanginrichting aanwezig is, uit de vaart wordt genomen dan
+wel de zend- of ontvanginrichting of het schip waarop een zodanig
+inrichting aanwezig is, in andere handen overgaat, is de
+machtiginghouder respectievelijk de eigenaar van het schip verplicht
+Onze Minister daarvan onverwijld in kennis te stellen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Bij
+wijziging of vervanging als bedoeld in het eerste lid, onderdeel a,
+ontvangt de machtiginghouder, tegen betaling van een door Onze Minister
+te bepalen vergoeding, een nieuwe bijlage. Deze bijlage treedt in de
+plaats van de bijlage, bedoeld in <intref status="actief" doc="1.0:v:BWBR0028399&amp;artikel=3">artikel 3, zesde lid</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De
+machtiginghouder is verplicht zo spoedig mogelijk na ontvangst van de
+nieuwe bijlage de oude bijlage te zenden aan Onze Minister.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Ten
+aanzien van wijzigingen en vervangingen als bedoeld in het eerste lid,
+onderdeel a, zijn de <intref status="actief" doc="1.0:v:BWBR0028399&amp;artikel=5">artikelen 5</intref> en <intref status="actief" doc="1.0:v:BWBR0028399&amp;artikel=6">6</intref> van overeenkomstige
+toepassing.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">14</nr>
+          </kop>
+          <al>De machtiginghouder onderscheidenlijk de
+gezagvoerder van een schip is verplicht het geheim te bewaren van alle
+berichten welke door middel van de inrichting te zijner kennis komen,
+voor zover niet voor hem of een der opvarenden
+bestemd.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Bijzondere
+voorschriften</titel>
+        </kop>
+        <sub-paragraaf status="goed">
+          <kop>
+            <nr status="officieel">I</nr>
+            <titel status="officieel">Maritieme
+VHF- en UHF-radiocommunicatie</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">15</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+machtiginghouder is gehouden de marifoonkanalen te gebruiken
+overeenkomstig de in <intref status="actief" doc="1.0:v:BWBR0028399&amp;bijlage=2">bijlage 2</intref> behorend bij dit besluit gegeven
+bestemming.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Indien de
+machtiginghouder toestemming is verleend de marifoon te gebruiken op
+andere marifoonkanalen dan die welke zijn genoemd in <intref status="actief" doc="1.0:v:BWBR0028399&amp;bijlage=2">bijlage 2</intref> bij dit
+besluit mag de machtiginghouder deze kanalen uitsluitend gebruiken voor
+radiocommunicatie met gebruikers van marifonen die bevoegd zijn met de
+machtiginghouder op deze kanalen radioverbindingen te maken.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Elk ander
+gebruik van de marifoonkanalen dan ten behoeve van de communicatie met
+en tussen schepen is verboden.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>De
+marifoon wordt bediend door een certificaathouder.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>Het
+vermogen van de marifoon bedraagt ten hoogste 25 watt.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">6</lidnr>
+              <al>De
+uitvoering van de marifoon moet zodanig zijn dat het vermogen verlaagd
+kan worden tot 1&#xA0;watt.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">16</nr>
+            </kop>
+            <al>De machtiginghouder mag de marifoon tijdelijk
+aanwezig hebben op een andere plaats dan in de beschikking staat
+aangegeven, mits de machtiginghouder passende maatregelen treft ter
+voorkoming van het gebruik van de
+marifoon.</al>
+          </artikel>
+        </sub-paragraaf>
+        <sub-paragraaf status="goed">
+          <kop>
+            <nr status="officieel">II</nr>
+            <titel status="officieel">Draagbare
+maritieme
+VHF-radiocommunicatie-apparatuur</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">17</nr>
+            </kop>
+            <al>Een portofoon mag alleen worden gebruikt voor
+uitwisseling van nautische informatie met en tussen
+schepen.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">18</nr>
+            </kop>
+            <al>De bediening van een portofoon mag ook geschieden
+door de houder van een beperkt certificaat maritieme radiocommunicatie
+of een certificaat VHF
+marifonie.</al>
+          </artikel>
+        </sub-paragraaf>
+        <sub-paragraaf status="goed">
+          <kop>
+            <nr status="officieel">III</nr>
+            <titel status="officieel">Maritieme
+MF- en HF-radiocommunicatie</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">19</nr>
+            </kop>
+            <al>Alle uitzendingen van een scheepsstation worden
+onmiddellijk gestaakt zodra een kuststation of een kustwachtpost dit
+verzoekt.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">20</nr>
+            </kop>
+            <al>De machtiginghouder mag uitsluitend gebruik maken
+van de kanalen, de frequenties, het zendvermogen en klasse van
+uitzending zoals staat aangegeven op het bewijs van
+goedkeuring.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">21</nr>
+            </kop>
+            <al>Het is, behoudens in door Onze Minister te bepalen
+gevallen, verboden een scheepsstation te gebruiken buiten de toegestane
+frequenties die zijn aangegeven in de bij dit besluit behorende <intref status="actief" doc="1.0:v:BWBR0028399&amp;bijlage=2">bijlage
+2</intref>, alsmede indien het scheepsstation storing
+veroorzaakt.</al>
+          </artikel>
+        </sub-paragraaf>
+        <sub-paragraaf status="goed">
+          <kop>
+            <nr status="officieel">IV</nr>
+            <titel status="officieel">Kuststation
+en beperkt kuststation</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">22</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+machtiginghouder mag een kuststation of beperkt kuststation uitsluitend
+gebruiken voor radiocommunicatie met opvarenden van schepen binnen het
+op de machtiging aangegeven werkingsgebied, dan wel voor
+radiocommunicatie met opvarenden van schepen toebehorend aan of varend
+in opdracht van de machtiginghouder.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De
+machtiginghouder is mede bevoegd radioverbindingen tot stand te brengen
+met opvarenden van schepen
+voor:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>het
+aannemen en bevestigen van bestellingen inzake de bevoorrading van
+schepen;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>algemeen
+gespreksverkeer.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Het is
+verboden radioverbindingen tot stand te brengen tussen (beperkte)
+kuststations met de daarbij behorende ontvanginrichtingen behoudens
+ontheffing van Onze Minister.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Elk ander
+gebruik van de kuststations is
+verboden.</al>
+            </lid>
+          </artikel>
+        </sub-paragraaf>
+        <sub-paragraaf status="goed">
+          <kop>
+            <nr status="officieel">V</nr>
+            <titel status="officieel">Scheepssatellietstations</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">23</nr>
+            </kop>
+            <al>De machtiginghouder is uitsluitend bevoegd het
+scheepssatellietstation te gebruiken voor nood-, spoed- en
+veiligheidsverkeer en algemeen communicatieverkeer door middel van een
+satellietsysteem.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">24</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Voor
+zover de afwikkeling van het berichtenverkeer geschiedt door middel van
+een satellietsysteem, worden de door de organisatie die het
+satellietsysteem beheert voorgeschreven procedures in acht
+genomen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De
+voorgeschreven procedures worden als bijlage bij de machtiging
+verstrekt.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">25</nr>
+            </kop>
+            <al>Behoudens voor zover het scheepssatellietstation
+wordt gebruikt voor nood-, spoed- en veiligheidsverkeer, mag de
+bediening ervan ook geschieden door degenen die niet in het bezit zijn
+van een algemeen certificaat maritieme
+radiocommunicatie.</al>
+          </artikel>
+        </sub-paragraaf>
+        <sub-paragraaf status="goed">
+          <kop>
+            <nr status="officieel">VI</nr>
+            <titel status="officieel">Zend- en
+ontvanginrichtingen ten behoeve van het nautisch
+onderwijs</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">26</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+machtiginghouder mag een zendinrichting uitsluitend gebruiken ten
+behoeve van het verkrijgen van praktische ervaring met het tot stand
+brengen van radioverbindingen door cursisten.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Het is de
+machtiginghouder verboden andere radioverbindingen tot stand te brengen
+dan met gebruikers van zendinrichtingen van andere nautische
+onderwijsinstellingen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>In
+afwijking van het bepaalde in het tweede lid is radiocommunicatie met
+een kuststation, een beperkt kuststation of enig ander maritiem station
+geoorloofd met toestemming van dat
+station.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">27</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+machtiginghouder is slechts bevoegd de zendinrichting te
+gebruiken op de maritieme frequenties, genoemd in het
+radioreglement ten behoeve van UHF-, VHF-, MF- en HF- radiocommunicatie
+met inbegrip van DSC en DPT.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De
+machtiginghouder mag de zendinrichting slechts doen gebruiken door
+daartoe door hem aangewezen docenten die in het bezit zijn van een
+geldig algemeen certificaat voor maritieme radiocommunicatie als
+bedoeld in artikel 55 van het radioreglement. Mits onder toezicht van
+deze docenten, mogen de zendinrichtingen tevens door cursisten worden
+gebruikt.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">28</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Gebruik
+van een zendinrichting buiten de lesuren is verboden.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De
+machtiginghouder dient passende maatregelen te treffen ter voorkoming
+van onbevoegd gebruik van de
+zendinrichting.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">29</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De MF/HF
+zendinrichting dient zodanig te zijn ingericht
+dat:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>het
+hoogfrequent uitgangsvermogen de volgende waarden niet mag
+overschrijden:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                      <li.nr>1&#xB0;.</li.nr>
+                      <al>enkelzijband
+telefonie: 100
+Watt;</al>
+                    </li>
+                    <li>
+                      <li.nr>2&#xB0;.</li.nr>
+                      <al>telegrafie/telex/DSC/DPT:
+100
+Watt.</al>
+                    </li>
+                  </lijst>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de
+uitzending van het telefonie-alarm is geblokkeerd en uitsluitend in de
+audio-test-mode mag
+plaatsvinden;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de
+uitzending van DSC-berichten, anders dan in de categorie
+&#xAB;routine&#xBB; niet mogelijk is.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Het
+zender-uitgangsvermogen dient te worden gereduceerd tot het minimum
+vermogen noodzakelijk voor de totstandkoming en instandhouding van de
+gewenste
+verbinding.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Het
+zendvermogen voor zenders werkende in de VHF marifonie band werkende in
+de frequenties zoals genoemd in <intref status="actief" doc="1.0:v:BWBR0028399&amp;bijlage=2">bijlage 2</intref> bedraagt ten hoogste
+25&#xA0;watt.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>De
+in het derde lid bedoelde zenders dienen zodanig uitgevoerd te zijn dat
+het uitgangsvermogen verlaagd kan worden tot 1
+watt.</al>
+            </lid>
+          </artikel>
+        </sub-paragraaf>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Examens</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">30</nr>
+          </kop>
+          <al>Ter verkrijging van een algemeen certificaat
+maritieme radiocommunicatie, beperkt certificaat maritieme
+radiocommunicatie of een certificaat VHF marifonie, voor de bediening
+van zendinrichtingen ten behoeve van de scheepvaart, kan Onze Minister
+categorie&#xEB;n van examens vaststellen naargelang de aard van de
+bevoegdheden die aan het desbetreffende certificaat van bediening
+zullen zijn verbonden. Examens voor de eerste en tweede klasse radio
+elektronische certificaten als bedoeld in onderscheidenlijk de
+artikelen 3890 B en 3890 C van het radioreglement worden niet in een
+openbaar lichaam afgenomen.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">31</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een
+examen wordt afgenomen door een bij besluit in te stellen
+commissie.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een in
+het eerste lid bedoeld examen kan bestaan uit een onderzoek naar
+radio-technische kennis, vaardigheid met betrekking tot het gebruik van
+de zendinrichting, kennis van de bij of krachtens dit besluit gegevens
+regels en van de aan de machtiging verbonden voorschriften alsmede uit
+een onderzoek naar specifieke kennis ten behoeve van de maritieme
+radiocommunicatie, waaronder het GMDSS.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Door of
+vanwege Onze Minister kan aan daartoe in aanmerking komende personen
+geheel of gedeeltelijk ontheffing van het examen worden verleend indien
+op een andere door Onze Minister te bepalen wijze aan de exameneisen is
+voldaan.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Onze
+Minister kan nadere regels vaststellen met betrekking tot de aan te
+wijzen instanties als bedoeld in het eerste lid, de exameneisen en de
+wijze waarop het examen wordt afgelegd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Het
+examen wordt afgenomen in de Nederlandse taal. Desgewenst kan het
+examen in de Engelse- of Papiamentse taal worden afgenomen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>De
+vergoedingen met betrekking tot de toelating tot een examen dan wel een
+onderdeel daarvan alsmede met betrekking tot een geheel of
+gedeeltelijke ontheffing van het examen bedoeld in <extref status="actief" doc="1.0:v:BWBR0028469&amp;artikel=31" compleet="nee">artikel 31,
+onderdeel a, van de wet</extref>, dienen voorafgaande aan het examen
+respectievelijk de ontheffing te worden voldaan.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>Alvorens
+het certificaat in ontvangst te nemen legt de houder in handen van Onze
+Minister of de voorzitter van de examencommissie de eed of gelofte van
+geheimhouding af, die is opgenomen in de bij dit besluit behorende
+<intref status="actief" doc="1.0:v:BWBR0028399&amp;bijlage=3">bijlage 3</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">8</lidnr>
+            <al>Het
+certificaat geeft aan tot welke zendinrichting de houder bevoegd is.
+Het model voor dit certificaat wordt vastgesteld door Onze
+Minister.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Strafbepaling</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">32</nr>
+          </kop>
+          <al>Het is een strafbaar feit als bedoeld in <extref status="actief" doc="1.0:v:BWBR0028469&amp;artikel=35" compleet="nee">artikel
+35, vierde lid, van de wet</extref> om een verbod als omschreven in de <intref status="actief" doc="1.0:v:BWBR0028399&amp;artikel=4">artikelen
+4</intref>, <intref status="actief" doc="1.0:v:BWBR0028399&amp;artikel=15">15, derde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0028399&amp;artikel=21">21</intref>, <intref status="actief" doc="1.0:v:BWBR0028399&amp;artikel=22">22, derde en vierde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0028399&amp;artikel=26">26, tweede lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0028399&amp;artikel=28">28,
+eerste lid</intref>, te
+overtreden.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">9</nr>
+          <titel status="officieel">Overgangs-
+en slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">33</nr>
+          </kop>
+          <al>De geldigheidsduur van een machtiging die is
+verleend krachtens <extref status="actief" doc="1.0:v:BWBR0028469&amp;artikel=15" compleet="nee">artikel 15, eerste lid, van de Wet
+telecommunicatievoorzieningen BES</extref> en die bestemd is voor maritieme
+communicatie bedraagt vijf jaar gerekend van af het tijdstip van
+vergunning verlening.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">34</nr>
+          </kop>
+          <al>Een erkenning die is verleend krachtens artikel 6,
+eerste lid, van het Landsbesluit telecommunicatie scheepvaart wordt
+gelijkgesteld met een erkenning verleend krachtens <intref status="actief" doc="1.0:v:BWBR0028399&amp;artikel=6">artikel 6, eerste
+lid</intref>.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">34a</nr>
+          </kop>
+          <al>Een ontheffing die is verleend krachtens artikel
+31, derde lid, van het Landsbesluit telecommunicatie scheepvaart wordt
+gelijkgesteld met een ontheffing verleend krachtens <intref status="actief" doc="1.0:v:BWBR0028399&amp;artikel=31">artikel 31, derde
+lid</intref>.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">35</nr>
+          </kop>
+          <al>Dit besluit wordt aangehaald als: Besluit
+telecommunicatie scheepvaart
+BES.</al>
+        </artikel>
+      </paragraaf>
+    </wettekst>
+    
+  <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">1</nr><titel status="officieel">behorende bij het Besluit telecommunicatie scheepvaart
+BES</titel>
+      </kop>
+      <divisie opmaak="default">
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Radiotelefonie</titel>
+        </kop>
+        <al>Aanroepprocedure radio maritiem verkeer/openbaar
+verkeer(*1):</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>de roepnaam of andere
+identificatie van het op te roepen station (maximaal 3x)</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>this is (of Delta
+Echo)</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>de
+roepnaam of andere identificatie van het roepende station (maximaal
+3x)</al>
+          </li>
+        </lijst>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Radiotelegrafie</titel>
+        </kop>
+        <al>Aanroepprocedure nautisch
+verkeer/openbaar
+verkeer(*1):</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>de
+roepnaam van het op te roepen station (maximaal
+3x)</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>het woord
+DE</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>de roepnaam
+van het roepende station (maximaal
+3x)</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>de letter
+K</al>
+          </li>
+        </lijst>
+        <al>Bovenstaande aanroep mag
+tweemaal gezonden worden met een tussenruimte van minimaal een minuut.
+De aanroep mag daarna niet binnen drie minuten worden
+herhaald.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Nood-,
+spoed- en veiligheidsverkeer</titel>
+        </kop>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Noodverkeer</titel>
+          </kop>
+          <al>Algemeen:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>De
+noodoproep heeft absolute voorrang boven alle andere
+uitzendingen.</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>Alle
+stations die een noodoproep ontvangen dienen onmiddellijk alle
+uitzendingen te staken welke het noodverkeer kunnen hinderen en te
+luisteren op de frequentie waarop de noodoproep werd
+uitgezonden.</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>Re&#xE7;u
+zal niet worden gegeven voordat het noodbericht dat volgt is
+uitgezonden.</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>Alleen
+de gezagvoerder is bevoegd bevel te geven tot het gebruik van de
+noodoproep en het noodbericht.</al>
+            </li>
+          </lijst>
+          <al>Noodseinen:</al>
+          <al>In het radio
+maritiem verkeer wordt van de volgende noodsein gebruik
+gemaakt:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>radiotelefonie:
+M A Y D A Y (3x), uitgesproken in het frans als
+M&#x2019;AIDER.</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>radiotelegrafie:
+S O
+S</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>radiotelex:
+geen noodsein voor
+alerting.</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>DSC:
+&#xAB;Distress&#xBB; optie selecteren.</al>
+            </li>
+          </lijst>
+          <al>INMARSAT
+terminal:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>telex:
+SOS</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>telefoon:
+M A Y D A Y</al>
+            </li>
+          </lijst>
+          <al>Dit geeft aan dat
+een schip, luchtvaartuig of ander middel van vervoer in ernstig en
+dreigend gevaar verkeert en onmiddellijk hulp nodig heeft.</al>
+          <al>De radiotelefonie noodprocedure bestaat
+uit:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>het
+alarmsein (wanneer
+mogelijk)</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de
+noodoproep</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>het
+noodbericht</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>het
+noodverkeer</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>einde
+noodverkeer</al>
+            </li>
+          </lijst>
+          <al>De radiotelegrafie
+noodprocedure bestaat
+uit:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>het
+alarmsein</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de
+noodoproep (indien mogelijk gevolgd door twee minuten tussenruimte,
+waarna nogmaals de noodoproep
+volgt)</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>het
+noodbericht</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>twee
+peilstrepen van tien tot vijftien seconden
+elk</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de
+roepnaam van het in nood verkerende station</al>
+            </li>
+          </lijst>
+          <al>Alarmsein:</al>
+          <al>Het alarmsein
+bestaat uit twee, elkaar voortdurend afwisselende audio frequente tonen
+van 1300 en 2200 Hz. Het alarmsein wordt minimaal 30 seconden tot
+maximaal 1 miniuut uitgezonden.</al>
+          <al>Noodoproep
+(radiotelefonie):</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>M
+A Y D A Y
+(3x)</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>this is
+(of Delta
+Echo)</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>roepnaam
+of andere identificatie van het station (3x)</al>
+            </li>
+          </lijst>
+          <al>Noodoproep
+(radiotelegrafie):</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>S
+O S (3x)</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>D
+E</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>roepnaam van
+het station (3x)</al>
+            </li>
+          </lijst>
+          <al>Noodbericht
+(radiotelefonie):</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>M
+A Y D A Y</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de
+naam of andere identificatie van het in nood verkerende
+station</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>positie</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>aard
+ongeval en aard gevraagde
+hulp</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>overige
+mededelingen die de hulpverlening kunnen bespoedigen</al>
+            </li>
+          </lijst>
+          <al>Noodbericht
+(radiotelegrafie):</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>S
+O S</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de naam of
+andere identificatie van het in nood verkerende
+station</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>positie</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>aard
+van het ongeluk en aard van de gevraagde
+hulp</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>overige
+mededelingen die de hulpverlening kunnen bespoedigen</al>
+            </li>
+          </lijst>
+          <al>Bevestiging van ontvangst
+(re&#xE7;u)</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>Schepen
+die een noodbericht ontvangen van een ander station dat zich in de
+nabijheid bevindt, moeten onmiddellijk re&#xE7;u
+geven.</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>In
+gebieden waar betrouwbare verbindingen met &#xE9;&#xE9;n of meerdere
+kuststations mogelijk zijn, zullen schepen enige tijd moeten wachten
+teneinde een kuststation eerst in de gelegenheid te stellen re&#xE7;u
+te geven.</al>
+            </li>
+          </lijst>
+          <al>Re&#xE7;u
+(radiotelefonie):</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>M
+A Y D A Y</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de
+roepnaam of andere identificatie van het station dat het noodbericht
+uitzond
+(3x)</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>this is
+(of Delta
+Echo)</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de
+roepnaam of andere identificatie van het station dat het re&#xE7;u
+geeft
+(3x)</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>received
+(of Romeo Romeo
+Romeo)</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>M A Y D
+A Y</al>
+            </li>
+          </lijst>
+          <al>Re&#xE7;u
+(radiotelegrafie):</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>S
+O S</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de
+roepnaam van het station dat het noodbericht uitzond
+(3x)</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>D
+E</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de roepnaam
+van het station dat het recu geeft
+(3x)</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>R R
+R</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>S O
+S</al>
+            </li>
+          </lijst>
+          <al>Aanvullend
+re&#xE7;u:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>naam
+van het
+schip</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>positie</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>snelheid
+waarmee het zich naar het in nood verkerend schip
+begeeft</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>vermoedelijke
+tijd van aankomst</al>
+            </li>
+          </lijst>
+          <al>Ieder station
+in de nabijheid van het in nood verkerend station mag &#x2013; indien
+nodig &#x2013; een ander station het zwijgen opleggen:</al>
+          <al>Radiotelefonie:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>SILENCE
+DISTRESS gevolgd door de eigen roepnaam</al>
+            </li>
+          </lijst>
+          <al>Radiotelegrafie:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>QRT
+DISTRESS gevolgd door de eigen roepnaam</al>
+            </li>
+          </lijst>
+          <al>Door het in nood verkerende station of door het
+station dat de leiding van het noodverkeer heeft zal voor dit doel
+gebruikt worden:</al>
+          <al>Radiotelefonie:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>SILENCE
+MADAY gevolgd door de eigen
+roepnaam</al>
+            </li>
+          </lijst>
+          <al>Radiotelegrafie:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>QRT
+SOS</al>
+            </li>
+          </lijst>
+          <al>Elk station dat kennis heeft
+van noodverkeer en zelf het station in nood niet kan assisteren zal het
+noodverkeer volgen totdat hulpverlening gegarandeerd is.</al>
+          <al>Totdat het bericht ontvangen is dat normaal werken
+kan worden hervat, is het alle stations die kennis hebben van het
+noodverkeer en hieraan niet deelnemen verboden te zenden op de
+frequenties waarop het noodverkeer plaatsvindt.</al>
+          <al>Wanneer het noodverkeer op een frequentie
+ge&#xEB;indigd is zal het schip dat de leiding van dit noodverkeer
+heeft gehad, op deze frequentie de volgende, aan allen gerichte
+mededeling uitzenden, aangevende dat de normale werkzaamheden mogen
+worden hervat:</al>
+          <al>Radiotelefonie:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>M
+A Y D A
+Y</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>hello all
+stations
+(3x)</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>this is
+(of Delta
+Echo)</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de
+roepnaam of andere identificatie van het station dat het bericht
+uitzendt</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de
+tijd van aanbieding van het
+bericht</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de
+naam en roepnaam van het station dat in nood
+verkeerde</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>SILENCE
+FINI</al>
+            </li>
+          </lijst>
+          <al>Radiotelegrafie:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>S
+O S</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>C Q
+(3x)</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>D
+E</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de roepnaam
+van het station dat het bericht
+uitzendt</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de
+tijd van aanbieding van het
+bericht</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de
+naam en roepnaam van het station dat in nood
+verkeerde</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>Q U
+M</al>
+            </li>
+          </lijst>
+          <al>Wanneer het noodverkeer op een
+frequentie nog gaande is doch het niet langer noodzakelijk wordt geacht
+een absoluut stilzwijgen te handhaven zal het schip dat de leiding van
+het noodverkeer heeft, op deze frequentie de volgende aan allen
+gerichte mededeling uitzenden, aangevende dat op deze frequentie
+beperkt verkeer kan worden hervat:</al>
+          <al>Radiotelefonie:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>M
+A Y D A
+Y</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>hello all
+stations
+(3x)</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>this is
+(of Delta
+Echo)</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de
+roepnaam of andere identificatie van het station dat het bericht
+uitzendt</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de
+tijd van aanbieding van het
+bericht</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de
+naam en roepnaam van het station dat in nood
+verkeert</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>PRUDENCE</al>
+            </li>
+          </lijst>
+          <al>Radiotelegrafie:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>S
+O S</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>C Q
+(3x)</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>D
+E</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de roepnaam
+van het station dat het bericht
+uitzendt</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de
+tijd van aanbieding van het
+bericht</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de
+naam en roepnaam van het station dat in nood
+verkeert</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>Q U
+Z</al>
+            </li>
+          </lijst>
+          <al>Een scheepsstation of een
+kuststation dat bemerkt dat een station in nood verkeert, zal in een
+van de volgende gevallen een noodbericht
+heruitzenden:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>wanneer
+het station dat in nood verkeert zelf niet in gelegenheid is een
+noodbericht uit te
+zenden;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>wanneer
+de gezagvoerder van een schip, luchtvaartuig of ander middel van
+vervoer dat zelf niet in nood verkeer, of de verantwoordelijke persoon
+van het kuststation besluit dat meer hulpverlening noodzakelijk
+is;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>wanneer
+een station, dat zelf niet in de gelegenheid is hulp te verlenen, een
+noodbericht heeft gehoord waarvan de ontvangst niet door andere
+stations is bevestigd.</al>
+            </li>
+          </lijst>
+          <al>De
+heruitzending van het noodbericht wordt altijd voorafgegaan door de
+volgende oproep:</al>
+          <al>Radiotelefonie:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>M
+A Y D A Y R E L A Y
+(3X)</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>this is
+(of Delta
+Echo)</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de
+roepnaam of andere identificatie van het station dat het bericht
+uitzendt (3x)</al>
+            </li>
+          </lijst>
+          <al>Radiotelegrafie:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>DDD
+SOS SOS SOS
+DDD</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>DE</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de
+roepnaam van het station dat het bericht uitzendt
+(3x)</al>
+            </li>
+          </lijst>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Spoedverkeer</titel>
+          </kop>
+          <al>Algemeen:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>Het
+spoedsein heeft absolute voorrang boven alle andere uitzendingen,
+uitgezonderd het
+noodverkeer</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>Stations
+welke een spoedsein ontvangen dienen ten minste drie minuten uit te
+luisteren. Indien na afloop hiervan geen spoedbericht is gehoord,
+zullen zij van de ontvangst van het spoedsein, indien mogelijk,
+mededeling doen aan een
+kuststation.</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>Alleen
+de gezagvoerder is bevoegd bevel te geven tot het gebruik van het
+spoedsein.</al>
+            </li>
+          </lijst>
+          <al>Spoedseinen:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>radiotelefonie:</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>PAN
+PAN (3x), uitgesproken in het frans als
+&#xAB;panne&#xBB;</al>
+            </li>
+          </lijst>
+          <al>radiotelegrafie:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>XXX
+XXX XXX</al>
+            </li>
+          </lijst>
+          <al>radiotelex:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>URG+
+in het automatisch radiotelex verkeer</al>
+            </li>
+          </lijst>
+          <al>DSC/INMARSAT
+SATCOM:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>selecteer
+&#xAB;URGENT PRIORITY&#xBB;</al>
+            </li>
+          </lijst>
+          <al>Dit
+geeft aan dat het station een zeer dringend bericht zal overbrengen
+betreffende de veiligheid van een schip, een luchtvaartuig of ander
+middel van vervoer of de veiligheid van een persoon.</al>
+          <al>Het spoedsein mag voorafgegaan worden door het
+alarmsein uitsluitend in geval van &#xAB;Man over boord&#xBB; indien de
+hulp van andere schepen is gewenst en deze hulp niet voldoende kan
+worden verkregen met gebruik van het spoedsein alleen.</al>
+          <al>Het spoedsein en spoedbericht dienen te worden
+uitgezonden op een of meerdere internationale noodfrequenties.</al>
+          <al>Het spoedbericht dient echter op een
+werkfrequentie uitgezonden te worden in geval
+van:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>een
+lang bericht of een radiomedisch
+advies;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>herhaling
+van een spoedbericht indien men zich in een gebied van druk
+radioverkeer bevindt.</al>
+            </li>
+          </lijst>
+          <al>Een
+aanduiding dienaangaande dient aan het einde van de oproep te worden
+vermeld.</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">Veiligheidsverkeer</titel>
+          </kop>
+          <al>Algemeen:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>Veiligheidsverkeer
+dient te worden voorafgegaan door het
+veiligheidssein</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>Stations
+welke het veiligheidssein ontvangen zullen het veiligheidsbericht
+uitluisteren tenzij dit bericht niet of niet meer voor hen van belang
+is.</al>
+            </li>
+          </lijst>
+          <al>Het veiligheidssein is:</al>
+          <al>radiotelefonie:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>S&#xC9;CURIT&#xC9;
+(3X) uitgesproken in het frans als S&#xC9;CURIT&#xC9;</al>
+            </li>
+          </lijst>
+          <al>radiotelegrafie:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>TTT
+TTT TTT</al>
+            </li>
+          </lijst>
+          <al>radiotelex:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>na
+verkregen verbinding het commando &#xAB;URG+&#xBB;</al>
+            </li>
+          </lijst>
+          <al>DSC/INMARSAT
+SATCOM:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>selecteer
+de SAFTY PRIORITY</al>
+            </li>
+          </lijst>
+          <al>Het
+veiligheidssein geeft aan dat het station een bericht zal overbrengen
+waarvan de inhoud een belangrijke waarschuwing bevat ter zake van de
+meteorologische omstandigheden en/of navigatie.</al>
+          <al>Het veiligheidssein en de oproep dienen
+uitgezonden te worden op een of meerdere internationale
+noodfrequenties.</al>
+          <al>Het veiligheidsbericht dient
+echter uitgezonden te
+worden:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>door
+kuststations op een werkfrequentie van het
+station:</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>door
+scheepsstations op een frequentie voor
+schip-tot-schip-verkeer.</al>
+            </li>
+          </lijst>
+          <al>In de
+oproep wordt de desbetreffende frequentie
+vermeld.</al>
+        </divisie>
+      </divisie>
+    </bijlage>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">2</nr><titel status="officieel">behorende bij het Besluit telecommunicatie scheepvaart
+BES</titel>
+      </kop>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Overzicht
+kanalen/frequenties en hun
+bestemmingen</titel>
+        </kop>
+        <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml2">
+          <title>Zendfrequenties
+in
+MHz</title>
+          <tgroup align="left" char="" charoff="50" cols="4" tgroupstyle="xml2">
+            <colspec colname="col1" colnum="1" colwidth="20*"/>
+            <colspec colname="col2" colnum="2" colwidth="20*"/>
+            <colspec colname="col3" colnum="3" colwidth="20*"/>
+            <colspec colname="col4" colnum="4" colwidth="52.5*"/>
+            <thead valign="bottom">
+              <row rowsep="1">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Kanalen</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Schip</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Wal</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Bestemming
+openbare lichamen Bonaire, Sint Eustatius en
+Saba</al>
+                </entry>
+              </row>
+            </thead>
+            <tbody valign="top">
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>60</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.025</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>160.625</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>01</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.050</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>160.650</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>61</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.075</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>160.675</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>02</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.100</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>160.700</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>62</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.125</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>160.725</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>03</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.150</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>160.750</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>63</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.175</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>160.775</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>04</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.200</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>160.800</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>64</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.225</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>160.825</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>05</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.250</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>160.850</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>65</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.275</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>160.875</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>06</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.300</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.300</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Opsporing,
+redding en bestrijding, schip tot schip
+verkeer</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>66</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.325</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>160.925</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>07</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.350</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>160.950</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>67</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.375</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.375</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>08</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.400</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.400</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Schip
+tot schip
+verkeer</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>68</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.425</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.425</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>09</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.450</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.450</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>69</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.475</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.475</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Marinakanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>10</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.500</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.500</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>70</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.525</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.525</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Digital
+selcal nood- en
+veiligheid</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>11</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.550</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.550</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>71</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.575</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.575</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>12</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.600</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.600</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Havenoperaties</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>72</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.625</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.625</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Schip
+tot schip
+verkeer</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>13</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.650</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.650</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal,
+havenoperaties</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>73</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.675</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.675</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>14</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.700</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.700</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Verkeersbegeleiding</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>74</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.725</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.725</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal,
+verkeersbegeleiding</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>15</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.750</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.750</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Marinakanaal,
+havenoperaties,
+werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>75</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.775</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.775</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Beschermband</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>16</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.800</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.800</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Nood,
+spoed, veiligheid en
+aanroepkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>76</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.825</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.825</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Beschermband</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>17</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.850</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.850</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal,
+havenverkeer</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>77</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.875</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.875</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>18</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.900</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>161.500</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Havenoperaties,
+werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>78</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.925</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>161.525</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>19</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.950</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>161.550</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal,
+marinakanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>79</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>156.975</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>161.575</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Marinakanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>20</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>157.000</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>161.600</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Marinakanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>80</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>157.025</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>161.625</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal,
+marinakanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>21</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>157.050</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>161.650</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Marinakanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>81</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>157.075</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>161.675</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Marinakanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>22</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>157.100</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>161.700</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Marinakanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>82</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>157.125</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>161.725</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Werkkanaal,
+marinakanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>23</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>157.150</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>161.750</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Openbaar
+verkeer,
+werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>83</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>157.175</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>161.775</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Openbaar
+verkeer,
+werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>24</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>157.200</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>161.800</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Openbaar
+verkeer,
+werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>84</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>157.225</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>161.825</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Openbaar
+verkeer</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>25</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>157.250</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>161.850</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Openbaar
+verkeer,
+werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>85</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>157.275</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>161.875</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Openbaar
+verkeer</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>26</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>157.300</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>161.900</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Openbaar
+verkeer</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>86</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>157.325</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>161.925</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Openbaar
+verkeer</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>27</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>157.350</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>161.950</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Openbaar
+verkeer</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>87</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>157.375</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>161.975</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Openbaar
+verkeer</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>28</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>157.400</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>162.000</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Openbaar
+verkeer,
+werkkanaal</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>88</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>157.425</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>162.025</al>
+                </entry>
+                <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Openbaar
+verkeer,
+werkkanaal</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <al>Onder
+bovengenoemde bestemmingen wordt
+verstaan:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>
+              <nadruk type="cur">Beschermband:</nadruk> beschermband
+van kanaal 16 waarop in overkeer [bedoeld zal zijn: radioverkeer] in
+principe niet is
+toegestaan;</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>
+              <nadruk type="cur">Digitaal
+selcal nood- en
+veiligheid:</nadruk> radioverkeer in het
+kader van het oproepen van het nood- en veiligheidssysteem door middel
+van digitaal selectieve
+oproep;</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>
+              <nadruk type="cur">Havenoperaties:</nadruk> radioverkeer
+inzake het geven van mededelingen aan en het ontvangen van
+havenautoriteiten met betrekking tot de veiligheid van
+scheepsbewegingen;</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>
+              <nadruk type="cur">Marinakanaal:</nadruk> kanaal
+ten behoeve van communicatie inzake
+jachthavenbeheer;</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>
+              <nadruk type="cur">Noodverkeer:</nadruk> radioverkeer
+in het kader van hulpverlening in verband met ernstig en dreigend
+gevaar voor een schip of personen waarbij onmiddellijk hulp wordt
+verlangd;</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>
+              <nadruk type="cur">Openbaar
+verkeer:</nadruk> radioverkeer tussen
+schepen en kuststations in het kader van de openbare telegraaf- en
+telefoondienst;</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>
+              <nadruk type="cur">Opsporing,
+redding en
+bestrijding:</nadruk> radioverkeer
+betreffende het leiden en uitvoeren van opsporings- en reddingsacties,
+alsmede het bestrijden van verontreinigingen van het
+wateroppervlakte;</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>
+              <nadruk type="cur">Schip-tot-schipverkeer:</nadruk> radioverkeer
+tussen personen aan boord van de schepen onderling betreffende de
+veiligheid van een schip of
+personen;</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>
+              <nadruk type="cur">Spoedverkeer:</nadruk> dringend
+radioverkeer betreffende de veiligheid van een schip, luchtvaartuig of
+ander vervoermiddel, dan wel van een
+persoon;</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>
+              <nadruk type="cur">Verkeersbegeleiding:</nadruk> radioverkeer
+ten behoeve van het geven van mededelingen aan en het ontvangen van
+aanwijzingen ten behoeve van de afwikkeling van radioverkeer met
+uitzondering van sociaal
+verkeer;</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>
+              <nadruk type="cur">Veiligheidsverkeer:</nadruk> radioverkeer
+houdende belangrijke waarschuwingen betreffende de navigatie of
+meteorologische
+zaken;</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>
+              <nadruk type="cur">Werkkanaal:</nadruk> kanaal
+ten behoeve van de afwikkeling van radioverkeer met uitzondering van
+sociaal
+verkeer.</al>
+          </li>
+        </lijst>
+      </divisie>
+    </bijlage>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">3</nr><titel status="officieel">behorende bij het Besluit telecommunicatie scheepvaart
+BES</titel>
+      </kop>
+      <al>De EED of
+GELOFTE:</al>
+      <al>Ik,......................., geboren
+de.............. te.............. zweer/beloof, dat ik de berichten,
+welke mij bij de uitvoering van de mij opgedragen werkzaamheden terzake
+van de maritieme telecommunicatie ter kennis komen, aan niemand, wie
+het ook zijn moge, zal openbaren, dan aan de bevoegde autoriteit aan
+wie ik volgens wettelijke regelingen verplicht ben zulks te doen. En
+dat ik alle overtredingen van wettelijke regelingen op het grondgebied
+van een openbaar lichaam geldig en van de wettelijke internationale
+voorschriften met betrekking tot de verreberichtgeving, alsmede van de
+voorwaarden, waaronder de machtiging aan de eigenaar van het vaartuig
+is verleend die mij ter kennis komen naar waarheid aan de bevoegde
+autoriteiten zal rapporteren.</al>
+      <al>Zo waarlijk
+helpe mij God Almachtig / Dat beloof ik.</al>
+      <al>Deze
+eed is door mij...................in mijn functie van...........
+afgenomen heden, de..............</al>
+      <al>...........................................................</al>
+      <al>Voor het Bureau Telecommunicatie,</al>
+      <al>...................................</al>
+      <al>De
+certificaathouder,</al>
+    </bijlage>
+  </wet-besluit>
+</wetgeving>
+  	

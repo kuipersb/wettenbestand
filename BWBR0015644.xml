@@ -1,0 +1,584 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0015644" id="263769" soort="ministeriele-regeling"> 
+   
+  
+  <intitule>Regeling van de Minister van Economische Zaken van 29 september
+	 2003, nr.&#xA0;WJZ 3054257, houdende regels inzake de te verstrekken gegevens in het
+	 kader van medegebruik van antenne-opstelpunten, antennesystemen en antennes
+	 bestemd voor omroepzendernetwerken (Regeling gegevensverstrekking medegebruik
+	 omroepzendernetwerken)</intitule> 
+   
+  <regeling> 
+	 <aanhef> 
+		<wie>De Minister van Economische Zaken,</wie> 
+		<considerans> 
+		  <considerans.al bevat="grondslag">Gelet op de
+			 <extref status="actief" doc="1.0:v:BWBR0015153&amp;artikel=2" compleet="nee">artikelen 2, zesde lid</extref>, en
+			 <extref status="actief" doc="1.0:v:BWBR0015153&amp;artikel=3" compleet="nee">3, eerste lid, van het Besluit medegebruik
+			 omroepzendernetwerken</extref>;</considerans.al> 
+		</considerans> 
+		<afkondiging> 
+		  <al>Besluit:</al> 
+		</afkondiging> 
+	 </aanhef> 
+	 <regeling-tekst> 
+		<paragraaf> 
+		  <kop> 
+			 <label>Paragraaf</label> 
+			 <nr>1</nr> 
+			 <titel>Begripsbepalingen</titel> 
+		  </kop> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr>1</nr> 
+			 </kop> 
+			 <al>In deze regeling wordt verstaan onder:</al> 
+			 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+				<li> 
+				  <li.nr>a.</li.nr> 
+				  <al>besluit: <extref status="actief" doc="1.0:v:BWBR0015153" compleet="nee">Besluit
+					 medegebruik omroepzendernetwerken</extref>;</al> 
+				</li> 
+				<li> 
+				  <li.nr>b.</li.nr> 
+				  <al>antenne: element of samenstel van elementen, geschikt en
+					 bestemd voor het in combinatie met een radiozendapparaat uitzenden dan wel
+					 ontvangen van elektromagnetische velden;</al> 
+				</li> 
+				<li> 
+				  <li.nr>c.</li.nr> 
+				  <al>antenne-opstelpunt: een mast of een soortgelijk bouwwerk,
+					 geschikt en bestemd voor het daaraan bevestigen van een antenne of
+					 antennesysteem alsmede dat gedeelte van het stuk grond of dat deel van een
+					 object waarop of waaraan een antenne of antennesysteem is bevestigd of
+					 geplaatst;</al> 
+				</li> 
+				<li> 
+				  <li.nr>d.</li.nr> 
+				  <al>antennesysteem: samenstel van twee of meer antennes met
+					 bijbehorende bekabeling en technische voorzieningen;</al> 
+				</li> 
+				<li> 
+				  <li.nr>e.</li.nr> 
+				  <al>WGS 84: World Geodetic System 1984;</al> 
+				</li> 
+				<li> 
+				  <li.nr>f.</li.nr> 
+				  <al>ERP: Effective Radiated Power;</al> 
+				</li> 
+				<li> 
+				  <li.nr>g.</li.nr> 
+				  <al>installatie: de apparatuur van verzoeker, met inbegrip van
+					 antenneconstructies, antennesystemen, antennes en bijbehorende voorzieningen,
+					 die zijn bestemd om door de verzoeker te worden gebruikt voor het verspreiden
+					 of ontvangen van signalen ten behoeve van het openbaar elektronisch communicatienetwerk dat bestaat uit radiozendapparaten die geschikt zijn voor het verspreiden van programma&#x2019;s;</al> 
+				</li> 
+				<li> 
+				  <li.nr>h.</li.nr> 
+				  <al>installatievoorstel: het voorstel dat verzoeker doet in het
+					 kader van een verzoek tot medegebruik dat bestaat uit een technische
+					 beschrijving van de op het antenne-opstelpunt van de ontvanger aan te brengen
+					 installatie met een onderbouwing van de technische mogelijkheden voor
+					 medegebruik.</al> 
+				</li> 
+			 </lijst> 
+		  </artikel> 
+		</paragraaf> 
+		<paragraaf> 
+		  <kop> 
+			 <label>Paragraaf</label> 
+			 <nr>2</nr> 
+			 <titel>Te overleggen gegevens bij een verzoek om medegebruik</titel> 
+		  </kop> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr>2</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr>1</lidnr> 
+				<al>Een verzoek tot medegebruik bevat de volgende gegevens:</al> 
+				<lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+				  <li> 
+					 <li.nr>a.</li.nr> 
+					 <al>een beschrijving van de aard van het beoogde
+						medegebruik;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>b.</li.nr> 
+					 <al>het adres van de locatie van het antenne-opstelpunt dan wel
+						de co&#xF6;rdinaten van de locatie van het antenne-opstelpunt in oosterlengte en
+						noorderbreedte uitgedrukt in graden, minuten en seconden volgens het systeem
+						WGS 84, waarop het verzoek betrekking heeft;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>c.</li.nr> 
+					 <al>een beschrijving van de frequenties waarop het verzoek
+						betrekking heeft, de beoogde dekking van de frequenties en de polarisatie van
+						het signaal;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>d.</li.nr> 
+					 <al>het beoogde vermogen op de antenne-aansluiting in kilowatt
+						en het beoogde maximale uitgezonden vermogen in hoofdstraalrichting of ERP in
+						kilowatt; </al> 
+				  </li> 
+				  <li> 
+					 <li.nr>e.</li.nr> 
+					 <al>de verwachte gevolgen van het verzoek voor de
+						milieubelasting en de arbeidsomstandigheden, waarbij in ieder geval wordt
+						aangegeven:</al> 
+					 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+						<li> 
+						  <li.nr>1&#xB0;.</li.nr> 
+						  <al>het energieverbruik van de installatie en de
+							 maatregelen ter beperking van het energieverbruik;</al> 
+						</li> 
+						<li> 
+						  <li.nr>2&#xB0;.</li.nr> 
+						  <al>een berekening van de maximale ontwerpwaarde van de
+							 veldsterkte voor de installatie met inbegrip van de gegevens die nodig zijn
+							 voor de berekening van de maximale ontwerpwaarde van de veldsterkte voor de
+							 gehele inrichting;</al> 
+						</li> 
+						<li> 
+						  <li.nr>3&#xB0;.</li.nr> 
+						  <al>de geluidsbelasting van de installatie;</al> 
+						</li> 
+						<li> 
+						  <li.nr>4&#xB0;.</li.nr> 
+						  <al>de opgave van milieubelastende stoffen in soort en
+							 hoeveelheid.</al> 
+						</li> 
+					 </lijst> 
+				  </li> 
+				  <li> 
+					 <li.nr>f.</li.nr> 
+					 <al>de verwachte gevolgen van het verzoek voor de
+						elektromagnetische compatibiliteit;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>g.</li.nr> 
+					 <al>een installatievoorstel, dat is voorzien van:</al> 
+					 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+						<li> 
+						  <li.nr>1&#xB0;.</li.nr> 
+						  <al>een beschrijving van de installatie;</al> 
+						</li> 
+						<li> 
+						  <li.nr>2&#xB0;.</li.nr> 
+						  <al>de beoogde looptijd van de frequentievergunning;</al> 
+						</li> 
+						<li> 
+						  <li.nr>3&#xB0;.</li.nr> 
+						  <al>een opsteltekening van de installatie;</al> 
+						</li> 
+						<li> 
+						  <li.nr>4&#xB0;.</li.nr> 
+						  <al>de technische specificaties van de installatie;</al> 
+						</li> 
+						<li> 
+						  <li.nr>5&#xB0;.</li.nr> 
+						  <al>een beschrijving van de benodigde aanpassingen aan het
+							 gebouw en aan de mast.</al> 
+						</li> 
+					 </lijst> 
+				  </li> 
+				</lijst>
+			 </lid> 
+			 <lid> 
+				<lidnr>2</lidnr> 
+				<al>In het geval dat het verzoek tot medegebruik betrekking heeft
+				  op de huur van ruimte voor zendapparatuur bevat het installatievoorstel,
+				  bedoeld in het eerste lid, onder g, tevens de volgende gegevens:</al> 
+				<lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+				  <li> 
+					 <li.nr>a.</li.nr> 
+					 <al>de aansluitwaarde, het type aansluiting en het
+						energieverbruik van de op het antenne-opstelpunt te plaatsen
+						zendapparatuur;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>b.</li.nr> 
+					 <al>de benodigde oppervlakte voor de installatie en eventuele
+						randapparatuur;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>c.</li.nr> 
+					 <al>de warmteproductie;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>d.</li.nr> 
+					 <al>de vloerbelasting;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>e.</li.nr> 
+					 <al>het soort bevestiging;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>f.</li.nr> 
+					 <al>de tekening van het kabeltrac&#xE9;.</al> 
+				  </li> 
+				</lijst>
+			 </lid> 
+		  </artikel> 
+		</paragraaf> 
+		<paragraaf> 
+		  <kop> 
+			 <label>Paragraaf</label> 
+			 <nr>3</nr> 
+			 <titel>Te verstrekken gegevens voorafgaand aan een verzoek om
+				medegebruik </titel> 
+		  </kop> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr>3</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr>1</lidnr> 
+				<al>Een houder verstrekt op een daartoe strekkend verzoek als
+				  bedoeld in <extref status="actief" doc="1.0:v:BWBR0015153&amp;artikel=3" compleet="nee">artikel 3, eerste lid, van het
+				  besluit</extref>, een lijst van de desbetreffende antenne-opstelpunten
+				  die bij hem in eigendom zijn, welke de navolgende gegevens omvat:</al> 
+				<lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+				  <li> 
+					 <li.nr>a.</li.nr> 
+					 <al>de hoogte van de desbetreffende antenne-opstelpunten
+						gemeten vanaf de mastvoet ten opzichte van het maaiveld;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>b.</li.nr> 
+					 <al>het adres van de locatie van de desbetreffende
+						antenne-opstelpunten of de co&#xF6;rdinaten van de locatie van de
+						antenne-opstelpunten in oosterlengte en noorderbreedte uitgedrukt in graden,
+						minuten en seconden volgens het systeem WGS 84.</al> 
+				  </li> 
+				</lijst>
+			 </lid> 
+			 <lid> 
+				<lidnr>2</lidnr> 
+				<al>In het geval dat in het verzoek, bedoeld in
+				  <extref status="actief" doc="1.0:v:BWBR0015153&amp;artikel=3" compleet="nee">artikel 3, eerste lid, van het
+				  besluit</extref> is aangegeven dat de behoefte tot medegebruik
+				  betrekking heeft op het medegebruik van kale mastruimte, verstrekt de houder
+				  met betrekking tot de antenne-opstelpunten, zoals aangeduid in het verzoek, in
+				  aanvulling op de gegevens, bedoeld in het eerste lid, tevens de navolgende
+				  gegevens:</al> 
+				<lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+				  <li> 
+					 <li.nr>a.</li.nr> 
+					 <al>de gegevens betreffende het gebruikte mast type,
+						gespecificeerd naar:</al> 
+					 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+						<li> 
+						  <li.nr>1&#xB0;.</li.nr> 
+						  <al>buis- of vakwerkmast, en</al> 
+						</li> 
+						<li> 
+						  <li.nr>2&#xB0;.</li.nr> 
+						  <al>de vorm.</al> 
+						</li> 
+					 </lijst> 
+				  </li> 
+				  <li> 
+					 <li.nr>b.</li.nr> 
+					 <al>een detailtekening van de mast met exacte maatvoering, de
+						indeling van de mast en opgaaf van de voor de mast gebruikte materialen alsmede
+						de lengte van de mast en het gewicht;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>c.</li.nr> 
+					 <al>de sterkteberekening van de mast en de daaraan ten
+						grondslag liggende rapporten;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>d.</li.nr> 
+					 <al>de gegevens betreffende de op de mast geaccommodeerde
+						antennesystemen met bijbehorend vergunningsdiagram en overige specificaties,
+						waaronder:</al> 
+					 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+						<li> 
+						  <li.nr>1&#xB0;.</li.nr> 
+						  <al>het aantal antennes per laag;</al> 
+						</li> 
+						<li> 
+						  <li.nr>2&#xB0;.</li.nr> 
+						  <al>het aantal antennelagen;</al> 
+						</li> 
+						<li> 
+						  <li.nr>3&#xB0;.</li.nr> 
+						  <al>de op de antennes geaccommodeerde of te accommoderen
+							 frequenties;</al> 
+						</li> 
+						<li> 
+						  <li.nr>4&#xB0;.</li.nr> 
+						  <al>het gerealiseerde antennediagram of het
+							 vergunningsdiagram;</al> 
+						</li> 
+						<li> 
+						  <li.nr>5&#xB0;.</li.nr> 
+						  <al>de antennerichting(en) in graden ten opzichte van het
+							 geografische Noorden;</al> 
+						</li> 
+						<li> 
+						  <li.nr>6&#xB0;.</li.nr> 
+						  <al>het ERP-vermogen van de frequenties waartoe het
+							 antennesysteem dient;</al> 
+						</li> 
+						<li> 
+						  <li.nr>7&#xB0;.</li.nr> 
+						  <al>de polarisatie van de geaccommodeerde frequenties.</al>
+						  
+						</li> 
+					 </lijst> 
+				  </li> 
+				  <li> 
+					 <li.nr>e.</li.nr> 
+					 <al>gegevens betreffende reserveringen op de mast,
+						gespecificeerd naar:</al> 
+					 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+						<li> 
+						  <li.nr>1&#xB0;.</li.nr> 
+						  <al>reserveringen voor eigen gebruik dan wel voor
+							 derden;</al> 
+						</li> 
+						<li> 
+						  <li.nr>2&#xB0;.</li.nr> 
+						  <al>per reservering de hoogte en omvang van het
+							 ruimtebeslag voor het antennesysteem, de hoogte en omvang van de
+							 frequentietechnisch onbruikbare ruimte boven en onder het antennesysteem
+							 alsmede de datum van feitelijke ingebruikneming van de frequentietechnische
+							 toepassing waarvoor gereserveerd wordt.</al> 
+						</li> 
+					 </lijst> 
+				  </li> 
+				  <li> 
+					 <li.nr>f.</li.nr> 
+					 <al>informatie over de toepassingen waarvoor gereserveerd
+						wordt, gespecificeerd naar de eigenschappen van de antennesystemen voor die
+						toepassingen, te weten:</al> 
+					 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+						<li> 
+						  <li.nr>1&#xB0;.</li.nr> 
+						  <al>het aantal antennes per laag;</al> 
+						</li> 
+						<li> 
+						  <li.nr>2&#xB0;.</li.nr> 
+						  <al>het aantal antennelagen;</al> 
+						</li> 
+						<li> 
+						  <li.nr>3&#xB0;.</li.nr> 
+						  <al>de op de antennes te accommoderen frequenties;</al> 
+						</li> 
+						<li> 
+						  <li.nr>4&#xB0;.</li.nr> 
+						  <al>de polarisatie van de te accommoderen frequenties;</al>
+						  
+						</li> 
+						<li> 
+						  <li.nr>5&#xB0;.</li.nr> 
+						  <al>het gerealiseerde antennediagram of het
+							 vergunningsdiagram;</al> 
+						</li> 
+						<li> 
+						  <li.nr>6&#xB0;.</li.nr> 
+						  <al>de antennerichting(en) in graden ten opzichte van het
+							 geografische Noorden;</al> 
+						</li> 
+						<li> 
+						  <li.nr>7&#xB0;.</li.nr> 
+						  <al>het ERP-vermogen van de frequenties waartoe het
+							 antennesysteem dient.</al> 
+						</li> 
+					 </lijst>
+				  </li> 
+				</lijst>
+			 </lid> 
+			 <lid> 
+				<lidnr>3</lidnr> 
+				<al>In het geval dat in het verzoek, bedoeld in
+				  <extref status="actief" doc="1.0:v:BWBR0015153&amp;artikel=3" compleet="nee">artikel 3, eerste lid, van het
+				  besluit</extref>, is aangegeven dat de behoefte tot medegebruik
+				  betrekking heeft op het medegebruik van antennesystemen, verstrekt de houder
+				  met betrekking tot de antenne-opstelpunten, zoals aangeduid in het verzoek, in
+				  aanvulling op de gegevens, bedoeld in het eerste en tweede lid, per
+				  antennesysteem tevens de navolgende gegevens:</al> 
+				<lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+				  <li> 
+					 <li.nr>a.</li.nr> 
+					 <al>de op de antennes geaccommodeerde of te accommoderen
+						frequenties met bijbehorend ERP-vermogen;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>b.</li.nr> 
+					 <al>het merk en type van de gebruikte antennes;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>c.</li.nr> 
+					 <al>het aantal gebruikte antennes per laag;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>d.</li.nr> 
+					 <al>het aantal antennelagen;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>e.</li.nr> 
+					 <al>de verticale afstand tussen de antennes;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>f.</li.nr> 
+					 <al>het gerealiseerde antennediagram per frequentie in
+						horizontaal en voor de hoofdrichting in verticaal vlak;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>g.</li.nr> 
+					 <al>de stand van de antennes van het antennesysteem ten
+						opzichte van het geografische Noorden (azimut);</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>h.</li.nr> 
+					 <al>het montagepunt van de antennes ten opzichte van het
+						geografische Noorden (screen azimut) en de afstand van dat montagepunt tot het
+						hart van de mast (screen distance);</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>i.</li.nr> 
+					 <al>de vermogens- en faseverdeling van de antennes op &#xE9;&#xE9;n laag,
+						per frequentie;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>j.</li.nr> 
+					 <al>bij situaties waarbij sprake is van systemen met vier of
+						meer antennelagen, het nullfilling percentage;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>k.</li.nr> 
+					 <al>de harthoogte van de onderste laag van het antennesysteem
+						ten opzichte van het maaiveld;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>l.</li.nr> 
+					 <al>het feedertrace&#xE9;, gespecificeerd naar:</al> 
+					 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+						<li> 
+						  <li.nr>1&#xB0;.</li.nr> 
+						  <al>merk van de feeders;</al> 
+						</li> 
+						<li> 
+						  <li.nr>2&#xB0;.</li.nr> 
+						  <al>type van de feeders;</al> 
+						</li> 
+						<li> 
+						  <li.nr>3&#xB0;.</li.nr> 
+						  <al>aantal gebruikte feeders;</al> 
+						</li> 
+						<li> 
+						  <li.nr>4&#xB0;.</li.nr> 
+						  <al>de lengte van de gebruikte feeders;</al> 
+						</li> 
+						<li> 
+						  <li.nr>5&#xB0;.</li.nr> 
+						  <al>opgave van het punt waar de feeders beginnen;</al> 
+						</li> 
+						<li> 
+						  <li.nr>6&#xB0;.</li.nr> 
+						  <al>het aansluitschema van de feeders;</al> 
+						</li> 
+						<li> 
+						  <li.nr>7&#xB0;.</li.nr> 
+						  <al>de verliezen in het traject vanaf de zender tot en met
+							 het antennesysteem;</al> 
+						</li> 
+					 </lijst> 
+				  </li> 
+				  <li> 
+					 <li.nr>m.</li.nr> 
+					 <al>de per frequentie te gebruiken connector voor het
+						aansluitpunt;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>n.</li.nr> 
+					 <al>een opgave van de eventuele extra apparatuur die nodig is
+						om de zender aan te sluiten op het aansluitpunt.</al> 
+				  </li> 
+				</lijst>
+			 </lid> 
+			 <lid> 
+				<lidnr>4</lidnr> 
+				<al>In het geval dat in het verzoek, bedoeld in
+				  <extref status="actief" doc="1.0:v:BWBR0015153&amp;artikel=3" compleet="nee">artikel 3, eerste lid, van het
+				  besluit</extref>, is aangegeven dat de behoefte tot medegebruik
+				  betrekking heeft op het medegebruik van multipattern systemen, verstrekt de
+				  houder met betrekking tot de antenne-opstelpunten, zoals aangeduid in het
+				  verzoek, in aanvulling op de gegevens, bedoeld in het eerste, tweede en derde
+				  lid, per antennesysteem tevens de navolgende gegevens:</al> 
+				<lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+				  <li> 
+					 <li.nr>a.</li.nr> 
+					 <al>de schema&#x2019;s van de filtersectie, met opgaaf van het merk en
+						type van de gebruikte filters;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>b.</li.nr> 
+					 <al>de gegevens betreffende de vermogensverdelers per
+						frequentie met opgaaf van het merk en type van de gebruikte verdelers;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>c.</li.nr> 
+					 <al>de gegevens betreffende de faseverdeler per frequentie met
+						opgaaf van de faseverdeling.</al> 
+				  </li> 
+				</lijst>
+			 </lid> 
+		  </artikel> 
+		</paragraaf> 
+		<paragraaf> 
+		  <kop> 
+			 <label>Paragraaf</label> 
+			 <nr>4</nr> 
+			 <titel>Slotbepalingen</titel> 
+		  </kop> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr>4</nr> 
+			 </kop> 
+			 <al>Deze regeling treedt in werking met ingang van 15 oktober
+				2003.</al> 
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr>5</nr> 
+			 </kop> 
+			 <al>Deze regeling wordt aangehaald als: Regeling gegevensverstrekking
+				medegebruik omroepzendernetwerken.</al> 
+		  </artikel> 
+		</paragraaf> 
+	 </regeling-tekst> 
+	 <regeling-sluiting status="goed"> 
+		<slotformulering> 
+		  <al>Deze regeling zal met de toelichting in de Staatscourant worden
+			 geplaatst.</al> 
+		</slotformulering> 
+		<gegeven> 
+		  <dagtekening> 
+			 <plaats>Den Haag</plaats> 
+			 <datum isodatum="2003-09-29">29 september 2003</datum> 
+		  </dagtekening> 
+		</gegeven> 
+		<ondertekenaar> 
+		  <ondertekening>De <functie>Minister</functie> van
+			 <organisatie afkorting="EZ">Economische Zaken</organisatie> 
+			 <naam> 
+				<voornaam>L.J.</voornaam> 
+				<achternaam>Brinkhorst</achternaam> 
+			 </naam> </ondertekening> 
+		</ondertekenaar> 
+	 </regeling-sluiting> 
+  </regeling>
+</wetgeving>
+  	

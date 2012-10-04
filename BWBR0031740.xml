@@ -1,0 +1,582 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0031740" dtdversie="2.0" id="475879" soort="zbo">
+  
+  <intitule>Beleidsregel geschiktheid 2012</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Nederlandsche Bank N.V. en de Stichting Autoriteit Financi&#xEB;le Markten,</wie>
+      <considerans>
+        <considerans.al>Na overleg met de representatieve organisaties, het ministerie van Financi&#xEB;n en het ministerie van Sociale Zaken en Werkgelegenheid;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op de <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A8" compleet="nee">artikelen 3:8</extref>, <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A100" compleet="nee">3:100, eerste lid, onderdeel b</extref>, <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A271" compleet="nee">3:271</extref>, <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=4%3A9" compleet="nee">4:9, eerste lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=5%3A29" compleet="nee">5:29, eerste lid, van de Wet op het financieel toezicht</extref> (Wft); <extref status="actief" doc="1.0:v:BWBR0020809&amp;artikel=105" compleet="nee">artikel 105, derde lid, van de Pensioenwet</extref> (Pw); <extref status="actief" doc="1.0:v:BWBR0018831&amp;artikel=110" compleet="nee">artikel 110, derde lid, van de Wet verplichte beroepspensioenregeling</extref> (Wvb); de <extref status="actief" doc="1.0:v:BWBR0020892&amp;artikel=14" compleet="nee">artikelen 14, derde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0020892&amp;artikel=29" compleet="nee">29</extref> en <extref status="actief" doc="1.0:v:BWBR0020892&amp;artikel=30" compleet="nee">30 van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling</extref>; en de <extref status="actief" doc="1.0:v:BWBR0016189&amp;artikel=4" compleet="nee">artikelen 4, aanhef en onderdeel b</extref>, en <extref status="actief" doc="1.0:v:BWBR0016189&amp;artikel=11" compleet="nee">11, tweede lid, van de Wet toezicht trustkantoren</extref> (Wtt);</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluiten tot het vaststellen van de volgende, gezamenlijke Beleidsregel geschiktheid 2012:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">&#x2013; Algemene bepalingen met betrekking tot de geschiktheidstoetsing van beleidsbepalers</titel>
+        </kop>
+        <artikel status="goed"><kop>
+            <nr status="officieel">1.1</nr>
+            <titel status="officieel">Definities en begrippen</titel>
+          </kop><al>De begrippen in deze beleidsregel hebben dezelfde betekenis als in de <extref status="actief" doc="1.0:v:BWBR0020368" compleet="nee">Wet op het financieel toezicht</extref>, de <extref status="actief" doc="1.0:v:BWBR0020809" compleet="nee">Pensioenwet</extref>, de <extref status="actief" doc="1.0:v:BWBR0018831" compleet="nee">Wet verplichte beroepspensioenregeling</extref>, respectievelijk de <extref status="actief" doc="1.0:v:BWBR0016189" compleet="nee">Wet toezicht trustkantoren</extref> en de daarop gebaseerde lagere regelgeving, tenzij deze begrippen uitdrukkelijk anders worden gedefinieerd in deze beleidsregel.</al>
+            <al>In deze beleidsregel wordt verstaan onder:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a)</li.nr>
+                <al>
+                  <nadruk type="cur">beleidsbepaler:</nadruk> een persoon die op grond van de <extref status="actief" doc="1.0:v:BWBR0020368" compleet="nee">Wet op het financieel toezicht</extref> of de <extref status="actief" doc="1.0:v:BWBR0016189" compleet="nee">Wet toezicht trustkantoren</extref> en de daarop gebaseerde lagere regelgeving moet worden getoetst op geschiktheid, dan wel een persoon die op grond van de <extref status="actief" doc="1.0:v:BWBR0020809" compleet="nee">Pensioenwet</extref> of de <extref status="actief" doc="1.0:v:BWBR0018831" compleet="nee">Wet verplichte beroepspensioenregeling</extref> moet worden getoetst op deskundigheid;</al>
+              </li>
+              <li>
+                <li.nr>b)</li.nr>
+                <al>
+                  <nadruk type="cur">collectief:</nadruk> meer dan &#xE9;&#xE9;n beleidsbepaler, waarbij de beleidsbepalers gezamenlijk het (dagelijks) beleid van de onderneming (mede)bepalen;</al>
+              </li>
+              <li>
+                <li.nr>c)</li.nr>
+                <al>
+                  <nadruk type="cur">onderneming:</nadruk> een financi&#xEB;le onderneming, gemengde financi&#xEB;le holding, financi&#xEB;le holding of verzekeringsholding met zetel in Nederland, pensioenfonds, beroepspensioenfonds of trustkantoor;</al>
+              </li>
+              <li>
+                <li.nr>d)</li.nr>
+                <al>
+                  <nadruk type="cur">toezichthouder:</nadruk> DNB, de AFM of DNB en de AFM gezamenlijk;</al>
+              </li>
+              <li>
+                <li.nr>e)</li.nr>
+                <al>
+                  <nadruk type="cur">klant:</nadruk> consument, cli&#xEB;nt, deelnemer, gewezen deelnemer, pensioengerechtigde en andere aanspraakgerechtigde of belegger;</al>
+              </li>
+              <li>
+                <li.nr>f)</li.nr>
+                <al>
+                  <nadruk type="cur">onderneming in groep A:</nadruk> aanbieder van beleggingsobjecten; bank; beroepspensioenfonds; clearinginstelling; entiteit voor risico-acceptatie; financi&#xEB;le holding, gemengde financi&#xEB;le holding of verzekeringsholding met zetel in Nederland; financi&#xEB;le instelling; herverzekeraar; levensverzekeraar; marktexploitant; natura-uitvaartverzekeraar; onderlinge waarborgmaatschappij met verklaring; pensioenfonds; premiepensioeninstelling; of schadeverzekeraar;</al>
+              </li>
+              <li>
+                <li.nr>g)</li.nr>
+                <al>
+                  <nadruk type="cur">onderneming in groep B:</nadruk> aanbieder van krediet; beheerder van beleggingsinstelling; beleggingsmaatschappij; beleggingsonderneming; of bewaarder;</al>
+              </li>
+              <li>
+                <li.nr>h)</li.nr>
+                <al>
+                  <nadruk type="cur">onderneming in groep C:</nadruk> betaalinstelling; elektronischgeldinstelling; financi&#xEB;ledienstverlener, met uitzondering van een financi&#xEB;ledienstverlener in groep A en B; of trustkantoor.</al>
+              </li>
+            </lijst></artikel>
+        <artikel status="goed"><kop>
+            <nr status="officieel">1.2</nr>
+            <titel status="officieel">Geschiktheid</titel>
+          </kop><lid><lidnr status="officieel">1</lidnr><al>Geschiktheid bestaat uit kennis, vaardigheden en professioneel gedrag. De geschiktheid van een beleidsbepaler blijkt in ieder geval uit de opleiding, werkervaring en competenties van de beleidsbepaler en de doorlopende toepassing hiervan. In de <intref status="actief" doc="1.0:v:BWBR0031740&amp;bijlage=">bijlage</intref> bij deze beleidsregel zijn relevante competenties om geschiktheid aan te tonen opgenomen.</al>
+                <al>Beleidsbepalers zijn geschikt met betrekking tot de volgende onderwerpen:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>A.</li.nr>
+                    <al>
+                      <nadruk type="vet">Bestuur, organisatie en communicatie</nadruk>, waaronder het aansturen van processen, taakgebieden en medewerkers, het naleven en handhaven van algemeen aanvaarde sociale, ethische en professionele normen, waaronder het tijdig, juist en duidelijk informeren van klanten en de toezichthouder;</al>
+                  </li>
+                  <li>
+                    <li.nr>B.</li.nr>
+                    <al>
+                      <nadruk type="vet">Producten, diensten en markten waarop de onderneming actief is</nadruk>, inclusief relevante wet- en regelgeving en financi&#xEB;le (en actuari&#xEB;le) aspecten;</al>
+                  </li>
+                  <li>
+                    <li.nr>C.</li.nr>
+                    <al>
+                      <nadruk type="vet">Beheerste en integere bedrijfsvoering</nadruk>, waaronder de administratieve organisatie en interne controle, de waarborging van geschiktheid en vakbekwaamheid binnen een onderneming, de zorgvuldige behandeling van klanten, het risicomanagement, compliance en de uitbesteding van werkzaamheden; en</al>
+                  </li>
+                  <li>
+                    <li.nr>D.</li.nr>
+                    <al>
+                      <nadruk type="vet">Evenwichtige en consistente besluitvorming</nadruk>, waarbij onder meer de belangen van klanten en andere stakeholders een centrale positie innemen.</al>
+                  </li>
+                </lijst></lid><lid><lidnr status="officieel">2</lidnr><al>In afwijking van de onderwerpen A tot en met D van onderdeel 1.2.1 zijn voor beleidsbepalers bij pensioenfondsen en beroepspensioenfondsen de in <extref status="actief" doc="1.0:v:BWBR0020892&amp;artikel=30" compleet="nee">artikel&#xA0;30, derde lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling</extref> genoemde deskundigheidsgebieden (a&#xA0;tot en met&#xA0;f) en de in <extref status="actief" doc="1.0:v:BWBR0020892&amp;artikel=14" compleet="nee">artikel 14, derde lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling</extref> genoemde deskundigheidseis met betrekking tot uitbesteding (g) van toepassing:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>a)</li.nr>
+                    <al>het besturen van een organisatie;</al>
+                  </li>
+                  <li>
+                    <li.nr>b)</li.nr>
+                    <al>relevante wet- en regelgeving;</al>
+                  </li>
+                  <li>
+                    <li.nr>c)</li.nr>
+                    <al>pensioenregelingen en pensioensoorten;</al>
+                  </li>
+                  <li>
+                    <li.nr>d)</li.nr>
+                    <al>financieel technische en actuari&#xEB;le aspecten, waaronder financiering, beleggingen, actuari&#xEB;le principes en herverzekering;</al>
+                  </li>
+                  <li>
+                    <li.nr>e)</li.nr>
+                    <al>administratieve organisatie en interne controle;</al>
+                  </li>
+                  <li>
+                    <li.nr>f)</li.nr>
+                    <al>communicatie; en</al>
+                  </li>
+                  <li>
+                    <li.nr>g)</li.nr>
+                    <al>uitbesteding.</al>
+                  </li>
+                </lijst></lid><lid><lidnr status="officieel">3</lidnr><al>Voor de toetsing voorafgaand aan het aantreden van een beleidsbepaler van de in <intref status="actief" doc="1.0:v:BWBR0031740&amp;hoofdstuk=2">hoofdstuk 2</intref> genoemde ondernemingen is geschiktheid als omschreven in onderdeel 1.2.1, nader uitgewerkt in hoofdstuk 2.</al></lid></artikel><artikel status="goed"><kop>
+            <nr status="officieel">1.3</nr>
+            <titel status="officieel">Variabelen van toetsing</titel>
+          </kop><al>De toetsing van geschiktheid van een beleidsbepaler geschiedt met inachtneming van:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a)</li.nr>
+                <al>de functie van een beleidsbepaler; en</al>
+              </li>
+              <li>
+                <li.nr>b)</li.nr>
+                <al>het soort, de omvang, de complexiteit en het risicoprofiel van de onderneming.</al>
+              </li>
+            </lijst></artikel>
+        
+        <artikel status="goed"><kop>
+            <nr status="officieel">1.4</nr>
+            <titel status="officieel">Collectief</titel>
+          </kop><al>Indien sprake is van een collectief geschiedt de toetsing van geschiktheid met inachtneming van de samenstelling en het functioneren van het collectief.</al></artikel>
+        <artikel status="goed"><kop>
+            <nr status="officieel">1.5</nr>
+            <titel status="officieel">Momenten van toetsing</titel>
+          </kop><al>De toezichthouder toetst geschiktheid van een beleidsbepaler:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a)</li.nr>
+                <al>v&#xF3;&#xF3;r het aantreden van een beleidsbepaler, bij vergunningaanvraag of registratie, of bij het voornemen tot aantreden als nieuwe beleidsbepaler bij een onderneming die beschikt over een vergunning, dan wel geregistreerd is; en</al>
+              </li>
+              <li>
+                <li.nr>b)</li.nr>
+                <al>na het aantreden van een beleidsbepaler, indien feiten of omstandigheden daartoe redelijke aanleiding geven.</al>
+              </li>
+            </lijst></artikel>
+        <artikel status="goed"><kop>
+            <nr status="officieel">1.6</nr>
+            <titel status="officieel">Informatie en antecedenten</titel>
+          </kop><lid><lidnr status="officieel">1</lidnr><al>Bij het toetsen van geschiktheid van een beleidsbepaler neemt de toezichthouder informatie en antecedenten met betrekking tot geschiktheid in aanmerking.</al>
+              </lid><lid><lidnr status="officieel">2</lidnr><al>Onder informatie en antecedenten als bedoeld in onderdeel 1.6.1 worden in ieder geval verstaan:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>a)</li.nr>
+                    <al>het volledig ingevulde en ondertekende Meldingsformulier voorgenomen benoeming;</al>
+                  </li>
+                  <li>
+                    <li.nr>b)</li.nr>
+                    <al>toezichtinformatie- en antecedenten, zoals formele en informele toezichtmaatregelen;</al>
+                  </li>
+                  <li>
+                    <li.nr>c)</li.nr>
+                    <al>het door een onderneming gehanteerde beleid, en de uitkomsten daarvan, voor werving en selectie en voor periodieke beoordeling van beleidsbepalers. Hieronder valt:</al>
+                    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                      <li>
+                        <li.nr>i)</li.nr>
+                        <al>het door de onderneming gedocumenteerde beleid waarin rekening is gehouden met <intref status="actief" doc="1.0:v:BWBR0031740&amp;artikel=1.2">onderdelen 1.2.1</intref>, <intref status="actief" doc="1.0:v:BWBR0031740&amp;artikel=1.3">1.3</intref> en <intref status="actief" doc="1.0:v:BWBR0031740&amp;artikel=1.4">1.4</intref> en voor pensioenfondsen en beroepspensioenfondsen onderdelen 1.2.1 aanhef, 1.2.2, 1.3 en 1.4;</al>
+                      </li>
+                      <li>
+                        <li.nr>ii)</li.nr>
+                        <al>het door de onderneming opgestelde functieprofiel voor de functie waarvoor een beleidsbepaler getoetst wordt en de (schriftelijk vastgelegde) besluitvorming over de selectie van een beleidsbepaler waarbij ook de overwegingen die tot deze uitkomst hebben geleid worden weergegeven; en</al>
+                      </li>
+                      <li>
+                        <li.nr>iii)</li.nr>
+                        <al>voor zover van toepassing, de periodieke (schriftelijk vastgelegde) beoordeling van een beleidsbepaler op basis van het functieprofiel en de uitgeoefende functie, inclusief de overwegingen die tot deze beoordeling hebben geleid;</al>
+                      </li>
+                    </lijst>
+                  </li>
+                  <li>
+                    <li.nr>d)</li.nr>
+                    <al>overige door de onderneming aan te leveren informatie voor zover dit van belang kan zijn bij de toetsing van geschiktheid van een beleidsbepaler;</al>
+                  </li>
+                  <li>
+                    <li.nr>e)</li.nr>
+                    <al>overige informatie, waaronder betrokkenheid van een beleidsbepaler bij surs&#xE9;ance van betaling of faillissement; en</al>
+                  </li>
+                  <li>
+                    <li.nr>f)</li.nr>
+                    <al>openbare informatie.</al>
+                  </li>
+                </lijst></lid></artikel>
+        <artikel status="goed"><kop>
+            <nr status="officieel">1.7</nr>
+            <titel status="officieel">Weging van informatie en antecedenten</titel>
+          </kop><al>Bij de weging van de in <intref status="actief" doc="1.0:v:BWBR0031740&amp;artikel=1.6">onderdeel 1.6</intref> genoemde informatie en antecedenten betrekt de toezichthouder de volgende factoren:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a)</li.nr>
+                <al>het onderlinge verband tussen de aan informatie of een antecedent ten grondslag liggende gedraging of gedragingen en de overige omstandigheden van het geval;</al>
+              </li>
+              <li>
+                <li.nr>b)</li.nr>
+                <al>de belangen die de wet beoogt te beschermen;</al>
+              </li>
+              <li>
+                <li.nr>c)</li.nr>
+                <al>de overige belangen van een onderneming en een betrokken beleidsbepaler;</al>
+              </li>
+              <li>
+                <li.nr>d)</li.nr>
+                <al>de zwaarte van de informatie en het antecedent;</al>
+              </li>
+              <li>
+                <li.nr>e)</li.nr>
+                <al>de ouderdom van de informatie of het antecedent;</al>
+              </li>
+              <li>
+                <li.nr>f)</li.nr>
+                <al>de houding of motivering van een betrokken beleidsbepaler ten aanzien van de informatie of het antecedent;</al>
+              </li>
+              <li>
+                <li.nr>g)</li.nr>
+                <al>De combinatie van beschikbare informatie en antecedenten.</al>
+              </li>
+            </lijst></artikel>
+        <artikel status="goed"><kop>
+            <nr status="officieel">1.8</nr>
+            <titel status="officieel">Samenwerking AFM en DNB</titel>
+          </kop><lid><lidnr status="officieel">1</lidnr><al>Onverminderd de <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=1%3A49" compleet="nee">artikelen 1:49</extref> en <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=1%3A90" compleet="nee">1:90 van de Wet of het financieel toezicht</extref>, <extref status="actief" doc="1.0:v:BWBR0020809&amp;artikel=205" compleet="nee">artikel 205 van de Pensioenwet</extref>, <extref status="actief" doc="1.0:v:BWBR0018831&amp;artikel=199" compleet="nee">artikel 199 van de Wet verplichte beroepspensioenregeling</extref>, <extref status="actief" doc="1.0:v:BWBR0020892&amp;artikel=38" compleet="nee">artikel 38 Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling</extref> en de <extref status="actief" doc="1.0:v:BWBR0016189&amp;artikel=13" compleet="nee">artikelen 13</extref> en <extref status="actief" doc="1.0:v:BWBR0016189&amp;artikel=15" compleet="nee">15 van de Wet toezicht trustkantoren</extref>, maken de AFM en DNB (de toezichthouders) in concrete gevallen afspraken over hun samenwerking bij de toetsing van geschiktheid en het uitwisselen van informatie en antecedenten wanneer het een onderneming betreft die onder toezicht van beide toezichthouders staat.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Met het oog op de consistente toepassing door de toezichthouders van deze beleidsregel wordt een gezamenlijk panel samengesteld. Dit gezamenlijke panel beoordeelt periodiek toetsingen op basis van deze beleidsregel. De bevindingen van het gezamenlijke panel worden gebruikt in de periodieke evaluatie van de beleidsregel, bedoeld in <intref status="actief" doc="1.0:v:BWBR0031740&amp;artikel=3.1">onderdeel 3.1</intref>.</al></lid></artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">&#x2013; Nadere bepalingen voorafgaand aan het aantreden van beleidsbepalers van ondernemingen in groep B en C</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Algemeen</titel>
+          </kop>
+          <artikel status="goed"><kop>
+              <nr status="officieel">2.1</nr>
+              <titel status="officieel">Tijdsbestek van ervaring</titel>
+            </kop><al>Voor alle ondernemingen in groep B en C geldt dat algemene en specifieke vakinhoudelijke kennis moet zijn opgedaan maximaal vijf jaar voorafgaand aan het moment van toetsing. De geschiktheid ten aanzien van de bedrijfsvoering en de bestuurlijke en leidinggevende vaardigheden moeten zijn opgedaan maximaal tien jaar voorafgaand aan het moment van toetsing.</al>
+            </artikel><artikel status="goed"><kop>
+              <nr status="officieel">2.2</nr>
+              <titel status="officieel">Omvang onderneming</titel>
+            </kop><al>Indien een aanbieder van krediet, een beleggingsonderneming, een beheerder van beleggingsinstellingen, een beleggingsmaatschappij, een bewaarder, of een financi&#xEB;ledienstverlener met uitzondering van een bemiddelaar of een adviseur van beleggingsobjecten, van, met inbegrip van de beleidsbepalers, ten hoogste zes personen, in omvang groeit naar een onderneming met meer dan zes personen, dan worden de beleidsbepalers van deze onderneming opnieuw aan de voor hen relevante criteria in <intref status="actief" doc="1.0:v:BWBR0031740&amp;hoofdstuk=2">hoofdstuk 2</intref> getoetst. </al>
+            </artikel>
+          <artikel status="goed"><kop>
+              <nr status="officieel">2.3</nr>
+              <titel status="officieel">Toepassing van <intref status="actief" doc="1.0:v:BWBR0031740&amp;hoofdstuk=1">hoofdstuk 1</intref></titel>
+            </kop><al>Bij de toetsing voorafgaand aan het aantreden van beleidsbepalers van ondernemingen in groep B en C worden in ieder geval de volgende onderdelen van <intref status="actief" doc="1.0:v:BWBR0031740&amp;hoofdstuk=1">hoofdstuk 1</intref> meegewogen:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>variabelen van toetsing (<intref status="actief" doc="1.0:v:BWBR0031740&amp;artikel=1.3">onderdeel 1.3</intref>);</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>collectief (<intref status="actief" doc="1.0:v:BWBR0031740&amp;artikel=1.4">1.4</intref>);</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>informatie en antecedenten (<intref status="actief" doc="1.0:v:BWBR0031740&amp;artikel=1.6">onderdeel 1.6</intref>); en</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>weging van informatie en antecedenten (<intref status="actief" doc="1.0:v:BWBR0031740&amp;artikel=1.7">onderdeel 1.7</intref>).</al>
+                </li>
+              </lijst></artikel>
+          
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Aanbieder van krediet; beleggingsonderneming; beheerder van beleggingsinstellingen; beleggingsmaatschappij; bewaarder (groep B)</titel>
+          </kop>
+          <artikel status="goed"><kop>
+              <nr status="officieel">2.4</nr>
+              <titel status="officieel">Aanbieder van krediet; beleggingsonderneming met uitzondering van een verbonden agent, beheerder van beleggingsinstellingen; beleggingsmaatschappij; bewaarder</titel>
+            </kop><lid><lidnr status="officieel">1</lidnr><al>Een beleidsbepaler van een aanbieder van krediet, beleggingsonderneming, met uitzondering van de verbonden agent, beheerder van beleggingsinstellingen, beleggingsmaatschappij en bewaarder, wordt bij aantreden geacht geschikt te zijn als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031740&amp;artikel=1.2">onderdeel 1.2.1</intref> indien hij of zij aantoont minimaal te beschikken over:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>bestuurlijke vaardigheden nodig voor het dagelijks beleid;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>leidinggevende vaardigheden in een hi&#xEB;rarchische verhouding;</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>algemene en specifieke vakinhoudelijke kennis, opgedaan in relevante werkomgeving; en</al>
+                    </li>
+                    <li>
+                      <li.nr>d.</li.nr>
+                      <al>geschiktheid ten aanzien van de bedrijfsvoering.</al>
+                    </li>
+                  </lijst>
+                  <al>Onderwerpen A tot en met D zijn opgedaan gedurende ten minste twee jaar werkervaring, waarvan minimaal &#xE9;&#xE9;n jaar aaneengesloten.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Indien bij een in onderdeel 2.4.1 genoemde onderneming met inbegrip van beleidsbepalers ten hoogste zes personen werkzaam zijn, kunnen de minimumvereisten als bedoeld onder a, c en d, van onderdeel 2.4.1, zijn opgedaan gedurende &#xE9;&#xE9;n jaar aaneengesloten werkervaring. Het vereiste onder b, van onderdeel 2.4.1 wordt in dat geval niet getoetst.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Indien een onderneming als bedoeld in onderdeel 2.4.1 twee of meer beleidsbepalers heeft, is het voor de beoordeling van:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>de leidinggevende vaardigheden (2.4.1.b) voldoende dat minimaal twee van de beleidsbepalers daarover beschikken;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>de specifieke vakinhoudelijke kennis (2.4.1.c) en geschiktheid ten aanzien van de bedrijfsvoering (2.4.1.d) voldoende dat het collectief gezamenlijk daarover beschikt, met dien verstande dat elke beleidsbepaler in ieder geval over de specifieke vakinhoudelijke kennis of over geschiktheid ten aanzien van de bedrijfsvoering beschikt.</al>
+                    </li>
+                  </lijst></lid></artikel><artikel status="goed"><kop>
+              <nr status="officieel">2.5</nr>
+              <titel status="officieel">Verbonden agent</titel>
+            </kop><al>Een beleidsbepaler van een verbonden agent wordt bij zijn of haar aantreden geacht geschikt te zijn als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031740&amp;artikel=1.2">onderdeel 1.2.1</intref> indien hij of zij aantoont minimaal te beschikken over algemene en specifieke vakinhoudelijke kennis, opgedaan gedurende ten minste &#xE9;&#xE9;n jaar werkervaring.</al>
+            </artikel>
+          
+          <artikel status="goed"><kop>
+              <nr status="officieel">2.6</nr>
+              <titel status="officieel">Nadere vereisten</titel>
+            </kop><al>In aanvulling op de minimumvereisten van de <intref status="actief" doc="1.0:v:BWBR0031740&amp;artikel=2.4">onderdelen 2.4</intref> en <intref status="actief" doc="1.0:v:BWBR0031740&amp;artikel=2.5">2.5</intref> kan de toezichthouder, indien daartoe redelijke aanleiding bestaat, besluiten de geschiktheid van een beleidsbepaler van een in voornoemde onderdelen genoemde onderneming nader te toetsen aan de vereisten van <intref status="actief" doc="1.0:v:BWBR0031740&amp;artikel=1.2">onderdeel 1.2.1</intref>.</al>
+            </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">Financi&#xEB;ledienstverlener, met uitzondering van financi&#xEB;ledienstverleners in groep A en B; betaalinstelling; elektronischgeldinstelling; trustkantoor (groep&#xA0;C)</titel>
+          </kop>
+          <artikel status="goed"><kop>
+              <nr status="officieel">2.7</nr>
+              <titel status="officieel">Betaalinstelling; elektronischgeldinstelling; financi&#xEB;ledienstverlener, met uitzondering van een financi&#xEB;ledienstverlener in groep A en B; of trustkantoor</titel>
+            </kop><lid><lidnr status="officieel">1</lidnr><al>Een beleidsbepaler van een betaalinstelling, een elektronischgeldinstelling, een financi&#xEB;ledienstverlener, met uitzondering van een financi&#xEB;ledienstverlener in groep A en B, of een trustkantoor wordt bij zijn of haar aantreden geacht geschikt te zijn als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031740&amp;artikel=1.2">onderdeel 1.2.1</intref>, indien hij of zij aantoont te beschikken over:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>bestuurlijke vaardigheden nodig voor het (dagelijks) beleid;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>leidinggevende vaardigheden in een hi&#xEB;rarchische verhouding; en</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>uitsluitend voor beleidsbepalers van bemiddelaars en adviseurs in beleggingsobjecten, betaalinstellingen, elektronischgeldinstellingen en trustkantoren: algemene en specifieke vakinhoudelijke kennis.</al>
+                    </li>
+                  </lijst></lid><lid><lidnr status="officieel">2</lidnr><al>Deze vaardigheden en kennis zijn opgedaan in een relevante werkomgeving gedurende ten minste twee jaar, waarvan minimaal &#xE9;&#xE9;n jaar aaneengesloten.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Indien een onderneming als bedoeld in onderdeel 2.7.1 twee of meer beleidsbepalers heeft, is voor de toetsing van de leidinggevende vaardigheden in een hi&#xEB;rarchische verhouding voldoende dat &#xE9;&#xE9;n van die beleidsbepalers aantoont daarover te beschikken.</al></lid>
+            </artikel>
+          <artikel status="goed"><kop>
+              <nr status="officieel">2.8</nr>
+              <titel status="officieel">Kleine financi&#xEB;ledienstverlener met uitzondering van een bemiddelaar in of adviseur van beleggingsobjecten</titel>
+            </kop><al>Een beleidsbepaler van een financi&#xEB;ledienstverlener, met uitzondering van een bemiddelaar in of adviseur van beleggingsobjecten, van, met inbegrip van de beleidsbepalers, ten hoogste zes personen, wordt bij zijn of haar aantreden geacht geschikt te zijn als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031740&amp;artikel=1.2">onderdeel 1.2.1</intref>, indien hij of zij aantoont te beschikken over:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>(i)</li.nr>
+                  <al>bestuurlijke ervaring opgedaan gedurende ten minste &#xE9;&#xE9;n jaar in een voor de onderneming relevante werkomgeving; of</al>
+                </li>
+                <li>
+                  <li.nr>(ii)</li.nr>
+                  <al>een HBO-diploma van een voor de onderneming relevante opleiding; of</al>
+                </li>
+                <li>
+                  <li.nr>(iii)</li.nr>
+                  <al>een HBO-diploma en minimaal twee jaar werkervaring in een voor de onderneming relevante werkomgeving; of</al>
+                </li>
+                <li>
+                  <li.nr>(iv)</li.nr>
+                  <al>tien jaar werkervaring in een voor de onderneming relevante werkomgeving, waarvan vijf jaar aaneengesloten.</al>
+                </li>
+              </lijst></artikel>
+          <artikel status="goed"><kop>
+              <nr status="officieel">2.9</nr>
+              <titel status="officieel">Nadere vereisten</titel>
+            </kop><al>In aanvulling op de minimumvereisten van de <intref status="actief" doc="1.0:v:BWBR0031740&amp;artikel=2.7">onderdelen 2.7</intref> en <intref status="actief" doc="1.0:v:BWBR0031740&amp;artikel=2.8">2.8</intref> kan de toezichthouder, indien daartoe redelijke aanleiding bestaat, besluiten de geschiktheid van een beleidsbepaler van een in voornoemde onderdelen genoemde onderneming nader te toetsen aan de vereisten van <intref status="actief" doc="1.0:v:BWBR0031740&amp;artikel=1.2">onderdeel 1.2.1</intref>.</al>
+            </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">&#x2013; Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed"><kop>
+            <nr status="officieel">3.1</nr>
+            <titel status="officieel">Evaluatie</titel>
+          </kop><al>Deze beleidsregel wordt periodiek ge&#xEB;valueerd.</al></artikel>
+        <artikel status="goed"><kop>
+            <nr status="officieel">3.2</nr>
+            <titel status="officieel">Intrekking</titel>
+          </kop><al>De <extref status="actief" doc="1.0:v:BWBR0029322" compleet="nee">Beleidsregel deskundigheid 2011</extref> (Stcrt. 2010, 20810) wordt ingetrokken.</al></artikel>
+        <artikel status="goed"><kop>
+            <nr status="officieel">3.3</nr>
+            <titel status="officieel">Inwerkingtreding</titel>
+          </kop><al>Deze beleidsregel treedt in werking op 1 juli 2012. Indien de Staatscourant waarin deze beleidsregel wordt geplaatst, verschijnt na 2 juli 2012, treedt deze beleidsregel in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 juli 2012.</al></artikel>
+        <artikel status="goed"><kop>
+            <nr status="officieel">3.4</nr>
+            <titel status="officieel">Citeertitel</titel>
+          </kop><al>Deze beleidsregel wordt aangehaald als: Beleidsregel geschiktheid 2012.</al></artikel>
+      </hoofdstuk>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Amsterdam</plaats>
+          <datum isodatum="2012-06-26">26 juni 2012</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>
+        <functie>De Nederlandsche Bank N.V.,</functie>
+        <naam>
+          <voornaam>A.J.</voornaam>
+          <achternaam>Kellermann,</achternaam>
+        </naam>
+        <functie>directeur.</functie>
+      </ondertekening>
+      <ondertekening>
+        <naam>
+          <voornaam>J.</voornaam>
+          <achternaam>Sijbrand,</achternaam>
+        </naam>
+        <functie>directeur.</functie>
+      </ondertekening>
+      <ondertekening>
+        <functie>Stichting Autoriteit Financi&#xEB;le Markten,</functie>
+        <naam>
+          <voornaam>H.W.O.L.M.</voornaam>
+          <achternaam>Korte,</achternaam>
+        </naam>
+        <functie>directeur.</functie>
+      </ondertekening>
+      <ondertekening>
+        <naam>
+          <voornaam>Th.F.</voornaam>
+          <achternaam>Kockelkoren,</achternaam>
+        </naam>
+        <functie>bestuurder.</functie>
+      </ondertekening>
+    </regeling-sluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label>
+        <titel status="officieel">&#x2013; Competenties in alfabetische volgorde (behorend bij <intref status="actief" doc="1.0:v:BWBR0031740&amp;artikel=1.2">onderdeel 1.2.1</intref>)</titel>
+      </kop>
+      <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+        <li>
+          <li.nr>a.</li.nr>
+          <al>
+            <nadruk type="cur">Authenticiteit:</nadruk> is consistent in woord en daad, waarbij gedachten en gevoelens ook in lijn zijn met wat hij of zij zegt en doet. Dit betekent tevens het open communiceren van intenties, idee&#xEB;n en gevoelens, het uitnodigen tot openheid en eerlijkheid en de toezichthouder juist informeren over de werkelijke situatie en erkennen van risico&#x2019;s en problemen naar de toezichthouder.</al>
+        </li>
+        <li>
+          <li.nr>b.</li.nr>
+          <al>
+            <nadruk type="cur">Besluitvaardigheid:</nadruk> neemt op tijd noodzakelijke beslissingen door het nemen van acties of door zich vast te leggen door middel van het uitspreken van zijn of haar mening en wacht niet onnodig met het maken van keuzes.</al>
+        </li>
+        <li>
+          <li.nr>c.</li.nr>
+          <al>
+            <nadruk type="cur">Communicatief vermogen:</nadruk> brengt op een begrijpelijke en acceptabele wijze in een daartoe ge&#xEB;igende vorm een boodschap over aan anderen. Is gericht op duidelijkheid, transparantie en actief feedback geven en nemen.</al>
+        </li>
+        <li>
+          <li.nr>d.</li.nr>
+          <al>
+            <nadruk type="cur">Helikopterzicht en oordeelsvorming:</nadruk> kan gegevens en mogelijke handelswijzen tegen elkaar afwegen en tot een logisch oordeel komen. Onderzoekt, herkent en begrijpt de essenti&#xEB;le elementen en vraagstukken. Kan over de eigen portefeuille heen kijken, vooral wanneer problemen spelen die de continu&#xEF;teit van de onderneming in gevaar kunnen brengen.</al>
+        </li>
+        <li>
+          <li.nr>e.</li.nr>
+          <al>
+            <nadruk type="cur">Klant- en kwaliteitsgericht:</nadruk> is gericht op het leveren van kwaliteit en op de mogelijkheden om deze waar mogelijk te verbeteren. Specifiek betekent dit ook dat geen toestemming wordt verleend aan het ontwikkelen en afzetten van producten en diensten op de markt en investeringen in bijvoorbeeld producten, kantoorpanden of deelnemingen, waarvan hij of zij door gebrek aan inzicht in de architectuur, de uitgangspunten of de aannames, de risico&#x2018;s niet voldoende kan inschatten. Signaleert en onderzoekt de wensen en behoeften van klanten en handelt hiernaar, laat klanten geen onnodig risico lopen en zorgt voor juiste, volledige en evenwichtige informatieverstrekking aan klanten. Een transparant verkoopproces, zorgvuldige dienstverlening en passend advies staan hierbij centraal.</al>
+        </li>
+        <li>
+          <li.nr>f.</li.nr>
+          <al>
+            <nadruk type="cur">Leiderschap:</nadruk> geeft richting en sturing aan een groep, brengt samenwerkingsverbanden tot stand en handhaaft deze en stimuleert, motiveert en ontwikkelt de beschikbare human resources/borgt de vakbekwaamheid van medewerkers om een beoogd doel tot een goed einde te brengen. Staat open voor en biedt ruimte aan kritische discussies.</al>
+        </li>
+        <li>
+          <li.nr>g.</li.nr>
+          <al>
+            <nadruk type="cur">Loyaliteit:</nadruk> identificeert zich met de onderneming en voelt zich betrokken. Kan motiveren dat hij of zij (ondanks eventuele nevenfuncties) voldoende tijd aan zijn of haar functie kan besteden om deze naar behoren te kunnen uitvoeren.</al>
+        </li>
+        <li>
+          <li.nr>h.</li.nr>
+          <al>
+            <nadruk type="cur">Omgevingssensitiviteit:</nadruk> heeft oog voor de ontwikkelingen, machtsverhoudingen en gevoelens binnen de onderneming. Is goed ge&#xEF;nformeerd over de relevante (internationale) financi&#xEB;le, economische, maatschappelijke en andere ontwikkelingen in de omgeving van de onderneming alsook over de belangen van stakeholders en kan deze informatie effectief benutten.</al>
+        </li>
+        <li>
+          <li.nr>i.</li.nr>
+          <al>
+            <nadruk type="cur">Onafhankelijkheid:</nadruk> is zelfstandig in zijn of haar gedrag, durft eigen standpunten tegenover anderen (en enig deelbelang) te handhaven en te verdedigen in het belang van de onderneming. Opereert hiertoe objectief en kritisch. Herkent en anticipeert op situaties waarin persoonlijke en zakelijke belangen (potentieel) conflicteren.</al>
+        </li>
+        <li>
+          <li.nr>j.</li.nr>
+          <al>
+            <nadruk type="cur">Onderhandelingsvaardigheid:</nadruk> ontdekt en benoemt gemeenschappelijke belangen op een wijze die tot overeenstemming leidt.</al>
+        </li>
+        <li>
+          <li.nr>k.</li.nr>
+          <al>
+            <nadruk type="cur">Overtuigingskracht:</nadruk> kan door middel van overredingskracht, persoonlijk overwicht en tact invloed uitoefenen op het standpunt van anderen. Is een stevige persoonlijkheid. Is in staat zijn of haar rug recht te houden.</al>
+        </li>
+        <li>
+          <li.nr>l.</li.nr>
+          <al>
+            <nadruk type="cur">Samenwerkingsvermogen:</nadruk> heeft oog voor het groepsbelang en levert een bijdrage aan het gemeenschappelijke resultaat. Is tevens in staat in collegiaal verband te functioneren en geen pleitbezorger te zijn van individuele belangen.</al>
+        </li>
+        <li>
+          <li.nr>m.</li.nr>
+          <al>
+            <nadruk type="cur">Strategische sturing:</nadruk> kan een voldoende realistische visie op toekomstige ontwikkelingen vertalen in lange termijn doelstellingen en stelt een strategische planning op voor het realiseren van deze lange termijn doelstellingen, onder meer door het toepassen van scenarioanalyse. Houdt hierbij goed zicht op risico&#x2018;s die de onderneming loopt en neemt bijhorende beheermaatregelen.</al>
+        </li>
+        <li>
+          <li.nr>n.</li.nr>
+          <al>
+            <nadruk type="cur">Stressbestendig:</nadruk> blijft gelijkmatig presteren onder hoge (werk)druk en in onzekere omstandigheden.</al>
+        </li>
+        <li>
+          <li.nr>o.</li.nr>
+          <al>
+            <nadruk type="cur">Verantwoordelijkheid:</nadruk> Heeft inzicht in interne en externe belangen, weegt deze zorgvuldig af en legt hierover verantwoording af. Toont lerend vermogen en beseft dat zijn of haar handelen invloed heeft op de belangen van stakeholders.</al>
+        </li>
+        <li>
+          <li.nr>p.</li.nr>
+          <al>
+            <nadruk type="cur">Voorzittersvaardigheid:</nadruk> kan vergaderingen op effici&#xEB;nte en effectieve wijze leiden. Is in staat een open sfeer te cre&#xEB;ren waarin iedereen gelijkwaardig kan participeren. Heeft oog voor taakvervulling en verantwoordelijkheden van anderen.</al>
+        </li>
+      </lijst>
+      <al>De opsomming van deze competenties (a tot en met p) is niet cumulatief en niet limitatief. </al>
+      <bijlage-sluiting>
+        <ondertekening>
+          <functie>De Nederlandsche Bank N.V.,</functie>
+          <naam>
+            <voornaam>A.J.</voornaam>
+            <achternaam>Kellermann,</achternaam>
+          </naam>
+          <functie>directeur.</functie>
+        </ondertekening>
+        <ondertekening>
+          <naam>
+            <voornaam>J.</voornaam>
+            <achternaam>Sijbrand,</achternaam>
+          </naam>
+          <functie>directeur.</functie>
+        </ondertekening>
+        <ondertekening>
+          <functie>Stichting Autoriteit Financi&#xEB;le Markten,</functie>
+          <naam>
+            <voornaam>H.W.O.L.M.</voornaam>
+            <achternaam>Korte,</achternaam>
+          </naam>
+          <functie>directeur.</functie>
+        </ondertekening>
+        <ondertekening>
+          <naam>
+            <voornaam>Th.F.</voornaam>
+            <achternaam>Kockelkoren,</achternaam>
+          </naam>
+          <functie>bestuurder.</functie>
+        </ondertekening>
+      </bijlage-sluiting>
+    </bijlage>
+  </regeling>
+</wetgeving>
+  	

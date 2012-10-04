@@ -1,0 +1,798 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0022250" dtdversie="2.0" id="380979" soort="ministeriele-regeling">
+  
+  <intitule>Regeling van de Minister van Financi&#xEB;n van 2&#xA0;juli 2007 inzake het inrichten en het bijhouden van de begrotingsadministraties bij het Rijk (Regeling departementale begrotingsadministratie 2007)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Minister van Financi&#xEB;n,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0013891&amp;artikel=38" compleet="nee">artikel 38, eerste lid, van de Comptabiliteitswet 2001</extref>;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet voorts op de <extref status="actief" doc="1.0:v:BWBR0013891&amp;artikel=40" compleet="nee">artikelen 40</extref> en <extref status="actief" doc="1.0:v:BWBR0013891&amp;artikel=41" compleet="nee">41, eerste lid van de Comptabiliteitswet 2001</extref>;</considerans.al>
+        <considerans.al>Na overleg met de Algemene Rekenkamer (brief van 11&#xA0;april 2007, nr.7000876 R);</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Algemene bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Begripsbepalingen</titel>
+          </kop>
+          <al>In deze regeling wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>Minister: de Minister wie het aangaat.</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>College: een college, genoemd in <extref status="actief" doc="1.0:v:BWBR0013891&amp;artikel=1" compleet="nee">artikel 1, eerste lid, onder e, van de Comptabiliteitswet 2001</extref>, wat het aangaat.</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>Administreren: het systematisch verzamelen, vastleggen en verwerken van gegevens, gericht op het verstrekken van informatie ten behoeve van het besturen en doen functioneren van een Ministerie en ten behoeve van de verantwoording die daarover moet worden afgelegd.</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>Departementale begrotingsadministratie: de administratie van de financi&#xEB;le handelingen bij een Ministerie, baten-lastendiensten en de begrotingsfondsen die bestaat uit de ramingsregistratie, de begrotingsboekhouding en de overige administraties.</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>Begrotingsboekhouding: het onderdeel van de departementale begrotingsadministratie, waarin gerealiseerde verplichtingen, uitgaven en ontvangsten, baten, lasten, kapitaaluitgaven en kapitaalontvangsten, standen van saldibalansposten en balansposten worden verwerkt.</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>Ramingsregistratie: een onderdeel van de departementale begrotingsadministratie, waaraan informatie over de ramingen van verplichtingen, baten, lasten, uitgaven en ontvangsten, de wijzigingen daarvan en de meerjarenramingen van verplichtingen, uitgaven en ontvangsten kunnen worden ontleend.</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>Begrotingsvoorbereiding: het gehele proces dat gericht is op de totstandkoming en autorisatie van de ontwerpbegroting. Dit proces begint met de begrotingsaanschrijving van de Minister van Financi&#xEB;n en eindigt op het moment dat de begrotingswet door de Staten-Generaal is aangenomen.</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>Begrotingsuitvoering: het proces dat gericht is op de uitvoering en het beheer van de door de Staten-Generaal geautoriseerde begroting. Dit proces start op 1&#xA0;januari van het desbetreffende jaar en eindigt op 31&#xA0;december.</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>Administratieve organisatie van het financieel beheer: het gehele complex van organisatorische maatregelen binnen een organisatie, inclusief het stelsel van maatregelen van interne controle, dat direct of indirect betrekking heeft op een goede werking van de financi&#xEB;le administratie en de financieel-administratieve systemen, op de rechtmatigheid en doelmatigheid van het financieel beheer en op de verantwoording die daarover moet worden afgelegd.</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>Verplichtingen-kasstelsel: een combinatie van het kasstelsel en het verplichtingenstelsel. De uitgaven en ontvangsten worden toegerekend aan het tijdvak waarin de feitelijke uitgaven en ontvangsten plaatsvinden. Tevens wordt inzicht gegeven in de financi&#xEB;le consequenties van aangegane verplichtingen.</al>
+            </li>
+            <li>
+              <li.nr>k.</li.nr>
+              <al>Baten-lastendienst: een dienstonderdeel zoals bedoeld in het <extref status="actief" doc="1.0:v:BWBR0013891&amp;artikel=10" compleet="nee">eerste lid van artikel 10 van de Comptabiliteitswet 2001</extref>.</al>
+            </li>
+            <li>
+              <li.nr>l.</li.nr>
+              <al>Baten-lastenstelsel: een begrotings- en verslaggevingsstelsel waarbij uitgaven en ontvangsten worden toegerekend aan het tijdvak waarin het verbruik van goederen en diensten plaatsvindt en de baten ontstaan.</al>
+            </li>
+            <li>
+              <li.nr>m.</li.nr>
+              <al>Functiescheiding: het aanbrengen van scheiding tussen functies met beschikkende, registrerende, bewarende, controlerende en uitvoerende taken en bevoegdheden.</al>
+            </li>
+            <li>
+              <li.nr>n.</li.nr>
+              <al>Betrouwbaarheid: de informatie is juist (conform de bewijs- en boekingsstukken), tijdig (binnen de daartoe gestelde tijd boeken, betalen of verplichten) en volledig (bevat alle financi&#xEB;le gegevens en boekingen).</al>
+            </li>
+            <li>
+              <li.nr>o.</li.nr>
+              <al>Comptabele rechtmatigheid: dat   een financi&#xEB;le transactie waarvan de uitkomst in het departementale jaarverslag dient te worden verantwoord, is in overeenstemming met de begrotingswetten en met de in de internationale regelgeving, Nederlandse wetten, algemene maatregelen van bestuur en Ministeri&#xEB;le regelingen opgenomen bepalingen die de uitkomst van die financi&#xEB;le transactie be&#xEF;nvloeden.</al>
+            </li>
+            <li>
+              <li.nr>p.</li.nr>
+              <al>Meerjarenraming: de ramingen van verplichtingen, uitgaven, niet-belastingontvangsten en belastingontvangsten voor direct op het begrotingsjaar volgende jaren.</al>
+            </li>
+            <li>
+              <li.nr>q.</li.nr>
+              <al>Intracomptabele administratie: de begrotingsboekhouding waarin de financi&#xEB;le gegevens van een transactie worden geboekt en in directe relatie met de verplichtingen en kasstromen worden bijgehouden.</al>
+            </li>
+            <li>
+              <li.nr>r.</li.nr>
+              <al>Extracomptabele administratie: de ondersteunende administratie die als aanvulling op de begrotingsadministratie wordt bijgehouden.</al>
+            </li>
+            <li>
+              <li.nr>s.</li.nr>
+              <al>Bijstelling van een aangegane verplichting: een aanpassing van het bedrag van een aangegane verplichting en van de raming van de uit die verplichting voortvloeiende betaling(en), zonder dat er in formele zin sprake is van een nieuwe verplichting.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Verantwoordelijkheid van de Ministers, respectievelijk de colleges</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De Minister, dan wel het college is verantwoordelijk voor een deugdelijke administratieve organisatie van het financieel beheer, inclusief de noodzakelijke functiescheiding.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De Minister dan wel het college draagt zorg voor de tijdige verstrekking van informatie aan de Minister van Financi&#xEB;n.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De Minister dan wel het college draagt bij de inrichting van de begrotingsadministratie zorg voor een adequate beveiliging van de (geautomatiseerde) begrotingsadministratie.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">Informatieverstrekking aan de Minister van Financi&#xEB;n</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De elektronische verstrekking van financi&#xEB;le informatie aan de Minister van Financi&#xEB;n geschiedt met gebruikmaking van het Interdepartementaal Budgettair Overleg Systeem (IBOS) en van de Koppelfaciliteit van het Rijks Informatie Systeem (RIS).</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De volgende informatie wordt in ieder geval aan de Minister van Financi&#xEB;n verstrekt:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de maandelijkse saldibalans (op papier) en de artikelrealisaties aansluitend op de saldibalans (elektronisch);</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de periodieke begrotingsrapportages samenhangend met budgettaire nota&#x2019;s volgens de Regeling Rijksbegrotingsvoorschriften;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de beleidsbrieven van de departementen ten behoeve van het hoofdbesluitvormingsmoment in de Ministerraad;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de producten  ten behoeve van de Staten-Generaal waaronder in ieder geval:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>de ontwerpbegrotingen, suppletoire begrotingen, (ontwerp-)slotwetten;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>het jaarverslag inclusief de bedrijfsvoeringsparagraaf en een paragraaf voor de baten-lastendiensten, de balans per 31 december, het kasstroomoverzicht, de verantwoordingsstaat van de Ministeries en de baten-lastendiensten met bijbehorende toelichting en de saldibalans met toelichting.</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>de producten  ten behoeve van de Algemene Rekenkamer waaronder in ieder geval:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>de (ontwerp-)slotwetten;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>het jaarverslag inclusief de bedrijfsvoeringsparagraaf en een paragraaf voor de baten-lastendiensten, de balans per 31 december, het kasstroomoverzicht, de verantwoordingsstaat van de Ministeries en de baten-lastendiensten met bijbehorende toelichting en de saldibalans met toelichting.</al>
+                  </li>
+                </lijst>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Inrichting van de departementale begrotingsadministratie</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+            <titel status="officieel">Algemeen</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De departementale begrotingsadministratie wordt zodanig opgezet en ingericht dat daaruit informatie is af te leiden uitgesplitst naar:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de begrotingen genoemd in <extref status="actief" doc="1.0:v:BWBR0013891&amp;artikel=1" compleet="nee">artikel 1 van de Comptabiliteitswet 2001</extref>;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de baten-lastendiensten bedoeld in <extref status="actief" doc="1.0:v:BWBR0013891&amp;artikel=10" compleet="nee">artikel 10 van de Comptabiliteitswet 2001</extref>;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de rekeningen buiten het begrotingsverband bedoeld in <extref status="actief" doc="1.0:v:BWBR0013891&amp;artikel=28" compleet="nee">artikel 28, tweede lid van de Comptabiliteitswet 2001</extref>.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De begrotingsadministraties worden ingericht overeenkomstig het geldende begrotingsstelsel. Voor de begrotingen bedoeld in het eerste lid onder a is dat een ge&#xEF;ntegreerd verplichtingen-kasstelsel. De baten-lastendiensten bedoeld in het eerste lid onder b voeren een baten-lastenstelsel.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+            <titel status="officieel">Eisen aan de begrotingsadministratie van Ministeries, begrotingsfondsen en baten-lastendiensten</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De departementale begrotingsadministratie wordt zodanig ingericht en gevoerd dat daaraan op doelmatige wijze informatie kan worden ontleend zowel ten behoeve van een geordende begrotingsvoorbereiding als ten behoeve van een beheersbare begrotingsuitvoering en controleerbare verantwoording. De begrotingsadministratie verschaft in ieder geval informatie over:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de actuele stand van de door de Staten-Generaal geautoriseerde begrotingsbedragen, de meerjarenramingen en de realisaties op het niveau van beleidsdoelstelling, operationele doelstelling en instrument;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de eventuele mutaties in de begrotingsbedragen en in de meerjarenramingen waarover met de Minister van Financi&#xEB;n overeenstemming bestaat;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>in samenhang met de begrotingsboekhouding, informatie over de beschikbare begrotingsruimte.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De departementale begrotingsadministratie bevat zowel ramingsgegevens als realisatiegegevens op basis waarvan in elk geval per Ministerie en zo mogelijk per begrotingsfonds een saldibalans kan worden opgesteld.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De departementale begrotingsadministratie wordt zodanig ingericht en bijgehouden dat daaraan informatie kan worden ontleend die relevant is voor het EMU-saldo. De Minister van Financi&#xEB;n maakt bekend welke informatie relevant is voor het EMU-saldo.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De begrotingsadministratie van een baten-lastendienst verschaft informatie over de door de Staten-Generaal geautoriseerde begrotingsbedragen met betrekking tot baten en lasten, het saldo van de baten en lasten, kapitaaluitgaven en -ontvangsten.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+            <titel status="officieel">Kwaliteitseisen op te leveren informatie</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Ramingsgegevens die gevoelig zijn voor macro-economische factoren, worden gebaseerd op de basiswaarden voor deze factoren die door de Minister van Financi&#xEB;n worden vastgesteld.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De informatie die aan de begrotingsadministratie wordt ontleend is zo betrouwbaar dat ze kan dienen:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>voor het monitoren van de begrotingsuitvoering;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>voor het opstellen van de nieuwe begroting en de daarbij behorende meerjarenramingen;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>voor het opstellen van begrotingswijzigingen in het kader van de eerste en tweede suppletoire begroting en de ontwerp-slotwetten;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>voor het opstellen van de jaarlijkse verantwoording.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Bijhouden departementale begrotingsadministratie</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+            <titel status="officieel">Begrotings- en meerjarenramingen</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Bij de begrotingsvoorbereiding worden de begrotings- en meerjarenramingen van een onderbouwing voorzien; tijdens de begrotingsuitvoering geldt hetzelfde voor de wijzigingen hierop.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien tijdens de begrotingsuitvoering de verwachte realisatie afwijkt van het beschikbare bedrag, wordt een wijziging van het begrotingsbedrag boven de afgesproken grens op het niveau van beleidsdoelstellingen, operationele doelstellingen en instrumenten aan de Minister van Financi&#xEB;n voorgelegd.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+            <titel status="officieel">Kwaliteitseis verplichtingen, uitgaven en ontvangsten</titel>
+          </kop>
+          <al>Alle verplichtingen, uitgaven en ontvangsten in de departementale begrotingsadministratie voldoen aan de eis van comptabele rechtmatigheid.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+            <titel status="officieel">Eisen aan verplichtingen</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Voorafgaand aan iedere begrotingsuitgave wordt een verplichting in de departementale begrotingsadministratie opgenomen. Bij iedere verplichting wordt een einddatum geregistreerd. Geen enkele betaling geschiedt onverplicht.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In afwijking van het gestelde in het eerste lid wordt geen afzonderlijke verplichting vastgelegd voor de categorie&#xEB;n verplichtingen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0013891&amp;artikel=3" compleet="nee">artikel 3, derde lid van de Comptabiliteitswet 2001</extref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Bij aan te gane en aangegane verplichtingen wordt een (meerjarige) kasraming gemaakt.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+            <titel status="officieel">Bijstelling van verplichtingen</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een positieve bijstelling van een aangegane verplichting wordt in de departementale begrotingsadministratie op dezelfde wijze als een aangegane verplichting verwerkt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een negatieve bijstelling van een aangegane verplichting wordt in de departementale begrotingsadministratie verwerkt door een negatief bedrag als aangegane verplichting op te nemen en door de raming van de uit de oorspronkelijke verplichting voortvloeiende betaling(en) met dat bedrag te verlagen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De begrotingsboekhouding kan op ieder voorgeschreven moment een saldibalans met de actuele verplichtingenstand opleveren.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+            <titel status="officieel">Uitgaven</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>In de begrotingsboekhouding wordt verband gelegd tussen verplichtingen en de daarmee verband houdende betalingen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Bij het vastleggen van betalingen in de begrotingsboekhouding wordt verwezen naar de onderliggende stukken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De tussenrekeningen die in het traject van betaalbaarstelling worden gebruikt, bevatten bij de afsluiting van een begrotingsjaar geen saldo meer.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">12</nr>
+            <titel status="officieel">Rekeningen van uitgaven en ontvangsten</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De rekeningen van de begrotingsartikelen worden aan het einde van een begrotingsjaar afgesloten.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De totalen van deze rekeningen van uitgaven en ontvangsten worden op de saldibalans opgenomen met een verwijzing naar het desbetreffende begrotingsjaar.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De definitieve afsluiting van een begrotingsjaar vindt plaats nadat de Staten-Generaal decharge hebben verleend.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">13</nr>
+            <titel status="officieel">Boekingen buiten het begrotingsverband</titel>
+          </kop>
+          <al>Boeking van verplichtingen, uitgaven en ontvangsten buiten het begrotingsverband geschiedt op analoge wijze als boeking van verplichtingen, uitgaven en ontvangsten binnen het begrotingsverband.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">14</nr>
+            <titel status="officieel">Rekeningen van liquide middelen en rekening-courant met de rijkshoofdboekhouding</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Op de rekeningen van liquide middelen wordt het saldo bij de banken en het aanwezige contante geld geregistreerd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Op de rekening-courant met de rijkshoofdboekhouding worden de mutaties in de financi&#xEB;le verhouding met &#x2018;s Rijks schatkist geadministreerd.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Overige administraties</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">15</nr>
+            <titel status="officieel">Overige administraties binnen de begrotingsadministratie</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Overige administraties worden voor zover mogelijk en doelmatig in controleverband met de begrotingsboekhouding bijgehouden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De Minister kan aanvullende regels stellen voor de overige administraties van zijn departement.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">16</nr>
+            <titel status="officieel">Verplichte overige administraties</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het voeren van een salarisadministratie is verplicht. Indien een Minister garanties, voorschotten of leningen ten laste van de begroting verstrekt, wordt hiervoor een aparte administratie gevoerd. Ook voor deelnemingen wordt een administratie bijgehouden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De Minister van Financi&#xEB;n kan schriftelijk ontheffing verlenen van het bepaalde in het eerste lid.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">17</nr>
+            <titel status="officieel">Salarisadministratie(s)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De salarisadministratie(s) bevat(ten) van ieder personeelslid naam, adres en woonplaats. Daarnaast worden de volgende gegevens bijgehouden:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de gegevens voor de berekening van de netto uit te betalen salarisbedragen en van de netto bedragen van de met het salaris samenhangende uitkeringen;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>gegevens over inhoudingen op het salaris;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de gegevens voor de betaalbaarstelling van de netto bedragen;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de betaalbaargestelde netto bedragen en de berekening daarvan;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>de gegevens voor de berekening van de bijdrage van het Rijk aan het Algemeen burgerlijk pensioenfonds en de als gevolg van belastingwetten en sociale wetten verschuldigde bedragen.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De salarisadministratie is zodanig ingericht, dat daaraan op doelmatige wijze gegevens kunnen</al>
+            <al>worden ontleend voor relevante overzichten en opgaven met betrekking tot het salaris.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">18</nr>
+            <titel status="officieel">Garantieadministratie</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>In de garantieadministratie worden in ieder geval de volgende gegevens vastgelegd:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de (rechts)persoon aan wie de garantie is verleend;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het begrotingsjaar, artikelnummer ten laste waarvan de garantie is verleend en het bedrag van de garantie;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de stand, de looptijd inclusief vervaldatum en het risico van de individuele garantie.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Aan de garantieadministratie kan de reden waarom een garantie is verleend en de wettelijke grondslag van de garantie worden ontleend.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Garanties worden naar type gerangschikt en geadministreerd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De eisen genoemd in het eerste, tweede en derde lid gelden voor garanties die het Rijk rechtstreeks verleent.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">19</nr>
+            <titel status="officieel">Voorschottenadministratie</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>In de voorschottenadministratie worden indien van toepassing de volgende gegevens over voorschotten vastgelegd:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>gegevens over de (rechts)persoon aan wie het voorschot is verstrekt;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het begrotingsjaar, artikelnummer ten laste waarvan het voorschot is verstrekt en het bedrag van het voorschot;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de omvang van het voorschot in relatie tot de totale verplichting;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de vorm waarin zekerheid is gesteld dan wel dat geen zekerheid is gesteld;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>of op grond van de Regeling verlening voorschotten 2007 al dan niet goedkeuring vereist is van de Minister van Financi&#xEB;n en, indien dat het geval is, of die goedkeuring al dan niet is verkregen;</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>de uiterste datum van afrekening en de stand van zaken bij de afwikkeling van de afrekening.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien op grond van de Regeling verlening voorschotten 2007 een voorschot wordt verstrekt, blijkt uit de voorschottenadministratie waarom een voorschot wordt verleend.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">20</nr>
+            <titel status="officieel">Leningenadministratie</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De administratie van leningen wordt zodanig bijgehouden dat er in ieder geval de volgende gegevens aan kunnen worden ontleend:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>gegevens over de (rechts)persoon aan wie de lening is verstrekt;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het begrotingsjaar en artikelnummer ten laste waarvan de lening is verstrekt en het bedrag van de lening;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>onder welke voorwaarden de lening is verstrekt;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de stand, de looptijd en het risico van de individuele lening;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>de hoofdsom, het rentepercentage en het aflossingsschema van de lening;</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>of zekerheid is gesteld en de vorm waarin dit is gedaan.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Uit de leningenadministratie blijkt waarom een lening is verstrekt en wat de wettelijke grondslag is.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">21</nr>
+            <titel status="officieel">Deelnemingenadministratie</titel>
+          </kop>
+          <al>De deelnemingenadministratie bevat, voor zover van toepassing, de volgende gegevens:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de naam en adresgegevens van de rechtspersoon;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>het nominale bedrag, de stortingsverplichting, de oorspronkelijke aankoopprijs en de wijze van deelneming;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>het nominale bedrag van het verkregen stockdividend en van verkregen bonusaandelen;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>het nominale bedrag van de deelneming uitgedrukt in een percentage van het geplaatste kapitaal;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>de intrinsieke waarde of ingeval van een minderheidsbelang zo mogelijk de beurswaarde van de deelneming per 31&#xA0;december van het voorafgaande begrotingsjaar;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>de bewijzen van deelneming en de nummers daarvan;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>de plaats waar de bewijzen van deelneming bewaard worden.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">22</nr>
+            <titel status="officieel">Mogelijke overige administraties</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De Minister houdt indien noodzakelijk andere overige administraties binnen de begrotingsadministratie bij waaronder:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>extracomptabele administraties van vorderingen en schulden;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>administratie van rechten;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>projectadministratie.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In afwijking van het eerste lid is het bijhouden van een projectadministratie noodzakelijk indien de Tweede Kamer een project heeft aangewezen als groot project of indien de Minister van Financi&#xEB;n een project heeft aangewezen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Aan de extracomptabele administraties van vorderingen en schulden en aan de administratie van rechten kunnen in ieder geval gegevens worden ontleend over:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de (rechts)persoon met wie de financi&#xEB;le relatie bestaat;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het verloop van de financi&#xEB;le verhouding met de (rechts)persoon;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de omvang van de vorderingen en rechten per debiteur en de schulden per crediteur;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>op welke begrotingsartikelen de vorderingen, schulden en rechten betrekking hebben en in welk jaar ze zijn ontstaan;</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De administraties van vorderingen, schulden en rechten, geven inzicht in de ouderdom van de rechten, vorderingen en schulden.  Vorderingen worden voor de nominale waarde opgenomen; waarbij een nader onderscheid wordt gemaakt naar de mate van opeisbaarheid van de vorderingen:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>direct opeisbare vorderingen;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>op termijn opeisbare vorderingen. Hierbij wordt een nader onderscheid aangebracht tussen:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>op korte termijn opeisbare vorderingen;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>op lange termijn opeisbare vorderingen;</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>geconditioneerde vorderingen.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De Minister bepaalt welke overige administraties zinvol zijn. Hij kan daarover advies vragen aan de Minister van Financi&#xEB;n.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">23</nr>
+            <titel status="officieel">Mogelijkheid tot het stellen van aanvullende regels</titel>
+          </kop>
+          <al>De Minister van Financi&#xEB;n kan aanvullende regels voor de departementale begrotingsadministratie stellen.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">24</nr>
+            <titel status="officieel">Evaluatiebepaling</titel>
+          </kop>
+          <al>Deze regeling wordt vijf jaar na de datum van inwerkingtreding ge&#xEB;valueerd.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">25</nr>
+            <titel status="officieel">Inwerkingtreding en publicatie RDB 2007</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De Regeling departementale begrotingsadministratie 1997 van 18&#xA0;april 2003 wordt ingetrokken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Deze regeling kan worden aangehaald als: Regeling departementale begrotingsadministratie 2007.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Zij wordt ter kennis gebracht van de Algemene Rekenkamer en zal voorts openbaar worden gemaakt door publicatie in het Handboek Financi&#xEB;le Informatie en Administratie Rijksoverheid (www.minfin.nl/hafir).</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1&#xA0;januari 2007.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <ondertekening>De <functie>Minister</functie> van <organisatie afkorting="FIN">Financi&#xEB;n</organisatie>,<naam>
+          <voornaam>W.J.</voornaam>
+          <achternaam>Bos</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

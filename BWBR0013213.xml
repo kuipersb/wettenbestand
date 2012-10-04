@@ -1,0 +1,340 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0013213" dtdversie="2.0" id="50999" soort="AMvB" xml:lang="nl">
+    
+    <intitule>Besluit van 18 december 2001, houdende regels voor de
+    vergaring van nummergegevens door middel van afwijkend
+    frequentiegebruik en bestandsanalyse met het oog op het onderzoek
+    van telecommunicatie (Besluit bijzondere vergaring nummergegevens telecommunicatie)</intitule>
+    
+    <wet-besluit>
+        <aanhef>
+    <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden,
+        Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+    <considerans>
+        <considerans.al>Op de voordracht van de Staatssecretaris van
+            Verkeer en Waterstaat van 16 mei 2001, nr. DGTP/01/2472/RJD,
+            Directoraat-Generaal Telecommunicatie en Post, mede namens
+            Onze Minister van Justitie en Onze Minister van Binnenlandse
+            Zaken en Koninkrijksrelaties;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op de <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.10" compleet="nee">artikelen 3.10, vierde lid,
+                onderdeel a</extref>, en <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4" compleet="nee">13.4, tweede lid, van de Telecommunicatiewet</extref>;</considerans.al>
+        <considerans.al>De Raad van State gehoord (advies van 11
+            september 2001, nr. W09.01.0232/V);</considerans.al>
+        <considerans.al>Gezien het nader rapport van de Staatssecretaris
+            van Verkeer en Waterstaat van 12 december 2001, nr.
+            DGTP/01/5617/RJD, Directoraat-Generaal Telecommunicatie en
+            Post, uitgebracht mede namens Onze Minister van Justitie en
+            Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;</considerans.al>
+    </considerans>
+    <afkondiging>
+        <al>Hebben goedgevonden en verstaan:</al>
+    </afkondiging>
+</aanhef>
+        <wettekst>
+            <paragraaf>
+    <kop>
+        <label>&#xA7;</label>
+        <nr>1</nr>
+        <titel>Begripsbepaling</titel>
+    </kop>
+    <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr>1</nr> 
+  </kop> 
+  <al>In dit besluit wordt verstaan onder:</al> 
+  <lijst> 
+	 <li> 
+		<li.nr>a.</li.nr> 
+		<al>wet:
+		  <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Telecommunicatiewet;</extref> </al> 
+	 </li> 
+	 <li> 
+		<li.nr>b.</li.nr> 
+		<al>aanbieder: de aanbieder van een openbaar telecommunicatienetwerk of
+		  een openbare telecommunicatiedienst;</al> 
+	 </li> 
+	 <li> 
+		<li.nr>c.</li.nr> 
+		<al>bevoegde autoriteit:</al> 
+		<lijst> 
+		  <li> 
+			 <li.nr>1&#xB0;.</li.nr> 
+			 <al>de officier van justitie, dan wel de door hem in een bepaald
+				geval schriftelijk aangewezen opsporingsambtenaar,</al> 
+		  </li> 
+		  <li> 
+			 <li.nr>2&#xB0;.</li.nr> 
+			 <al>het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst, dan
+				wel door hem schriftelijk aangewezen functionarissen optredend in het kader van
+				de uitvoering van hun taak,</al> 
+		  </li> 
+		  <li> 
+			 <li.nr>3&#xB0;.</li.nr> 
+			 <al>het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst,
+				dan wel door hem schriftelijk aangewezen functionarissen optredend in het kader
+				van de uitvoering van hun taak.</al> 
+		  </li> 
+		</lijst> 
+	 </li> 
+	 <li> 
+		<li.nr>d.</li.nr> 
+		<al>gebruiker: de natuurlijke of rechtspersoon die met de aanbieder een
+		  overeenkomst is aangegaan met betrekking tot het gebruik van een openbaar
+		  telecommunicatienetwerk of de levering van een openbare telecommunicatiedienst,
+		  alsmede de natuurlijke of rechtspersoon die daadwerkelijk gebruik maakt van een
+		  openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst.</al> 
+	 </li> 
+  </lijst> 
+</artikel>
+</paragraaf>
+            <paragraaf>
+    <kop>
+        <label>&#xA7;</label>
+        <nr>2</nr>
+        <titel>Afwijkend gebruik van frequentieruimte</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>2</nr>
+    </kop>
+    <lid>
+        <lidnr>1</lidnr>
+        <al>De apparatuur waarmee op grond van <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.10" compleet="nee">artikel 3.10, vierde lid, van de
+            wet</extref> een gebruik van frequentieruimte is
+            toegestaan dat afwijkt van het bepaalde bij of krachtens
+                <extref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=3" compleet="nee">hoofdstuk 3 van de
+            wet</extref> voldoet aan de volgende eisen:</al>
+        <lijst>
+            <li>
+                <li.nr>a.</li.nr>
+                <al>de apparatuur is voorzien van een inrichting die de
+                    nummergegevens, bedoeld in <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4" compleet="nee">artikel 13.4, eerste lid,
+                        van de wet</extref> zodanig selecteert
+                    dat het selectieproces niet meer dan een
+                    plaatselijke, zeer geringe verandering van de
+                    functionaliteiten van het desbetreffende netwerk veroorzaakt;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>de apparatuur is voorzien van een inrichting waarmee
+                    het uitgezonden vermogen kan worden geregeld;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>indien de apparatuur is voorzien van een inrichting
+                    die het, al dan niet in combinatie met het
+                    selectieproces, bedoeld onder a, mogelijk maakt om
+                    telecommunicatie af te luisteren of op te nemen,
+                    dient deze inrichting uitgeschakeld en vergrendeld
+                    te zijn;</al>
+            </li>
+            <li>
+                <li.nr>d.</li.nr>
+                <al>de apparatuur is geregistreerd bij Onze Minister.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al>De apparatuur, bedoeld in het eerste lid, is opgeslagen bij
+            een door de korpsbeheerder aangewezen onderdeel van het
+            Korps landelijke politiediensten.</al>
+    </lid>
+</artikel>
+    <artikel status="goed"><kop><label>Artikel</label><nr>3</nr></kop><al>Met de in <intref status="actief" doc="1.0:v:BWBR0013213&amp;artikel=2">artikel 2</intref> bedoelde apparatuur wordt gelijkgesteld
+        apparatuur die rechtmatig is vervaardigd of in de handel is
+        gebracht in een andere lidstaat van de Europese Unie dan wel
+        rechtmatig is vervaardigd in een staat die partij is bij de
+        overeenkomst inzake de Europese Economische Ruimte, en die aan
+        tenminste gelijkwaardige technische eisen voldoet.</al></artikel>
+    <artikel status="goed"><kop><label>Artikel</label><nr>4</nr></kop><lid><lidnr>1</lidnr><al>Bevoegd tot het gebruik van de apparatuur, bedoeld in
+            <intref status="actief" doc="1.0:v:BWBR0013213&amp;artikel=2">artikel 2</intref>, is de door de korpsbeheerder van het Korps
+            landelijke politiediensten aangewezen opsporingsambtenaar
+            van het Korps landelijke politiediensten die voldoet aan de
+            door Onze Minister van Justitie vastgestelde eisen
+            betreffende kennis van de juridische, operationele en
+            technische aspecten van het gebruik van de apparatuur.</al></lid><lid><lidnr>2</lidnr><al>De opsporingsambtenaar maakt van het gebruik van de
+            apparatuur proces-verbaal op. Het proces-verbaal vermeldt:</al><lijst><li><li.nr>a.</li.nr><al>of gebruik is gemaakt van apparatuur als bedoeld in
+                    <intref status="actief" doc="1.0:v:BWBR0013213&amp;artikel=2">artikel 2, eerste lid, onder c</intref>, en of de inrichting
+                    die het mogelijk maakt om telecommunicatie af te
+                    luisteren of op te nemen is uitgeschakeld en vergrendeld,</al></li><li><li.nr>b.</li.nr><al>de data en de tijdstippen waarop en de plaatsen waar
+                    de apparatuur is gebruikt, en</al></li><li><li.nr>c.</li.nr><al>de gegevens die door het gebruik van de apparatuur
+                    zijn verkregen.</al></li></lijst></lid><lid><lidnr>3</lidnr><al>De opsporingsambtenaar vermeldt de gegevens, bedoeld in het
+            tweede lid, onder b, alsmede de tijdens het gebruik van de
+            apparatuur gehanteerde instellingen en vermogens van de
+            apparatuur in een daartoe aan te leggen registratie en doet
+            mededeling van deze gegevens aan Onze Minister.</al></lid></artikel>
+</paragraaf>
+            <paragraaf>
+    <kop>
+        <label>&#xA7;</label>
+        <nr>3</nr>
+        <titel>Bestandsanalyse</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>5</nr>
+    </kop>
+    <lid>
+        <lidnr>1</lidnr>
+        <al>Op het verzoek van de bevoegde autoriteit in een geval als
+            bedoeld in <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4" compleet="nee">artikel 13.4, tweede lid, jo
+                artikel 13.4, eerste lid, van de wet</extref>,
+            achterhaalt en verstrekt de aanbieder het aan de gebruiker
+            verleende nummer.</al>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al>Het verzoek is schriftelijk en vermeldt gegevens betreffende
+            twee tijdstippen waarop en locaties waar de gebruiker
+            kennelijk gebruik heeft gemaakt van telecommunicatie. Indien
+            de bevoegde autoriteit, gelet op de feiten of omstandigheden
+            meent dat volstaan kan worden met de vermelding van &#xE9;&#xE9;n
+            tijdstip en &#xE9;&#xE9;n locatie, vermeldt het verzoek, onder
+            aanduiding van de feiten of omstandigheden, de gegevens
+            betreffende &#xE9;&#xE9;n tijdstip en &#xE9;&#xE9;n locatie. Deze gegevens omvatten:</al>
+        <lijst>
+            <li>
+                <li.nr>a.</li.nr>
+                <al>het tijdstip: het jaar, de maand, de dag, het uur en
+                    een zo nauwkeurig mogelijke aanduiding van de minuut;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>de locatie: de gemeente, postcode, straat en het
+                    huisnummer, dan wel de co&#xF6;rdinaten van de
+                    Nederlandse Topografische Dienst met twee maal zes cijfers.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr>3</lidnr>
+        <al>De feiten of omstandigheden, bedoeld in het tweede lid, betreffen:</al>
+        <lijst>
+            <li>
+                <li.nr>a.</li.nr>
+                <al>de locatie, wanneer het een locatie betreft waar
+                    weinig telecommunicatieverkeer plaatsvindt,</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>het tijdstip, wanneer het een tijdstip betreft
+                    waarop weinig telecommunicatieverkeer plaatsvindt,</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>een geval waarin het nummer waarmee de gebruiker van
+                    telecommunicatie contact zoekt, bekend is.</al>
+            </li>
+        </lijst>
+    </lid>
+</artikel>
+    <artikel status="goed"><kop><label>Artikel</label><nr>6</nr></kop><lid><lidnr>1</lidnr><al>De aanbieder achterhaalt het nummer, bedoeld in <intref status="actief" doc="1.0:v:BWBR0013213&amp;artikel=5">artikel 5,
+            eerste lid</intref>, door een bewerking toe te passen op de gegevens
+            betreffende het gebruik van het door hem aangeboden openbare
+            telecommunicatienetwerk of de door hem aangeboden openbare telecommunicatiedienst.</al></lid><lid><lidnr>2</lidnr><al>Nadat de aanbieder het verzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0013213&amp;artikel=5">artikel 5,
+            eerste lid</intref>, heeft ontvangen, verstrekt hij het nummer
+            onverwijld aan de bevoegde autoriteit. De verstrekking is
+            schriftelijk en vermeldt het nummer, dan wel indien de
+            bewerking meer dan &#xE9;&#xE9;n nummer heeft opgeleverd, de nummers.
+            In geval van spoed vindt de verstrekking mondeling plaats,
+            waarna deze schriftelijk wordt bevestigd.</al></lid><lid><lidnr>3</lidnr><al>De aanbieder verstrekt, in afwijking van het tweede lid, het
+            nummer zo spoedig mogelijk indien het verzoek niet ten
+            minste de gegevens bevat, genoemd in <intref status="actief" doc="1.0:v:BWBR0013213&amp;artikel=5">artikel 5, tweede lid</intref>.</al></lid></artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>7</nr>
+    </kop>
+    <al>Als gegevens, bedoeld in<extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4" compleet="nee"> artikel 13.4, tweede lid, tweede
+            volzin, van de wet</extref>, worden aangewezen:</al>
+    <lijst>
+        <li>
+            <li.nr>a.</li.nr>
+            <al>de tijdstippen waarop telecommunicatie heeft plaatsgevonden,</al>
+        </li>
+        <li>
+            <li.nr>b.</li.nr>
+            <al>de met die tijdstippen en de desbetreffende
+                telecommunicatie corresponderende nummers,</al>
+        </li>
+        <li>
+            <li.nr>c.</li.nr>
+            <al>bij welk basisstation elk van de gegevens onder a en b
+                zijn binnengekomen.</al>
+        </li>
+    </lijst>
+</artikel>
+</paragraaf>
+            <paragraaf>
+    <kop>
+        <label>&#xA7;</label>
+        <nr>4</nr>
+        <titel>Slotbepalingen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>8</nr>
+    </kop>
+    <al>Dit besluit wordt aangehaald als: Besluit bijzondere vergaring
+        nummergegevens telecommunicatie.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>9</nr>
+    </kop>
+    <al>Dit besluit treedt in werking op een bij koninklijk besluit te
+        bepalen tijdstip, dat voor de verschillende artikelen of
+        onderdelen daarvan verschillend kan worden vastgesteld.</al>
+</artikel>
+</paragraaf>
+        </wettekst>
+        <wetsluiting status="goed">
+    <slotformulering>
+        <al>Lasten en bevelen dat dit besluit met de daarbij behorende
+            nota van toelichting in het Staatsblad zal worden geplaatst.</al>
+    </slotformulering>
+    <gegeven>
+        <dagtekening>
+            <plaats>'s-Gravenhage</plaats>
+            <datum isodatum="">18 december 2001</datum>
+        </dagtekening>
+        <koning>Beatrix</koning>
+    </gegeven>
+    <ondertekening>
+        <functie>De Staatssecretaris van Verkeer en Waterstaat,</functie>
+        <naam>
+            <achternaam>J. M. de Vries</achternaam>
+        </naam>
+    </ondertekening>
+    <ondertekening>
+        <functie>De Minister van Justitie,</functie>
+        <naam>
+            <achternaam>A. H. Korthals</achternaam>
+        </naam>
+    </ondertekening>
+    <ondertekening>
+        <functie>De Minister van Binnenlandse Zaken en Koninkrijksrelaties,</functie>
+        <naam>
+            <achternaam>K. G. de Vries</achternaam>
+        </naam>
+    </ondertekening>
+    <uitgifte>
+        <datum isodatum="">de <nadruk type="cur">negenentwintigste</nadruk> januari 2002</datum>
+        <ondertekening>
+            <functie>De Minister van Justitie,</functie>
+            <naam>
+                <achternaam>A. H. Korthals</achternaam>
+            </naam>
+        </ondertekening>
+    </uitgifte>
+</wetsluiting>
+    </wet-besluit>
+</wetgeving>
+  	

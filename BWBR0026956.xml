@@ -1,0 +1,712 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0026956" dtdversie="2.0" id="428039" soort="ministeriele-regeling">
+  
+  <intitule>Regeling
+van de Staatssecretaris van Economische Zaken van 18&#xA0;december
+2009, nr.&#xA0;WJZ/9230119, tot vaststelling van de inhoudelijke -en
+vormvereisten aan de lijst tot verificatie van
+certificatiedienstverleners die gekwalificeerde certificaten aan het
+publiek aanbieden of afgeven, alsmede tot wijziging van de
+Dienstenregeling centraal loket en interne markt informatiesysteem
+(Regeling vertrouwenslijst)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De
+Staatssecretaris van Economische
+Zaken,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op
+<extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2006/123/EG</extref> van het Europees Parlement en
+de Raad van de Europese Unie van 12&#xA0;december 2006 betreffende
+diensten op de interne markt (PBEU L 376/6), de
+beschikking nr. 2009/767/EG van de Europese Commissie van
+16&#xA0;oktober 2009 inzake maatregelen voor een gemakkelijker gebruik
+van elektronische procedures via het
+&#x2018;&#xE9;&#xE9;n-loket&#x2019; in het kader van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr.
+2006/123/EG</extref> van het Europees Parlement en de Raad van de Europese Unie
+betreffende diensten op de interne markt (PBEU L
+274/36), <extref status="actief" doc="1.0:v:BWBR0026759&amp;artikel=14" compleet="nee">artikel 14, vierde lid, van de Dienstenwet</extref> en
+de <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1" compleet="nee">artikelen 2.1, vijfde lid, onderdeel b</extref>, en <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.3" compleet="nee">2.3, derde en vierde lid,
+van de
+Telecommunicatiewet</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <lid><lidnr status="officieel">1</lidnr><al>In
+deze regeling wordt verstaan
+onder:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>
+                <nadruk type="cur">college:</nadruk> het
+college, bedoeld in <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=1.1" compleet="nee">artikel 1.1., onderdeel c, van de
+Telecommunicatiewet</extref>;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>
+                <nadruk type="cur">certificatiedienstverlener:</nadruk> een
+certificatiedienstverlener als bedoeld in <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=1.1" compleet="nee">artikel 1.1., onderdeel uu,
+van de Telecommunicatiewet</extref> die gekwalificeerde certificaten als bedoeld
+in <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=1.1" compleet="nee">artikel 1.1., onderdeel tt, van de Telecommunicatiewet</extref> afgeeft of
+aanbiedt aan het
+publiek;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>
+                <nadruk type="cur">vertrouwenslijst:</nadruk> het
+register, bedoeld in <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.3" compleet="nee">artikel 2.3, vijfde lid, van de
+Telecommunicatiewet</extref>, dat betrekking heeft op
+certificatiedienstverleners die overeenkomstig <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15" compleet="nee">artikel 18.15 van de
+Telecommunicatiewet</extref> gekwalificeerde certificaten aan het publiek
+aanbieden of afgeven, waaruit blijkt of die certificatiedienstverleners
+certificaten afgeven of aanbieden waarmee elektronische handtekeningen
+kunnen worden aangemaakt door een veilig
+middel;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>
+                <nadruk type="cur">beschikking
+&#xE9;&#xE9;n-loket:</nadruk> de beschikking van de
+Europese Commissie van 16 oktober 2009 nr.
+2009/767/EG inzake maatregelen voor een
+gemakkelijker gebruik van elektronische procedures via het
+&#x2018;&#xE9;&#xE9;n-loket&#x2019; in het kader van Richtlijn
+nr.&#xA0;2006/123/EG van het Europees Parlement en de Raad betreffende
+diensten op de interne markt (PBEU
+L&#xA0;274/36);</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>
+                <nadruk type="cur">PDF-bestand:</nadruk> Portable
+Document Format-bestand dat is opgesteld overeenkomstig ISO 3200 en is
+geformatteerd volgens het PDF/A-profiel (ISO
+19005);</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>
+                <nadruk type="cur">ETSI
+TS 102 231:</nadruk> de technische specificatie
+&#x2018;Electronic Signatures and Infrastructures (ESI), Provision of
+harmonised Trust-service status information&#x2019;, opgesteld door het
+European Telecommunications Standards Institute
+(ETSI), v3.1.2
+(2009-12);</al>
+            </li>
+            
+            <li>
+              <li.nr>g.</li.nr>
+              <al>
+                <nadruk type="cur">ETSI
+TS 101 903:</nadruk> de technische specificatie &#x2018;XML
+Advanced Electronic Signatures (XAdES)&#x2019;, opgesteld door het
+European Telecommunications Standards Institute
+(ETSI), v1.4.1
+(2009-06);</al>
+            </li>
+          <li>
+                           <li.nr>h.</li.nr>
+                           <al>
+                              <nadruk type="cur">ETSI
+TS 102 778:</nadruk>  de technische specificatie
+&#x2018;Electronic Signatures and Infrastructures (ESI), PDF Advanced
+Electronic Signature Profiles&#x2019;, opgesteld door het European
+Telecommunications Standards Institute (ETSI), met dien verstande dat
+gebruik wordt gemaakt van de
+versie:</al>
+                           <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                              <li>
+                                 <li.nr>1&#xB0;.</li.nr>
+                                 <al>Part
+2: PAdES Basic -Profile based on ISO 32000-1 a framework document for
+PAdES, v1.2.1 (2009-07),
+of</al>
+                              </li>
+                              <li>
+                                 <li.nr>2&#xB0;.</li.nr>
+                                 <al>Part 3: PAdES ENhanced -
+PadES-BES and PAdES-EPES Profiles, v1.2.1
+(2010-07);</al>
+                              </li>
+                           </lijst>
+                        </li>
+                        <li>
+                           <li.nr>i.</li.nr>
+                           <al>
+                              <nadruk type="cur">TSL: </nadruk> de
+&#x2018;Transport Layer Security&#x2019;, versie 1.2, IETF RFC
+5246.</al>
+                        </li></lijst></lid>
+          
+        <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De
+in de onderdelen g tot en met h genoemde specificaties omvatten een
+vernieuwing van de versie van de standaard die blijft binnen het
+hoogste niveau van het in deze onderdelen genoemde versienummer, met
+dien verstande dat een vernieuwing van toepassing is met ingang van de
+dertigste dag na de dag waarop die vernieuwing door het European
+Telecommunications Standards Institute is
+gepubliceerd.</al>
+                     </lid></artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">De
+vertrouwenslijst</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Het
+college stelt de vertrouwenslijst op overeenkomstig de instructies in
+hoofdstuk 1, hoofdstuk II en hoofdstuk IV van de bijlage bij de
+beschikking
+&#xE9;&#xE9;n-loket.</al>
+                     </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het
+college treft maatregelen die ertoe strekken te waarborgen dat de in de
+vertrouwenslijst opgenomen
+gegevens:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>voor
+een ieder beschikbaar zijn,</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>beveiligd
+zijn, en</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>voldoendebetrouwbaar en
+actueel
+zijn.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+gegevens in de vertrouwenslijst
+zijn:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>gesteld
+in de Nederlandse en de Engelse taal,
+en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>geformuleerd overeenkomstig de
+termen en definities die worden gehanteerd in hoofdstuk 1 en hoofdstuk
+II van de
+bijlage bij de beschikking &#xE9;&#xE9;n-loket en in ETSI TS 102 231,
+met dien verstande dat in het geval van afwijkingen tussen de bijlage
+bij de beschikking &#xE9;&#xE9;n-loket en ETSI TS 102 231 geldt hetgeen
+in de bijlage bij de beschikking &#xE9;&#xE9;n-loket is
+bepaald.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In
+afwijking van het eerste lid, onderdeel a, zijn de door de
+certificatiedienstverlener verstrekte documenten gesteld in de
+Nederlandse taal of de Engelse
+taal.</al>
+          </lid>
+          
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <al>Een
+wijziging van hetgeen in de vertrouwenslijst is opgenomen, wordt door
+het college opgenomen met vermelding van de datum waarop de wijziging
+is ingegaan.</al>
+          
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Het
+college waarborgt de authenticiteit en integriteit van de menselijk
+leesbare versie van de vertrouwenslijst
+door:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>ofwel
+de lijst te ondertekenen met een elektronische handtekening
+overeenkomstig de specificaties van ETSI TS 102
+778,</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>ofwel de lijst aan te bieden
+vanaf een website die is beveiligd met
+TLS.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Het
+college waarborgt de authenticiteit en integriteit van de machinaal
+verwerkbare versie van de vertrouwenslijst
+door:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>de
+lijst te ondertekenen met een elektronische handtekening overeenkomstig
+de specificaties van ETSI TS 101 903,
+en</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>de lijst aan te bieden vanaf een
+website die is beveiligd met
+TLS.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Het
+certificaat, waarop de handtekening, bedoeld in onderdeel a van het
+eerste en tweede lid, of waarop TLS als bedoeld in onderdeel b van het
+eerste en tweede lid, is gebaseerd, voldoet aan de volgende
+vereisten:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>het
+certificaat is van een hoog
+betrouwbaarheidsniveau;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>indien het
+certificaat wordt afgenomen van een certificatiedienstverlener, is die
+dienstverlener niet opgenomen in de
+vertrouwenslijst.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Het
+college stelt ter beschikking van Onze
+Minister:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>het
+publieke sleutelcertificaat dat het college gebruikt om de
+vertrouwenslijst te publiceren op een
+website,</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>het publieke
+sleutelcertificaat dat het college gebruikt om de menselijk leesbare
+versie van de vertrouwenslijst te ondertekenen,
+en</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>het publieke sleutelcertificaat
+dat het college gebruikt om de machinaal verwerkbare versie van de
+vertrouwenslijst te
+ondertekenen.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">5</lidnr>
+                        <al>Het
+college publiceert de vingerafdruk van het TLS certificaat in de
+Staatscourant en vermeldt de vindplaats van de vingerafdruk op de
+website van het
+college.</al>
+                     </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Het
+college maakt de vertrouwenslijst op elektronische wijze voor een ieder
+beschikbaar en toegankelijk in een menselijk leesbare versie en een
+machinaal verwerkbare versie, met dien verstande dat het college de
+menselijk leesbare versie van de vertrouwenslijst beschikbaar en
+toegankelijk maakt als een
+PDF-bestand.</al>
+                     </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het
+college maakt de vertrouwenslijst voorts opnieuw beschikbaar en
+toegankelijk op de in het eerste lid bepaalde
+wijze:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>na
+iedere wijziging van hetgeen in de vertrouwenslijst is opgenomen,
+of</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>indien geen wijzigingen worden
+gemeld: ten minste een keer in de zes
+maanden.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Het
+college waarborgt dat het PDF-bestand, bedoeld in het eerste lid, door
+een ieder kan worden
+afgedrukt.</al>
+          </lid>
+          
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Inhoud
+van de
+vertrouwenslijst</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <al>In
+de vertrouwenslijst neemt het college in ieder geval de gegevens op die
+corresponderen met de onderwerpen die volgens hoofdstuk&#xA0;1, hoofdstuk II en IV
+van de bijlage bij de beschikking &#xE9;&#xE9;n-loket verplicht
+onderdeel uitmaken van de vertrouwenslijst, overeenkomstig de
+instructies in hoofdstuk 1, hoofdstuk II en hoofdstuk IV van de bijlage bij de
+beschikking &#xE9;&#xE9;n-loket en in ETSI&#xA0;TS&#xA0;102&#xA0;231.
+In het geval van afwijkingen tussen hoofdstuk&#xA0;1 van de bijlage bij
+de beschikking &#xE9;&#xE9;n-loket en ETSI&#xA0;TS&#xA0;102&#xA0;231
+geldt hetgeen in hoofdstuk 1 van de bijlage bij de beschikking
+&#xE9;&#xE9;n-loket is
+bepaald.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het
+college neemt in de vertrouwenslijst in ieder geval de
+gemeenschappelijke teksten en specifieke URI op zoals die zijn
+vastgesteld in hoofdstuk 1 van de bijlage bij de beschikking
+&#xE9;&#xE9;n-loket.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In
+de vertrouwenslijst neemt het college voorts een beschrijving op
+van:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het
+toezichtsysteem,</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de procedures van
+toetsing, bedoeld in <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.16" compleet="nee">artikel 18.16, eerste lid, van de
+Telecommunicatiewet</extref>,</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de procedures
+van beoordeling, bedoeld in <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.17" compleet="nee">artikel 18.17, van de Telecommunicatiewet</extref>,
+en de criteria die in de procedures, bedoeld in de onderdelen b en c,
+worden gehanteerd om vast te stellen of een certificatiedienstverlener
+gekwalificeerde certificaten aan het publiek aanbiedt of afgeeft
+overeenkomstig <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15" compleet="nee">artikel 18.15 van de Telecommunicatiewet</extref> en of een
+certificatiedienstverlener tevens certificaten afgeeft of aanbiedt
+waarmee elektronische handtekeningen kunnen worden aangemaakt door een
+veilig middel.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het
+college neemt in de vertrouwenslijst in ieder geval de gegevens op die
+noodzakelijk zijn om vast te stellen of een certificatiedienstverlener
+gekwalificeerde certificaten aan het publiek aanbiedt of afgeeft
+overeenkomstig <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15" compleet="nee">artikel 18.15 van de Telecommunicatiewet</extref>, met dien
+verstande dat uit de lijst ten minste duidelijk moet zijn of een
+certificatiedienstverlener:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>getoetst
+is overeenkomstig <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.16" compleet="nee">artikel 18.16 van de Telecommunicatiewet</extref>, alsmede wat
+het resultaat en de actuele status is van die
+toetsing;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>voornemens is om de
+dienstverlening te
+be&#xEB;indigen;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>op grond van <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.2" compleet="nee">artikel
+2.2., vierde lid, onderdelen a tot en met d, van de Telecommunicatiewet</extref>
+door het college niet langer wordt aangemerkt als een
+certificatiedienstverlener die gekwalificeerde certificaten aan het
+publiek aanbiedt of
+afgeeft.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het
+college neemt in de vertrouwenslijst voorts in ieder geval de gegevens
+op die noodzakelijk zijn om vast te stellen of een
+certificatiedienstverlener als bedoeld in het eerste lid, certificaten
+afgeeft of aanbiedt waarmee elektronische handtekeningen kunnen worden
+aangemaakt door een veilig
+middel.</al>
+          </lid>
+        <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Als
+een gegeven als bedoeld in het eerste of tweede lid wordt gewijzigd,
+blijft het oorspronkelijke gegeven gedurende 10 jaar na de datum waarop
+de wijziging is ingegaan, vermeld in de
+vertrouwenslijst.</al>
+                     </lid></artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Gegevensverstrekking
+ten behoeve van opname op de
+vertrouwenslijst</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+certificatiedienstverlener verstrekt in de aanvraag ten behoeve van
+opname op de vertrouwenslijst de door het college gevraagde gegevens in
+de Nederlandse en de Engelse taal, en formuleert de gegevens
+overeenkomstig de termen en definities die worden gehanteerd in
+hoofdstuk&#xA0;1, hoofdstuk II van de bijlage bij de beschikking &#xE9;&#xE9;n-loket
+en ETSI&#xA0;TS&#xA0;102&#xA0;231. In het geval van afwijkingen tussen
+de bijlage bij de beschikking &#xE9;&#xE9;n-loket en
+ETSI&#xA0;TS&#xA0;102&#xA0;231 geldt hetgeen in de bijlage bij de
+beschikking &#xE9;&#xE9;n-loket is
+bepaald.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+certificatiedienstverlener overlegt voorts bij de aanvraag de door het
+college gevraagde documenten in de Nederlandse of de Engelse
+taal.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De
+certificatiedienstverlener geeft een wijziging van de gegevens en
+documenten, bedoeld in het eerste en tweede lid, op met vermelding van
+de datum waarop de wijziging is ingegaan. Het eerste en het tweede lid
+zijn van overeenkomstige toepassing op een melding tot wijziging van
+gegevens en
+documenten.</al>
+          </lid>
+        <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Op
+verzoek van het college verstrekt de certificatiedienstverlener voorts
+onverwijld alle gegevens en documenten die het college noodzakelijk
+acht voor de volledigheid van de inhoud van de vertrouwenslijst,
+bedoeld in de <intref status="actief" doc="1.0:v:BWBR0026956&amp;artikel=7">artikelen 7 tot en met
+9</intref>.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">5</lidnr>
+                        <al>De gegevens,
+bedoeld in het eerste tot en met vierde lid, worden op verzoek van het
+college elektronisch verstrekt door de certificatiedienstverlener op de
+door het college gevraagde
+wijze.</al>
+                     </lid></artikel>
+      <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">10a</nr>
+                     </kop>
+                     <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>De
+certificatiedienstverlener publiceert op een website de verwijzingen
+naar de algemene voorwaarden van de certificatiedienstverlener, zijn
+praktijken, zijn klantenservicebeleid, informatie over wetgeving en
+andere algemene informatie over de door die certificatiedienstverlener
+aangeboden certificatiediensten. Ten aanzien van zijn
+klantenservicebeleid, informatie over wetgeving en andere algemene
+informatie over de door die certificatiedienstverlener aangeboden
+certificatiediensten kan de certificatiedienstverlener in plaats van
+een verwijzing volstaan met&#xA0;het publiceren van een inleidende
+tekst op de website met
+verwijzingen.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De
+in het eerste lid genoemde verwijzingen en inleidende teksten zijn
+gesteld in de Nederlandse en de Engelse
+taal.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>De
+certificatiedienstverlener verstrekt het college de verwijzing naar de
+in het eerste lid bedoelde website en informeert het college onverwijld
+van wijziging
+daarvan.</al>
+                     </lid>
+                  </artikel></paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Wijziging
+van de <extref status="actief" doc="1.0:v:BWBR0026766" compleet="nee">Dienstenregeling centraal loket en interne markt
+informatiesysteem</extref></titel>
+        </kop>
+        
+      <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">11</nr></kop><al><redactie type="vervanging">Wijzigt de Dienstenregeling centraal loket en interne markt informatiesysteem.</redactie></al></artikel></paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">12</nr>
+          </kop>
+          <al>Deze
+regeling treedt in werking op het tijdstip waarop de <extref status="actief" doc="1.0:v:BWBR0026936" compleet="nee">Aanpassingswet
+dienstenrichtlijn</extref> in werking
+treedt.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">13</nr>
+          </kop>
+          <al>Deze
+regeling wordt aangehaald als: Regeling
+vertrouwenslijst.</al>
+        </artikel>
+      </paragraaf>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze
+regeling zal met de toelichting in de Staatscourant worden
+geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Den Haag</plaats>
+          <datum isodatum="2009-12-18">18 december
+2009</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>De
+<functie>Staatssecretaris</functie> van
+<organisatie afkorting="EZ">Economische Zaken</organisatie>,<naam>
+          <voornaam>F.</voornaam>
+          <achternaam>Heemskerk</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

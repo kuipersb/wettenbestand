@@ -1,0 +1,711 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0026900" dtdversie="2.0" id="427479" soort="beleidsregel">
+  
+  <intitule>Beleidsregels
+van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van
+2&#xA0;december 2009, nr.&#xA0;DGV/DVB/VIT, over de toelating en het
+gebruik van het radiocommunicatienetwerk C2000 door
+derden.</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Minister van Binnenlandse
+Zaken en
+Koninkrijksrelaties,</wie>
+      <considerans>
+        <considerans.al bevat="gehoord">Gehoord
+het advies van het adviesorgaan
+C2000;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+        </kop>
+        <al>In
+deze regeling wordt verstaan
+onder:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+          <li>
+            <li.nr>a)</li.nr>
+            <al>
+              <nadruk type="cur">de
+eigenaar van het C2000 netwerk:</nadruk> de staat der
+Nederlanden, de minister van Binnenlandse Zaken en
+Koninkrijksrelaties;</al>
+          </li>
+          <li>
+            <li.nr>b)</li.nr>
+            <al>
+              <nadruk type="cur">strategisch
+beheerder:</nadruk> de minister van Binnenlandse Zaken en
+Koninkrijksrelaties</al>
+          </li>
+          <li>
+            <li.nr>c)</li.nr>
+            <al>
+              <nadruk type="cur">tactisch
+en operationeel beheerder:</nadruk> de beheerorganisatie
+van C2000, Voorziening tot samenwerking Politie Nederland/Unit
+Meldkamer
+Systemen;</al>
+          </li>
+          <li>
+            <li.nr>d)</li.nr>
+            <al>
+              <nadruk type="cur">aangewezen
+gebruiker:</nadruk> een organisatie die op het terrein van
+openbare orde, veiligheid en hulpverlening een wettelijk opgedragen
+taak heeft en ten behoeve van haar operationele processen gebruik maakt
+van
+C2000;</al>
+          </li>
+          <li>
+            <li.nr>e)</li.nr>
+            <al>
+              <nadruk type="cur">gelieerde:</nadruk> een
+organisatie die de aangewezen gebruiker ondersteunt bij de uitvoering
+van zijn taken op het terrein van openbare orde, veiligheid en
+hulpverlening en die daarbij met behulp van mobiele communicatie door
+de aangewezen gebruiker wordt aangestuurd.</al>
+            <al><intref status="actief" doc="1.0:v:BWBR0026900&amp;bijlage=1">Bijlage 1</intref> bevat per
+aangewezen gebruiker een referentielijst van organisaties die naar het
+oordeel van de strategisch beheerder, gehoord het advies van het
+adviesorgaan C2000, in beginsel in aanmerking komen voor gelieerd
+gebruik van
+C2000;</al>
+          </li>
+          <li>
+            <li.nr>f)</li.nr>
+            <al>
+              <nadruk type="cur">adviesorgaan
+C2000:</nadruk> het overleg van gebruikers dat de
+strategisch beheerder adviseert over C2000. De adviestaak met
+betrekking tot C2000 wordt ingevuld door de Bestuurscommissie
+Informatievoorziening van het Veiligheidsberaad. Ten aanzien van C2000
+wordt dit gedaan in afstemming met het
+Korpsbeheerdersberaad;</al>
+          </li>
+          <li>
+            <li.nr>g)</li.nr>
+            <al>
+              <nadruk type="cur">tijdelijk
+gelieerde:</nadruk> een organisatie waarvan een aangewezen
+gebruiker het noodzakelijk acht dat deze in de uitvoering van diens
+wettelijke taken ten tijde van een bijzondere gebeurtenis met de
+aangewezen gebruiker samenwerkt. Daartoe stelt de aangewezen gebruiker
+voor de duur van de gebeurtenis C2000 randapparatuur aan de tijdelijk
+gelieerde
+beschikbaar;</al>
+          </li>
+          <li>
+            <li.nr>h)</li.nr>
+            <al>
+              <nadruk type="cur">een
+bijzondere gebruiker:</nadruk> een organisatie die naar het
+oordeel van de Minister van Binnenlandse Zaken en Koninkrijksrelaties
+uit oogpunt van openbare orde, veiligheid of hulpverlening onder
+reguliere omstandigheden en/of bij crises of rampen in contact moeten
+kunnen treden met een of meer aangewezen gebruikers en daartoe gebruik
+maakt van
+C2000.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Een
+aangewezen gebruiker kan bij de strategisch beheerder van C2000 een
+aanvraag indienen om een organisatie aan te wijzen als gelieerde.
+Hiertoe wordt gebruik gemaakt van een door de strategisch beheerder
+opgesteld aanvraagformulier. Een aanvraag bevat in ieder geval de
+volgende
+gegevens:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>een
+beschrijving van de (wettelijke) taken waarvoor de aangewezen gebruiker
+de inzet van de gelieerde noodzakelijk
+acht,</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>een beschrijving van de
+reden en noodzaak voor het gebruik van C2000 door de gelieerde bij deze
+taken;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>aantallen
+gespreksgroepen;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>frequentie van
+gebruik;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>het gebied waar C2000
+wordt gebruikt;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>aantal en soort
+randapparaten en
+accessoires;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>te gebruiken
+producten;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>beschrijving van de
+gewenste fleetmap van de gelieerde en de relatie met de fleetmap van de
+aangewezen gebruiker;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>een
+verklaring van de aangewezen gebruiker dat de gelieerde een
+beveiligingsplan zal opstellen en door de aangewezen gebruiker zal
+laten goedkeuren v&#xF3;&#xF3;r de feitelijke ingebruikname van
+C2000.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Voor
+het aanwijzen van een organisatie als tijdelijk gelieerde heeft een
+aangewezen gebruiker geen toestemming nodig van de strategisch
+beheerder. Wel registreert de aangewezen gebruiker de uitgifte en
+inname van C2000
+apparatuur.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Een
+organisatie kan bij de strategisch beheerder van C2000 een aanvraag
+indienen om te worden aangemerkt als bijzondere gebruiker. Hiertoe
+wordt gebruik gemaakt van een door de strategisch beheerder opgesteld
+aanvraagformulier. Een aanvraag bevat in ieder geval de volgende
+gegevens:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>een
+beschrijving van de reden en noodzaak van het kunnen beschikken over
+C2000;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>een beschrijving van de
+(wettelijke) taken van de bijzondere gebruiker waarvoor C2000 wordt
+aangevraagd;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>een beschrijving
+van de samenwerking en de communicatie tussen de bijzondere gebruiker
+en de aangewezen
+gebruikers;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>aantallen
+gespreksgroepen;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>frequentie van
+gebruik;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>het gebied waar C2000
+wordt gebruikt;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>aantal en soort
+randapparaten en
+accessoires;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>te gebruiken
+producten;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>beschrijving van de
+gewenste fleetmap van de bijzondere gebruiker en de relatie met de
+fleetmap van de aangewezen
+gebruikers;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>een
+beveiligingsplan C2000;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>een
+beheerplan waaruit blijkt op welke wijze het technische en operationele
+eerste-, en derdelijns beheer zal worden belegd. Het tweedelijns beheer
+inclusief de encryptie van randapparatuur wordt exclusief belegd bij de
+tactisch en operationeel
+beheerder.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Een
+aanvraag als bedoeld onder het eerste en het derde lid wordt, voordat
+besluitvorming over de aanvraag plaatsvindt, door de strategisch
+beheerder van C2000 voor advies voorgelegd aan het adviesorgaan C2000.
+Het adviesorgaan C2000 zal in principe geen advies uitbrengen over de
+aanvragen van organisaties die zijn opgenomen in de referentielijst
+tenzij de strategisch beheerder daar nadrukkelijk om
+verzoekt.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>De
+strategisch beheerder van C2000 neemt, gehoord het advies van het
+adviesorgaan C2000, een besluit over de aanvraag tot
+toelating.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">6</lidnr>
+          <al>Na
+een positief besluit van de strategisch beheerder op een aanvraag als
+bedoeld onder het eerste lid, sluit de aangewezen gebruiker met de
+gelieerde een dienstverleningsovereenkomst
+af.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">7</lidnr>
+          <al>Na een
+positief besluit van de strategisch beheerder van C2000 op een aanvraag
+als bedoeld onder het derde lid, sluit de strategisch beheerder met de
+bijzondere gebruiker een gebruiksovereenkomst af. Hierin worden aard en
+omvang van het gebruik
+vastgelegd.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Aangewezen
+gebruikers en bijzondere gebruikers houden zich aan het
+beveiligingsbeleid C2000 en het Landelijk Kader
+Fleetmap;</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Een
+aangewezen gebruiker ziet erop toe dat aan hem (tijdelijk) gelieerde
+organisaties zich houden aan het beveiligingsbeleid C2000 en passen
+binnen de kaders en richtlijnen van het Landelijk Kader
+Fleetmap.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Een
+aangewezen gebruiker draagt er zorg voor dat medewerkers van aan hem
+gelieerde gebruikers voldoende zijn opgeleid en getraind in het gebruik
+van C2000.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Een
+bijzondere gebruiker draagt er zorg voor dat de eigen medewerkers
+voldoende zijn opgeleid en getraind in het gebruik van
+C2000.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>Een
+aangewezen gebruiker bepaalt van welke functies en welke
+gespreksgroepen de gelieerde gebruik mag maken ter ondersteuning van de
+werkprocessen van de aangewezen
+gebruiker.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">6</lidnr>
+          <al>De
+strategisch beheerder bepaalt -gehoord het advies van het adviesorgaan
+C2000 van welke functies en welke gespreksgroepen de bijzondere
+gebruiker gebruik mag maken ten behoeve van de communicatie met de
+aangewezen
+gebruikers.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">7</lidnr>
+          <al>Alle
+lokale beheeractiviteiten ten behoeve van (tijdelijk) gelieerden worden
+door een aangewezen gebruiker uitgevoerd. De afspraken over het beheer
+worden vastgelegd in de dienstverleningsovereenkomst zoals bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0026900&amp;artikel=2">artikel 2 lid 6</intref>. Onder lokale beheeractiviteiten wordt minimaal
+verstaan:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>de
+uitgifte en vervanging van
+randapparatuur;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>programmering
+van de randapparatuur en
+accessoires;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>zorgdragen voor
+inpassing van de fleetmap van de gelieerde organisatie binnen de
+fleetmap van de aangewezen
+gebruiker;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>het beheer en
+onderhoud van de randapparatuur en
+accessoires;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>melding van
+gestolen en vermiste randapparaten van de gelieerde bij de tactisch en
+operationeel beheerder van het
+netwerk.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">8</lidnr>
+          <al>De
+bijzondere gebruiker is verantwoordelijk voor de volgende
+beheeractiviteiten:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>de
+uitgifte en vervanging van de
+randapparatuur;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>programmering
+van de randapparatuur en accessoires met uitzondering van het
+tweedelijns onderhoud dat, inclusief het cryptobeheer, door de tactisch
+en operationeel beheerder wordt
+uitgevoerd;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>het beheer en het
+eerste- en derdelijns onderhoud van de randapparatuur en
+accessoires;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>melding van
+gestolen en vermiste randapparaten bij de tactisch en operationeel
+beheerder van het
+netwerk.</al>
+            </li>
+          </lijst>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De
+exploitatielasten van het C2000 netwerk worden door de aangewezen en
+bijzondere gebruikers gezamenlijk opgebracht overeenkomstig een door de
+strategisch beheerder vastgestelde verdeelsleutel, gehoord het
+adviesorgaan
+C2000.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De
+aangewezen gebruiker kan de initi&#xEB;le kosten, de
+instandhoudingkosten voor het netwerk en de kosten voor het beheer en
+onderhoud van C2000 randapparatuur in rekening brengen bij de gelieerde
+gebruiker.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Het
+ministerie van BZK brengt de initi&#xEB;le kosten, de
+instandhoudingkosten van het netwerk en de kosten voor het tweedelijns
+onderhoud in rekening bij de bijzondere
+gebruiker.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Tijdelijk
+gelieerden zijn geen vergoeding verschuldigd voor het gebruik van
+randapparaten.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+        </kop>
+        <al>Met
+de inwerkingtreding van onderhavige Beleidsregels Toelating en gebruik
+C2000 door derden vervallen de Beleidsregels Gelieerdenbeleid C2000
+d.d. 11&#xA0;december
+2003.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+        </kop>
+        <al>Deze
+beleidsregels worden aangehaald als: Beleidsregels Toelating en gebruik
+C2000 door
+derden.</al>
+      </artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <gegeven>
+        <dagtekening>
+          <plaats>Den Haag</plaats>
+          <datum isodatum="2009-12-02">2 december
+2009</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>De
+<functie>Minister</functie> van
+<organisatie afkorting="BZK">Binnenlandse Zaken en Koninkrijksrelaties</organisatie>,
+        <naam>
+          <voornaam>G.
+ter</voornaam>
+          <achternaam>Horst</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label>
+        <nr status="officieel">1</nr>
+        <titel status="officieel">: Referentielijst
+categorie&#xEB;n regionaal
+gelieerden<noot id="n2e10308174" type="voet">
+            <noot.nr>1</noot.nr>
+            <noot.al>De
+landelijke aangewezen gebruikers (KLPD, het ministerie van Defensie en
+LMAZ) kennen geen categorie&#xEB;n regionaal gelieerden; de aan hen
+gelieerde gebruikers opereren bovenregionaal en zijn specifiek
+bekend.</noot.al>
+            <noot.al>Voor het ministerie van Defensie is dat de
+volgende organisatie:</noot.al>
+            <noot.al>Koninklijke Nederlandse Redding
+Maatschappij (KNRM): Organisatie die zorgt voor hulpverlening op zee en
+in het werkgebied van de Nederlandse Kustwacht. Dit betreft mede de
+grotere Nederlandse binnenwateren.</noot.al>
+            <noot.al>Voor het KLPD zijn
+dat de volgende
+organisaties:</noot.al>
+            <noot.al>Politieacademie</noot.al>
+            <noot.al>ANWB
+Medical Air Assistance
+(Traumaheli&#x2019;s)</noot.al>
+          </noot>
+        </titel>
+      </kop>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Regionale
+politiekorpsen:</titel>
+        </kop>
+        <al>Stadswachten en toezichthouders:
+Medewerkers van gemeenten zijn belast met een controlerende en
+toezichthoudende rol met betrekking tot de naleving van de Algemeen
+Plaatselijke Verordening (APV). Zij worden aangestuurd door de politie
+en werken zelfstandig, dan wel in directe samenwerking met
+politie-eenheden. Zij kunnen verbaliserend optreden en houden toezicht
+op koopavonden en evenementen. Zij worden ingezet op locaties zoals
+stationsgebieden, winkelcentra en weekmarkten en richten zich op het
+beperken van jeugdoverlast en de naleving van de gedragsregels uit de
+weg- en verkeerswetgeving.</al>
+        <al>Parkeercontroleurs: De controleurs
+fungeren als de ogen en oren van de politie. Zij onderhouden dagelijks
+contact met meldkamer en maken gebruik van de noodknop op C2000 voor
+eventuele bedreigende situaties.</al>
+        <al>Beveiliging rechtbank: De
+beveiligingsmedewerkers (medewerkers van het ministerie van Justitie)
+werken in het gebouw van de rechtbank samen met de Parketpolitie. Voor
+de samenwerking en communicatie in het gebouw van de rechtbank is C2000
+toegekend.</al>
+        <al>Politie grensgebied: Ten behoeve van de
+grensoverschrijdende samenwerking van de politie in de
+grensregio&#x2019;s beschikken Duitse en Belgische meldkamers over
+C2000 randapparatuur.</al>
+        <al>Boswachters/jachtopzichters/medewerkers
+Staatsbosbeheer/medewerkers recreatieschappen: Deze personen &#x2013;
+de meesten met de status van buitengewoon opsporingsambtenaar
+(BOA&#x2019;S), ondersteunen de politie bij de uitvoering van OOV taken
+in natuur- en recreatiegebieden. Zij zijn belast met handhaving en
+toezicht en hebben een signalerende functie ten behoeve van de politie.
+Zij maken gebruik van de noodknop in geval van levensbedreigende
+situaties.</al>
+        <al>Provinciale waterstaat, afd. vaarwegen:
+Samenwerkingsverband in de regio&#x2019;s met politie en brandweer. De
+boten van de afdeling vaarwegen zijn uitgerust met bluskanonnen en
+werken samen met brandweer in geval van calamiteiten of ramp. De
+afdeling vaarwegen heeft tijdens de zomermaanden ook een signalerende
+functie ten behoeve van werkzaamheden van de
+politie.</al>
+        <al>Milieu-inspecteurs: Functionarissen (BOA&#x2019;S) met
+een taak gericht op het bestrijden van stroperij, illegale vogelvangen
+en illegale sportvisserij. Zij houden toezicht in
+natuurbeschermingsgebieden en op de recreatievaart en gebruiken C2000
+voor de communicatie met politie en voor de eigen veiligheid
+(noodknop).</al>
+        <al>Gemeentelijke sectie fraudebestrijding: Inspecteurs
+met BOA-status opereren zelfstandig of in samenwerkingsverband met de
+politie en zijn gericht op uitkeringsfraude. Zij hebben aanhouding- en
+geweldbevoegdheid en gebruiken C2000 voor contact met meldkamer tijdens
+observatie en als deel van onderzoeksteam. De noodknop wordt gebruikt
+in geval van calamiteiten tijdens inspecties.</al>
+        <al>Gemeentelijke
+horeca-inspectie: Samenwerkingsverband met politie. Inspecteurs hebben
+zowel een toezichthoudende functie als een handhavende functie tijdens
+controles in horecagelegenheden en hebben direct contact met meldkamer
+in geval van calamiteiten en in verband met de eigen
+veiligheid.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Regionale en gemeentelijke
+brandweer:</titel>
+        </kop>
+        <al>Bedrijfsbrandweer: Particuliere
+brandweerkorpsen die samenwerken en communiceren met de reguliere
+brandweer bij de bestrijding van brand in de eigen bedrijven. Zij
+leveren ondersteuning aan de reguliere brandweer in geval van
+onderbezetting of opschaling binnen de
+regio.</al>
+        <al>Luchthavenbrandweer: Brandweerkorps dat samenwerkt met
+de reguliere brandweer bij de bestrijding van brand op de
+luchthaven.</al>
+        <al>Brandweer grensgebied: Belgische en Duitse
+brandweerkorpsen die in de grensregio&#x2019;s ondersteuning leveren
+aan de Nederlandse brandweer in verband met aanrijtijd, onderbezetting
+of opschaling.</al>
+        <al>Havenbedrijven: de blusboten van havenbedrijven
+die de brandweer ondersteunen in de betreffende
+regio&#x2019;s.</al>
+        <al>Milieudienst: C2000 wordt beschikbaar gesteld
+door regio&#x2019;s aan de ongevallen dienst, de waarschuwing- &amp;
+verkenningsdienst, en de adviseur gevaarlijke stoffen voor directe
+communicatie met de brandweer.</al>
+        <al>Penitentiaire inrichtingen: De
+receptie van de P.I. fungeert als informatie- en co&#xF6;rdinatiepunt
+voor de brandweer en de politie in geval van brand of bij een
+calamiteit.</al>
+        <al>Reddingsbrigades: Brigades bieden ondersteuning en
+transportfaciliteiten bij incidenten in zee, op het strand of in de
+duinen aan de regionale brandweer en de RAV.</al>
+        <al>RIVM: Regionale
+ondersteuning door het RIVM ten behoeve van brandweer Utrecht door
+middel van meet- en bemonsteringwagens alsook gaspakkenteams in geval
+van vrijkomen van schadelijke/giftige stoffen tijdens een calamiteit of
+ramp.</al>
+        <al>Staatsbosbeheer: Toezichthouders in bos kunnen alarmeren
+en gealarmeerd worden om als gids te dienen of anderzijds te
+ondersteunen in geval van bosbrand of andere ernstige calamiteiten in
+de regio.</al>
+        <al>Rijkswaterstaat: Rijkswaterstaat levert vaartuigen in
+het gebied van het IJsselmeer ten behoeve van calamiteitenbestrijding.
+Dit op grond van de samenwerkingsregeling voor de ongevallenbestrijding
+in het IJsselmeer gebied (de SAMIJ-regeling). Eenduidige en directe
+communicatie is vereist tussen de verschillende diensten in de
+regio&#x2019;s rond het IJsselmeer en de betreffende vaartuigen van
+Rijkswaterstaat.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Regionale
+ambulancevoorzieningen (CPA/RAV):</titel>
+        </kop>
+        <al>Huisartsenposten:
+Huisartsposten bieden medische spoedhulp in het geval de geografische
+spreiding van reguliere ambulances zodanig is dat niet aan de wettelijk
+verplichte aanrijtijden kan worden voldaan. Direct contact met
+meldkamer is in dergelijke gevallen noodzakelijk.</al>
+        <al>Ambulances
+grensgebieden: Ondersteuning van Duitse en Belgische ambulancediensten
+in de grensregio&#x2019;s bij onderbezetting en opschaling of in geval
+van een kortste aanrijtijd.</al>
+        <al>Reddingsbrigades: De
+Reddingsbrigades bieden ondersteuning en transportfaciliteiten aan
+brandweer en RAV, bij incidenten op zee, op strand of in de
+duinen.</al>
+        <al>Spoedeisende Eerste Hulp, ziekenhuizen: De spoedeisende
+eerste hulp van ziekenhuizen dienen te allen tijde adequaat te kunnen
+communiceren met de meldkamer en voertuigen zodat de juiste maatregelen
+getroffen kunnen worden voor ontvangst van de
+pati&#xEB;nten.</al>
+        <al>Heliplatformen, ziekenhuizen: De
+traumahelikopters en de ziekenhuizen maken voor de communicatie met het
+heliplatform gebruik van C2000.</al>
+        <al>GHOR: Geneeskundige
+Hulpverlening bij Ongevallen en Rampen. Aanvragen voor extra apparatuur
+in aanvulling op de door BZK beschikbaar gestelde
+randapparatuur.</al>
+        <al>Traumateams: de traumateams van de 4
+traumacentra</al>
+        <al>Regionale afdelingen van het Rode Kruis: De
+regionale afdelingen van het Rode Kruis worden in het kader van de GHOR
+ingezet bij grootschalige evenementen, crises en
+rampen.</al>
+      </divisie>
+      <bijlage-sluiting>
+        <ondertekening>De
+<functie>Minister</functie> van
+<organisatie afkorting="BZK">Binnenlandse Zaken en Koninkrijksrelaties</organisatie>,
+          <naam>
+            <voornaam>G.
+ter</voornaam>
+            <achternaam>Horst</achternaam>
+          </naam>
+        </ondertekening>
+      </bijlage-sluiting>
+    </bijlage>
+  </regeling>
+</wetgeving>
+  	

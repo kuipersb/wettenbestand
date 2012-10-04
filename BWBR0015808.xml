@@ -1,0 +1,521 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0015808" dtdversie="2.0" id="266049" soort="AMvB" xml:lang="nl">
+  
+  <intitule>Besluit van 28 oktober 2003, houdende regels betreffende door
+	 aanbieders van openbare telecommunicatienetwerken of openbare
+	 telecommunicatiediensten te treffen beveiligingsmaatregelen ten aanzien van
+	 gegevens betreffende het aftappen en opnemen van telecommunicatie (Besluit
+	 beveiliging gegevens aftappen telecommunicatie)</intitule>
+  
+  <wet-besluit>
+	 <aanhef>
+		<wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses
+		  van Oranje-Nassau, enz. enz. enz.</wij>
+		<considerans>
+		  <considerans.al>Op de voordracht van de Staatssecretaris van
+			 Economische Zaken van 15&#xA0;mei 2003, nr. WJZ/03/02344 gedaan mede namens Onze
+			 Minister van Justitie, Onze Minister van Binnenlandse Zaken en
+			 Koninkrijksrelaties en Onze Minister van Defensie;</considerans.al>
+		  <considerans.al bevat="grondslag">Gelet op de
+			 <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2" compleet="nee">artikelen 13.2, derde lid</extref>,
+			 <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.5" compleet="nee">13.5, tweede lid, van de
+			 Telecommunicatiewet</extref>;</considerans.al>
+		  <considerans.al>De Raad van State gehoord (advies van 10 juli 2003, nr.
+			 W10.03.0182/II);</considerans.al>
+		  <considerans.al>Gezien het nader rapport van de Minister van
+			 Economische Zaken van 22 oktober 2003, nr. WJZ 3057391, uitgebracht mede namens
+			 Onze Minister van Justitie, Onze Minister van Binnenlandse Zaken en
+			 Koninkrijksrelaties en Onze Minister van Defensie;</considerans.al>
+		</considerans>
+		<afkondiging>
+		  <al>Hebben goedgevonden en verstaan:</al>
+		</afkondiging>
+		
+	 </aanhef>
+	 <wettekst>
+		<artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr>1</nr> 
+  </kop> 
+  <al>In dit besluit wordt verstaan onder:</al> 
+  <lijst> 
+	 <li> 
+		<li.nr>a.</li.nr> 
+		<al>wet: <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Telecommunicatiewet</extref>;</al> 
+	 </li> 
+	 <li> 
+		<li.nr>b.</li.nr> 
+		<al>aanbieder: aanbieder van een openbaar telecommunicatienetwerk of van
+		  een openbare telecommunicatiedienst;</al> 
+	 </li> 
+	 <li> 
+		<li.nr>c.</li.nr> 
+		<al>bevoegde autoriteit:</al> 
+		<lijst> 
+		  <li> 
+			 <li.nr>1&#xB0;.</li.nr> 
+			 <al>de officier van justitie of de door de korpsbeheerder voor zijn
+				korps, dan wel door het hoofd van een andere opsporingsdienst voor zijn dienst
+				aangewezen opsporingsambtenaar;</al> 
+		  </li> 
+		  <li> 
+			 <li.nr>2&#xB0;.</li.nr> 
+			 <al>het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst, of
+				de door hem aangewezen ambtenaar;</al> 
+		  </li> 
+		  <li> 
+			 <li.nr>3&#xB0;.</li.nr> 
+			 <al>het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst, of
+				de door hem aangewezen ambtenaar;</al> 
+		  </li> 
+		</lijst> 
+	 </li> 
+	 <li> 
+		<li.nr>d.</li.nr> 
+		<al>bijzondere last: last tot het aftappen of opnemen van
+		  telecommunicatie. </al> 
+	 </li> 
+  </lijst> 
+</artikel>
+		<artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr status="officieel">2</nr> 
+  </kop> 
+  <lid> 
+	 <lidnr status="officieel">1</lidnr> 
+	 <al>De aanbieder draagt zorg voor het treffen van alle noodzakelijke
+		beveiligingsmaatregelen om kennisneming door onbevoegden te voorkomen van de
+		navolgende gegevens en informatie:</al> 
+	 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+		<li> 
+		  <li.nr>a.</li.nr> 
+		  <al>de gegevens welke in het kader van het verlenen van medewerking aan
+			 de uitvoering van een bevoegd gegeven bijzondere last dan wel een toestemming
+			 op grond van de
+			 <extref status="actief" doc="1.0:v:BWBR0013409" compleet="nee">Wet op de inlichtingen- en veiligheidsdiensten
+			 2002</extref> tot het aftappen of opnemen van telecommunicatie door een
+			 bevoegde autoriteit aan de aanbieder zijn verstrekt;</al> 
+		</li> 
+		<li> 
+		  <li.nr>b.</li.nr> 
+		  <al>de informatie welke door de aanbieder aan een bevoegde autoriteit
+			 is verstrekt op grond van
+			 de <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2b" compleet="nee">artikelen 13.2b</extref> en <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4" compleet="nee">13.4 van de wet</extref> alsmede de
+			 gegevens welke zijn vervat in het aan deze verstrekking ten grondslag liggende
+			 verzoek of in de aan deze verstrekking ten grondslag liggende vordering om
+			 informatie van de desbetreffende bevoegde autoriteit;</al> 
+		</li> 
+	 <li><li.nr>c.</li.nr><al>de
+gegevens die door de aanbieder worden geraadpleegd en verder worden
+verwerkt met het oog op het voldoen aan een verzoek of vordering op
+grond van de <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2b" compleet="nee">artikelen 13.2b</extref> en <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4" compleet="nee">13.4 van de
+wet</extref>.</al></li></lijst> 
+  </lid> 
+  <lid> 
+	 <lidnr status="officieel">2</lidnr> 
+	 <al>De maatregelen, bedoeld in het eerste lid, dienen ten minste te bestaan
+		uit:</al> 
+	 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+		<li> 
+		  <li.nr>a.</li.nr> 
+		  <al>maatregelen gericht op de personen die werkzaam zijn voor de
+			 aanbieder;</al> 
+		</li> 
+		<li> 
+		  <li.nr>b.</li.nr> 
+		  <al>maatregelen gericht op de toegang tot de gebouwen en ruimten waarin
+			 de gegevens en informatie aanwezig zijn;</al> 
+		</li> 
+		<li> 
+		  <li.nr>c.</li.nr> 
+		  <al>maatregelen gericht op een deugdelijke werking en beveiliging van
+			 het informatiesysteem waarin de gegevens en informatie worden verwerkt;</al> 
+		</li> 
+		<li> 
+		  <li.nr>d.</li.nr> 
+		  <al>maatregelen gericht op het voorkomen, vaststellen en onderzoeken
+			 van een ongeoorloofde inbreuk op de vertrouwelijkheid van de gegevens en
+			 informatie;</al> 
+		</li> 
+		<li> 
+		  <li.nr>e.</li.nr> 
+		  <al>maatregelen in het geval van calamiteiten.</al> 
+		</li> 
+	 </lijst> 
+  </lid> 
+  <lid> 
+	 <lidnr status="officieel">3</lidnr> 
+	 <al>Tot de maatregelen, bedoeld in het eerste en tweede lid worden in ieder
+		geval gerekend de maatregelen, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0015808&amp;bijlage=">bijlage</intref> bij dit besluit.</al> 
+  </lid> 
+</artikel>
+		<artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr>3</nr> 
+  </kop> 
+  <lid> 
+	 <lidnr>1</lidnr> 
+	 <al>De aanbieder draagt zorg voor een beveiligingsplan, waarin hij aangeeft
+		op welke wijze door hem uitvoering is gegeven aan zijn beveiligingsplicht. In
+		het beveiligingsplan wordt ten minste aangegeven op welke wijze uitvoering is
+		gegeven aan de maatregelen, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0015808&amp;bijlage=">bijlage</intref>.</al> 
+  </lid> 
+  <lid> 
+	 <lidnr>2</lidnr> 
+	 <al>Op een daartoe strekkend verzoek van de bevoegde autoriteit wordt door
+		de aanbieder inzage verleend in het beveiligingsplan.</al> 
+  </lid> 
+</artikel>
+		<artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr status="officieel">4</nr> 
+  </kop> 
+  <lid> 
+	 <lidnr status="officieel">1</lidnr> 
+	 <al><redactie type="vervanging">Dit lid is nog niet in werking getreden.</redactie></al> 
+  </lid>
+ 
+  <lid> 
+	 <lidnr status="officieel">2</lidnr> 
+	 <al>De aanbieder draagt er zorg voor dat aan de uitvoering van de in
+		<extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2" compleet="nee">artikel 13.2, eerste en tweede lid, van de
+		wet</extref> bedoelde bevoegd gegeven bijzondere last en de in
+		de <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2b" compleet="nee">artikelen 13.2b</extref> en <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4" compleet="nee">13.4 van de wet</extref>
+		neergelegde verplichting tot het verstrekken van informatie, de medewerking uitsluitend
+		wordt verleend door personen, die aan hem een verklaring omtrent het gedrag als
+		bedoeld in de <extref status="actief" doc="1.0:v:BWBR0002195" compleet="nee">Wet op de justiti&#xEB;le
+		documentatie en op de verklaringen omtrent het gedrag</extref> hebben
+		overgelegd. De eerste volzin is niet van toepassing, indien de betrokken
+		persoon een vertrouwensfunctie uitoefent als bedoeld in het eerste lid.</al> 
+  </lid> 
+</artikel>
+		<artikel status="goed">
+                  <kop>
+                     <label>Artikel</label>
+                     <nr status="officieel">5</nr>
+                  </kop>
+                  <lid>
+                     <lidnr status="officieel">1</lidnr>
+                     <al>De
+aanbieder draagt er zorg voor dat de gegevens, die ingevolge <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2a" compleet="nee">artikel
+13.2a, tweede lid, van de wet</extref>, worden bewaard, onverwijld doch
+uiterlijk binnen acht dagen na afloop van de termijn, bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2a" compleet="nee">artikel 13.2a, derde lid, van de wet</extref>, worden vernietigd.</al>
+                  </lid>
+                  <lid>
+                     <lidnr status="officieel">2</lidnr>
+                     <al><extref status="actief" doc="1.0:v:BWBR0010975&amp;artikel=5" compleet="nee">Artikel
+5, eerste lid, van het Besluit bewaren en vernietigen niet-gevoegde
+stukken</extref> is van overeenkomstige
+toepassing.</al>
+                  </lid>
+               </artikel><artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr>6</nr> 
+  </kop> 
+  <al>De aanbieder stelt de desbetreffende bevoegde autoriteit terstond op de
+	 hoogte, indien op de vertrouwelijkheid van enigerlei gegevens of informatie als
+	 bedoeld in <intref status="actief" doc="1.0:v:BWBR0015808&amp;artikel=2">artikel 2, eerste
+	 lid</intref>, een ongeoorloofde inbreuk is gemaakt. Hierbij vermeldt de
+	 aanbieder:</al> 
+  <lijst> 
+	 <li> 
+		<li.nr>a.</li.nr> 
+		<al>welke informatie of gegevens het betreft;</al> 
+	 </li> 
+	 <li> 
+		<li.nr>b.</li.nr> 
+		<al>de wijze waarop de inbreuk heeft plaatsgevonden;</al> 
+	 </li> 
+	 <li> 
+		<li.nr>c.</li.nr> 
+		<al>de maatregelen welke zijn genomen om verdere verspreiding van
+		  bedoelde informatie of gegevens tegen te gaan en herhaling van het gebeurde te
+		  voorkomen.</al> 
+	 </li> 
+  </lijst> 
+</artikel>
+		<artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr status="officieel">7</nr> 
+  </kop> 
+  <al>De aanbieder draagt er zorg voor dat de personeelsleden die belast zijn
+	 met:</al> 
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+	 <li> 
+		<li.nr>a.</li.nr> 
+		<al>de werkzaamheden ter uitvoering van een bevoegd gegeven bijzondere
+		  last dan wel een toestemming op grond van de
+		  <extref status="actief" doc="1.0:v:BWBR0013409" compleet="nee">Wet op de inlichtingen- en
+		  veiligheidsdiensten 2002</extref> als bedoeld in
+		  <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2" compleet="nee">artikel 13.2, eerste en tweede lid, van de
+		  wet</extref> en</al> 
+	 </li> 
+	 <li> 
+		<li.nr>b.</li.nr> 
+		<al>de werkzaamheden verbonden aan de informatieverstrekking als bedoeld
+		  in
+		  de <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2b" compleet="nee">artikelen 13.2b</extref>
+en <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4" compleet="nee">13.4 van de wet</extref>,</al> 
+	 </li> 
+  </lijst> 
+  <al>met betrekking tot deze werkzaamheden en de gegevens en informatie
+	 waarvan zij in dat kader kennis nemen, geheimhouding betrachten.</al> 
+</artikel>
+		<artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr>8</nr> 
+  </kop> 
+  <lid> 
+	 <lidnr>1</lidnr> 
+	 <al>Indien de aanbieder de uitvoering van werkzaamheden uitbesteedt aan een
+		derde en in dat kader de derde kennis neemt of kan nemen van gegevens en
+		informatie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0015808&amp;artikel=2">artikel 2, eerste
+		lid</intref>, draagt de aanbieder er zorg voor dat de derde zich
+		verplicht:</al> 
+	 <lijst> 
+		<li> 
+		  <li.nr>a.</li.nr> 
+		  <al>de desbetreffende gegevens en informatie te beveiligen tegen
+			 kennisneming door onbevoegden;</al> 
+		</li> 
+		<li> 
+		  <li.nr>b.</li.nr> 
+		  <al>met betrekking tot de desbetreffende gegevens en informatie
+			 geheimhouding te betrachten;</al> 
+		</li> 
+		<li> 
+		  <li.nr>c.</li.nr> 
+		  <al>de ingevolge dit besluit gestelde maatregelen na te leven;</al> 
+		</li> 
+		<li> 
+		  <li.nr>d.</li.nr> 
+		  <al>alle informatie te verstrekken die voor het toezicht op de naleving
+			 van de beveiligings- en geheimhoudingsverplichting noodzakelijk is.</al> 
+		</li> 
+	 </lijst> 
+  </lid> 
+  <lid> 
+	 <lidnr>2</lidnr> 
+	 <al>De verplichtingen van de derde als bedoeld in het eerste lid worden
+		geregeld in een schriftelijke overeenkomst tussen aanbieder en derde. Op een
+		daartoe strekkend verzoek van de bevoegde autoriteit wordt inzage verleend in
+		de overeenkomst.</al> 
+  </lid> 
+  <lid> 
+	 <lidnr>3</lidnr> 
+	 <al>De aanbieder is verantwoordelijk voor de naleving door de derde van de
+		verplichtingen, bedoeld in het eerste lid.</al> 
+  </lid> 
+</artikel>
+		<artikel status="goed">
+		  <kop><label>Artikel</label><nr>9</nr></kop>
+		  <al>De artikelen
+van dit besluit treden in werking op een bij koninklijk besluit te
+bepalen tijdstip, dat voor de verschillende artikelen of onderdelen
+daarvan verschillend kan worden
+vastgesteld.</al></artikel>
+		<artikel status="goed">
+		  <kop>
+			 <label>Artikel</label>
+			 <nr status="officieel">10</nr>
+		  </kop>
+		  <al>Dit
+besluit wordt aangehaald als: Besluit beveiliging gegevens
+telecommunicatie.</al>
+		  
+		</artikel>
+	 </wettekst>
+	 <wetsluiting status="goed"> 
+  <slotformulering> 
+	 <al>Lasten en bevelen dat dit besluit met de daarbij behorende nota van
+		toelichting in het Staatsblad zal worden geplaatst.</al> 
+  </slotformulering> 
+  <gegeven> 
+	 <dagtekening> 
+		<plaats>'s-Gravenhage</plaats> 
+		<datum isodatum="">28 oktober 2003</datum> 
+	 </dagtekening> 
+	 <koning>Beatrix</koning> 
+  </gegeven> 
+  <ondertekening> De <functie>Minister</functie> van <organisatie>Economische
+	 Zaken</organisatie>, 
+	 <naam> 
+		<voornaam>L. J.</voornaam><achternaam>Brinkhorst</achternaam> 
+	 </naam> </ondertekening> 
+  <ondertekening> De <functie>Minister</functie> van
+	 <organisatie>Justitie</organisatie>,
+	 <naam> 
+		<voornaam>J. P. H.</voornaam><achternaam>Donner</achternaam> 
+	 </naam> </ondertekening> 
+  <ondertekening>De <functie>Minister</functie> van <organisatie>Binnenlandse
+	 Zaken en Koninkrijksrelaties</organisatie>, 
+	 <naam> 
+		<voornaam>J. W.</voornaam><achternaam>Remkes</achternaam> 
+	 </naam> </ondertekening> 
+  <ondertekening>De <functie>Minister</functie> van
+	 <organisatie>Defensie</organisatie>, 
+	 <naam> 
+		<voornaam>H. G. J.</voornaam><achternaam>Kamp</achternaam> 
+	 </naam> </ondertekening> 
+  <uitgifte> 
+	 <datum isodatum="">de vijfentwintigste november 2003</datum> 
+	 <ondertekening>De <functie>Minister</functie> van
+		<organisatie>Justitie</organisatie>, 
+		<naam> 
+		  <voornaam>J. P. H.</voornaam><achternaam> Donner </achternaam> 
+		</naam> </ondertekening> 
+  </uitgifte> 
+</wetsluiting>
+	 <bijlage status="goed"> 
+  <kop> 
+	 <label>Bijlage</label><titel status="officieel">als bedoeld in
+		<intref status="actief" doc="1.0:v:BWBR0015808&amp;artikel=2">artikel 2, derde lid, van het Besluit beveiliging
+		gegevens aftappen telecommunicatie</intref></titel> 
+  </kop> 
+  <divisie> 
+	 <kop> 
+		<nr>I</nr> 
+		<titel status="officieel">Beveiligingseis algemeen</titel> 
+	 </kop> 
+	 <al>Er is een functionaris, belast met het toezicht op de uitvoering en
+		naleving van de beveiligingsmaatregelen. De functionaris voert daartoe
+		regelmatig controles uit en legt de resultaten daarvan vast.</al> 
+  </divisie> 
+  <divisie> 
+	 <kop> 
+		<nr>II</nr> 
+		<titel status="officieel">Beveiligingseisen ten aanzien van
+		  personeel</titel> 
+	 </kop> 
+	 <al>a. In de functiebeschrijving van personeel dat belast is met de
+		verwerking van de informatie en gegevens wordt de verantwoordelijkheid voor de
+		beveiliging daarvan beschreven.</al> 
+	 <al>b. Personeel dat in aanraking komt met de informatie en gegevens tekent
+		een geheimhoudingsverklaring.</al> 
+	 <al>c. Uitsluitend personeel dat overeenkomstig de functiebeschrijving
+		belast is met de verwerking van de informatie en gegevens heeft toegang tot de
+		informatie en de gegevens.</al> 
+  </divisie> 
+  <divisie> 
+	 <kop> 
+		<nr>III</nr> 
+		<titel status="officieel">Fysieke beveiliging en beveiliging van de
+		  omgeving</titel> 
+	 </kop> 
+	 <al>a. De informatie en de gegevens worden zoveel mogelijk binnen &#xE9;&#xE9;n
+		ruimte geconcentreerd.</al> 
+	 <al>b. De ruimte waarbinnen de informatie en de gegevens aanwezig zijn is
+		deugdelijk fysiek beveiligd.</al> 
+	 <al>c. De fysieke beveiliging is zodanig ingericht dat ongeautoriseerde
+		toegang en pogingen daartoe worden gedetecteerd en dat tijdige interventie
+		plaatsvindt.</al> 
+	 <al>d. Toegang tot de ruimte waar de gegevens of de informatie zich bevindt
+		is uitsluitend toegestaan aan daartoe geautoriseerde personen voorzover dit
+		voor hun functie noodzakelijk is.</al> 
+	 <al>e. Het binnentreden en verlaten van de ruimte moet zodanig zijn
+		geregeld dat er sprake is van gecontroleerde en achteraf herleidbare toegang op
+		individueel niveau.</al> 
+	 <al>f. Documenten waarin, dan wel verwisselbare gegevensdragers waarop, de
+		informatie en de gegevens zijn vastgelegd worden in deugdelijk beveiligde
+		opbergmiddelen bewaard.</al> 
+	 <al>g. Personen belast met onderhouds- en reparatiewerkzaamheden in de
+		ruimte waarin de informatie en de gegevens zich bevinden worden door eigen
+		geautoriseerd personeel begeleid.</al> 
+  </divisie> 
+  <divisie> 
+	 <kop> 
+		<nr>IV</nr> 
+		<titel status="officieel">Beheer van communicatie- en
+		  bedieningsprocessen</titel> 
+	 </kop> 
+	 <al>a. De status/rubricering van de informatie en de gegevens (staatsgeheim
+		of vertrouwelijk) dient te allen tijde kenbaar te zijn.</al> 
+	 <al>b. Reproductie van de informatie of de gegevens is alleen toegestaan
+		door daartoe geautoriseerde personen en uitsluitend voor zover dat nodig is
+		voor de goede uitvoering van de bijzondere last dan wel toestemming op grond
+		van de
+		<extref status="actief" doc="1.0:v:BWBR0013409" compleet="nee">Wet op de inlichtingen- en veiligheidsdiensten
+		2002</extref> als bedoeld in
+		<extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2" compleet="nee">artikel 13.2, eerste en tweede lid, van de
+		wet</extref> dan wel een verzoek op grond van
+		<extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4" compleet="nee">artikel 13.4 van de wet</extref>.</al> 
+	 <al>c. De informatie of de gegevens worden niet buiten de normale ruimte
+		gebracht, tenzij dat voor de goede voortgang van de werkzaamheden noodzakelijk
+		is. In dat geval wordt de verblijfplaats van de informatie of de gegevens
+		geregistreerd.</al> 
+	 <al>d. De verwijdering en vernietiging van de informatie en gegevens
+		geschiedt op een onomkeerbare wijze. Van de verwijdering en vernietiging wordt
+		een rapport opgemaakt, dat in afschrift wordt gezonden aan de bevoegde
+		autoriteit wie het aangaat dan wel een door deze aangewezen instantie.</al> 
+  </divisie> 
+  <divisie> 
+	 <kop> 
+		<nr>V</nr> 
+		<titel status="officieel">Toegangsbeveiliging van geautomatiseerde
+		  informatiesystemen</titel> 
+	 </kop> 
+	 <al>a. De toegang tot geautomatiseerde informatiesystemen waarin de
+		informatie en de gegevens worden verwerkt is op deugdelijke wijze beveiligd,
+		onder meer door middel van persoonsgebonden authenticatie.</al> 
+	 <al>b. De logische beveiliging is zodanig ingericht dat ongeautoriseerde
+		toegang en pogingen daartoe worden gedetecteerd en dat tijdige interventie
+		plaatsvindt.</al> 
+	 <al>c. Het aantal foutieve inlogpogingen is beperkt tot drie.
+		Overschrijding van het aantal foutieve inlogpogingen leidt tot definitieve
+		blokkering, welke uitsluitend door de functionaris, bedoeld in onderdeel I van
+		deze bijlage, kan worden opgeheven. Het voorgaande is niet van toepassing op de
+		systeembeheerder, met dien verstande dat bij drie foutieve inlogpogingen een
+		hernieuwde inlogpoging slechts kan plaatsvinden via een voor noodsituaties
+		ingericht account en persoonsgebonden authenticatie voor het gebruik waarvan
+		door de functionaris, bedoeld in onderdeel I van deze bijlage toestemming moet
+		worden verleend.</al> 
+	 <al>d. Het geautomatiseerde systeem, waarin de gegevens en de informatie
+		worden verwerkt, wordt niet eerder verlaten dan nadat een (handmatig of
+		automatisch) toegangsbeveiligingsmechanisme in werking is gesteld.</al> 
+	 <al>e. Alle handelingen met betrekking tot de verwerking van de informatie
+		en de gegevens in het geautomatiseerde informatiesysteem worden
+		persoonsgebonden vastgelegd teneinde onderzoek mogelijk te maken.</al> 
+	 <al>f. Toegang tot het geautomatiseerde informatiesysteem is uitsluitend
+		voorbehouden aan daartoe geautoriseerd personeel.</al> 
+	 <al>g. De toegangsrechten van de gebruikers worden periodiek
+		ge&#xEB;valueerd.</al> 
+	 <al>h. De autorisaties van alle gebruikers worden vastgelegd.</al> 
+  </divisie> 
+  <divisie> 
+	 <kop> 
+		<nr>VI</nr> 
+		<titel status="officieel">Ontwikkeling, onderhoud en reparatie van
+		  geautomatiseerde informatiesystemen</titel> 
+	 </kop> 
+	 <al>a. Alle wijzigingen in apparatuur, software of procedures die de
+		beveiliging van de gegevens en informatie kunnen be&#xEF;nvloeden zijn
+		controleerbaar, dat wil zeggen bekend en beoordeeld door of namens de aanbieder
+		als zijnde aanvaardbaar.</al> 
+	 <al>b. Het onderhouden van geautomatiseerde informatiesystemen, voor zover
+		deze nog toegang verschaffen tot gegevens en informatie, vindt op locatie
+		plaats.</al> 
+	 <al>c. In afwijking van onderdeel b, is het op afstand onderhouden van
+		geautomatiseerde informatiesystemen slechts toegestaan, indien dit wordt
+		uitgevoerd door daartoe geautoriseerde personen als bedoeld in onderdeel II van
+		deze bijlage, en slechts op tijdstippen waarvoor door de functionaris, bedoeld
+		in onderdeel I, onder a, van deze bijlage, toestemming is verleend en er
+		aantoonbaar voldoende waarborgen bestaan voor het handhaven van het
+		beveiligingsniveau van de gegevens en informatie.</al> 
+	 <al>d. Reparatie aan het geautomatiseerde informatiesysteem waarin de
+		informatie en de gegevens worden verwerkt vindt op locatie plaats. Van de
+		eerste volzin kan worden afgeweken indien de informatie en gegevens zijn
+		verwijderd en niet te achterhalen zijn. </al> 
+  </divisie> 
+</bijlage>
+  </wet-besluit>
+</wetgeving>
+  	

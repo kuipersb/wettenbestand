@@ -1,0 +1,612 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0028674" dtdversie="2.0" id="445219" soort="ministeriele-regeling-BES">
+  
+  <intitule>Regeling navigatie- en
+telecommunicatieinstallaties
+BES</intitule>
+  
+  <regeling>
+    
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>In
+deze beschikking wordt verstaan
+onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+            <li>
+              <al>
+                <nadruk type="cur">ADF:</nadruk> 
+een automatische richtingzoeker aan boord van een luchtvaartuig om de
+richting naar een NDB te bepalen (automatic direction
+finder);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">Bijlage
+10:</nadruk>  Bijlage 10 bij het Verdrag inzake de
+internationale burgerluchtvaart
+(Trb.
+1973,
+109);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">DME:</nadruk> 
+een installatie die aan boord van een luchtvaartuig de directe afstand
+bepaalt tussen een luchtvaartuig en een grondbaken (distance measuring
+equipment);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">ELT:</nadruk> 
+noodradiobaken met een zendfrequentie van 406 MHz. (emergency locator
+transmitter);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">NDB:</nadruk> 
+een rondomstralend radiobaken op de grond met een vaste antenne (non
+directional
+beacon);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">radiaal:</nadruk> 
+de richting vanuit een VOR-grondbaken ten opzichte van het magnetisch
+noorden ter plaatse van het
+grondbaken;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">RNAV:</nadruk> 
+een navigatiesysteem dat luchtvaartuigen in staat stelt een route te
+volgen tussen twee willekeurige punten, binnen voorgeschreven
+nauwkeurigheidsgrenzen, zonder dat het nodig is om over specifieke
+navigatieinstallaties op de grond te vliegen (Area
+Navigation);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">iSSR-transponder:</nadruk> 
+een radarbeantwoordingssysteem met informatie over de identiteit en
+eventueel de hoogte van het luchtvaartuig (secondary surveillance
+radar-transponder);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">VOR:</nadruk> 
+een op de grond geplaatst zendsysteem dat het mogelijk maakt om een
+vanuit het vliegtuig geselecteerde radiaal te onderscheppen of te
+volgen door middel van fasevergelijking (very high frequency
+omnidirectional
+range).</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Een wijziging van Bijlage 10
+treedt in werking vanaf het moment waarop in het Tractatenblad
+mededeling van deze wijziging is
+gedaan.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Voor
+het uitvoeren van een vlucht in de Flamingo CTR, Rooseveld ATZ en
+Yrausquin ATZ, als bedoeld in de Regeling aanwijzing luchtruim en
+aanwijzing luchtverkeersdienstverleners BES. is een luchtvaartuig niet
+zijnde een staatsluchtvaartuig voor zover het
+betreft:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>een
+vliegtuig met turbine motoren met een maximaal toegelaten startmassa
+boven 15.000 kg of met een goedgekeurde configuratie voor meer dan 30
+zitplaatsen voor passagiers, of</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>een
+vliegtuig met turbine motoren met een maximaal toegelaten startmassa
+boven 5700 kg of met een goedgekeurde configuratie voor meer dan 19
+zitplaatsen voor passagiers, uitgerust met een Airborne Collision
+Avoidance System van de tweede generatie (ACAS II), dat voldoet aan de
+eisen gesteld in bijlage 10, boek IV, van het Verdrag inzake de
+internationale
+burgerluchtvaart.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Het
+eerste lid is voor een in dat lid bedoeld luchtvaartuig niet van
+toepassing indien de Minister met betrekking tot dat luchtvaartuig een
+daartoe strekkende verklaring heeft afgegeven. De verklaring wordt
+meegevoerd tijdens de
+vlucht.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Voor
+het uitvoeren van een IFR-vlucht in de Flamingo CTR, Rooseveld ATZ en
+Yrausquin ATZ, als bedoeld in de Regeling aanwijzing luchtruim en
+aanwijzing luchtverkeersdienstverleners BESis een luchtvaartuig
+uitgerust
+met:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>een
+VHF-zend/ontvanginstallatie met kanaalafstanden van 8,33 kHz of 25 kHz,
+waarmee een voortdurende tweezijdige radioverbinding kan worden
+onderhouden met de betrokken luchtverkeersdiensten op de daartoe
+bestemde frequenties zoals gepubliceerd in de luchtvaartgids, en met
+kanaalafstanden van 8,33 kHz indien IFR-vluchten boven vliegniveau 195
+worden uitgevoerd;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>een installatie
+die het mogelijk maakt een VOR te gebruiken, van welke installatie voor
+het uitvoeren van vluchten op vliegniveau 100 en hoger een dubbele
+uitvoering nodig is;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>een
+DME;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>een
+ADF;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>een SSR-transponder met mode
+S/ELS, die voldoet aan de eisen, bedoeld in bijlage 10, boek IV
+(Surveillance Radar and Collision Avoidance Systems) van het Verdrag
+inzake de internationale burgerluchtvaart;
+en</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>indien in door de Minister daartoe
+aangewezen delen van het luchtruim wordt gevlogen: een SSR-transponder
+met mode S/EHS, die voldoet aan de eisen, bedoeld in bijlage 10, boek
+IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag
+inzake de internationale
+burgerluchtvaart.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Het
+eerste lid, onderdelen a, b, c en d, is niet van toepassing voor
+staatsluchtvaartuigen, indien deze beschikken over een
+UHF-zend/ontvangstinstallatie en beschikken over een systeem met een
+gelijkwaardig veiligheidsniveau als de systemen genoemd in de
+onderdelen b, c en
+d.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+        </kop>
+        <al>Voor
+het uitvoeren van een IFR-vlucht of een gecontroleerde VFR-vlucht in de
+Flamingo CTR, Rooseveld ATZ en Yrausquin ATZ, als bedoeld in de
+Regeling aanwijzing luchtruim en aanwijzing
+luchtverkeersdienstverleners BES is een luchtvaartuig uitgerust met
+telecommunicatie-installaties die ten minste voldoen aan de eisen,
+gesteld in bijlage 10 van het
+Verdrag.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+        </kop>
+        <al>Voor
+het uitvoeren van een IFR-vlucht in de Flamingo CTR, Rooseveld ATZ en
+Yrausquin ATZ, als bedoeld in de Regeling aanwijzing luchtruim en
+aanwijzing luchtverkeersdienstverleners BESis een luchtvaartuig
+uitgerust met navigatie-installaties die ten minste voldoen aan de
+eisen, gesteld in bijlage 10 van het
+Verdrag.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Voor
+het uitvoeren van een VFR-vlucht in de Flamingo CTR, Rooseveld ATZ en
+Yrausquin ATZ, als bedoeld in de Regeling aanwijzing luchtruim en
+aanwijzing luchtverkeersdienstverleners BES, behalve in gebieden met de
+classificatie G beneden 1500 voet AMSL is een luchtvaartuig uitgerust
+met een SSR-transponder met mode S/ELS of 4096 code mogelijkheden in
+mode A met automatische hoogterapportering in mode C, die voldoet aan
+de eisen, bedoeld in bijlage 10, Boek IV (Surveillance Radar and
+Collision Avoidance Systems) van het Verdrag. Indien het eerste bewijs
+van luchtwaardigheid met betrekking tot het desbetreffende
+luchtvaartuig is afgegeven na 30 maart 2005 is het luchtvaartuig
+uitgerust met een SSR-transponder met mode S/ELS, die voldoet aan de
+eisen bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision
+Avoidance Systems) van het
+Verdrag.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>In
+uitzonderingsgebieden aangewezen als bijzondere gebieden kan de
+Minister ontheffing verlenen van het gestelde in het eerste
+lid.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">8</nr>
+        </kop>
+        <al>Voor
+het uitvoeren van een vlucht in het vluchtinformatiegebied Cura&#xE7;ao
+en Sint Maarten TMA wordt een SSR-transponder als volgt
+gebruikt:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>wanneer
+het luchtvaartuig is voorzien van een bruikbare SSR-transponder
+schakelt de gezagvoerder deze in gedurende de gehele vlucht ongeacht of
+het luchtvaartuig zich binnen het luchtruim bevindt waar de
+SSR-transponder is voorgeschreven voor
+luchtverkeersleidingsdoeleinden;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>behalve
+in geval van nood, bij verlies van tweezijdige radioverbinding of
+indien het luchtvaartuig is onderworpen aan wederrechtelijke inmenging,
+wordt door de gezagvoerder de hoogteuitlezing in mode C aangezet,
+en</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>1&#xB0;</li.nr>
+                <al>de
+mode A code geselecteerd die individueel is verstrekt door de betrokken
+luchtverkeersdienst waarmee contact wordt
+onderhouden,</al>
+              </li>
+              <li>
+                <li.nr>2&#xB0;</li.nr>
+                <al>de transponder
+aangezet en de mode A code geselecteerd in overeenstemming met de
+regionale burgerluchtvaartovereenkomst,
+of</al>
+              </li>
+              <li>
+                <li.nr>3&#xB0;</li.nr>
+                <al>bij afwezigheid van
+aanwijzingen van de betrokken luchtverkeersdienst en regionale
+burgerluchtvaartovereenkomst mode A code 2000 ingesteld, tenzij door de
+betreffende luchtverkeersdienst een andere opdracht is
+verstrekt.</al>
+              </li>
+            </lijst>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>indien de
+luchtverkeersdienst vraagt de mogelijkheden van de aan boord aanwezige
+SSR-transponder te specificeren, geeft de gezagvoerder van het
+luchtvaartuig dit aan door de letters te gebruiken die voor dat doel
+zijn omschreven bij punt 10 van het vliegplanformulier bedoeld in
+artikel 1 van Regeling vliegplan
+BES;</al>
+          </li>
+          <li>
+            <li.nr>d.</li.nr>
+            <al>indien de luchtverkeersdienst
+middels de term `confirm squawk' vraagt om de geselecteerde code te
+bevestigen, verifieert de gezagvoerder de code op de SSR-transponder,
+stelt zo nodig de toegewezen code opnieuw in, en bevestigt de
+luchtverkeersdienst de geselecteerde code zoals weergegeven op de
+SSR-transponder;</al>
+          </li>
+          <li>
+            <li.nr>e.</li.nr>
+            <al>de bijzondere
+identificatiemogelijkheid SPI of IDENT wordt uitsluitend gebruikt op
+verzoek van de betrokken
+luchtverkeersdienst;</al>
+          </li>
+          <li>
+            <li.nr>f.</li.nr>
+            <al>indien een
+luchtverkeersdienst om informatie over de vlieghoogte vraagt tijdens
+mondelinge communicatie, verstrekt de gezagvoerder deze informatie door
+de vlieghoogte te melden die op zijn hoogtemeter wordt aangegeven en
+wel in de dichtstbijzijnde eenheid van 30 meter of 100
+voet;</al>
+          </li>
+          <li>
+            <li.nr>g.</li.nr>
+            <al>in luchtvaartuigen die zijn
+uitgerust met een SSR-transponder met mode S met de mogelijkheid om het
+luchtvaartuig te identificeren, stelt de gezagvoerder die identificatie
+zodanig in dat deze correspondeert met de identificatie die is
+gespecificeerd onder punt 7 van het vliegplan of, als geen vliegplan
+wordt ingediend, het nationaliteits- en inschrijvingskenmerk van het
+luchtvaartuig;</al>
+          </li>
+          <li>
+            <li.nr>h.</li.nr>
+            <al>in geval van nood
+stelt de gezagvoerder de SSR-transponder in op mode A code 7700, tenzij
+tevoren een individuele identificatiecode is verstrekt en ingesteld en
+de gezagvoerder geen bijzondere reden aanwezig acht om mode A code 7700
+alsnog in te stellen;</al>
+          </li>
+          <li>
+            <li.nr>i.</li.nr>
+            <al>bij verlies van
+tweezijdige radioverbinding met de betrokken luchtverkeersdienst
+tijdens een gecontroleerde vlucht stelt de gezagvoerder de transponder
+in op mode A code 7600;</al>
+          </li>
+          <li>
+            <li.nr>j.</li.nr>
+            <al>indien het
+luchtvaartuig is onderworpen aan wederrechtelijke inmenging, tracht de
+gezagvoerder de SSR-transponder in te stellen op mode A code 7500,
+tenzij de omstandigheden het gebruik van mode A code 7700
+rechtvaardigen;</al>
+          </li>
+          <li>
+            <li.nr>k.</li.nr>
+            <al>indien een
+gezagvoerder mode A code 7500 heeft geselecteerd en de
+luchtverkeersdienst vraagt deze selectie te bevestigen, antwoordt hij
+afhankelijk van de omstandigheden bevestigend of helemaal
+niet.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">9</nr>
+        </kop>
+        <al>Voor
+het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied
+Cura&#xE7;ao en St. Maarten TMA wordt, tenzij door de betreffende
+luchtverkeersdienst een andere opdracht is verstrekt of afwijkende
+voorschriften van toepassing zijn door de aard van het luchtvaartuig of
+het doel van de vlucht, een SSR-transponder als volgt
+gebruikt:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>de
+SSR-transponder wordt onmiddellijk voorafgaande aan de opstijging in
+werking gesteld en in werking gehouden tot de
+landing;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>de SSR-transponder wordt
+ingesteld op de individuele identificatiecode die laatstelijk is
+verstrekt door de betrokken
+luchtverkeersdienst;</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>zolang geen
+individuele identificatiecode is verstrekt, wordt mode A code 2000
+ingesteld;</al>
+          </li>
+          <li>
+            <li.nr>d.</li.nr>
+            <al>indien voor het vertrek
+blijkt dat de SSR-transponder niet of niet goed werkt en niet voor
+vertrek kan worden hersteld,
+wordt:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>1&#xB0;.</li.nr>
+                <al>de betrokken luchtverkeersdienst hierover zo spoedig mogelijk en
+bij voorkeur voorafgaand aan het indienen van het vliegplan ingelicht;
+en</al>
+              </li>
+              <li>
+                <li.nr>2&#xB0;.</li.nr>
+                <al>een vliegplan ingediend met
+als bestemming het dichtstbijzijnde geschikte luchtvaartterrein waar
+herstel kan plaatsvinden, met vermelding van de staat van de
+SSR-transponder onder punt 10 van het
+vliegplanformulier;</al>
+              </li>
+            </lijst>
+          </li>
+          <li>
+            <li.nr>e.</li.nr>
+            <al>indien
+na het vertrek blijkt dat de SSR-transponder niet of niet goed werkt,
+rekening wordt gehouden met beperkingen bij de uitvoering van het
+vliegplan;</al>
+          </li>
+          <li>
+            <li.nr>f.</li.nr>
+            <al>na de landing al het
+mogelijke wordt verricht om de SSR-transponder te laten herstellen of
+vervangen voor de volgende
+vlucht;</al>
+          </li>
+          <li>
+            <li.nr>g.</li.nr>
+            <al>Indien herstel of vervanging
+ter plaatse niet mogelijk is,
+wordt:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>1&#xB0;.</li.nr>
+                <al>de betrokken luchtverkeersdienst hierover zo
+spoedig mogelijk en bij voorkeur voorafgaand aan het indienen van het
+vliegplan ingelicht; en</al>
+              </li>
+              <li>
+                <li.nr>2&#xB0;.</li.nr>
+                <al>een
+vliegplan ingediend met als bestemming het dichtstbijzijnde geschikte
+luchtvaartterrein waar herstel kan plaatsvinden, met vermelding van de
+staat van de SSR-transponder onder punt 10 van het
+vliegplanformulier.</al>
+              </li>
+            </lijst>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">10</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Voor
+het uitvoeren van een VFR-vlucht in de Flamingo CTR, Rooseveld ATZ en
+Yrausquin ATZ, als bedoeld in de Regeling aanwijzing luchtruim en
+aanwijzing luchtverkeersdienstverleners BES zijn de volgende
+voorschriften voor het gebruik van een SSR-transponder van
+toepassing:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>het
+gebruik van een SSR-transponder met de mode S of 4096 codemogelijkheden
+in mode A met automatische hoogterapportering in mode C is verplicht in
+het luchtruim met de classificatie A, B, C, D, E of F;
+en</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>mode A code 7000 wordt
+ingesteld.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De
+verplichtingen, bedoeld in het eerste lid, zijn niet van toepassing
+wanneer door de betreffende luchtverkeersdienst een andere opdracht is
+verstrekt of afwijkende voorschriften van toepassing zijn door de aard
+van het luchtvaartuig of het doel van de
+vlucht.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">11</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De
+Minister kent aan elk luchtvaartuig op aanvraag een 24-bit
+luchtvaartuigadres toe dat geregistreerd wordt in een gegevensbestand,
+aangehouden door de Inspectie Verkeer en
+Waterstaat.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Het
+digitale signaal van de ELT bevat, behoudens in uitzonderlijke
+gevallen, het 24-bit luchtvaartuigadres van het
+bijbehorende luchtvaartuig, ten behoeve van de
+identificatie.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Gebruikers
+van luchtvaartuigen die ELT&#x2019;s vervangen, plaatsen ELT&#x2019;s
+die zijn gecodeerd met het 24-bit luchtvaartuigadres volgens de door de
+Directie Luchtvaart aangewezen
+protocollen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>De
+toekenning van het 24-bit luchtvaartuigadres, bedoeld in het eerste
+lid, geschiedt door tussenkomst van de Inspecteur Generaal van de
+Inspectie Verkeer en Waterstaat. Bij de aanvraag wordt het
+registratiekenmerk, het type en het serienummer van het luchtvaartuig
+vermeld.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>De door
+de Minister toegekende 24-bit luchtvaartadressen, alsmede de
+wijzigingen daarin, worden in het gegevensbestand van de Kustwacht voor
+Aruba, Cura&#xE7;ao en Sint Maarten alsmede voor de openbare lichamen
+Bonaire, Sint Eustatius en Saba opgenomen. Uitsluitend ELT&#x2019;s die
+zijn geprogrammeerd op de in dit artikel bedoelde wijze worden in het
+gegevensbestand van de Kustwacht voor Aruba, Cura&#xE7;ao en Sint
+Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en
+Saba 6. Voor luchtvaartuigen die een 24-bit luchtvaartuigadres voor
+andere doeleinden in gebruik hebben, wordt dit adres gebruikt voor de
+bij het luchtvaartuig behorende
+ELT&#x2019;s.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">12</nr>
+        </kop>
+        <al>Deze
+regeling wordt aangeduid als: Regeling navigatie- en
+telecommunicatieinstallaties
+BES.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">13</nr>
+        </kop>
+        <al>Deze
+regeling berust op artikel 113 van het Besluit luchtverkeer
+BES.</al>
+      </artikel>
+    </regeling-tekst>
+  </regeling>
+</wetgeving>
+  	

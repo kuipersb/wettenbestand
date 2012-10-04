@@ -1,0 +1,483 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0030175" dtdversie="2.0" id="460229" soort="zbo">
+  
+  <intitule>Beleidsregel
+van De Nederlandsche Bank N.V. van 23&#xA0;juni 2011, houdende
+uitgangspunten voor de evaluatie, bedoeld in artikel 3:18a van de Wet
+op het financieel toezicht van het Internal Liquidity Adequacy
+Assessment Process van banken en beleggingsondernemingen en met
+betrekking tot de toepassing van de Regeling liquiditeit Wft 2011
+(Beleidsregel liquiditeit Wft
+2011)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De
+Nederlandsche Bank N.V.,</wie>
+      <considerans>
+        <considerans.al>Na
+raadpleging van de betrokken representatieve
+organisaties;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet
+op <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=1%3A29a" compleet="nee">artikel 1:29a, eerste lid, onderdeel d</extref>, <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A17" compleet="nee">artikel 3:17, eerste en
+tweede lid, aanhef en onderdeel c, en derde en vierde lid</extref>, en de
+<extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A18a" compleet="nee">artikelen 3:18a</extref>, <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A63" compleet="nee">3:63</extref> en <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A111a" compleet="nee">3:111a van de Wet op het financieel
+toezicht</extref>;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op de
+<extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=23" compleet="nee">artikelen 23</extref>, <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=23b" compleet="nee">23b</extref> en <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=25a" compleet="nee">25a</extref> en <extref status="actief" doc="1.0:v:BWBR0020420&amp;hoofdstuk=11" compleet="nee">hoofdstuk 11 van het Besluit
+prudenti&#xEB;le regels
+Wft</extref>;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0028903&amp;artikel=2" compleet="nee">artikel
+2 van de Regeling liquiditeit Wft
+2011</extref>;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op
+<extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2009/111/EG</extref> van het Europees Parlement en
+de Raad van 16&#xA0;september 2009 tot wijziging van de <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijnen
+2006/48/EG</extref>, <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">2006/49/EG</extref> en <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">2007/64/EG</extref> wat betreft banken die zijn
+aangesloten bij centrale instellingen, bepaalde
+eigenvermogensbestanddelen, grote posities, het toezichtkader en het
+crisisbeheer (PbEU L
+302);</considerans.al>
+        <considerans.al bevat="grondslag">Gelet
+op bijlage V, punt 10, subonderdelen 14 tot en met 22, en bijlage XI,
+punt 1, onderdeel e, en punt 1 bis, van de herziene richtlijn banken
+(<extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2006/48/EG</extref>), zoals gewijzigd bij <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr.
+2009/111/EG</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <paragraaf>
+        <kop>
+          <label>Paragraaf</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Definities</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>In
+deze beleidsregel wordt verstaan
+onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>
+                <nadruk type="cur">Wft:</nadruk> <extref status="actief" doc="1.0:v:BWBR0020368" compleet="nee">Wet
+op het financieel
+toezicht</extref>;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>
+                <nadruk type="cur">Besluit:</nadruk> <extref status="actief" doc="1.0:v:BWBR0020420" compleet="nee">Besluit
+prudenti&#xEB;le regels
+Wft</extref>;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>
+                <nadruk type="cur">Regeling:</nadruk> <extref status="actief" doc="1.0:v:BWBR0028903" compleet="nee">Regeling
+liquiditeit Wft 2011</extref>
+(Stcrt.
+2010,
+17092);</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>
+                <nadruk type="cur">DNB:</nadruk> de
+Nederlandsche Bank
+N.V.;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>
+                <nadruk type="cur">EBA:</nadruk> de
+Europese Bankautoriteit of European Banking Authority, zoals opgericht
+bij Verordening (EU) nr. 1093/2010 van het Europees Parlement en de
+Raad van 24&#xA0;november 2010 tot oprichting van een Europese
+toezichthoudende autoriteit (Europese Bankautoriteit), tot wijziging
+van Besluit nr. 716/2009/EG en tot intrekking van Besluit 2009/78/EG
+van de Commissie (PbEU L
+331);</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>
+                <nadruk type="cur">BCBS:</nadruk> het
+Basel Committee on Banking
+Supervision;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>
+                <nadruk type="cur">ILAAP:</nadruk> Internal
+Liquidity Adequacy Assessment
+Process;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>
+                <nadruk type="cur">evaluatie:</nadruk> de
+evaluatie, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A18a" compleet="nee">artikel 3:18a, eerste lid, van de
+Wft</extref>.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>Paragraaf</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Evaluatie
+van het
+ILAAP</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <al>Deze
+paragraaf is van toepassing op banken en beleggingsondernemingen met
+zetel in
+Nederland.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <al>DNB
+baseert zich bij de evaluatie van het ILAAP van een onderneming als
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0030175&amp;artikel=2">artikel 2</intref> op de volgende aanbevelingen en richtsnoeren van
+de EBA en het
+BCBS:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al xml:lang="en">
+                <nadruk type="cur">Second
+part of CEBS&#x2019;s technical advice to the European Commission on
+liquidity risk management (CEBS 2008 147)</nadruk> van 18 september
+2008;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al xml:lang="en">
+                <nadruk type="cur">CEBS
+Guidelines on Liquidity Buffers &amp; Survival Periods</nadruk>, van 9
+december
+2009;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al xml:lang="en">
+                <nadruk type="cur">CEBS
+revised Guidelines on the Management of Concentration Risk under the
+Supervisory Review Process,</nadruk>van 2 september 2010 (sectie 4.4.
+inzake liquidity
+risk);</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al xml:lang="en">
+                <nadruk type="cur">CEBS
+Revised Guidelines on Stress Testing</nadruk>, van 26&#xA0;augustus
+2010;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al xml:lang="en">
+                <nadruk type="cur">CEBS
+Guidelines on Liquidity Cost Benefit Allocation</nadruk> van
+27&#xA0;oktober
+2010;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al xml:lang="en">
+                <nadruk type="cur">BCBS
+Principles for Sound Liquidity Risk Management and
+Supervision,</nadruk>van september
+2008;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al xml:lang="en">
+                <nadruk type="cur">Guidelines
+on the Application of the Supervisory Review Process under Pillar
+2,</nadruk>van 25 januari
+2006;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>
+                <nadruk type="cur">Liquidity
+Identity Card CEBS,</nadruk> van juni 2009; en</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al xml:lang="en">
+                <nadruk type="cur">BCBS
+International framework for liquidity risk measurement, standards and
+monitoring,</nadruk>van december
+2010.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed" xml:lang="nl">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>DNB
+voert, met inachtneming van <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=107" compleet="nee">artikel 107, eerste lid, onderdelen b en c,
+van het Besluit</extref>, de evaluatie uit van een ILAAP dat de positie van de
+onderneming, bedoeld in <intref status="actief" doc="1.0:v:BWBR0030175&amp;artikel=2">artikel 2</intref>, op zowel groepsbrede als op
+individuele basis
+betreft.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien
+de onderneming aantoont dat de verdeling van liquiditeit binnen de
+groep en het liquiditeitsrisicobeheer adequaat zijn, kan
+DNB de onderneming op aanvraag op grond van <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A17" compleet="nee">artikel 3:17, vierde lid,
+van de Wft</extref> ontheffing verlenen van het uitvoeren van een ILAAP op
+individuele
+basis.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <al>Een
+onderneming die gehouden is een ILAAP uit te voeren, verstrekt
+desgevraagd aan DNB alle gegevens welke benodigd zijn voor de
+evaluatie, waaronder ten minste de gegevens op basis waarvan DNB kan
+vaststellen:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>op
+welke wijze het ILAAP is ge&#xEF;ntegreerd in de bedrijfsprocessen van
+de onderneming;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>op welke wijze het
+beleid gericht op het beheersen van het liquiditeitsrisico op de korte
+termijn (inclusief intraday) en de langere termijn is vastgelegd in
+procedures en maatregelen en is ge&#xEF;ntegreerd in de
+bedrijfsprocessen van de
+onderneming;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>welke regelingen zijn
+getroffen door de personen die het dagelijks beleid van de onderneming
+bepalen, met het oog op de scheiding van taken in de organisatie en het
+voorkomen van belangenconflicten;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>de
+wijze waarop de personen die het dagelijks beleid van de onderneming
+bepalen, betrokken zijn bij het
+ILAAP;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>welke procedures en
+maatregelen bestaan aan de hand waarvan de onderneming doorlopend
+nagaat of en ervoor zorgt dat de hoogte, samenstelling en verdeling van
+de aanwezige liquiditeit, rekening houdend met bezwaring van activa,
+aansluit op de omvang en aard van het huidige en mogelijk toekomstige
+liquiditeitsrisico;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>op welke wijze de
+procedures en maatregelen, de (kwantitatieve) monitoring en
+stresstesten, rekening houden met de technische criteria voor de
+organisatie en de beheersing van het (liquiditeits)risico, bedoeld in
+bijlage V, punt 10, van de herziene richtlijn
+banken;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>wat de risicotolerantie van
+de onderneming is (kwantitatief en kwalitatief) en hoe deze zich
+verhoudt tot de liquiditeitspositie en het
+financieringsprofiel;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>hoe rekening is
+gehouden met stresstesten;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>welke
+hoogte, samenstelling en verdeling van de liquiditeit volgens de
+onderneming nodig is ter dekking van het huidige en mogelijk
+toekomstige liquiditeitsrisico en hoe dit zich verhoudt tot de actueel
+beschikbare liquiditeit;</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>hoe, in het
+geval van een groep, de aangehouden aanwezige liquiditeit is verdeeld
+over de belangrijkste entiteiten in de groep en hoe het zich verhoudt
+tot de vereiste liquiditeit ingevolge <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A63" compleet="nee">artikel 3:63 van de Wft</extref> en de op
+basis van het ILAAP nodig geachte liquiditeit voor deze
+entiteiten.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>Paragraaf</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Toepassing
+van de regels ingevolge <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A63" compleet="nee">artikel 3:63 van de Wft</extref> op in Nederland gelegen
+bijkantoren van banken met zetel in een andere lidstaat of in een staat
+die geen lidstaat
+is</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <al>Deze
+paragraaf is van toepassing
+op:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>banken
+met zetel in een andere lidstaat, voor zover zij hun bedrijf uitoefenen
+vanuit een in Nederland gelegen bijkantoor;
+en</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>banken met zetel in een staat die
+geen lidstaat is, voor zover zij hun bedrijf uitoefenen vanuit een in
+Nederland gelegen
+bijkantoor.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Met
+betrekking tot een bijkantoor, bedoeld in <intref status="actief" doc="1.0:v:BWBR0030175&amp;artikel=6">artikel 6</intref>, worden voor de
+toepassing van de
+<extref status="actief" doc="1.0:v:BWBR0028903" compleet="nee">Regeling</extref>:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>als
+in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=108" compleet="nee">artikel 108, eerste lid, van het Besluit</extref> bedoelde (passief)posten
+aangemerkt de passiefposten voortvloeiende uit de vanuit dat bijkantoor
+aangegane verplichtingen jegens
+derden;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>als in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=111" compleet="nee">artikel 111, eerste
+lid, van het Besluit</extref> bedoelde (actief)posten aangemerkt de actiefposten
+die ten genoegen van DNB te allen tijde exclusief ter beschikking staan
+van dat bijkantoor, ter nakoming van de vanuit dat bijkantoor aangegane
+verplichtingen jegens
+derden.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>DNB
+acht de in overeenstemming met het eerste lid en met <extref status="actief" doc="1.0:v:BWBR0028903&amp;artikel=2" compleet="nee">artikel 2, eerste
+lid, van de Regeling</extref> berekende liquiditeit pas voldoende, indien de
+bank, bedoeld in <intref status="actief" doc="1.0:v:BWBR0030175&amp;artikel=6">artikel 6</intref>, tevens aantoont dat het risicobeheer van de
+bank gericht op het beheersen van het liquiditeitsrisico naar genoegen
+van DNB voldoende rekening houdt met criteria die ten minste
+gelijkwaardig zijn aan de technische criteria voor de organisatie en
+behandeling van het liquiditeitsrisico, bedoeld in bijlage V, punt 10,
+van de herziene richtlijn
+banken.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>Paragraaf</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+          </kop>
+          <al>Deze
+beleidsregel treedt in werking met ingang van de dag na de datum van
+uitgifte van de Staatscourant waarin deze beleidsregel wordt
+geplaatst.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+          </kop>
+          <al>Deze
+beleidsregel wordt aangehaald als: Beleidsregel liquiditeit Wft
+2011.</al>
+        </artikel>
+      </paragraaf>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze
+regeling zal met de toelichting in de Staatscourant worden
+geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Amsterdam</plaats>
+          <datum isodatum="2011-06-23">23
+juni 2011</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>
+        <functie>De Nederlandsche Bank N.V.,</functie>
+        <naam>
+          <voornaam>H.J.
+</voornaam>
+          <achternaam>Brouwer,</achternaam>
+        </naam>
+        <functie>directeur.</functie>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

@@ -1,0 +1,1532 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0026884" dtdversie="2.0" id="427319" soort="AMvB">
+  
+  <intitule>Besluit
+van 7 december 2009, houdende nieuwe regels voor de emissie van
+middelgrote stookinstallaties
+                (Besluit emissie-eisen middelgrote
+stookinstallaties
+milieubeheer)</intitule>
+  
+  <wet-besluit>
+    <aanhef>
+      <wij>Wij
+Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van
+Oranje-Nassau, enz. enz. enz.</wij>
+      <considerans>
+        <considerans.al bevat="voordracht">Op de voordracht van Onze Minister
+van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van
+7&#xA0;oktober 2009, nr.&#xA0;BJZ2009056953, Directie Bestuurlijke en
+Juridische Zaken;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr.
+2006/123/EG</extref> van het Europees Parlement en de Raad van 12&#xA0;december
+2006 betreffende diensten op de interne markt (PbEU
+L&#xA0;376) en de <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=8.40" compleet="nee">artikelen 8.40</extref>, <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=8.41" compleet="nee">8.41</extref> en <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=8.42" compleet="nee">8.42 van de
+Wet milieubeheer</extref>;</considerans.al>
+        <considerans.al bevat="gehoord">De
+Raad van State gehoord (advies van 13 november 2009,
+nr.&#xA0;W08.09.0397/IV);</considerans.al>
+        <considerans.al bevat="gezien">Gezien het nader rapport van Onze
+Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van
+30&#xA0;november 2009, nr.&#xA0;BJZ2009063857, Directie Bestuurlijke en
+Juridische Zaken;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Hebben goedgevonden en
+verstaan:</al>
+      </afkondiging>
+    </aanhef>
+    <wettekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Algemene
+bepalingen</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">1.1</nr>
+            <titel status="officieel">Begripsbepalingen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">1.1</nr>
+            </kop>
+            <al>In
+dit besluit en de daarop berustende bepalingen wordt verstaan
+onder:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+              <li>
+                           <al>
+                              <nadruk type="cur">accreditatie-instantie:</nadruk> nationale
+accreditatie-instantie als bedoeld in artikel 4, eerste lid, van
+verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van
+de Europese Unie van 9&#xA0;juli 2008 tot vaststelling van de eisen
+inzake accreditatie en marktoezicht betreffende het verhandelen van
+producten en tot intrekking van Verordening (EEG) nr. 339/93 (PbEU
+L&#xA0;218);</al>
+                        </li><li>
+                <al>
+                  <nadruk type="cur">belangrijke
+wijziging:</nadruk> wijziging van het
+thermisch vermogen van een stookinstallatie, die leidt tot een toename
+van de emissies van de in dit besluit bedoelde stoffen met meer dan
+10%, alsmede elke andere wijziging die naar het oordeel van het bevoegd
+gezag aanzienlijke negatieve gevolgen voor de menselijke gezondheid of
+het milieu kan hebben;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">belasting:</nadruk> deel
+van het thermische vermogen waarbij de stookinstallatie daadwerkelijk
+wordt bedreven;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">bestaande
+stookinstallatie:</nadruk> stookinstallatie
+die voor het tijdstip van inwerkingtreding van dit besluit is geplaatst
+of in gebruik is genomen;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">brandstof:</nadruk> vaste,
+vloeibare of gasvormige brandstof;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">gasmotorinstallatie:</nadruk> zuigermotor
+waarin ten minste 50 procent van de brandstof, betrokken op de
+warmte-inhoud, in gasvorm aan de cilinders wordt gedoseerd en waarbij
+aan eventuele nageschakelde ketels of ketelinstallaties geen
+significante hoeveelheid extra lucht voor de verbranding wordt
+toegevoerd;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">gasturbine-installatie:</nadruk> 
+installatie, bestaande
+uit:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>een
+luchtcompressor,</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>een
+of meer verbrandingskamers waarin brandstof met behulp van de door de
+compressor gecomprimeerde lucht wordt verstookt,
+en</al>
+                  </li>
+                  <li>
+                    <li.nr>c.</li.nr>
+                    <al>een turbine
+waarin het geproduceerde verbrandingsgas
+expandeert,</al>
+                  </li>
+                </lijst>
+                <al>waarbij aan eventuele
+nageschakelde ketels of ketelinstallaties geen significante hoeveelheid
+extra lucht voor de verbranding wordt
+toegevoerd;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">ISO-luchtcondities:</nadruk> temperatuur
+van 288 Kelvin, een druk van 101,3 kiloPascal en een relatieve
+vochtigheid van 60 procent;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">ketelinstallatie:</nadruk> installatie,
+bestaande uit een ketel waarin brandstof wordt verstookt, welke
+verbranding in hoofdzaak is bedoeld om kracht op te wekken of om warmte
+over te dragen aan water of stoom dan wel een combinatie
+daarvan;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">Nm<sup>3</sup>:</nadruk> volume
+van het rookgas, herleid naar een temperatuur van 273 Kelvin en een
+druk van 101,3 kiloPascal, na aftrek van het volume van het erin
+aanwezige water, berekend als
+waterdamp;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">rendement:</nadruk> procentueel
+aandeel van de warmte-inhoud van de toegevoerde brandstof, dat bij de
+hoogste belasting waarbij de installatie continu kan worden bedreven,
+bij ISO-luchtcondities in arbeid wordt omgezet, zoals aangegeven door
+de fabrikant van de stookinstallatie;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">rookgas:</nadruk> mengsel
+van gassen met vaste of vloeibare stoffen, dat bij het verbruik van
+brandstof vrijkomt en naar de buitenlucht wordt
+afgevoerd;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">stookinstallatie:</nadruk> technische
+eenheid, bestaande uit een of meer vaste of verplaatsbare
+ketelinstallaties, gasturbine-, vloeistofmotor- of gasmotorinstallaties
+met inbegrip van voor het functioneren van de installatie noodzakelijke
+voorzieningen en vaste voorzieningen voor de reiniging van
+rookgassen;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">thermisch
+vermogen:</nadruk> warmte-inhoud van de
+maximale hoeveelheid brandstof die per tijdseenheid kan worden
+toegevoerd naar een stookinstallatie;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">totaal
+stof:</nadruk> vaste deeltjes, waarbij
+geen onderscheid wordt gemaakt naar de a&#xEB;rodynamische diameter van
+deze deeltjes;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">vergunning:</nadruk> omgevingsvergunning voor een
+inrichting, voor zover deze betrekking heeft
+op een stookinstallatie;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">vloeistofmotorinstallatie:</nadruk> zuigermotor
+waarin ten minste 50 procent van de brandstof, betrokken op de
+warmte-inhoud, in vloeibare vorm aan cilinders wordt gedoseerd en
+waarbij aan eventuele nageschakelde ketels of ketelinstallaties geen
+significante hoeveelheid extra lucht voor de verbranding wordt
+toegevoerd;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">warmte-inhoud van een hoeveelheid
+brandstof:</nadruk> de op de onderste
+verbrandingswaarde betrokken hoeveelheid energie die bij de verbranding
+van die hoeveelheid brandstof
+vrijkomt;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">wet:</nadruk> <extref status="actief" doc="1.0:v:BWBR0003245" compleet="nee">Wet
+milieubeheer</extref>;</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">zuigermotor:</nadruk> installatie,
+bestaande uit een toestel waarin een door verbranding van brandstof
+verkregen gasmengsel een zuiger in beweging brengt, voor de aandrijving
+van een
+werktuig.</al>
+              </li>
+            </lijst>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">1.2</nr>
+            <titel status="officieel">Toepassingsgebied</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">1.2</nr>
+            </kop>
+            <al>Dit
+besluit is van toepassing
+op:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>stookinstallaties
+die deel uitmaken van een inrichting, die behoort tot een of meer van
+de categorie&#xEB;n van inrichtingen, genoemd in <extref status="actief" doc="1.0:v:BWBR0027464&amp;bijlage=I" compleet="nee">bijlage I bij
+het Besluit
+omgevingsrecht</extref>
+en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>stookinstallaties die zich bevinden binnen de exclusieve economische zone.</al>
+              </li>
+            </lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">1.3</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Dit
+besluit is niet van toepassing op
+stookinstallaties:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>waarop
+het <extref status="actief" doc="1.0:v:BWBR0004147" compleet="nee">Besluit emissie-eisen stookinstallaties milieubeheer A</extref> van
+toepassing
+is;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>waarop het
+<extref status="actief" doc="1.0:v:BWBR0016460" compleet="nee">Besluit verbranden afvalstoffen</extref> van toepassing
+is;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>die blijkens een
+daarvoor verleende vergunning worden gebruikt voor het onderzoeken,
+beproeven of demonstreren van experimentele verbrandingstechnieken of
+van technieken ter bestrijding van de uitworp van zwaveldioxide
+(SO<inf>2</inf>), stikstofoxiden (NO<inf>x</inf>) of totaal
+stof,</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>zijnde een
+noodvoorziening, die ten hoogste vijfhonderd uren per jaar in bedrijf
+is.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Dit
+besluit is, voor zover het emissiegrenswaarden en meetmethoden
+voor stikstofoxiden
+(NO<inf>x</inf>) betreft, uitgezonderd <intref status="actief" doc="1.0:v:BWBR0026884&amp;artikel=2.1.5">artikel 2.1.5, eerste en tweede
+lid</intref>, voorts niet van toepassing op stookinstallaties, waarop <extref status="actief" doc="1.0:v:BWBR0003245&amp;titeldeel=16.3" compleet="nee">titel 16.3
+van de wet</extref> van toepassing is.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Dit
+besluit is, uitgezonderd de <intref status="actief" doc="1.0:v:BWBR0026884&amp;artikel=4.1">artikelen 4.1</intref> en <intref status="actief" doc="1.0:v:BWBR0026884&amp;artikel=5.1">5.1, tweede lid</intref>, niet van
+toepassing op een ketelinstallatie met een nominaal vermogen kleiner
+dan 1 megawatt.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Emissiegrenswaarden</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">2.1</nr>
+            <titel status="officieel">Emissiegrenswaarden
+voor nieuwe stookinstallaties</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2.1.1</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Het
+rookgas van een ketelinstallatie waarin de brandstof in vaste of
+vloeibare vorm wordt verstookt, voldoet aan de volgende
+emissiegrenswaarden:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>stikstofoxiden
+(NO<inf>x</inf>): 100 milligram per
+Nm<sup>3</sup>,&#xA0;voor
+zover de brandstof in vaste vorm wordt verstookt, en 120 milligram per
+Nm<sup>3</sup>, voor zover de brandstof in vloeibare vorm wordt
+verstookt;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>zwaveldioxide
+(SO<inf>2</inf>): 200 milligram per Nm<sup>3</sup>,
+en</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>totaal stof: 5
+milligram per Nm<sup>3</sup>.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>In
+afwijking van het eerste lid, onder a en c, voldoet het rookgas van een
+ketelinstallatie met een thermisch vermogen van minder dan vijf
+megawatt, waarin biomassa als brandstof wordt toegepast, aan de
+volgende
+emissiegrenswaarden:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>stikstofoxiden
+(NO<inf>x</inf>): 200 milligram per Nm<sup>3</sup>,
+en</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>totaal stof: 20
+milligram per Nm<sup>3</sup>.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>In
+afwijking van het eerste lid, onder a, voldoet het rookgas van een
+ketelinstallatie met een thermisch vermogen van vijf megawatt of meer,
+waarin biomassa als brandstof wordt verstookt, aan een
+emissiegrenswaarde voor stikstofoxiden (NO<inf>x</inf>) van 145
+milligram per Nm<sup>3</sup>.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Het
+rookgas van een ketelinstallatie, waarin de brandstof in gasvorm wordt
+verstookt, voldoet aan de volgende
+emissiegrenswaarden:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>stikstofoxiden
+(NO<inf>x</inf>): 70 milligram per Nm<sup>3</sup>,
+en</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>zwaveldioxide
+(SO<inf>2</inf>): 200 milligram per
+Nm<sup>3</sup>.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>In
+afwijking van het vierde lid, onder a, wordt, indien in een
+stookinstallatie een andere gasvormige brandstof dan aardgas wordt
+gestookt, de emissiegrenswaarde vermenigvuldigd met een factor die
+gelijk is aan de verhouding van de onderste verbrandingswaarde van de
+ingezette brandstof, uitgedrukt in MJ/kg, tot een verbrandingswaarde
+van 38&#xA0;MJ/kg, waarbij de laatstgenoemde factor minimaal 0,9 en
+maximaal 2,0 bedraagt.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2.1.2</nr>
+            </kop>
+            <al>Het rookgas van een gasturbine-installatie voldoet
+aan de volgende
+emissiegrenswaarden:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>stikstofoxiden
+(NO<inf>x</inf>): 140 milligram per Nm<sup>3</sup>, teruggerekend naar
+ISO-luchtcondities en betrokken op de warmte-inhoud van de toegevoerde
+brandstof;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>zwaveldioxide
+(SO<inf>2</inf>): 200 milligram per Nm<sup>3</sup>,
+en</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>voor zover op
+vloeibare brandstof wordt gestookt, totaal stof: 15&#xA0;milligram per
+Nm<sup>3</sup>.</al>
+              </li>
+            </lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2.1.3</nr>
+            </kop>
+            <al>Het rookgas van een vloeistofmotorinstallatie
+voldoet aan de volgende
+emissiegrenswaarden:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>stikstofoxiden
+(NO<inf>x</inf>): 450 milligram per Nm<sup>3</sup>, teruggerekend naar
+ISO-luchtcondities;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>zwaveldioxide
+(SO<inf>2</inf>): 200 milligram per Nm<sup>3</sup>,
+en</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>totaal stof: 50
+milligram per Nm<sup>3</sup>.</al>
+              </li>
+            </lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2.1.4</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Het
+rookgas van een gasmotorinstallatie voldoet aan de volgende
+emissiegrenswaarden:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>stikstofoxiden
+(NO<inf>x</inf>): 100 milligram per
+Nm<sup>3</sup>;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>zwaveldioxide
+(SO<inf>2</inf>) 200 milligram per Nm<sup>3</sup>,
+en</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>onverbrande
+koolwaterstoffen (C<inf>x</inf>H<inf>y</inf>, uitgedrukt in C): 1500
+milligram per Nm<sup>3</sup>.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>In
+afwijking van het eerste lid, onder a en c, voldoet het rookgas van een
+gasmotorinstallatie waarin gas wordt verstookt dat voor ten minste 95
+procent uit gas bestaat dat door vergisting van organisch materiaal,
+zoals gft-afval, mest, rioolslib, actief slib, gestort huisvuil of een
+mengsel daarvan met hoofdbestanddelen als methaan en koolstofdioxide is
+ontstaan, en een gasmotorinstallatie met een thermisch vermogen van
+minder dan 2,5 megawatt, aan een emissiegrenswaarde voor stikstofoxiden
+(NO<inf>x</inf>) van ten hoogste 340 milligram per Nm<sup>3</sup> en
+geldt voor onverbrande koolwaterstoffen (C<inf>x</inf>H<inf>y</inf>,
+uitgedrukt in C), geen
+emissiegrenswaarde.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2.1.5</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>In
+afwijking van de <intref status="actief" doc="1.0:v:BWBR0026884&amp;artikel=2.1.1">artikelen 2.1.1 tot en met 2.1.4</intref> stelt het bevoegd
+gezag, indien tot de inrichting een gpbv-installatie behoort, voor een
+tot die gpbv-installatie behorende stookinstallatie strengere
+emissiegrenswaarden vast dan de voor die installatie gestelde
+emissiegrenswaarden, indien met laatstbedoelde eisen niet wordt voldaan
+aan het bepaalde bij of krachtens de
+<extref status="actief" doc="1.0:v:BWBR0024779&amp;artikel=2.14" compleet="nee">artikelen 2.14</extref> en <extref status="actief" doc="1.0:v:BWBR0024779&amp;artikel=2.22" compleet="nee">2.22 van de Wet algemene bepalingen
+omgevingsrecht</extref>.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Het
+bevoegd gezag kan ten aanzien van een stookinstallatie waarop <extref status="actief" doc="1.0:v:BWBR0003245&amp;titeldeel=16.3" compleet="nee">titel
+16.3 van de wet</extref> van toepassing is, eisen stellen met betrekking tot de
+emissie van stikstofoxiden (NO<inf>x</inf>), indien de lokale
+luchtkwaliteit dat vergt.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">2.2</nr>
+            <titel status="officieel">Emissiegrenswaarden
+voor bestaande stookinstallaties</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2.2.1</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Een
+bestaande stookinstallatie voldoet aan de emissiegrenswaarden die
+onmiddellijk voorafgaand aan de inwerkingtreding van dit besluit voor
+die installatie golden ingevolge het <extref status="actief" doc="1.0:v:BWBR0004833" compleet="nee">Besluit emissie-eisen
+stookinstallaties milieubeheer B</extref>, dan wel de daarvan afwijkende
+emissiegrenswaarden, die voor die stookinstallatie gelden ingevolge een
+voor die installatie verleende vergunning.</al>
+            </lid>
+            
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Een
+stookinstallatie als bedoeld in het eerste lid voldoet vanaf
+1&#xA0;januari 2017 aan de in de <intref status="actief" doc="1.0:v:BWBR0026884&amp;artikel=2.1.1">artikelen 2.1.1 tot en met 2.1.5</intref>
+gestelde emissiegrenswaarden.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>In
+afwijking van het eerste lid voldoen stookinstallaties die
+zich binnen de exclusieve economische zone bevinden dan wel deel
+uitmaken van een inrichting waarin kooldioxide (CO<inf>2</inf>),
+afkomstig van een andere inrichting, wordt ingezet ten behoeve van de
+bemesting van gewassen teneinde het gebruik van brandstof te
+verminderen, met ingang van 1 januari 2019 aan de in het derde lid
+bedoelde emissiegrenswaarden.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2.2.2</nr>
+            </kop>
+            <al>Indien aan een bestaande stookinstallatie als
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0026884&amp;artikel=2.2.1">artikel 2.2.1, eerste lid, in verbinding met het tweede of
+derde lid</intref>, voor 1&#xA0;januari 2017 onderscheidenlijk 1&#xA0;januari
+2019 een belangrijke wijziging wordt aangebracht, wordt die wijziging
+zodanig uitgevoerd dat aan de emissiegrenswaarden voor een nieuwe
+stookinstallatie wordt voldaan.</al>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">2.3</nr>
+            <titel status="officieel">Overige
+bepalingen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2.3.1</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Een
+stookinstallatie die door een storing niet voldoet aan de voor die
+installatie ingevolge dit besluit geldende emissiegrenswaarden, mag in
+bedrijf blijven voor ten hoogste 120 achtereenvolgende uren na het
+optreden van de storing, met een maximum van 120 uur per
+kalenderjaar.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Indien
+een storing als bedoeld in het eerste lid niet binnen 120 uur zodanig
+is hersteld dat de stookinstallatie weer aan de op haar van toepassing
+zijnde emissiegrenswaarden voldoet, wordt de stookinstallatie buiten
+bedrijf gesteld.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Het
+tweede lid blijft buiten toepassing indien het een stookinstallatie
+betreft die zich binnen de exclusieve economische zone bevindt, de
+storing redelijkerwijs niet binnen het in het eerste lid genoemde
+aantal uren kan worden hersteld en deze omstandigheid voor het
+verstrijken van dat aantal uren schriftelijk met opgave van redenen is
+gemeld bij het Staatstoezicht op de mijnen. Het Staatstoezicht op de
+mijnen stelt in dat geval een termijn waarbinnen de storing wordt
+hersteld. Indien de storing niet binnen de door het Staatstoezicht op
+de mijnen gestelde termijn is hersteld, wordt de stookinstallatie
+alsnog buiten bedrijf gesteld.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Indien
+een storing samenhangt met de brandstof die in de stookinstallatie
+wordt verstookt, mag gedurende het aantal uren, bedoeld in het eerste
+of derde lid, een andere brandstof worden gebruikt en blijven de
+emissiegrenswaarden, bedoeld in dit besluit, buiten
+toepassing.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2.3.2</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Voor de
+berekening van de uitworp van een stookinstallatie wordt de
+massaconcentratie aan zwaveldioxide (SO<inf>2</inf>), stikstofoxiden
+(NO<inf>x</inf>), totaal stof of onverbrande koolwaterstoffen
+(C<inf>x</inf>H<inf>y</inf>, uitgedrukt in C) in het rookgas herleid op
+rookgas met een volumegehalte aan zuurstof
+van:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>zes
+procent, indien het een stookinstallatie met vaste brandstof betreft,
+en</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>drie procent,
+indien het een stookinstallatie met een gasvormige of vloeibare
+brandstof betreft.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Voor de
+berekening van de uitworp van een stookinstallatie wordt de
+massaconcentratie aan stikstofoxiden (NO<inf>x</inf>) in het rookgas
+berekend als massaconcentratie aan
+stikstofdioxide.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2.3.3</nr>
+            </kop>
+            <al>Bij gelijktijdig gebruik van verschillende
+brandstoffen in een ketelinstallatie bedraagt de uitworp van
+zwaveldioxide (SO<inf>2</inf>), stikstofoxiden (NO<inf>x</inf>) en
+totaal stof met het rookgas niet meer dan het gemiddelde van de uitworp
+die voor elke brandstof afzonderlijk is toegestaan. Het gemiddelde van
+de uitworp wordt berekend naar het aandeel in de warmte-inhoud van de
+toegevoerde brandstof.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2.3.4</nr>
+            </kop>
+            <al>Een stookinstallatie die strekt tot vervanging
+voor ten hoogste zes maanden van een stookinstallatie die buiten
+bedrijf is gesteld in verband met onderhoud, reparatie of definitieve
+vervanging en die is afgekoppeld van de brandstoftoevoer of van het
+stoom- of elektriciteitsnet waaraan zij levert, voldoet in ieder geval
+aan de emissiegrenswaarden waaraan de buiten bedrijf gestelde
+stookinstallatie voldeed.</al>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Meetmethoden</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">3.1</nr>
+            <titel status="officieel">Algemeen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.1.1</nr>
+            </kop>
+            <al>Deze paragraaf is niet van toepassing op het meten
+van de concentratie van totaal stof en onverbrande koolwaterstoffen
+(C<inf>x</inf>H<inf>y</inf>, uitgedrukt in C) in het rookgas van
+stookinstallaties waarvoor ingevolge dit besluit geen
+emissiegrenswaarde geldt voor deze stoffen.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.1.2</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De
+concentratie aan stikstofoxiden (NO<inf>x</inf>), zwaveldioxide
+(SO<inf>2</inf>), totaal stof en onverbrande koolwaterstoffen
+(C<inf>x</inf>H<inf>y</inf>, uitgedrukt in C) in het rookgas, bedoeld
+in dit besluit, wordt bepaald door continue of afzonderlijke
+meting.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>In
+afwijking van het eerste lid, wordt de concentratie aan stikstofoxiden
+in het rookgas van een stookinstallatie bepaald door continue meting,
+indien ter bestrijding van de uitworp van stikstofoxiden
+(NO<inf>x</inf>) met rookgasinjectie van water of stoom, een inert
+materiaal dan wel ammoniak of ureum wordt toegepast.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>In
+afwijking van het tweede lid mag worden volstaan met afzonderlijke
+meting indien een logboek wordt bijgehouden waarin de hoeveelheid
+ge&#xEF;njecteerde stoom of water, de hoeveelheid toegepast inert
+materiaal of de hoeveelheid toegevoegde ammoniak of ureum gedurende een
+kalenderjaar wordt bijgehouden en de betreffende emissiegrenswaarden
+niet worden overschreden.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>De
+concentraties van stoffen waarvoor in dit besluit emissiegrenswaarden
+zijn vastgesteld in het rookgas van een stookinstallatie worden voor
+een vervangende stookinstallatie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026884&amp;artikel=2.3.4">artikel 2.3.4</intref> binnen
+vier weken na de inbedrijfstelling van die vervangende installatie
+bepaald door middel van een afzonderlijke
+meting.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.1.3</nr>
+            </kop>
+            <al>In
+afwijking van <intref status="actief" doc="1.0:v:BWBR0026884&amp;artikel=3.1.2">artikel 3.1.2, eerste lid</intref>, behoeven geen metingen van
+zwaveldioxide (SO<inf>2</inf>) te worden verricht indien het in acht
+nemen van de emissiegrenswaarden geschiedt door het stoken van
+brandstof met een zwavelgehalte van 0,1 procent en de stookinstallatie
+niet is uitgerust met apparatuur voor het reduceren van de emissies van
+zwaveldioxide (SO<inf>2</inf>).</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.1.4</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Onverminderd
+de <intref status="actief" doc="1.0:v:BWBR0026884&amp;artikel=3.1.2">artikelen 3.1.2</intref> en <intref status="actief" doc="1.0:v:BWBR0026884&amp;artikel=3.1.3">3.1.3</intref> worden voor het bepalen van de
+concentraties in het rookgas van stoffen waarvoor in de <intref status="actief" doc="1.0:v:BWBR0026884&amp;paragraaf=2.1">paragrafen 2.1</intref>
+en <intref status="actief" doc="1.0:v:BWBR0026884&amp;paragraaf=2.2">2.2</intref> emissiegrenswaarden zijn gesteld, representatieve metingen
+verricht.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De
+bemonsteringen, analyses en metingen van de parameters die nodig zijn
+voor het bepalen van het voldoen aan de waarden, bedoeld in het eerste
+lid, alsmede de andere metingen en berekeningen die in dit besluit zijn
+voorgeschreven, worden uitgevoerd volgens onderstaande
+normbladen:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>emissiemeting:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                      <li.nr>1&#xB0;.</li.nr>
+                      <al>stikstofoxiden
+(NO<inf>x</inf>): NEN-EN 14792 &#xAB;Emissies van stationaire bronnen
+&#x2013; Bepaling van massaconcentratie aan stikstofoxiden
+(NO<inf>x</inf>) &#x2013; Referentiemethode &#x2013;
+Chemiluminescentie&#xBB;;</al>
+                    </li>
+                    <li>
+                      <li.nr>2&#xB0;.</li.nr>
+                      <al>zwaveldioxide
+(SO<inf>2</inf>): NEN-EN 14791 &#xAB;Emissies van stationaire bronnen
+&#x2013; Bepaling van de massaconcentratie aan zwaveldioxide &#x2013;
+Referentiemethode&#xBB;;
+en</al>
+                    </li>
+                    <li>
+                      <li.nr>3&#xB0;.</li.nr>
+                      <al>onverbrande
+koolwaterstoffen (C<inf>x</inf>H<inf>y</inf>): NEN-EN 12619
+&#xAB;Emissies van stationaire bronnen &#x2013; Bepaling van de
+massaconcentratie van totaal gasvormig organisch koolstof in lage
+concentraties in verbrandingsgassen &#x2013; Continue methode met
+vlamionisatiedetector&#xBB;;</al>
+                    </li>
+                    <li>
+                      <li.nr>4&#xB0;.</li.nr>
+                      <al>Totaal
+stof: NEN-EN 13284-1 &#xAB;Emissies van stationaire bronnen &#x2013;
+Bepaling van massaconcentratie van stof in lage concentraties &#x2013;
+Deel 1: Manuele gravimetrische methode&#xBB;, of NEN-EN 13284-2
+&#xAB;Emissies van stationaire bronnen &#x2013; Bepaling van
+massaconcentratie van stof in lage concentraties &#x2013; Deel 2:
+Geautomatiseerde
+meetsystemen&#xBB;;</al>
+                    </li>
+                    <li>
+                      <li.nr>5&#xB0;.</li.nr>
+                      <al>Zuurstof
+(O<inf>2</inf>): NEN-EN 14789 &#xAB;Emissies van stationaire bronnen
+&#x2013; Bepaling van de volumeconcentratie van zuurstof
+(O<inf>2</inf>) &#x2013; Referentiemethode &#x2013;
+Paramagnetisme&#xBB;,
+en</al>
+                    </li>
+                  </lijst>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>monstername
+betreffende de onder a genoemde stoffen: NEN-EN 15259
+&#xAB;Luchtkwaliteit &#x2013; Meetmethode emissies van stationaire
+bronnen &#x2013; Eisen voor meetvlakken en meetlocaties en voor
+doelstelling, meetplan en rapportage van de
+meting&#xBB;.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Met de
+normbladen, bedoeld in het tweede lid, worden gelijkgesteld normbladen
+die worden gesteld in een andere lidstaat van de Europese Unie dan wel
+een staat, niet zijnde een lidstaat van de Europese Unie, die partij is
+bij een daartoe strekkend of mede daartoe strekkend verdrag dat
+Nederland bindt, en die een beschermingsniveau waarborgen dat ten
+minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt
+nagestreefd.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Het
+uitvoeren van afzonderlijke metingen, parallelmetingen en
+referentiemetingen geschiedt door een instantie die is geaccrediteerd door een
+accreditatie-instantie.</al>
+            </lid>
+            
+          <lid>
+                        <lidnr status="officieel">5</lidnr>
+                        <al>In
+afwijking van het vierde lid, mag een afzonderlijke meting ook worden
+uitgevoerd door een persoon die beschikt over een geldig certificaat
+dat is afgegeven door een instantie die is geaccrediteerd door een
+accreditatie-instantie teneinde uitvoering te kunnen geven aan de
+&#xAB;Beoordelingrichtlijn voor het uitvoeren van onderhoud en
+inspecties aan stookinstallaties, Scope 6&#xBB; van de Stichting
+Certificatie Inspectie en Onderhoud Stookinstallaties, mits hij die
+meting uitvoert overeenkomstig Scope 6, of door een persoon die
+beschikt over een bewijs dat aangeeft dat aan met die
+beoordelingrichtlijn, Scope 6, vergelijkbare eisen wordt voldaan, mits
+hij de meting uitvoert overeenkomstig die vergelijkbare
+eisen.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">6</lidnr>
+                        <al>Op een
+certificaat als bedoeld in het vijfde lid is <intref status="actief" doc="1.0:v:BWBR0026884&amp;artikel=4.1">artikel 4.1, vijfde lid</intref>,
+van
+toepassing.</al>
+                     </lid><lid>
+                           <lidnr status="officieel">7</lidnr>
+                           <al>Met
+toepassing van <extref status="actief" doc="1.0:v:BWBR0026759&amp;artikel=28" compleet="nee">artikel 28, eerste lid, laatste zinsnede, van de
+Dienstenwet</extref> is <extref status="actief" doc="1.0:v:BWBR0005537&amp;paragraaf=4.1.3.3" compleet="nee">paragraaf 4.1.3.3. van de Algemene wet bestuursrecht</extref>
+niet van toepassing op de aanvraag om accreditatie als bedoeld in het
+vierde en vijfde
+lid.</al>
+                        </lid></artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">3.2</nr>
+            <titel status="officieel">Afzonderlijke
+metingen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.2.1</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Indien de
+concentratie aan stikstofoxiden (NO<inf>x</inf>), zwaveldioxide
+(SO<inf>2</inf>), totaal stof of onverbrande koolwaterstoffen
+(C<inf>x</inf>H<inf>y</inf>, uitgedrukt in C) afzonderlijk wordt
+gemeten, wordt zodra een emissiegrenswaarde van toepassing is geworden,
+binnen vier weken nadien een afzonderlijke meting verricht.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Indien de
+concentratie aan stikstofoxiden (NO<inf>x</inf>), zwaveldioxide
+(SO<inf>2</inf>), totaal stof of onverbrande koolwaterstoffen
+(C<inf>x</inf>H<inf>y</inf>, uitgedrukt in C) bij een
+gasturbine-installatie, een vloeistofmotorinstallatie of een
+gasmotorinstallatie afzonderlijk wordt gemeten, wordt in aanvulling op
+het eerste lid, om de vier jaar een nieuwe afzonderlijke meting
+verricht.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Indien
+door het veranderen van brandstof op een stookinstallatie andere
+emissiegrenswaarden van toepassing worden, wordt binnen vier weken
+nadien een nieuwe afzonderlijke meting verricht. Het tweede lid is van
+overeenkomstige toepassing.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.2.2</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Een
+afzonderlijke meting als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026884&amp;artikel=3.2.1">artikel 3.2.1</intref> bestaat uit drie
+deelmetingen van ten minste vijftien minuten en ten hoogste dertig
+minuten.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Indien
+geen van de deelmetingen, bedoeld in het eerste lid, de desbetreffende
+emissiegrenswaarde overschrijdt, is aan die emissiegrenswaarde
+voldaan.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Indien
+&#xE9;&#xE9;n van de deelmetingen, bedoeld in het eerste lid, aangeeft
+dat een emissiegrenswaarde wordt overschreden, wordt de afzonderlijke
+meting herhaald binnen drie maanden na de laatste deelmeting van de
+afzonderlijke meting, bedoeld in het eerste lid.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Indien
+&#xE9;&#xE9;n van de deelmetingen van de afzonderlijke meting, bedoeld
+in het derde lid, aangeeft dat de emissiegrenswaarde die aanleiding was
+voor de herhaalde afzonderlijke meting, wederom wordt overschreden,
+treft de drijver van de inrichting zodanige voorzieningen aan de
+stookinstallatie dat verdere overschrijding van die emissiegrenswaarde
+wordt voorkomen.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.2.3</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Bij een
+afzonderlijke meting als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026884&amp;artikel=3.2.1">artikel 3.2.1</intref> mag van een meting
+een door een onafhankelijke en deskundige meetinstantie aangetoond
+95%-betrouwbaarheidsinterval worden afgetrokken.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De waarde
+van het 95%-betrouwbaarheidsinterval, bedoeld in het eerste lid, is
+niet groter dan de volgende percentages van de emissiegrenswaarde
+voor:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>zwaveldioxide
+(SO<inf>2</inf>):
+20;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>stikstofoxiden
+(NO<inf>x</inf>):
+20;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>totaal stof: 30,
+en</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>onverbrande
+koolwaterstoffen (C<inf>x</inf>H<inf>y</inf>, uitgedrukt in C):
+20.</al>
+                </li>
+              </lijst>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.2.4</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Een
+afzonderlijke meting als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026884&amp;artikel=3.2.1">artikel 3.2.1</intref> bij een
+ketelinstallatie wordt verricht bij een belasting van meer dan 60
+procent.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Een
+afzonderlijke meting als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026884&amp;artikel=3.2.1">artikel 3.2.1</intref> bij een
+vloeistofmotorinstallatie, een gasmotorinstallatie of een
+gasturbine-installatie wordt verricht bij de hoogste belasting waarbij
+deze continu kan worden bedreven.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Een
+afzonderlijke meting als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026884&amp;artikel=3.2.1">artikel 3.2.1</intref> bij een
+gasturbine-installatie met een bijbehorende ketelinstallatie wordt
+verricht bij een bijstook van ten hoogste 10% in de bijbehorende
+ketelinstallatie.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">3.3</nr>
+            <titel status="officieel">Continue
+metingen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.3.1</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Continue
+meting voor de bepaling van de concentratie van zwaveldioxide
+(SO<inf>2</inf>), stikstofoxiden (NO<inf>x</inf>), totaal stof of
+onverbrande koolwaterstoffen (C<inf>x</inf>H<inf>y</inf>, uitgedrukt in
+C) vindt plaats
+door:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>rechtstreekse
+continue meting van de concentratie in het rookgas,
+of</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>continue meting
+van de parameters van de voor een stookinstallatie vastgestelde
+uitworpkarakteristiek.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De
+kwaliteitsborging van de ter controle van de emissiegrenswaarden
+ge&#xEF;nstalleerde apparatuur en toegepaste uitworpkarakteristieken
+voldoen aan NEN-EN 14181 &#xAB;Emissies van stationaire bronnen
+&#x2013; Kwaliteitsborging van geautomatiseerde meetsystemen&#xBB;,
+waarbij de kalibratie eens per vijf jaar plaatsvindt.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Met het
+normblad, bedoeld in het tweede lid, worden gelijkgesteld
+normdocumenten die worden gesteld in een andere lidstaat van de
+Europese Unie dan wel een staat, niet zijnde een lidstaat van de
+Europese Unie, die partij is bij een daartoe strekkend of mede daartoe
+strekkend verdrag dat Nederland bindt, en die een beschermingsniveau
+waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de
+nationale eisen wordt nagestreefd.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.3.2</nr>
+            </kop>
+            <al>Bij een continue meting als bedoeld in <intref status="actief" doc="1.0:v:BWBR0026884&amp;artikel=3.3.1">artikel
+3.3.1</intref> is aan een emissiegrenswaarde voldaan indien 100 procent van de
+daggemiddelden die emissiegrenswaarde niet
+overschrijdt.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.3.3</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Indien de
+concentratie aan stikstofoxiden, zwaveldioxide, onverbrande
+koolwaterstoffen of totaal stof continu wordt gemeten, wordt de uitworp
+tijdens het opstarten en stilleggen van de stookinstallatie niet
+meegerekend bij het bepalen of aan de emissiegrenswaarde wordt
+voldaan.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Indien de
+concentratie aan stikstofoxiden, zwaveldioxide, onverbrande koolwaterstoffen
+of totaal stof continu wordt gemeten en
+de stookinstallatie is uitgerust met nageschakelde
+apparatuur die is bedoeld voor het verminderen van de emissie van
+genoemde stoffen, wordt de uitworp tijdens perioden als
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0026884&amp;artikel=2.3.1">artikel 2.3.1, eerste lid</intref>, niet
+meegerekend.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.3.4</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De waarde
+van het 95%-betrouwbaarheidsinterval van individuele waarnemingen, op
+basis waarvan de gemiddelden worden berekend die getoetst worden aan
+een emissiegrenswaarde, is bij continue metingen niet groter dan de
+volgende percentages van de
+emissiegrenswaarde:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>zwaveldioxide
+(SO<inf>2</inf>):
+20;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>stikstofoxiden
+(NO<inf>x</inf>):
+20;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>totaal stof: 30,
+en</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>onverbrande
+koolwaterstoffen (C<inf>x</inf>H<inf>y</inf>, uitgedrukt in C):
+20.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Bij
+continue metingen vindt toetsing aan de bij of krachtens dit besluit
+gestelde emissiegrenswaarden plaats op basis van het gemiddelde van de
+individuele waarnemingen, na aftrek van de waarde van het in het eerste
+lid bedoelde betrouwbaarheidsinterval.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Indien in
+een dag meer dan drie uurgemiddelden ongeldig zijn wegens storing of
+onderhoud van het continu werkende meetsysteem, worden de metingen van
+die dag als ongeldig beschouwd. Indien in enig kalenderjaar de metingen
+van meer dan tien dagen ongeldig zijn, treft degene die de inrichting
+drijft passende maatregelen om de betrouwbaarheid van het continu
+werkende meetsysteem te verbeteren.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">3.4</nr>
+            <titel status="officieel">Nadere regels
+inzake meetmethoden en metingen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3.4</nr>
+            </kop>
+            <al>Bij
+ministeri&#xEB;le regeling kunnen nadere regels worden gesteld ter
+uitvoering van dit hoofdstuk, waaronder begrepen voorschriften omtrent
+registratie en rapportage.</al>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Keuring en
+onderhoud</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4.1</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een
+niet-gasgestookte stookinstallatie als bedoeld in dit besluit met een
+nominaal vermogen
+van:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>20
+kilowatt tot ten hoogste 100 kilowatt, wordt ten minste eenmaal per
+vier jaar gekeurd op veilig functioneren, optimale verbranding en
+energiezuinigheid;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>meer
+dan 100 kilowatt, wordt ten minste eenmaal per twee jaar gekeurd op
+veilig functioneren, optimale verbranding en
+energiezuinigheid.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een
+gasgestookte stookinstallatie als bedoeld in dit besluit met een
+nominaal vermogen van meer dan 100 kilowatt wordt ten minste eenmaal
+per vier jaar gekeurd op veilig functioneren, optimale verbranding en
+energiezuinigheid.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Een
+keuring als bedoeld in het eerste of tweede lid omvat mede de
+afstelling voor de verbranding, het systeem voor de toevoer van
+brandstof en verbrandingslucht en de afvoer van
+verbrandingsgassen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Een
+keuring als bedoeld in het eerste of tweede lid wordt verricht door een
+persoon die beschikt over een geldig certificaat dat is afgegeven door
+een instantie die door een
+accreditatie-instantie is geaccrediteerd
+teneinde uitvoering te kunnen geven aan de &#xAB;Beoordelingrichtlijn
+voor het uitvoeren van onderhoud en inspecties aan
+stookinstallaties&#xBB; van de Stichting Certificatie Inspectie en
+Onderhoud Stookinstallaties of door een persoon die beschikt over een
+bewijs dat aangeeft dat aan met die beoordelingsrichtlijn vergelijkbare
+eisen wordt voldaan. Degene die de inrichting drijft vraagt van degene
+die een keuring verricht een door hem opgesteld en ondertekend verslag
+van die keuring, waaruit ten minste blijkt wanneer en door wie de
+keuring is verricht en de resultaten van de keuring.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Bij
+ministeri&#xEB;le regeling worden nadere voorschriften gegeven
+betreffende de in het vierde lid bedoelde
+beoordelingrichtlijn.</al>
+          </lid>
+          
+          <lid>
+                           <lidnr status="officieel">6</lidnr>
+                           <al>Met
+toepassing van <extref status="actief" doc="1.0:v:BWBR0026759&amp;artikel=28" compleet="nee">artikel 28, eerste lid, laatste zinsnede, van de
+Dienstenwet</extref> is <extref status="actief" doc="1.0:v:BWBR0005537&amp;paragraaf=4.1.3.3" compleet="nee">paragraaf 4.1.3.3. van de Algemene wet bestuursrecht</extref>
+niet van toepassing op de aanvraag om accreditatie als bedoeld in het
+vierde
+lid.</al>
+                        </lid><lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>Indien
+uit een keuring als bedoeld in het vierde lid blijkt dat de
+stookinstallatie onderhoud behoeft, vindt dat onderhoud binnen twee
+weken na de keuring plaats. Degene die de inrichting drijft vraagt van
+degene die het onderhoud verricht aan de stookinstallatie een door hem
+ondertekend bewijs waaruit blijkt wanneer, door wie en welk onderhoud
+is verricht.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Beschikbaar
+houden van documenten</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5.1</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+resultaten van de laatstelijk uitgevoerde metingen en andere gegevens,
+die nodig zijn om te kunnen beoordelen of in overeenstemming met dit
+besluit wordt gehandeld, worden door degene die de inrichting drijft in
+de inrichting ter beschikking gehouden ten behoeve van het bevoegd
+gezag.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het
+laatstelijk verstrekte verslag van een keuring en het laatstelijk
+verstrekte bewijs van verricht onderhoud, bedoeld in <intref status="actief" doc="1.0:v:BWBR0026884&amp;artikel=4.1">artikel 4.1,
+vierde en zevende lid</intref>, worden door degene die de inrichting drijft in
+de inrichting ter beschikking gehouden ten behoeve van het bevoegde
+gezag.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Overgangs- en
+slotbepalingen</titel>
+        </kop>
+        <artikel status="goed"><kop>
+            <label>Artikel</label>
+            <nr status="officieel">6.1</nr>
+          </kop><al>Het <extref status="actief" doc="1.0:v:BWBR0004833" compleet="nee">Besluit emissie-eisen stookinstallaties
+milieubeheer B</extref> en het <extref status="actief" doc="1.0:v:BWBR0004174" compleet="nee">Besluit emissie-eisen NO<inf>x</inf>
+salpeterzuurfabrieken</extref> worden
+ingetrokken.</al></artikel>
+        <artikel status="goed"><kop>
+            <label>Artikel</label>
+            <nr status="officieel">6.2</nr>
+          </kop><al><redactie type="vervanging">Wijzigt het Besluit algemene regels voor inrichtingen milieubeheer.</redactie></al></artikel>
+        <artikel status="goed"><kop>
+            <label>Artikel</label>
+            <nr status="officieel">6.3</nr>
+          </kop><al><redactie type="vervanging">Wijzigt het Besluit emissie-eisen stookinstallaties milieubeheer A.</redactie></al></artikel>
+        <artikel status="goed"><kop>
+            <label>Artikel</label>
+            <nr status="officieel">6.4</nr>
+          </kop><al><redactie type="vervanging">Wijzigt het Besluit glastuinbouw.</redactie></al></artikel>
+        <artikel status="goed"><kop>
+            <label>Artikel</label>
+            <nr status="officieel">6.5</nr>
+          </kop><al><redactie type="vervanging">Wijzigt het Besluit landbouw milieubeheer.</redactie></al></artikel><artikel status="goed"><kop>
+            <label>Artikel</label>
+            <nr status="officieel">6.6</nr>
+          </kop><al><redactie type="vervanging">Wijzigt het Besluit typekeuring verwarmingstoestellen luchtverontreiniging stikstofoxiden.</redactie></al></artikel>
+        
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6.7</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Dit
+besluit treedt in werking op een bij koninklijk besluit te bepalen
+tijdstip.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In
+afwijking van het eerste lid treedt <intref status="actief" doc="1.0:v:BWBR0026884&amp;artikel=1.2">artikel 1.2, onderdeel b</intref>, in
+werking op het tijdstip waarop het bij koninklijke boodschap van
+10&#xA0;juni 2008 ingediende voorstel van wet tot wijziging van de Wet
+milieubeheer en diverse aanverwante wetten (verdere invulling van
+hoofdstuk&#xA0;9) (Kamerstukken II 2007/2008,
+31&#xA0;501,
+nr.&#xA0;2), nadat dat voorstel tot wet is verheven, in
+werking treedt.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6.8</nr>
+          </kop>
+          <al>Dit
+besluit wordt aangehaald als: Besluit emissie-eisen middelgrote
+stookinstallaties milieubeheer.</al>
+        </artikel>
+      </hoofdstuk>
+    </wettekst>
+    <wetsluiting status="goed">
+      <slotformulering>
+        <al>Lasten en bevelen
+dat dit besluit met de daarbij behorende nota van toelichting in het
+Staatsblad zal worden geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>&#x2019;s-Gravenhage</plaats>
+          <datum isodatum="2009-12-07">7
+december 2009</datum>
+        </dagtekening>
+        <koning>Beatrix</koning>
+      </gegeven>
+      <ondertekening>
+        <functie>De 
+          Minister
+           van
+
+          Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+          
+        ,</functie>
+        <naam>
+          <voornaam>J.
+M.</voornaam>
+          <achternaam>Cramer</achternaam>
+        </naam>
+      </ondertekening>
+      <uitgifte>
+        <datum isodatum="2009-12-21">de
+          <nadruk type="cur">eenentwintigste</nadruk>
+december 2009</datum>
+        <ondertekening>
+          <functie>De 
+            Minister
+             van
+
+            Justitie
+            
+          ,</functie>
+          <naam>
+            <voornaam>E.
+M. H.</voornaam>
+            <achternaam>Hirsch
+Ballin</achternaam>
+          </naam>
+        </ondertekening>
+      </uitgifte>
+    </wetsluiting>
+  </wet-besluit>
+</wetgeving>
+  	

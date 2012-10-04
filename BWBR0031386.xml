@@ -1,0 +1,414 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0031386" dtdversie="2.0" id="472339" soort="ministeriele-regeling">
+  
+  
+  <intitule>Regeling met betrekking tot de verstrekking van gegevens (Regeling gegevensuitvraag loonaangifte)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Staatssecretaris van Financi&#xEB;n,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=28a" compleet="nee">artikel 28a van de Wet op de loonbelasting 1964</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Gegevensverstrekking</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1.1</nr>
+            <titel status="officieel">Gegevens jaaropgave</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De jaaropgave, bedoeld in <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=28a" compleet="nee">artikel 28a, tweede lid, van de Wet op de loonbelasting 1964</extref>, bevat de algemene gegevens, genoemd in het tweede lid, en de nominatieve gegevens, genoemd in het derde lid.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De jaaropgave, bedoeld in het eerste lid, bevat de volgende algemene gegevens:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>bericht:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>bericht kenmerk aanleveraar;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>datum en tijdstip aanmaak;</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;.</li.nr>
+                    <al>contactpersoon aanleveraar;</al>
+                  </li>
+                  <li>
+                    <li.nr>4&#xB0;.</li.nr>
+                    <al>telefoonnummer contactpersoon aanleveraar;</al>
+                  </li>
+                  <li>
+                    <li.nr>5&#xB0;.</li.nr>
+                    <al>relatienummer;</al>
+                  </li>
+                  <li>
+                    <li.nr>6&#xB0;.</li.nr>
+                    <al>gebruikt softwarepakket;</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>administratieve eenheid:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>loonheffingennummer;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>naam inhoudingsplichtige;</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>tijdvak:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>datum aanvang tijdvak;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>datum einde tijdvak.</al>
+                  </li>
+                </lijst>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De jaaropgave, bedoeld in het eerste lid, bevat de volgende nominatieve gegevens (per inkomensverhouding):</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>inkomstenverhouding initieel:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>nummer inkomstenverhouding;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>datum aanvang inkomstenverhouding;</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;.</li.nr>
+                    <al>datum einde inkomstenverhouding;</al>
+                  </li>
+                  <li>
+                    <li.nr>4&#xB0;.</li.nr>
+                    <al>personeelsnummer;</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>natuurlijk persoon:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>BSN/sofinummer;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>geboortedatum;</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;.</li.nr>
+                    <al>significant deel van de achternaam;</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>inkomstenperiode initieel:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>datum aanvang inkomstenperiode;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>code soort inkomstenverhouding/inkomenscode;</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;.</li.nr>
+                    <al>code aard arbeidsverhouding;</al>
+                  </li>
+                  <li>
+                    <li.nr>4&#xB0;.</li.nr>
+                    <al>code invloed verzekeringsplicht;</al>
+                  </li>
+                  <li>
+                    <li.nr>5&#xB0;.</li.nr>
+                    <al>code contract onbepaalde/bepaalde tijd;</al>
+                  </li>
+                  <li>
+                    <li.nr>6&#xB0;.</li.nr>
+                    <al>code fase indeling F&amp;Z;</al>
+                  </li>
+                  <li>
+                    <li.nr>7&#xB0;.</li.nr>
+                    <al>indicatie premiekorting arbeidsgehandicapten;</al>
+                  </li>
+                  <li>
+                    <li.nr>8&#xB0;.</li.nr>
+                    <al>indicatie premiekorting nieuwe arbeidsverhouding oudere werknemers;</al>
+                  </li>
+                  <li>
+                    <li.nr>9&#xB0;.</li.nr>
+                    <al>indicatie premiekorting in dienst hebben oudere werknemers;</al>
+                  </li>
+                  <li>
+                    <li.nr>10&#xB0;.</li.nr>
+                    <al>indicatie loonheffingskorting;</al>
+                  </li>
+                  <li>
+                    <li.nr>11&#xB0;.</li.nr>
+                    <al>code reden geen bijtelling auto;</al>
+                  </li>
+                  <li>
+                    <li.nr>12&#xB0;.</li.nr>
+                    <al>code loonbelastingtabel;</al>
+                  </li>
+                  <li>
+                    <li.nr>13&#xB0;.</li.nr>
+                    <al>indicatie verzekerd WAO/IVA/WGA;</al>
+                  </li>
+                  <li>
+                    <li.nr>14&#xB0;.</li.nr>
+                    <al>indicatie verzekerd WW;</al>
+                  </li>
+                  <li>
+                    <li.nr>15&#xB0;.</li.nr>
+                    <al>indicatie verzekerd ZW;</al>
+                  </li>
+                  <li>
+                    <li.nr>16&#xB0;.</li.nr>
+                    <al>indicatie premievrijstelling marginale arbeid;</al>
+                  </li>
+                  <li>
+                    <li.nr>17&#xB0;.</li.nr>
+                    <al>indicatie wachtgeld oude regeling;</al>
+                  </li>
+                  <li>
+                    <li.nr>18&#xB0;.</li.nr>
+                    <al>code verzekeringssituatie Zvw;</al>
+                  </li>
+                  <li>
+                    <li.nr>19&#xB0;.</li.nr>
+                    <al>indicatie loon bestaat (mede) uit een AOW-uitkering voor alleenstaande (met of zonder kinderen);</al>
+                  </li>
+                  <li>
+                    <li.nr>20&#xB0;.</li.nr>
+                    <al>indicatie loon inclusief WAJONG-uitkering;</al>
+                  </li>
+                  <li>
+                    <li.nr>21&#xB0;.</li.nr>
+                    <al>indicatie personeelslening waarvan de rente en/of kostenvoordelen niet tot het loon zijn gerekend;</al>
+                  </li>
+                  <li>
+                    <li.nr>22&#xB0;.</li.nr>
+                    <al>indicatie vervoer vanwege inhoudingsplichtige;</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>werknemersgegevens (gecumuleerd):</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>loon LB/PH;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>loon SV;</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;.</li.nr>
+                    <al>premieloon WAO/IVA/WGA;</al>
+                  </li>
+                  <li>
+                    <li.nr>4&#xB0;.</li.nr>
+                    <al>premieloon uniforme premie WAO/gedifferentieerde premie WGA;</al>
+                  </li>
+                  <li>
+                    <li.nr>5&#xB0;.</li.nr>
+                    <al>premieloon WW Awf;</al>
+                  </li>
+                  <li>
+                    <li.nr>6&#xB0;.</li.nr>
+                    <al>premieloon Ufo;</al>
+                  </li>
+                  <li>
+                    <li.nr>7&#xB0;.</li.nr>
+                    <al>loon belast volgens tabel bijzondere beloningen;</al>
+                  </li>
+                  <li>
+                    <li.nr>8&#xB0;.</li.nr>
+                    <al>ingehouden loonbelasting/premie volksverzekeringen;</al>
+                  </li>
+                  <li>
+                    <li.nr>9&#xB0;.</li.nr>
+                    <al>basispremie WAO/IVA/WGA;</al>
+                  </li>
+                  <li>
+                    <li.nr>10&#xB0;.</li.nr>
+                    <al>uniforme premie WAO/gedifferentieerde premie WGA;</al>
+                  </li>
+                  <li>
+                    <li.nr>11&#xB0;.</li.nr>
+                    <al>premie WW Awf;</al>
+                  </li>
+                  <li>
+                    <li.nr>12&#xB0;.</li.nr>
+                    <al>premie Ufo;</al>
+                  </li>
+                  <li>
+                    <li.nr>13&#xB0;.</li.nr>
+                    <al>ingehouden bijdrage Zvw;</al>
+                  </li>
+                  <li>
+                    <li.nr>14&#xB0;.</li.nr>
+                    <al>bedrag vergoeding Zvw door inhoudingsplichtige;</al>
+                  </li>
+                  <li>
+                    <li.nr>15&#xB0;.</li.nr>
+                    <al>waarde priv&#xE9;gebruik auto;</al>
+                  </li>
+                  <li>
+                    <li.nr>16&#xB0;.</li.nr>
+                    <al>werknemersbijdrage priv&#xE9;gebruik auto;</al>
+                  </li>
+                  <li>
+                    <li.nr>17&#xB0;.</li.nr>
+                    <al>gespaard bedrag levensloopregeling</al>
+                  </li>
+                  <li>
+                    <li.nr>18&#xB0;.</li.nr>
+                    <al>toegepast bedrag levensloopverlofkorting;</al>
+                  </li>
+                  <li>
+                    <li.nr>19&#xB0;.</li.nr>
+                    <al>bedrag vergoeding reiskosten;</al>
+                  </li>
+                  <li>
+                    <li.nr>20&#xB0;.</li.nr>
+                    <al>verrekende arbeidskorting;</al>
+                  </li>
+                  <li>
+                    <li.nr>21&#xB0;.</li.nr>
+                    <al>bedrag in uitkering begrepen doorbetaalde alimentatie;</al>
+                  </li>
+                  <li>
+                    <li.nr>22&#xB0;.</li.nr>
+                    <al>bedrag rechtstreeks betaalde alimentatie;</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>sector risicogroep:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>datum aanvang sectorrisicogroep;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>datum einde sectorrisicogroep;</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;.</li.nr>
+                    <al>sector;</al>
+                  </li>
+                  <li>
+                    <li.nr>4&#xB0;.</li.nr>
+                    <al>risicopremiegroep;</al>
+                  </li>
+                  <li>
+                    <li.nr>5&#xB0;.</li.nr>
+                    <al>premieloon premie sectorfonds;</al>
+                  </li>
+                  <li>
+                    <li.nr>6&#xB0;.</li.nr>
+                    <al>premie sectorfonds.</al>
+                  </li>
+                </lijst>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De jaaropgave wordt op dezelfde wijze en in dezelfde vorm verstrekt als van de aangifte.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1.2</nr>
+            <titel status="officieel">Gegevens correctieverplichting</titel>
+          </kop>
+          <al>Het correctiebericht, bedoeld in <extref status="actief" doc="1.0:v:BWBR0002471&amp;artikel=28a" compleet="nee">artikel 28a, derde lid, van de Wet op de loonbelasting 1964</extref>, bevat de juiste en volledige gegevens, bedoeld in artikel 28a, eerste lid, van de Wet op de loonbelasting 1964.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2.1</nr>
+            <titel status="officieel">Inwerkingtreding</titel>
+          </kop>
+          <al>Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2.2</nr>
+            <titel status="officieel">Citeertitel</titel>
+          </kop>
+          <al>Deze regeling wordt aangehaald als: Regeling gegevensuitvraag loonaangifte.</al>
+        </artikel>
+      </hoofdstuk>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <ondertekening>De <functie>Staatssecretaris</functie> van <organisatie afkorting="FIN">Financi&#xEB;n,</organisatie>
+        <naam>
+          <voornaam>F.H.H.</voornaam>
+          <achternaam>Weekers</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

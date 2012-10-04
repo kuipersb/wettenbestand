@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0019196" dtdversie="2.0" id="334859" soort="ministeriele-regeling">
+  
+  <intitule>Beveiligingsvoorschrift Rijksdienst 2005</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Minister-President, Minister van Algemene Zaken,</wie>
+      <considerans>
+        <considerans.al>Handelende in overeenstemming met het gevoelen van de ministerraad;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label><nr status="officieel">A</nr>
+          <titel status="officieel">Algemeen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Verklaring van de gebruikte begrippen</titel>
+          </kop>
+          <al>In deze regeling wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>minister: elke minister voor wat betreft het onder zijn leiding staande ministerie en de onder zijn verantwoordelijkheid werkzame instellingen, diensten of bedrijven;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>secretaris-generaal: de ambtenaar genoemd in het <extref status="actief" doc="1.0:v:BWBR0004419" compleet="nee">Besluit regeling functie en verantwoordelijkheid van de secretaris-generaal</extref>, dan wel diens plaatsvervanger.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Reikwijdte</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Deze regeling geldt voor de ministeries, de onder verantwoordelijkheid van de minister werkzame instellingen, diensten en bedrijven.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Deze regeling is van toepassing op de beveiliging van de organisatie, medewerkers, materieel, informatiesystemen, gebouwen en overige objecten.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De secretaris-generaal kan bepalen dat deze regeling op dienstonderdelen met een bijzondere taak of delen van die dienstonderdelen niet van toepassing is.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label><nr status="officieel">B</nr>
+          <titel status="officieel">Integrale beveiliging</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">Algemene zorg voor de integrale beveiliging</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De secretaris-generaal is verantwoordelijk voor de integrale beveiliging van de organisatie, medewerkers, materieel, informatiesystemen, gebouwen en overige objecten, en de inrichting en werking van de beveiligingsorganisatie.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Binnen de kaders te stellen door de secretaris-generaal is elk diensthoofd verantwoordelijk voor de integrale beveiliging van zijn dienstonderdeel, de inrichting en werking van de beveiligingsorganisatie evenals de zorg voor en de beveiliging van de informatie die aan zijn dienstonderdeel is toevertrouwd.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label><nr status="officieel">C</nr>
+          <titel status="officieel">Structuur departementale beveiligingsorganisatie</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+            <titel status="officieel">Beveiligingsambtenaar</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De secretaris-generaal wijst een beveiligingsambtenaar aan die belast is met de integrale beveiliging van organisatie, medewerkers, materieel, informatiesystemen, gebouwen en overige objecten, alsmede het toezicht op de werking van de beveiligingsorganisatie en de informatiebeveiliging.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Er kan voor twee of meer ministeries &#xE9;&#xE9;n beveiligingsambtenaar wordt aangesteld.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De secretaris-generaal stelt de instructie voor de beveiligingsambtenaar vast, die tenminste de elementen van de voorbeeldinstructie in de bijlage van deze regeling bevat.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De aanstelling van de beveiligingsambtenaar wordt bekend gemaakt in de Staatscourant.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+            <titel status="officieel">Taken beveiligingsambtenaar</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De beveiligingsambtenaar draagt, onverminderd het bepaalde in het <extref status="actief" doc="1.0:v:BWBR0016435" compleet="nee">Voorschrift informatiebeveiliging rijksdienst-bijzondere informatie</extref> 2004 (VIR-BI), zorg voor:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>opstelling van het departementale integrale beveiligingsbeleid;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>totstandkoming van de departementale risicoanalyse en het departementale integrale beveiligingsplan;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>co&#xF6;rdinatie van en toezicht op de beveiligingstaken van de hoofden van dienst;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>initi&#xEB;ring van periodieke inspecties van de integrale beveiliging;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>periodieke rapportage over de stand van de integrale beveiliging.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De beveiligingsambtenaar kan door de secretaris-generaal worden belast met aanvullende taken of bijzondere opdrachten.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De beveiligingsambtenaar kan namens de secretaris-generaal aanwijzingen geven aan iedere ambtenaar voor zover dat noodzakelijk is voor de uitvoering van het integrale beveiligingsbeleid en de naleving van de beveiligingsvoorschriften.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+            <titel status="officieel">Taken beveiligingsco&#xF6;rdinator</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De secretaris-generaal kan op voordracht van de beveiligingsambtenaar beveiligingsco&#xF6;rdinatoren aanstellen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De beveiligingsco&#xF6;rdinator draagt namens zijn diensthoofd en binnen de door de beveiligingsambtenaar gestelde beleidskaders, voor zijn dienstonderdeel of dienstonderdelen zorg voor:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>opstelling van uitvoeringsrichtlijnen voor het integrale beveiligingsbeleid;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>totstandkoming van de risicoanalyse en het integrale beveiligingsplan;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>co&#xF6;rdinatie van en toezicht op de implementatie van beveiligingseisen en voorschriften bij het dienstonderdeel;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>initi&#xEB;ring van periodieke inspecties van de integrale beveiliging;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>periodieke rapportage over de stand van de integrale beveiliging aan het diensthoofd, de beveiligingsambtenaar en aan overige instanties belast met toezicht en controle op de beveiliging.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De beveiligingsco&#xF6;rdinator kan namens zijn diensthoofd aanwijzingen geven aan ambtenaren in verband met de uitvoering van het integrale beveiligingsbeleid en de naleving van de beveiligingsvoorschriften.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label><nr status="officieel">D</nr>
+          <titel status="officieel">Co&#xF6;rdinatie en afstemming</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+            <titel status="officieel">Co&#xF6;rdinatie</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De beveiligingsambtenaren vormen het Co&#xF6;rdinerend Beraad Integrale Beveiliging, dat tot taak heeft het SG-beraad te adviseren over:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>inrichting en werking van de voorbeeldinstructie;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>inhoud en werking van de beveiligingsorganisatie;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>ontwikkeling van definities, normen en criteria voor integrale beveiliging;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>afstemming van beveiligingsmaatregelen die het ministerie overstijgen.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De leden kiezen om de drie jaar uit hun midden een voorzitter.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label><nr status="officieel">E</nr>
+          <titel status="officieel">Overige bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+            <titel status="officieel">Verplichtingen</titel>
+          </kop>
+          <al>In het geval van een inbreuk op de beveiliging of een vermoeden daarvan neemt de beveiligingsambtenaar, een beveiligingsco&#xF6;rdinator dan wel een functionaris belast met beveiliging onverwijld maatregelen om de beveiliging te herstellen en herhaling te voorkomen.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label><nr status="officieel">F</nr>
+          <titel status="officieel">Slotbepaling</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+            <titel status="officieel">Slotbepaling</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het Beveiligingsvoorschrift 1949 wordt ingetrokken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Dit besluit treedt in werking met ingang van 1&#xA0;december 2005 en werkt terug tot en met 1&#xA0;mei 2005.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Dit besluit wordt aangehaald als: Beveiligingsvoorschrift rijksdienst 2005.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Dit besluit zal met de toelichting en de bijlage daarbij in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <ondertekening>De <functie>Minister-President</functie>,<functie> Minister</functie> van <organisatie afkorting="AZ">Algemene Zaken</organisatie>,
+        <naam>
+          <voornaam>J.P.</voornaam>
+          <achternaam>Balkenende</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+    
+  </regeling>
+</wetgeving>
+  	

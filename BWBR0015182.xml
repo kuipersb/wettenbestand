@@ -1,0 +1,2004 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0015182" dtdversie="2.0" id="243499" soort="ministeriele-regeling" xml:lang="nl"> 
+  
+  
+  <intitule>Regeling van de Minister van Economische Zaken van 6 juni 2003, nr.
+	 WJZ 3019622, tot vaststelling van uitvoeringsregels omtrent onderzoek
+	 installatie, meting en uitgifte van certificaten met betrekking tot
+	 elektriciteit opgewekt door middel van warmtekrachtkoppeling (Regeling
+	 certificaten warmtekrachtkoppeling Elektriciteitswet 1998) </intitule>
+  
+  
+  
+  <regeling> 
+	 <aanhef> 
+		<wie>De Minister van Economische Zaken,</wie> 
+		<considerans> 
+		  <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=31" compleet="nee">artikel 31, zevende lid, van
+			 de Elektriciteitswet 1998</extref>;</considerans.al> 
+		</considerans> 
+		<afkondiging> 
+		  <al>Besluit: </al> 
+		</afkondiging> 
+		 
+	 </aanhef>
+	 
+	 <regeling-tekst> 
+		<paragraaf> 
+		  <kop> 
+			 <label>&#xA7;</label><nr>1</nr><titel>Begripsbepalingen </titel> 
+		  </kop> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">1</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>In deze regeling wordt verstaan onder:</al> 
+				<lijst level="single" nr-sluiting="." start="a" type="expliciet"> 
+				  <li> 
+					 <li.nr>a.</li.nr> 
+					 <al> <nadruk type="cur">wet:</nadruk> de <extref status="actief" doc="1.0:v:BWBR0009755" compleet="nee">Elektriciteitswet
+						1998</extref>;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>b.</li.nr> 
+					 <al>
+                              <nadruk type="cur">WKK-elektriciteit:</nadruk> de
+elektriciteit, opgewekt in een productie-installatie voor
+warmtekrachtkoppeling die voldoet aan bijlagen 2 en 3 van de richtlijn,
+waarbij de
+productie-installatie:</al>
+                           <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                              <li>
+                                 <li.nr>1&#xB0;.</li.nr>
+                                 <al>bij maximale productie van nuttige warmte,
+nuttige warmte en elektriciteit produceert met een verhouding groter of
+gelijk aan 0,6;</al>
+                              </li>
+                              <li>
+                                 <li.nr>2&#xB0;.</li.nr>
+                                 <al>de installatie
+voor minimaal 90% op aardgas wordt gestookt,
+en</al>
+                              </li>
+                              <li>
+                                 <li.nr>3&#xB0;.</li.nr>
+                                 <al>minimaal 90% van de door de
+productie-installatie geproduceerde nuttige warmte wordt gebruikt in
+industri&#xEB;le
+processen;</al>
+                              </li>
+                           </lijst></li> 
+				  <li> 
+					 <li.nr>c.</li.nr> 
+					 <al><nadruk type="cur">gecertificeerd meetbedrijf:</nadruk>
+						een meetbedrijf, niet zijnde een netbeheerder, dat op grond van de voorwaarden,
+						bedoeld in <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=31" compleet="nee">artikel 31, eerste lid, onderdeel b, van de wet</extref>, is toegelaten tot
+						het verrichten van de in die voorwaarden neergelegde werkzaamheden en dat de
+						hoeveelheid elektriciteit meet die afkomstig is van een
+						productie-installatie;</al> 
+				  </li> 
+				   
+				  <li> 
+					 <li.nr>d.</li.nr> 
+					 <al><nadruk type="cur">WKK-certificaat:</nadruk> de gegevens op een WKK-certificatenrekening, waarmee wordt aangetoond dat een
+					 producent met zijn installatie:</al> 
+				  <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+					 <li> 
+						<li.nr>1&#xB0;.</li.nr> 
+						<al>een hoeveelheid WKK-elektriciteit, die een meervoud is van 1 MWh, zonder emissie van kooldioxide
+						  heeft opgewekt en op een net of een installatie heeft ingevoed, of</al> 
+					 </li> 
+					 <li> 
+						<li.nr>2&#xB0;.</li.nr> 
+						<al>een hoeveelheid mechanische energie, die een meervoud is van 1 MWh, zonder emissie van
+						  kooldioxide heeft opgewekt en heeft aangewend anders dan voor de opwekking van elektriciteit;</al> 
+					 </li> 
+				  </lijst> 
+				  </li> 
+				  <li> 
+					 <li.nr>e.</li.nr> 
+					 <al> <nadruk type="cur">WKK-certificatenrekening:</nadruk> de
+						rekening in het systeem van elektronische gegevensverwerking dat in stand wordt
+						gehouden door de netbeheerder van het landelijk hoogspanningsnet en waarmee
+						wordt bijgehouden voor welke hoeveelheid WKK-elektriciteit WKK-certificaten
+						zijn verstrekt en aan wie de WKK-certificaten op enig moment toekomen;</al> 
+				  </li> 
+				<li> 
+					 <li.nr>f.</li.nr> 
+					 <al><nadruk type="cur">meetprotocol:</nadruk> het document waarin beschreven zijn de bemetering van een installatie voor
+						warmtekrachtkoppeling, de wijze van meten en de wijze van kwaliteitsborging van de meetgegevens ten aanzien van de
+						hoeveelheden brandstof die de installatie verbruikt en de hoeveelheden elektriciteit, warmte en, voor zover van
+						toepassing, mechanische energie, die de installatie opwekt;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>g.</li.nr> 
+					 <al><nadruk type="cur">meetrapport:</nadruk> het rapport dat alle meetgegevens van de desbetreffende kalendermaand bevat;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>h.</li.nr> 
+					 <al><nadruk type="cur">gasmotor:</nadruk> een inwendige explosiemotor met elektrische ontsteking of compressie-ontsteking;</al> 
+				  </li> 
+				  <li> 
+					 <li.nr>i.</li.nr> 
+					 <al><nadruk type="cur">WKK-eenheid:</nadruk> een onderdeel binnen een WKK-installatie dat zelfstandig gecombineerd warmte en
+						elektriciteit of mechanische energie opwekt en waarvoor op grond van de WKK-meetvoorwaarden, opgenomen in de bij deze
+						regeling behorende <intref status="actief" doc="1.0:v:BWBR0015182&amp;bijlage=1">bijlage 1</intref>, een systeemgrens is bepaald;</al> 
+				  </li><li>
+                <li.nr>j.</li.nr>
+                <al>productie-installatie: een installatie bestemd voor het opwekken van elektriciteit, bestaande uit &#xE9;&#xE9;n of meer WKK-eenheden;</al>
+              </li>
+              <li>
+                <li.nr>k.</li.nr>
+                <al><nadruk type="cur">systeemgrens
+van de WKK-installatie:</nadruk> een fictieve, gesloten
+omhulling van de WKK-eenheden die deel uitmaken van de WKK-installatie,
+welke omhulling voldoet aan hetgeen in de bijlage bij de beschikking
+van de Commissie van 19&#xA0;november 2008 tot vastlegging van
+gedetailleerde richtsnoeren voor de tenuitvoerlegging en toepassing van
+bijlage II bij Richtlijn 2004/8/EG van het Europees Parlement en de
+Raad (PbEU L&#xA0;338) is bepaald ten aanzien van
+systeemgrenzen;</al></li><li>
+                           <li.nr>l.</li.nr>
+                           <al><nadruk type="cur">richtlijn:</nadruk> de
+Richtlijn 2004/8/EG van het Europees Parlement en de Raad van de
+Europese Unie van 11&#xA0;februari 2004 inzake de bevordering van
+warmtekrachtkoppeling op basis van de vraag naar nuttige warmte binnen
+de interne energiemarkt en tot wijziging van Richtlijn 92/42/EEG (PbEU
+L&#xA0;52).</al>
+                        </li></lijst> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">2</lidnr> 
+				<al>Voor de toepassing van deze regeling wordt 1 kWh mechanische energie die nuttig is aangewend anders
+						dan voor de opwekking van elektriciteit, gelijkgesteld met 1 kWh opgewekte elektriciteit.</al> 
+			 </lid> 
+			  
+		  </artikel> 
+		<artikel status="goed"><kop><label>Artikel</label><nr>1a</nr></kop><al>Deze regeling berust op de <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=1" compleet="nee">artikelen 1, vijfde lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=31" compleet="nee">31, negende lid, van de Elektriciteitswet 1998</extref>.</al></artikel></paragraaf> 
+		<paragraaf> 
+		  <kop> 
+			 <label>&#xA7;</label><nr>2</nr><titel> Onderzoek installatie voor
+				warmtekrachtkoppeling en meten van WKK-elektriciteit </titel> 
+		  </kop> 
+		  <artikel status="goed"> 
+				  <kop> 
+					 <label>Artikel</label> 
+					 <nr status="officieel">1b</nr> 
+				  </kop> 
+				  <lid> 
+					 <lidnr status="officieel">1</lidnr> 
+					 <al>Voor
+het verkrijgen van WKK-certificaten draagt de producent van
+WKK-elektriciteit die een productie-installatie in stand houdt er zorg
+voor dat ten aanzien van deze installatie een meetprotocol opgesteld
+wordt, dat voldoet aan de WKK-meetvoorwaarden, opgenomen in de bij deze
+regeling behorende
+<intref status="actief" doc="1.0:v:BWBR0015182&amp;bijlage=1">bijlage&#xA0;1</intref>.</al> 
+				  </lid> 
+				  <lid> 
+					 <lidnr status="officieel">2</lidnr> 
+					 <al>De producent laat het meetprotocol v&#xF3;&#xF3;r de eerste dag van de kalendermaand waarin hij het verzoek,
+						bedoeld in <intref status="actief" doc="1.0:v:BWBR0015182&amp;artikel=2">artikel 2, eerste lid</intref>, indient, goedkeuren door een gecertificeerd meetbedrijf.</al> 
+				  </lid> 
+				</artikel><artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">2</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>Indien
+een in Nederland gevestigde producent van WKK-elektriciteit de
+netbeheerder verzoekt om de vaststelling, bedoeld in <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=16" compleet="nee">artikel 16, eerste
+lid, onderdeel h, van de wet</extref>, te verrichten, gebruikt daarbij het
+formulier dat is opgenomen in de bij deze regeling behorende <intref status="actief" doc="1.0:v:BWBR0015182&amp;bijlage=2">bijlage
+2</intref>.</al> 
+			 </lid> 
+			 <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>Indien zich achter de aansluiting meerdere productie-installaties bevinden, bepaalt de producent bij het verzoek tot vaststelling, bedoeld in het eerste lid, de systeemgrens van iedere productie-installatie.</al>
+              </lid>
+            <lid><lidnr status="officieel">3</lidnr><al>Een wijziging van de systeemgrens van de productie-installatie leidt er niet toe dat &#xE9;&#xE9;n of meer WKK-eenheden van de desbetreffende productie-installatie gaan behoren aan een andere productie-installatie.</al></lid><lid> 
+				<lidnr status="officieel">4</lidnr> 
+				<al>Naar
+aanleiding van het verzoek stelt de netbeheerder
+vast:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>of
+de installatie een productie-installatie voor het opwekken van
+WKK-elektriciteit is en, indien dit het geval is, welke eenheden binnen
+de installatie een WKK-eenheid
+zijn,</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>of de meetinrichting geschikt
+is om de hoeveelheid op een net of een installatie ingevoede
+WKK-elektriciteit te meten en</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>of een
+goedgekeurd meetprotocol aanwezig
+is.</al>
+                           </li>
+                        </lijst></lid> 
+			 <lid> 
+				<lidnr status="officieel">5</lidnr> 
+				<al>De netbeheerder doet
+de vaststelling door een administratief onderzoek in te stellen naar de
+installatie en de aansluiting daarvan op het net of op een
+installatie. De netbeheerder kan ten behoeve van de
+				  vaststelling in aanvulling op het administratief onderzoek en ter verificatie
+				  van de in het formulier opgenomen gegevens de installatie van de producent
+				  onderzoeken om te bepalen welk gedeelte van de totale hoeveelheid door de
+				  installatie opgewekte en op een net of een installatie ingevoede elektriciteit
+				  kan worden aangemerkt als WKK-elektriciteit.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">6</lidnr> 
+				<al>De netbeheerder deelt het resultaat van de vaststelling binnen
+				  vier weken na ontvangst van het verzoek, bedoeld in het eerste lid, mee aan de
+				  producent en aan de netbeheerder van het landelijk hoogspanningsnet.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">7</lidnr> 
+				<al>Tenzij de tariefstructuren, bedoeld in <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=27" compleet="nee">artikel 27 van de wet</extref>,
+				  iets anders bepalen, brengt de netbeheerder de kosten van het vaststellen of de
+				  installatie en de meter van de producent geschikt zijn in rekening bij de
+				  producent. </al> 
+			 </lid> 
+			  
+		  <lid><lidnr status="officieel">8</lidnr><al>Indien
+de producent een aanpassing van zijn productie-installatie doorvoert
+die een wijziging van &#xE9;&#xE9;n van de gegevens, vermeld in het
+vaststellingsverzoek, ten gevolge heeft, is een eerder verrichte
+vaststelling niet langer
+geldig.</al></lid><lid><lidnr status="officieel">9</lidnr><al>De
+producent bericht de netbeheerder vooraf over zijn voornemen een
+aanpassing als bedoeld in het achtste lid door te voeren en hij dient
+een nieuw verzoek tot vaststelling in. Het eerste tot en met het
+achtste lid zijn in dat geval van overeenkomstige
+toepassing.</al></lid></artikel> 
+		  <artikel status="goed"> 
+				  <kop> 
+					 <label>Artikel</label> 
+					 <nr status="officieel">2a</nr> 
+				  </kop> 
+				  <lid> 
+					 <lidnr status="officieel">1</lidnr> 
+					 <al>Voor
+het verkrijgen van WKK-certificaten draagt de producent van
+WKK-elektriciteit er zorg voor dat de hoeveelheden brandstof die zijn
+installatie verbruikt en de hoeveelheden elektriciteit en warmte die
+zijn installatie opwekt, gemeten worden volgens het
+meetprotocol.</al></lid> 
+				  <lid> 
+					 <lidnr status="officieel">2</lidnr> 
+					 <al>De producent draagt er zorg voor dat per kalendermaand onder toepassing van het meetprotocol een
+						meetrapport wordt opgesteld, dat:</al> 
+					 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+						<li> 
+						  <li.nr>a.</li.nr> 
+						  <al>voldoet aan de WKK-meetvoorwaarden, opgenomen in de bij deze regeling behorende <intref status="actief" doc="1.0:v:BWBR0015182&amp;bijlage=1">bijlage 1</intref>;</al>
+						  
+						</li> 
+						<li> 
+						  <li.nr>b.</li.nr> 
+						  <al>de wijze van totstandkoming van de meetgegevens beschrijft, en</al> 
+						</li> 
+						<li> 
+						  <li.nr>c.</li.nr> 
+						  <al>geverifieerd wordt door een gecertificeerd meetbedrijf.</al> 
+						</li> 
+					 </lijst> 
+				  </lid> 
+				<lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>De
+producent overlegt het meetrapport uiterlijk twee maanden na afloop van
+het kwartaal waarvan de kalendermaand waarop het meetrapport betrekking
+heeft deel uitmaakt, aan de netbeheerder van het landelijk
+hoogspanningsnet.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Indien
+het meetrapport niet of niet tijdig wordt ingediend geeft de
+netbeheerder van het landelijk hoogspanningsnet voor de betreffende
+kalendermaand geen WKK-certificaten
+uit.</al>
+                     </lid></artikel><artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">3</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>Vanaf de eerste dag van de kalendermaand waarin de producent
+				  het verzoek, bedoeld in <intref status="actief" doc="1.0:v:BWBR0015182&amp;artikel=2">artikel 2, eerste lid</intref>, bij de netbeheerder heeft
+				  ingediend, beschouwt de netbeheerder dan wel het gecertificeerd meetbedrijf de
+				  overeenkomstig de voorwaarden, bedoeld in <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=31" compleet="nee">artikel 31, eerste lid, onderdeel b,
+				  van de wet</extref>, gemeten hoeveelheid elektriciteit die de producent met zijn
+				  installatie opwekt en op een net of een installatie invoedt, als
+				  WKK-elektriciteit, voor zover de netbeheerder overeenkomstig <intref status="actief" doc="1.0:v:BWBR0015182&amp;artikel=2">artikel 2</intref> heeft
+				  vastgesteld of sprake is van een installatie voor warmtekrachtkoppeling alsmede
+				  of de meetinrichting geschikt is voor de meting van de elektriciteit die met de
+				  productie-installatie wordt opgewekt en op een net of een installatie wordt
+				  ingevoed.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">2</lidnr> 
+				<al>De
+netbeheerder of het gecertificeerde meetbedrijf meet op verzoek van de
+producent maandelijks de hoeveelheid in de afgelopen maand op een net
+of een installatie ingevoede WKK-elektriciteit door het iedere
+kalendermaand bepalen van de
+meterstand.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">3</lidnr> 
+				<al>Indien de installatie van de producent voor de opwekking van
+				  WKK-elektriciteit gebruik maakt van elektriciteit die is afgenomen van een net,
+				  brengt de netbeheerder dan wel het gecertificeerd meetbedrijf voor de bepaling
+				  van de hoeveelheid WKK-elektriciteit die op een net of een installatie is
+				  ingevoed, de hoeveelheid elektriciteit die daarvoor is afgenomen van een net in
+				  mindering op de hoeveelheid WKK-elektriciteit die hij op grond van <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=16" compleet="nee">artikel 16,
+				  eerste lid, onderdeel i, van de wet</extref> meet.</al> 
+			 </lid> 
+			 <lid><lidnr status="officieel">4</lidnr><al>Indien zich achter de aansluiting &#xE9;&#xE9;n productie-installatie bevindt en de producent hiervoor WKK-certificaten heeft aangevraagd, meldt de netbeheerder, onder vermelding van de unieke 18-cijferige code van de aansluiting, aan de netbeheerder van het landelijk hoogspanningsnet:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de hoeveelheid WKK-elektriciteit die de betreffende productie-installatie op het net heeft ingevoed, en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>indien WKK-certificaten voor niet-netlevering zijn aangevraagd door de producent, de hoeveelheid WKK-elektriciteit die de betreffende productie-installatie heeft opgewekt.</al>
+              </li>
+            </lijst></lid>
+            <lid><lidnr status="officieel">5</lidnr><al>Indien zich achter de aansluiting meerdere productie-installaties bevinden, meldt de netbeheerder, onder vermelding van de unieke 18-cijferige code van iedere productie-installatie waarvoor de producent WKK-certificaten heeft aangevraagd, aan de netbeheerder van het landelijk hoogspanningsnet:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de hoeveelheid WKK-elektriciteit die de betreffende productie-installaties hebben opgewekt, en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de hoeveelheid WKK-elektriciteit die de betreffende productie-installaties op het net hebben ingevoed.</al>
+              </li>
+            </lijst></lid>
+          <lid><lidnr status="officieel">6</lidnr><al>De hoeveelheid WKK-elektriciteit die door de betreffende productie-installaties aan het net wordt geleverd, wordt bepaald door de elektriciteit die wordt verbruikt door de installatie achter de aansluiting naar rato van de feitelijke elektriciteitopwekking van alle productie-installaties achter de aansluiting, in mindering te brengen op de WKK-elektriciteit of andere vormen van elektriciteit, die is opgewekt door de betreffende productie-installaties.</al></lid><lid> 
+				<lidnr status="officieel">7</lidnr> 
+				<al>Tenzij de tariefstructuren, bedoeld in <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=27" compleet="nee">artikel 27 van de wet</extref>,
+				  iets anders bepalen, brengt de netbeheerder dan wel het gecertificeerd
+				  meetbedrijf de kosten van het meten van de hoeveelheid WKK-elektriciteit in
+				  rekening bij de producent. </al> 
+			 </lid> 
+			  
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr>4</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr>1</lidnr> 
+				<al>De producent van WKK-elektriciteit stelt de netbeheerder in
+				  staat de vaststelling en het onderzoek, bedoeld in <intref status="actief" doc="1.0:v:BWBR0015182&amp;artikel=2">artikel 2</intref>, te verrichten en
+				  stelt de netbeheerder dan wel het gecertificeerd meetbedrijf in staat de
+				  hoeveelheid WKK-elektriciteit te meten die met zijn installatie is opgewekt en
+				  op een net of een installatie is ingevoed.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr>2</lidnr> 
+				<al>Indien zich een omstandigheid voordoet die van belang is voor
+				  de bepaling hoeveel WKK-elektriciteit is opgewekt en op een net of een
+				  installatie is ingevoed, meldt de producent die omstandigheid en het tijdstip
+				  waarop deze zich voordeed binnen twee weken aan de netbeheerder of aan het
+				  gecertificeerd meetbedrijf. </al> 
+			 </lid> 
+			  
+		  </artikel> 
+		</paragraaf> 
+		<paragraaf> 
+		  <kop> 
+			 <label>&#xA7;</label><nr>3</nr><titel>WKK-certificaten </titel> 
+		  </kop> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr status="officieel">5</nr> 
+			 </kop> 
+			 <lid> 
+				<lidnr status="officieel">1</lidnr> 
+				<al>De netbeheerder van het landelijk hoogspanningsnet opent op
+				  verzoek van een in Nederland gevestigde producent een
+				  WKK-certificatenrekening.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">2</lidnr> 
+				<al>De producent deelt bij het verzoek de uitkomst van het
+				  onderzoek, verkregen overeenkomstig <intref status="actief" doc="1.0:v:BWBR0015182&amp;artikel=2">artikel 2</intref>, mee aan de netbeheerder van het
+				  landelijk hoogspanningsnet.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">3</lidnr> 
+				<al>De netbeheerder van het landelijk hoogspanningsnet boekt op
+				  verzoek WKK-certificaten op een daarbij aangegeven WKK-certificatenrekening,
+				  indien een in Nederland gevestigde producent bij het verzoek de meetgegevens
+				  omtrent WKK-elektriciteit, ontvangen overeenkomstig <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=16a" compleet="nee">artikel 16a, tweede en
+				  derde lid, van de wet</extref>, overlegt. Alvorens een
+WKK-certificaat op een WKK-certificatenrekening te boeken controleert
+de netbeheerder van het landelijk hoogspanningsnet het meetrapport op
+volledigheid en
+juistheid.</al> 
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">4</lidnr> 
+				<al>Nadat
+een WKK-certificaat is gebruikt om de hoogte van het voorschot, bedoeld
+in <extref status="actief" doc="1.0:v:BWBR0022735&amp;artikel=67" compleet="nee">artikel 67, vijfde lid, van het Besluit stimulering duurzame
+energieproductie</extref>, vast te stellen boekt de netbeheerder van het
+landelijk hoogspanningsnet het certificaat af van de
+WKK-certificatenrekening.</al>
+                      
+			 </lid> 
+			 <lid> 
+				<lidnr status="officieel">5</lidnr> 
+				<al>De netbeheerder van het landelijk hoogspanningsnet brengt de
+				  kosten van het beheer van de WKK-certificatenrekening in rekening bij degene
+				  die het verzoek, bedoeld in het eerste lid, doet. </al> 
+			 </lid> 
+			  
+		  <lid><lidnr status="officieel">6</lidnr><al>Indien zich achter een aansluiting meerdere productie-installaties bevinden, vraagt een producent voor elke productie-installatie waarvoor hij een verzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0015182&amp;artikel=2">artikel 2, eerste lid</intref> doet, WKK-certificaten voor niet-netlevering aan.</al></lid></artikel> 
+		  <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr status="officieel">6</nr> 
+  </kop> 
+  <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>De
+netbeheerder van het landelijk hoogspanningsnet bepaalt de hoeveelheid
+WKK-elektriciteit die de producent op een net of een installatie heeft
+ingevoed en de besparing op primaire energie met toepassing
+van:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>de
+bijlagen 2 en 3 van de richtlijn;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>de
+door de Europese Commissie op 21 december 2006 vastgestelde
+referentiewaarden (PbEU 2007
+L&#xA0;32);</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>de beschikking van de
+Commissie van 19 november 2008 tot vastlegging van gedetailleerde
+richtsnoeren voor de tenuitvoerlegging en toepassing van bijlage II bij
+Richtlijn 2004/8/EG van het Europees Parlement en de Raad (PbEU
+L&#xA0;338).</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De
+netbeheerder van het landelijk hoogspanningsnet gebruikt bij de
+bepaling als bedoeld in het eerste
+lid:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>de
+gegevens, verstrekt bij het verzoek, bedoeld in <intref status="actief" doc="1.0:v:BWBR0015182&amp;artikel=2">artikel 2, eerste
+lid</intref>;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>het meetrapport, bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0015182&amp;artikel=2a">artikel 2a</intref>;</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>de gegevens, bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0015182&amp;artikel=5">artikel 5, derde
+lid</intref>.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Voor
+het bepalen van de elektriciteit-warmteratio conform bijlage 2,
+onderdeel b), van de richtlijn zal gebruik worden gemaakt van de
+volgende formule:</al>
+                        <al>C = E&#x3B7; / (85% &#x2013;
+E&#x3B7;)</al>
+                        <al>waarin:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>C</li.nr>
+                              <al>de
+elektriciteit-warmteratio
+is,</al>
+                           </li>
+                           <li>
+                              <li.nr>E&#x3B7;</li.nr>
+                              <al>het elektriciteitsrendement
+van het proces is, gedefinieerd als de maandelijkse opbrengst aan
+elektriciteit, gedeeld door de brandstofinvoer die is gebruikt om de
+som van de maandelijkse opbrengst aan warmte en elektriciteit te
+produceren.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>De hoeveelheid
+WKK-elektriciteit voor de maand waarop het meetrapport betrekking heeft
+bedraagt nihil
+indien:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>de
+verhouding tussen warmte en elektriciteit minder dan 0,6
+bedraagt;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>het aandeel aardgas op het
+totaal aan ingezette brandstoffen minder dan 90% bedraagt
+of</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>minder dan 90% van de door de
+productie-installatie geproduceerde nuttige warmte wordt gebruikt in
+industri&#xEB;le
+processen.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">5</lidnr>
+                        <al>De
+netbeheerder van het landelijk hoogspanningsnet geeft WKK-certificaten
+uit voor de op basis van het eerste tot en met vierde lid bepaalde
+hoeveelheid
+WKK-elektriciteit.</al>
+                     </lid>
+</artikel> 
+		</paragraaf> 
+		<paragraaf> 
+		  <kop> 
+			 <label>&#xA7;</label><nr>4</nr><titel>Overgangs- en slotbepalingen
+				</titel> 
+		  </kop> 
+		   
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr>8</nr> 
+			 </kop> 
+			 <al>Deze regeling treedt in werking met ingang van 1 juli 2003. </al>
+			 
+			  
+		  </artikel> 
+		  <artikel status="goed"> 
+			 <kop> 
+				<label>Artikel</label> 
+				<nr>9</nr> 
+			 </kop> 
+			 <al>Deze regeling wordt aangehaald als: <extref status="actief" doc="1.0:v:BWBR0015182" compleet="nee">Regeling certificaten
+				warmtekrachtkoppeling Elektriciteitswet 1998</extref>.</al> 
+			  
+		  </artikel> 
+		</paragraaf> 
+	 </regeling-tekst> 
+	 <regeling-sluiting status="goed"> 
+		<slotformulering> 
+		  <al>Deze regeling zal met de toelichting in de Staatscourant worden
+			 geplaatst, met uitzondering van de bijlage, die ter inzage wordt gelegd bij de
+			 netbeheerder van het landelijk hoogspanningsnet, Utrechtseweg 310, Arnhem.</al>
+		  
+		</slotformulering> 
+		<gegeven> 
+		  <dagtekening> 
+			 <plaats>'s-Gravenhage</plaats> 
+			 <datum isodatum="20030606">6 juni 2003</datum> 
+		  </dagtekening> 
+		</gegeven> 
+		<ondertekenaar> 
+		  <ondertekening> De <functie>Minister</functie> van
+			 <organisatie>Economische Zaken</organisatie>, 
+			 <naam> 
+				<voornaam>L.J.</voornaam> 
+				<achternaam> Brinkhorst</achternaam> 
+			 </naam> </ondertekening> 
+		</ondertekenaar> 
+		 
+	 </regeling-sluiting>
+	 
+	 <bijlage status="goed"> 
+		<kop> 
+		  <label>Bijlage</label><nr status="officieel">1</nr><titel status="officieel">behorende bij <intref status="actief" doc="1.0:v:BWBR0015182&amp;artikel=1b">artikel 1b, eerste lid</intref>, van de Regeling certificaten
+warmtekrachtkoppeling Elektriciteitswet
+1998</titel> 
+		</kop> 
+		<divisie opmaak="default">
+               <kop>
+                  <titel status="officieel">WKK-meetvoorwaarden</titel>
+               </kop>
+               <divisie opmaak="default">
+                  <kop>
+                     <label>Hoofdstuk</label>
+                     <nr status="officieel">1</nr>
+                     <titel status="officieel">Definities</titel>
+                  </kop>
+                  <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+                     <li>
+                        <li.nr>1.1.</li.nr>
+                        <al>
+                           <nadruk type="cur">Meten:</nadruk> het
+vaststellen en registreren van de hoeveelheid energie die over een
+kalendermaand de systeemgrens van de WKK-eenheid is
+gepasseerd.</al>
+                     </li>
+                     <li>
+                        <li.nr>1.2.</li.nr>
+                        <al>
+                           <nadruk type="cur">Meetgegeven:</nadruk> het
+resultaat van het meten voor &#xE9;&#xE9;n vorm van energie. Er is ten
+minste &#xE9;&#xE9;n meetgegeven van elk van de afzonderlijke
+energievormen, te weten brandstof, elektriciteit, warmte en, voor zover
+van toepassing, mechanische energie. Indien een energievorm op meer dan
+&#xE9;&#xE9;n punt op de systeemgrens wordt gemeten, zullen er ook meer
+meetgegevens voor die energievorm
+zijn.</al>
+                     </li>
+                     <li>
+                        <li.nr>1.3.</li.nr>
+                        <al>
+                           <nadruk type="cur">Bemetering:</nadruk> het
+geheel van alle meetinrichtingen en systemen voor dataopslag en
+datatransmissie dat nodig is om alle energie die de systeemgrens van de
+WKK-eenheid passeert, te meten en te
+waarborgen.</al>
+                     </li>
+                     <li>
+                        <li.nr>1.4.</li.nr>
+                        <al>
+                           <nadruk type="cur">Meetinrichting:</nadruk> het
+totaal van onderling samenhangende meters en meetmiddelen die nodig
+zijn om een hoeveelheid energie te meten. Er is ten minste
+&#xE9;&#xE9;n meetinrichting voor het meten van elk van de
+afzonderlijke energievormen, te weten brandstof, elektriciteit, warmte
+en, voor zover van toepassing, mechanische
+energie.</al>
+                     </li>
+                     <li>
+                        <li.nr>1.5.</li.nr>
+                        <al>
+                           <nadruk type="cur">Meter:</nadruk> een
+toestel dat &#xE9;&#xE9;n parameter meet, nodig voor het vaststellen
+van de hoeveelheid
+energie.</al>
+                     </li>
+                     <li>
+                        <li.nr>1.6.</li.nr>
+                        <al>
+                           <nadruk type="cur">Meetmiddel:</nadruk> een
+onderdeel van de meetinrichting, nodig voor het meten, anders dan een
+meter.</al>
+                     </li>
+                     <li>
+                        <li.nr>1.7.</li.nr>
+                        <al>
+                           <nadruk type="cur">Systeemgrens:</nadruk> een
+fictieve gesloten omhulling van de WKK-eenheid die de WKK-eenheid
+onderscheidt van de andere systemen binnen het
+bedrijf.</al>
+                     </li>
+                  </lijst>
+               </divisie>
+               <divisie opmaak="default">
+                  <kop>
+                     <label>Hoofdstuk</label>
+                     <nr status="officieel">2</nr>
+                     <titel status="officieel">Algemene
+eisen</titel>
+                  </kop>
+                  <tussenkop kopopmaak="cur">
+                     <nadruk type="cur">Meetprotocol</nadruk>
+                  </tussenkop>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                     <li>
+                        <li.nr>2.1.</li.nr>
+                        <al>Het
+meetprotocol van de WKK-installatie bevat ten minste de volgende
+elementen:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>beschrijving
+van de verschillende componenten van de WKK-installatie, inclusief de
+eventuele afzonderlijke WKK-eenheden en de verschillende
+hulpinstallaties
+daarbij;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>beschrijving en schets van
+de systeemgrens of systeemgrenzen van de WKK-eenheden waaruit de
+WKK-installatie bestaat zoals uitgewerkt in hoofdstuk
+3;</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>beschrijving en schets van de
+bemetering van elk van de
+WKK-eenheden;</al>
+                           </li>
+                           <li>
+                              <li.nr>d.</li.nr>
+                              <al>beschrijving van de
+meters en meetmiddelen van elk van de
+meetinrichtingen;</al>
+                           </li>
+                           <li>
+                              <li.nr>e.</li.nr>
+                              <al>beschrijving van
+het onderhoud van elk van de
+meetinrichtingen;</al>
+                           </li>
+                           <li>
+                              <li.nr>f.</li.nr>
+                              <al>beschrijving van de
+apparatuur voor de opslag en de verwerking van de gegevens afkomstig
+van de meetinrichtingen;</al>
+                           </li>
+                           <li>
+                              <li.nr>g.</li.nr>
+                              <al>beschrijving
+van de onnauwkeurigheid van elk van de
+meetinrichtingen;</al>
+                           </li>
+                           <li>
+                              <li.nr>h.</li.nr>
+                              <al>beschrijving van de
+borging van de kwaliteit van de
+metingen;</al>
+                           </li>
+                           <li>
+                              <li.nr>i.</li.nr>
+                              <al>beschrijving van de wijze
+van reparatie van meetgegevens en alternatieve meetmethoden in geval
+van storing van de
+meetinrichting;</al>
+                           </li>
+                           <li>
+                              <li.nr>j.</li.nr>
+                              <al>beschrijving van de
+borging van de kwaliteit van de verwerking van de gegevens afkomstig
+van de meetinrichtingen;</al>
+                           </li>
+                           <li>
+                              <li.nr>k.</li.nr>
+                              <al>beschrijving
+van de frequentie van ijking van elk van de
+meetinrichtingen;</al>
+                           </li>
+                           <li>
+                              <li.nr>l.</li.nr>
+                              <al>beschrijving van de
+vaststelling dan wel de berekening van de hoeveelheid WKK-elektriciteit
+die op een net of een installatie is ingevoed en van de berekening van
+de besparing op primaire energie, overeenkomstig <intref status="actief" doc="1.0:v:BWBR0015182&amp;artikel=6">artikel 6</intref> van de
+regeling.</al>
+                           </li>
+                        </lijst>
+                     </li>
+                  </lijst>
+                  <tussenkop kopopmaak="cur">
+                     <nadruk type="cur">Administratie</nadruk>
+                  </tussenkop>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                     <li>
+                        <li.nr>2.2.</li.nr>
+                        <al>Bij
+het meetprotocol behoort een administratie waarin per meetinrichting de
+volgende gegevens worden
+geregistreerd:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>fabrikaat,
+type, fabrieksnummer en bouwjaar van de ge&#xEF;nstalleerde
+meetinrichtingen, meters en
+meetmiddelen;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>kalibratiecertificaten
+van de meetinrichting en de meters en meetmiddelen
+daarvan;</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>het jaar waarin de
+meetinrichting is ge&#xEF;nstalleerd dan wel voor het laatst is
+gereviseerd;</al>
+                           </li>
+                           <li>
+                              <li.nr>d.</li.nr>
+                              <al>het soort zegel waarmee
+de meetinrichting is verzegeld, dan wel de wijze van borging die voor
+de meetinrichting is aangebracht;</al>
+                           </li>
+                           <li>
+                              <li.nr>e.</li.nr>
+                              <al>het
+jaar en de maand, waarin de meetinrichting voor het laatst is
+gecontroleerd;</al>
+                           </li>
+                           <li>
+                              <li.nr>f.</li.nr>
+                              <al>het jaar en de maand,
+waarin de meetinrichting voor het laatst is
+geijkt;</al>
+                           </li>
+                           <li>
+                              <li.nr>g.</li.nr>
+                              <al>de resultaten van de aan de
+meetinrichting uitgevoerde controles en
+ijkingen;</al>
+                           </li>
+                           <li>
+                              <li.nr>h.</li.nr>
+                              <al>een overzicht van de
+functionarissen die bevoegd zijn metingen uit te voeren en
+meetinrichtingen te onderhouden respectievelijk te
+beheren.</al>
+                           </li>
+                        </lijst>
+                        <al>Aanvullend geldt voor warmte norm EN
+1434-sectie 2.</al>
+                        <al>De producent is verantwoordelijk voor het
+actueel houden van deze administratie.</al>
+                     </li>
+                  </lijst>
+                  <tussenkop kopopmaak="cur">
+                     <nadruk type="cur">Onzekerheid</nadruk>
+                  </tussenkop>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                     <li>
+                        <li.nr>2.3.</li.nr>
+                        <al>De
+onzekerheid van een meetgegeven wordt berekend uit de onnauwkeurigheden
+van de afzonderlijke meetinrichtingen op de wijze als beschreven in de
+&#x2018;Guide to the expression of uncertainty in measurement&#x2019;
+(uitgave van BIPM, IEC, IFCC, ISO, IUPAC, IUPAP en OIML; International
+Organization for Standardization, Geneva, 1995, ISBN
+92-67-10188-9).</al>
+                     </li>
+                  </lijst>
+                  <tussenkop kopopmaak="cur">
+                     <nadruk type="cur">Meetrapport</nadruk>
+                  </tussenkop>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                     <li>
+                        <li.nr>2.4</li.nr>
+                        <al>Het
+meetrapport bevat voor elk van de WKK-eenheden tenminste de
+meetgegevens
+van:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>het
+brandstofverbruik (per type
+brandstof);</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>de totale hoeveelheid
+opgewekte elektriciteit;</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>de netto
+opgewekte warmte (per toepassingsgebied en
+temperatuurniveau);</al>
+                           </li>
+                           <li>
+                              <li.nr>d.</li.nr>
+                              <al>mechanische
+energie (voor zover van toepassing);</al>
+                           </li>
+                        </lijst>
+                        <al>en in
+aanvulling daarop het aantal
+draaiuren.</al>
+                     </li>
+                     <li>
+                        <li.nr>2.5.</li.nr>
+                        <al>Het meetrapport bevat
+een samenvatting, bestaande uit de geaggregeerde meetgegevens, die voor
+de berekening van de hoeveelheid WKK-elektriciteit die op een net of
+een installatie is ingevoed en van de besparing op primaire energie,
+overeenkomstig artikel 6 van de regeling, moeten worden
+gebruikt.</al>
+                     </li>
+                     <li>
+                        <li.nr>2.6.</li.nr>
+                        <al>Indien aardgas als
+brandstof wordt gebruikt, wordt de hoeveelheid aardgas gerapporteerd in
+kubieke meters van standaard Groningen-kwaliteit (met een
+energie-inhoud van 35,17&#xA0;MJ/Nm<sup>3</sup>) onder
+normaalcondities. De omrekening van de gemeten hoeveelheid aardgas naar
+aardgas van standaard Groningen-kwaliteit geschiedt aan de hand van de
+feitelijke energie-inhoud van het gebruikte aardgas, zoals de
+leverancier deze bij de facturering van het aardgas aan de producent
+opgeeft.</al>
+                        <al>Het meetrapport bevat een opgave van de gemeten
+hoeveelheid aardgas, de door de leverancier opgegeven energie-inhoud
+van het aardgas en de omgerekende hoeveelheid aardgas van standaard
+Groningen-kwaliteit.</al>
+                     </li>
+                     <li>
+                        <li.nr>2.7.</li.nr>
+                        <al>In het
+meetrapport wordt tevens vermeld, voor zover van
+toepassing,</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>storingen
+van meetinrichtingen en daarmee samenhangende reparatie van
+meetgegevens;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>storingen in andere
+onderdelen van de bemetering en de gevolgen daarvan voor de
+betrouwbaarheid van de
+meetgegevens,</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>dat meetgegevens door
+middel van alternatieve meting zijn
+bepaald;</al>
+                           </li>
+                           <li>
+                              <li.nr>d.</li.nr>
+                              <al>correctie van meetgegevens,
+en</al>
+                           </li>
+                           <li>
+                              <li.nr>e.</li.nr>
+                              <al>wijzigingen in installatie,
+bemetering en andere omstandigheden die van belang kunnen zijn voor het
+bepalen van de hoeveelheid garanties van
+oorsprong.</al>
+                           </li>
+                        </lijst>
+                     </li>
+                     <li>
+                        <li.nr>2.8.</li.nr>
+                        <al>Het
+meetrapport bevat voorts een verklaring dat de meetgegevens zijn
+totstandgekomen door onverkorte toepassing van het
+meetprotocol.</al>
+                     </li>
+                  </lijst>
+                  <tussenkop kopopmaak="cur">
+                     <nadruk type="cur">Storingen</nadruk>
+                  </tussenkop>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                     <li>
+                        <li.nr>2.9.</li.nr>
+                        <al>De
+meetgegevens van een meetinrichting, die door een storing niet langer
+functioneert of niet langer voldoet aan de gestelde meeteisen, mogen
+voor een periode van maximaal vier werkdagen nadat de storing is
+opgemerkt worden berekend uit
+controlemetingen.</al>
+                     </li>
+                     <li>
+                        <li.nr>2.10.</li.nr>
+                        <al>Indien de
+storing niet binnen vier werkdagen verholpen is, kan de producent meten
+volgens de in hoofdstuk 5 beschreven methode en
+procedure.</al>
+                     </li>
+                     <li>
+                        <li.nr>2.11.</li.nr>
+                        <al>Indien een storing is
+opgetreden, wordt dit vermeld in het meetrapport over de desbetreffende
+kalendermaand. Hierbij wordt aangegeven welke meetgegevens het betreft
+en op welke wijze de reparatie is aangebracht.</al>
+                     </li>
+                  </lijst>
+                  <tussenkop kopopmaak="cur">
+                     <nadruk type="cur">Eisen aan meetinrichtingen en
+meters</nadruk>
+                  </tussenkop>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                     <li>
+                        <li.nr>2.12.</li.nr>
+                        <al>Het
+meten van de hoeveelheden energie geschiedt volgens algemeen
+geaccepteerde comptabele
+meetinrichtingen.</al>
+                     </li>
+                     <li>
+                        <li.nr>2.13.</li.nr>
+                        <al>Voor zover een
+meetinrichting of meter onder de IJkwet valt, zijn deze meetvoorwaarden
+niet van toepassing ten aanzien van het (de) onderwerp(en) dat (die)
+voor die meetinrichting of meter in de IJkwet word(t)(en)
+geregeld.</al>
+                     </li>
+                     <li>
+                        <li.nr>2.14.</li.nr>
+                        <al>De meters en
+meetmiddelen voldoen aan de typekeuringseisen van de voor die meters en
+meetmiddelen van toepassing zijnde EN-normen of daarmee vergelijkbare
+nationale normen. Het bewijs van typegoedkeuring is verstrekt conform
+de IJkwet of door een organisatie die gecertificeerd is conform NEN-ISO
+17025.</al>
+                     </li>
+                     <li>
+                        <li.nr>2.15.</li.nr>
+                        <al>De capaciteit, het ontwerp
+en de aanleg van de meetinrichtingen is in overeenstemming met de
+maximale hoeveelheden energie die de WKK-eenheid kan consumeren
+respectievelijk
+produceren.</al>
+                     </li>
+                     <li>
+                        <li.nr>2.16.</li.nr>
+                        <al>Plaatsing van de
+meters voldoet aan de plaatsingsvoorschriften die onderdeel uitmaken
+van de genoemde normen en aangevuld met de plaatsingsvoorschriften van
+de fabrikant van de meter of
+meetmiddel.</al>
+                     </li>
+                     <li>
+                        <li.nr>2.17.</li.nr>
+                        <al>Elk van de meters en
+de meetmiddelen is geborgd dan wel verzegeld. De borging is zodanig dat
+een meting niet kan worden be&#xEF;nvloed, zonder dat dit duidelijk
+gesignaleerd wordt. De verzegeling is zodanig dat een meting niet kan
+worden be&#xEF;nvloed zonder de verzegeling zichtbaar te
+verbreken.</al>
+                     </li>
+                     <li>
+                        <li.nr>2.18.</li.nr>
+                        <al>De meetinrichting wordt
+zodanig onderhouden dat deze voortdurend aan deze meetvoorwaarden
+voldoet.</al>
+                     </li>
+                  </lijst>
+               </divisie>
+               <divisie opmaak="default">
+                  <kop>
+                     <label>Hoofdstuk</label>
+                     <nr status="officieel">3</nr>
+                     <titel status="officieel">Systeemgrens</titel>
+                  </kop>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                     <li>
+                        <li.nr>3.1.</li.nr>
+                        <al>De
+systeemgrens omsluit &#xE9;&#xE9;n of meerdere WKK-eenheden van een
+WKK-installatie.</al>
+                     </li>
+                     <li>
+                        <li.nr>3.2.</li.nr>
+                        <al>Indien de
+systeemgrens meerdere WKK-eenheden omsluit, worden alle eenheden binnen
+die systeemgrens voor de toepassing van <intref status="actief" doc="1.0:v:BWBR0015182&amp;artikel=6">artikel 6</intref> van de regeling
+beschouwd als &#xE9;&#xE9;n
+WKK-eenheid.</al>
+                     </li>
+                     <li>
+                        <li.nr>3.3.</li.nr>
+                        <al>Indien een
+systeemgrens meerdere WKK-eenheden omsluit, geldt voor de berekening
+van de hoeveelheid WKK-elektriciteit die op een net of een installatie
+is ingevoed en van de besparing op primaire energie, overeenkomstig
+<intref status="actief" doc="1.0:v:BWBR0015182&amp;artikel=6">artikel 6</intref> van de regeling, voor de WKK-eenheden binnen deze
+systeemgrens als bouwjaar het bouwjaar van de meest recent gebouwde
+WKK-eenheid.</al>
+                     </li>
+                     <li>
+                        <li.nr>3.4.</li.nr>
+                        <al>Op de systeemgrens van
+de WKK-eenheid worden alle vormen van energie-input en energie-output
+gemeten.</al>
+                     </li>
+                     <li>
+                        <li.nr>3.5.</li.nr>
+                        <al>Alle onderdelen van de
+WKK-eenheid bevinden zich binnen de
+systeemgrens.</al>
+                     </li>
+                     <li>
+                        <li.nr>3.6.</li.nr>
+                        <al>Niet aan de
+WKK-eenheid gerelateerde systemen die elektriciteit, mechanische
+energie of warmte opwekken vallen buiten de
+systeemgrens.</al>
+                     </li>
+                     <li>
+                        <li.nr>3.7.</li.nr>
+                        <al>De consumptie van
+elektriciteit, mechanische energie of warmte van systemen die zich
+binnen de systeemgrens bevinden, wordt niet
+gemeten.</al>
+                     </li>
+                     <li>
+                        <li.nr>3.8.</li.nr>
+                        <al>Voor elke WKK-eenheid
+wordt een schema opgesteld met daarop aangegeven de systeemgrens, de
+energiestromen die de systeemgrens passeren en voor elk van deze
+energiestromen de meetinrichtingen die zich op de WKK-systeemgrens
+bevinden.</al>
+                     </li>
+                     <li>
+                        <li.nr>3.9.</li.nr>
+                        <al>Voor de gehele
+WKK-installatie wordt in een schets aangegeven waarop de systeemgrenzen
+van de WKK-eenheden in onderling verband zijn
+aangegeven.</al>
+                     </li>
+                  </lijst>
+               </divisie>
+               <divisie opmaak="default">
+                  <kop>
+                     <label>Hoofdstuk</label>
+                     <nr status="officieel">4</nr>
+                     <titel status="officieel">Nauwkeurigheidseisen
+aan meetinrichtingen en
+meters</titel>
+                  </kop>
+                  <tussenkop kopopmaak="cur">
+                     <nadruk type="cur">Brandstof</nadruk>
+                  </tussenkop>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                     <li>
+                        <li.nr>4.1.</li.nr>
+                        <al>Elke
+brandstof die in de WKK-eenheid wordt verbruikt, wordt afzonderlijk
+gemeten.</al>
+                     </li>
+                     <li>
+                        <li.nr>4.2.</li.nr>
+                        <al>Het volume aardgas of een
+ander gas wordt gemeten en naar normaalcondities herleid met een
+meetinrichting die voldoet aan de <extref status="actief" doc="1.0:v:BWBR0009127" compleet="nee">IJkregeling gasmeters</extref>, waarbij voor
+balgengasmeters de eisen voor nauwkeurigheidsklasse I
+gelden.</al>
+                     </li>
+                     <li>
+                        <li.nr>4.3.</li.nr>
+                        <al>De hoeveelheid kolen wordt
+gemeten op basis van weging dan wel op basis van de inkoop en
+voorraadbalans, met een maximaal toelaatbare afwijking van 1,0%, zoals
+bepaald in ISO 9411-1 (monstername voor de bepaling van de onderste
+verbrandingswaarde).</al>
+                     </li>
+                     <li>
+                        <li.nr>4.4.</li.nr>
+                        <al>De hoeveelheid
+vloeibare brandstof wordt gemeten door middel van een meetinrichting
+die voldoet aan de <extref status="actief" doc="1.0:v:BWBR0009898" compleet="nee">IJkregeling vloeistofmeters en
+vloeistofmeetinstallaties</extref>, waarbij de eisen voor klasse 1.0
+gelden.</al>
+                     </li>
+                     <li>
+                        <li.nr>4.5.</li.nr>
+                        <al>De hoeveelheid andere
+brandstof wordt bepaald volgens een algemeen geaccepteerde comptabele
+meting, met een maximaal toelaatbare afwijking van
+1,0%.</al>
+                     </li>
+                  </lijst>
+                  <tussenkop kopopmaak="cur">
+                     <nadruk type="cur">Elektriciteit en
+mechanische
+energie</nadruk>
+                  </tussenkop>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                     <li>
+                        <li.nr>4.6.</li.nr>
+                        <al>Alle
+hoeveelheden door de WKK-eenheid opgewekte elektriciteit worden gemeten
+met een meetinrichting die voldoet aan de bepalingen met betrekking tot
+de nauwkeurigheidseisen die de Meetcode Elektriciteit stelt voor een
+meetinrichting op een
+aansluiting.</al>
+                     </li>
+                     <li>
+                        <li.nr>4.7.</li.nr>
+                        <al>De hoeveelheid
+mechanische energie wordt gemeten met een &#x2018;torquemeter&#x2019;
+volgens norm ASME-PCI 19.7 &#x2018;Measurement of shaft power&#x2019;,
+dan wel met een meetinrichting die voldoet aan een vergelijkbare norm.
+De maximaal toelaatbare afwijking van de meting bedraagt
+1,0%.</al>
+                     </li>
+                     <li>
+                        <li.nr>4.8.</li.nr>
+                        <al>Wanneer de WKK-eenheid
+elektriciteit invoedt op meerdere spanningsniveau&#x2019;s wordt voor
+de toepassing van <intref status="actief" doc="1.0:v:BWBR0015182&amp;artikel=6">artikel 6</intref> van de regeling uitgegaan van het
+spanningsniveau met het grootste aandeel.</al>
+                     </li>
+                  </lijst>
+                  <tussenkop kopopmaak="cur">
+                     <nadruk type="cur">Warmte</nadruk>
+                  </tussenkop>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                     <li>
+                        <li.nr>4.9.</li.nr>
+                        <al>De
+hoeveelheid warmte, getransporteerd als warm water, wordt gemeten met
+een meetinrichting die voldoet aan die voldoet aan EN 1434 sectie 1,
+klasse 1, dan wel een vergelijkbare
+norm.</al>
+                     </li>
+                     <li>
+                        <li.nr>4.10.</li.nr>
+                        <al>De hoeveelheid warmte,
+getransporteerd als stoom wordt gemeten met een meetinrichting die
+voldoet aan norm ISO 5167-1 of aan een vergelijkbare norm. Het
+retourcondensaat dient in mindering te worden gebracht op de
+hoeveelheid warmte getransporteerd als stoom. Voor een stoomdebiet van
+50% tot 100% van het meetbereik van de meetinrichting bedraagt de
+maximaal toelaatbare afwijking van de meting 2% van de volle schaal van
+de meetinrichting. Voor een stoomdebiet van minder dan 50% van het
+meetbereik van de meetinrichting bedraagt de maximaal toelaatbare
+afwijking van de meting 4% van de meetwaarde. De temperatuur wordt
+gemeten met een weerstandsthermometer die voldoet aan norm IEC-751,
+nauwkeurigheidsklasse B, een thermokoppel die voldoet aan norm IEC-584,
+nauwkeurigheidsklasse 2, of een meter die voldoet aan een vergelijkbare
+norm.</al>
+                     </li>
+                     <li>
+                        <li.nr>4.11.</li.nr>
+                        <al>Wanneer de WKK-eenheid
+meerdere soorten warmte produceert, wordt voor de toepassing van
+<intref status="actief" doc="1.0:v:BWBR0015182&amp;artikel=6">artikel 6, eerste tot en met derde lid</intref>, van de regeling, uitgegaan van
+het type warmte met het grootste energetische
+aandeel.</al>
+                     </li>
+                  </lijst>
+                  <tussenkop kopopmaak="cur">
+                     <nadruk type="cur">Bagatelbepaling</nadruk>
+                  </tussenkop>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                     <li>
+                        <li.nr>4.12.</li.nr>
+                        <al>Voor
+ten hoogste 2,5% van de per energievorm in totaal gemeten hoeveelheid
+energie, kunnen de maximaal toelaatbare afwijkingen ten hoogste
+tweemaal zoveel bedragen als de volgens de voorgaande bepalingen van
+dit hoofdstuk voorgeschreven maximaal toelaatbare
+afwijkingen.</al>
+                     </li>
+                  </lijst>
+               </divisie>
+               <divisie opmaak="default">
+                  <kop>
+                     <label>Hoofdstuk</label>
+                     <nr status="officieel">5</nr>
+                     <titel status="officieel">Alternatieve
+meting</titel>
+                  </kop>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                     <li>
+                        <li.nr>5.1.</li.nr>
+                        <al>De
+producent kan een meetgegeven via een alternatieve meting bepalen,
+indien meten met meetinrichtingen als bedoeld in hoofdstuk 4 niet
+mogelijk is
+omdat:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>geen
+goede meting mogelijk is van de
+energiehoeveelheid,</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>het plaatsen van
+een meetinrichting tot aantasting van de veiligheid van de installatie
+zou leiden,</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>het plaatsen of
+verbeteren van een meetinrichting tot onevenredig hoge kosten zou
+leiden, of</al>
+                           </li>
+                           <li>
+                              <li.nr>d.</li.nr>
+                              <al>een meetinrichting in
+storing is geraakt als bedoeld onder 2.10 tot en met
+2.12.</al>
+                           </li>
+                        </lijst>
+                     </li>
+                     <li>
+                        <li.nr>5.2.</li.nr>
+                        <al>De alternatieve
+meting voldoet aan de hieronder genoemde
+voorwaarden.</al>
+                     </li>
+                     <li>
+                        <li.nr>5.3.</li.nr>
+                        <al>De producent verstrekt
+in het meetprotocol een uitvoerige motivatie voor het afwijken van
+hoofdstuk 4, waarin ten minste wordt
+opgenomen:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>een
+beschrijving van de technische onmogelijkheid om hoofdstuk 4 toe te
+passen, of</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>de overwegingen omtrent de
+veiligheid van de installatie op grond waarvan hoofdstuk 4 niet
+toegepast kan worden, of</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>een
+onderbouwde raming van de kosten die het aanpassen van de betrokken
+meetinrichting aan het toepassen van hoofdstuk 4 zouden vergen,
+en</al>
+                           </li>
+                           <li>
+                              <li.nr>d.</li.nr>
+                              <al>de onnauwkeurigheid die bij
+toepassing van hoofdstuk 4 bereikt zou zijn,
+en</al>
+                           </li>
+                           <li>
+                              <li.nr>e.</li.nr>
+                              <al>de onnauwkeurigheid die bij
+toepassing van de alternatieve meting bereikt zal
+worden.</al>
+                           </li>
+                        </lijst>
+                     </li>
+                     <li>
+                        <li.nr>5.4.</li.nr>
+                        <al>De wijze van
+het bepalen van de meetgegevens door middel van alternatieve meting
+wordt nauwkeurig vastgelegd in het meetprotocol voor de WKK-installatie
+en wordt voorafgaand aan de toepassing daarvan goedgekeurd door een
+gecertificeerd meetbedrijf.</al>
+                     </li>
+                     <li>
+                        <li.nr>5.5.</li.nr>
+                        <al>De
+alternatieve meting gebruikt geen kentallen of andere gegevens die het
+meten van de daadwerkelijke hoeveelheid energie
+be&#xEF;nvloeden.</al>
+                     </li>
+                     <li>
+                        <li.nr>5.6.</li.nr>
+                        <al>De
+onnauwkeurigheid van een meetgegeven, vastgesteld op grond van
+alternatieve meting, is in beginsel gelijk aan of lager dan de
+onnauwkeurigheid die hoofdstuk 4 ten aanzien van de desbetreffende
+meting vereist.</al>
+                     </li>
+                     <li>
+                        <li.nr>5.7.</li.nr>
+                        <al>Indien de
+onnauwkeurigheid van een meetgegeven, vastgesteld op grond van
+alternatieve meting, hoger is dan de onnauwkeurigheid die hoofdstuk 4
+ten aanzien van de desbetreffende meting vereist, wordt het opgegeven
+meetgegeven als volgt
+gecorrigeerd,</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>voor
+energie die aan de WKK-eenheid wordt toegevoerd: de meetwaarde wordt
+vermeerderd met het verschil tussen de feitelijke onnauwkeurigheid en
+de vereiste onnauwkeurigheid en</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>voor
+energie die de WKK-eenheid produceert: de meetwaarde wordt verminderd
+met het verschil tussen de feitelijke onnauwkeurigheid en de vereiste
+onnauwkeurigheid.</al>
+                           </li>
+                        </lijst>
+                     </li>
+                     <li>
+                        <li.nr>5.8.</li.nr>
+                        <al>De
+wijze waarop de correctie volgens 5.7 wordt aangebracht, wordt
+beschreven in het
+meetprotocol.</al>
+                     </li>
+                     <li>
+                        <li.nr>5.9.</li.nr>
+                        <al>Zowel het
+oorspronkelijke meetgegeven als het meetgegeven na de correctie volgens
+5.7 wordt in het meetrapport
+opgenomen.</al>
+                     </li>
+                  </lijst>
+               </divisie>
+            </divisie> 
+	 </bijlage> 
+	 <bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">2</nr><titel status="officieel">behorende bij <intref status="actief" doc="1.0:v:BWBR0015182&amp;artikel=2">artikel 2, eerste lid</intref>, van bij de Regeling certificaten
+warmtekrachtkoppeling Elektriciteitswet
+1998</titel></kop><divisie opmaak="default">
+               <kop>
+                  <titel status="officieel">Verzoek tot vaststelling van een productie-installatie voor de opwekking van HR-WKK-elektriciteit
+en mededeling van meetgegevens omtrent HR-WKK-elektriciteit</titel>
+               </kop>
+               <al>Met dit formulier verklaart u
+WKK-elektriciteit te produceren, verzoekt u de netbeheerder vast te
+stellen of uw installatie geschikt is voor de opwekking van
+WKK-elektriciteit en of uw meetinrichting geschikt is voor de meting
+van WKK-elektriciteit en verzoekt u de netbeheerder de meetgegevens met
+betrekking tot de door u geproduceerde WKK-elektriciteit als zodanig
+mede te delen aan de netbeheerder van het landelijk
+hoogspanningsnet.</al>
+               <al>In het algemeen geldt het volgende: Indien
+zich meerdere productie-installaties achter &#xE9;&#xE9;n aansluiting
+bevinden waarvoor u WKK-certificaten en/of Garanties van Oorsprong
+heeft aangevraagd, dient u tevens de systeemgrenzen van de
+productie-installaties te bepalen. Deze systeemgrenzen kunnen meerdere
+productie-eenheden omvatten.</al>
+               <tussenkop kopopmaak="cur">
+                  <nadruk type="cur">1. Gegevens
+producent</nadruk>
+               </tussenkop>
+               <al>
+                  <nadruk type="cur">Vul onderstaande gegevens
+juist en volledig
+in.</nadruk>
+               </al>
+               <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                     <li.nr>a.</li.nr>
+                     <al>Naam:</al>
+                  </li>
+                  <li>
+                     <li.nr>b.</li.nr>
+                     <al>Adres:</al>
+                  </li>
+                  <li>
+                     <li.nr>c.</li.nr>
+                     <al>Postcode:</al>
+                  </li>
+                  <li>
+                     <li.nr>d.</li.nr>
+                     <al>Woonplaats:</al>
+                  </li>
+                  <li>
+                     <li.nr>e.</li.nr>
+                     <al>Land:</al>
+                  </li>
+                  <li>
+                     <li.nr>f.</li.nr>
+                     <al>Telefoonnummer:</al>
+                  </li>
+                  <li>
+                     <li.nr>g.</li.nr>
+                     <al>Faxnummer:</al>
+                  </li>
+                  <li>
+                     <li.nr>h.</li.nr>
+                     <al>E-mail
+adres:</al>
+                  </li>
+                  <li>
+                     <li.nr>i.</li.nr>
+                     <al>Inschrijfnummer Kamer van
+Koophandel te
+..........:</al>
+                  </li>
+                  <li>
+                     <li.nr>j.</li.nr>
+                     <al>Sofi-nummer:</al>
+                  </li>
+                  <li>
+                     <li.nr>k.</li.nr>
+                     <al>SBI-code
+<nadruk type="cur">*niet
+verplicht*</nadruk>:</al>
+                  </li>
+               </lijst>
+               <tussenkop kopopmaak="cur">
+                  <nadruk type="cur">2.
+Locatiegegevens
+productie-installatie</nadruk>
+               </tussenkop>
+               <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                     <li.nr>a.</li.nr>
+                     <al>Adres:</al>
+                  </li>
+                  <li>
+                     <li.nr>b.</li.nr>
+                     <al>Postcode:</al>
+                  </li>
+                  <li>
+                     <li.nr>c.</li.nr>
+                     <al>Plaats:</al>
+                  </li>
+                  <li>
+                     <li.nr>d.</li.nr>
+                     <al>Locatienummer
+Kadaster:</al>
+                  </li>
+                  <li>
+                     <li.nr>e.</li.nr>
+                     <al>EAN-code van de aansluiting
+op het net (18-cijferig):</al>
+                  </li>
+                  <li>
+                     <li.nr>f.</li.nr>
+                     <al>EAN-code
+van de netbeheerder van het net waarop de installatie is
+aangesloten:</al>
+                  </li>
+                  <li>
+                     <li.nr>g.</li.nr>
+                     <al>
+                        <nadruk type="cur">Zijn
+er meerdere productie-installaties waarvoor WKK-certificaten en/of
+garanties van oorsprong zijn aangevraagd aangesloten via dezelfde
+netaansluiting?</nadruk>
+                     </al>
+                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Ja</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Nee</al>
+                        </li>
+                     </lijst>
+                     <al>Indien
+u deze vraag heeft beantwoord met &#x2018;ja&#x2019; dient u ook vraag
+2h in te vullen en een tekening met de systeemgrenzen van de
+productie-installaties bij te voegen. Indien u bij deze vraag
+&#x2018;nee&#x2019; heeft geantwoord, kunt u verder gaan met vraag
+2i.</al>
+                  </li>
+                  <li>
+                     <li.nr>h.</li.nr>
+                     <al>EAN-code van de
+productie-installatie waarop dit verzoek tot vaststelling betrekking
+heeft:</al>
+                  </li>
+                  <li>
+                     <li.nr>i.</li.nr>
+                     <al>SBI-code van de afnemer(s) van
+de door de installatie opgewekte warmte <nadruk type="cur">*niet
+verplicht*</nadruk>:</al>
+                  </li>
+                  <li>
+                     <li.nr>j.</li.nr>
+                     <al>Naam en adres
+van de afnemer van de warmte <nadruk type="cur">*niet
+verplicht*</nadruk>:</al>
+                  </li>
+               </lijst>
+               <tussenkop kopopmaak="cur">
+                  <nadruk type="cur">3.
+Typegegevens
+productie-installatie</nadruk>
+               </tussenkop>
+               <al>
+                  <nadruk type="cur">Geef aan om wat
+voor soort installatie het gaat bij deze aanvraag en welke brandstof in
+deze installatie wordt gebruikt. Zowel bij de vraag over het
+installatie-type als bij de vraag over de brandstofsoort zijn meerdere
+antwoorden mogelijk.</nadruk>
+               </al>
+               <al>Uit hoeveel
+afzonderlijke WKK-eenheden bestaat uw
+WKK-installatie?</al>
+               <al>
+                  <nadruk type="cur">Vul voor elk van deze
+eenheden de volgende vragen
+in</nadruk>
+               </al>
+               <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                     <li.nr>a.</li.nr>
+                     <al>Welk
+type krachtbron is
+ge&#xEF;nstalleerd?</al>
+                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Stoom-
+en gasturbine met
+warmteterugwinning</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Tegendrukstoomturbine</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Aftap-condensatiestoomturbine</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Gasturbine
+met warmteterugwinning</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Interne
+verbrandingsmotor</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Microturbine</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Stirlingmotor</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Brandstofcel</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Stoommachine</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>ORC</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Anders:</al>
+                        </li>
+                     </lijst>
+                  </li>
+                  <li>
+                     <li.nr>b.</li.nr>
+                     <al>Op
+welk spanningsniveau is de eenheid aangesloten op het
+net?</al>
+                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>200 kV of
+meer</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>100&#x2013;200
+kV</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>50&#x2013;100
+kV</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>0,4&#x2013;50
+kV</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>&lt; 0,4
+kV</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>niet van toepassing: de eenheid
+wekt <nadruk type="cur">uitsluitend</nadruk> mechanische energie
+op</al>
+                        </li>
+                     </lijst>
+                  </li>
+                  <li>
+                     <li.nr>c.</li.nr>
+                     <al>Op welk
+temperatuurniveau levert de eenheid
+warmte?</al>
+                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>stoom</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>heet
+water</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>direct gebruik van afgassen
+(meer dan 250&#xB0;C)</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>direct gebruik
+van afgassen (onder de
+250&#xB0;C)</al>
+                        </li>
+                     </lijst>
+                  </li>
+                  <li>
+                     <li.nr>d.</li.nr>
+                     <al>Toepassingsgebied
+warmte</al>
+                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>huishoudelijk</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>industrie</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>landbouw</al>
+                        </li>
+                     </lijst>
+                  </li>
+                  <li>
+                     <li.nr>e.</li.nr>
+                     <al>Welke
+brandstof wordt
+gebruikt?</al>
+                     <al>Gasvormig</al>
+                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Aardgas</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Raffinagegas
+of
+waterstof</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Biogas</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Cokesovengas,
+hoogovengas, andere afvalgassen, industri&#xEB;le overtollige
+hitte</al>
+                        </li>
+                     </lijst>
+                     <al>Vloeibaar</al>
+                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Olie
+(gasolie +
+stookolie)</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Biobrandstoffen</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Biologisch
+afbreekbaar afval</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Niet-hernieuwbaar
+afval</al>
+                        </li>
+                     </lijst>
+                     <al>Vaste
+stof</al>
+                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Steenkool</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Bruinkool/bruinkoolbriketten</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Turf/turfbriketten</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Houtbrandstoffen</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Agrarische
+biomassa</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Biologisch afbreekbaar
+(stedelijk) afval</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Niet-hernieuwbaar
+(stedelijk en industrieel)
+afval</al>
+                        </li>
+                        <li>
+                           <li.nr>o</li.nr>
+                           <al>Oliehoudende
+leisteen</al>
+                        </li>
+                     </lijst>
+                  </li>
+                  <li>
+                     <li.nr>f.</li.nr>
+                     <al>Nominaal
+elektrisch vermogen WKK-eenheid
+(MW):</al>
+                  </li>
+                  <li>
+                     <li.nr>g.</li.nr>
+                     <al>Aansluitwaarde WKK-eenheid
+(MVA):</al>
+                  </li>
+               </lijst>
+               <al>
+                  <nadruk type="cur">U dient een
+meetprotocol, dat voldoet aan de eisen vastgelegd in de
+WKK-meetvoorwaarden (bijlage 1 bij de regeling) en dat door een
+gecertificeerd meetbedrijf is goedgekeurd, als bijlage bij dit verzoek
+te voegen</nadruk>.</al>
+               <tussenkop kopopmaak="cur">
+                  <nadruk type="cur">4. Algemene
+verklaring</nadruk>
+               </tussenkop>
+               <al>U verklaart door het invullen en ondertekenen
+van deze
+verklaring:</al>
+               <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                     <li.nr>a.</li.nr>
+                     <al>Dat
+de in dit formulier bedoelde productie-installatie zodanig op een net
+of op een (andere) installatie is aangesloten en voorzien is van (een)
+meter(s) die voldoe(t)(n) aan de criteria gesteld in de Meetcode
+Elektriciteit, dat door de netbeheerder dan wel door het gecertificeerd
+meetbedrijf de op een net of een installatie ingevoede elektriciteit
+eenduidig kan worden gemeten, dan wel uit een combinatie van metingen
+eenduidig kan worden berekend;</al>
+                  </li>
+                  <li>
+                     <li.nr>b.</li.nr>
+                     <al>Dat u
+te allen tijde zult meewerken aan door de netbeheerder uit te voeren
+controles van de in dit formulier bedoelde productie-installatie en de
+bijbehorende meter(s), voor zover deze controles betrekking hebben op
+dit verzoek ;</al>
+                  </li>
+                  <li>
+                     <li.nr>c.</li.nr>
+                     <al>Dat u, in het geval dat
+&#xE9;&#xE9;n van de zaken zoals door u aangegeven bij de vragen 2, 3,
+4 of 5 verandert, hiervan vooraf melding maakt door dit formulier
+opnieuw in te vullen en te doen toekomen aan de
+netbeheerder;</al>
+                  </li>
+                  <li>
+                     <li.nr>d.</li.nr>
+                     <al>Dat u deze verklaring
+naar waarheid heeft
+ingevuld.</al>
+                  </li>
+               </lijst>
+               <tussenkop kopopmaak="cur">
+                  <nadruk type="cur">5.
+Ondertekening</nadruk>
+               </tussenkop>
+               <al>Plaats:</al>
+               <al>Datum:</al>
+               <al>Handtekening
+aanvrager:</al>
+               <al>Bijlage(n):</al>
+               <al>
+                  <nadruk type="vet">Let op!</nadruk>
+                  <nadruk type="cur">Maak een kopie van deze ingevulde verklaring voor
+eigen gebruik.</nadruk>
+               </al>
+               <al>Ruimte voor opmerkingen
+producent:</al>
+               <table colsep="0" frame="all" pgwide="1" rowsep="0" tabstyle="tekst">
+                  <tgroup align="left" char="" charoff="50" cols="1" tgroupstyle="tekst">
+                     <colspec colname="col1" colnum="1" colwidth="129.5*"/>
+                     <tbody valign="top">
+                        <row rowsep="0">
+                           <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                        </row>
+                        <row rowsep="0">
+                           <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                        </row>
+                        <row rowsep="0">
+                           <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                        </row>
+                        <row rowsep="0">
+                           <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                        </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+               <al>Plaats:</al>
+               <al>Datum:</al>
+               <al>Naam
+netbeheerder:</al>
+               <al>Handtekening netbeheerder:</al>
+               <al>Ruimte voor opmerkingen
+netbeheerder:</al>
+               <table colsep="0" frame="all" pgwide="1" rowsep="0" tabstyle="tekst">
+                  <tgroup align="left" char="" charoff="50" cols="1" tgroupstyle="tekst">
+                     <colspec colname="col1" colnum="1" colwidth="129.5*"/>
+                     <tbody valign="top">
+                        <row rowsep="0">
+                           <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                        </row>
+                        <row rowsep="0">
+                           <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                        </row>
+                        <row rowsep="0">
+                           <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                        </row>
+                        <row rowsep="0">
+                           <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                        </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+            </divisie></bijlage><bijlage status="goed"> 
+		<kop> 
+		  <label>Bijlage</label><nr status="officieel">3</nr><titel status="officieel">behorend bij <intref status="actief" doc="1.0:v:BWBR0015182&amp;artikel=6a">artikel 6a, tweede lid</intref>, van de Regeling certificaten
+			 warmtekrachtkoppeling Elektriciteitswet 1998</titel> 
+		</kop> 
+		<al><redactie type="vervanging">Ligt ter inzage bij de netbeheerder van het landelijk hoogspanningsnet te Arnhem.</redactie></al></bijlage>
+  <bijlage status="goed"><kop><label>Bijlage</label><nr>4</nr></kop><al><redactie type="vervanging"> Ligt ter inzage bij de netbeheerder van het landelijk hoogspanningsnet te Arnhem.</redactie></al></bijlage></regeling>
+</wetgeving>
+  	

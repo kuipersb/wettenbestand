@@ -1,0 +1,600 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0021597" dtdversie="2.0" id="374449" soort="beleidsregel">
+  
+  <intitule>Richtlijn voor strafvordering verzet bij aanhouding</intitule>
+  
+  <circulaire>
+    
+    <circulaire-tekst>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Beschrijving</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Deze richtlijn heeft betrekking op verzet bij aanhouding. Dit verzet kan zich richten tegen goederen en/of tegen personen. Indien het verzet zich richt tegen personen kan dat ofwel door middel van bedreiging met geweld geschieden ofwel door het daadwerkelijk gebruik van geweld. Indien letsel wordt veroorzaakt dient dit strafverzwarend te worden beoordeeld, afhankelijk van de omvang van het veroorzaakte letsel. Indien een wapen wordt gebruikt dient dat strafverzwarend te worden beoordeeld, waarbij het criterium de gevaarzetting van het wapen dient te zijn.</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Aard van de richtlijn</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Commuun</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Basisdelicten</titel>
+        </kop>
+        <tekst status="goed">
+          <al>&#x2013; Verzet met geweld tegen goederen</al>
+          <al>&#x2013; Verzet met geweld tegen personen</al>
+          <al>&#x2013; Verzet met bedreiging met geweld</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Wettekst</titel>
+        </kop>
+        <tekst status="goed">
+          <al>&#x2013; <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=180" compleet="nee">Wetboek van Strafrecht art. 180</extref></al>
+          <al>&#x2013; <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=181" compleet="nee">Wetboek van Strafrecht art. 181</extref></al>
+          <al>Met betrekking tot de eendaadse samenloop valt <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=55" compleet="nee">art. 55 WvSr.</extref> te vermelden.</al>
+          <al>&#x2013; <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=55" compleet="nee">Wetboek van Strafrecht art. 55</extref></al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Basisdelict</titel>
+        </kop>
+        <tekst status="goed">
+          <tussenkop>Verzet met geweld tegen goederen</tussenkop>
+          <tussenkop>Beschrijving</tussenkop>
+          <al>Dit basisdelict heeft betrekking op verzet met geweld tegen goederen. Indien (tevens) sprake is van geweld tegen personen, dan wel bedreiging met geweld dient op basis van dat basisdelict te worden beoordeeld.</al>
+          <tussenkop>Toepasselijk kader</tussenkop>
+          <al>Commuun en verkeer</al>
+          <tussenkop>Basispunten</tussenkop>
+          <al>6 punten</al>
+          <tussenkop>Basisfactoren</tussenkop>
+          <al>Geen</al>
+          <tussenkop>Delictspecifieke factoren</tussenkop>
+          <al>Medeplegen</al>
+          <table frame="none" tabstyle="stcrt1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="stcrt1">
+              <colspec colname="col1" colnum="1" colwidth="40*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="10*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Er is geen sprake van medeplegen</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>+0 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Er is sprake van medeplegen</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>+25 %</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <tussenkop>In samenhang met een sportevenement</tussenkop>
+          <table frame="none" tabstyle="stcrt1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="stcrt1">
+              <colspec colname="col1" colnum="1" colwidth="40*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="10*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Geen sprake van samenhang met een sportevenement</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>+0 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Er is sprake van samenhang met een sportevenement</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>+25 %</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <tussenkop>Wettelijke factoren</tussenkop>
+          <al>Medeplichtigheid</al>
+          <table frame="none" tabstyle="stcrt1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="stcrt1">
+              <colspec colname="col1" colnum="1" colwidth="40*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="10*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Dader</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+0 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Medeplichtige</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>-33 %</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <tussenkop>Recidiveregeling</tussenkop>
+          <al>Mate van recidive (5 jaar)</al>
+          <table frame="none" tabstyle="tekst">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="tekst">
+              <colspec colname="col1" colnum="1" colwidth="30*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="20*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Geen recidive</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+0 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 1 maal</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+10 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Meermalen</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+20 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+dagvaarden</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+
+          <tussenkop>Draagkracht</tussenkop>
+          <al>Geen</al>
+          <tussenkop>Speciale regelingen</tussenkop>
+          <al>&#x2013; Schaderegeling</al>
+          <tussenkop>Bijzonderheden</tussenkop>
+          <al>Geen</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Basisdelict</titel>
+        </kop>
+        <tekst status="goed">
+          <tussenkop>Verzet met geweld tegen personen</tussenkop>
+          <tussenkop>Beschrijving</tussenkop>
+          <al>Dit basisdelict heeft betrekking op verzet met geweld tegen personen.</al>
+          <tussenkop>Toepasselijk kader</tussenkop>
+          <al>Commuun en verkeer</al>
+          <tussenkop>Basispunten</tussenkop>
+          <al>10 punten</al>
+          <tussenkop>Basisfactoren</tussenkop>
+          <al>Aard van het letsel</al>
+          <table frame="none" tabstyle="stcrt1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="stcrt1">
+              <colspec colname="col1" colnum="1" colwidth="40*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="10*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Geen letsel</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>0 pt</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Licht letsel, zoals blauw oog, bloedneus, tand door de lip, lichte kneuzingen of lichte ontvellingen; letsel waarvoor in de regel geen medische hulp hoeft te worden ingeroepen.</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>3 pt</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Letsel voor de behandeling waarvan hulp van een eerstelijns arts dient te worden ingeroepen,</al>
+                    <al>zoals wonden waarvoor, uit cosmetisch oogpunt minder ernstige, hechtingen nodig zijn, een lichte hersenschudding, zwaardere kneuzingen of ontvellingen</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>8 pt</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Zwaarder letsel, voor de behandeling waarvan een medisch specialist nodig is. Letsel dat als regel niet wordt begrepen in <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=82" compleet="nee">art. 82 WvSr.</extref> zoals gebitsschade, gebroken neus, jukbeen of sleutelbeen, littekens in het gezicht of een zware hersenschudding</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>21 pt</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Zwaar lichamelijk letsel, zoals bedoeld in <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=82" compleet="nee">art. 82 WvSr.</extref></al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>35 pt</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <tussenkop>Gebruik van een wapen</tussenkop>
+          <table frame="none" tabstyle="stcrt1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="stcrt1">
+              <colspec colname="col1" colnum="1" colwidth="40*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="10*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Geen wapen</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>0 pt</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Slag- of stootwapen of een als zodanig aan te merken voorwerp. Overig voor bedreiging/mishandeling geschikt voorwerp/wapen.</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>7 pt</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Steekwapen, of een als zodanig aan te merken voorwerp</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>17 pt</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; (Nep)vuurwapen, niet uitsluitend gebruikt als slag- of stootwapen</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>52 pt</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <tussenkop>Delictspecifieke factoren</tussenkop>
+          <al>Medeplegen</al>
+          <table frame="none" tabstyle="stcrt1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="stcrt1">
+              <colspec colname="col1" colnum="1" colwidth="40*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="10*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Er is geen sprake van medeplegen</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>+0 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Er is sprake van medeplegen</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>+25 %</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <tussenkop>In samenhang met een sportevenement</tussenkop>
+          <table frame="none" tabstyle="stcrt1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="stcrt1">
+              <colspec colname="col1" colnum="1" colwidth="40*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="10*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Geen sprake van samenhang met een sportevenement</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>+0 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Er is sprake van samenhang met een sportevenement</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>+25 %</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <tussenkop>Wettelijke factoren</tussenkop>
+          <al>Medeplichtigheid</al>
+          <table frame="none" tabstyle="stcrt1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="stcrt1">
+              <colspec colname="col1" colnum="1" colwidth="40*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="10*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Dader</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+0 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Medeplichtige</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>-33 %</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <tussenkop>Recidiveregeling</tussenkop>
+          <al>Mate van recidive (5 jaar)</al>
+          <table frame="none" tabstyle="tekst">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="tekst">
+              <colspec colname="col1" colnum="1" colwidth="30*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="20*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Geen recidive</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+0 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 1 maal</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+10 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Meermalen</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+20 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+dagvaarden</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+
+          <tussenkop>Draagkracht</tussenkop>
+          <al>Geen</al>
+          <tussenkop>Speciale regelingen</tussenkop>
+          <al>&#x2013; Schaderegeling</al>
+          <tussenkop>Bijzonderheden</tussenkop>
+          <al>Geen</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Basisdelict</titel>
+        </kop>
+        <tekst status="goed">
+          <tussenkop>Verzet met bedreiging met geweld</tussenkop>
+          <tussenkop>Beschrijving</tussenkop>
+          <al>Dit basisdelict heeft betrekking op verzet met bedreiging met geweld.</al>
+          <tussenkop>Toepasselijk kader</tussenkop>
+          <al>Commuun en verkeer</al>
+          <tussenkop>Basispunten</tussenkop>
+          <al>10 punten</al>
+          <tussenkop>Basisfactoren</tussenkop>
+          <al>Gebruik van een wapen</al>
+          <table frame="none" tabstyle="stcrt1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="stcrt1">
+              <colspec colname="col1" colnum="1" colwidth="40*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="10*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Geen wapen</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>0 pt</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Slag- of stootwapen of een als zodanig aan te merken voorwerp. Overig voor bedreiging/mishandeling geschikt voorwerp/wapen.</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>7 pt</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Steekwapen, of een als zodanig aan te merken voorwerp</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>17 pt</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; (Nep)vuurwapen, niet uitsluitend gebruikt als slag- of stootwapen</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>52 pt</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <tussenkop>Delictspecifieke factoren</tussenkop>
+          <al>Medeplegen</al>
+          <table frame="none" tabstyle="stcrt1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="stcrt1">
+              <colspec colname="col1" colnum="1" colwidth="40*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="10*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Er is geen sprake van medeplegen</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>+0 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Er is sprake van medeplegen</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>+25 %</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <tussenkop>In samenhang met een sportevenement</tussenkop>
+          <table frame="none" tabstyle="stcrt1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="stcrt1">
+              <colspec colname="col1" colnum="1" colwidth="40*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="10*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Geen sprake van samenhang met een sportevenement</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+0 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Er is sprake van samenhang met een sportevenement</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+25 %</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <tussenkop>Wettelijke factoren</tussenkop>
+          <al>Medeplichtigheid</al>
+          <table frame="none" tabstyle="stcrt1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="stcrt1">
+              <colspec colname="col1" colnum="1" colwidth="40*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="10*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Dader</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+0 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Medeplichtige</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>-33 %</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <tussenkop>Recidiveregeling</tussenkop>
+          <al>Mate van recidive (5 jaar)</al>
+          <table frame="none" tabstyle="tekst">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="tekst">
+              <colspec colname="col1" colnum="1" colwidth="30*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="20*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Geen recidive</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+0 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 1 maal</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+10 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Meermalen</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+20 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+dagvaarden</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+
+          <tussenkop>Draagkracht</tussenkop>
+          <al>Geen</al>
+          <tussenkop>Speciale regelingen</tussenkop>
+          <al>Geen</al>
+          <tussenkop>Bijzonderheden</tussenkop>
+          <al>Geen</al>
+        </tekst>
+      </circulaire.divisie>
+    </circulaire-tekst>
+  </circulaire>
+</wetgeving>
+  	

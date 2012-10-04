@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0021401" dtdversie="2.0" id="372579" soort="beleidsregel">
+  
+  <intitule>Richtlijn voor strafvordering valse aangifte</intitule>
+  
+  <circulaire>
+    
+    <circulaire-tekst>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Beschrijving</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Deze richtlijn heeft betrekking op valse aangifte, doorgaans bedoeld om geldelijk gewin te behalen (oplichten verzekeringsmaatschappij) of om betrokkenheid bij een misdrijf te verhullen (bijv. valse aangifte van diefstal auto, welke betrokken is bij verlaten plaats ongeval). Indien deze valse aangifte (ernstige) gevolgen voor derden heeft gehad door de toepassing van dwangmiddelen, is een zwaardere sanctie ge&#xEF;ndiceerd.</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Aard van de richtlijn</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Commuun</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Basisdelicten</titel>
+        </kop>
+        <tekst status="goed">
+          <al>&#x2013; Valse aangifte</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Wettekst</titel>
+        </kop>
+        <tekst status="goed">
+          <al>&#x2013; <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=188" compleet="nee">Wetboek van Strafrecht art. 188</extref></al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Basisdelict</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed"><kop><titel status="officieel">Valse aangifte</titel></kop><tekst status="goed">
+          
+          <tussenkop>Beschrijving</tussenkop>
+          <al>Dit basisdelict betreft valse aangifte, zoals bedoeld om geldelijk gewin te behalen (oplichten verzekeringsmaatschappij) of om betrokkenheid bij een misdrijf te verhullen (bijv. valse aangifte van diefstal auto, welke betrokken is bij verlaten plaats ongeval).</al>
+          <tussenkop>Toepasselijk kader</tussenkop>
+          <al>Commuun en verkeer</al>
+          <tussenkop>Basispunten</tussenkop>
+          <al>10 punten</al>
+          <tussenkop>Basisfactoren</tussenkop>
+          <al>Gevolgen voor derden</al>
+          <table frame="none" tabstyle="stcrt1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="tekst">
+              <colspec colname="col1" colnum="1" colwidth="40*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="10*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Geen gevolgen voor derden</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>0 pt</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Verdachtmaking persoon met afzonderlijke vervolging voor <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=268" compleet="nee">art. 268 WvSr</extref>.</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>0 pt</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Verdachtmaking persoon zonder toepassing dwangmiddel</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>10 pt</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Verdachtmaking persoon met toepassing dwangmiddel</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>21 pt</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <tussenkop>Delictspecifieke factoren</tussenkop>
+          <al>Medeplegen</al>
+          <table frame="none" tabstyle="stcrt1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="tekst">
+              <colspec colname="col1" colnum="1" colwidth="40*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="10*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Er is geen sprake van medeplegen</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>+0 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Er is sprake van medeplegen</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="bottom">
+                    <al>+25%</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <tussenkop>Wettelijke factoren</tussenkop>
+          <al>Medeplichtigheid</al>
+          <table frame="none" tabstyle="stcrt1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="tekst">
+              <colspec colname="col1" colnum="1" colwidth="40*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="10*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Dader</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+0 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Medeplichtige</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>-33 %</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <tussenkop>Recidiveregeling</tussenkop>
+          <al>Mate van recidive (5 jaar)</al>
+          <table frame="none" tabstyle="tekst">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="tekst">
+              <colspec colname="col1" colnum="1" colwidth="30*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="20*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Geen recidive</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+0 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 1 maal</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+10 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; Meermalen</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+20 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>+dagvaarden</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+
+          <tussenkop>Draagkracht</tussenkop>
+          <al>Geen</al>
+          <tussenkop>Speciale regelingen</tussenkop>
+          <al>&#x2013; Schaderegeling</al>
+          <tussenkop>Bijzonderheden</tussenkop>
+          <al>Geen</al>
+        </tekst></circulaire.divisie>
+      </circulaire.divisie>
+    </circulaire-tekst>
+  <bijlage status="goed"><kop><label>Bijlage</label></kop><al><redactie type="vervanging">Niet opgenomen.</redactie></al></bijlage></circulaire>
+</wetgeving>
+  	

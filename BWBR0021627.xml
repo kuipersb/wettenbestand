@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0021627" dtdversie="2.0" id="374749" soort="zbo">
+  
+  <intitule>Beleidsregel Wet op het financieel toezicht 06-02 van de Stichting Autoriteit Financi&#xEB;le Markten inzake het meldingsformulier transacties in financi&#xEB;le instrumenten in de eigen uitgevende instelling als bedoeld in artikel 5:60</intitule>
+  
+  <circulaire>
+    <circulaire-tekst>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Wettelijk kader</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Ingevolge <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=5%3A60" compleet="nee">artikel 5:60 Wet op het financieel toezicht</extref> (Wft) moet een ieder die behoort tot de genoemde categorie&#xEB;n van personen melding doen van voor eigen rekening verrichte of bewerkstelligde transacties in aandelen die betrekking hebben op de eigen uitgevende instelling of in financi&#xEB;le instrumenten waarvan de waarde mede wordt bepaald door de waarde van deze aandelen. Voor deze meldingen dient gebruik gemaakt te worden van onderstaand formulier zoals voorgeschreven in <extref status="actief" doc="1.0:v:BWBR0020417&amp;artikel=6" compleet="nee">artikel 6, tweede lid van het Besluit van 12 oktober 2006, houdende regels tot uitvoering van diverse bepalingen van hoofdstuk 5.4 van de Wet op het financieel toezicht</extref> (Besluit marktmisbruik Wft).</al>
+          <al>Dit is een beleidsregel als bedoeld in <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=1%3A3" compleet="nee">artikel 1:3, vierde lid, van de Algemene wet bestuursrecht</extref> (Awb). De bevoegdheid van de AFM tot het vaststellen van deze beleidsregel is gebaseerd op <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=4%3A81" compleet="nee">artikel 4:81, eerste lid, Awb</extref>.</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Meldingsformulier transacties in financi&#xEB;le instrumenten van de eigen uitgevende instelling (<extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=5%3A60" compleet="nee">artikel 5:60 Wft</extref>)</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Deel I</titel>
+          </kop>
+          <tekst status="goed">
+            <al>1. de naam van de uitgevende instelling:</al>
+            <al>2. de naam van de meldingsplichtige:</al>
+          </tekst>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Soort financieel instrument</titel>
+            </kop>
+            <tekst status="goed">
+              <al>3. Soort financieel instrument:</al>
+              <al>(aandeel, optie, warrant, anders)</al>
+              <al>4. In te vullen voor zover van toepassing</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>nominale waarde van het financieel instrument:</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>soort optie (call/put/personeelsoptie/anders):</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>uitoefenprijs:</al>
+                </li>
+              </lijst>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Kenmerken transactie in vraag 3 en 4 aangegeven financieel instrument</titel>
+            </kop>
+            <tekst status="goed">
+              <al>5. Datum transactie:</al>
+              <al>6. Aantal verkregen financi&#xEB;le instrumenten bij de transactie:</al>
+              <al>7. Aantal verkochte financi&#xEB;le instrumenten bij de transactie:</al>
+              <al>8. Prijs van het financieel instrument:</al>
+              <al>9. Open/close (in geval van opties):</al>
+              <al>10. Plaats van uitvoering van de transactie (indien de transactie</al>
+              <al>plaatsvindt via een gereglementeerde markt):</al>
+            </tekst>
+          </circulaire.divisie>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Deel II</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Reden voor de melding: wat is de relatie tussen de meldingsplichtige en de uitgevende instelling?</al>
+            <table frame="topbot" tabstyle="stcrt2">
+              <tgroup align="left" char="" charoff="50" cols="4" tgroupstyle="stcrt2">
+                <colspec colname="col1" colnum="1" colwidth="6*"/>
+                <colspec colname="col2" colnum="2" colwidth="42*"/>
+                <colspec colname="col3" colnum="3" colwidth="43*"/>
+                <colspec colname="col4" colnum="4" colwidth="12*"/>
+                <thead valign="bottom">
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Groep meldingsplichtige</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                </thead>
+                <tbody valign="top">
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>1</al>
+                    </entry>
+                    <entry align="left" morerows="0" nameend="col3" namest="col2" rotate="0" valign="top">
+                      <al>een ieder die het dagelijks beleid bepaalt of mede bepaalt van de uitgevende instelling</al>
+                    </entry>
+                    <entry align="right" colname="col4" morerows="0" rotate="0" valign="top">
+                      <al>JA / NEE</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>2</al>
+                    </entry>
+                    <entry align="left" morerows="0" nameend="col3" namest="col2" rotate="0" valign="top">
+                      <al>een ieder die toezicht houdt op het beleid van het bestuur en de algemene gang van zaken in de uitgevende instelling en de daarmee verbonden onderneming</al>
+                    </entry>
+                    <entry align="right" colname="col4" morerows="0" rotate="0" valign="top">
+                      <al>JA / NEE</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>3</al>
+                    </entry>
+                    <entry align="left" morerows="0" nameend="col3" namest="col2" rotate="0" valign="top">
+                      <al>een ieder die een leidinggevende functie heeft en uit dien hoofde de bevoegdheid heeft om besluiten te nemen die gevolgen hebben voor de toekomstige ontwikkelingen en bedrijfsvooruitzichten van de uitgevende instelling en die regelmatig kennis kan hebben van voorwetenschap</al>
+                    </entry>
+                    <entry align="right" colname="col4" morerows="0" rotate="0" valign="top">
+                      <al>JA / NEE</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>4</al>
+                    </entry>
+                    <entry align="left" morerows="0" nameend="col3" namest="col2" rotate="0" valign="top">
+                      <al>echtgenoten, geregistreerde partners of levensgezellen van de onder 1 tot en met 3 bedoelde personen, of andere personen die op daarmee vergelijkbare wijze samenleven met de onder 1 tot en met 3 bedoelde personen</al>
+                    </entry>
+                    <entry align="right" colname="col4" morerows="0" rotate="0" valign="top">
+                      <al>JA / NEE</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>5</al>
+                    </entry>
+                    <entry align="left" morerows="0" nameend="col3" namest="col2" rotate="0" valign="top">
+                      <al>kinderen van de onder 1 tot en met 3 bedoelde personen die onder hun gezag vallen of die onder curatele zijn gesteld en waarvoor deze personen als curator zijn benoemd</al>
+                    </entry>
+                    <entry align="right" colname="col4" morerows="0" rotate="0" valign="top">
+                      <al>JA / NEE</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>6</al>
+                    </entry>
+                    <entry align="left" morerows="0" nameend="col3" namest="col2" rotate="0" valign="top">
+                      <al>andere bloed- of aanverwanten van de onder 1 tot en met 3 bedoelde personen, die op de datum van de desbetreffende transactie ten minste een jaar een gemeenschappelijke huishouding hebben gevoerd met deze personen</al>
+                    </entry>
+                    <entry align="right" colname="col4" morerows="0" rotate="0" valign="top">
+                      <al>JA / NEE</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>7</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>rechtspersonen, trusts als bedoeld in <extref status="actief" doc="1.0:v:BWBR0016189&amp;artikel=1" compleet="nee">artikel 1, onder c, van de Wet toezicht trustkantoren of personenvennootschappen</extref>:</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>i) waarvan de leidinggevende verantwoordelijkheid berust bij een persoon als bedoeld onder 1 tot en met 6</al>
+                    </entry>
+                    <entry align="right" morerows="0" rotate="0" valign="top">
+                      <al>JA / NEE</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>ii) die onder de zeggenschap staat van een persoon als bedoeld onder 1 tot en met 6</al>
+                    </entry>
+                    <entry align="right" morerows="0" rotate="0" valign="top">
+                      <al>JA / NEE</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>iii) die is opgericht ten gunste van een persoon als bedoeld onder 1 tot en met 6</al>
+                    </entry>
+                    <entry align="right" morerows="0" rotate="0" valign="top">
+                      <al>JA / NEE</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>iv) waarvan de economische belangen in wezen gelijkwaardig zijn aan die van een persoon bedoeld onder 1 tot en met 6</al>
+                    </entry>
+                    <entry align="right" morerows="0" rotate="0" valign="top">
+                      <al>JA / NEE</al>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+            <al>Wordt de melding van de meldingsplichtige verzorgd door tussenkomst</al>
+            <al>van een door de uitgevende instelling aangewezen persoon? Ja/nee:</al>
+            <al>Zo ja, naam en functie van deze persoon:</al>
+          </tekst>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Gegevens meldingsplichtige (onderstaande gegevens zullen niet in het register worden opgenomen)</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Adres:</al>
+              <al>Postcode, woonplaats, land:</al>
+              <al>Telefoonnummer meldingsplichtige of contactpersoon:</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Aldus naar waarheid opgemaakt:</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Naam:</al>
+              <al>Datum en plaats:</al>
+              <al>Handtekening:</al>
+            </tekst>
+          </circulaire.divisie>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Slotbepalingen</titel>
+          </kop>
+          <tekst status="goed">
+            <al>De bekendmaking van deze beleidsregel geschiedt door publicatie in de Staatscourant.</al>
+            <al>De beleidsregel treedt in werking met ingang van de tweede dag na publicatie in de Staatscourant.</al>
+          </tekst>
+        </circulaire.divisie>
+      </circulaire.divisie>
+    </circulaire-tekst>
+    <circulaire-sluiting status="goed">
+      <slotformulering>
+        <al>Deze beleidsregel wordt aangehaald als Beleidsregel Meldingsformulier transacties in financi&#xEB;le instrumenten in de eigen uitgevende instelling.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Amsterdam</plaats>
+          <datum isodatum="2007-03-08">8 maart 2007</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>
+        <functie>Bestuurslid</functie>,
+        <naam>
+          <voornaam>A.W.</voornaam>
+          <achternaam>Kist</achternaam>
+        </naam>
+      </ondertekening>
+      <ondertekening>
+        <functie>Bestuurslid</functie>,
+        <naam>
+          <voornaam>P.M.</voornaam>
+          <achternaam>Koster</achternaam>
+        </naam>
+      </ondertekening>
+    </circulaire-sluiting>
+  </circulaire>
+</wetgeving>
+  	

@@ -1,0 +1,964 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0006076" dtdversie="2.0" id="201289" soort="ministeriele-regeling" xml:lang="nl">            <intitule>Regeling gebruik hoogtemeter</intitule>        <regeling>       <aanhef>          <wie>De Minister van Verkeer en Waterstaat,</wie>          <considerans>             <considerans.al bevat="overeenstemmend">Handelend in overeenstemming met de Minister van Defensie;</considerans.al>             <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=12" compleet="nee">artikel 12 van het Luchtverkeersreglement</extref> (Stb. 1992, 697);</considerans.al>             <considerans.al bevat="gezien">Gezien de paragrafen 3.1.3., 4.5., 5.2.2. en 5.3.1. en aanhangsel 3 van bijlage 2 (Rules of the Air) van het Verdrag inzake de internationale burgerluchtvaart en ICAO-document 8186/OPS/611 (Aircraft Operations-Altimeter Setting Procedures);</considerans.al>          </considerans>          <afkondiging>             <al>Besluit:</al>          </afkondiging>                 </aanhef>       <regeling-tekst>          <paragraaf>             <kop>                <label>Afdeling</label>                <nr>I</nr>                <titel>Algemeen</titel>                             </kop>             <sub-paragraaf><kop><titel>Begripsbepalingen</titel></kop><artikel status="goed">                <kop>                   <label>Artikel</label>                   <nr>1</nr>                                                      </kop>                <al>In deze regeling en de daarop berustende bepalingen wordt verstaan onder:</al>                <definitielijst nr-sluiting="" plaatsing="inline" type="expliciet"><definitie-item><li.nr>a.</li.nr><term>Altimeter Setting Region, afgekort ASR:</term><definitie><al> hoogtemeter- instellingsgebied;</al></definitie></definitie-item><definitie-item><li.nr>b.</li.nr><term>grondkoers:</term><definitie><al> de projectie op het aardoppervlak van de vliegbaan van een luchtvaartuig waarvan de richting op enig punt wordt uitgedrukt in graden ten opzichte van het ware (T), het magnetische (M) of het kaartnet-noorden (G);</al></definitie></definitie-item><definitie-item><li.nr>c.</li.nr><term>hoogte:</term><definitie><al> de verticale afstand tussen een vlak, een punt of als een punt te beschouwen voorwerp en een referentievlak, referentiepunt of als referentiepunt te beschouwen voorwerp;</al></definitie></definitie-item><definitie-item><li.nr>d.</li.nr><term>overgangshoogte:</term><definitie><al> de hoogte boven gemiddeld zeeniveau waarop en waar beneden de vlieghoogte wordt uitgedrukt in hoogte boven gemiddeld zeeniveau;</al></definitie></definitie-item><definitie-item><li.nr>e.</li.nr><term>overgangsniveau:</term><definitie><al> het laagst beschikbare vliegniveau boven de overgangshoogte;</al></definitie></definitie-item><definitie-item><li.nr>f.</li.nr><term>QFE:</term><definitie><al> de atmosferische druk op het aardoppervlak;</al></definitie></definitie-item><definitie-item><li.nr>g.</li.nr><term>QNH:</term><definitie><al> de QFE herleid tot gemiddeld zeeniveau in de ICAO-standaardatmosfeer;</al></definitie></definitie-item><definitie-item><li.nr>h.</li.nr><term>voet, afgekort ft:</term><definitie><al> de gelijke lengte aan 0,3048 m.</al></definitie></definitie-item></definitielijst>                             </artikel></sub-paragraaf>                          <sub-paragraaf>                <kop><titel>Vliegniveausysteem</titel>             </kop><artikel status="goed">                <kop>                   <label>Artikel</label>                   <nr>2</nr>                                                      </kop>                <lid>                   <lidnr>1</lidnr>                   <al>Vliegniveau nul is gelegen op het atmosferische drukvlak van 1013.2 hPa. Opeenvolgende vliegniveaus zijn gescheiden door een drukinterval dat overeenkomst met ten minste 500 ft. in de ICAO-standaardatmosfeer.</al>                </lid>                <lid>                   <lidnr>2</lidnr>                   <al>Een vliegniveau wordt aangeduid met de hoofdletters FL gevolgd door een getal, dat overeenkomt met een honderdste deel van de desbetreffende hoogte in voeten in de ICAO-standaardatmosfeer.</al>                </lid>                             </artikel></sub-paragraaf>                          <sub-paragraaf>                <kop><titel>Overgangshoogte en overgangsniveau</titel>             </kop><artikel status="goed">                <kop>                   <label>Artikel</label>                   <nr>3</nr>                                                      </kop>                <lid>                   <lidnr>1</lidnr>                   <al>De overgangshoogte in het vluchtinformatiegebied Amsterdam is voor IFR-vluchten 915m (3000 ft) en voor VFR-vluchten 1070m (3500 ft).</al>                </lid>                <lid>                   <lidnr>2</lidnr>                   <al>Het overgangsniveau in het vluchtinformatiegebied Amsterdam is gelegen op of boven 1220m (4000 ft) boven gemiddeld zeeniveau.</al>                </lid>                             </artikel>             <artikel status="goed">                <kop>                   <label>Artikel</label>                   <nr status="officieel">4</nr>                                                      </kop>                <al>Het
+overgangsniveau, bedoeld in <intref status="actief" doc="1.0:v:BWBR0006076&amp;artikel=3">artikel 3, tweede lid</intref>, wordt elk uur
+vastgesteld door het KNMI en zo snel mogelijk aan de betreffende
+verlener van luchtverkeersdiensten
+doorgegeven.</al>                             </artikel></sub-paragraaf>                       </paragraaf>          <paragraaf>             <kop>                <label>Afdeling</label>                <nr>II</nr>                <titel>Gebruik hoogtemeter</titel>                             </kop>             <sub-paragraaf><kop>                <titel>Hoogtemeterinstellingsgebieden</titel></kop>             <artikel status="goed">                <kop>                   <label>Artikel</label>                   <nr status="officieel">5</nr>                                                      </kop>                <lid>                   <lidnr status="officieel">1</lidnr>                   <al>In het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimten boven het Nederlandse deel van het continentaal plat zijn de volgende hoogtemeterinstellingsgebieden ingesteld:</al>                   <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>                         <al>ASR Amsterdam;</al>                      </li><li><li.nr>b.</li.nr>                         <al>ASR Maastricht;</al>                      </li><li><li.nr>c.</li.nr><al>ASR
+North Sea South;</al></li><li><li.nr>d.</li.nr><al>ASR North Sea
+North.</al></li></lijst>                </lid>                <lid>                   <lidnr status="officieel">2</lidnr>                   <al>Genoemde gebieden worden lateraal begrensd zoals aangegeven in de Luchtvaartgids, ENR 6-1.1.</al>                </lid>                <lid><lidnr status="officieel">3</lidnr><al>Het
+KNMI stelt ten minste elk uur de regionale QNH van de onderstaande
+gebieden vast en meldt deze zo snel mogelijk aan de betreffende
+verlener van
+luchtverkeersdiensten:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>luchthaven
+Schiphol;</al></li><li><li.nr>b.</li.nr><al>luchthaven Maastricht
+Aachen;</al></li><li><li.nr>c.</li.nr><al>lichteiland
+Goeree;</al></li><li><li.nr>d.</li.nr><al>platform
+F16-A.</al></li></lijst></lid>                             </artikel></sub-paragraaf>                          <sub-paragraaf>                <kop><titel>Hoogtemeterinstelling</titel>             </kop><artikel status="goed">                <kop>                   <label>Artikel</label>                   <nr status="officieel">6</nr>                                                      </kop>                <lid>                   <lidnr status="officieel">1</lidnr>                   <al>V&#xF3;&#xF3;r het opstijgen moet ten
+minste &#xE9;&#xE9;n drukhoogtemeter worden ingesteld op de QNH van de
+luchthaven.</al>                </lid>                <lid>                   <lidnr status="officieel">2</lidnr>                   <al>Bij het tijdens de stijgvlucht passeren van de overgangshoogte moet ten
+minste &#xE9;&#xE9;n drukhoogtemeter zijn ingesteld op de drukwaarde van 1013.2 hPa.</al>                </lid>                             </artikel>             <artikel status="goed">                <kop>                   <label>Artikel</label>                   <nr>7</nr>                                                      </kop>                <al>Tijdens een vlucht op een kruishoogte op of beneden de overgangshoogte moet ten minste &#xE9;&#xE9;n drukhoogtemeter zijn ingesteld op regionale QNH.</al>                             </artikel>             <artikel status="goed">                <kop>                   <label>Artikel</label>                   <nr status="officieel">8</nr>                                                      </kop>                <lid>                   <lidnr status="officieel">1</lidnr>                   <al>Bij het tijdens de daalvlucht passeren van het overgangsniveau moet ten
+minste &#xE9;&#xE9;n drukhoogtemeter worden ingesteld op QNH van de
+luchthaven.</al>                </lid>                <lid>                   <lidnr status="officieel">2</lidnr>                   <al>De in het eerste lid bedoelde instelling op QNH kan reeds v&#xF3;&#xF3;r het passeren van het overgangsniveau geschieden, indien de betrokken luchtverkeersleidingsdienst &#x2013; na het verstrekken van de naderingsklaring &#x2013; toestaat om vlieghoogte uit te drukken in hoogte boven gemiddeld zeeniveau nadat de einddaling is ingezet en wordt voorzien dat boven de overgangshoogte geen horizontale vlucht meer zal plaatsvinden.</al>                </lid>                             </artikel></sub-paragraaf>                       </paragraaf>          <paragraaf>             <kop>                <label>Afdeling</label>                <nr>III</nr>                <titel>Kruishoogte</titel>                             </kop>             <sub-paragraaf><kop>                <titel>Algemeen</titel></kop>             <artikel status="goed">                <kop>                   <label>Artikel</label>                   <nr>9</nr>                                                      </kop>                <al>Kruishoogte en andere vlieghoogtes moeten worden uitgedrukt in:</al>                <lijst nr-sluiting=""><li><li.nr>a.</li.nr>                      <al>vliegniveau, voor het deel van de vlucht op of boven het overgangsniveau;</al>                   </li><li><li.nr>b.</li.nr>                      <al>hoogte boven gemiddeld zeeniveau, voor het deel van de vlucht beneden het overgangsniveau.</al>                   </li></lijst>                             </artikel></sub-paragraaf>                          <sub-paragraaf>                <kop><titel>Kruishoogtesystemen</titel>             </kop><artikel status="goed">                <kop>                   <label>Artikel</label>                   <nr>10</nr>                                                      </kop>                <lid>                   <lidnr>1</lidnr>                   <al>Een horizontaal deel van een VFR-vlucht boven 1070m (3500 ft) boven de grond of water moet worden uitgevoerd op een vliegniveau als aangegeven in de <intref status="actief" doc="1.0:v:BWBR0006076&amp;bijlage=">bijlage</intref>.</al>                </lid>                <lid>                   <lidnr>2</lidnr>                   <al>Een horizontaal deel van een gecontroleerde vlucht binnen een luchtverkeersleidingsgebied moet worden uitgevoerd op een kruishoogte als in de <intref status="actief" doc="1.0:v:BWBR0006076&amp;bijlage=">bijlage</intref> aangegeven voor een IFR-vlucht.</al>                </lid>                <lid>                   <lidnr>3</lidnr>                   <al>Een horizontaal deel van een IFR-vlucht buiten een luchtverkeersleidingsgebied moet worden uitgevoerd op een kruishoogte als aangegeven in de <intref status="actief" doc="1.0:v:BWBR0006076&amp;bijlage=">bijlage</intref>.</al>                </lid>                             </artikel></sub-paragraaf>                          <sub-paragraaf>                <kop><titel>Vereenvoudigd kruishoogtesysteem</titel></kop>             <artikel status="goed">                <kop>                   <label>Artikel</label>                   <nr status="officieel">11</nr>                                                      </kop>                <lid>                   <lidnr status="officieel">1</lidnr>                   <al>In afwijking van het gestelde in <intref status="actief" doc="1.0:v:BWBR0006076&amp;artikel=10">artikel 10</intref> geldt, binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte tot en met 915m (3000 ft) boven gemiddeld zeeniveau boven het Nederlandse deel van het continentaal plat, de in de bijlage opgenomen vereenvoudigde tabel van kruishoogtes.</al>                </lid>                <lid>                   <lidnr status="officieel">2</lidnr>                   <al>Voor de toepassing van de in het eerste lid genoemde tabel geldt:</al>                   <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>                         <al>voor vluchten langs de luchtverkeersroutes A5, B31, UB31, en UG11 de indeling in grondkoersen en onderscheidenlijk 090M&#xB0;&#x2013;269M&#xB0; en 270M&#xB0; &#x2014; 089M&#xB0;;</al>                      </li><li><li.nr>b.</li.nr>                         <al>voor IFR-vluchten op of beneden 915m (3000 ft) de grondkoers van het belangrijkste deel van de vlucht.</al>                      </li></lijst>                </lid>                             </artikel>             <artikel status="goed">                <kop>                   <label>Artikel</label>                   <nr>12</nr>                                                      </kop>                <al>Van het gestelde in <intref status="actief" doc="1.0:v:BWBR0006076&amp;artikel=11">artikel 11, tweede lid, onder b</intref>, kan de betreffendeluchtverkeersdienst afwijken door het buiten toepassing te verklaren dan wel een afwijkende verklaring te verstrekken.</al>                             </artikel></sub-paragraaf>                       </paragraaf>          <paragraaf>             <kop>                <label>Afdeling</label>                <nr>IV</nr>                <titel>Slotbepaling</titel>                             </kop>             <sub-paragraaf><kop>                <titel>Intrekking bestaande regeling</titel>             </kop>             <artikel status="goed">                <kop>                   <label>Artikel</label>                   <nr>13</nr>                                                      </kop>                <al>De regeling van de Directeur-Generaal van de Rijksluchtvaartdienst, de Chef van de Marinestaf en de Chef van de luchtmachtstaf van 28 juli 1981/nr. LVB/23871 wordt ingetrokken.</al>                             </artikel></sub-paragraaf>             <sub-paragraaf>                <kop><titel>Inwerkingtreding</titel></kop>             <artikel status="goed">                <kop>                   <label>Artikel</label>                   <nr>14</nr>                                                      </kop>                <al>Deze regeling treedt in werking met ingang van 1 augustus 1993.</al>                             </artikel></sub-paragraaf>                          <sub-paragraaf>                <kop><titel>Titel</titel>             </kop><artikel status="goed">                <kop>                   <label>Artikel</label>                   <nr>15</nr>                                                      </kop>                <al>Deze regeling wordt aangehaald als: Regeling gebruik hoogtemeter.</al>                             </artikel></sub-paragraaf>                       </paragraaf>       </regeling-tekst>       <regeling-sluiting status="goed">          <ondertekenaar>             <ondertekening>                De <functie>Minister</functie> van <organisatie>Verkeer en Waterstaat</organisatie>,                <naam>                   <voornaam>J. R. H.</voornaam>                   <achternaam>Maij-Weggen</achternaam>                </naam>             </ondertekening>          </ondertekenaar>       </regeling-sluiting>       <bijlage status="goed">          <kop>             <label>Bijlage</label>                                    <titel status="officieel">behorende bij <intref status="actief" doc="1.0:v:BWBR0006076&amp;artikel=11">artikel 11</intref> van de Regeling gebruik hoogtemeter</titel></kop>                    <table frame="topbot" tabstyle="stcrt3">
+          <title>Algemene tabel van kruishoogtes Grondkoers (Magnetisch of kaartnet)</title><tgroup align="left" char="" charoff="50" cols="12" tgroupstyle="stcrt3">
+            <colspec colname="col1" colnum="1" colwidth="13*"/>
+            <colspec colname="col2" colnum="2" colwidth="13*"/>
+            <colspec colname="col3" colnum="3" colwidth="13*"/>
+            <colspec colname="col4" colnum="4" colwidth="13*"/>
+            <colspec colname="col5" colnum="5" colwidth="13*"/>
+            <colspec colname="col6" colnum="6" colwidth="13*"/>
+            <colspec colname="col7" colnum="7" colwidth="13*"/>
+            <colspec colname="col8" colnum="8" colwidth="13*"/>
+            <colspec colname="col9" colnum="9" colwidth="13*"/>
+            <colspec colname="col10" colnum="10" colwidth="13*"/>
+            <colspec colname="col11" colnum="11" colwidth="13*"/>
+            <colspec colname="col12" colnum="12" colwidth="13*"/>
+            <thead valign="bottom">
+              <row>
+                <entry align="center" morerows="0" nameend="col6" namest="col1" rotate="0" rowsep="1" valign="top">
+                  <al>000&#xB0;&#x2013;179&#xB0;</al>
+                </entry>
+                
+                
+                
+                
+                
+                <entry align="center" morerows="0" nameend="col12" namest="col7" rotate="0" rowsep="1" valign="top">
+                  <al>180&#xB0;&#x2013;359&#xB0;</al>
+                </entry>
+                
+                
+                
+                
+                
+              </row>
+           <row>
+                <entry align="center" morerows="0" nameend="col3" namest="col1" rotate="0" rowsep="1" valign="top">
+                  <al>IFR vluchten</al>
+                </entry>
+                
+                
+                <entry align="center" morerows="0" nameend="col6" namest="col4" rotate="0" rowsep="1" valign="top">
+                  <al>VFR vluchten</al>
+                </entry>
+                
+                
+                <entry align="center" morerows="0" nameend="col9" namest="col7" rotate="0" rowsep="1" valign="top">
+                  <al>IFR vluchten</al>
+                </entry>
+                
+                
+                <entry align="center" morerows="0" nameend="col12" namest="col10" rotate="0" rowsep="1" valign="top">
+                  <al>VFR vluchten</al>
+                </entry>
+                
+                
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" rowsep="1" valign="top"/>
+                <entry align="center" morerows="0" nameend="col3" namest="col2" rotate="0" rowsep="1" valign="top">
+                  <al>Hoogte MSL</al>
+                </entry>
+                
+                <entry align="left" colname="col4" morerows="0" rotate="0" rowsep="1" valign="top"/>
+                <entry align="center" morerows="0" nameend="col6" namest="col5" rotate="0" rowsep="1" valign="top">
+                  <al>Hoogte MSL</al>
+                </entry>
+                
+                <entry align="left" colname="col7" morerows="0" rotate="0" rowsep="1" valign="top"/>
+                <entry align="center" morerows="0" nameend="col9" namest="col8" rotate="0" rowsep="1" valign="top">
+                  <al>Hoogte MSL</al>
+                </entry>
+                
+                <entry align="left" colname="col10" morerows="0" rotate="0" rowsep="1" valign="top"/>
+                <entry align="center" morerows="0" nameend="col12" namest="col11" rotate="0" rowsep="1" valign="top">
+                  <al>Hoogte MSL</al>
+                </entry>
+                
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>FL</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>meter</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>voet</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>FL</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>meter</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>voet</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>FL</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>meter</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>voet</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>FL</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>meter</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>voet</al>
+                </entry>
+              </row>
+               </thead>
+            <tbody valign="top">
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x2013;90</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x2013;</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x2013;</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x2013;</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>0</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x2013;</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x2013;</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x2013;</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>10</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>300</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>1000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x2013;</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x2013;</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x2013;</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>20</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>600</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>2000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x2013;</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x2013;</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x2013;</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>30</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>900</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>3000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>35</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>1050</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>3500</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>40</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>1200</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>4000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>45</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>1350</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>4500</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>50</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>1500</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>5000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>55</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>1700</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>5500</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>60</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>1850</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>6000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>65</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>2000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>6500</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>70</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>2150</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>7000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>75</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>2300</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>7500</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>80</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>2450</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>8000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>85</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>2600</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>8500</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>90</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>2750</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>9000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>95</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>2900</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>9500</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>100</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>3050</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>10000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>105</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>3200</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>10500</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>110</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>3350</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>11000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>115</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>3500</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>11500</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>120</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>3650</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>12000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>125</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>3800</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>12500</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>130</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>3950</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>13000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>135</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>4100</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>13500</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>140</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>4250</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>14000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>145</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>4400</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>14500</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>150</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>4550</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>15000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>155</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>4700</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>15500</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>160</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>4900</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>16000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>165</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>5050</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>16500</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>170</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>5200</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>17000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>175</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>5350</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>17500</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>190</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>5500</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>18000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>185</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>5650</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>18500</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>190</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>5800</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>19000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>195</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>5950</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>19500</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>200</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>6100</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>20000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>205</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>6250</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>20500</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>210</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>6400</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>21000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>215</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>6550</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>21500</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>220</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>6700</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>22000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>225</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>6850</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>22500</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>230</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>7000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>23000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>235</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>7150</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>23500</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>240</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>7300</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>24000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>245</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>7450</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>24500</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>250</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>7600</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>25000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>255</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>7750</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>25500</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>260</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>7900</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>26000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>265</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>8100</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>26500</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>270</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>8250</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>27000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>275</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>8400</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>27500</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>280</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>8550</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>28000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>285</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>8700</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>28500</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>290</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>8850</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>29000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>300</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>9150</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>30000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>310</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>9450</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>31000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>320</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>9750</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>32000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>330</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>10050</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>33000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>340</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>10350</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>34000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>350</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>10650</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>35000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>360</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>10950</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>36000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>370</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>11300</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>37000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>380</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>11600</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>38000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>390</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>11900</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>39000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>400</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>12200</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>40000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>410</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>12500</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>41000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>430</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>13100</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>43000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>450</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>13700</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>45000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>470</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>14350</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>47000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>490</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>14950</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>49000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>510</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>15550</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>51000</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>etc.</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>etc.</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>etc.</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>etc.</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>etc.</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>etc.</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top"/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>       </bijlage>    </regeling> </wetgeving>
+  	

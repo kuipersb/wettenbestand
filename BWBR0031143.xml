@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0031143" dtdversie="2.0" id="469909" soort="zbo">
+  
+  <intitule>Regeling prijsinformatie voortvloeiend uit contractafspraken</intitule>
+  
+  <circulaire>
+    <circulaire-tekst>
+      <tekst status="goed">
+        <al>Vastgesteld op 10 januari 2012</al>
+        <al>Ingevolge <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=62" compleet="nee">artikel 62</extref> en <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=68" compleet="nee">68 van de Wet marktordening gezondheidszorg</extref> (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van contractafspraken tussen verzekeraars en zorgaanbieders.</al>
+      </tekst>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Reikwijdte</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Deze regeling is van toepassing op zorgverzekeraars die zorg afnemen van</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>instellingen voor medisch specialistische zorg (met uitzondering van sanatoria en abortusklinieken);</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>audiologische centra;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>centra voor erfelijkheidsadvisering;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>zorgaanbieders die geneeskundige zorg leveren zoals medisch specialisten die bieden.</al>
+            </li>
+          </lijst>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Doel van de regeling</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Deze regeling stelt voorschriften ten aanzien van de verstrekking van gegevens aan de NZa over de contractafspraken die tussen zorgverzekeraars en zorgaanbieders zijn afgesloten. De op deze manier ontvangen gegevens worden gebruikt ten behoeve van de marktonderzoekstaken van de NZa.</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <tekst status="goed">
+          <al>In deze regeling wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>3.1</li.nr>
+              <al>De wet: de <extref status="actief" doc="1.0:v:BWBR0020078" compleet="nee">Wet marktordening gezondheidszorg</extref> (Wmg)</al>
+            </li>
+            <li>
+              <li.nr>3.2</li.nr>
+              <al>Zorgaanbieder: zorgaanbieder als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=1" compleet="nee">artikel 1 sub c van de Wmg</extref>.</al>
+            </li>
+            <li>
+              <li.nr>3.3</li.nr>
+              <al>Zorgverzekeraar: zorgverzekeraar als bedoeld in de <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=1" compleet="nee">artikel 1 sub d van de Wmg</extref>.</al>
+            </li>
+            <li>
+              <li.nr>3.4</li.nr>
+              <al>Prestatie: een prestatie als genoemd in <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=1" compleet="nee">artikel 1 sub j van de Wmg</extref>.</al>
+            </li>
+            <li>
+              <li.nr>3.5</li.nr>
+              <al>DBC-zorgproduct: Een DBC-zorgproduct is een declarabele prestatie die is afgeleid uit subtrajecten en zorgactiviteiten via door de NZa vastgestelde beslisbomen.</al>
+            </li>
+            <li>
+              <li.nr>3.6</li.nr>
+              <al>DBC-declaratiecode: 6-cijferige code waarmee een relatie wordt gelegd tussen het zorgproduct en het gereguleerde tarief of de afgesproken prijs van het DBC-zorgproduct. In het A-segment wordt aan elk DBC-zorgproduct een DBCdeclaratiecode uit de NZa-tariefgroep 14 (verzekerde zorg) en/of 16 (niet verzekerde zorg) gekoppeld. Aan elk individueel DBCzorgproduct in het B-segment wordt een DBC-declaratiecode uit de NZa-tariefgroep 15 (verzekerde zorg) en/of 17 (niet verzekerde zorg) gekoppeld.</al>
+            </li>
+            <li>
+              <li.nr>3.7</li.nr>
+              <al>Overige zorgproducten: De prestaties binnen de medisch specialistisch zorg, niet zijnde DBC-zorgproducten. Overige zorgproducten bestaan uit een vijftal soorten prestaties, te weten:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1)</li.nr>
+                  <al>add-ons, </al>
+                </li>
+                <li>
+                  <li.nr>2)</li.nr>
+                  <al>ondersteunende producten, </al>
+                </li>
+                <li>
+                  <li.nr>3)</li.nr>
+                  <al>overige producten,</al>
+                </li>
+                <li>
+                  <li.nr>4)</li.nr>
+                  <al>overige trajecten en </al>
+                </li>
+                <li>
+                  <li.nr>5)</li.nr>
+                  <al>overige verrichtingen.</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>3.8</li.nr>
+              <al>Gereguleerd segment<noot id="n1e11610114" type="voet">
+                  <noot.nr>1</noot.nr>
+                  <noot.al> Dit segment wordt ook wel het A-segment genoemd.</noot.al>
+                </noot>: Over de DBC-zorgproducten in het gereguleerde segment kunnen zorgverzekeraars en zorgaanbieders vrij onderhandelen over het kostendeel en het honorariumdeel van het tarief tot een door de NZa vastgesteld maximum.</al>
+            </li>
+            <li>
+              <li.nr>3.9</li.nr>
+              <al>DBC-zorgproducten vrij segment<noot id="n2e11610114" type="voet">
+                  <noot.nr>2</noot.nr>
+                  <noot.al> Dit segment wordt ook wel het B-segment genoemd.</noot.al>
+                </noot>: Over de DBC-zorgproducten die vallen onder het vrije segment kunnen zorgverzekeraars en zorgaanbieders vrij onderhandelen over de prijs (en kwaliteit en volume) van zorg. Deze DBC-zorgproducten voldoen aan de criteria die de NZa gesteld heeft en de NZa stelt voor het kostendeel geen tarief vast, voor het honorariumdeel geldt een maximumtarief.</al>
+            </li>
+            <li>
+              <li.nr>3.10</li.nr>
+              <al>Prijs: het bedrag welke door de zorgaanbieder voor een geleverde prestatie in rekening wordt gebracht, uitgesplitst in een kostendeel en een honorariumdeel.</al>
+            </li>
+          </lijst>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Prijsinformatie voortvloeiend uit contractafspraken</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Een zorgverzekeraar die &#xE9;&#xE9;n of meerdere prestaties (zijnde DBC-zorgproducten in het A- of B-segment of overige zorgproducten) heeft gecontracteerd bij &#xE9;&#xE9;n of meerdere zorgaanbieders, levert voor het eind van de maand de prijsinformatie uit deze contractafspraken aan de NZa.</al>
+          <al>De prijsinformatie omvat:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de zorgverlenercode;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de DBC- of overige zorgproductcode;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de contractprijs, gesplitst in een kostendeel en het totaal van de honoraria van de specialismen, weergegeven in eurocenten;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>begin- en einddatum van de prijsafspraak;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>begin en eindnummer van de (eventuele) staffelafspraak.</al>
+            </li>
+          </lijst>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Wijze van gegevensverstrekking</titel>
+        </kop>
+        <tekst status="goed">
+          <al>De zorgverzekeraar maakt voor de opgave van de gegevens als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031143&amp;circulaire.divisie=4">artikel 4</intref> gebruik van het door de NZa beschikbaar gestelde bestandformaat en bevat &#xE9;&#xE9;n voorloopregel, &#xE9;&#xE9;n sluitregel en daartussen voor elke afgesproken prijs een detailregel met de volgende velden:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de zorgverlenercode;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de DBC- of overige zorgproductcode;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de contractprijs, gesplitst in een kostendeel en het totaal van de honoraria van de specialismen, weergegeven in eurocenten;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>begin- en einddatum van de prijsafspraak;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>begin en eindnummer van de (eventuele) staffelafspraak.</al>
+            </li>
+          </lijst>
+          <al>Het hiervoren bedoelde formaat is opgenomen in de bijlage bij deze regeling en is beschikbaar gesteld op de website van de NZa (www.nza.nl).</al>
+          <al>De opgave van de prijsinformatie wordt verzonden naar het NZa-webportaal.</al>
+          <al>De prijsinformatie die betrekking heeft op jaar (t) dient voor het eind van elke maand van het jaar (t) aangeleverd te zijn aan de NZa. Meerjaren-afspraken dienen voor elke maand waarop deze betrekking hebben aangeleverd te worden.</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Intrekking oude regel(s)</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Gelijktijdig met de inwerkingtreding van deze regeling wordt de regeling &#x2018;<extref status="actief" doc="1.0:v:BWBR0026748" compleet="nee">prijsinformatie voortvloeiend uit contractafspraken</extref>&#x2019;, met kenmerk CI/NR-100.109, ingetrokken.</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Inwerkingtreding en citeerregel</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de regeling ingevolge <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=20" compleet="nee">artikel 20, tweede lid, onderdeel a, van de Wet marktordening gezondheidszorg</extref> wordt geplaatst.</al>
+        </tekst>
+      </circulaire.divisie>
+    </circulaire-tekst>
+    <circulaire-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling kan worden aangehaald als: &#x2018;Regeling prijsinformatie voortvloeiend uit contractafspraken&#x2019;.</al>
+      </slotformulering>
+      <ondertekening>
+        <functie>De Raad van Bestuur van de Nederlandse Zorgautoriteit,</functie>
+        <naam>
+          <voornaam>T.W.</voornaam>
+          <achternaam>Langejan,</achternaam>
+        </naam>
+        <functie>Voorzitter.</functie>
+      </ondertekening>
+    </circulaire-sluiting>
+  </circulaire>
+</wetgeving>
+  	

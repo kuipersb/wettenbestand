@@ -1,0 +1,1583 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0027605" dtdversie="2.0" id="434529" soort="zbo">
+  
+  <intitule>Regeling archiefbeheer Kadaster</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>Het bestuur van de Dienst voor het
+kadaster en de openbare registers,
+</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0007748&amp;artikel=14" compleet="nee">artikel 14 van het
+Archiefbesluit 1995</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <hoofdstuk><kop><label>Hoofdstuk</label><nr status="officieel">1</nr><titel status="officieel">Algemene bepalingen</titel></kop><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <al>In
+deze regeling wordt verstaan
+onder:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+          <li>
+            <li.nr>a.</li.nr><al>
+              <nadruk type="cur">wet:</nadruk> <extref status="actief" doc="1.0:v:BWBR0007376" compleet="nee">Archiefwet 1995</extref>; </al>
+          </li>
+          
+          <li>
+            <li.nr>b.</li.nr><al>
+              <nadruk type="cur">de Dienst:</nadruk> de Dienst voor het
+kadaster en de openbare registers,
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0006463&amp;artikel=2" compleet="nee">artikel 2 van de
+Organisatiewet Kadaster</extref>;</al>
+          </li>
+          
+        
+          <li>
+            <li.nr>c.</li.nr><al>
+              <nadruk type="cur">archief:</nadruk> geheel van archiefbescheiden,
+ontvangen of opgemaakt door
+de Dienst en naar hun aard bestemd
+daaronder te berusten;
+</al>
+          </li>
+          
+          <li>
+            <li.nr>d.</li.nr><al>
+              <nadruk type="cur">archiefbeheer:</nadruk> feitelijke werkzaamheden
+te verrichten om de archiefbescheiden
+in goede, geordende en toegankelijke
+staat te brengen en te
+bewaren;</al>
+          </li>
+          
+          <li>
+            <li.nr>e.</li.nr><al>
+              <nadruk type="cur">archiefbescheiden:</nadruk>archiefbescheiden
+als bedoeld in <extref status="actief" doc="1.0:v:BWBR0007376&amp;artikel=1" compleet="nee">artikel 1 van de wet</extref> en
+nader gespecificeerd in het documentair
+structuurplan, bedoeld in <intref status="actief" doc="1.0:v:BWBR0027605&amp;artikel=3">artikel
+3, derde lid</intref>; </al>
+          </li>
+          
+          <li>
+            <li.nr>f.</li.nr><al>
+              <nadruk type="cur">archiefbewaarplaats:</nadruk> bij of krachtens
+<extref status="actief" doc="1.0:v:BWBR0007376" compleet="nee">de wet</extref> voor blijvende bewaring
+van archiefbescheiden aangewezen
+bewaarplaats;</al>
+          </li>
+          
+          <li>
+            <li.nr>g.</li.nr><al>
+              <nadruk type="cur">archiefruimte:</nadruk> ruimte bestemd of
+aangewezen voor de bewaring van
+niet voor vernietiging in aanmerking
+komende archiefbescheiden in
+afwachting van hun overbrenging
+naar een archiefbewaarplaats;</al>
+          </li>
+          
+          <li>
+            <li.nr>h.</li.nr><al>
+              <nadruk type="cur">beheerder:</nadruk> directeur of hoofd van
+een organisatieonderdeel dan wel
+domeineigenaar;</al>
+          </li>
+          
+          <li>
+            <li.nr>i.</li.nr><al>
+              <nadruk type="cur">besturingsprogrammatuur:</nadruk> programmatuur
+bestemd voor de besturing
+van een informatiesysteem;</al>
+          </li>
+          
+          <li>
+            <li.nr>j.</li.nr><al>
+              <nadruk type="cur">conversie:</nadruk> om- of overzetten van
+gegevens in een ander opslagformaat
+als bedoeld in <extref status="actief" doc="1.0:v:BWBR0013439&amp;artikel=1" compleet="nee">artikel 1, eerste lid,
+onderdeel k, van de Regeling geordende
+en toegankelijke staat archiefbescheiden</extref>;</al>
+          </li>
+          
+          <li>
+            <li.nr>k.</li.nr><al>
+              <nadruk type="cur">digitale archiefbescheiden:</nadruk> archiefbescheiden op optische, elektromagnetische
+of elektronische informatiedragers
+die uitsluitend geraadpleegd
+kunnen worden met behulp van
+besturings- of toepassingsprogrammatuur;</al>
+          </li>
+          
+          <li>
+            <li.nr>l.</li.nr><al>
+              <nadruk type="cur">documentatie: </nadruk> documentatie die
+door zijn nauwe verbondenheid met
+het archiefstuk, onderdeel is van
+archiefbescheiden;</al>
+          </li>
+          
+          <li>
+            <li.nr>m.</li.nr><al>
+              <nadruk type="cur">domeineigenaar:</nadruk> persoon die verantwoordelijk
+is voor een werkproces; </al>
+          </li>
+          
+          <li>
+            <li.nr>n.</li.nr><al>
+              <nadruk type="cur">dynamisch archiefbeheer:</nadruk> beheer
+van de archiefbescheiden die nog in
+de fase van bewerking dan wel in de
+fase van frequent administratief
+gebruik verkeren, tot welke laatstgenoemde
+fase in elk geval behoren
+ontvangst, registratie, voortgangs- en
+afdoeningsbewaking, bijhouden van
+de verblijfplaats, selectie en vernietiging
+van archiefbescheiden, overdracht
+ervan aan het semi-statisch
+archief, dossierbeheer en informatievoorziening; </al>
+          </li>
+          
+          <li>
+            <li.nr>o.</li.nr><al>
+              <nadruk type="cur">functionaris FB:</nadruk> hoofd van de
+afdeling Informatievoorziening,
+Multimedia en Grafische Technieken
+van de eenheid Facilitair Bedrijf van
+de concernstaf van de Dienst;
+</al>
+          </li>
+          
+          <li>
+            <li.nr>p.</li.nr><al>
+              <nadruk type="cur"> informatiesysteem:</nadruk> systeem van
+documentatie, procedures, apparatuur
+en programmatuur, met behulp waarvan
+archiefbescheiden kunnen worden
+vervaardigd, bewerkt, verzonden, ontvangen
+en geraadpleegd;
+</al>
+          </li>
+          
+          <li>
+            <li.nr>q.</li.nr><al>
+              <nadruk type="cur">migratie:</nadruk> overzetten van gegevens
+en toepassingsprogrammatuur naar
+een ander platform als bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0013439&amp;artikel=1" compleet="nee">artikel 1, eerste lid, onderdeel l, van
+de Regeling geordende en toegankelijke
+staat archiefbescheiden</extref>;</al>
+          </li>
+          
+          <li>
+            <li.nr>r.</li.nr><al>
+              <nadruk type="cur">organisatieonderdeel:</nadruk> eenheid van
+de Dienst als bedoeld in artikel 1 van
+het Reglement inrichting organisatie
+Kadaster 1998, daaronder begrepen
+het Bureau Raad van bestuur,
+genoemd in onderdeel a, onder 1o,
+van dat artikel;
+</al>
+          </li>
+          
+          <li>
+            <li.nr>s.</li.nr><al>
+              <nadruk type="cur">raadpleging:</nadruk> beschikbaarstelling
+van archiefbescheiden voor inzage;</al>
+          </li>
+          
+          <li>
+            <li.nr>t.</li.nr><al>
+              <nadruk type="cur">selectielijst:</nadruk> document waarin voor
+de Dienst is omschreven welke
+archiefbescheiden voor blijvende
+bewaring of vernietiging in aanmerking
+komen;
+</al>
+          </li>
+          
+          <li>
+            <li.nr>u.</li.nr><al>
+              <nadruk type="cur">semi-statisch archiefbeheer:</nadruk>  beheer
+van de archiefbescheiden die in een
+fase verkeren waarin het administratief
+gebruik afneemt, waarbij meestal
+fysieke verplaatsing ervan naar een
+archiefruimte heeft plaatsgevonden;</al>
+          </li>
+          
+          <li>
+            <li.nr>v.</li.nr><al>
+              <nadruk type="cur"> terbeschikkingstelling:</nadruk> in tijdelijk
+gebruik geven van archiefbescheiden
+aan een ander organisatieonderdeel;</al>
+          </li>
+          
+          <li>
+            <li.nr>w.</li.nr><al>
+              <nadruk type="cur"> toepassingsprogrammatuur:</nadruk> programmatuur
+bestemd voor de ondersteuning
+van de uitvoering van een
+werkproces;
+</al>
+          </li>
+          
+          <li>
+            <li.nr>x.</li.nr><al>
+              <nadruk type="cur">uitlening:</nadruk> tijdelijk in gebruik geven
+van archiefbescheiden aan medeoverheden; </al>
+          </li>
+          
+          <li>
+            <li.nr>y.</li.nr><al>
+              <nadruk type="cur">vervanging:</nadruk> vervangen van archiefbescheiden
+door reproducties, waarna
+de vervangen bescheiden worden vernietigd;
+</al>
+          </li>
+          
+          <li>
+            <li.nr>z.</li.nr><al>
+              <nadruk type="cur">vervreemding:</nadruk> overdracht van de
+zorgplicht aan een andere organisatie;
+</al>
+          </li>
+          
+          <li>
+            <li.nr>aa.</li.nr><al>
+              <nadruk type="cur">werkproces:</nadruk> uitvoering van de
+taak of handeling uit hoofde waarvan
+archiefbescheiden door de Dienst
+worden ontvangen of opgemaakt als
+naar hun aard bestemd om onder de
+Dienst te berusten.</al>
+          </li>
+          </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Reikwijdte van de regeling</titel>
+        </kop>
+        <al>Deze regeling is van toepassing op
+archiefbescheiden van de Dienst,
+onverminderd hetgeen bij of krachtens
+de <extref status="actief" doc="1.0:v:BWBR0004541" compleet="nee">Kadasterwet</extref> of een andere
+wet is bepaald ten aanzien van in
+deze regeling geregelde onderwerpen.</al>
+        
+      </artikel></hoofdstuk><hoofdstuk><kop><label>Hoofdstuk</label><nr status="officieel">2</nr><titel status="officieel">Taken van het bestuur
+van de Dienst, de functionaris FB en
+de beheerder</titel></kop><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Taken van het bestuur van
+de Dienst</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Het bestuur van de Dienst, dat op
+grond van <extref status="actief" doc="1.0:v:BWBR0007376&amp;artikel=41" compleet="nee">artikel 41, eerste lid, onder
+a, van de wet</extref> zorgdrager voor de
+archiefbescheiden van de Dienst is, is
+binnen de Dienst eindverantwoordelijk
+voor de zorg voor de archiefbescheiden.</al>
+          </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Het bestuur van de Dienst draagt
+zorg voor:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>het inrichten en instandhouden van
+voldoende en doelmatige archiefruimten
+die voldoen aan de wettelijke vereisten;</al>
+              </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>b. voldoende deskundig personeel
+voor de werkzaamheden verbonden
+aan het beheer van de archiefbescheiden;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>het op zodanige wijze plaatsvinden
+van de vervaardiging en de bewaring
+van de archiefbescheiden, dat het
+behoud van deze archiefbescheiden
+voldoende is gewaarborgd,</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>het voldoen van de archiefruimten
+van de Dienst, het onderhoud alsmede
+eventuele verbouwingen hiervan
+aan de eisen die de <extref status="actief" doc="1.0:v:BWBR0012803" compleet="nee">Regeling bouw en
+inrichting archiefruimten en archiefbewaarplaatsen</extref>
+daaraan stelt.</al>
+            </li>
+            
+          </lijst></lid>
+      <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Het bestuur van de Dienst stelt een
+documentair structuurplan als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0013439&amp;artikel=1" compleet="nee">artikel 1, eerste lid, onderdeel
+g, van de Regeling geordende en
+toegankelijke staat archiefbescheiden</extref>
+vast, waarin in een schema worden
+vastgelegd de archieforganisatie, de
+indeling van het archief en de manier
+waarop de bestanddelen daarbinnen
+dienen te worden gerangschikt.</al>
+        </lid></artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Taken van de functionaris
+FB</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Onverminderd de overige in deze
+regeling genoemde taken van de functionaris
+FB, is de functionaris FB
+belast met:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de voorbereiding van het beleid
+voor het archiefbeheer;</al>
+              </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>het voeren van overleg met de
+beheerders over de gang van zaken
+rondom het archiefbeheer;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>het voorzien in het bijbrengen van
+benodigde kennis en het geven van
+instructies aan de beheerders;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>het adviseren en ondersteunen van
+de organisatieonderdelen omtrent het
+archiefbeheer;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>het professionaliseren van medewerkers
+met archieftaken;</al>
+            </li>
+          <li>
+              <li.nr>f.</li.nr>
+              <al>het opstellen en onderhouden van
+een documentair structuurplan,
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0027605&amp;artikel=3">artikel 3, derde lid</intref>, en</al>
+            </li>
+          <li>
+              <li.nr>g.</li.nr>
+              <al>het uitvoeren van audits en inspecties
+als bedoeld in <intref status="actief" doc="1.0:v:BWBR0027605&amp;artikel=20">artikel 20</intref>.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De functionaris FB draagt er zorg
+voor dat een leverancier van in de
+<extref status="actief" doc="1.0:v:BWBR0012804&amp;artikel=3" compleet="nee">artikelen 3 tot en met 7 van de
+Regeling duurzaamheid archiefbescheiden</extref>
+bedoelde materialen de in
+<extref status="actief" doc="1.0:v:BWBR0012804&amp;artikel=2" compleet="nee">artikel 2, tweede lid, van die regeling</extref>
+bedoelde bewijsstukken aan hem doet
+toekomen.</al>
+        </lid>
+      <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De functionaris FB onderhoudt
+contacten en voert overleg met het
+Nationaal Archief, Regionale
+Historische Centra en de
+Rijksarchiefinspectie.</al>
+        </lid></artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Taken van de beheerder</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Onverminderd de overige in deze
+regeling genoemde taken van de
+beheerder, is de beheerder belast met
+het beheer van de archiefbescheiden
+die tot het werkterrein van zijn organisatieonderdeel
+behoren.</al>
+          </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Tot het in het eerste lid bedoelde
+beheer behoort in elk geval:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>het in goede, geordende en toegankelijke
+staat bewaren van de archiefbescheiden;</al>
+              </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>het dynamisch en semi-statisch
+archiefbeheer;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>het bewaken van de duurzaamheid
+van de archiefbescheiden, bedoeld in
+de <extref status="actief" doc="1.0:v:BWBR0012804" compleet="nee">Regeling duurzaamheid archiefbescheiden</extref>;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>de overbrenging van archiefbescheiden
+naar een archiefbewaarplaats,
+tenzij het archiefbescheiden
+betreft waarvoor aan het bestuur van
+de Dienst machtiging is verleend de
+overbrenging op te schorten, en</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>het bij de bouw en inrichting van
+archiefruimten voldoen aan de eisen
+daaromtrent gesteld in de <extref status="actief" doc="1.0:v:BWBR0012803&amp;artikel=2" compleet="nee">artikelen 2
+tot en met 6 van de Regeling bouw
+en inrichting archiefruimten en
+archiefbewaarplaatsen</extref>.</al>
+            </li>
+          </lijst>
+        </lid><lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De beheerder draagt, met inachtneming
+van de beslissingen die het
+bestuur van de Dienst op grond van
+<intref status="actief" doc="1.0:v:BWBR0027605&amp;artikel=8">artikel 8</intref> zo nodig heeft genomen ter
+beveiliging van informatie tegen
+onbevoegde kennisneming, zorg voor
+de geheimhouding van daarvoor in
+aanmerking komende documenten.
+Raadpleging en uitlening van documenten,
+die aan enige bijzondere
+vorm van geheimhouding zijn onderworpen,
+is behoudens toestemming
+van het bestuur van de Dienst slechts
+toegestaan aan die functionarissen die
+ambtelijk zijn belast met de behandeling
+van de desbetreffende aangelegenheid.
+De beheerder bepaalt tenminste
+eenmaal per jaar of verlenging
+van geheimhouding van de betreffende
+documenten noodzakelijk is. Aan
+het verlenen van toestemming als
+bedoeld in de eerste zin kan het
+bestuur van de Dienst voorwaarden
+verbinden.</al>
+        </lid>
+      <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>De beheerder kan aan het bestuur
+van de Dienst voorstellen doen tot
+wijziging van:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de selectielijst,</al>
+              </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>deze regeling</al>
+            </li>
+            </lijst>
+        </lid><lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>De beheerder draagt er zorg voor:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>dat ten aanzien van de binnen zijn
+eenheid berustende archiefbescheiden
+de zorg voor de bewaring en de ordening
+ervan plaatsvindt overeenkomstig
+de in <intref status="actief" doc="1.0:v:BWBR0027605&amp;artikel=7">artikel 7, eerste lid</intref>, bedoelde
+richtlijnen;</al>
+              </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>dat het bij het opmaken en bewaren
+van archiefbescheiden die
+bestemd zijn om blijvend te worden
+bewaard, gebruik wordt gemaakt van
+materialen die voldoen aan de bij of
+krachtens de wet voorgeschreven producteisen;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>dat de archiefbescheiden die
+betrekking hebben op personeel, binnen
+zijn organisatieonderdeel gescheiden
+van de andere archiefbescheiden
+worden bewaard en dat zij slechts
+toegankelijk zijn voor medewerkers
+belast met personeelszaken en voor
+functionarissen voor wie dat uit hoofde
+van hun taak of functie noodzakelijk
+is;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>dat bij het bewaren, wijzigen, verwijderen
+of vernietigen van archiefbescheiden
+de bij of krachtens de wet
+gegeven regels betreffende selectie en
+vernietiging worden toegepast.</al>
+            </li>
+            
+          </lijst>
+        </lid></artikel></hoofdstuk><hoofdstuk><kop><label>Hoofdstuk</label><nr status="officieel">3</nr><titel status="officieel">Registratie, ordening,
+bewaring en beveiliging van archiefbescheiden</titel></kop><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Registratie van archiefbescheiden</titel>
+        </kop>
+        <al>Het bestuur van de Dienst stelt een
+procedure vast voor de registratie van
+archiefbescheiden en de bewaking van
+afdoeningstermijnen.</al></artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Ordening en bewaring van
+archiefbescheiden</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Het bestuur van de Dienst stelt
+richtlijnen vast voor de bewaring en
+de ordening van archiefbescheiden
+volgens een doelmatige en doeltreffende
+systematiek. Deze richtlijnen
+waarborgen de toegankelijke staat
+van archiefbescheiden zodanig dat:</al>
+          </lid>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>elk van de archiefbescheiden binnen
+een redelijke termijn kan worden
+gevonden, hetzij aan de hand van een
+onderwerp dat in het stuk is behandeld,
+hetzij aan de hand van het
+werkproces uit hoofde waarvan het
+stuk is ontvangen of opgemaakt, hetzij
+aan de hand van de afzender, dan
+wel de datum en het nummer dat
+door de afzender aan het stuk is
+gegeven, hetzij aan de hand van het
+nummer waaronder het stuk bij het
+ontstaan
+is geregistreerd;</al>
+              </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>elk van de archiefbescheiden binnen
+een redelijke termijn leesbaar of
+waarneembaar te maken is;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de ordening en toegankelijkheid
+van digitale archiefbescheiden zoals
+gerealiseerd door middel van apparatuur,
+besturingsprogrammatuur of
+toepassingsprogrammatuur, maken
+onverbrekelijk deel uit van de archiefbescheiden
+waarop ze betrekking hebben.</al>
+            </li>
+            </lijst>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Het overzicht van blijvend te
+bewaren archiefbestanddelen is ingericht
+volgens het door het bestuur
+van de Dienst vastgestelde documentair
+structuurplan.</al>
+        </lid></artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Beveiliging van archiefbescheiden</titel>
+        </kop>
+        <al>Het bestuur van de Dienst draagt
+zorg voor een adequate informatiebeveiliging,
+welke mede omvat de nodige
+procedurele en technische voorzieningen
+voor het tegengaan van
+wijziging, verwijdering, kopi&#xEB;ring of
+vernietiging van archiefbescheiden die
+daarvoor, gezien hun aard en status,
+niet in aanmerking komen.</al></artikel></hoofdstuk><hoofdstuk><kop><label>Hoofdstuk</label><nr status="officieel">4</nr><titel status="officieel">Raadpleging, terbeschikkingstelling,
+uitlening, vervreemding,
+vervanging, selectie en vernietiging van
+archiefbescheiden; overdracht van
+archiefbescheiden aan een ander organisatieonderdeel;
+overbrenging van
+archiefbescheiden naar een archiefbewaarplaats;
+digitale archiefbescheiden</titel></kop><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">9</nr>
+          <titel status="officieel">Raadpleging en terbeschikkingstelling
+van archiefbescheiden binnen
+de Dienst; overdracht van archiefbescheiden
+aan een ander
+organisatieonderdeel</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al> Raadpleging en terbeschikkingstelling
+binnen een organisatieonderdeel
+is uitsluitend toegestaan aan medewerkers
+die zijn belast met behandeling
+van de desbetreffende aangelegenheid
+en kan door andere
+medewerkers van dat organisatieonderdeel
+slechts plaatsvinden na verkregen
+toestemming van de beheerder.</al>
+          </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De beheerder beslist op een verzoek
+van een ander organisatieonderdeel
+tot raadpleging of terbeschikkingstelling
+van onder zijn beheer
+staande archiefbescheiden. Het nemen
+van de beslissing geschiedt met
+inachtneming van de wettelijke voorschriften
+inzake de bescherming van
+persoonsgegevens en inzake de openbaarheid
+van bestuur, alsmede met
+inachtneming van toepassing zijnde
+regelingen, richtlijnen en aanwijzingen
+van het bestuur van de Dienst.</al>
+        </lid><lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De beheerder houdt bij welke
+archiefbescheiden uit de onder zijn
+beheer staande archiefbescheiden aan
+een ander organisatieonderdeel ter
+beschikking zijn gesteld en oefent
+controle uit op de tijdige terugbezorging
+ervan. Van de terbeschikkingstelling
+wordt een verklaring opgemaakt
+volgens een model dat als
+<intref status="actief" doc="1.0:v:BWBR0027605&amp;bijlage=1">bijlage 1</intref> bij deze regeling is gevoegd.
+</al>
+        </lid>
+      <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Bij het beslissen op een verzoek om
+terbeschikkingstelling gaat de beheerder
+steeds na of het mogelijk is aan
+het verzoek te voldoen door een
+kopie van de gevraagde archiefbescheiden
+te verstrekken. Indien dat
+mogelijk is, verstrekt de beheerder
+een kopie van het desbetreffende
+archiefbescheiden in plaats van het
+origineel.</al>
+        </lid><lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>Bij het verstrekken van een kopie
+is het derde lid niet van toepassing,
+tenzij de beheerder, gelet op de aard
+en inhoud van een archiefbescheiden,
+anders beslist.</al>
+        
+        </lid><lid>
+          <lidnr status="officieel">6</lidnr>
+          <al>Overdracht van archiefbescheiden
+en de verantwoordelijkheid hiervoor
+aan een ander organisatieonderdeel is
+slechts toegestaan:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al> in verband met de overgang van
+personeel van een organisatieonderdeel
+naar een ander organisatieonderdeel;</al>
+              </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>ter uitvoering van een besluit tot
+wijziging van de taak of kring van
+kantoren van de Dienst;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>ingeval een aangelegenheid door
+een ander organisatieonderdeel dient
+te worden behandeld.</al>
+            </li>
+            
+            
+          </lijst></lid><lid>
+          <lidnr status="officieel">7</lidnr>
+          <al>De beheerder van het overdragende
+organisatieonderdeel is, ingeval het
+gaat om overdrachten als bedoeld in
+het zesde lid, onderdelen a en b, verantwoordelijk
+voor het opmaken van
+een verklaring van overdracht van
+archiefbescheiden aan het andere
+organisatieonderdeel. De verklaring
+wordt in tweevoud opgemaakt op
+basis van een model dat als <intref status="actief" doc="1.0:v:BWBR0027605&amp;bijlage=2">bijlage 2</intref>
+bij deze regeling is gevoegd, en door
+de betrokken beheerders ondertekend.
+Een exemplaar van deze verklaring
+wordt blijvend bewaard bij het overdragende
+organisatieonderdeel en het
+andere bij het ontvangende organisatieonderdeel.
+Een overdracht van
+archiefbescheiden als bedoeld in het
+zesde lid, onderdeel c, geschiedt per
+brief.</al>
+        
+        </lid></artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">10</nr>
+          <titel status="officieel">Uitlening van archiefbescheiden
+aan en raadpleging er
+van door derden</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Het bestuur van de Dienst beslist
+over verzoeken tot uitlening aan of
+raadpleging door derden. <intref status="actief" doc="1.0:v:BWBR0027605&amp;artikel=9">Artikel 9,
+tweede lid, tweede zin, en derde lid</intref>, is
+van overeenkomstige toepassing.</al>
+          </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Van de uitlening wordt een verklaring
+in tweevoud opgemaakt, die een
+specificatie van de uitgeleende
+archiefbescheiden bevat. Deze specificatie
+bevat in elk geval een beschrijving
+van de archiefbescheiden en de
+periodes waarin zij zijn ontstaan.
+Tevens wordt in deze verklaring
+bepaald voor welk tijdvak de archiefbescheiden
+worden uitgeleend en
+onder welke voorwaarden, waaronder
+die ten aanzien van de beheerskosten
+voor de uitgeleende archiefbescheiden.
+De verklaring wordt opgesteld
+door de beheerder van het desbetreffende
+organisatieonderdeel op
+basis van een model dat als <intref status="actief" doc="1.0:v:BWBR0027605&amp;bijlage=3">bijlage 3</intref>
+bij deze regeling is gevoegd. Een
+exemplaar van deze verklaring wordt
+blijvend bewaard bij het overdragende
+organisatieonderdeel en het andere
+wordt na ondertekening ter hand
+gesteld aan de betrokken derde.</al>
+        </lid><lid>
+          <lidnr status="officieel">3</lidnr>
+          <al><intref status="actief" doc="1.0:v:BWBR0027605&amp;artikel=9">Artikel 9, vierde lid</intref>, is van overeenkomstige
+toepassing.
+</al>
+        </lid>
+      <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Met uitzondering van de raadplegingen,
+bedoeld in de <extref status="actief" doc="1.0:v:BWBR0004541&amp;artikel=98b" compleet="nee">artikelen 98b</extref>,
+<extref status="actief" doc="1.0:v:BWBR0004541&amp;artikel=99" compleet="nee">99 tot en met 107 van de
+Kadasterwet</extref>, wordt, ingeval een verzoek
+tot raadpleging als bedoeld in
+het eerste lid wordt toegewezen, daarvan
+een verklaring in tweevoud opgemaakt,
+die een specificatie bevat van
+de te raadplegen archiefbescheiden en
+de aan de raadpleging gestelde voorwaarden.
+De verklaring wordt opgesteld
+door de beheerder op basis van
+een model dat als <intref status="actief" doc="1.0:v:BWBR0027605&amp;bijlage=4">bijlage 4</intref> bij deze
+regeling is gevoegd. Een exemplaar
+van deze verklaring wordt blijvend
+bewaard bij het overdragende organisatieonderdeel
+en het andere wordt na
+ondertekening ter hand gesteld aan
+de betrokken derde.</al>
+        
+        </lid></artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">11</nr>
+          <titel status="officieel">Vervreemding</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Het bestuur van de Dienst beslist,
+op grond van een gezamenlijk advies
+van de functionaris FB en de desbetreffende
+beheerder, over vervreemding.</al>
+          </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Van een vervreemding wordt door
+de desbetreffende beheerder een verklaring
+opgemaakt, die een specificatie
+van de vervreemde archiefbescheiden bevat en aangeeft op grond van
+welk wettelijk voorschrift dan wel
+machtiging als bedoeld in het derde
+lid de vervreemding is geschied.
+Tevens wordt in de verklaring aangegeven
+op welke wijze de vervreemding
+heeft plaatsgevonden. De verklaring
+wordt ondertekend door het bestuur
+van de Dienst. Verklaringen van vervreemding
+worden blijvend bewaard
+door de eenheid Facilitair Bedrijf van
+de concernstaf van de Dienst.</al>
+        
+        </lid><lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Voor vervreemding is een machtiging
+vereist van de Minister van
+Onderwijs, Cultuur en Wetenschap,
+tenzij de vervreemding plaatsvindt ter
+uitvoering van een wetsbepaling.</al>
+        </lid>
+      </artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">12</nr>
+          <titel status="officieel">Vervanging</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Het bestuur van de Dienst neemt
+de besluiten tot vervanging.</al>
+          </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Het bestuur draagt zorg dat de
+vervanging alleen plaatsvindt, indien
+de vervanging gebeurt met juiste en
+volledige weergave van de in de te
+vervangen archiefbescheiden voorkomende
+gegevens.</al>
+        
+        </lid><lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Ten aanzien van blijvend te bewaren
+archiefbescheiden kan alleen tot
+vervanging worden overgegaan na
+verkregen machtiging van de Minister
+van Onderwijs, Cultuur en
+Wetenschap.
+</al>
+        </lid>
+      <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>De vervanging geschiedt onder
+regie van de beheerder van het desbetreffende
+organisatieonderdeel.</al>
+        
+        </lid><lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>Van de vervanging wordt een verklaring
+opgesteld die wordt ondertekend
+door het bestuur van de Dienst.
+De verklaring bevat een specificatie
+van de te vervangen archiefbescheiden,
+geeft aan de redenen van de vervanging
+en geeft aan op welke wijze
+de vervanging heeft plaatsgevonden.
+De verklaring wordt gepubliceerd in
+de Staatscourant en in afschrift toegezonden
+aan de beheerders.</al>
+        
+        </lid></artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">13</nr>
+          <titel status="officieel">Selectie en vernietiging</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De functionaris FB is belast met
+het ontwerpen en onderhouden van
+selectielijsten, het voorleggen ervan
+aan het bestuur van de Dienst en het
+ter vaststelling aanbieden aan de
+Minister van Onderwijs, Cultuur en
+Wetenschap. Bij het ontwerpen en
+onderhouden van selectielijsten worden
+ten minste de selectiecriteria,
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0007748&amp;artikel=2" compleet="nee">artikel 2, eerste lid, van
+het Archiefbesluit 1995</extref> gehanteerd
+voor te vernietigen respectievelijk te
+bewaren archiefbescheiden. Ten aanzien
+van de in een selectielijst op te
+nemen bepalingen omtrent de bewaring
+en vernietiging van archiefbescheiden
+die persoonsgegevens bevatten,
+wordt tevens steeds betrokken de
+bij of krachtens de Wet bescherming
+persoonsgegevens gegeven bepalingen
+omtrent de bewaring en vernietiging
+van die archiefbescheiden.</al>
+          </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De functionaris FB betrekt bij het
+ontwerpen en onderhouden van een
+selectielijst de medewerker deskundig
+en werkzaam op beleidsterreinen ten
+aanzien waarvan de selectielijst of
+onderdelen ervan wordt ontworpen of
+onderhouden.</al>
+        
+        </lid><lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Een keer per jaar vindt er onderhoud
+van de selectielijsten plaats.
+Onderhoud van de selectielijst vindt
+tevens plaats in geval van een ingrijpende
+reorganisatie, daaronder begrepen
+de opheffing van een organisatieonderdeel,
+alsmede in geval van
+privatisering of gehele of gedeeltelijke
+be&#xEB;indiging van de verzelfstandiging
+van de Dienst.</al>
+        </lid>
+      <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al> Bij de overgang van een archiefbescheiden
+van het dynamische naar het
+semi-statische beheer wordt de vernietigingstermijn
+aangegeven op het desbetreffende
+archiefbescheiden.
+</al>
+        
+        </lid><lid>
+          <lidnr status="officieel">5</lidnr>
+          <al> De beheerder is belast met de uitvoering
+van de selectielijst, het (laten)
+uitvoeren van de vernietiging van
+archiefbescheiden en het opstellen van
+een verklaring van vernietiging.
+</al>
+        
+        </lid><lid>
+          <lidnr status="officieel">6</lidnr>
+          <al> De vernietiging van daarvoor in
+aanmerking komende archiefbescheiden
+vindt ten minste eenmaal per jaar
+plaats.</al>
+          </lid>
+        <lid>
+          <lidnr status="officieel">7</lidnr>
+          <al>
+Van de vernietiging wordt een verklaring
+opgemaakt waarin duidelijk
+wordt aangegeven welke archiefbescheiden
+zijn vernietigd en op grond
+van welke bepalingen van de selectielijst
+de vernietiging heeft plaatsgevonden.
+De verklaring wordt ondertekend
+door de desbetreffende
+beheerder. De verklaring wordt blijvend
+bewaard door het desbetreffende
+organisatieonderdeel.
+</al>
+        
+        </lid><lid>
+          <lidnr status="officieel">8</lidnr>
+          <al>De te vernietigen archiefbescheiden
+worden aangeboden aan een daartoe
+gecertificeerd bedrijf dat garant dient
+te staan voor een juiste vernietiging
+van de archiefbescheiden.
+</al>
+        </lid>
+      <lid>
+          <lidnr status="officieel">9</lidnr>
+          <al> De functionaris FB is belast met de
+controle op de uitvoering van selectielijsten
+en ziet er op toe dat selectie en
+vernietiging van archiefbescheiden
+met inachtneming van de geldende
+selectielijst geschiedt.</al>
+        
+        </lid></artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">14</nr>
+          <titel status="officieel">Overdracht van archiefbescheiden
+aan het semi-statisch archief
+</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al> De beheerder draagt archiefbescheiden
+&#xE9;&#xE9;n jaar na be&#xEB;indiging van
+het dynamische beheer over aan de
+beheerder van het semi-statisch
+archief.
+</al>
+          </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al> Bij de overdracht van archiefbescheiden,
+bedoeld in het eerste lid,
+wordt de daarvoor door het bestuur
+van de Dienst vastgestelde procedure
+gevolgd. Van de overdracht wordt
+een verklaring opgesteld die blijvend
+bewaard wordt door de beheerder
+van het desbetreffende organisatieonderdeel.</al>
+        </lid></artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">15</nr>
+          <titel status="officieel">Overbrenging van archiefbescheiden
+naar een archiefbewaarplaats
+</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al> De beheerder is belast met het
+overbrengen van de daarvoor in aanmerking
+komende archiefbescheiden
+naar een archiefbewaarplaats.
+</al>
+          </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al> De beheerder draagt er zorg voor
+dat de over te brengen archiefbescheiden
+voldoen aan de in de <extref status="actief" doc="1.0:v:BWBR0013439" compleet="nee">Regeling
+geordende en toegankelijke staat
+archiefbescheiden</extref> genoemde dan wel
+bedoelde normen voor het in goede,
+geordende en toegankelijke staat
+brengen en bewaren van archiefbescheiden.
+</al>
+        </lid><lid>
+          <lidnr status="officieel">3</lidnr>
+          <al> Van de overbrenging wordt in
+tweevoud een verklaring opgemaakt
+die ten minste een specificatie van de
+overgebrachte archiefbescheiden
+bevat. De verklaring van overbrenging
+wordt ondertekend door de
+beheerder en door de directeur van de
+desbetreffende archiefbewaarplaats.
+Van deze verklaring wordt een exemplaar
+blijvend bewaard door het desbetreffende
+organisatieonderdeel en
+het andere exemplaar wordt ter hand
+gesteld aan de directeur van de desbetreffende
+bewaarplaats.
+</al>
+        </lid>
+      <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al> De overbrenging vindt plaats in
+perioden, maar in principe niet later
+dan tien jaar nadat de archiefbescheiden
+twintig jaar zijn afgesloten, tenzij
+de Dienst machtiging is verleend tot
+opschorting van de overbrenging.
+</al>
+        </lid><lid>
+          <lidnr status="officieel">5</lidnr>
+          <al> De daarvoor in aanmerking
+komende archiefbescheiden kunnen in
+overleg met de functionaris FB, en de
+beheerder van een archiefbewaarplaats,
+vervroegd worden overgebracht
+naar een archiefbewaarplaats.
+</al>
+        </lid><lid>
+          <lidnr status="officieel">6</lidnr>
+          <al> Bij overbrenging van archiefbescheiden,
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0007376&amp;artikel=12" compleet="nee">artikel 12 van de
+wet</extref> wordt, ingeval het in een informatiesysteem
+opgenomen archiefbe-
+Uit: Staatscourant 6 mei 2004, nr. 86 / pag. 13 4
+scheiden betreft, het informatiesysteem,
+voorzover onmisbaar voor
+raadpleging, overgebracht. Hierbij
+behoren ook de gegevens die noodzakelijk
+zijn om het systeem te kunnen
+beheren.
+</al>
+          </lid>
+        <lid>
+          <lidnr status="officieel">7</lidnr>
+          <al> Ter voorbereiding op de overbrenging
+gaat de beheerder van het desbetreffende
+organisatieonderdeel bij de
+WOB-functionaris van de Dienst na
+of uit enig wettelijk voorschrift beperkingen
+met betrekking tot de openbaarheid
+voortvloeien.
+</al>
+        </lid><lid>
+          <lidnr status="officieel">8</lidnr>
+          <al> Bij toepassing van bij of krachtens
+de wet gegeven bepalingen en van het
+eerste tot en met zevende lid geldt dat
+bescheiden die nog bewerking ondergaan
+of kunnen ondergaan, de termijn
+van twintig jaar eerst aanvangt
+op het tijdstip waarop zij zijn overgebracht
+naar het semi-statisch archief.</al>
+        </lid>
+      </artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">16</nr>
+          <titel status="officieel">Digitale archiefbescheiden</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De in dit artikel opgenomen aanvullende
+bepalingen zijn met betrekking
+tot digitale archiefbescheiden
+van toepassing op zowel blijvend te
+bewaren archiefbescheiden als te vernietigen
+archiefbescheiden, tenzij uit
+de desbetreffende bepaling anders
+voortvloeit,
+</al>
+          </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Het bestuur van de Dienst stelt
+eisen ten aanzien van de beschikbaarheid,
+exclusiviteit en integriteit van de
+besturingsprogrammatuur, de toepassingsprogrammatuur
+en de data van
+die toepassingsapparatuur. Deze eisen
+worden vastgelegd in het Handboek
+Beveiliging Informatie en
+Communicatie Technologie. Het op
+grond van deze afspraken getroffen
+basis ICT-uitwijkniveau waarborgt
+dat bij calamiteiten en systeemstoringen
+nooit meer (archief)gegevens verloren
+kan gaan dan tijdens de laatste
+achtenveertig uren voorafgaand aan
+de calamiteit dan wel systeemstoring
+zijn verwerkt.
+</al>
+        </lid><lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De beheerder zorgt dat bij de ontwikkeling
+en onderhoud van geautomatiseerde
+toepassingen voldoende
+aandacht wordt besteed aan het treffen
+van maatregelen om de toegankelijke
+staat en authenticiteit van digitale
+archiefbescheiden te kunnen
+(blijven) borgen.
+</al>
+        </lid>
+      <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>De beheerder draagt er zorg voor
+dat van geautomatiseerde toepassingen
+met blijvend te bewaren digitale
+archiefbescheiden een registratie (configuratie
+beheer data base) wordt bijgehouden
+waarin de volgende gegevens
+zijn opgenomen:
+
+</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>gegevens over de toepassingsprogrammatuur
+waarmee deze archiefbescheiden
+zijn ontvangen of opgemaakt
+(inclusief het versienummer);
+</al>
+              </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>gegevens over het platform, waarop
+de betreffende toepassingapparatuur
+is ge&#xEF;nstalleerd, waaronder
+begrepen de naam en de versie van de
+besturingsapparatuur en -programmatuur
+en de naam en het type van de
+apparatuur.</al>
+            </li>
+            </lijst>
+        </lid><lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>De directeur van de eenheid
+Information Technology Services van
+de concernstaf van de Dienst, hierna
+in dit artikel te noemen: de directeur
+ITS, informeert de desbetreffende
+beheerder als er een gerede kans
+bestaat dat, als gevolg van wijziging
+van apparatuur, besturingsprogrammatuur
+of toepassingsprogrammatuur
+de toegankelijke staat en authenticiteit
+van digitale archiefbescheiden
+wordt aangetast. Als dit naar het oordeel
+van de beheerder het geval is,
+geeft deze de directeur ITS opdracht
+voor conversie dan wel migratie van
+de betreffende digitale archiefbescheiden.
+De directeur ITS draagt zorg
+voor de noodzakelijke licenties als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0013439&amp;artikel=8" compleet="nee">artikel 8, derde lid van de
+Regeling geordende en toegankelijke
+staat van archiefbescheiden</extref>.
+</al>
+        
+        </lid><lid>
+          <lidnr status="officieel">6</lidnr>
+          <al>De beheerder en de directeur ITS
+maken gezamenlijk van de conversie
+of migratie een verklaring op, die ten
+minste een specificatie van de geconverteerde-
+of gemigreerde digitale
+archiefbescheiden bevat en waarin
+tevens is aangegeven op welke wijze
+en met welk resultaat getoetst is of na
+de conversie of migratie aan de
+gestelde eisen voor de toegankelijke
+staat en authenticiteit van de digitale
+archiefbescheiden is of kan worden
+voldaan. De verklaring, bedoeld in de
+eerste zin wordt opgesteld op basis
+van een model dat als <intref status="actief" doc="1.0:v:BWBR0027605&amp;bijlage=5">bijlage 5</intref> is bijgevoegd
+en wordt blijvend bewaard
+door de eenheid Facilitair Bedrijf van
+de concernstaf van de Dienst.
+</al>
+          </lid>
+        <lid>
+          <lidnr status="officieel">7</lidnr>
+          <al> Indien bij een conversie of migratie
+van blijvend te bewaren digitale
+archiefbescheiden de oorspronkelijke
+geordende en toegankelijke staat niet
+kan worden gegarandeerd, wordt
+voorafgaand aan de conversie of
+migratie een machtiging van de
+Minister van Onderwijs, Cultuur en
+Wetenschap gevraagd.</al>
+        </lid></artikel></hoofdstuk><hoofdstuk><kop><label>Hoofdstuk</label><nr status="officieel">5</nr><titel status="officieel">Overige bepalingen</titel></kop><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">17</nr>
+          <titel status="officieel">Verhuizing
+</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al> De beheerder is, in geval van verhuizing
+van het desbetreffende organisatieonderdeel,
+verantwoordelijk
+voor het verhuizen van het archief.
+</al>
+          </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al> Bij het verhuizen van het archief
+wordt de daarvoor door het bestuur
+van de Dienst vastgestelde procedure
+gevolgd, beschreven in het documentair
+structuurplan, bedoeld in <intref status="actief" doc="1.0:v:BWBR0027605&amp;artikel=3">artikel
+3, derde lid</intref>.</al>
+        
+        </lid></artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">18</nr>
+          <titel status="officieel">Vervoer van archiefbescheiden;
+plaatsing van archiefbescheiden
+bij derden</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al> De beheerder draagt er zorg voor
+dat vervoer van archiefbescheiden
+plaatsvindt met inachtneming van de
+door het bestuur van de Dienst daartoe
+zonodig vastgestelde richtlijnen.
+</al>
+          </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al> De beheerder draagt er zorg voor
+dat, ingeval archiefbescheiden tijdelijk
+bij een derde worden geplaatst, deze
+derde voldoende maatregelen neemt
+en voldoende waarborgen biedt dat
+de bij hem geplaatste archiefbescheiden
+worden bewaard overeenkomstig
+hetgeen daaromtrent is bepaald bij of
+krachtens de <extref status="actief" doc="1.0:v:BWBR0007376" compleet="nee">wet</extref>. De in de eerste zin
+bedoelde verplichtingen van die derde
+worden schriftelijk vastgelegd in een
+overeenkomst.</al>
+        
+        </lid></artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">19</nr>
+          <titel status="officieel">Reorganisatie</titel>
+        </kop>
+        <al>In geval van een reorganisatie is de
+beheerder belast met het afsluiten van
+het archief en het aanvangen van een
+nieuw te vormen archief in de nieuwe
+organisatie.</al></artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">20</nr>
+          <titel status="officieel">Interne audits; onderzoek
+en inspectie door de rijksarchiefinspectie</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>
+1. Het bestuur van de Dienst draagt
+er zorg voor dat bij ieder organisatieonderdeel
+&#xE9;&#xE9;n keer per twee jaar een
+audit op de toereikendheid van het
+archiefbeheer wordt uitgevoerd of
+zoveel vaker als door dat bestuur op
+grond van de controlebevindingen
+noodzakelijk wordt geacht. Het
+bestuur van de Dienst stelt daartoe
+een auditplan vast, dat in concept
+wordt voorbereid door de functionaris
+FB.</al>
+          </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>
+De beheerder verleent alle door de
+functionaris FB nodig geachte medewerking
+aan de uitvoering van de
+audit.
+</al>
+        
+        </lid><lid>
+          <lidnr status="officieel">3</lidnr>
+          <al> Naar aanleiding van een audit
+wordt door de functionaris FB een rapport opgesteld. Dit rapport geeft
+een duidelijk overzicht van de wijze
+waarop de archieftaken worden uitgevoerd,
+signaleert problemen en bevat
+eventueel adviezen.
+</al>
+        </lid>
+      <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al> De functionaris FB stelt naar aanleiding
+van een audit de rapportage
+vast na overleg met betrokken partijen.</al>
+        
+        </lid><lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>
+De functionaris FB stelt eenmaal
+per jaar een totaalrapportage van de
+uitgevoerde audits op voor het
+bestuur van de Dienst.
+</al>
+        
+        </lid><lid>
+          <lidnr status="officieel">6</lidnr>
+          <al> De door het bestuur van de Dienst
+vastgestelde totaalrapportage,
+bedoeld in het vijfde lid, wordt toegezonden
+aan de rijksarchiefinspectie.
+</al>
+        
+        </lid><lid>
+          <lidnr status="officieel">7</lidnr>
+          <al> De beheerder is verplicht om alle
+benodigde medewerking te verlenen
+aan onderzoeken en inspecties, zowel
+vooraf aangekondigde als onaangekondigde,
+van de rijksarchiefinspectie.</al>
+        
+        </lid></artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">21</nr>
+          <titel status="officieel">Calamiteiten; buitengewone
+omstandigheden</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al> Het bestuur van de Dienst stelt een
+calamiteitenplan vast waarin wordt
+aangegeven hoe te handelen in geval
+van calamiteiten zoals brand, instorting,
+wateroverlast of explosie.
+</al>
+          </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al> De functionaris FB draagt, in
+samenspraak met het bestuur van de
+Dienst, er zorg voor dat, ingeval calamiteiten
+dit noodzakelijk maken, de
+desbetreffende archiefbescheiden
+onmiddellijk worden overgebracht
+naar veilige locaties. De functionaris
+FB stelt de rijksarchiefinspectie van
+een zodanige overbrenging onverwijld
+op de hoogte.
+
+</al>
+        </lid><lid>
+          <lidnr status="officieel">3</lidnr>
+          <al> Indien een opgetreden calamiteit
+gevaar heeft opgeleverd voor archiefbescheiden,
+stelt de functionaris FB
+de rijksarchiefinspectie hiervan op de
+hoogte.</al>
+        </lid>
+      <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al> Het bestuur van de Dienst stelt,
+ingeval de Minister-President regels
+als bedoeld in <extref status="actief" doc="1.0:v:BWBR0007376&amp;artikel=9" compleet="nee">artikel 9, tweede lid,
+van de wet</extref> heeft gesteld, ter uitvoering
+van die regels zo nodig een
+instructie vast over de wijze waarop
+en de voorwaarden waaronder in
+geval van oorlog, oorlogsgevaar of
+andere buitengewone omstandigheden,
+noodvernietiging van archiefbescheiden
+plaatsvindt. Deze instructie
+betreft zowel archiefbescheiden die
+voor vernietiging in aanmerking
+komen, als ook archiefbescheiden die
+voor blijvende bewaring in aanmerking
+komen. De functionaris FB stelt
+de rijksarchiefinspectie onverwijld op
+de hoogte van een noodvernietiging.</al>
+        
+        </lid></artikel></hoofdstuk><hoofdstuk><kop><label>Hoofdstuk</label><nr status="officieel">6</nr><titel status="officieel">Invoerings- en slotbepalingen</titel></kop><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">22</nr>
+          <titel status="officieel"/>
+        </kop>
+        <al>Deze regeling kan worden aangehaald
+als: Regeling archiefbeheer Kadaster.</al>
+          </artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">23</nr>
+          <titel status="officieel">Intrekking van bestaande
+regelingen</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al> De Richtlijnen Informatiebeheer
+Kadaster 2000 wordt ingetrokken.</al>
+          </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De Procedure Postontvangst
+Kadaster van januari 1999 wordt
+ingetrokken.</al>
+        
+        </lid><lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De Procedure Postbehandeling
+Kadaster Concernstaf van april
+2001wordt ingetrokken.</al>
+        </lid>
+      </artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">24</nr>
+          <titel status="officieel">Inwerkingtreding</titel>
+        </kop>
+        <al>Deze regeling treedt in werking met
+ingang van de tweede dag na de dagtekening
+van de Staatscourant waarin
+zij wordt geplaatst.</al>
+        
+        
+      </artikel></hoofdstuk>
+      
+      
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling zal met de toelichting
+in de Staatscourant worden geplaatst,
+met uitzondering van de <intref status="actief" doc="1.0:v:BWBR0027605&amp;bijlage=1">bijlagen</intref>, die
+ter inzage worden gelegd. Van deze
+terinzagelegging<noot type="voet"><noot.nr>1</noot.nr><noot.al>Met ingang van de dag waarop deze regeling in
+werking treedt, liggen de bijlagen ter inzage op de
+bibliotheek van de concernstaf van de Dienst voor
+het kadaster en de openbare registers te Apeldoorn.</noot.al></noot> wordt mededeling
+gedaan in de Staatscourant.</al>
+      </slotformulering>
+      <gegeven><dagtekening><plaats>Apeldoorn</plaats><datum isodatum="20040420">20 april 2004</datum></dagtekening></gegeven><ondertekening><organisatie afkorting="OCW">Raad van Bestuur,
+</organisatie>
+        <naam>
+          <voornaam>J.W.J.</voornaam>
+          <achternaam> Besemer</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  <bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">1</nr></kop><al><redactie type="vervanging">Ligt ter inzage bij de Dienst voor
+het kadaster en de openbare registers te Apeldoorn.</redactie></al></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">2</nr></kop><al><redactie type="vervanging">Ligt ter inzage bij de Dienst voor
+het kadaster en de openbare registers te Apeldoorn.</redactie></al></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">3</nr></kop><al><redactie type="vervanging">Ligt ter inzage bij de Dienst voor
+het kadaster en de openbare registers te Apeldoorn.</redactie></al></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">4</nr></kop><al><redactie type="vervanging">Ligt ter inzage bij de Dienst voor
+het kadaster en de openbare registers te Apeldoorn.</redactie></al></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">5</nr></kop><al><redactie type="vervanging">Ligt ter inzage bij de Dienst voor
+het kadaster en de openbare registers te Apeldoorn.</redactie></al></bijlage></regeling>
+</wetgeving>
+  	

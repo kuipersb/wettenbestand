@@ -1,0 +1,1932 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0020671" dtdversie="2.0" id="365279" soort="ministeriele-regeling">
+  
+  <intitule>Regeling model rapportageformulier Besluit glastuinbouw</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,</wie>
+      <considerans>
+        <considerans.al>Handelende in overeenstemming met de Minister van Verkeer en Waterstaat en de Minister van Landbouw, Natuur en Voedselkwaliteit;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0013430&amp;bijlage=1" compleet="nee">bijlage 1, voorschrift 1.1.3, behorende bij het Besluit glastuinbouw</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+        </kop>
+        <al>Als model van het formulier voor de rapportage, bedoeld in <extref status="actief" doc="1.0:v:BWBR0013430&amp;bijlage=1" compleet="nee">voorschrift 1.1.3. in bijlage 1 bij het Besluit glastuinbouw</extref>, wordt vastgesteld het model, opgenomen in de <intref status="actief" doc="1.0:v:BWBR0020671&amp;bijlage=">bijlage</intref> bij deze regeling.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+        </kop>
+        <al>Deze regeling wordt aangeduid als: Regeling model rapportageformulier Besluit glastuinbouw.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+        </kop><al>De <extref status="actief" doc="1.0:v:BWBR0014153" compleet="nee">Regeling vaststelling modellen teeltplan en rapportageformulieren Besluit glastuinbouw</extref> wordt ingetrokken.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+        </kop>
+        <al>Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.</al>
+      </artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling zal in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Den Haag</plaats>
+          <datum isodatum="2006-11-22">22 november 2006</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>De <functie>Staatssecretaris</functie> van <organisatie afkorting="VROM">Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</organisatie>,
+        <naam>
+          <voornaam>P.L.B.A. van</voornaam>
+          <achternaam>Geel</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label>
+      </kop>
+      
+      
+      
+    <divisie opmaak="default">
+            <kop>
+               <titel status="officieel">Formulier
+voor de jaarrapportage als bedoeld in <extref status="actief" doc="1.0:v:BWBR0013430&amp;bijlage=1" compleet="nee">bijlage 1, voorschrift 1.1.3 van
+het Besluit
+glastuinbouw</extref></titel>
+            </kop>
+            <divisie opmaak="default">
+               <kop>
+                  <titel status="officieel">Jaarlijks
+voor 1 mei inleveren, lees voor invullen eerst de
+toelichting</titel>
+               </kop>
+               <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                     <li.nr>1.</li.nr>
+                     <al>Voor welk jaar is de
+rapportage?</al>
+                     <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="1" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="129.5*"/>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                  </li>
+                  <li>
+                     <li.nr>2.</li.nr>
+                     <al>Bedrijfsgegevens:</al>
+                     <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="4" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="26*"/>
+                           <colspec colname="col2" colnum="2" colwidth="37*"/>
+                           <colspec colname="col3" colnum="3" colwidth="29.5*"/>
+                           <colspec colname="col4" colnum="4" colwidth="37*"/>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>UO-nummer</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Postadres</al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Postcode</al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Bedrijfsnaam</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Plaats</al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Contactpersoon</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Telefoon</al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Fax</al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Bedrijfsadres</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Emailadres</al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Postcode</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Plaats</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Gemeente</al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Waterschap</al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Naam
+geaccepteerde
+deskundige</al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                  </li>
+                  <li>
+                        <li.nr>3.</li.nr>
+                        <al>Overige
+bedrijfsgegevens (aankruisen wat van toepassing
+is):</al>
+                        <table colsep="0" frame="all" pgwide="1" rowsep="0" tabstyle="xml1">
+                           <tgroup align="left" char="" charoff="50" cols="1" tgroupstyle="xml1">
+                              <colspec colname="col1" colnum="1" colwidth="129.5*"/>
+                              <tbody valign="top">
+                                 <row rowsep="1">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>&#xA0;<nadruk type="vet">Teeltwijze:</nadruk>
+                                       </al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>&#x25A1;
+Grondteelt</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>&#x25A1;
+Substraatteelt
+                                          <sup>11</sup>
+                                       </al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" rowsep="1" valign="top">
+                                       <al>&#x25A1;
+Grondteelt en
+substraatteelt</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>
+                                          <nadruk type="vet">&#xA0;Bij
+substraatteelt aangeven waarop lozing van spuiwater of drainwater
+plaatsvindt (bij een combinatie van grond- en substraatteelt alleen
+deze invullen)
+:</nadruk>
+                                       </al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>&#x25A1;
+Riolering</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>&#x25A1;
+Oppervlaktewater</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>&#x25A1;
+Lozing op riolering en
+oppervlaktewater</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>&#x25A1;
+Bodem (alleen indien geen drainagestelsel aanwezig
+is)</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" rowsep="1" valign="top">
+                                       <al>&#x25A1;
+Geen lozing op riolering of op
+oppervlaktewater</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>&#xA0;<nadruk type="vet">Bij
+grondteelt aangeven waarop lozing van drainagewater
+plaatsvindt:</nadruk>
+                                       </al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>&#x25A1;
+Riolering</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>&#x25A1;
+Oppervlaktewater</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>&#x25A1;
+Lozing op riolering en
+oppervlaktewater</al>
+                                    </entry>
+                                 </row>
+                                 <row rowsep="0">
+                                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                                       <al>&#x25A1;
+Bodem (alleen indien geen drainagestelsel aanwezig
+is)</al>
+                                    </entry>
+                                 </row>
+                              </tbody>
+                           </tgroup>
+                        </table>
+                     <al><sup>1</sup>De
+teelt van potplanten is een
+substraatteelt.</al></li>
+                  <li>
+                     <li.nr>4.</li.nr>
+                     <al>Gerealiseerd
+energieverbruik over het gehele afgelopen
+registratiejaar:</al>
+                     <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="25*"/>
+                           <colspec colname="col2" colnum="2" colwidth="19.5*"/>
+                           <colspec colname="col3" colnum="3" colwidth="85*"/>
+                           <thead valign="bottom">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Onderdeel</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Eenheid</al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Verbruik</al>
+                                 </entry>
+                              </row>
+                           </thead>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Energie</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>GJ</al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                  </li>
+               </lijst>
+               <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                     <li.nr>5.</li.nr>
+                     <al>Alleen
+voor grondtelers: gerealiseerd verbruik aan stikstof en fosfor over het
+gehele afgelopen
+registratiejaar:</al>
+                     <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="25*"/>
+                           <colspec colname="col2" colnum="2" colwidth="19.5*"/>
+                           <colspec colname="col3" colnum="3" colwidth="85*"/>
+                           <thead valign="bottom">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Onderdeel</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Eenheid</al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Verbruik</al>
+                                 </entry>
+                              </row>
+                           </thead>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>N-gift</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Kg
+N</al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>P-gift</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Kg
+P</al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                  </li>
+                  <li>
+                     <li.nr>6.</li.nr>
+                     <al>Berekende
+bedrijfsnorm verbruik in werkelijke
+eenheden:</al>
+                     <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="25*"/>
+                           <colspec colname="col2" colnum="2" colwidth="19.5*"/>
+                           <colspec colname="col3" colnum="3" colwidth="85*"/>
+                           <thead valign="bottom">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Onderdeel</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Eenheid</al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Bedrijfsnorm
+verbruik</al>
+                                 </entry>
+                              </row>
+                           </thead>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Energie</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>GJ/ha</al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>N-gift</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Kg
+N/ha</al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>P-gift</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Kg
+P/ha</al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                     <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="29.5*"/>
+                           <colspec colname="col2" colnum="2" colwidth="100*"/>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>UO-nummer</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Paraaf</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                  </li>
+                  <li>
+                     <li.nr>7.</li.nr>
+                     <al>Volumes
+en samenstelling van het geloosde spuiwater of drainwater in het geval
+op substraat wordt
+geteeld</al>
+                     <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="6" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="14.5*"/>
+                           <colspec colname="col2" colnum="2" colwidth="23*"/>
+                           <colspec colname="col3" colnum="3" colwidth="23*"/>
+                           <colspec colname="col4" colnum="4" colwidth="23*"/>
+                           <colspec colname="col5" colnum="5" colwidth="23*"/>
+                           <colspec colname="col6" colnum="6" colwidth="23*"/>
+                           <thead valign="bottom">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>UO-Periode</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Hoeveelheid
+geloosd spuiwater of drainwater (in m<sup>3
+</sup>)</al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Datum
+monstername (in
+dag/mnd/jaartal)</al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Gehalte
+aan NH<inf>4</inf> in het spuiwater of drainwater (in
+mmol per
+liter)</al>
+                                 </entry>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Gehalte
+aan NO<inf>3</inf> in het spuiwater of drainwater (in
+mmol per
+liter)</al>
+                                 </entry>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Gehalte
+aan P in het spuiwater of drainwater (in mmol per
+liter)</al>
+                                 </entry>
+                              </row>
+                           </thead>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>1</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>2</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>3</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>4</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>5</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>6</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>7</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>8</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>9</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>10</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>11</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>12</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>13</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                     <al>Opmerking
+1: de hoeveelheid geloosd spuiwater of drainwater moet
+&#xE9;&#xE9;nmaal per 4 weken worden gemeten. Als in een bepaalde
+periode geen spuiwater of drainwater is geloosd, dient u dit ook te
+vermelden door een &#x2018;nul&#x2019; op te nemen.</al>
+                     <al>Opmerking
+2: de samenstelling van het geloosde water op gehalte aan
+NH<inf>4</inf>, NO<inf>3</inf> of P moet &#xE9;&#xE9;nmaal per 13 weken
+worden gemeten. Zorg voor een goede verdeling van deze analyses over
+het jaar. Indien gedurende 13 weken geen spuiwater of drainwater is
+geloosd, is het niet nodig om in deze periode analyses uit te
+voeren.</al>
+                     <al>Opmerking 3: als u helemaal geen spuiwater of
+drainwater op oppervlaktewater en/of de riolering loost (zie onder
+vraag 3), dan hoeft u deze tabel niet in te
+vullen.</al>
+                  </li>
+                  <li>
+                     <li.nr>8.</li.nr>
+                     <al>Volumes en samenstelling van
+het geloosde drainagewater indien sprake is van een
+grondteelt</al>
+                     <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="6" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="14.5*"/>
+                           <colspec colname="col2" colnum="2" colwidth="23*"/>
+                           <colspec colname="col3" colnum="3" colwidth="23*"/>
+                           <colspec colname="col4" colnum="4" colwidth="23*"/>
+                           <colspec colname="col5" colnum="5" colwidth="23*"/>
+                           <colspec colname="col6" colnum="6" colwidth="23*"/>
+                           <thead valign="bottom">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>UO-Periode</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Hoeveelheid
+geloosd drainagewater (in m<sup>3
+</sup>)</al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Datum
+monstername (in
+dag/mnd/jaartal)</al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Gehalte
+aan NH<inf>4</inf> in het drainagewater (in mmol per
+liter)</al>
+                                 </entry>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Gehalte
+aan NO<inf>3</inf> in het drainagewater (in mmol per
+liter)</al>
+                                 </entry>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Gehalte
+aan P in het drainagewater (in mmol per
+liter)</al>
+                                 </entry>
+                              </row>
+                           </thead>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>1</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>2</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>3</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>4</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>5</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>6</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>7</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>8</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>9</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>10</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>11</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>12</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>13</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                     <al>Opmerking
+1: de hoeveelheid geloosd drainagewater moet &#xE9;&#xE9;nmaal per 4
+weken worden gemeten. Als in een bepaalde periode geen drainagewater is
+geloosd, dient u dit ook te vermelden door een &#x2018;nul&#x2019; op
+te nemen.</al>
+                     <al>Opmerking 2: de samenstelling van het geloosde water
+op gehalte aan NH<inf>4</inf>, NO<inf>3</inf> of P moet
+&#xE9;&#xE9;nmaal per 13 weken worden gemeten. Zorg voor een goede
+verdeling van deze analyses over het jaar. Indien er gedurende 13 weken
+geen drainagewater is geloosd, is het niet nodig om in deze periode
+analyses uit te voeren.</al>
+                     <al>Opmerking 3: als u helemaal geen
+drainagewater op oppervlaktewater en/of de riolering loost (zie onder
+vraag 3), dan hoeft u deze tabel niet in te
+vullen.</al>
+                     <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="29.5*"/>
+                           <colspec colname="col2" colnum="2" colwidth="100*"/>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>UO-nummer</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Paraaf</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                  </li>
+                  <li>
+                     <li.nr>9.</li.nr>
+                     <al>Oppervlak
+per periode voor gewas, gewasgroep, of energietoepassing (in
+hectare):</al>
+                     <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="4" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="54.5*"/>
+                           <colspec colname="col2" colnum="2" colwidth="25*"/>
+                           <colspec colname="col3" colnum="3" colwidth="25*"/>
+                           <colspec colname="col4" colnum="4" colwidth="25*"/>
+                           <thead valign="bottom">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Gewasgroep
+(code)</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" nameend="col3" namest="col2" rotate="0" valign="top">
+                                    <al>Periode</al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Oppervlakte</al>
+                                 </entry>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Van
+week<sup>1</sup>
+                                    </al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Tot
+en met
+week<sup>1</sup></al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>(in
+ha)</al>
+                                 </entry>
+                              </row>
+                           </thead>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>
+                                       <nadruk type="cur">Onbeteeld
+(000)</nadruk>
+                                    </al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>
+                                       <nadruk type="cur">Geen
+registratieplicht
+(999)</nadruk>
+                                    </al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                     <al><sup>1</sup> Een
+week in het
+rapportagejaar.</al><table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="4" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="54.5*"/>
+                           <colspec colname="col2" colnum="2" colwidth="25*"/>
+                           <colspec colname="col3" colnum="3" colwidth="25*"/>
+                           <colspec colname="col4" colnum="4" colwidth="25*"/>
+                           <thead valign="bottom">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Energietoepassing
+(code)</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" nameend="col3" namest="col2" rotate="0" valign="top">
+                                    <al>Periode</al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Oppervlakte</al>
+                                 </entry>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Van
+week<sup>1</sup></al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Tot
+en met
+week<sup>1</sup></al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>(in
+ha)</al>
+                                 </entry>
+                              </row>
+                           </thead>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>
+                                       <nadruk type="cur">Dagverlenging
+(199)</nadruk>
+                                    </al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>
+                                       <nadruk type="cur">Grondkoeling
+(198)</nadruk>
+                                    </al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>
+                                       <nadruk type="cur">Assimilatiebelichting
+(197)</nadruk>
+                                    </al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>
+                                       <nadruk type="cur">Overige
+koeling/preparatie
+(196)</nadruk>
+                                    </al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                     <al><sup>1</sup> Een
+week in het
+rapportagejaar.</al><table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="29.5*"/>
+                           <colspec colname="col2" colnum="2" colwidth="100*"/>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>UO-nummer</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Paraaf</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                  </li>
+                  <li>
+                     <li.nr>10.</li.nr>
+                     <al>Opmerkingen:</al>
+                     <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="1" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="129.5*"/>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                  </li>
+                  <li>
+                     <li.nr>11.</li.nr>
+                     <al>Aldus
+naar waarheid
+opgemaakt:</al>
+                     <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="29.5*"/>
+                           <colspec colname="col2" colnum="2" colwidth="100*"/>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Naam</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Datum</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Plaats</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Handtekening</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                  </li>
+                  <li>
+                     <li.nr>12.</li.nr>
+                     <al>Getoetst
+op juistheid en volledigheid door geaccepteerde
+deskundige:</al>
+                     <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="29.5*"/>
+                           <colspec colname="col2" colnum="2" colwidth="100*"/>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Naam</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Plaats</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Datum</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Volledig
+(ja/nee)</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Handtekening</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                     <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="29.5*"/>
+                           <colspec colname="col2" colnum="2" colwidth="100*"/>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>UO-nummer</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                  </li>
+               </lijst>
+            </divisie>
+            <divisie opmaak="default">
+               <kop>
+                  <titel status="officieel">Toelichting
+bij het formulier</titel>
+               </kop>
+               <al>Jaarlijks dienen de
+gegevens op dit formulier voor 1 mei te worden gerapporteerd aan de
+Stichting UO-IMT. Bij voorkeur vindt de rapportage digitaal plaats door
+de geaccepteerde deskundige. Bij uitzondering kan de geaccepteerde
+deskundige de rapportage versturen aan: UO-Datamanagement, Postbus
+18505, 2502 EM Den Haag, servicedesk@uo-glastuinbouw.nl. De website is
+www.uo-glastuinbouw.nl.</al>
+               <al>De bevoegde gezagen (gemeenten,
+waterschappen, en het Ministerie van Landbouw, Natuurbeheer en
+Voedselkwaliteit) hebben de Stichting UO-IMT opgericht met als doel
+alle registratiegegevens op &#xE9;&#xE9;n punt te verzamelen. De
+Stichting UO-IMT zorgt voor de (wettelijk verplichte) rapportage aan
+het bevoegd gezag.</al>
+               <al>De jaarrapportage dient door een
+geaccepteerde deskundige te worden beoordeeld op juistheid en
+volledigheid (bijlage 1, voorschrift 1.1.4 van het Besluit
+glastuinbouw). Een bewijs van de beoordeling, afgegeven door of namens
+degene die de beoordeling heeft uitgevoerd, wordt bij de rapportage
+gevoegd. Als bewijs volstaat een handtekening van de geaccepteerde
+deskundige of het digitaal aanleveren van de jaarrapportage door de
+geaccepteerde deskundige. Een lijst van door het bevoegd gezag
+geaccepteerde deskundigen is te vinden op de website
+www.uo-glastuinbouw.nl.</al>
+               <al>Het Besluit maakt voor de
+rapportageverplichting onderscheid tussen telers op substraat en telers
+in de grond. Grondtelers rapporteren het verbruik van mineralen en
+emissiegegevens en substraattelers rapporteren alleen de
+emissiegegevens (zoals gevraagd onder 7).</al>
+               <al>Alle gegevens die u
+gebruikt voor deze rapportage (meetgegevens, logboek, berekeningen,
+facturen, afleveringsbewijzen, etc) dient u ten minste vijf jaar te
+bewaren. U wordt aangeraden een kopie van dit formulier te bewaren in
+uw eigen administratie.</al>
+               <al>Dit formulier dient ingevuld te worden
+per inrichting. Meestal is dit een locatie waarop een
+glastuinbouwbedrijf is gevestigd. Het kan zijn dat uw bedrijf uit
+meerdere inrichtingen / locaties bestaat. Uw gemeente kan u aangeven
+waar de grens van de inrichting is
+gelegen.</al>
+               <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                     <li.nr>1.</li.nr>
+                     <al>Hier
+geeft u het kalenderjaar aan waarover deze jaarrapportage gaat
+(bijvoorbeeld 2009)</al>
+                  </li>
+                  <li>
+                     <li.nr>2.</li.nr>
+                     <al>Adresgegevens en
+UO-nummer: zodra uw gegevens bekend zijn bij het bevoegd gezag krijgt u
+via de UO-IMT een UO-nummer. Als u nog geen UO-nummer heeft dan kunt u
+dit via de gemeente opvragen.</al>
+                  </li>
+                  <li>
+                     <li.nr>3.</li.nr>
+                     <al>Uw
+teeltwijze bepaalt wat u dient te rapporteren. Zowel substraattelers
+als grondtelers worden verzocht de emissiegegevens te rapporteren. Bij
+een grondteelt moet u daarnaast ook de verbruiksgegevens
+rapporteren.</al>
+                  </li>
+                  <li>
+                     <li.nr>4.</li.nr>
+                     <al>Verbruik energie: om het
+door u gerealiseerde verbruik over het gehele kalenderjaar te berekenen
+telt u bijvoorbeeld de waarden voor de dertien perioden (zoals u
+bijhoudt in uw logboek) bij elkaar op. Het verbruik moet ingevuld
+worden in de aangegeven
+eenheden.</al>
+                  </li>
+                  <li>
+                     <li.nr>5.</li.nr>
+                     <al>Verbruik aan stikstof en
+fosfor voor grondteeltbedrijven: om het door u gerealiseerde verbruik
+over het hele kalenderjaar te berekenen, telt u bijvoorbeeld de waarden
+voor de dertien perioden (zoals u bijhoudt in uw logboek) bij elkaar
+op. Het verbruik moet ingevuld worden in de aangegeven
+eenheden.</al>
+                  </li>
+                  <li>
+                     <li.nr>6.</li.nr>
+                     <al>De bedrijfsjaarnorm dient u
+per milieuveld uit te rekenen in de aangegeven eenheden (Gigajoule per
+hectare voor energie, kilogram N en P per hectare voor meststoffen). U
+moet dus ook zelf per meststof de hoeveelheid N en P
+uitrekenen.</al>
+                     <al>De regels voor de berekeningen kunt u vinden in het
+Besluit glastuinbouw (en dan vooral in bijlage 1), en de toelichtingen
+daarop. Uitleg en enkele voorbeeldberekeningen zijn te vinden in het
+Handboek Milieumaatregelen Glastuinbouw (te vinden op www.glami.nl).
+Bij twijfel is de tekst van het Besluit glastuinbouw altijd bindend.
+Anders: een geaccepteerde deskundige kan voor u de berekeningen
+uitvoeren.</al>
+                  </li>
+                  <li>
+                     <li.nr>7/8.</li.nr>
+                     <al>Hier moet gerapporteerd
+worden wat bedrijven geloosd hebben: spuiwater of drainwater voor de
+substraatteeltbedrijven en drainagewater voor de grondteeltbedrijven.
+In het Besluit glastuinbouw is opgenomen dat &#xE9;&#xE9;nmaal per 4
+weken de geloosde hoeveelheid spuiwater (het niet te gebruiken
+drainwater) op riolering en/of oppervlaktewater moet worden gemeten en
+geregistreerd. Daarnaast dient <nadruk type="vet">minimaal</nadruk> 4
+keer per jaar (1 keer per 13 weken) het gehalte NH<inf>4</inf>,
+NO<inf>3</inf> en P van het spuiwater, drainwater of drainagewater te
+worden gemeten en geregistreerd. Let op dat u deze metingen verspreidt
+over het jaar, oftewel in elk kwartaal een meting uitvoert. Vermeld
+steeds de datum van monstername. Bij substraatteelten volstaat het om
+de analysegegevens van een drain- of matmonster toe te
+sturen.</al>
+                  </li>
+                  <li>
+                     <li.nr>9.</li.nr>
+                     <al>Hier wordt u gevraagd aan te
+geven wat u het afgelopen kalenderjaar heeft geteeld.</al>
+                     <al>Per
+gewas, gewasgroep, en energietoepassing geeft u aan in welke weken u
+dit hebt geteeld en op welk oppervlak (in hectare, met een
+nauwkeurigheid van vier cijfers achter de komma). Als het beteeld
+oppervlak van een gewas in het jaar wijzigt kunt u hiervoor twee of
+meer regels gebruiken. Bijv. Tomaat: van week 1 tot en met 34 op 1,5340
+ha en Tomaat van week 34 tot 48 op 2,5280 ha.</al>
+                     <al>Bij meer dan 3,5
+dagen van een bepaalde teelt wordt dit afgerond naar &#xE9;&#xE9;n
+week.</al>
+                     <al>In het <nadruk type="vet">eerste deel van de
+tabel</nadruk> geeft u aan op welke oppervlakken u welke gewassen heeft
+geteeld. Onbeteeld oppervlak (uw kas ligt bijvoorbeeld een aantal weken
+leeg tussen twee teelten) dient u apart te vermelden. Ook als u een
+periode van het jaar geen registratieverplichting heeft dient u dit
+apart te vermelden. In de tabel zijn de regels voor &#x2018;onbeteeld
+oppervlak&#x2019; en &#x2018;geen registratieverplichting&#x2019; al
+voorgedrukt.</al>
+                     <al>Gewassen waarvoor opkweek plaatsvindt op uw
+bedrijf dient u apart te vermelden. Voor opkweek geldt namelijk een
+andere norm dan voor reguliere teelt, het apart opnemen is van belang
+voor de berekening van de juiste bedrijfsnorm voor uw
+bedrijf.</al>
+                     <al>
+                        <nadruk type="vet">Geen registratieplicht (code
+999)</nadruk>:</al>
+                     <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="1" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="129.5*"/>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>De
+term &#x2018;geen registratieplicht&#x2019; geldt alleen bij
+bedrijfsbe&#xEB;indiging of bij de start van een nieuw bedrijf tijdens
+het jaar. Voor de periode in dat jaar dat u dan nog niet of niet meer
+teelt geldt de term &#x2018;geen registratieplicht&#x2019;. Als een
+deel van uw kassen niet in gebruik is geldt de term &#x2018;onbeteeld
+oppervlak&#x2019;.</al>
+                                    <al>Bij verhuur van een deel van de kas behoeft
+u dat deel niet meer te verantwoorden en zal dus het geregistreerde
+totale oppervlak verminderen.</al>
+                                 </entry>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                     <al>In het
+<nadruk type="vet">tweede deel</nadruk> van de tabel geeft u aan welke
+energietoepassingen u op uw bedrijf heeft gebruikt. Een
+energietoepassing is bijvoorbeeld de inzet van assimilatiebelichting. U
+geeft aan in welke weken de energietoepassing is ingezet en over welk
+oppervlakte. Het gebruik van energietoepassingen is van invloed op het
+berekenen van uw bedrijfsnorm, de bedrijfsnorm wordt verhoogd. Als u
+geen van de vier genoemde toepassingen heeft gebruikt, hoeft u hier
+niets in te vullen.</al>
+                     <al>Als u meer ruimte nodig heeft in de tabel
+dan kunt u daarvoor een extra pagina toevoegen. Geeft u dit a.u.b. wel
+aan op het formulier, onder &#x2018;opmerkingen&#x2019;. Een voorbeeld
+van het invullen van deze tabel is onderaan de toelichting
+bijgevoegd.</al>
+                  </li>
+                  <li>
+                     <li.nr>10.</li.nr>
+                     <al>Opmerkingen: Hier kunt u
+eventueel ter zake doende opmerkingen
+noteren.</al>
+                  </li>
+                  <li>
+                     <li.nr>11.</li.nr>
+                     <al>Mocht u toch gebruik maken
+van dit formulier vergeet dan niet het formulier te dateren en te
+ondertekenen (en vergeet u ook niet alle pagina&#x2019;s te paraferen
+en op alle pagina&#x2019;s uw UO-nummer in te
+vullen).</al>
+                  </li>
+                  <li>
+                     <li.nr>12.</li.nr>
+                     <al>De jaarrapportage dient
+volgens het Besluit glastuinbouw te worden beoordeeld door een
+geaccepteerd deskundige. De geaccepteerd deskundige vermeldt in deze
+tabel of de jaarrapportage volledig is bevonden. Daarnaast voorziet de
+geaccepteerd deskundige het formulier van naam, datum en
+handtekening.</al>
+                     <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="1" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="129.5*"/>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>VOORBEELD</al>
+                                    <al>Van
+het invullen van Tabel 1</al>
+                                 </entry>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                     <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="4" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="54.5*"/>
+                           <colspec colname="col2" colnum="2" colwidth="25*"/>
+                           <colspec colname="col3" colnum="3" colwidth="25*"/>
+                           <colspec colname="col4" colnum="4" colwidth="25*"/>
+                           <thead valign="bottom">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Gewasgroep
+(code)</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" nameend="col3" namest="col2" rotate="0" valign="top">
+                                    <al>Periode</al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Oppervlakte</al>
+                                 </entry>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Van
+week<sup>1</sup>
+                                    </al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Tot
+en met
+week<sup>1</sup>
+                                    </al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>(in
+ha)</al>
+                                 </entry>
+                              </row>
+                           </thead>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Onbeteeld
+oppervlak
+(000)</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>1</al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>2</al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>2,3000</al>
+                                 </entry>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Geen
+registratieplicht
+(999)</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Paprika
+(82)</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>3</al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>42</al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>2,3000</al>
+                                 </entry>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Courgette
+(301)</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>1</al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>38</al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>1,7000</al>
+                                 </entry>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Onbeteeld
+oppervlak
+(000)</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>39</al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>43</al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>1,7000</al>
+                                 </entry>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Onbeteeld
+oppervlak
+(000)</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>44</al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>52</al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>4,0000</al>
+                                 </entry>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                     <al><sup>1</sup> Een
+week in het
+rapportagejaar.</al><table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="4" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="54.5*"/>
+                           <colspec colname="col2" colnum="2" colwidth="25*"/>
+                           <colspec colname="col3" colnum="3" colwidth="25*"/>
+                           <colspec colname="col4" colnum="4" colwidth="25*"/>
+                           <thead valign="bottom">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Energietoepassing
+(code)</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" nameend="col3" namest="col2" rotate="0" valign="top">
+                                    <al>Periode</al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Oppervlakte</al>
+                                 </entry>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Van
+week<sup>1</sup>
+                                    </al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Tot
+en met
+week<sup>1</sup>
+                                    </al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>(in
+ha)</al>
+                                 </entry>
+                              </row>
+                           </thead>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Dagverlenging
+(199)</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Grondkoeling
+(198)</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Assimilatiebelichting
+(197)</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Overige
+koeling / preparatie
+(196)</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"/>
+                                 <entry align="left" colname="col4" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                  <al>Een
+week in het
+rapportagejaar.</al></li>
+               </lijst>
+            </divisie>
+            <divisie opmaak="default">
+               <kop>
+                  <titel status="officieel">Toelichting
+op het voorbeeld</titel>
+               </kop>
+               <al>Deze teler heeft op zijn
+bedrijf een totaal teeltoppervlak van 4 hectare (40.000 m<sup>2</sup>).
+Daarvan gebruikt hij dit jaar 2,3 ha voor paprikateelt, en 1,7 ha voor
+courgettes. Een gedeelte van het jaar, in de winter, ligt het bedrijf
+leeg.</al>
+               <al>In de tabel moet deze teler dus 3 dingen
+aangeven:</al>
+               <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                     <li.nr>1.</li.nr>
+                     <al>Wanneer
+en op welk oppervlak hij paprika&#x2019;s
+teelt;</al>
+                  </li>
+                  <li>
+                     <li.nr>2.</li.nr>
+                     <al>Wanneer en op welk oppervlak
+hij courgettes teelt;</al>
+                  </li>
+                  <li>
+                     <li.nr>3.</li.nr>
+                     <al>Wanneer welk
+oppervlak onbeteeld is.</al>
+                  </li>
+               </lijst>
+               <al>Eerst worden de
+gewassen ingevuld.</al>
+               <al>De teler teelt paprika&#x2019;s
+van week 3 tot en met week 43 op 2,3 ha. De gewascode voor paprika is
+<nadruk type="cur">82</nadruk>.</al>
+               <al>Dit wordt opgenomen in de tabel
+l. De teler teelt courgette van week 1 tot en met 38 op 1,7 ha. De
+gewascode voor courgette is <nadruk type="cur">301</nadruk>. Ook dit
+wordt vermeld.</al>
+               <al>In deze rapportage is het belangrijk om ook de
+periodes te vermelden dat (een deel van de) tuin leeg staat. De
+rapportage is namelijk pas volledig als voor alle 52 (of 53) weken is
+vermeld wat er in de kas geteeld is.</al>
+               <al>Voor deze tuinder geldt
+dat de kas zowel in het begin van het jaar als het eind van het jaar,
+gedeeltelijk leeg staat. Dit wordt vermeld als onbeteeld oppervlak.
+Omdat het oppervlakte onbeteeld aan het eind van het jaar (vanaf week
+43) verandert zijn hier drie regels voor nodig in de
+tabel.</al>
+               <al>Per week vergelijkt de teler het
+oppervlak dat in gebruik is voor paprika en courgette met het totale
+teeltoppervlak.</al>
+               <al>In week 1 en week 2 staan er al wel courgettes
+in de kas, maar nog geen paprika&#x2019;s. 2,3 ha van het kasoppervlak
+is dus onbeteeld. Op de bovenste, voorgedrukte, regel van de tabel
+(&#x2018;onbeteeld&#x2019;) geeft hij aan dat in week 1 en 2
+<nadruk type="cur">2,3 ha</nadruk> onbeteeld is.</al>
+               <al>In de periode
+van week 3 tot en met week 38 is het totale kasoppervlak in gebruik
+voor paprika&#x2019;s en courgettes. Er is dus in deze periode geen
+onbeteeld oppervlak.</al>
+               <al>In de weken 39 tot en met 42 is 1,7 ha
+onbeteeld. De tuinder neemt dit op in de tabel. Vanaf week 43 staat de
+hele tuin leeg. Ook dit wordt vermeld in de
+tabel.</al>
+               <al>Deze teler heeft geen van de aangegeven
+energietoepassingen gebruikt afgelopen jaar. Hij vult hier dus niets
+in.</al>
+            </divisie>
+         </divisie></bijlage>
+  </regeling>
+</wetgeving>
+  	

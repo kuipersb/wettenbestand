@@ -1,0 +1,597 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0019375" dtdversie="2.0" id="337089" soort="ministeriele-regeling">
+  
+  <intitule>Regeling luchtvaartmeteorologische inlichtingen 2006</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Staatssecretaris van Verkeer en Waterstaat,</wie>
+      <considerans>
+        <considerans.al>Handelende in overeenstemming met de Staatssecretaris van Defensie;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0012952&amp;artikel=8" compleet="nee">artikel 8 van de Wet op het Koninklijk Nederlands Meteorologisch Instituut</extref> en <extref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=61" compleet="nee">artikel 61 van het Luchtverkeersreglement</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <al>In deze regeling wordt verstaan onder:</al>
+        <al>aerodrome warning: een waarschuwing aan luchtvaartterreinverkeer op de grond voor onweer, hagel, sneeuw, ijzel, rijp, harde wind, windstoten en vorst;</al>
+        <al>AIREP: een rapport dat vanuit een luchtvaartuig tijdens de vlucht wordt verstrekt met informatie over positie en operationele of meteorologische omstandigheden (air report);</al>
+        <al>AIRMET: waarschuwing voor verkeer beneden vliegniveau 100 voor onverwachte significante verschijnselen, waarvoor geen SIGMET is uitgegeven (significant meteorological conditions for low level operation);</al>
+        <al>AMB: VOLMET uitzending bestemd voor luchtvaartuigen in of nabij het vluchtinformatiegebied Amsterdam tijdens de vlucht (amsterdam meteorological broadcast);</al>
+        <al>ATIS: automatische uitzending tijdens de openingsuren van een luchtvaartterrein met inlichtingen over vertrek en nadering van een luchtvaartterrein inclusief het MET REPORT en SPECIAL (automatic terminal information service);</al>
+        <al>AUTO MET REPORT: volledig automatisch tot stand gekomen waarnemingsrapport voor startend en landend luchtverkeer in gebruik op het luchtvaartterrein verstrekt door middel van ATIS en CCIS (automated local routine report);</al><al>AUTO METAR: volledig automatisch tot stand gekomen halfuurlijks waarnemingsrapport van een luchtvaartterrein in luchtvaartmeteorologische code in gebruik voor de voorbereiding van een vlucht (automated meteorological aerodrome report);</al>
+        <al>AUTO SPECI: volledig automatisch tot stand gekomen tussentijds waarnemingsrapport in luchtvaartmeteorologische code bij overschrijding van limietwaarden of andere significante verandering in gebruik voor de voorbereiding van een vlucht (automated special report);</al>
+        <al>AUTO SPECIAL: volledig automatisch tot stand gekomen tussentijds waarnemingsrapport voor startend en landend luchtverkeer bij overschrijding van de limietwaarden of andere significante verandering in gebruik op het luchtvaartterrein verstrekt door middel van ATIS en CCIS (automated local special report);.</al><al>briefing: mondeling verstrekken van actuele of verwachte meteorologische condities gebaseerd op bestaande berichten over het actuele of verwachte weer, dat wordt gebruikt tijdens de voorbereiding van een vlucht, vluchtuitvoering, luchthavenoperaties en het verlenen van luchtverkeersdiensten;</al>
+        <al>continentaal plat: continentaal plat, bedoeld in <extref status="actief" doc="1.0:v:BWBR0014168&amp;artikel=1" compleet="nee">artikel 1 van de Mijnbouwwet</extref>;</al>
+        <al>CCIS: gecombineerd presentatiesysteem met meteorologische en luchtverkeersleidingstechnische informatie (closed circuit information system);</al>
+        <al>consultatie: toelichting door een meteoroloog of een ander gekwalificeerd persoon, op verstrekte meteorologische inlichtingen over de heersende of verwachte weersomstandigheden in relatie tot de voorbereiding van een vlucht, vluchtuitvoering, luchthavenoperaties en het verlenen van luchtverkeersdiensten met de mogelijkheid van vraag, antwoord en overleg;</al>
+        <al>EUR ANP: gedetailleerde informatie over faciliteiten, diensten of procedures voor de internationale luchtvaart navigatie, van toepassing in het Europees gebied (air navigation plan european region);</al>
+        <al>LLFC: verwachting voor het Nederlandse vluchtinformatiegebied, voor luchtverkeer beneden vliegniveau 100, die bij overschrijding van limietwaarden geamendeerd wordt (low-level-forecast);</al>
+        <al>LLTI: waarschuwing voor verticale temperatuurtoename ter plaatse (low level temperature inversion);</al>
+        <al>luchthavenoperaties: de werkzaamheden op een luchtvaartterrein die onder de verantwoordelijkheid vallen van de exploitant;</al>
+        <al>METAR: halfuurlijks waarnemingsrapport van een luchtvaartterrein in luchtvaartmeteorologische code in gebruik voor de voorbereiding van een vlucht (meteorological aerodrome report);</al>
+        <al>MET REPORT: waarnemingsrapport voor startend en landend luchtverkeer in gebruik op het luchtvaartterrein verstrekt door middel van ATIS en CCIS (local routine report);</al>
+        <al>NAF: 3-uurlijkse weersverwachtingen in luchtvaartmeteorologische code voor de komende 1 tot 10 uur, die bij overschrijding van limietwaarden wordt geamendeerd, representatief voor een omschreven gebied op de Noordzee en het continentaal plat (northsea area forecast);</al>
+        <al>OPMET: de verzameling van alfanumerieke waarneemrapporten, verwachtingen en waarschuwingen als AIREP, AIRMET, AUTO METAR, AUTO SPECI, LLFC, LLTI, METAR, NAF, SIGMET, SPECI, TAF kort, TAF lang en TREND-forecast (operational meteorological information);</al>
+        <al>SADIS: het door de Internationale Burgerluchtvaartorganisatie beheerde satelliet distributiesysteem van OPMET en WAFS informatie (satellite distribution system);</al>
+        <al>self-briefing systeem: interaktief systeem voor selfbriefing en vluchtdocumentatie;</al>
+        <al>SIGMET: ongecodeerde waarschuwing voor weersomstandigheden die van invloed kunnen zijn op een veilige vluchtuitvoering (significant meteorological conditions);</al>
+        <al>SPECI: tussentijds waarnemingsrapport in luchtvaartmeteorologische code bij overschrijding van limietwaarden of andere significante verandering in gebruik voor de voorbereiding van een vlucht (special report);</al>
+        <al>SPECIAL: tussentijds waarnemingsrapport voor startend en landend luchtverkeer bij overschrijding van limietwaarden of andere significante verandering in gebruik op het luchtvaartterrein verstrekt door middel van ATIS en CCIS (local special report);</al>
+        <al>TAF kort: 3-uurlijkse luchtvaartterreinweersverwachting in luchtvaartmeteorologische code voor de komende 9 uur, die bij overschrijding van limietwaarden wordt geamendeerd</al>
+        <al>(terminal aerodrome forecast);</al>
+        <al>TAF lang: 6-uurlijkse luchtvaartterreinweersverwachting in luchtvaartmeteorologische code voor de komende 30 uur, die bij overschrijding van limietwaarden wordt geamendeerd</al>
+        <al>(terminal aerodrome forecast);</al>
+        <al>TREND-forecast: weersverwachting voor de komende 2 uur in luchtvaartmeteorologische code met significante veranderingen, toegevoegd aan de luchtvaartmeteorologische waarnemingen in de vorm van METAR, SPECI, MET REPORT en SPECIAL;</al>
+        <al>verdrag: het op 7&#xA0;december 1944 gesloten Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109);</al>
+        <al>VOLMET: uitzending met METAR en TREND bestemd voor luchtvaartuigen tijdens de vlucht, uitgezonden door negen Europese meteorologische radiostations volgens EUR ANP en in Nederland aangeduid als AMB (routine broadcast of meteorological information for aircraft in flight);</al>
+        <al>W/T: kaarten met informatie over wind en temperatuur op relevante hoogtes (wind and temperature charts);</al>
+        <al>WAFC: binnen het WAFS zijn twee centra aangewezen voor de beschikbaarstelling van luchtvaartmeteorologische inlichtingen voor gebruik hoger dan vliegniveau 100, Washington en Londen. De inlichtingen voor Nederland worden aan KNMI door het WAFC Londen beschikbaar gesteld (world area forecast centre);</al>
+        <al>WAFS: een middels annex 3 bij het verdrag geregeld systeem voor de beschikbaarstelling en verstrekking van luchtvaartmeteorologische inlichtingen voor gebruik hoger dan vliegniveau 100 (world area forecast system);</al>
+        <al>weerradar: samengesteld beeld van Nederlandse weerradar-ontvangers;</al>
+        <al>windshear waarschuwingen: waarschuwing voor opgetreden of verwachte sterke verticale of horizontale windrichtingsverandering of windsnelheidsveranderingen.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Luchtvaartmeteorologische inlichtingen ten behoeve van de burgerluchtvaart</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Het KNMI verstrekt ten behoeve van de taakuitvoering van de navolgende gebruikers, luchtvaartmeteorologische inlichtingen aan:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>luchtvarenden;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>luchtvaartmaatschappijen;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>vluchtafhandelingsmaatschappijen;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>luchtvaartinlichtingenorganisaties;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>Nationaal maritiem en a&#xEB;ronautisch reddingco&#xF6;rdinatiecentrum;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>Onderzoeksraad voor veiligheid;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al><redactie type="vervanging">vervallen;</redactie></al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>Korps landelijke politiediensten, dienst luchtvaartpolitie;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>Inspectie Verkeer en Waterstaat;</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>verleners van luchtverkeersdiensten;</al>
+            </li>
+            <li>
+              <li.nr>k.</li.nr>
+              <al>exploitanten van luchthavens en luchtvaartterreinen.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De luchtvaartmeteorologische inlichtingen bestaan uit:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>producten en diensten gebaseerd op de internationale eisen die zijn vastgelegd in Annex 3 bij het verdrag, voor zover toepasselijk nader omschreven in deel 6 van het EUR ANP:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;.</li.nr>
+                  <al>bewaakte weerwaarnemingen en rapporten,</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;.</li.nr>
+                  <al>bewaakte weersverwachtingen,</al>
+                </li>
+                <li>
+                  <li.nr>3&#xB0;.</li.nr>
+                  <al>bewaakte weerswaarschuwingen,</al>
+                </li>
+                <li>
+                  <li.nr>4&#xB0;.</li.nr>
+                  <al>meteorologische satellietwaarnemingen,</al>
+                </li>
+                <li>
+                  <li.nr>5&#xB0;.</li.nr>
+                  <al>weerradarinformatie,</al>
+                </li>
+                <li>
+                  <li.nr>6&#xB0;.</li.nr>
+                  <al>klimatologische rapporten,</al>
+                </li>
+                <li>
+                  <li.nr>7&#xB0;.</li.nr>
+                  <al>WAFC,</al>
+                </li>
+                <li>
+                  <li.nr>8&#xB0;.</li.nr>
+                  <al>OPMET data (SADIS),</al>
+                </li>
+                <li>
+                  <li.nr>9&#xB0;.</li.nr>
+                  <al>briefing,</al>
+                </li>
+                <li>
+                  <li.nr>10&#xB0;.</li.nr>
+                  <al>consultatie;</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>producten en diensten nationaal bepaald en opgedragen door de Minister.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De meteorologische dienst die apparatuur in gebruik heeft voor de vergaring, beschikbaarstelling en verstrekking van luchtvaartmeteorologische informatie als bedoeld in deze regeling draagt er zorg voor dat die apparatuur betrouwbaar is, nauwkeurig werkt en op een geschikte plaats is opgesteld. De gebruikte apparatuur voldoet aan eisen van de Internationale Burgerluchtvaart Organisatie en Wereld Meteorologische Organisatie vastgelegd in annex 3 en 14 bij het verdrag en publicatie nummer 8 van de Wereld Meteorologische Organisatie.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Medewerkers die werkzaamheden uitvoeren ten behoeve van de vergaring, beschikbaarstelling en verstrekking van luchtvaartmeteorologische inlichtingen als bedoeld in deze regeling zijn gekwalificeerd, uitgaande van ten minste de eisen van de Internationale Burgerluchtvaart Organisatie en Wereld Meteorologische Organisatie vastgelegd in annex 3 bij het verdrag en publicaties nummer 258 en 114 van de Wereld Meteorologische Organisatie.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Luchtvaartmeteorologische inlichtingen beschikbaar voor het vluchtinformatiegebied Amsterdam en het continentaal plat</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Het KNMI stelt voor de taakuitvoering van de onder <intref status="actief" doc="1.0:v:BWBR0019375&amp;artikel=2">artikel 2, eerste lid</intref>, genoemde gebruikers in het vluchtinformatiegebied Amsterdam en het continentaal plat de volgende luchtvaartmeteorologische inlichtingen beschikbaar:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>SIGMET;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>AIRMET;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>Low Level Forecast;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>Volcanic Ash Advisories;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>Information on accidental release of radioactive materials;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>WAFC producten;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>meteorologische satellietwaarnemingen;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>weerradarinformatie, inclusief elektrische ontladingen;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>OPMET voor VOLMET en CCIS;</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>wind en temperatuurinformatie voor het luchtverkeersysteem van het vluchtinformatiegebied Amsterdam;</al>
+            </li>
+            <li>
+              <li.nr>k.</li.nr>
+              <al>luchtdrukinformatie voor de hoogtemeterinstellingsgebieden;</al>
+            </li>
+            <li>
+              <li.nr>l.</li.nr>
+              <al>briefing;</al>
+            </li>
+            <li>
+              <li.nr>m.</li.nr>
+              <al>consultatie.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Luchtvaartmeteorologische inlichtingen beschikbaar gemaakt als bedoeld onder het eerste lid, hebben een bewaartermijn van minimaal 100 dagen.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Luchtvaartmeteorologische inlichtingen beschikbaar op luchthavens en luchtvaartterreinen in gebruik, of aangewezen als uitwijkluchthaven of uitwijkluchtvaartterrein, voor internationaal geregeld luchtvervoer</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Het KNMI stelt tijdens de reguliere openstellingsuren van luchthavens en luchtvaartterreinen, gepubliceerd in de luchtvaartgids, de volgende luchtvaartmeteorologische inlichtingen beschikbaar:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>voor de taakuitvoering van de onder <intref status="actief" doc="1.0:v:BWBR0019375&amp;artikel=2">artikel 2, eerste lid</intref>, genoemde gebruikers:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;.</li.nr>
+                  <al>aerodrome Warning,</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;.</li.nr>
+                  <al>windshear waarschuwingen;</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+                           <li.nr>b.</li.nr>
+                           <al>voor de taakuitoefening van de onder <intref status="actief" doc="1.0:v:BWBR0019375&amp;artikel=2">artikel 2, eerste lid, onderdelen a tot en met i</intref>, genoemde gebruikers:</al>
+                           <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                              <li>
+                                 <li.nr>1&#xB0;.</li.nr>
+                                 <al>TAF lang,</al>
+                              </li>
+                              <li>
+                                 <li.nr>2&#xB0;.</li.nr>
+                                 <al>TREND,</al>
+                              </li>
+                              <li>
+                                 <li.nr>3&#xB0;.</li.nr>
+                                 <al>METAR,</al>
+                              </li>
+                              <li>
+                                 <li.nr>4&#xB0;.</li.nr>
+                                 <al>take-off forecast, indien daarom wordt verzocht;</al>
+                              </li>
+                           </lijst>
+                        </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>voor de taakuitvoering van de onder <intref status="actief" doc="1.0:v:BWBR0019375&amp;artikel=2">artikel 2, eerste lid, onderdelen f tot en met k</intref>, genoemde gebruikers:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;.</li.nr>
+                  <al>MET REPORT en SPECIAL voor de instrumentlandingsbanen,</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;.</li.nr>
+                  <al>LLTI,</al>
+                </li>
+                <li>
+                  <li.nr>3&#xB0;.</li.nr>
+                  <al>informatie voor het luchtverkeerssysteem van het luchtvaartterrein ten aanzien van de wind onder 900 meter (3000 voet) en de hoogte van het nul graden Celsius niveau,</al>
+                </li>
+                <li>
+                  <li.nr>4&#xB0;.</li.nr>
+                  <al>windinformatie representatief voor de landingsplek op de instrumentlandingsbaan,</al>
+                </li>
+                <li>
+                  <li.nr>5&#xB0;.</li.nr>
+                  <al>windinformatie representatief voor de vertrekplek op de instrumentlandingsbaan,</al>
+                </li>
+                <li>
+                  <li.nr>6&#xB0;.</li.nr>
+                  <al>Runway Visual Range informatie voor het begin en het eind deel van de instrument landingsbaan ingeval van een categorie 1 instrumentlandingsbaan of voor het begin, midden en het eind deel van de instrumentlandingsbaan ingeval van een categorie 2 of 3 instrumentlandingsbaan;</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>voor de taakuitvoering van de onder <intref status="actief" doc="1.0:v:BWBR0019375&amp;artikel=2">artikel 2, eerste lid, onderdeel b, en onderdelen f tot en met k</intref>, genoemde gebruikers en alleen voor de luchthaven Schiphol, advisering door middel van het weersafhankelijk beschikbaar stellen van specifieke informatie door een meteorologisch adviseur.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>In afwijking van het eerste lid, onderdeel b, onder 3, en onderdeel c, onder 1, stelt het KNMI tijdens de reguliere openstellingsuren van de luchtvaartterreinen Groningen Airport Eelde, Maastricht Aachen Airport en
+Rotterdam The Hague
+Airport de volgende luchtvaartmeteorologische inlichtingen beschikbaar:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>1&#xB0;.</li.nr>
+                <al>AUTO METAR;</al>
+              </li>
+              <li>
+                <li.nr>2&#xB0;.</li.nr>
+                <al>AUTO MET REPORT;</al>
+              </li>
+              <li>
+                <li.nr>3&#xB0;.</li.nr>
+                <al>AUTO SPECIAL.</al>
+              </li>
+            </lijst></lid><lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Het KNMI stelt buiten de reguliere openstellingsuren van luchthavens en luchtvaartterreinen, gepubliceerd in de luchtvaartgids, de volgende luchtvaartmeteorologische inlichtingen beschikbaar:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>voor de taakuitvoering van de onder <intref status="actief" doc="1.0:v:BWBR0019375&amp;artikel=2">artikel 2, eerste lid, onderdelen a tot en met i</intref>, genoemde gebruikers:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;.</li.nr>
+                  <al>TAF lang,</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;.</li.nr>
+                  <al>AUTO METAR.</al>
+                </li>
+                
+              </lijst>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>voor de taakuitvoering van de onder <intref status="actief" doc="1.0:v:BWBR0019375&amp;artikel=2">artikel 2, eerste lid, onderdelen f tot en met k</intref>, genoemde gebruikers:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;.</li.nr>
+                  <al>windinformatie, representatief voor de landingsplek op de instrumentlandingsbaan,</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;.</li.nr>
+                  <al>windinformatie, representatief voor de vertrekplek op de instrumentlandingsbaan,</al>
+                </li>
+                <li>
+                  <li.nr>3&#xB0;.</li.nr>
+                  <al>Runway Visual Range informatie voor het begin en het einddeel van de instrumentlandingsbaan ingeval van een categorie 1  instrument landingsbaan of voor het begin, midden en het eind deel van de instrumentlandingsbaan ingeval van een categorie 2 of 3 instrumentlandingsbaan.</al>
+                </li>
+              </lijst>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Luchtvaartmeteorologische inlichtingen beschikbaar gemaakt als bedoeld in dit artikel, hebben een bewaartermijn van minimaal 100 dagen.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Luchtvaartmeteorologische inlichtingen beschikbaar op luchtvaartterreinen in gebruik voor internationaal priv&#xE9;- en zakenluchtverkeer</titel>
+        </kop>
+        <al>De exploitant stelt tijdens de reguliere openstellingsuren van het luchtvaartterrein, indien buiten de daglichtperiode luchtverkeersklasse F van toepassing is, de volgende luchtvaartmeteorologische inlichtingen beschikbaar voor de taakuitvoering van de onder <intref status="actief" doc="1.0:v:BWBR0019375&amp;artikel=2">artikel 2, eerste lid</intref>, genoemde gebruikers:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>de actuele windrichting en snelheid op de grond, inclusief belangrijke wisselingen, representatief voor de in gebruik zijnde baan;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>de luchtdruk ten opzichte van gemiddeld zeeniveau, standaard wanneer dat ter plaatse gebruikelijk is of anders op verzoek, de luchtdruk ten opzichte van het terrein;</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>de luchttemperatuur, representatief voor de in gebruik zijnde baan;</al>
+          </li>
+          <li>
+            <li.nr>d.</li.nr>
+            <al>het actuele zicht, representatief voor de startrichting en eerste klim, of in de naderings- en landingsfase, wanneer dit minder is dan 10 km of, indien beschikbaar, de zichtbare baanlengte op de te gebruiken baan;</al>
+          </li>
+          <li>
+            <li.nr>e.</li.nr>
+            <al>een aanduiding van belangrijke meteorologische omstandigheden in het start- en uitklimgebied, of in het naderings- en landingsgebied;</al>
+          </li>
+          <li>
+            <li.nr>f.</li.nr>
+            <al>de hoeveelheid en hoogte van de basis van lage wolken, wanneer een luchtvaartuig een nadering uitvoert onder instrumentweersomstandigheden.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Luchtvaartmeteorologische inlichtingen beschikbaar op helikopterdekken op de Noordzee en het continentaal plat</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De vergunninghouder van de aangewezen mijnbouwinstallatie stelt ingevolge <extref status="actief" doc="1.0:v:BWBR0014468&amp;artikel=4.4.7" compleet="nee">artikel 4.4.7, derde lid, van de Mijnbouwregeling</extref> de meteorologische parameters beschikbaar aan het KNMI. Het KNMI stelt op basis hiervan AUTO METAR beschikbaar ten behoeve van de taakuitvoering van de onder <intref status="actief" doc="1.0:v:BWBR0019375&amp;artikel=2">artikel 2, eerste lid</intref>, genoemde gebruikers.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Het KNMI stelt in de periode van 07.00 uur tot 21.00 uur plaatselijke tijd, voor vijf gebieden op de Noordzee gelegen in het gebied ten noorden van 53 graden noorderbreedte en binnen de gebieden, beschreven in <extref status="actief" doc="1.0:v:BWBR0009899&amp;artikel=4" compleet="nee">artikel 4</extref> en <extref status="actief" doc="1.0:v:BWBR0009899&amp;artikel=9" compleet="nee">artikel 9 van de Regeling luchtverkeersdienstverlening</extref>, luchtvaartmeteorologische inlichtingen beschikbaar in de vorm van NAF aan de in <intref status="actief" doc="1.0:v:BWBR0019375&amp;artikel=2">artikel 2, eerste lid</intref>, genoemde gebruikers.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Luchtvaartmeteorologische inlichtingen beschikbaar gemaakt als bedoeld onder het eerste en tweede lid, hebben een bewaartermijn van minimaal 100 dagen.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Luchtvaartmeteorologische inlichtingen beschikbaar op militaire luchtvaartterreinen met burgermedegebruik</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Voor de taakuitvoering van de onder <intref status="actief" doc="1.0:v:BWBR0019375&amp;artikel=2">artikel 2, eerste lid, onderdelen a tot en met i</intref>, genoemde gebruikers worden de volgende specifieke luchtvaartmeteorologische inlichtingen tijdens de reguliere openstellingsuren van het luchtvaartterrein, gepubliceerd in de militaire luchtvaartgids, door Defensie beschikbaar gemaakt:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>TAF kort;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>TREND;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>AUTO METAR/ AUTO SPECI;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>Aerodrome Warning.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Luchtvaartmeteorologische inlichtingen beschikbaar gemaakt als bedoeld onder het eerste lid, hebben een bewaartermijn van minimaal 100 dagen.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van de voorbereiding van een vlucht</titel>
+        </kop>
+        <al>Voor de voorbereiding van een vlucht door de onder <intref status="actief" doc="1.0:v:BWBR0019375&amp;artikel=2">artikel 2, eerste lid</intref>, genoemde gebruikers worden luchtvaartmeteorologische inlichtingen als bedoeld onder <intref status="actief" doc="1.0:v:BWBR0019375&amp;artikel=2">artikel 2, tweede lid</intref>, verstrekt door middel van:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>self-briefing systemen op de luchthaven Schiphol en de luchtvaartterreinen Groningen Airport Eelde, Maastricht
+Aachen Airport, Rotterdam The Hague
+Airport en het burgergedeelte van het militair luchtvaartterrein Eindhoven;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>internet self-briefing systeem;</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>mondelinge dan wel telefonische briefing en consultatie;</al>
+          </li>
+          <li>
+            <li.nr>d.</li.nr>
+            <al>teletekst.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">9</nr>
+          <titel status="officieel">Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van vluchtuitvoering, luchthavenoperaties en het verlenen van luchtverkeersdiensten</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Het KNMI verstrekt ten behoeve van de taakuitvoering van de onder <intref status="actief" doc="1.0:v:BWBR0019375&amp;artikel=2">artikel 2, eerste lid, onderdelen b, j en k</intref>, genoemde gebruikers luchtvaartmeteorologische inlichtingen door middel van:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>directe toegang tot meteorologische informatie als bedoeld onder <intref status="actief" doc="1.0:v:BWBR0019375&amp;artikel=4">artikel 4, eerste lid, onderdeel c</intref>, door toegang te verlenen tot een gegevensdrager aanwezig op de luchthaven of het luchtvaartterrein;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>directe toegang tot meteorologische informatie als bedoeld onder <intref status="actief" doc="1.0:v:BWBR0019375&amp;artikel=3">artikel 3</intref> door toegang te verlenen tot een centrale gegevensdrager.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Het KNMI kan voorwaarden verbinden aan de toegang tot de gegevensdragers als bedoeld in het eerste lid om zorg te dragen voor een veilige en effici&#xEB;nte verstrekking van luchtvaartmeteorologische inlichtingen.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">10</nr>
+          <titel status="officieel">Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van het onderzoek van ongevallen en incidenten</titel>
+        </kop>
+        <al>Voor de taakuitvoering van de onder <intref status="actief" doc="1.0:v:BWBR0019375&amp;artikel=2">artikel 2, eerste lid, onderdelen f tot en met i</intref>, genoemde gebruikers worden luchtvaartmeteorologische inlichtingen verstrekt door middel van:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>rapporten, op verzoek opgesteld, met als doel een meteorologische reconstructie mogelijk te maken;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>internet self-briefing systeem.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">11</nr>
+          <titel status="officieel">Luchtvaartmeteorologische inlichtingen aan buitenlandse organisaties</titel>
+        </kop>
+        <al>In overeenstemming met de normen van de Internationale Burger Luchtvaart Organisatie en bilaterale overeenkomsten worden luchtvaartmeteorologische inlichtingen als genoemd in <intref status="actief" doc="1.0:v:BWBR0019375&amp;artikel=3">artikel 3, eerste lid, onderdelen a, b, d en e</intref>, <intref status="actief" doc="1.0:v:BWBR0019375&amp;artikel=4">artikel 4, eerste lid, onderdeel b</intref> en <intref status="actief" doc="1.0:v:BWBR0019375&amp;artikel=4">artikel 4, derde lid, onderdeel a</intref>, beschikbaar gemaakt aan buitenlandse organisaties.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">12</nr>
+        </kop>
+        <al>De <extref status="actief" doc="1.0:v:BWBR0008732" compleet="nee">Regeling luchtvaart meteorologische inlichtingen</extref> wordt ingetrokken.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">13</nr>
+        </kop>
+        <al>Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze wordt geplaatst.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">14</nr>
+        </kop>
+        <al>Deze regeling wordt aangehaald als: Regeling luchtvaartmeteorologische inlichtingen 2006.</al>
+      </artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <ondertekening>De <functie>Staatssecretaris</functie> van <organisatie afkorting="VW">Verkeer en Waterstaat</organisatie>,
+        <naam>
+          <voornaam>M.H.</voornaam>
+          <achternaam>Schultz van Haegen</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

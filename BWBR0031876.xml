@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0031876" dtdversie="2.0" id="477239" soort="zbo">
+  
+  <intitule>Beleidsregel van De Nederlandsche Bank N.V. van 27 juli 2012 tot toepassing van richtsnoeren van de Europese Bankautoriteit in verband met het prudentieel toezicht bij of krachtens de Wet op het financieel toezicht (Beleidsregel toepassing richtsnoeren EBA Wft)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Nederlandsche Bank N.V.,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=1%3A29a" compleet="nee">artikel&#xA0;1:29a, eerste lid, onderdeel&#xA0;c, van de Wet op het financieel toezicht</extref> en op het bepaalde bij of krachtens het <extref status="actief" doc="1.0:v:BWBR0020368&amp;titeldeel=3" compleet="nee">Deel prudentieel toezicht financi&#xEB;le ondernemingen (Deel&#xA0;3) van de Wet op het financieel toezicht</extref>, in het bijzonder de <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A10" compleet="nee">artikelen&#xA0;3:10</extref> en <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A17" compleet="nee">3:17</extref>, <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A18a" compleet="nee">3:18a</extref>, <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A57" compleet="nee">3:57</extref>, <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A74a" compleet="nee">3:74a</extref>, <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A95" compleet="nee">3:95</extref> en <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A100" compleet="nee">3:100</extref>, <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A111" compleet="nee">3:111</extref>, <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A111a" compleet="nee">3:111a</extref> en <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A278b" compleet="nee">3:278b</extref>;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op het bepaalde bij of krachtens het <extref status="actief" doc="1.0:v:BWBR0020420" compleet="nee">Besluit prudenti&#xEB;le regels Wft</extref>, in het bijzonder de <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=1" compleet="nee">artikelen&#xA0;1</extref>, <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=17" compleet="nee">17</extref> en <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=23" compleet="nee">23</extref>, <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=78" compleet="nee">78</extref>, <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=88" compleet="nee">88</extref> en <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=91" compleet="nee">91</extref>;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0028905&amp;artikel=4%3A1" compleet="nee">artikel&#xA0;4:1 van de Regeling hybride instrumenten banken en andere financi&#xEB;le ondernemingen (exclusief verzekeraars) Wft 2010</extref>; <extref status="actief" doc="1.0:v:BWBR0028907&amp;hoofdstuk=7" compleet="nee">hoofdstuk&#xA0;7 van de Regeling securitisaties Wft 2011</extref>; <extref status="actief" doc="1.0:v:BWBR0020726&amp;afdeling=4.2" compleet="nee">afdeling 4.2 van de Regeling solvabiliteitseisen operationeel risico Wft 2010</extref>; en <extref status="actief" doc="1.0:v:BWBR0020700&amp;paragraaf=4.2" compleet="nee">&#xA7;4.2 van de Regeling solvabiliteitseisen marktrisico Wft 2011</extref>;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2006/48/EG</extref> van het Europees Parlement en de Raad van de Europese Unie van 14&#xA0;juni 2006 betreffende de toegang tot en de uitoefening van de werkzaamheden van kredietinstellingen (herschikking) (PbEU L 177), in het bijzonder de artikelen&#xA0;3, 4, 22, 57, 81, 106, 122 bis, 129, 136 en 145, alsmede bijlage&#xA0;V en bijlage&#xA0;X deel&#xA0;3;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2006/49/EG</extref> van het Europees Parlement en de Raad van de Europese Unie van 14&#xA0;juni 2006 inzake de kapitaaltoereikendheid van beleggingsondernemingen en kredietinstellingen (herschikking) (PbEU L 177), in het bijzonder bijlage V; en</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2007/44/EG</extref> van het Europees Parlement en de Raad van de Europese Unie van 5&#xA0;september 2007 tot wijziging van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn 92/49/EEG</extref> van de Raad en de <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijnen 2002/83/EG</extref>, <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">2004/39/EG</extref>, <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">2005/68/EG</extref> en <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">2006/48/EG</extref> wat betreft procedureregels en evaluatiecriteria voor de prudenti&#xEB;le beoordeling van verwervingen en vergrotingen van deelnemingen in de financi&#xEB;le sector (PbEU L 247), in het bijzonder artikel&#xA0;5 tot wijziging van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2006/48/EG</extref> van 14&#xA0;juni 2006;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <paragraaf>
+        <kop>
+          <label>Paragraaf</label><nr status="officieel">1</nr><titel status="officieel">Definities</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>In deze beleidsregel wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>
+                <nadruk type="cur">Wft:</nadruk> <extref status="actief" doc="1.0:v:BWBR0020368" compleet="nee">Wet op het financieel toezicht</extref>;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>
+                <nadruk type="cur">Besluit:</nadruk> <extref status="actief" doc="1.0:v:BWBR0020420" compleet="nee">Besluit prudenti&#xEB;le regels Wft</extref>;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>
+                <nadruk type="cur">DNB:</nadruk> De Nederlandsche Bank N.V.;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>
+                <nadruk type="cur">EBA:</nadruk> de Europese Bankautoriteit of European Banking Authority, zoals opgericht bij Verordening (EU) nr. 1093/2010 van het Europees Parlement en de Raad van 24 november 2010 tot oprichting van een Europese toezichthoudende autoriteit (Europese Bankautoriteit), tot wijziging van Besluit nr. 716/2009/EG en tot intrekking van Besluit 2009/78/EG van de Commissie (PbEU L&#xA0;331);</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>
+                <nadruk type="cur">CRD (Capital Requirements Directive) of herziene richtlijn banken:</nadruk>
+                <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2006/48/EG</extref> van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 betreffende de toegang tot en de uitoefening van de werkzaamheden van kredietinstellingen (herschikking) (PbEU L 177), zoals deze richtlijn nadien is gewijzigd;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>
+                <nadruk type="cur">CAD (Capital Adequacy Directive) of herziene richtlijn kapitaaltoereikendheid:</nadruk>
+                <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2006/49/EG</extref> van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 inzake de kapitaaltoereikendheid van beleggingsondernemingen en kredietinstellingen (herschikking) (PbEU L 177), zoals deze richtlijn nadien is gewijzigd;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>
+                <nadruk type="cur">richtlijn deelnemingen in de financi&#xEB;le sector:</nadruk>
+                <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2007/44/EG</extref> van het Europees Parlement en de Raad van de Europese Unie van 5 september 2007 tot wijziging van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn 92/49/EEG</extref> van de Raad en de <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijnen 2002/83/EG</extref>, <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">2004/39/EG</extref>, <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">2005/68/EG</extref> en <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">2006/48/EG</extref> wat betreft procedureregels en evaluatiecriteria voor de prudenti&#xEB;le beoordeling van verwervingen en vergrotingen van deelnemingen in de financi&#xEB;le sector (PbEU L 247).</al>
+            </li>
+          </lijst>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>Paragraaf</label><nr status="officieel">2</nr><titel status="officieel">Toepassing van richtsnoeren van de EBA</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">&#x2013; Banken aangesloten bij een centrale kredietinstelling (artikel 3 CRD / <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A111" compleet="nee">artikel&#xA0;3:111 Wft</extref>)</titel>
+          </kop>
+
+          <al>DNB oefent het toezicht op de naleving van het bepaalde bij of krachtens <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A111" compleet="nee">artikel&#xA0;3:111 van de Wft</extref> inzake het regime voor banken aangesloten bij een centrale kredietinstelling uit met inachtneming van de richtsnoeren van de EBA, zoals opgenomen in <nadruk type="cur">CEBS&#x2019; guidelines regarding revised Article 3 of Directive 2006/48/EC</nadruk> van 18 november 2010.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">&#x2013; Kenmerken van bestanddelen van het eigen vermogen (artikel&#xA0;57 onderdeel&#xA0;a CRD / <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=91" compleet="nee">artikel&#xA0;91 Besluit</extref>)</titel>
+          </kop>
+
+          <al>DNB merkt de vermogensbestanddelen, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=91" compleet="nee">artikel&#xA0;91, tweede lid, onderdelen b tot en met&#xA0;e, van het Besluit</extref>, uitsluitend aan als bestanddelen van het kernkapitaal, indien deze vermogensbestanddelen voldoen aan de richtsnoeren van de EBA, zoals opgenomen in de <nadruk type="cur">Implementation Guidelines regarding Instruments referred to in Article 57(a) of Directive 2006/48/EC recast</nadruk> van 14 juni 2010, en in het bijzonder de daarin opgenomen criteria.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+            <titel status="officieel">  &#x2013; Hybride instrumenten van banken (artikel&#xA0;57 onderdeel&#xA0;c bis CRD / <extref status="actief" doc="1.0:v:BWBR0028905&amp;artikel=4%3A1" compleet="nee">artikel&#xA0;4:1 Regeling hybride instrumenten banken en andere financi&#xEB;le ondernemingen (exclusief verzekeraars) Wft 2010</extref>)</titel>
+          </kop>
+
+          <al>DNB past als geldende internationale standaarden als bedoeld in <extref status="actief" doc="1.0:v:BWBR0028905&amp;artikel=4%3A1" compleet="nee">artikel&#xA0;4:1, derde lid, van de Regeling hybride instrumenten banken en andere financi&#xEB;le ondernemingen (exclusief verzekeraars) Wft 2010</extref>, de richtsnoeren toe van de EBA, zoals opgenomen in de <nadruk type="cur">Implementation Guidelines for Hybrid Capital Instruments</nadruk> van 10 december 2009.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+            <titel status="officieel">&#x2013; Erkenning van kredietbeoordelingsbureaus (artikel&#xA0;81 CRD / <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=88" compleet="nee">artikel&#xA0;88 Besluit</extref>)</titel>
+          </kop>
+
+          <al>DNB baseert zich bij het vaststellen van de procedure, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=88" compleet="nee">artikel&#xA0;88, tweede lid, van het Besluit</extref>, op de richtsnoeren van de EBA voor de erkenning van kredietbeoordelingsbureaus, zoals opgenomen in de <nadruk type="cur">Revised Guidelines on the recognition of External Credit Assessment Institutions</nadruk> van 30 november 2010.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+            <titel status="officieel">&#x2013; Definitie van &#x2018;groep van verbonden wederpartijen&#x2019; (artikel&#xA0;4 punt&#xA0;45 CRD / <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=1" compleet="nee">artikel&#xA0;1 Besluit</extref>)</titel>
+          </kop>
+
+          <al>DNB baseert zich met betrekking tot de reikwijdte van de definitie van het begrip <nadruk type="cur">groep van verbonden wederpartijen</nadruk>, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=1" compleet="nee">artikel&#xA0;1 van het Besluit</extref>, op de richtsnoeren van de EBA, zoals opgenomen in deel&#xA0;I van de <nadruk type="cur">Guidelines on the implementation of the revised large exposure regime</nadruk> van 11 december 2009. </al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+            <titel status="officieel">&#x2013; Definitie van &#x2018;grote posten&#x2019; (artikel&#xA0;106 tweede lid CRD / <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=1" compleet="nee">artikel&#xA0;1 Besluit</extref>)</titel>
+          </kop>
+
+          <al>DNB baseert zich met betrekking tot de reikwijdte van de in onderdeel b van de definitie van het begrip <nadruk type="cur">grote posten</nadruk> in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=1" compleet="nee">artikel&#xA0;1 van het Besluit</extref> opgenomen uitzonderingen, op de richtsnoeren van de EBA, zoals opgenomen in de <nadruk type="cur">Implementation Guidelines on Article 106(2) (c) and (d) of Directive 2006/48/EC recast</nadruk> van 28 juli 2010.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+            <titel status="officieel">&#x2013; Definitie van &#x2018;groep van verbonden wederpartijen&#x2019; (artikel&#xA0;106 derde lid CRD / <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=1" compleet="nee">artikel&#xA0;1 Besluit</extref>)</titel>
+          </kop>
+          <al>DNB neemt bij de beoordeling of sprake is van een <nadruk type="cur">groep van verbonden wederpartijen</nadruk>, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=1" compleet="nee">artikel&#xA0;1 van het Besluit</extref>, bij:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>vorderingen uit hoofde van constructies betreffende securitisatieposities;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>vorderingen in de vorm van rechten van deelneming in instellingen voor collectieve belegging in effecten; of</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>overige posten,</al>
+            </li>
+          </lijst>
+
+          <al>in aanmerking de constructie van deze posten als zodanig, of de onderliggende posities ervan, dan wel beide, zulks aan de hand van de economische kenmerken en risico&#x2019;s die verbonden zijn aan die constructies en met in achtneming van de richtsnoeren van de EBA, zoals opgenomen in deel&#xA0;II van de <nadruk type="cur">Guidelines on the implementation of the revised large exposure regime</nadruk> van 11&#xA0;december 2009.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+            <titel status="officieel">&#x2013; Blootstelling aan overgedragen kredietrisico (artikel&#xA0;122 bis CRD / <extref status="actief" doc="1.0:v:BWBR0028907&amp;hoofdstuk=7" compleet="nee">hoofdstuk&#xA0;7 Regeling securitisaties Wft 2011</extref>)</titel>
+          </kop>
+
+          <al>DNB oefent het toezicht op de naleving van de in <extref status="actief" doc="1.0:v:BWBR0028907&amp;hoofdstuk=7" compleet="nee">hoofdstuk 7 van de Regeling securitisaties Wft 2011</extref> opgenomen regels met betrekking tot blootstelling aan overgedragen kredietrisico&#x2019;s uit met inachtneming van de richtsnoeren van de EBA, zoals opgenomen in de <nadruk type="cur">Guidelines to Article 122a of the Capital Requirements Directive</nadruk> van 31 december 2010.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+            <titel status="officieel">&#x2013; Gezamenlijke besluitvorming college van toezichthouders met betrekking tot het SREP (artikelen&#xA0;129 derde lid en 136 tweede lid CRD / <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A18a" compleet="nee">artikelen 3:18a</extref> en <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A111a" compleet="nee">3:111a Wft</extref>)</titel>
+          </kop>
+          <al>Indien DNB deelneemt aan een college van toezichthouders, handelt zij met betrekking tot:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>het proces van gezamenlijke besluitvorming, bedoeld in artikel&#xA0;129, derde lid, van de CRD;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de evaluatie, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A18a" compleet="nee">artikel&#xA0;3:18a, eerste lid, van de Wft</extref>; of</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de toepassing van <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A111a" compleet="nee">artikel&#xA0;3:111a van de Wft</extref> inzake door DNB te nemen maatregelen indien een onderneming niet voldoet aan de bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0020368" compleet="nee">Wft</extref> gestelde eisen met betrekking tot de bedrijfsvoering of het toetsingsvermogen,</al>
+            </li>
+          </lijst>
+          <al>in overeenstemming met de richtsnoeren van de EBA, zoals opgenomen in de Guidelines for the joint assessment of the elements covered by the supervisory review and evaluation process (SREP) and the joint decision regarding the capital adequacy of cross-border groups (GL39) van 22 december 2010.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+            <titel status="officieel">&#x2013; Oprichting en operationale werking van colleges van toezichthouders (artikel&#xA0;131 bis CRD / <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A278b" compleet="nee">artikel&#xA0;3:278b Wft</extref>)</titel>
+          </kop>
+
+          <al>In het geval DNB toezicht houdt op geconsolideerde basis, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A278b" compleet="nee">artikel&#xA0;3:278b, eerste lid, van de Wft</extref>, baseert zij zich bij de schriftelijke vaststelling en de toepassing van de in artikel&#xA0;131 van de CRD bedoelde regeling voor de oprichting en operationele werking van het college van toezichthouders op de richtsnoeren van de EBA, zoals opgenomen in <nadruk type="cur">CEBS&#x2019; Guidelines for the Operational Functioning of Supervisory Colleges (GL&#xA0;34)</nadruk> van 15 juni 2010.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">12</nr>
+            <titel status="officieel">&#x2013; Openbaarmaking van gegevens onder omstandigheden van stress (artikel&#xA0;145 eerste lid CRD / <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A74a" compleet="nee">artikel&#xA0;3:74a Wft</extref>)</titel>
+          </kop>
+
+          <al>DNB baseert zich bij het toezicht op de naleving van <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A74a" compleet="nee">artikel&#xA0;3:74a van de Wft</extref>, inzake de door banken en beleggingsondernemingen met zetel in Nederland openbaar te maken gegevens, bedoeld in bijlage XII, delen 2 en 3, van de CRD, in tijden van stress mede op de richtsnoeren van de EBA, zoals opgenomen in de <nadruk type="cur">Principles for disclosure in times of stress (lessons learnt from the financial crisis)</nadruk> van 26 april 2010.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">13</nr>
+            <titel status="officieel">&#x2013; Beheersing van relevante risico&#x2019;s en governance (artikel&#xA0;22 en bijlage&#xA0;V CRD / <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A10" compleet="nee">artikelen&#xA0;3:10</extref> en <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A17" compleet="nee">3:17 Wft</extref>)</titel>
+          </kop>
+
+          <al>DNB baseert zich bij het toezicht op de naleving van het bepaalde bij of krachtens <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A10" compleet="nee">artikel&#xA0;3:10</extref> en <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A17" compleet="nee">artikel&#xA0;3:17 van de Wft</extref> met betrekking tot de beheerste en integere bedrijfsuitoefening (governance) van een bank of beleggingsonderneming, en de bedrijfsprocessen van een bank of beleggingsonderneming gericht op het beheersen van relevante risico&#x2019;s, op de richtsnoeren van de EBA voor een adequate governance van de onderneming, zoals opgenomen in het de <nadruk type="cur">EBA Guidelines on Internal Governance</nadruk> van 26 September 2011.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">14</nr>
+            <titel status="officieel">&#x2013; Operationeel risico bij marktgerelateerde activiteiten (bijlage&#xA0;V CRD / <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=17" compleet="nee">artikelen&#xA0;17</extref> en&#xA0;<extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=23" compleet="nee">23 Besluit</extref>)</titel>
+          </kop>
+
+          <al>DNB baseert zich bij het toezicht op de naleving van het bepaalde in de <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=17" compleet="nee">artikelen 17</extref> en <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=23" compleet="nee">23, derde lid, van het Besluit</extref>, met betrekking tot de organisatie-inrichting en de vastlegging in procedures en maatregelen van het beleid van een bank of beleggingsonderneming met betrekking tot het beheersen van het operationeel risico, op de richtsnoeren van de EBA, zoals opgenomen in de <nadruk type="cur">Guidelines on the management of operational risks in market-related activities</nadruk> van 12 oktober 2010.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">15</nr>
+            <titel status="officieel">&#x2013; Mechanismen van overdracht van operationeel risico (bijlage&#xA0;X deel&#xA0;3 CRD / <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=78" compleet="nee">artikel&#xA0;78 Besluit</extref> en <extref status="actief" doc="1.0:v:BWBR0020726&amp;afdeling=4.2" compleet="nee">afdeling 4.2 Regeling solvabiliteitseisen operationeel risico Wft 2010</extref>)</titel>
+          </kop>
+
+          <al>In het geval een bank of beleggingsonderneming de vereiste solvabiliteit ter dekking van het operationeel risico berekent op basis van de geavanceerde benadering, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=78" compleet="nee">artikel&#xA0;78, eerste lid, van het Besluit</extref>, en in haar risicomeetsysteem het risicoverminderende effect van verzekering of van andere mechanismen van risico-overdracht in aanmerking neemt, betrekt DNB bij de beoordeling van deze mechanismen de richtsnoeren van de EBA, zoals opgenomen in de <nadruk type="cur">Guidelines on Operational Risk Mitigation Techniques</nadruk> van 22 december 2009.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">16</nr>
+            <titel status="officieel">&#x2013; Beoordeling van gekwalificeerde deelnemingen in financi&#xEB;le ondernemingen (richtlijn deelnemingen in de financi&#xEB;le sector / <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A95" compleet="nee">artikelen&#xA0;3:95</extref> en <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A100" compleet="nee">3:100 Wft</extref>)</titel>
+          </kop>
+
+          <al>DNB baseert zich bij de beoordeling of ten aanzien van een aanvraag van een verklaring van geen bezwaar als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A95" compleet="nee">artikel&#xA0;3:95, eerste lid, van de Wft</extref>, een of meer van de weigeringsgronden, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A100" compleet="nee">artikel&#xA0;3:100, eerste lid, van de Wft</extref> van toepassing is, op de richtsnoeren van de EBA, zoals opgenomen in de <nadruk type="cur">Guidelines for the prudential assessment of acquisitions and increases in holdings in the financial sector required by Directive 2007/44/EC</nadruk> van 18 december 2008.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">17</nr>
+            <titel status="officieel">&#x2013; Uitbreiding en verandering van de geavanceerde benadering voor de berekening van de vereiste solvabiliteit ter dekking van het operationele risico (bijlage&#xA0;X deel&#xA0;3 CRD / <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=78" compleet="nee">artikel&#xA0;78 Besluit</extref> en <extref status="actief" doc="1.0:v:BWBR0020726&amp;afdeling=4.2" compleet="nee">afdeling 4.2 Regeling solvabiliteitseisen operationeel risico Wft 2010</extref>)</titel>
+          </kop>
+
+          <al>In het geval een bank of beleggingsonderneming de vereiste solvabiliteit ter dekking van het operationeel risico berekent op basis van de geavanceerde benadering, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=78" compleet="nee">artikel&#xA0;78, eerste lid, van het Besluit</extref>, betrekt DNB bij de beoordeling van het beleid van deze onderneming met betrekking tot een uitbreiding of verandering van de geavanceerde benadering en in de communicatie met DNB hierover de richtsnoeren van de EBA, zoals opgenomen in de <nadruk type="cur">EBA Guidelines on Advanced Measurement Approach (AMA) &#x2013; Extensions and Changes</nadruk>, van 6 januari 2012.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">18</nr>
+            <titel status="officieel">&#x2013; berekening van een stresswaarde van het potenti&#xEB;le verlies (stressed value at risk &#x2013; stressed-VaR) (bijlage V CAD / <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=77" compleet="nee">artikel&#xA0;77 Besluit</extref> en <extref status="actief" doc="1.0:v:BWBR0020700&amp;paragraaf=4.2" compleet="nee">artikel&#xA0;4:22 van de Regeling solvabiliteitseisen marktrisico Wft 2011</extref>)</titel>
+          </kop>
+
+          <al>In het geval een bank of beleggingsonderneming de vereiste solvabiliteit ter dekking van het marktrisico berekent met behulp van eigen interne modellen, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=77" compleet="nee">artikel&#xA0;77, eerste lid, van het Besluit</extref>, betrekt DNB bij de beoordeling van de toepassing van <extref status="actief" doc="1.0:v:BWBR0020700&amp;paragraaf=4.2" compleet="nee">artikel&#xA0;4:22 van de regeling solvabiliteitseisen marktrisico Wft 2011</extref> de richtsnoeren van de EBA, zoals opgenomen in de <nadruk type="cur">EBA Guidelines on Stressed Value At Risk (Stressed VaR), EBA/GL/2012/2</nadruk>, van 16 mei 2012.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">19</nr>
+            <titel status="officieel">&#x2013; modellering van de Incremental Risk Charge (IRC) modellen voor de weergave van de aan de posities in de handelsportefeuille verbonden specifiek renterisico (bijlage V CAD / <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=77" compleet="nee">artikel&#xA0;77 Besluit</extref> en <extref status="actief" doc="1.0:v:BWBR0020700&amp;paragraaf=4.2" compleet="nee">&#xA7; 4.2 van de Regeling solvabiliteitseisen marktrisico 2011</extref>)</titel>
+          </kop>
+
+          <al>In het geval een bank of beleggingsonderneming de vereiste solvabiliteit ter dekking van het marktrisico berekent met behulp van eigen modellen , bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=77" compleet="nee">artikel&#xA0;77, eerste lid, van het Besluit</extref>, betrekt DNB bij de beoordeling van de modellering van het Incremental Risk Charge (IRC) model voor de weergave van het aan de posities in de handelsportefeuille verbonden specifiek renterisico, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020700&amp;paragraaf=4.2" compleet="nee">&#xA7; 4.2 van de Regeling solvabiliteitseisen marktrisico 2011</extref>, de richtsnoeren van de EBA, zoals opgenomen in de <nadruk type="cur">EBA Guidelines on the Incremental Default and Migration Risk Charge (IRC), EBA/GL/2012/3</nadruk>, van 16 mei 2012.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>Paragraaf</label><nr status="officieel">3</nr><titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">20</nr>
+          </kop>
+          <al>De <extref status="actief" doc="1.0:v:BWBR0030271" compleet="nee">Beleidsregel toepassing richtsnoeren EBA Wft</extref> (Stcrt. 2011, 13104) en de <extref status="actief" doc="1.0:v:BWBR0031342" compleet="nee">Beleidsregel toepassing richtsnoeren EBA Wft 2012</extref> (Stcrt. 2012, 4959) worden ingetrokken.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">21</nr>
+          </kop>
+          <al>Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze beleidsregel wordt geplaatst.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">22</nr>
+          </kop>
+          <al>Deze beleidsregel wordt aangehaald als: Beleidsregel toepassing richtsnoeren EBA Wft.</al>
+        </artikel>
+      </paragraaf>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Amsterdam</plaats>
+          <datum isodatum="2012-07-27">27 juli 2012</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>
+        <functie>De Nederlandsche Bank N.V.,</functie>
+        <naam>
+          <voornaam>J.</voornaam>
+          <achternaam> Sijbrand, </achternaam>
+        </naam>
+        <functie>directeur.</functie>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

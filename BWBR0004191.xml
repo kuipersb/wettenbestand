@@ -1,0 +1,648 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0004191" dtdversie="2.0" id="42079" soort="wet" xml:lang="nl">
+    
+    <intitule>Wet van 7 juli 1987, houdende herziene regeling van de
+    Nederlandse organisatie voor zuiver-wetenschappelijk onderzoek</intitule>
+    
+    <wet-besluit>
+        <aanhef>
+    <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden,
+        Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+    <considerans>
+        <considerans.al>Allen, die deze zullen zien of horen lezen,
+            saluut! doen te weten:</considerans.al>
+        <considerans.al>Alzo Wij in overweging genomen hebben, dat het
+            wenselijk is de taak en de bestuursstructuur van de
+            Nederlandse organisatie voor zuiver-wetenschappelijk
+            onderzoek te wijzigen;</considerans.al>
+        <considerans.al>dat het in verband daarmede noodzakelijk is de
+            regeling van deze organisatie, vervat in de Wet op het
+            Zuiver-Wetenschappelijk Onderzoek (<nadruk type="cur">Stb.</nadruk> 1950, K5), te herzien;</considerans.al>
+    </considerans>
+    <afkondiging>
+        <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen
+            overleg der Staten-Generaal, hebben goedgevonden en
+            verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+    </afkondiging>
+</aanhef>
+        <wettekst>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr status="officieel">I</nr>
+        <titel status="officieel">Algemene bepalingen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>1</nr>
+    <titel>Begripsbepalingen</titel></kop>
+    <al>In deze wet wordt verstaan onder:</al> 
+				  <lijst type="expliciet"> 
+					 <li> 
+						<li.nr>a.</li.nr><al>Onze Minister: Onze Minister van Onderwijs, Cultuur en
+						  Wetenschap;</al> 
+					 </li> 
+					 <li> 
+						<li.nr>b.</li.nr><al>organisatie: de organisatie, genoemd in <intref status="actief" doc="1.0:v:BWBR0004191&amp;artikel=2">artikel 2, eerste
+						  lid</intref>;</al> 
+					 </li> 
+					 <li> 
+						<li.nr>c.</li.nr><al>reglement: het reglement, bedoeld in <intref status="actief" doc="1.0:v:BWBR0004191&amp;artikel=16">artikel 16</intref>.</al> 
+					 </li> 
+				  </lijst>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>2</nr>
+    <titel>Nederlandse organisatie voor wetenschappelijk onderzoek
+				(NWO)</titel></kop>
+    <lid>
+        <lidnr>1</lidnr>
+        <al>Er is een organisatie, genaamd Nederlandse organisatie voor
+            wetenschappelijk onderzoek.</al>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al> De organisatie bezit rechtspersoonlijkheid; zij is
+            gevestigd te 's-Gravenhage.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">2a</nr>
+                        <titel status="officieel">Toepassing
+<extref status="actief" doc="1.0:v:BWBR0020495" compleet="nee">Kaderwet zbo's</extref></titel>
+                     </kop>
+                     <al>Op de organisatie is
+de <extref status="actief" doc="1.0:v:BWBR0020495" compleet="nee">Kaderwet zelfstandige bestuursorganen</extref> van toepassing met
+uitzondering van <extref status="actief" doc="1.0:v:BWBR0020495&amp;artikel=15" compleet="nee">artikel 15 van die
+wet</extref>.</al>
+                  </artikel><artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>3</nr>
+    <titel>Taken NWO</titel></kop>
+    <lid>
+        <lidnr>1</lidnr>
+        <al>De organisatie heeft tot taak het bevorderen van de
+            kwaliteit van wetenschappelijk onderzoek alsmede het
+            initi&#xEB;ren en stimuleren van nieuwe ontwikkelingen in het
+            wetenschappelijk onderzoek.</al>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al> De organisatie voert haar taak uit in het bijzonder door
+            het toewijzen van middelen.</al>
+    </lid>
+    <lid>
+        <lidnr>3</lidnr>
+        <al> De organisatie bevordert de overdracht van kennis van de
+            resultaten van door haar ge&#xEF;nitieerd en gestimuleerd
+            onderzoek ten behoeve van de maatschappij.</al>
+    </lid>
+    <lid>
+        <lidnr>4</lidnr>
+        <al> De organisatie richt zich bij het uitvoeren van haar taak
+            in hoofdzaak op het universitaire onderzoek. Daarbij let zij
+            op het aspect van co&#xF6;rdinatie en bevordert deze waar nodig.</al>
+    </lid>
+</artikel>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>II</nr>
+        <titel>Het bestuur en de inrichting van de organisatie</titel>
+    </kop>
+    <paragraaf>
+    <kop>
+        <label>&#xA7;</label>
+        <nr>1</nr>
+        <titel>Het algemeen bestuur</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">4</nr>
+    <titel status="officieel">Taak
+algemeen bestuur</titel></kop>
+    <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Aan het
+algemeen bestuur behoort de bevoegdheid tot regeling en bestuur van de
+organisatie.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Het
+algemeen bestuur is, met inachtneming van het instellingsplan, bedoeld
+in <intref status="actief" doc="1.0:v:BWBR0004191&amp;artikel=18">artikel 18, eerste lid</intref>, en de door Onze Minister goedgekeurde
+begroting, belast met het toewijzen van middelen ten behoeve van
+onderzoeksprojecten en
+onderzoeksprogramma&#x2019;s.</al>
+                     </lid>
+</artikel>
+    
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">6</nr>
+    <titel status="officieel">Samenstelling algemeen bestuur</titel></kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Het algemeen bestuur bestaat uit een voorzitter en ten
+            hoogste zes overige leden. Het aantal leden wordt door Onze
+Minister vastgesteld.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al>Onverminderd <extref status="actief" doc="1.0:v:BWBR0020495&amp;artikel=12" compleet="nee">artikel 12 van de Kaderwet zelfstandige bestuursorganen</extref>,
+worden de voorzitter en de overige leden van het algemeen bestuur
+benoemd door Onze Minister, het algemeen bestuur gehoord. De benoeming
+geschiedt voor een termijn van ten hoogste vijf
+jaren. De leden kunnen
+            &#xE9;&#xE9;nmaal opnieuw worden benoemd.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Onze Minister stelt de Koninklijke Nederlandse Akademie van
+            Wetenschappen en de universiteiten, genoemd in de bijlage
+            bij de <extref status="actief" doc="1.0:v:BWBR0005682" compleet="nee">Wet op het hoger onderwijs en
+                wetenschappelijk onderzoek</extref>,
+            gezamenlijk, in de gelegenheid van hun gevoelens te doen
+            blijken over een voornemen tot benoeming als bedoeld in het
+tweede lid.</al>
+    </lid>
+    
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al> Het lidmaatschap van het algemeen bestuur is onverenigbaar
+            met dat van een gebiedsbestuur. Een lid van het personeel kan niet worden benoemd tot lid
+            van het algemeen bestuur.</al>
+    </lid>
+</artikel>
+    <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr>7</nr> 
+	 <titel>Vertegenwoordiging NWO</titel>
+  </kop> 
+  <lid> 
+	 <lidnr>1</lidnr> 
+	 <al>De voorzitter van het algemeen bestuur vertegenwoordigt de organisatie
+		in en buiten rechte.</al> 
+  </lid> 
+  <lid> 
+	 <lidnr>2</lidnr> 
+	 <al> Het algemeen bestuur wijst uit zijn midden een vice-voorzitter aan,
+		die bij afwezigheid of ontstentenis van de voorzitter deze vervangt.</al> 
+  </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>8</nr>
+    <titel>Algemeen directeur NWO</titel></kop>
+    <lid>
+        <lidnr>1</lidnr>
+        <al>Het algemeen bestuur wordt bijgestaan door een algemeen directeur.</al>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al> Het algemeen bestuur benoemt, schorst en ontslaat de
+            algemeen directeur.</al>
+    </lid>
+    <lid>
+        <lidnr>3</lidnr>
+        <al> De algemeen directeur is belast met de leiding van het
+            bureau van de organisatie.</al>
+    </lid>
+    <lid>
+        <lidnr>4</lidnr>
+        <al> Het algemeen bestuur stelt de taakomschrijving van de
+            algemeen directeur vast, de gebiedsbesturen gehoord.</al>
+    </lid>
+</artikel>
+</paragraaf>
+    <paragraaf>
+    <kop>
+        <label>&#xA7;</label>
+        <nr>2</nr>
+        <titel>De gebiedsbesturen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">9</nr>
+    <titel status="officieel">Taken
+gebiedsbesturen</titel></kop>
+    <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Het
+algemeen bestuur kan voor een wetenschapsgebied een gebiedsbestuur
+instellen.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Onverminderd
+mandaatverlening aan andere organisaties dan gebiedsbesturen, kan het
+algemeen bestuur aan een gebiedsbestuur mandaat verlenen om, met
+inachtneming van door het algemeen bestuur te geven richtlijnen, het
+instellingsplan, bedoeld in <intref status="actief" doc="1.0:v:BWBR0004191&amp;artikel=18">artikel 18, eerste lid</intref>, en de door Onze
+Minister goedgekeurde begroting, middelen te verstrekken ten behoeve
+van onderzoeksprojecten en onderzoeksprogramma&#x2019;s.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Een
+gebiedsbestuur adviseert het algemeen bestuur desgevraagd of uit eigen
+beweging.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Bij
+reglement wordt bepaald welke de verdere bevoegdheden en inrichting van
+een gebiedsbestuur
+zijn.</al>
+                     </lid></artikel>
+    
+</paragraaf>
+    <paragraaf>
+    <kop>
+        <label>&#xA7;</label>
+        <nr>3</nr>
+        <titel>De afdelingsbesturen</titel>
+    </kop>
+    
+    
+</paragraaf>
+    <paragraaf>
+    <kop>
+        <label>&#xA7;</label>
+        <nr>4</nr>
+        <titel>Het personeel</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>13</nr>
+    <titel>Personeelsbeleid</titel></kop>
+    <al>Het algemeen bestuur voert het personeelsbeleid en
+            personeelsbeheer, daar onder begrepen de bevoegdheid tot het
+            in dienst nemen, schorsen en ontslaan van het personeel.</al></artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>14</nr>
+    <titel>Rechtspositie personeel</titel></kop>
+    <al>Voor zover bij algemene maatregel van bestuur niet anders is
+        bepaald, is op het personeel van de organisatie het bij of
+        krachtens <extref status="actief" doc="1.0:v:BWBR0005682&amp;artikel=4.5" compleet="nee">artikel 4.5. van de
+            Wet op het hoger onderwijs en
+            wetenschappelijk onderzoek</extref> bepaalde van overeenkomstige toepassing.</al>
+</artikel>
+</paragraaf>
+    <paragraaf>
+    <kop>
+        <label>&#xA7;</label>
+        <nr>5</nr>
+        <titel>Het reglement</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>15</nr>
+    <titel>Inhoud reglement</titel></kop>
+    <al>Het bestuur en de inrichting van de organisatie alsmede de
+        bestuurlijke betrekkingen van de organisatie tot de
+        onderzoekorganisaties voor zover daaraan krachtens deze wet
+        middelen worden toegewezen, worden nader bij reglement geregeld.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">16</nr>
+    <titel status="officieel">Vaststelling
+reglement</titel></kop>
+    <al>Onverminderd <extref status="actief" doc="1.0:v:BWBR0020495&amp;artikel=11" compleet="nee">artikel 11
+van de Kaderwet zelfstandige bestuursorganen</extref> wordt het reglement
+vastgesteld door het algemeen
+bestuur.</al></artikel>
+</paragraaf>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>III</nr>
+        <titel>Planning, financi&#xEB;le bepalingen,
+            verslag en rekening</titel>
+    </kop>
+    <paragraaf>
+    <kop>
+        <label>&#xA7;</label>
+        <nr>1</nr>
+        <titel>Wetenschapsbudget</titel>
+    </kop>
+    <artikel status="goed"> 
+				  <kop> 
+					 <label>Artikel</label> 
+					 <nr>16a</nr> 
+					 <titel>Wetenschapbudget</titel> 
+				  </kop> 
+				  <lid> 
+					 <lidnr>1</lidnr> 
+					 <al>Onze Minister stelt het wetenschapsbudget vast. Het
+						wetenschapsbudget heeft betrekking op een tijdvak van ten minste vier
+						jaren.</al> 
+				  </lid> 
+				  <lid> 
+					 <lidnr>2</lidnr> 
+					 <al>Onze Minister agendeert, in overeenstemming met het
+						gevoelen van de raad van ministers, in het wetenschapsbudget beleidsonderwerpen
+						op het terrein van het fundamenteel en toegepast onderzoek.</al> 
+				  </lid> 
+				</artikel><artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>17</nr>
+    <titel>Vaststelling wetenschapbudget</titel></kop>
+    <lid> 
+					 <lidnr>1</lidnr> 
+					 <al>Het
+wetenschapsbudget wordt vastgesteld uiterlijk vier jaar na het tijdstip
+van vaststelling van het vorige wetenschapsbudget. Na overleg met de
+beide Kamers der Staten-Generaal kan het wetenschapsbudget uiterlijk
+zes maanden na het tijdstip, bedoeld in de eerste volzin, worden
+vastgesteld.</al></lid> 
+				  <lid> 
+					 <lidnr>2</lidnr> 
+					 <al>Onze Minister biedt uiterlijk zes maanden voorafgaand aan
+						het tijdstip waarop het wetenschapsbudget moet zijn vastgesteld, een ontwerp
+						daarvan aan de beide Kamers der Staten-Generaal aan.</al> 
+				  </lid> 
+				  <lid> 
+					 <lidnr>3</lidnr> 
+					 <al>Over de wijze waarop het vastgestelde wetenschapsbudget
+						wordt openbaar gemaakt, doet Onze Minister mededeling in
+						de Staatscourant.</al> 
+				  </lid>
+</artikel>
+    
+</paragraaf>
+    <paragraaf><kop><label>&#xA7;</label><nr>2</nr><titel>Planning</titel></kop><artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">18</nr>
+    <titel status="officieel">Meerjarig instellingsplan</titel></kop>
+    <lid> 
+					 <lidnr status="officieel">1</lidnr> 
+					 <al>Het algemeen bestuur stelt, rekening houdend met
+						voorstellen van de gebiedsbesturen, een instellingsplan vast uiterlijk vier
+						jaar na het tijdstip van vaststelling van het vorige plan. Het algemeen bestuur
+						zendt het plan na vaststelling onverwijld aan Onze Minister.</al> 
+				  </lid> 
+				  <lid> 
+					 <lidnr status="officieel">2</lidnr> 
+					 <al>In het instellingsplan wordt tevens rekening gehouden met
+						het wetenschapsbudget, bedoeld in <intref status="actief" doc="1.0:v:BWBR0004191&amp;artikel=16a">artikel 16a</intref>, de instellingsplannen van
+						universiteiten, verkenningen, rapporten, adviezen en aanbevelingen, een en
+						ander voorzover die naar het oordeel van het algemeen bestuur van belang zijn
+						voor de uitvoering van de taken van de organisatie.</al> 
+				  </lid> 
+				  <lid> 
+					 <lidnr status="officieel">3</lidnr> 
+					 <al>Het instellingsplan omvat in elk geval:</al> 
+					 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+						<li> 
+						  <li.nr>a.</li.nr><al>doelstellingen van de organisatie op middellange
+							 termijn;</al> 
+						</li> 
+						<li> 
+						  <li.nr>b.</li.nr><al>hoofdlijnen van het te voeren beleid en de daarin te
+							 stellen prioriteiten;</al> 
+						</li> 
+						<li> 
+						  <li.nr>c.</li.nr><al>financi&#xEB;le, personele, materi&#xEB;le en organisatorische
+							 voorwaarden die moeten worden vervuld.</al> 
+						</li> 
+					 </lijst> 
+				  </lid> 
+				  <lid> 
+					 <lidnr status="officieel">4</lidnr> 
+					 <al>Onze Minister brengt zijn standpunt over het
+						instellingsplan binnen zes maanden na ontvangst van het plan ter kennis van het
+						algemeen bestuur. Onze Minister doet daarvan en van het instellingsplan
+						afschrift toekomen aan de beide Kamers van de Staten-Generaal.</al> 
+				  </lid> 
+				  
+</artikel></paragraaf><paragraaf> 
+  <kop> 
+	 <label>&#xA7;</label> 
+	 <nr>3</nr> 
+	 <titel>Financi&#xEB;le bepalingen</titel> 
+  </kop> 
+  <artikel status="goed">
+    <kop> 
+		<label>Artikel</label> 
+		<nr status="officieel">19</nr> 
+		<titel status="officieel">Financi&#xEB;le middelen van NWO</titel>
+	 </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>De inkomsten van de organisatie bestaan uit: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>de bijdrage uit &#x2019;s Rijks kas;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>inkomsten, die samenhangen met voorzieningen
+                    waarvoor de rijksbijdrage is verleend;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>andere inkomsten.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> De rijksbijdrage wordt vastgesteld of nader vastgesteld
+            door de vaststelling of nadere vaststelling bij wet van het
+            hoofdstuk van de rijksbegroting waarop zij is voorgesteld.
+            De rijksbijdrage wordt betaald in zodanige termijnen en tot
+            zodanige bedragen als voor het doen van de betalingen door
+            de organisatie nodig is.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Zolang de rijksbijdrage niet is vastgesteld of nader
+            vastgesteld, wordt daarop een voorschot betaald
+            overeenkomstig door Onze Minister te stellen regelen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al> Bij vaststelling van de rijksbijdrage blijven inkomsten als
+            bedoeld in het eerste lid onder c, buiten beschouwing.</al>
+    </lid>
+    
+</artikel> 
+  <artikel status="goed">
+    <kop> 
+		<label>Artikel</label> 
+		<nr>20</nr> 
+		<titel>Doelmatig beheer</titel>
+	 </kop>
+    <al>Het algemeen bestuur is belast met het doelmatig beheer van de
+        financi&#xEB;n en de vermogensbestanddelen van de organisatie.</al>
+</artikel> 
+  <artikel status="goed">
+    <kop> 
+		<label>Artikel</label> 
+		<nr status="officieel">21</nr> 
+		<titel status="officieel">Begroting</titel>
+	 </kop>
+    <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Het
+algemeen bestuur zendt jaarlijks voor 1&#xA0;november aan Onze Minister
+de begroting voor het daaropvolgende jaar.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Onverminderd
+de <extref status="actief" doc="1.0:v:BWBR0020495&amp;artikel=26" compleet="nee">artikelen 26 tot en met 30 van de Kaderwet zelfstandige
+bestuursorganen</extref>, is in de begroting een allocatie van middelen
+opgenomen die in overeenstemming is met het instellingsplan, bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0004191&amp;artikel=18">artikel 18</intref>. In de begroting wordt rekening gehouden met de voorstellen
+van de
+gebiedsbesturen.</al>
+                     </lid></artikel> 
+   
+   
+  <artikel status="goed"> 
+	 <kop> 
+		<label>Artikel</label> 
+		<nr status="officieel">24</nr> 
+		<titel status="officieel">Jaarverslag</titel> 
+	 </kop> 
+	 <al>Onverminderd <extref status="actief" doc="1.0:v:BWBR0020495&amp;artikel=18" compleet="nee">artikel 18 van de Kaderwet
+zelfstandige bestuursorganen</extref> geeft het jaarverslag aan in hoeverre de
+doelstellingen uit het instellingsplan, bedoeld in <intref status="actief" doc="1.0:v:BWBR0004191&amp;artikel=18">artikel 18</intref>, zijn
+verwezenlijkt.</al> 
+  </artikel><artikel status="goed">
+    <kop> 
+		<label>Artikel</label> 
+		<nr status="officieel">25</nr> 
+		<titel status="officieel">Jaarrekening</titel>
+	 </kop>
+    <al>De goedkeuring, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020495&amp;artikel=34" compleet="nee">artikel 34, derde lid,
+van de Kaderwet zelfstandige bestuursorganen</extref>, kan tevens worden
+onthouden op de grond dat de jaarrekening naar het oordeel van Onze
+Minister niet of niet voldoende in overeenstemming is met het
+instellingsplan, bedoeld in <intref status="actief" doc="1.0:v:BWBR0004191&amp;artikel=18">artikel 18</intref>. <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=10%3A30" compleet="nee">Artikel 10:30 van de Algemene
+wet bestuursrecht</extref> is van overeenkomstige
+toepassing.</al></artikel> 
+  <artikel status="goed">
+    <kop> 
+		<label>Artikel</label> 
+		<nr status="officieel">26</nr> 
+		<titel status="officieel">Aanvullende
+eis jaarrekening</titel>
+	 </kop>
+    <al>Onverminderd
+<extref status="actief" doc="1.0:v:BWBR0020495&amp;artikel=35" compleet="nee">artikel 35 van de Kaderwet zelfstandige bestuursorganen</extref> kan Onze
+Minister, indien uitgaven zijn geschied in strijd met het bepaalde bij
+of krachtens de wet, dan wel indien werkzaamheden ten behoeve waarvan
+de rijksbijdrage is verleend, niet behoorlijk zijn uitgevoerd of de
+rijksbijdrage ondoelmatig is aangewend, bepalen dat de daarmee gemoeide
+bedragen in mindering worden gebracht op de rijksbijdrage. Hij maakt
+dit binnen een jaar na ontvangst van de jaarrekening bekend aan het
+algemeen bestuur.</al></artikel> 
+</paragraaf>
+    
+<paragraaf><kop><label>&#xA7;</label><nr>4</nr><titel>Voorschriften inrichting
+					 begroting en jaarrekening</titel></kop><artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>27</nr>
+    <titel>Voorschriften begroting, jaarverslag en
+						jaarrekening</titel></kop>
+    <al>Bij ministeri&#xEB;le regeling kunnen voorschriften worden
+					 vastgesteld voor de inrichting van de begroting, het jaarverslag en de
+					 jaarrekening.</al>
+</artikel></paragraaf></hoofdstuk>
+            <hoofdstuk><kop><label>Hoofdstuk</label><nr>IV</nr><titel>Schorsing en vernietiging van besluiten;
+		taakverwaarlozingsregeling</titel></kop></hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>V</nr>
+        <titel>Slot- en overgangsbepalingen</titel>
+    </kop>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>46</nr>
+    <titel>Inwerkingtreding</titel></kop>
+    <al>Deze wet treedt in werking met ingang van 1 februari
+					 1988.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>47</nr>
+    <titel>Citeertitel</titel></kop>
+    <al>Deze wet wordt aangehaald als: Wet op de Nederlandse
+					 organisatie voor wetenschappelijk onderzoek.</al>
+</artikel>
+</hoofdstuk>
+        </wettekst>
+        <wetsluiting status="goed">
+    <slotformulering>
+        <al>Lasten en bevelen dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat
+            alle ministeries, autoriteiten, colleges en ambtenaren wie
+            zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+    </slotformulering>
+    <gegeven>
+        <dagtekening>
+            <plaats>Gegeven te 's-Gravenhage</plaats>
+            <datum isodatum="">7 juli 1987</datum>
+        </dagtekening>
+        <koning>Beatrix</koning>
+    </gegeven>
+    <ondertekening>
+        <functie>De Minister van Onderwijs en Wetenschappen,</functie>
+        <naam>
+            <achternaam>W. J. Deetman</achternaam>
+        </naam>
+    </ondertekening>
+    <uitgifte>
+        <datum isodatum="">de elfde augustus 1987</datum>
+        <ondertekening>
+            <functie>De Minister van Justitie a.i.,</functie>
+            <naam>
+                <achternaam>C. P. van Dijk</achternaam>
+            </naam>
+        </ondertekening>
+    </uitgifte>
+</wetsluiting>
+    </wet-besluit>
+</wetgeving>
+  	

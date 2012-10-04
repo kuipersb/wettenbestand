@@ -1,0 +1,1374 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0028692" dtdversie="2.0" id="445399" soort="ministeriele-regeling-BES">
+  
+  <intitule>Reglement op de meters voor elektrische
+energie
+BES</intitule>
+  
+  <regeling>
+    <aanhef/>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+        </kop>
+        <al>Voor
+de toepassing van deze regeling wordt verstaan
+onder:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+          <li>
+            <al>
+              <nadruk type="cur">Basisstroom:</nadruk> 
+Waarde van de stroom die als basis dient voor de onderhavige
+voorschriften.</al>
+          </li>
+          <li>
+            <al>
+              <nadruk type="cur">Maximum
+stroom:</nadruk>  Maximum waarde van de stroom die
+overeenstemt met de grens van het nauwkeurigheidsgebied gesteld in de
+onderhavige
+voorschriften.</al>
+          </li>
+          <li>
+            <al>
+              <nadruk type="cur">Nominale
+spanning: </nadruk> Waarde van de spanning waarop deze
+voorschriften gebaseerd zijn. Een toestel kan &#xE9;&#xE9;n of meerdere
+nominale spanningen hebben en/of &#xE9;&#xE9;n of meerdere
+spanningsgebieden.</al>
+            <al>Is van een spanningsgebied de verhouding
+tussen de hoogste en laagste spanning niet meer dan 1,3 dan worden de
+proeven bij het gemiddelde van deze twee genomen; is deze verhouding
+meer dan 1,3 dan worden alle proeven genomen voor de beide
+grenswaarden, behoudens het gestelde in <intref status="actief" doc="1.0:v:BWBR0028692&amp;artikel=7">artikel 7 sub 1
+c</intref>.</al>
+          </li>
+          <li>
+            <al>
+              <nadruk type="cur">De constante
+van een meter:</nadruk>  Het aantal toeren van de rotor dat
+overeenkomt met &#xE9;&#xE9;n
+kWh.</al>
+          </li>
+          <li>
+            <al>
+              <nadruk type="cur">Fout:
+</nadruk> Algebraisch verschil tussen de gemeten waarde van
+een grootheid en de waarde die ze behoort te hebben, uitgedrukt in
+percenten van deze laatste
+waarde.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">I
+</nr>
+          <titel status="officieel">Eisen waaraan nieuwe meters voor electrische energie moeten
+voldoen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2
+</nr>
+            <titel status="officieel">Algemene
+voorwaarden</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Behoudens
+de proeven op de juistheid van aanwijzing worden de hierna
+voorgeschreven proeven slechts uitgevoerd bij zoveel exemplaren van een
+bepaald model meter als nodig zal blijken om te kunnen beoordelen of
+het model aan de gestelde eisen
+voldoet.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het
+hoofd van de door de op grond van artikel&#xA0;10 van de IJkwet BES
+door het bestuurscollege aangewezen dienst is bevoegd toestemming te
+verlenen tot afwijking van de voorschriften in deze regeling opgenomen
+mits de bepalingen betreffende de juistheid van aanwijzing in acht
+worden
+genomen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3
+</nr>
+            <titel status="officieel">Normale kalibers en
+soorten</titel>
+          </kop>
+          <al>Men
+onderscheidt:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>&#xE9;&#xE9;n-
+en tweepolige &#xE9;&#xE9;nfase meters met nominale spanningen van
+respectievelijk 110, 127 en 220
+V;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>driefase meters met 3
+fasedraden zonder nulleider met nominale spanningen van respectievelijk
+100, 190, 220 en 380
+V;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>driefase meters met 2
+fasedraden en
+nulleider;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>driefase meters met
+3 fasedraden en nulleider met nominale spanningen van respectievelijk
+57,7/100, 110/ 190, 127/220 en 220/380
+V;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>meters voor bijzondere
+doeleinden.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+            <titel status="officieel">Merktekens
+en
+aanduidingen</titel>
+          </kop>
+          <tussenkop kopopmaak="cur">
+            <nadruk type="cur">Kenmerken</nadruk>
+          </tussenkop>
+          <al>Iedere
+meter moet de volgende aanduidingen, die niet met eenvoudige middelen
+kunnen worden verwijderd,
+dragen:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>De
+naam van de fabrikant of zijn
+fabrieksmerk;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>Het type en het
+serienummer; indien het serienummer aangebracht is op een aan de kap
+bevestigde plaat dient dit nummer bovendien op de grondplaat of op het
+gestel aangegeven te zijn.</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>Het jaar
+van fabrikage;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>De aanduiding van het
+soort meter; deze aanduiding wordt vereenvoudigd bij gebruik van
+navolgende symbolen: elke spanningskring wordt voorgesteld door een
+streep en elke stroomkring door een punt. De punt die een stroomkring
+van een electromagneet voorstelt wordt geplaatst op een der uiteinden
+van de streep die de spanningskring van dezelfde electromagneet
+voorstelt; het aantal strepen duidt ook het aantal electromagneten
+aan:</al>
+              <table colsep="0" frame="none" pgwide="1" rowsep="0" tabstyle="tekst">
+                <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="tekst">
+                  <colspec colname="col1" colnum="1" colwidth="50*"/>
+                  <colspec colname="col2" colnum="2" colwidth="79.5*"/>
+                  <tbody valign="top">
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <plaatje>
+                          <illustratie bin-id="247350" breedte="32mm" display="block" formaat="png" hoogte="20mm" kleur="nee" naam="79435-001.eps" type="lijn" uitlijning="start" url="http://wetten.overheid.nl/Illustration/247350"/>
+                        </plaatje>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>duidt
+aan dat de meter een electromagneet bevat die &#xE9;&#xE9;n stroomkring
+en &#xE9;&#xE9;n spanningskring heeft (&#xE9;&#xE9;npolig
+schema).</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <plaatje>
+                          <illustratie bin-id="247351" breedte="32mm" display="block" formaat="png" hoogte="14mm" kleur="nee" naam="79435-002.eps" type="lijn" uitlijning="start" url="http://wetten.overheid.nl/Illustration/247351"/>
+                        </plaatje>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>duidt
+aan dat de meter een electromagneet bevat die &#xE9;&#xE9;n
+spanningskring en twee stroomkringen heeft (tweepolig
+schema).</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <plaatje>
+                          <illustratie bin-id="247352" breedte="32mm" display="block" formaat="png" hoogte="19mm" kleur="nee" naam="79435-003.eps" type="lijn" uitlijning="start" url="http://wetten.overheid.nl/Illustration/247352"/>
+                        </plaatje>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>duidt
+aan dat de meter twee electromagneten bevat die elk &#xE9;&#xE9;n
+spanningskring en &#xE9;&#xE9;n stroomkring hebben en gemonteerd zijn
+volgens de methode van de twee wattmeters (voor driefasige kring zonder
+nulleider).</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <plaatje>
+                          <illustratie bin-id="247353" breedte="32mm" display="block" formaat="png" hoogte="15mm" kleur="nee" naam="79435-004.eps" type="lijn" uitlijning="start" url="http://wetten.overheid.nl/Illustration/247353"/>
+                        </plaatje>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>duidt
+aan dat de meter dezelfde bestanddelen als de voorgaande bevat, maar
+dat hij bestemd is voor een driefasige kring waarvan twee fasen en de
+nulleider gebruikt
+worden.</al>
+                      </entry>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+                    </row>
+                    <row rowsep="0">
+                      <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                        <plaatje>
+                          <illustratie bin-id="247354" breedte="32mm" display="block" formaat="png" hoogte="25mm" kleur="nee" naam="79435-005.eps" type="lijn" uitlijning="start" url="http://wetten.overheid.nl/Illustration/247354"/>
+                        </plaatje>
+                      </entry>
+                      <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                        <al>duidt
+aan dat de meter drie electromagneten bevat die elk een spanningskring
+en een stroomkring hebben en gemonteerd zijn volgens de methode van de
+drie wattmeters (voor driefasige kring met
+nulleider).</al>
+                      </entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>De
+nominale frequentie;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>De nominale
+spanning (en) in volt. In geval van driefasige kring met nulleider, is
+de nominale spanning de spanning tussen fase en nulleider; haar
+aanduiding wordt gevolgd door een schuin streepje en de aanduiding van
+de spanning tussen de fasen. Ingeval het toestel een spanningsgebied
+heeft, worden de uiterste waarden van het gebied op de plaat aangeduid
+en gescheiden door een horizontale streep die eindigt op twee pijlen.
+Ingeval het toestel meerdere referentiespanningen heeft, worden de
+waarden van deze spanningen aangeduid en gescheiden door het teken
+'&amp;.</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>De basisstroom en de
+maximumstroom, in amp&#xE8;re, &#xE9;&#xE9;n hiervan aangeduid tussen
+haakjes. De aanduidingen d, f en g kunnen op de volgende door
+voorbeelden aangetoonde wijze gegroepeerd
+worden:</al>
+              <plaatje>
+                <illustratie bin-id="247355" breedte="49mm" display="block" formaat="png" hoogte="81mm" kleur="nee" naam="79435-006.eps" type="lijn" uitlijning="start" url="http://wetten.overheid.nl/Illustration/247355"/>
+              </plaatje>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>de constante van de
+meter.</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>Als de meter van een bijzonder
+soort is (dus voorzien is van een teruglooprem, of in het geval van een
+meertarief meter als de spanning van de omschakelrelais afwijkt van de
+nominale spanning van de meter zelf) dient dit op de naamplaat of op
+een afzonderlijk plaatje te zijn
+aangegeven,</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>Indien de meter de
+energie registreert via meettrans-formatoren, waarmede in de
+meterconstante rekening is gehouden, dienen de overzetverhouding(en)
+daarvan aangegeven te
+worden.</al>
+            </li>
+          </lijst>
+          <tussenkop kopopmaak="cur">
+            <nadruk type="cur">Aansluitschema</nadruk>
+          </tussenkop>
+          <al>Iedere
+meter moet voorzien zijn van een aansluitschema dat vastgehecht is aan
+de binnenkant van het klemmendeksel en dat de schikking van de klemmen
+op de klemmenplaat weergeeft.</al>
+          <al>Het aansluitschema moet zodanig
+zijn dat het eigen verbruik van de spanningskringen niet aangetekend
+wordt door de meter.</al>
+          <al>De fasenreeks van de driefasige meters
+wordt door de volgende tekens aangeduid:</al>
+          <al>RST en N of O
+(nulleider)</al>
+          <al>waarin de fase S 120&#xB0; en de fase T 240&#xB0;
+achterstand hebben ten opzichte van de fase
+R.</al>
+        </artikel>
+        <paragraaf>
+          <kop>
+            <titel status="officieel">Mechanische
+eisen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">5</nr>
+              <titel status="officieel">Algemeen</titel>
+            </kop>
+            <al>Alle
+isolatiematerialen gebruikt bij de constructie van de meter dienen in
+wezen niet-hygroscopisch te zijn.</al>
+            <al>Alle delen, welke onder
+normale gebruiksomstandigheden onderworpen zijn aan corrosie dienen
+deugdelijk tegen corrosie ten gevolge van atmosferische invloeden
+beschermd te zijn. Een eventuele beschermende laag dient niet gevoelig
+te zijn voor schade door het blootstellen aan de lucht onder normale
+bedrijfsomstandigheden.</al>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="cur">Huis</nadruk>
+            </tussenkop>
+            <al>De
+meter dient een redelijk stof-dicht huis te hebben, dat op een
+dergelijke wijze verzegeld moet kunnen worden, dat het mechanisme van
+de meter slechts bereikbaar wordt na het verbreken van de
+zegels.</al>
+            <al>Metalen huizen voor meters die op een spanning van meer
+dan 250 V ten opzichte van aarde gebruikt zullen worden, dienen
+voorzien te zijn van een inrichting waarmee een effectieve verbinding
+met een geschikte aardleiding tot stand gebracht kan
+worden.</al>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="cur">Ramen</nadruk>
+            </tussenkop>
+            <al>Indien het
+huis van de meter niet doorzichtig is dienen een of meer raampjes
+aangebracht te zijn voor het aflezen van het telwerk en het observeren
+van de rotor. Deze raampjes dienen afgesloten te zijn door plaatjes van
+doorzichtig materiaal die niet weggenomen kunnen worden zonder dat de
+zegels verbroken worden.</al>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="cur">Aansluitingen,
+klemmenblok</nadruk>
+            </tussenkop>
+            <al>De aansluitklemmen kunnen gegroepeerd worden
+in een klemmenblok van voldoende mechanische sterkte. Deze klemmen
+dienen geschikt te zijn voor de verbinding zowel met massieve draden
+als met kabels.</al>
+            <al>Het dient op eenvoudige wijze mogelijk te zijn
+om de spanningsklemmen van de stroomklemmen los te
+schakelen.</al>
+            <al>De wijze van bevestiging van de geleiders aan de
+klemmen dient een voldoende en duurzaam contact te verzekeren, zodanig
+dat geen gevaar kan bestaan voor loslaten of ontoelaatbare verwarming.
+De gaten in het isolatiemateriaal die een verlenging van de gaten in de
+aansluitklemmen vormen dienen van voldoende afmetingen te zijn om de
+isolatie van de geleiders te kunnen
+omvatten.</al>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="cur">Klemmendeksel</nadruk>
+            </tussenkop>
+            <al>De
+aansluitklemmen van de meter dienen een afzonderlijk deksel te
+bezitten, dat onafhankelijk van de meterkap kan worden
+verzegeld.</al>
+            <al>Dit klemmendeksel dient de volgende delen af te
+sluiten: de aansluitklemmen zelf, de klemschroeven en, zo gewenst, een
+voldoende lengte van de uitwendige geleiders en de isolatie
+daarvan.</al>
+            <al>Indien de meter gemonteerd is dienen de
+aansluitklemmen niet bereikbaar te zijn dan nadat de zegels van het
+klemmendeksel verbroken
+zijn.</al>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="cur">Telwerk</nadruk>
+            </tussenkop>
+            <al>Het telwerk
+mag zijn van het trommel- of wijzer-type.</al>
+            <al>Het dient te
+registreren in kWh of MWh.</al>
+            <al>Schalen of trommels die decimale
+onderdelen van de eenheid aangeven zullen in kleur moeten zijn
+uitgevoerd, of met een gekleurd kader zijn omgeven, terwijl de snelst
+bewegende onderverdeeld dient te zijn en genummerd.</al>
+            <al>Het telwerk
+dient in staat te zijn om, beginnend van nul, tenminste 2500 uren de
+energie te registreren die overeenkomt met maximum stroom bij nominale
+spanningen en een arbeidsfactor &#xE9;&#xE9;n.</al>
+            <al>De aanduidingen
+op het telwerk dienen onuitwisbaar en gemakkelijk leesbaar te
+zijn.</al>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="cur">Rotor,
+draairichting</nadruk>
+            </tussenkop>
+            <al>De rand van de rotor aan de zijde van een
+waarnemer, die de meter van voren beziet, dient te bewegen van links
+naar rechts. De draairichting dient door een goed zichtbare,
+onuitwisbare pijl te zijn aangegeven.</al>
+            <al>De rand zowel als het
+bovenvlak van de schjjf moet &#xE9;&#xE9;n zichtbaar merk dragen van
+voldoend absorberende kleur om het automatisch tellen van de
+omwentelingen mogelijk te maken. Andere merktekens mogen toegevoegd
+zijn voor stroboscopische of andere beproevingen, doch deze merktekens
+dienen zo geplaatst te zijn, dat deze het gebruik van het voornaamste
+merk voor foto-electrische telling van het aantal omwentelingen niet
+bemoeilijken.</al>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <titel status="officieel">Electrische
+Eisen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">6</nr>
+              <titel status="officieel">Vermogensverliezen</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>Spanningscircuits.
+Het verlies in ieder spanningscircuit van een meter bij zijn nominale
+spanning(en) en bij nominale frequentie mag de volgende waarden niet te
+boven gaan:</al>
+                <al>tot 250 V nominale spanning = 2W en 8
+VA;</al>
+                <al>boven 250 V tot 300 V nominale spanning = een toename van
+0,02 W en 0,08 VA per V boven 250&#xA0;V;</al>
+                <al>boven 300 V tot 600 V
+nominale spanning = een toename van 0,01 W en 0,04 VA per V boven
+300&#xA0;V.</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>Stroomcircuits. Het
+schijnbare vermogen dat door elk stroomcircuit van een meter bestemd
+voor gebruik met stroomtransformatoren bij basis stroom wordt opgenomen
+mag de 2,5 VA niet te boven
+gaan.</al>
+              </li>
+            </lijst>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="cur">Di&#xEB;lectrische
+sterkte</nadruk>
+            </tussenkop>
+            <al>Meters en hun toebehoren uitgezonderd
+meettrans-formatoren, die aan andere specificaties dienen te voldoen,
+mogen geen van hun di&#xEB;lectrische hoedanigheden verliezen, wanneer
+zij aan normale bedrijfsspanningen worden onderworpen. Een meter of
+accessoire wordt geacht deze voorgaande voorwaarde te vervullen als ze
+met gunstig gevolg de hierna gespecificeerde di&#xEB;lectrische
+beproeving heeft ondergaan.</al>
+            <al>Bovendien moeten de toegepaste
+isolatiematerialen zodanig zijn, dat zij hun di&#xEB;lectrische
+hoedanigheden niet verliezen onder invloed van de atmosferische
+vochtigheid. Alle hygroscopische en brandbare materialen die als
+isolatie gebruikt worden, moeten een behandeling ondergaan hebben om
+het binnendringen van vocht te voorkomen.</al>
+            <al>De di&#xEB;lectrische
+proef wordt slechts uitgevoerd op volledige meters en niet op losse
+onderdelen; deze proef wordt slechts eenmaal op een meter
+gedaan.</al>
+            <al>De isolatie tussen alle circuits van een meter
+enerzijds (met inbegrip van alle metalen delen die hiermede in contact
+staan), uitgezonderd de stroomkringen van hulptoestellen die bij
+spanningen onder 70 V werken, en het gestel van de meter anderzijds
+dient een wisselstroom beproevingsspanning van 2.000 V effectieve
+waarde te houden. De stroomkringen van de hulptoestellen welke bij
+spanning onder 70 V werken worden bij deze proef met het gestel van de
+meter verbonden.</al>
+            <al>Bij de bovenbeschreven proef worden alle
+uitwendige metalen delen met het gestel van de meter verbonden. Indien
+de meter een grondplaat uit isolatiemateriaal heeft, wordt de meter bij
+deze proef op een vlakke metalen plaat gelegd, welke plaat met het
+gestel van de meter wordt verbonden.</al>
+            <al>De isolatie tussen twee
+stroom-circuits welke windingen gemeen hebben op dezelfde ijzerkern en
+waartussen de gekoppelde netspanning op zal treden wanneer de meter in
+bedrijf is, dienen een wisselstroom beproevingsspanning van 2.000 V
+effectieve waarde te houden.</al>
+            <al>De isolatie tussen elk circuit van
+de meter, met inbegrip van alle metalen delen die hiermede in contact
+zijn, en ieder ander circuit dat hiervan gescheiden kan worden,
+uitgezonderd de stroomkringen van hulptoestellen welke bij spanningen
+onder 70 V werken, dienen een wisselstroom beproevingsspanning te
+houden gelijk aan tweemaal de gekoppelde nominale spanning doch
+minstens 600 V.</al>
+            <al>Gedurende deze beproeving dienen de
+stroomkringen van hulptoestellen, welke bij spanningen onder 70 V
+werken, met het gestel van de meter verbonden te zijn.</al>
+            <al>De
+isolatie tussen het gestel van de meter en de hulp-circuits, welke bij
+spanningen onder 70 V werken, moet een wisselstroom beproevingsspanning
+van 250 V effectieve waarde houden.</al>
+            <al>De beproevingsspanning
+dient zo goed mogelijk sinus-vormig te zijn en de frequentie ervan
+dient tussen 40 en 60 herz te liggen. De spanning dient geleverd te
+worden door een spanningsbron met een vermogen van minstens 500 VA en
+de beproevingsspanning zal voor de tijd van &#xE9;&#xE9;n minuut
+aangelegd
+worden.</al>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="cur">Temperatuursverhoging</nadruk>
+            </tussenkop>
+            <al>Wanneer
+alle stroomkringen van de meter de maximum stroom voeren en tevens alle
+spanningscircuits en alle continu belastbare hulpspanningscircuits
+belast worden met 1, 2 maal de nominale spanning, mag de
+temperatuursverhoging van de windingen van de stroomcircuit (s) van de
+meter de 50&#xB0;C niet te boven gaan, bij een omgevingstemperatuur
+niet hoger dan 40&#xB0;C. Wanneer windingen van blank koper cq
+email-draad zijn toegepast, mag deze temperatuursverhoging de 60&#xB0;C
+niet te boven gaan.</al>
+            <al>De temperatuursverhoging wordt bepaald uit
+de weerstandsverandering van een van de stroomspoelen en wordt gemeten
+aan de
+aansluitklemmen.</al>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <titel status="officieel">Nauwkeurigheid</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">7</nr>
+              <titel status="officieel">Foutengrenzen</titel>
+            </kop>
+            <al>De
+foutengrenzen voor eenfase meters en voor meerfase meters met
+symmetrische belasting zijn aangegeven in tabel I.</al>
+            <al>De
+foutengrenzen voor meerfase meters met eenfasige belastingen zijn
+aangegeven in tabel II.</al>
+            <al>Deze grenzen zijn onder de volgende
+omstandigheden van
+toepassing:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>De
+temperatuur dient de gemiddelde omgevingstemperatuur &#xB1; 2&#xB0;C te
+zijn.</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>De meter moet in normale
+bedrijfstoestand zijn en in de normale bedrijfsstand gemonteerd
+zijn.</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>De beproevingsspanning dient
+gelijk te zijn aan de normale spanning (en) &#xB1; 1%. Als de meter
+volgens opgave geschikt is voor een geheel spanningsgebied dienen de
+foutengrenzen aangehouden te worden voor elke spanning binnen dit
+gebied. Als de meter volgens opgave geschikt is voor twee nominale
+spanningen, dienen de foutengrenzen voor elk van beide spanningen
+aangehouden te worden.</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>De
+beproevingsfrequentie dient gelijk te zijn aan de nominale frequentie
+&#xB1; 0,5%.</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>Zowel de spanning als de
+stroom waarmede de meter beproefd wordt dienen in hoofdzaak
+sinusvorming te zijn, met een afwijking in effectieve waarde van niet
+meer dan 5%.</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>De spanningscircuits
+moeten gedurende tenminste een een uur aangesloten zijn geweest en de
+stroomcircuits moeten bij elke proef gedurende voldoende tijd met de
+bij deze proef behorende stroom belast zijn geweest zodat de
+temperatuur een stabiele waarde bereikt zal
+hebben.</al>
+              </li>
+              <li>
+                <li.nr>g.</li.nr>
+                <al>Er dient geen hinderlijk
+magnetisch strooiveld aanwezig te
+zijn.</al>
+              </li>
+              <li>
+                <li.nr>h.</li.nr>
+                <al>In het geval van
+trommelregisters dient slechts de snelst bewegende trommel te
+draaien.</al>
+              </li>
+              <li>
+                <li.nr>i.</li.nr>
+                <al>Bij meerfasen-meters dient
+de fasevolgorde te zijn zoals deze op het aansluitschema is
+aangegeven.</al>
+              </li>
+              <li>
+                <li.nr>j.</li.nr>
+                <al>Indien een inrichting
+aanwezig is voor het aanwijzen van de maximum belasting dient deze
+afgekoppeld te zijn.</al>
+              </li>
+            </lijst>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="vet">TABEL
+I</nadruk>
+            </tussenkop>
+            <al>Foutengrenzen van eenfase meters en meerfase meters
+bij symmetrische belasting (zowel stromen als spanningen dienen
+symmetrisch te
+zijn):</al>
+            <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="zebra1">
+              <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="zebra1">
+                <colspec colname="col1" colnum="1" colwidth="70*"/>
+                <colspec colname="col2" colnum="2" colwidth="30*"/>
+                <colspec colname="col3" colnum="3" colwidth="29.5*"/>
+                <thead valign="bottom">
+                  <row rowsep="1">
+                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>Waarde
+van de stroom in procenten van de
+basiswaarde</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>Arbeidsfactor</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>Foutengrens
+in
+procenten</al>
+                    </entry>
+                  </row>
+                </thead>
+                <tbody valign="top">
+                  <row rowsep="1">
+                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>van
+10% tot
+maximum</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>1,0</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>&#xB1;
+2,0</al>
+                    </entry>
+                  </row>
+                  <row rowsep="1">
+                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>5%</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>1,0</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>&#xB1;
+3,0</al>
+                    </entry>
+                  </row>
+                  <row rowsep="1">
+                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>van
+20% tot
+maximum</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>0,5
+inductief</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>&#xB1;
+2,0</al>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="vet">TABEL
+II</nadruk>
+            </tussenkop>
+            <al>Foutengrenzen van meerfase meters, welke met een
+eenfase belasting zijn belast, doch waarvan de spanningscircuits met
+symmetrische spanningen zijn bekrachtigd.</al>
+            <al>Deze beproeving dient
+achtereenvolgens op alle meetsystemen uitgevoerd te
+worden.</al>
+            <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="zebra1">
+              <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="zebra1">
+                <colspec colname="col1" colnum="1" colwidth="70*"/>
+                <colspec colname="col2" colnum="2" colwidth="30*"/>
+                <colspec colname="col3" colnum="3" colwidth="29.5*"/>
+                <thead valign="bottom">
+                  <row rowsep="1">
+                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>Waarde
+van de stroom in procenten van de
+basiswaarde</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>Arbeidsfactor
+aan het belaste systeem</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>Foutengrens
+in
+procenten</al>
+                    </entry>
+                  </row>
+                </thead>
+                <tbody valign="top">
+                  <row rowsep="1">
+                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>van
+20&#x2013;100%</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>1,0</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>&#xB1;
+3,0</al>
+                    </entry>
+                  </row>
+                  <row rowsep="1">
+                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>100%</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>0,5
+inductief</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>&#xB1;
+3,0</al>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="cur">Temperatuursco&#xEB;ffici&#xEB;nt</nadruk>
+            </tussenkop>
+            <al>De
+temperatuursco&#xEB;ffici&#xEB;nt van de meter bij nominale spanning en
+nominale frequentie mag niet groter zijn dan 0,1% per &#xB0;C bij
+arbeidsfactor gelijk aan &#xE9;&#xE9;n en enige stroomsterkte tussen
+10% van de basisstroom en de maximum stroom; noch zal deze
+temperatuursco&#xEB;ffici&#xEB;nt groter mogen zijn dan 0,15% per
+&#xB0;C bij arbeidsfactor 0,5 inductief bij enige stroomsterkte tussen
+20% van de basis stroom en de boven aangegeven maximum
+stroom.</al>
+            <al>Noot: Bij de volgende paragrafen tot
+&#x201E;Nullast&#x2019; zal het voldoende zijn de rotor-snelheden onder
+de verschillende voorgeschreven beproevings-omstandigheden met elkaar
+te vergelijken om de afwijking van de fouten te
+bepalen.</al>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="cur">Invloed van niet-verticale
+ophanging</nadruk>
+            </tussenkop>
+            <al>Een afwijking van 3&#xB0; in enige richting
+vanuit de verticale stand mag de aanwijzing van de meter met niet meer
+dan 1% beinvloeden bij een proef met de maximum stroom en met niet meer
+dan 3% bij een beproeving met 5% van de basis stroom; deze beproevingen
+worden uitgevoerd met nominale spanning, nominale frequentie en een
+arbeidsfactor 1,0.</al>
+            <al>Invloed van
+spanningsafwijking</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>Indien de meter slechts voor &#xE9;&#xE9;n
+nominale spanning bestemd is, dient een afwijking van &#xB1; 10% van de
+nominale spanning bij nominale frequentie en arbeidsfactor 1,0 geen
+grotere afwijking van de fout te veroorzaken dan:</al>
+                <al>1,5% bij 10%
+van de basis stroom;</al>
+                <al>1,0% voor enige waarde van de
+stroomsterkte tussen basis stroom en maximum stroom.</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>Indien de meter een spanningsgebied heeft dient ze
+aan bovengenoemde eisen te voldoen voor 90% van de onderste en 110% van
+de bovenste
+grensspanning.</al>
+              </li>
+            </lijst>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="cur">Invloed van
+frequentieafwijking</nadruk>
+            </tussenkop>
+            <al>Een afwijking van &#xB1; 5% van de
+nominale frequentie dient geen grotere afwijking van de procentuele
+fout te geven dan aangegeven in tabel
+III:</al>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="vet">TABEL
+III</nadruk>
+            </tussenkop>
+            <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="zebra1">
+              <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="zebra1">
+                <colspec colname="col1" colnum="1" colwidth="70*"/>
+                <colspec colname="col2" colnum="2" colwidth="30*"/>
+                <colspec colname="col3" colnum="3" colwidth="29.5*"/>
+                <thead valign="bottom">
+                  <row rowsep="1">
+                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>Percentage
+van basis
+stroom</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>Arbeidsfactor</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>Afwijking
+van procentuele
+fout</al>
+                    </entry>
+                  </row>
+                </thead>
+                <tbody valign="top">
+                  <row rowsep="1">
+                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>10
+en
+100</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>1,0</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>1,5</al>
+                    </entry>
+                  </row>
+                  <row rowsep="1">
+                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>100</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>0,5
+inductief</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>1,5</al>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="cur">Invloed
+van kortsluitingen</nadruk>
+            </tussenkop>
+            <al>De meter moet in staat zijn gedurende
+0,5 seconde een stroom gelijk aan onderstaande waarden te
+voeren:</al>
+            <al>30 x de basis stroom, als deze niet groter is dan 10 A;
+20 x de basis stroom, als deze groter is dan 10 A.</al>
+            <al>De
+beproevingsstroomkring dient daarbij practisch niet-inductief te zijn,
+terwijl de nominale spanning met nominale frequentie aan de
+spanningsklemmen van de meter moet worden aangelegd.</al>
+            <al>Na de
+kortsluitproef laat men de meter gedurende ongeveer een uur afkoelen
+tot de omgevingstemperatuur, waarbij men de spanningscircuits
+aangesloten laat. Daarna zal de meter beproefd worden met nominale
+spanning, nominale frequentie en basis stroom bij arbeidsfactor
+1,0.</al>
+            <al>De afwijking van de fout dient niet groter te zijn dan
+1,5%.</al>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="cur">Invloed van de
+fasevolgorde</nadruk>
+            </tussenkop>
+            <al>Indien meerfase meters stromen en
+spanningen voeren, die alle een fasevolgorde bezitten omgekeerd aan die
+welke op het aansluitschema is aangegeven, dienen bij symmetrische
+belasting geen grotere afwijkingen van de fouten te ontstaan dan 1,5%
+t.o.v. die welke gemeten zijn onder dezelfde omstandigheden doch bij de
+voorgeschreven fasevolgorde, voor enige waarde van de stroom tussen 50%
+van de basis stroom en de maximum
+stroom.</al>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="cur">Nullast</nadruk>
+            </tussenkop>
+            <al>Zonder
+stroom in de stroomspoel(en) en bij nominale frequentie mag de rotor
+van de meter niet meer dan &#xE9;&#xE9;n volledige omwenteling maken
+bij enige spanning tussen 80% van de laagste aangegeven spanning en
+110% van de hoogste aangegeven spanning. In het geval van
+trommelregisters geldt deze eis wanneer slechts &#xE9;&#xE9;n trommel
+draait.</al>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="cur">Aanloop</nadruk>
+            </tussenkop>
+            <al>Bij
+meters met trommelregister zal deze proef uitgevoerd worden met niet
+meer dan twee trommels in beweging.</al>
+            <al>De meter dient aan te lopen
+en te blijven draaien bij 0,5% van de basis stroom bij nominale
+spanning, nominale frequentie en arbeidsfactor 1,0. Er dient op gelet
+te worden dat de meter onder deze omstandigheden m&#xE9;&#xE9;r dan een
+volledige omwenteling maakt.</al>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="cur">Maximum
+Belasting</nadruk>
+            </tussenkop>
+            <al>Een mogelijk aanwezige inrichting voor het
+aanwijzen van de maximum belasting mag bij nominale symmetrische
+belasting en cos S = 1 niet meer dan 1% fout in de meter
+introduceren.</al>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="cur">Afstelmogelijkheden</nadruk>
+            </tussenkop>
+            <al>De
+meter, welke zodanig is afgesteld dat ze aan deze voorschriften
+voldoet, dient daarenboven bij nominale spanning en nominale frequentie
+de volgende regelmogelijkheden te
+bezitten.</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>afstelling rem-magneet.</al>
+                <al>4%
+snelheidstoename en 6% snelheidsafname bij 50% van de basis stroom en
+arbeidsfactor 1,0.</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>afstelling voor
+lage belasting</al>
+                <al>&#xB1; 4% snelheids verandering bij 5% van de
+basis stroom en arbeidsfactor 1,0.</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>afstelling inductieve belasting, wanneer de meter
+een dergelijke instelmogelijkheid bezit.</al>
+                <al>&#xB1;1%
+snelheidsverandering bij inductieve arbeidsfactor 0,5 bij 50% van de
+maximum
+stroom.</al>
+              </li>
+            </lijst>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">II</nr>
+          <titel status="officieel">Eisen
+waaraan gereviseerde meters uit voorraad moeten
+voldoen</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <titel status="officieel">Nauwkeurigheid</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">8</nr>
+              <titel status="officieel">Aanloopgevoeligheid</titel>
+            </kop>
+            <al>Bij
+0,5% van het nominale vermogen en cos &#x424; = 1 moet de meter bij
+nominale spanning en frequentie reeds registreren.</al>
+            <al>Registratie
+bij verhoogde spanning en onbelaste stroomspoelen</al>
+            <al>Bij onbelaste
+stroomspoelen en 110% van de nominale spanning mag de meter geen
+verbruik
+registreren.</al>
+            <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+              <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml1">
+                <colspec colname="col1" colnum="1" colwidth="29.5*"/>
+                <colspec colname="col2" colnum="2" colwidth="50*"/>
+                <colspec colname="col3" colnum="3" colwidth="50*"/>
+                <thead valign="bottom">
+                  <row rowsep="1">
+                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>%
+van de
+basis</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>Foutengrens
+in
+stroomsterkte</al>
+                    </entry>
+                  </row>
+                </thead>
+                <tbody valign="top">
+                  <row rowsep="1">
+                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>cos
+&#x424;=
+1</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>5</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>+
+of
+-6</al>
+                    </entry>
+                  </row>
+                  <row rowsep="1">
+                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>10
+tot
+150</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>+
+of
+-2</al>
+                    </entry>
+                  </row>
+                  <row rowsep="1">
+                    <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>150
+&#x201E;
+max.</al>
+                    </entry>
+                    <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                      <al>+
+of
+-4</al>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+            <al>Foutengrenzen
+voor gereviseerde meerfase meters uit
+voorraad</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>symetrische
+belasting</al>
+                <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                  <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml1">
+                    <colspec colname="col1" colnum="1" colwidth="29.5*"/>
+                    <colspec colname="col2" colnum="2" colwidth="50*"/>
+                    <colspec colname="col3" colnum="3" colwidth="50*"/>
+                    <thead valign="bottom">
+                      <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>%
+van de
+basis</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>Foutengrens
+in
+stroomsterkte</al>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody valign="top">
+                      <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>cos
+&#x424; =
+1</al>
+                        </entry>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>5</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>+
+of
+-6</al>
+                        </entry>
+                      </row>
+                      <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>10
+tot
+150</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>+
+of
+-2</al>
+                        </entry>
+                      </row>
+                      <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>150
+&#x201E;
+max.</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>+
+of
+-4</al>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </table>
+                <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                  <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml1">
+                    <colspec colname="col1" colnum="1" colwidth="29.5*"/>
+                    <colspec colname="col2" colnum="2" colwidth="50*"/>
+                    <colspec colname="col3" colnum="3" colwidth="50*"/>
+                    <thead valign="bottom">
+                      <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>%
+van de
+basis</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>Foutengrens
+in
+stroomsterkte</al>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody valign="top">
+                      <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>cos
+&#x424; = 0,5
+inductief</al>
+                        </entry>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>10</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>+
+of
+-8</al>
+                        </entry>
+                      </row>
+                      <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>20
+tot
+150</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>+
+of
+-3</al>
+                        </entry>
+                      </row>
+                      <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>150
+&#x201E;
+max.</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>+
+of
+-5</al>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </table>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>systemen
+afzonderlijk</al>
+                <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                  <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml1">
+                    <colspec colname="col1" colnum="1" colwidth="29.5*"/>
+                    <colspec colname="col2" colnum="2" colwidth="50*"/>
+                    <colspec colname="col3" colnum="3" colwidth="50*"/>
+                    <thead valign="bottom">
+                      <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"/>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>%
+van de basis
+stroomsterkte</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>verschil
+in fout tussen de systemen onderling
+in</al>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody valign="top">
+                      <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>cos
+&#x424; =
+1</al>
+                        </entry>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>50
+en
+100</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>3</al>
+                        </entry>
+                      </row>
+                      <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>cos
+&#x424; = 0,5
+inductief</al>
+                        </entry>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>50</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                          <al>5</al>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </table>
+              </li>
+            </lijst>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="cur">Maximum
+Belasting</nadruk>
+            </tussenkop>
+            <al>Een mogelijk aanwezige inrichting voor het
+aanwijzen van de maximum belasting mag bij nominale symmetrische
+belasting en &#x424; = 1 niet meer dan 1,5% fout in de meting
+introduceren.</al>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="cur">Justering</nadruk>
+            </tussenkop>
+            <al>De
+meters moeten zo goed mogelijk worden gejusteerd. De gemiddelde
+aanwijzing van een serie meters moet nagenoeg juist
+zijn.</al>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">III</nr>
+          <titel status="officieel">Eisen
+waaraan meters uit het net moeten
+voldoen</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <titel status="officieel">Nauwkeurigheid</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">9</nr>
+              <titel status="officieel">Aanloopgevoeligheid</titel>
+            </kop>
+            <al>Bij
+0,8% van het nominale vermogen en cos &#x424; = 1 moet de meter reeds
+registreren.</al>
+            <al>Foutengrenzen</al>
+            <al>De toegelaten fout is 2%
+meer dan voor gereviseerde meters uit voorraad is toegestaan, behoudens
+het bepaalde in <intref status="actief" doc="1.0:v:BWBR0028692&amp;artikel=8">artikel 8, onder b</intref> waar de toegelaten fout ook voor
+meters uit het net onverkort
+geldt.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">10</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Deze
+regeling berust op artikel&#xA0;17 van de IJkwet
+BES.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Deze
+regeling wordt aangehaald als: Reglement op de meters voor elektrische
+energie
+BES.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+    </regeling-tekst>
+  </regeling>
+</wetgeving>
+  	

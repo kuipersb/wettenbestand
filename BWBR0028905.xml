@@ -1,0 +1,497 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0028905" dtdversie="2.0" id="447529" soort="zbo">
+  
+  <intitule>Regeling
+van De Nederlandsche Bank N.V. van 26&#xA0;oktober 2010 tot
+vaststelling van de voorwaarden waaronder hybride instrumenten gelijk
+kunnen worden gesteld met vermogensbestanddelen als bedoeld in de
+artikelen 90 tot en met 94 van het Besluit prudenti&#xEB;le regels Wft
+(Regeling hybride instrumenten banken en andere financi&#xEB;le
+ondernemingen (exclusief verzekeraars) Wft
+2010)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De
+Nederlandsche Bank N.V.,</wie>
+      <considerans>
+        <considerans.al>Na
+raadpleging van de betrokken representatieve
+organisaties;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet
+op <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=1%3A28" compleet="nee">artikel&#xA0;1:28, tweede lid, van de Wet op het financieel
+toezicht</extref>;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op
+<extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=89" compleet="nee">artikel 89, tweede lid, onderdeel a</extref>, en de <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=90" compleet="nee">artikelen&#xA0;90 tot en
+met&#xA0;94 van het Besluit prudenti&#xEB;le regels
+Wft</extref>;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op
+<extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn nr. 2009/111/EG</extref> van het Europees Parlement en de Raad van 16
+september 2009 tot wijziging van de <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijnen 2006/48/EG</extref>, <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">2006/49/EG</extref>
+en <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">2007/64/EG</extref> wat betreft banken die zijn aangesloten bij centrale
+instellingen, bepaalde eigenvermogensbestanddelen, grote posities, het
+toezichtkader en het crisisbeheer (PbEU
+L&#xA0;302);</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Definities
+en
+toepassingsbereik</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1:1</nr>
+          </kop>
+          <al>In
+deze regeling wordt verstaan
+onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al><nadruk type="cur">Besluit:</nadruk> <extref status="actief" doc="1.0:v:BWBR0020420" compleet="nee">Besluit
+prudenti&#xEB;le regels
+Wft</extref>;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al><nadruk type="cur">DNB:</nadruk> De
+Nederlandsche Bank
+N.V.;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al><nadruk type="cur">financi&#xEB;le
+onderneming:</nadruk> een financi&#xEB;le onderneming als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=90" compleet="nee">artikel 90 van het
+Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>
+                <nadruk type="cur">hybride
+instrument:</nadruk> een financieel instrument dat vanwege
+zijn kenmerken kan worden gelijkgesteld met een vermogensbestanddeel,
+als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=89" compleet="nee">artikel&#xA0;89, tweede lid, onderdeel&#xA0;a, van het
+Besluit</extref>, in samenhang met de <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=90" compleet="nee">artikelen&#xA0;90 tot en met&#xA0;94 van
+het
+Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al><nadruk type="cur">directe
+uitgifte:</nadruk> de uitgifte van een hybride instrument
+door een financi&#xEB;le onderneming die dat hybride instrument als een
+van de vermogensbestanddelen, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=90" compleet="nee">artikelen 90 tot en met 94
+van het Besluit</extref>, in aanmerking neemt of zal nemen;
+en</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al><nadruk type="cur">indirecte
+uitgifte:</nadruk> de uitgifte van een hybride instrument
+door een andere entiteit dan een financi&#xEB;le onderneming die dat
+hybride instrument als een van de vermogensbestanddelen, bedoeld in de
+<extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=90" compleet="nee">artikelen 90 tot en met 94 van het Besluit</extref>, in aanmerking neemt of zal
+nemen, mits die financi&#xEB;le onderneming en de uitgevende entiteit
+onderdeel zijn van dezelfde groep in de zin van <extref status="actief" doc="1.0:v:BWBR0003045&amp;artikel=24b" compleet="nee">artikel 24b van Boek 2
+van het Burgerlijk
+Wetboek</extref>.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1:2</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Deze
+regeling is van toepassing op banken, beheerders van instellingen voor
+collectieve belegging in effecten, beleggingsondernemingen,
+clearinginstellingen of elektronischgeldinstellingen, in de zin van
+<extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=90" compleet="nee">artikel 90 van het
+Besluit</extref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Deze
+regeling is niet van toepassing op verzekeraars, in de zin van
+<extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=95" compleet="nee">artikel&#xA0;95, eerste lid, van het
+Besluit</extref>.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Gelijkstelling
+van hybride instrumenten met
+kernkapitaal</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2:1</nr>
+          </kop>
+          <al>Voor
+de berekening van het kernkapitaal als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=91" compleet="nee">artikel 91, eerste
+lid, van het Besluit</extref> kunnen hybride instrumenten die hetzij direct,
+hetzij indirect zijn uitgegeven door een financi&#xEB;le onderneming,
+worden gelijkgesteld met vermogensbestanddelen als bedoeld in artikel
+91, tweede lid, van het Besluit, mits wordt voldaan aan de procedurele
+bepalingen van
+<intref status="actief" doc="1.0:v:BWBR0028905&amp;hoofdstuk=4">hoofdstuk&#xA0;4</intref>.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Gelijkstelling
+van hybride instrumenten met hoger dan wel lager aanvullend
+kapitaal</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3:1</nr>
+          </kop>
+          <al>Hybride
+instrumenten die voldoen aan het bepaalde in <intref status="actief" doc="1.0:v:BWBR0028905&amp;hoofdstuk=2">hoofdstuk&#xA0;2</intref> en die
+uitsluitend als gevolg van het overschrijden van de toepasselijke
+limieten niet als vermogensbestanddelen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=91" compleet="nee">artikel&#xA0;91,
+tweede lid, van het Besluit</extref> in aanmerking kunnen worden genomen, komen
+in aanmerking als vermogensbestanddelen, als bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=92" compleet="nee">artikel&#xA0;92, tweede lid, van het
+Besluit</extref>.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3:2</nr>
+          </kop>
+
+          <al>Hybride
+instrumenten waaraan een calloptie of een renteopstap is verbonden,
+kunnen voor de berekening van het <nadruk type="cur">hoger</nadruk>
+aanvullend kapitaal <nadruk type="cur">(upper tier&#xA0;2)</nadruk>
+uitsluitend worden gelijkgesteld met vermogensbestanddelen als bedoeld
+in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=92" compleet="nee">artikel&#xA0;92, tweede lid, van het Besluit</extref>,
+indien:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>in
+het geval van een calloptie: deze calloptie voldoet aan het bepaalde in
+<intref status="actief" doc="1.0:v:BWBR0028905&amp;artikel=3%3A3">artikel&#xA0;3:3</intref>;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>in het geval van
+een renteopstap: deze renteopstap voldoet aan het bepaalde in
+<intref status="actief" doc="1.0:v:BWBR0028905&amp;artikel=3%3A4">artikel&#xA0;3:4</intref>.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3:3</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een
+calloptie is slechts uitoefenbaar op initiatief van de financi&#xEB;le
+onderneming, nadat een periode van ten minste vijf jaar is verstreken,
+gerekend vanaf de uitgiftedatum en na verkregen toestemming van
+DNB.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+toestemming van DNB, bedoeld in het eerste lid, wordt uitsluitend
+verleend indien na de uitoefening van de calloptie vervangend kapitaal,
+bestaande uit een ander financieel instrument van gelijke of hogere
+kwaliteit, aanwezig is respectievelijk onverwijld beschikbaar
+komt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>In
+afwijking van het tweede lid kan DNB de toestemming verlenen zonder dat
+kwalificerend vervangend kapitaal aanwezig is of onverwijld beschikbaar
+komt, indien DNB van oordeel is dat de omvang van het resterende
+vermogen van waaruit het hybride instrument bij uitoefening van de
+calloptie wordt onttrokken, op prudente afstand blijft boven de
+minimumomvang van het toetsingsvermogen, bedoeld in de
+<extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=60" compleet="nee">artikelen&#xA0;60</extref>, <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=63" compleet="nee">63</extref> en <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=64" compleet="nee">64 van het Besluit</extref>
+ligt.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3:4</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Van
+een recht van renteopstap kan slechts eenmaal gedurende de looptijd van
+het hybride instrument gebruik worden
+gemaakt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Van een
+renteopstap kan niet eerder gebruik worden gemaakt dan nadat een
+periode van ten minste tien jaren is verstreken, gerekend vanaf de
+uitgiftedatum.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Een
+renteopstap bedraagt ten hoogste 100 basispunten ten opzichte van de
+initi&#xEB;le rentevergoeding, respectievelijk ten hoogste 50% van de
+initi&#xEB;le kredietrentemarge, in beide gevallen gecorrigeerd voor
+het effect van een verandering van de relevante
+rentebases.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3:5</nr>
+          </kop>
+
+          <al>Hybride
+instrumenten waaraan een calloptie of een renteopstap is verbonden,
+kunnen voor de berekening van het <nadruk type="cur">lager</nadruk>
+aanvullend kapitaal <nadruk type="cur">(lower tier&#xA0;2)</nadruk>
+uitsluitend worden gelijkgesteld met vermogensbestanddelen als bedoeld
+in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=92" compleet="nee">artikel&#xA0;92, derde lid, van het Besluit</extref>,
+indien:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>in
+het geval van een calloptie: deze calloptie slechts uitoefenbaar is op
+initiatief van de financi&#xEB;le onderneming en na verkregen
+toestemming van DNB;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>in het geval van
+een renteopstap: deze renteopstap voldoet aan het bepaalde in
+<intref status="actief" doc="1.0:v:BWBR0028905&amp;artikel=3%3A4">artikel&#xA0;3:4</intref>, met dien verstande
+dat:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;.</li.nr>
+                  <al>het
+in <intref status="actief" doc="1.0:v:BWBR0028905&amp;artikel=3%3A4">artikel&#xA0;3:4, tweede lid</intref>, genoemde aantal verstreken
+kalenderjaren ten minste vijf
+is;</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;.</li.nr>
+                  <al>de in <intref status="actief" doc="1.0:v:BWBR0028905&amp;artikel=3%3A4">artikel&#xA0;3:4,
+derde lid</intref>, genoemde maximale waarden van de renteopstap bij
+effectuering na vijf jaar wordt gehalveerd en bij effectuering van de
+renteopstap tussen vijf en tien jaar rechtlijnig mag worden
+ge&#xEF;nterpoleerd;
+en</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de verlaging, bedoeld
+in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=92" compleet="nee">artikel&#xA0;92, derde lid, onderdeel&#xA0;c, onder 4&#xB0;, van het
+Besluit</extref>, wordt toegepast uiterlijk vanaf het moment waarop de
+uitoefening van de calloptie vrijwel zeker is en de verwachte datum van
+uitoefening als aflossingsdatum wordt
+gehanteerd.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Procedurele
+bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4:1</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Hybride
+instrumenten kunnen uitsluitend voor toepassing van deze regeling in
+aanmerking komen, indien de emissie van deze instrumenten vooraf dan
+wel achteraf aan DNB ter toetsing wordt voorgelegd, onder overlegging
+van de benodigde documentatie waaruit blijkt dat aan deze regeling
+wordt
+voldaan.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het in
+aanmerking nemen van hybride instrumenten is uitsluitend mogelijk vanaf
+het moment dat DNB schriftelijk heeft aangegeven dat aan deze regeling
+is voldaan.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Bij
+de in het eerste lid genoemde toetsing baseert DNB zich op de geldende
+internationale
+standaarden.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Overgangsbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5:1</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Instrumenten
+die schriftelijk door DNB als innovatief tier 1 kapitaal
+respectievelijk als lager aanvullend kapitaal zijn aangemerkt op grond
+van de onderdelen 4003-02, 4003-04.1, 4003-04.6, 4003-05.3 tot en met
+4003-06.4 en bijlage 4003-b1 van het Handboek Wtk van DNB, kwalificeren
+van rechtswege als hybride instrumenten als bedoeld in deze
+regeling.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Instrumenten
+die schriftelijk door DNB als innovatieve financi&#xEB;le instrumenten
+zijn aangemerkt op grond van de <extref status="actief" doc="1.0:v:BWBR0020922" compleet="nee">Regeling innovatieve financi&#xEB;le
+instrumenten en immateri&#xEB;le activa</extref>
+(Stcrt.
+2007, 1; welke is vervallen met ingang van 31&#xA0;december
+2007,
+Stcrt.
+2007, 247), kwalificeren van rechtswege als hybride
+instrumenten als bedoeld in deze
+regeling.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Instrumenten
+die schriftelijk door DNB als hybride instrumenten zijn aangemerkt op
+grond van de <extref status="actief" doc="1.0:v:BWBR0020922" compleet="nee">Regeling gelijkstelling hybride instrumenten met
+eigenvermogensbestanddelen</extref>
+(Stcrt.
+2007, 247), kwalificeren van rechtswege als hybride
+instrumenten als bedoeld in deze
+regeling.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6:1</nr>
+          </kop>
+          <al>De
+<extref status="actief" doc="1.0:v:BWBR0020922" compleet="nee">Regeling gelijkstelling hybride instrumenten met
+eigenvermogensbestanddelen</extref>
+(Stcrt.
+2007, 247) vervalt met ingang van 31&#xA0;december
+2010.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6:2</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Deze
+regeling treedt in werking met ingang van 31&#xA0;oktober 2010, met
+dien verstande dat deze regeling voor het eerst van toepassing is met
+ingang van 31&#xA0;december
+2010.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien de
+Staatscourant waarin deze regeling wordt geplaatst verschijnt na
+29&#xA0;oktober 2010, treedt deze regeling in werking met ingang van de
+dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst
+en werkt zij terug tot en met 31&#xA0;oktober 2010, met dien verstande
+dat deze regeling voor het eerst van toepassing is met ingang van
+31&#xA0;december
+2010.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6:3</nr>
+          </kop>
+          <al>Deze
+regeling wordt aangehaald als: Regeling hybride instrumenten banken en
+andere financi&#xEB;le ondernemingen (exclusief verzekeraars) Wft
+2010.</al>
+        </artikel>
+      </hoofdstuk>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze
+regeling zal met de toelichting in de Staatscourant worden
+geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Amsterdam</plaats>
+          <datum isodatum="2010-10-26">26
+oktober
+2010</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening><organisatie>De Nederlandsche
+Bank
+N.V.,</organisatie>
+        
+        <naam>
+          <voornaam>H.J.</voornaam>
+          <achternaam>Brouwer,</achternaam>
+        </naam>
+      <functie>directeur</functie></ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

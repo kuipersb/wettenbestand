@@ -1,0 +1,318 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0024015" dtdversie="2.0" id="398629" soort="pbo">
+  
+  <intitule>Verordening van het Productschap Akkerbouw van 27&#xA0;maart 2008 houdende regels over het beperken van de schimmelziekte Phytophthora infestans bij aardappelen (Verordening PA bestrijding Phytophthora infestans bij aardappelen 2008)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>Het bestuur van het Productschap Akkerbouw;</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op de <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=93" compleet="nee">artikelen 93</extref>, <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=95" compleet="nee">95</extref>, <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=104" compleet="nee">104, eerste en derde lid, van de Wet op de bedrijfsorganisatie</extref> en op de <extref status="actief" doc="1.0:v:BWBR0016234&amp;artikel=8" compleet="nee">artikelen 8</extref>, <extref status="actief" doc="1.0:v:BWBR0016234&amp;artikel=17" compleet="nee">17</extref> en <extref status="actief" doc="1.0:v:BWBR0016234&amp;artikel=18" compleet="nee">18 van het Instellingsbesluit akkerbouwproductschappen</extref>;</considerans.al>
+        <considerans.al bevat="gehoord">Gehoord de Commissie Teeltaangelegenheden;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>Deze verordening verstaat onder:</al>
+          <table frame="none" tabstyle="stcrt2">
+            <tgroup align="left" char="" charoff="50" cols="4" tgroupstyle="stcrt2">
+              <colspec colname="col1" colnum="1" colwidth="5*"/>
+              <colspec colname="col2" colnum="2" colwidth="30*"/>
+              <colspec colname="col3" colnum="3" colwidth="8*"/>
+              <colspec colname="col4" colnum="4" colwidth="60*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>a.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>productschap</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>:</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Productschap Akkerbouw;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>b.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>dagelijks bestuur</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>:</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>dagelijks bestuur van het productschap;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>c.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>voorzitter</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>:</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>voorzitter van het productschap;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>d.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>secretaris</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>:</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>secretaris van het productschap;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>e.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>commissie</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>:</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>CommissieTeeltaangelegenheden;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>f.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>ondernemer</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>:</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>g.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>aardappelen</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>:</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>planten van de soort Solanum Tuberosum;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>h.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>aardappelopslag</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>:</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>aardappelplanten gegroeid uit op een perceel achtergebleven aardappelknollen of zaad.</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Verbodsbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het is de ondernemer verboden na 15&#xA0;april van enig jaar niet-uitgeplante aardappelen of afval van aardappelen aanwezig te hebben waarop stengels met blad voor komen, zonder op deze aardappelen een zodanige afdekking aan te brengen dat stengels met blad niet boven deze afdekking kunnen voor komen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het verbod genoemd in het eerste lid geldt niet ten aanzien van aardappelen waarvan de ondernemer ten genoegen van degenen die met de opsporing van de overtredingen van dit verbod zijn belast, aantoont dat deze aardappelen zijn bestemd om te worden uitgeplant.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <al>Het is de ondernemer verboden om zich van niet-uitgeplante aardappelen of afval van aardappelen te ontdoen, tenzij hij zodanige maatregelen heeft getroffen dat zich aan deze niet-uitgeplante aardappelen of afval van aardappelen geen stengels met blad kunnen ontwikkelen.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <al>Het is de ondernemer verboden om in een perceel waarop een gewas geteeld wordt, een aantasting van Phytophthora infestans te hebben, die als volgt omschreven is:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>een groep min of meer aaneengesloten, zichtbaar door Phytophthora infestans aangetaste aardappelplanten waarvan, binnen een oppervlakte van 20 m<sup>2</sup>, minimaal 1000 (enkelvoudige) blaadjes zijn aangetast door vitale Phytophthora infestans of</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>verspreid aangetaste aardappelplanten waarvan, binnen een oppervlakte van 100 m<sup>2</sup>, minimaal 2000 (enkelvoudige) blaadjes zijn aangetast door vitale Phytophthora infestans.</al>
+            </li>
+          </lijst>
+          <al>Ingeval van stengelphytophthora telt elke stengel met vitale Phytophthora infestans voor 5 blaadjes.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <al>Het is de ondernemer na 1&#xA0;juli van enig kalenderjaar verboden om in een perceel waarop een gewas geteeld wordt, aardappelopslag te hebben, indien:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>in dat perceel of een deel daarvan zich gemiddeld meer dan 2 planten per m<sup>2</sup> bevinden (per hectare is dat 20.000 planten) en</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de opslag voorkomt op minimaal 0,3 hectare.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De ondernemer is verplicht ter bestrijding van de in <intref status="actief" doc="1.0:v:BWBR0024015&amp;artikel=4">artikel 4</intref> bedoelde aantasting van Phytophthora infestans zodanige maatregelen te nemen dat de aantasting niet boven de in <intref status="actief" doc="1.0:v:BWBR0024015&amp;artikel=4">artikel 4</intref> gestelde norm uitkomt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De ondernemer is verplicht ter bestrijding van de in <intref status="actief" doc="1.0:v:BWBR0024015&amp;artikel=5">artikel 5</intref> bedoelde aardappelopslag zodanige maatregelen te nemen dat de aardappelopslag niet boven de in <intref status="actief" doc="1.0:v:BWBR0024015&amp;artikel=5">artikel 5</intref> gestelde norm uitkomt.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Overige bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het bestuur kan bij besluit, gehoord de commissie, vrijstelling verlenen van een of meer bepalingen uit deze verordening en daarbij nadere voorschriften stellen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een besluit als bedoeld in het eerste lid wordt bekend gemaakt in het Verordeningenblad Bedrijfsorganisatie en treedt in werking met ingang van de tweede dag na die van bekendmaking, tenzij het betreffende besluit anders bepaalt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De secretaris is namens het bestuur bevoegd op schriftelijk verzoek van de ondernemer ontheffing te verlenen van het bepaalde in de <intref status="actief" doc="1.0:v:BWBR0024015&amp;artikel=2">artikelen 2</intref>, <intref status="actief" doc="1.0:v:BWBR0024015&amp;artikel=3">3</intref>, <intref status="actief" doc="1.0:v:BWBR0024015&amp;artikel=4">4</intref>, <intref status="actief" doc="1.0:v:BWBR0024015&amp;artikel=5">5</intref> en <intref status="actief" doc="1.0:v:BWBR0024015&amp;artikel=6">6</intref> en daarbij nadere voorschriften vast te stellen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+          </kop>
+          <al>Het bepaalde bij of krachten de <intref status="actief" doc="1.0:v:BWBR0024015&amp;artikel=2">artikelen 2</intref>, <intref status="actief" doc="1.0:v:BWBR0024015&amp;artikel=3">3</intref>, <intref status="actief" doc="1.0:v:BWBR0024015&amp;artikel=4">4</intref>, <intref status="actief" doc="1.0:v:BWBR0024015&amp;artikel=5">5</intref> en <intref status="actief" doc="1.0:v:BWBR0024015&amp;artikel=6">6</intref>, waarbij aan ondernemers verplichtingen worden opgelegd, is mede bindend voor andere natuurlijke en rechtspersonen, voor zover deze handelingen verrichten die bedrijfsmatig in ondernemingen, waarvoor het productschap is ingesteld, plegen te worden verricht.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+          </kop>
+          <al>Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+          </kop>
+          <al>Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+          </kop>
+          <al>Deze verordening wordt aangehaald als Verordening PA bestrijding Phytophthora infestans bij aardappelen 2008.</al>
+        </artikel>
+      </paragraaf>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <gegeven>
+        <dagtekening>
+          <plaats>Den Haag</plaats>
+          <datum isodatum="2008-03-27">27 maart 2008</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>
+        <naam>
+          <voornaam>Th.A.M. </voornaam>
+          <achternaam>Meijer</achternaam>
+        </naam>
+        <functie>voorzitter</functie>
+      </ondertekening>
+      <ondertekening>
+        <naam>
+          <voornaam>M.</voornaam>
+          <achternaam>Elema</achternaam>
+        </naam>
+        <functie>secretaris</functie>
+      </ondertekening>
+      
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

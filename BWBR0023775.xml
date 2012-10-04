@@ -1,0 +1,1241 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0023775" dtdversie="2.0" id="396229" soort="wet">
+  
+  
+  <intitule>Wet
+van 7 februari 2008, houdende regels over de informatie-uitwisseling
+betreffende ondergrondse netten (Wet informatie-uitwisseling
+ondergrondse netten)</intitule>
+  
+  <wet-besluit>
+    <aanhef>
+      <wij>Wij
+Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van
+Oranje-Nassau, enz. enz. enz.</wij>
+      <considerans>
+        <considerans.al>Allen,
+die deze zullen zien of horen lezen, saluut! doen te
+weten:</considerans.al>
+        <considerans.al>Alzo Wij in overweging genomen
+hebben, dat het ten behoeve van zorgvuldig graven in de ondergrond
+wenselijk is te voorzien in betere informatie-uitwisseling betreffende
+de ligging van netten;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Zo is het, dat Wij, de Raad van State gehoord,
+en met gemeen overleg der Staten-Generaal, hebben goedgevonden en
+verstaan, gelijk Wij goedvinden en verstaan bij
+deze:</al>
+      </afkondiging>
+    </aanhef>
+    <wettekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <lid><lidnr status="officieel">1</lidnr><al>In deze wet
+en de daarop berustende bepalingen wordt verstaan
+onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>Dienst: de Dienst voor het
+kadaster en de openbare registers, bedoeld in <extref status="actief" doc="1.0:v:BWBR0006463&amp;artikel=2" compleet="nee">artikel 2 van de
+Organisatiewet Kadaster</extref>;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>graafwerkzaamheden: het mechanisch verrichten van
+werkzaamheden in de ondergrond;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>graaflocatie: de locatie waar graafwerkzaamheden
+worden verricht;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>net: een
+ondergrondse kabel of leiding, daaronder mede begrepen lege buizen,
+ondergrondse ondersteuningswerken en beschermingswerken, bestemd voor
+transport van vaste, vloeibare of gasvormige stoffen, van energie of
+van informatie;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>opdrachtgever:
+degene die opdracht geeft tot het uitvoeren van een werk waarbij
+graafwerkzaamheden worden verricht;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>grondroerder: degene onder wiens
+verantwoordelijkheid of leiding graafwerkzaamheden worden
+verricht;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>beheerder: degene die als
+natuurlijk persoon handelende in de uitoefening van een beroep of een
+bedrijf dan wel als rechtspersoon een net beheert;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>registratiemelding: de melding van de beheerder,
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=6">artikel 6, tweede lid</intref>, dan wel <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=45">artikel 45, eerste
+lid</intref>;</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>beheerpolygoon: de weergave
+door een beheerder van een aaneengesloten gebied, waarbinnen hij een of
+meer netten beheert;</al>
+            </li>
+            <li>
+              <li.nr>k.</li.nr>
+              <al>ori&#xEB;ntatieverzoek: het verzoek aan de
+Dienst om gebiedsinformatie, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=7">artikel 7, eerste
+onderscheidenlijk tweede lid</intref>;</al>
+            </li>
+            <li>
+              <li.nr>l.</li.nr>
+              <al>ori&#xEB;ntatiepolygoon: de weergave door een
+opdrachtgever, grondroerder of bestuursorgaan van een aangesloten
+gebied, ten aanzien waarvan deze met het oog op een belang als bedoeld
+in <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=7">artikel 7, eerste of tweede lid</intref>, om gebiedsinformatie
+verzoekt;</al>
+            </li>
+            <li>
+              <li.nr>m.</li.nr>
+              <al>graafmelding: de melding
+aan de Dienst van voorgenomen graafwerkzaamheden, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=8">artikel 8,
+eerste lid</intref>;</al>
+            </li>
+            <li>
+              <li.nr>n.</li.nr>
+              <al>graafpolygoon: de
+weergave door een grondroerder van het gebied, waarbinnen de
+graaflocatie zich bevindt;</al>
+            </li>
+            <li>
+              <li.nr>o.</li.nr>
+              <al>graafbericht: het bericht van de Dienst, bedoeld
+in <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=9">artikel 9, onder b</intref>;</al>
+            </li>
+            <li>
+              <li.nr>p.</li.nr>
+              <al>liggingsgegevens: de gegevens omtrent de ligging
+van een net binnen de betrokken ori&#xEB;ntatiepolygoon dan wel
+graafpolygoon;</al>
+            </li>
+            <li>
+              <li.nr>q.</li.nr>
+              <al>net met gevaarlijke
+inhoud: een buisleiding die behoort tot een krachtens <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=12.12" compleet="nee">artikel 12.12,
+tweede lid, van de Wet milieubeheer</extref> aangewezen categorie;</al>
+            </li>
+            <li>
+              <li.nr>r.</li.nr>
+              <al>gebiedsinformatie: het geheel van informatie dat
+door beheerders, ingevolge <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=10">artikel 10, eerste lid</intref>, aan de Dienst is
+verstrekt over de betrokken ori&#xEB;ntatiepolygoon dan wel
+graafpolygoon.</al>
+            </li>
+          </lijst></lid>
+        <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Onder net
+als bedoeld in het eerste lid, onderdeel e, wordt niet begrepen de niet
+met andere kabels of leidingen samengebonden delen van kabels of
+leidingen die een verbinding vormen tussen een net dat naar zijn aard
+voor aansluiting van huishoudens wordt opengesteld, en &#xE9;&#xE9;n
+onroerende zaak als bedoeld in <extref status="actief" doc="1.0:v:BWBR0007119&amp;artikel=16" compleet="nee">artikel 16, onderdeel a tot en met e,
+van de Wet waardering onroerende
+zaken</extref>.</al>
+                     </lid></artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Preventie van
+graafschade</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De opdrachtgever draagt er zorg voor dat de
+graafwerkzaamheden waartoe hij opdracht geeft, op zorgvuldige wijze
+kunnen worden verricht.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+grondroerder verricht de graafwerkzaamheden op zorgvuldige
+wijze.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Ter uitvoering van het
+tweede lid zorgt de grondroerder ten minste
+dat:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>v&#xF3;&#xF3;r aanvang van de
+graafwerkzaamheden een graafmelding is gedaan,</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>onderzoek is verricht naar de precieze ligging van
+onderdelen van netten op de graaflocatie, en</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>op de graaflocatie de van de Dienst ontvangen
+gebiedsinformatie aanwezig
+is.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De aanleg, de instandhouding en de opruiming
+van netten door een beheerder geschieden op zodanige wijze dat het
+beheer van andere netten niet in gevaar wordt gebracht of zonder
+noodzaak wordt bemoeilijkt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+beheerder die in strijd handelt met het eerste lid, neemt op eigen
+kosten maatregelen ten aanzien van het betreffende onderdeel van zijn
+net, waaronder zonodig het verplaatsen daarvan, om aan de strijdigheid
+onverwijld een einde te maken.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Elektronisch
+informatiesysteem</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <al>Er is een
+elektronisch informatiesysteem waarmee informatie tussen beheerders
+enerzijds en opdrachtgevers, grondroerders en bestuursorganen
+anderzijds wordt uitgewisseld.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De Dienst is belast met het beheer van het
+elektronische informatiesysteem.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De Dienst verstrekt op verzoek via het
+elektronische informatiesysteem gebiedsinformatie
+aan:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>opdrachtgevers en grondroerders ten behoeve van
+het voorbereiden van graafwerkzaamheden en het op zorgvuldige wijze
+verrichten van graafwerkzaamheden;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>bestuursorganen voor zover deze gebiedsinformatie
+noodzakelijk is voor de uitvoering van hun
+taak.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Ten behoeve van de informatie-uitwisseling
+over ondergrondse netten registreert de Dienst de
+beheerpolygonen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Degene
+die</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>een net gaat beheren dat niet ligt binnen een door
+de Dienst op zijn naam geregistreerde beheerpolygoon, of</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>niet langer een net zal beheren dat ligt binnen
+een door de Dienst op zijn naam geregistreerde beheerpolygoon of deel
+daarvan,</al>
+              </li>
+            </lijst>
+            <al>geeft dit ten minste
+twintig werkdagen voor aanvang van de wijziging in het beheer van het
+betreffende net door aan de Dienst, zo nodig onder opgave van de
+gewijzigde beheerpolygoon.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Informatie-uitwisseling
+ten behoeve van graafwerkzaamheden</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een opdrachtgever of een grondroerder kan de
+Dienst om gebiedsinformatie verzoeken ten behoeve van het voorbereiden
+van graafwerkzaamheden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een bestuursorgaan kan de Dienst om
+gebiedsinformatie verzoeken voor zover deze informatie noodzakelijk is
+voor de uitvoering van de hem opgedragen taak.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Bij het ori&#xEB;ntatieverzoek geeft de
+opdrachtgever, de grondroerder of het bestuursorgaan een
+ori&#xEB;ntatiepolygoon op.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een grondroerder meldt het voornemen tot het
+verrichten van graafwerkzaamheden aan de Dienst ten hoogste twintig
+werkdagen voorafgaande aan de aanvang van die
+graafwerkzaamheden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Bij de
+graafmelding geeft de grondroerder een graafpolygoon
+op.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Het eerste lid is niet van
+toepassing, indien de graafwerkzaamheden ten hoogste een bij algemene
+maatregel van bestuur te bepalen diepgang hebben en uitgevoerd zullen
+worden in grond die in eigendom of beheer is van de grondroerder en hij
+weet dat sinds de voorafgaande graafmelding de ligging van de netten in
+deze grond niet is veranderd.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+                  <kop>
+                     <label>Artikel</label>
+                     <nr status="officieel">8a</nr>
+                  </kop>
+                  <lid>
+                     <lidnr status="officieel">1</lidnr>
+                     <al>Bij algemene maatregel van bestuur kunnen bepaalde categorie&#xEB;n grondroerders worden aangewezen die zijn vrijgesteld van de verplichting om een graafmelding te doen voor zover zij graafwerkzaamheden verrichten in grond die in eigendom of in beheer is van de grondroerder en die graafwerkzaamheden niet dieper gaan dan 50 cm onder het maaiveld.</al>
+                  </lid>
+                  <lid>
+                     <lidnr status="officieel">2</lidnr>
+                     <al>Vrijstelling laat de op de grondroerder rustende zorgplichten bedoeld in <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=2">artikel 2, eerste, tweede en derde lid, onderdeel b</intref>, onverlet.</al>
+                  </lid>
+                  <lid>
+                     <lidnr status="officieel">3</lidnr>
+                     <al><intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=2">Artikel 2, derde lid, onderdelen a en c</intref>, is niet van toepassing op de grondroerders, bedoeld in het eerste lid.</al>
+                  </lid>
+                  <lid>
+                     <lidnr status="officieel">4</lidnr>
+                     <al>Voor de toepassing van dit artikel wordt de opdrachtgever voor graafwerkzaamheden als bedoeld in het eerste lid aangemerkt als grondroerder indien de opdrachtgever eigenaar of beheerder is van de grond waarin de werkzaamheden worden uitgevoerd.</al>
+                  </lid>
+               </artikel><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+          </kop>
+          <al>Na ontvangst
+van een ori&#xEB;ntatieverzoek of
+graafmelding:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>verstrekt de Dienst aan degene die het
+ori&#xEB;ntatieverzoek of de graafmelding heeft gedaan onverwijld een
+ontvangstbevestiging;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>bericht de
+Dienst hierover onverwijld onder vermelding van de
+ori&#xEB;ntatiepolygoon of graafpolygoon alle beheerders wier
+beheerpolygoon geheel of gedeeltelijk samenvalt met deze
+ori&#xEB;ntatiepolygoon onderscheidenlijk
+graafpolygoon.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Onverwijld doch uiterlijk binnen
+&#xE9;&#xE9;n werkdag na verzending van een graafbericht verstrekt
+een beheerder via het elektronische informatiesysteem in ieder geval de
+volgende informatie aan de
+Dienst:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de liggingsgegevens,</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de relevante eigenschappen van zijn net binnen de
+betreffende ori&#xEB;ntatiepolygoon dan wel
+graafpolygoon,</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>in voorkomend geval
+welke voorzorgsmaatregelen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=13">artikel 13, eerste of tweede
+lid</intref>, zullen worden getroffen, en</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>zijn contactgegevens.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien een beheerder de termijn, genoemd in het
+eerste lid, overschrijdt, doet de Dienst daarvan onverwijld mededeling
+aan Onze Minister.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De Dienst verstrekt gebiedsinformatie via het
+elektronische informatiesysteem onverwijld na ontvangst van alle
+informatie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=10">artikel 10</intref>, doch uiterlijk binnen twee
+werkdagen na verzending van het graafbericht, aan degene die het
+ori&#xEB;ntatieverzoek of de graafmelding heeft
+gedaan.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien degene die het
+ori&#xEB;ntatieverzoek of de graafmelding heeft gedaan geen gebruik
+maakt van het elektronische informatiesysteem, verstrekt de Dienst
+gebiedsinformatie op andere wijze onverwijld na ontvangst van alle
+vereiste informatie, doch uiterlijk binnen drie werkdagen na verzending
+van het graafbericht.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Indien de
+Dienst niet binnen de termijn, bedoeld in het eerste lid, van alle
+beheerders de ingevolge <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=10">artikel 10, eerste lid</intref>, vereiste informatie
+heeft ontvangen, doet de Dienst daarvan mededeling bij het verstrekken
+van de gebiedsinformatie.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">12</nr>
+                     </kop>
+                     <al>Onze Minister kan voor de situatie dat
+graafmeldingen die betrekking hebben op graafwerkzaamheden als bedoeld
+in <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=8">artikel 8, derde lid</intref>, gezamenlijk worden gedaan door tussenkomst van
+een door Onze Minister aan te wijzen organisatie, bij regeling
+vrijstelling verlenen van de verplichtingen ten aanzien van de
+termijnen, bepaald in de artikelen 8, eerste lid, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=9">9</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=10">10, eerste lid</intref>, en
+<intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=11">11, eerste lid</intref>. De vrijstelling kan onder beperkingen worden
+verleend.</al>
+                  </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">13</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De beheerder van een net met gevaarlijke
+inhoud treft voorzorgsmaatregelen voordat een grondroerder
+graafwerkzaamheden in de omgeving daarvan verricht. Deze
+voorzorgsmaatregelen betreffen in ieder geval de aanwijzing ter plaatse
+van de exacte ligging van dat net door de beheerder.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De beheerder van een net met een grote waarde kan
+voorzorgsmaatregelen treffen voordat een grondroerder
+graafwerkzaamheden in de omgeving daarvan verricht.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Indien de beheerder heeft aangegeven dat hij
+voorzorgsmaatregelen treft, vangt de grondroerder de graafwerkzaamheden
+niet aan dan nadat de beheerder deze voorzorgsmaatregelen heeft
+getroffen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De beheerder treft de
+voorzorgsmaatregelen binnen drie werkdagen nadat de grondroerder
+contact met hem heeft opgenomen, tenzij hij in overleg met de
+grondroerder andere afspraken maakt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Indien een beheerder voorzorgsmaatregelen treft,
+treft de grondroerder eveneens de nodige voorzorgsmaatregelen. Hij legt
+deze schriftelijk vast en brengt deze voor aanvang van de
+graafwerkzaamheden ter kennis van de betrokken
+beheerder.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">14</nr>
+          </kop>
+          <al>Onze Minister van Veiligheid en Justitie kan ter voorkoming van een terroristisch misdrijf
+als bedoeld in <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=83" compleet="nee">artikel 83 van het Wetboek van Strafrecht</extref> of om op
+voorhand de gevolgen daarvan te beperken aan de Dienst alle nodige
+aanwijzingen geven ten aanzien van de
+informatie-uitwisseling.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">15</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De beheerder rapporteert aan de Dienst
+telkens in januari het aantal schadegevallen als gevolg van
+graafwerkzaamheden in het voorafgaande kalenderjaar.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het bestuur van de Dienst neemt een overzicht op
+van het aantal schadegevallen in het jaarverslag, bedoeld in <extref status="actief" doc="1.0:v:BWBR0006463&amp;artikel=25" compleet="nee">artikel 25
+van de Organisatiewet Kadaster</extref>.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">16</nr>
+          </kop>
+          <al>De
+grondroerder meldt schade aan een net als gevolg van zijn
+graafwerkzaamheden onverwijld aan de beheerder van het beschadigde
+net.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">17</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Indien de ligging van een net afwijkt van de
+liggingsgegevens die aan de grondroerder zijn verstrekt, meldt de
+grondroerder dit onverwijld bij de Dienst.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Van de melding, bedoeld in het eerste lid, doet de
+Dienst onverwijld mededeling aan de betrokken
+beheerder.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De beheerder treft
+binnen dertig werkdagen na ontvangst van de mededeling, bedoeld in het
+tweede lid, de als gevolg van de melding, bedoeld in het eerste lid,
+noodzakelijke maatregelen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">18</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Indien de grondroerder een net aantreft dat
+niet in de door de Dienst verstrekte liggingsgegevens is vermeld of
+waarvan niet duidelijk is wie de beheerder is, meldt de grondroerder
+dit onverwijld bij de Dienst.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+Dienst bericht onverwijld alle beheerders wier beheerpolygoon geheel of
+gedeeltelijk samenvalt met de graafpolygoon en de bij
+ministeri&#xEB;le regeling te bepalen beheerders dat er een net is
+aangetroffen, waarover geen liggingsgegevens zijn verstrekt als bedoeld
+in <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=10">artikel 10</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Indien er een
+beheerder van het net is, meldt deze zich onverwijld bij de
+Dienst.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Indien de Dienst niet
+binnen tien werkdagen na het bericht, bedoeld in het tweede lid, een
+melding als bedoeld in het derde lid
+ontvangt:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>geeft de Dienst de met betrekking tot dat net
+bekende gegevens door aan de gemeente in welker grondgebied dat net
+zich bevindt;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>registreert de Dienst
+de globale ligging van de met betrekking tot dat net bekende gegevens
+als polygoon.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Voor de
+toepassing van <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=9">artikel 9</intref> wordt de gemeente, bedoeld in het vierde lid,
+gelijkgesteld met een beheerder.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">19</nr>
+          </kop>
+          <al>Op een
+gemeente die gegevens heeft ontvangen door toepassing van <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=18">artikel 18,
+vierde lid</intref>, zijn de <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=10">artikelen 10</intref> en <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=17">17, tweede lid</intref>, van overeenkomstige
+toepassing met dien verstande dat de gemeente de met betrekking tot dat
+net bekende gegevens verstrekt, met inbegrip van eventuele correcties
+ingevolge <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=17">artikel 17, tweede lid</intref>.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">20</nr>
+          </kop>
+          <al>De Dienst
+bewaart gedurende een bij algemene maatregel van bestuur te bepalen
+periode gegevens over de uitvoering van de <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=6">artikelen 6, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=7">7</intref>,
+<intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=8">8, eerste en tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=9">9</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=10">10</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=11">11</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=12">12, onderdeel b</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=15">15, eerste lid</intref>,
+<intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=17">17, eerste en tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=18">18</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=45">45, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=46">46, vierde lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=47">47</intref>,
+met uitzondering van de gegevens, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=10">artikel 10, eerste lid,
+onderdelen a, b en c</intref>.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Nadere
+regelgeving</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">21</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Bij of krachtens algemene maatregel van
+bestuur worden nadere regels gesteld
+over:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de informatie die op grond van <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=10">artikel 10</intref> wordt
+verstrekt, waarbij voor verschillende categorie&#xEB;n netten
+verschillende regels kunnen worden gesteld, en de wijze waarop die
+informatie wordt verstrekt;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de
+toegang tot en de aansluiting op het informatiesysteem;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>beheerpolygonen, ori&#xEB;ntatiepolygonen en
+graafpolygonen.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Bij
+of krachtens algemene maatregel van bestuur kunnen nadere regels worden
+gesteld over de situatie dat vanwege de door een calamiteit geboden
+spoed niet aan <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=2">artikel 2, eerste en derde lid</intref>, kan worden voldaan dan
+wel de in <intref status="actief" doc="1.0:v:BWBR0023775&amp;hoofdstuk=4">hoofdstuk 4</intref> beschreven procedure kan worden gevolgd, waarbij
+voor zover nodig van <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=2">dat artikel</intref> onderscheidenlijk de bepalingen van
+<intref status="actief" doc="1.0:v:BWBR0023775&amp;hoofdstuk=4">dat hoofdstuk</intref> kan worden afgeweken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Bij of krachtens algemene maatregel van bestuur
+kunnen nadere regels worden gesteld
+over:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het op zorgvuldige wijze verrichten van
+graafwerkzaamheden, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=2">artikel 2, tweede lid</intref>;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>registratiemeldingen, ori&#xEB;ntatieverzoeken
+en graafmeldingen;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de
+voorzorgsmaatregelen en de inachtneming daarvan, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=13">artikel 13,
+eerste, tweede en vijfde lid</intref>;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de
+ontvangstbevestiging, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=9">artikel 9, onderdeel a</intref>, en het
+graafbericht.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Bij
+ministeri&#xEB;le regeling kunnen regels worden gesteld
+over:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>meldingen als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=15">artikelen 15, eerste
+lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=17">17, eerste lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=18">18, eerste en derde lid</intref>;</al>
+              </li>
+              
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het bewaren
+en verstrekken van de informatie, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=20">artikel
+20</intref>.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">22</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Bij of krachtens algemene maatregel van
+bestuur worden nadere regels gesteld over de gebiedsinformatie die op
+grond van <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=11">artikel 11</intref> aan de grondroerder wordt verstrekt, waarbij voor
+verschillende categorie&#xEB;n graafwerkzaamheden verschillende
+regels kunnen worden gesteld, en de wijze waarop die gebiedsinformatie
+wordt verstrekt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Bij regeling van
+het bestuur van de Dienst worden regels gesteld omtrent de wijze waarop
+de registratie van beheerders, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=6">artikel 6, eerste lid</intref>,
+plaatsvindt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Bij regeling van het
+bestuur van de Dienst kunnen regels worden gesteld omtrent de tijden
+gedurende welke ori&#xEB;ntatieverzoeken en graafmeldingen kunnen
+worden gedaan.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">23</nr>
+          </kop>
+          <al>Bij
+algemene maatregel van bestuur
+worden:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de gebieden aangewezen ten aanzien waarvan om
+veiligheidsredenen kan worden afgeweken van de voorschriften gesteld
+bij of krachtens <intref status="actief" doc="1.0:v:BWBR0023775&amp;hoofdstuk=4">hoofdstuk 4</intref>;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>regels
+gesteld over de informatie-uitwisseling in de gebieden, bedoeld onder
+a.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Handhaving</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">24</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Met het toezicht op de naleving van het
+bepaalde bij of krachtens de <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=2">artikelen 2</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=6">6, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=8">8</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=10">10, eerste
+lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=13">13, eerste, derde, vierde en vijfde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=15">15, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=16">16</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=17">17,
+eerste en derde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=18">18, eerste en derde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=21">21, eerste en tweede lid,
+derde lid, onder a, b en c, vierde lid, onder a en b</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=22">22, eerste lid</intref>,
+<intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=23">23</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=45">45</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=46">46, tweede, derde en vierde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=48">48</intref> en <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=49">49, eerste lid</intref>, zijn
+belast de bij besluit van Onze Minister aangewezen
+ambtenaren.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Van een besluit als
+bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de
+Staatscourant.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">25</nr>
+          </kop>
+          <al>Onze
+Minister is bevoegd tot het opleggen van een last onder
+bestuursdwang ter handhaving
+van de verplichtingen, gesteld bij of krachtens de <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=2">artikelen 2</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=6">6,
+tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=10">10, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=13">13, eerste, derde, vierde en vijfde lid</intref>, en
+<intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=15">15, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=21">21, eerste, tweede en derde lid, onder a en c</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=23">23</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=45">45</intref>,
+<intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=46">46, tweede, derde en vierde lid</intref> en <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=49">49, eerste lid</intref>, of van <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=5%3A20" compleet="nee">artikel 5:20
+van de Algemene wet bestuursrecht</extref>.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">26</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Ingeval van overtreding van de <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=2">artikelen 2</intref> en
+<intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=13">13, derde lid</intref>, kan Onze Minister een bestuurlijke boete opleggen van
+ten hoogste &#x20AC; 450 000.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Ingeval van overtreding van het bepaalde bij of
+krachtens de <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=6">artikelen 6, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=8">8</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=10">10, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=13">13, eerste,
+vierde en vijfde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=15">15, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=16">16</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=17">17, eerste en derde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=18">18,
+eerste en derde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=21">21, eerste en tweede lid, derde lid, onder a, b en
+c, vierde lid, onder a en b</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=22">22, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=23">23</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=45">45</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=46">46, tweede, derde
+en vierde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=48">48</intref> en <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=49">49, eerste lid</intref>, of van <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=5%3A20" compleet="nee">artikel 5:20 van de
+Algemene wet bestuursrecht</extref> kan Onze Minister een bestuurlijke boete
+opleggen van ten hoogste &#x20AC; 100 000.</al>
+          </lid>
+          
+        </artikel>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Wijzigingen
+in andere wetgeving</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">39</nr>
+          </kop><al><redactie type="vervanging">Wijzigt de Kadasterwet.</redactie></al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">40</nr>
+          </kop><al><redactie type="vervanging">Wijzigt de Organisatiewet Kadaster.</redactie></al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">41</nr>
+          </kop><al><redactie type="vervanging">Wijzigt de Telecommunicatiewet.</redactie></al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">42</nr>
+          </kop><al><redactie type="vervanging">Wijzigt het Burgerlijk Wetboek Boek 6.</redactie></al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">43</nr>
+          </kop><al><redactie type="vervanging">Wijzigt de Wet op de economische delicten.</redactie></al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Overgangs- en
+slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">44</nr>
+          </kop>
+          <al>Deze wet
+laat onverlet dat de gemeenteraad in het belang van de openbare orde en
+veiligheid bij verordening voorschriften kan geven omtrent het
+verrichten van graafwerkzaamheden, waaronder het binden van
+graafwerkzaamheden aan het hebben van een
+vergunning.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">45</nr>
+          </kop>
+          <al>Binnen drie maanden na inwerkingtreding van
+<intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=6">artikel 6, eerste lid</intref>, geeft een beheerder zijn beheerpolygoon of
+beheerpolygonen aan de Dienst op.</al>
+          
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">46</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Tot het moment van inwerkingtreding van
+<intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=5">artikel 5, eerste lid</intref>, is de Dienst belast met de
+informatie-uitwisseling betreffende ondergrondse
+netten.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Tot het moment van
+inwerkingtreding van <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=5">artikel 5, eerste lid</intref>, verstrekt de beheerder, in
+afwijking van <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=10">artikel 10, eerste lid</intref>, de informatie, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=10">artikel
+10</intref>, aan degene die het ori&#xEB;ntatieverzoek of de graafmelding
+heeft gedaan.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>In afwijking van de
+<intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=10">artikelen 10</intref>, en <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=12">12, onderdeel b</intref>, kunnen tot het moment van
+inwerkingtreding van <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=5">artikel 5, eerste lid</intref>, bij of krachtens algemene
+maatregel van bestuur regels worden gesteld over het aanleveren van
+informatie door beheerders. Deze regels kunnen betrekking hebben
+op:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>welke informatie wordt verstrekt;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>aan wie de informatie wordt
+verstrekt;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de wijze waarop de
+informatie wordt verstrekt;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de
+termijnen waarbinnen deze informatie wordt
+verstrekt.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>In
+afwijking van <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=15">artikel 15</intref> rapporteren de beheerders gedurende vier jaar
+na inwerkingtreding van dit artikel in de maanden januari en juli het
+aantal schadegevallen als gevolg van graafwerkzaamheden in de
+voorafgaande zes maanden.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">47</nr>
+          </kop>
+          <al>In
+afwijking van <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=11">artikel 11, eerste en tweede lid</intref>, kunnen tot het moment
+van inwerkingtreding van <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=15">artikel 5, eerste lid</intref>, bij ministeri&#xEB;le
+regeling regels worden gesteld over het aanleveren van informatie door
+de Dienst aan degene, die een ori&#xEB;ntatieverzoek of een
+graafmelding heeft gedaan. Deze regels kunnen betrekking hebben
+op:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>welke informatie wordt verstrekt;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de wijze waarop de informatie wordt
+verstrekt;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de termijnen waarbinnen
+deze informatie wordt
+verstrekt.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">48</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>In afwijking van <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=17">artikel 17, eerste lid</intref>, doet
+een grondroerder tot het moment van inwerkingtreding van <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=5">artikel 5,
+eerste lid</intref>, de melding, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=17">artikel 17, eerste lid</intref>, bij de
+beheerder indien hij gegevens ingevolge <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=46">artikel 46, tweede lid</intref>,
+rechtstreeks van de beheerder heeft verkregen. In dat geval is <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=17">artikel
+17, tweede lid</intref>, niet van toepassing.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Bij ministeri&#xEB;le regeling worden regels
+gesteld omtrent de wijze waarop een melding als bedoeld in het eerste
+lid wordt gedaan.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">49</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Bij algemene maatregel van bestuur kunnen met
+het oog op een goede invoering van deze wet tot 3 jaar na
+inwerkingtreding van <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=4">artikel 4</intref> regels worden gesteld.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Tot 5 jaar na inwerkingtreding van deze wet kan
+Onze Minister bij regeling voor
+daarbij aan te geven categorie&#xEB;n van beheerders of
+categorie&#xEB;n van delen van netten vrijstelling verlenen van de
+verplichtingen van <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=6">artikel 6, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=10">10, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=18">18, eerste
+lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=45">45</intref> en <intref status="actief" doc="1.0:v:BWBR0023775&amp;artikel=46">46</intref>.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">50</nr>
+          </kop>
+          <al><redactie type="vervanging">Wijzigt deze wet.</redactie></al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">51</nr>
+          </kop>
+          <al>Onze
+Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan
+de Staten-Generaal een verslag over de doeltreffendheid en de effecten
+van deze wet in de praktijk.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">52</nr>
+          </kop>
+          <al>De
+artikelen van deze wet treden in werking op een bij koninklijk besluit
+te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen
+daarvan verschillend kan worden
+vastgesteld.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">53</nr>
+          </kop>
+          <al>Deze wet
+wordt aangehaald als: Wet informatie-uitwisseling ondergrondse
+netten.</al>
+        </artikel>
+      </hoofdstuk>
+    </wettekst>
+    <wetsluiting status="goed">
+      <slotformulering>
+        <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst
+en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks
+aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>
+					's-Gravenhage</plaats>
+          <datum isodatum="7 februari 2008">7
+februari
+2008</datum>
+        </dagtekening>
+        <koning>Beatrix</koning>
+      </gegeven>
+      <ondertekening>
+        <functie>De
+
+          Minister
+           van 
+          Economische
+Zaken
+          
+        ,</functie>
+        <naam>
+          <voornaam>M. J. A. van
+der</voornaam>
+          <achternaam>Hoeven</achternaam>
+        </naam>
+      </ondertekening>
+      <ondertekening>
+        <functie>De
+
+          Minister
+           van
+
+          Volkshuisvesting, Ruimtelijke Ordening en
+Milieubeheer
+          
+        ,</functie>
+        <naam>
+          <voornaam>J.
+M.</voornaam>
+          <achternaam>Cramer</achternaam>
+        </naam>
+      </ondertekening>
+      <uitgifte>
+        <datum isodatum="2008-04-22">de <nadruk type="cur">twee&#xEB;ntwintigste</nadruk>
+april 2008</datum>
+        <ondertekening>
+          <functie>De 
+            Minister
+             van
+
+            Justitie
+            
+          ,</functie>
+          <naam>
+            <voornaam>E.
+M. H.</voornaam>
+            <achternaam>Hirsch
+Ballin</achternaam>
+          </naam>
+        </ondertekening>
+      </uitgifte>
+    </wetsluiting>
+  </wet-besluit>
+</wetgeving>
+  	

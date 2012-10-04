@@ -1,0 +1,434 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0029229" dtdversie="2.0" id="450769" soort="ministeriele-regeling">
+  
+  <intitule>Regeling
+administratieve organisatie en interne controle registratie en
+facturering DBC&#x2019;s en
+GGZ</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De
+Nederlandse Zorgautoriteit
+(NZa),</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op
+<extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=36" compleet="nee">artikelen 36, derde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=37" compleet="nee">artikel 37</extref> en <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=68" compleet="nee">68, eerste lid, van de Wet
+marktordening gezondheidszorg
+(Wmg)</extref>,</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Heeft de
+volgende regeling
+vastgesteld:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Reikwijdte</titel>
+        </kop>
+        <al>Deze
+regeling is van toepassing op zorgaanbieders die tweedelijns curatieve
+geestelijke gezondheidszorg (GGZ) leveren als bedoeld in de
+<extref status="actief" doc="1.0:v:BWBR0018450" compleet="nee">Zorgverzekeringswet</extref>
+(Zvw).</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <al>In
+het vervolg van deze regeling wordt verstaan
+onder:</al>
+        <tussenkop kopopmaak="cur">
+          <nadruk type="cur">2.1
+AO/IC</nadruk>
+        </tussenkop>
+        <al>Administratieve organisatie en interne controle
+registratie en facturering DBC GGZ.</al>
+        <tussenkop kopopmaak="cur">
+          <nadruk type="cur">2.2
+Zorgaanbieder</nadruk>
+        </tussenkop>
+        <al>De natuurlijke persoon of rechtspersoon
+die beroeps- of bedrijfsmatig zorg verleent, als bedoeld in <intref status="actief" doc="1.0:v:BWBR0029229&amp;artikel=1">artikel 1</intref>
+van deze regeling, voor zover deze ingevolge een beschikking van de NZa
+dient te declareren in DBC&#x2019;s.</al>
+        <al>Waar in deze regeling
+wordt gesproken van zorgaanbieder wordt ingevolge <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=62" compleet="nee">artikel 62, eerste
+lid, Wmg</extref>, tevens gedoeld op degene die een administratie voert als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=44" compleet="nee">artikel 44, van de Wmg</extref>.</al>
+        <al>Waar in deze regeling wordt
+gesproken van zorgaanbieder wordt ingevolge <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=62" compleet="nee">artikel 62, tweede lid,
+Wmg</extref>, tevens gedoeld op degene die ten behoeve van de zorgaanbieder
+gegevens verzamelt, bewaart en bewerkt, alsmede op de groep in de zin
+van <extref status="actief" doc="1.0:v:BWBR0003045&amp;artikel=24b" compleet="nee">artikel 24b van Boek 2 van het Burgerlijk Wetboek</extref>, indien
+zorgaanbieders daartoe behoren.</al>
+        <tussenkop kopopmaak="cur">
+          <nadruk type="cur">2.3
+Zelfstandig gevestigde zorgaanbieders</nadruk>
+        </tussenkop>
+        <al>Zorgaanbieders in
+de curatieve GGZ die ingevolge een beschikking van de NZa dienen te
+declareren in DBC&#x2019;s en die niet verbonden zijn aan een
+instelling.</al>
+        <tussenkop kopopmaak="cur">
+          <nadruk type="cur">2.4
+DBC</nadruk>
+        </tussenkop>
+        <al>Diagnose behandelcombinatie: het geheel van
+prestaties van zorgaanbieders voortvloeiend uit de zorgvraag waarvoor
+een cli&#xEB;nt de zorgaanbieders
+consulteert.</al>
+        <tussenkop kopopmaak="cur">
+          <nadruk type="cur">2.5 DBC
+Validatie</nadruk>
+        </tussenkop>
+        <al>Zorgaanbieders zijn ten behoeve van de
+registratie en declaratie van DBC's gehouden in hun software een
+validatiemodule op te nemen. Deze dient als instrument om de
+betrouwbaarheid van DBC's te toetsen en de juistheid van de registratie
+te verifi&#xEB;ren. De eisen waaraan de validatiemodule en de
+toepassing daarvan dienen te voldoen zijn omschreven in de <extref status="actief" doc="1.0:v:BWBR0028936" compleet="nee">Regeling DBC
+GGZ
+Validatie</extref>.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Doel</titel>
+        </kop>
+        <al>Het
+doel van de regeling is regels te stellen aan de administratieve
+organisatie en interne controle van zorgaanbieders ter waarborging van
+de betrouwbaarheid van het DBC-systeem in de geestelijke
+gezondheidszorg.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Minimum
+eisen
+AO/IC</titel>
+        </kop>
+        <tussenkop kopopmaak="cur">
+          <nadruk type="cur">4.1
+Administratieve organisatie</nadruk>
+        </tussenkop>
+        <al>De zorgaanbieder draagt zorg
+voor een beschrijving van de administratieve organisatie, gebaseerd op
+de volgende
+elementen:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>1.</li.nr>
+            <al>functiescheiding
+tussen beschikken (hoofdbehandelaars), registreren, en controleren.
+Deze functiescheiding komt tot uitdrukking in de beschrijving van
+functies, taken en
+verantwoordelijkheden;</al>
+          </li>
+          <li>
+            <li.nr>2.</li.nr>
+            <al>een
+beschrijving van procedures incl.
+werkbeschrijvingen;</al>
+          </li>
+          <li>
+            <li.nr>3.</li.nr>
+            <al>periodieke
+instructie van behandelaars en
+medewerkers;</al>
+          </li>
+          <li>
+            <li.nr>4.</li.nr>
+            <al>toetsing en controle op
+de naleving van de voorschriften ten aanzien van de
+AO;</al>
+          </li>
+          <li>
+            <li.nr>5.</li.nr>
+            <al>rapportage aan het management
+over de uitgevoerde controle.</al>
+          </li>
+        </lijst>
+        <al>Voor een betrouwbare
+DBC-registratie is vereist dat de essenti&#xEB;le verrichtingen die
+zich voordoen bij de DBC's juist en volledig worden vastgelegd. De
+administratieve organisatie wordt zo opgezet dat een zogenaamde
+audit-trail mogelijk is.</al>
+        <tussenkop kopopmaak="cur">
+          <nadruk type="cur">4.2 Interne
+controle</nadruk>
+        </tussenkop>
+        <al>Naast het opzetten, het in stand houden, en het
+doorlopend goed laten werken van de administratieve organisatie zorgt
+de zorgaanbieder middels de interne controle ervoor dat de
+risico&#x2019;s die samenhangen met het bedrijfsproces beheerst kunnen
+worden. Binnen de interne controle wordt onderscheid gemaakt tussen de
+controle die plaats vindt binnen het primaire proces en de controle
+door de interne controle functie.</al>
+        <tussenkop kopopmaak="cur">
+          <nadruk type="cur">4.2.1
+Controles in het primaire proces</nadruk>
+        </tussenkop>
+        <al>Tijdens en na de
+DBC-registratie dient een aantal controles te worden uitgevoerd dat het
+registratieproces van de DBC op systematiek controleert. Deze controles
+kunnen in de DBC-validatiemodule ingebouwd worden opdat deze
+geautomatiseerd uitgevoerd worden. Daar waar de registratie op papier
+gebeurt, zullen de controles handmatig uitgevoerd moeten worden. Het
+betreft de hiernavolgende
+controles:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>1.</li.nr>
+            <al>controleren
+op juistheid van openen van een nieuwe
+DBC;</al>
+          </li>
+          <li>
+            <li.nr>2.</li.nr>
+            <al>controleren of machtigingen zijn
+afgegeven door de zorgverzekeraar daar waar
+nodig;</al>
+          </li>
+          <li>
+            <li.nr>3.</li.nr>
+            <al>sluiten van DBC na 365 dagen
+en openen vervolg DBC indien
+nodig;</al>
+          </li>
+          <li>
+            <li.nr>4.</li.nr>
+            <al>signaleringslijst laten
+autoriseren door de
+hoofdbehandelaar;</al>
+          </li>
+          <li>
+            <li.nr>5.</li.nr>
+            <al>controle tijdige
+sluiting DBC&#x2019;s;</al>
+          </li>
+          <li>
+            <li.nr>6.</li.nr>
+            <al>controleren
+dat DBC&#x2019;s niet leeg
+zijn;</al>
+          </li>
+          <li>
+            <li.nr>7.</li.nr>
+            <al>controle volledigheid DBC
+typering;</al>
+          </li>
+          <li>
+            <li.nr>8.</li.nr>
+            <al>controle juistheid
+combinaties
+typeringscomponenten;</al>
+          </li>
+          <li>
+            <li.nr>9.</li.nr>
+            <al>controle
+juistheid combinaties van meerdere
+DBC&#x2019;s;</al>
+          </li>
+          <li>
+            <li.nr>10.</li.nr>
+            <al>controle op lokale
+normaantal verrichtingen per
+DBC;</al>
+          </li>
+          <li>
+            <li.nr>11.</li.nr>
+            <al>controle juistheid DBC typering
+bij sluiting;</al>
+          </li>
+          <li>
+            <li.nr>12.</li.nr>
+            <al>controle volledigheid
+DBC registratie op basis van niet aan een DBC te relateren afspraak,
+behandeling, verblijfdag, dagbesteding, aanvullend onderzoek en/of
+geneesmiddel;</al>
+          </li>
+          <li>
+            <li.nr>13.</li.nr>
+            <al>afwikkeling van de
+signaallijsten alsmede de afwijkingen zoals geconstateerd in de
+controle bevindingen.</al>
+          </li>
+        </lijst>
+        <tussenkop kopopmaak="cur">
+          <nadruk type="cur">4.2.2
+Controles door de interne controle functie</nadruk>
+        </tussenkop>
+        <al>Het beleggen
+van een interne controlefunctie dient te zorgen voor een goede
+monitoring en periodieke optimalisatie van de DBC-registratie. De
+controle richt zich zowel op het signaleren van verschillen tussen de
+DBC typering en de uitgevoerde verrichtingen, als op de procedurele
+afspraken rondom de DBC-registratie.</al>
+        <al>Voor de controle op juiste
+typering is het uitgangspunt om te werken met goed opgeleide codeurs.
+Hierbij kan de omvang van de steekproef worden bepaald op basis van de
+controletolerantie uit het Protocol Rechtmatigheidsonderzoek 2004
+(CVZ).</al>
+        <al>De controles door de interne controle functie omvatten
+het
+volgende:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>1.</li.nr>
+            <al>controle
+op een juiste, volledige en tijdige vastlegging van de
+DBC&#x2019;s;</al>
+          </li>
+          <li>
+            <li.nr>2.</li.nr>
+            <al>controle op een juiste,
+volledige en tijdige vastlegging van de essenti&#xEB;le
+verrichtingen;</al>
+          </li>
+          <li>
+            <li.nr>3.</li.nr>
+            <al>controle op de
+juistheid van de definitieve DBC
+typering;</al>
+          </li>
+          <li>
+            <li.nr>4.</li.nr>
+            <al>controle op een juiste,
+volledige en tijdige facturering door de instelling aan de
+zorgverzekeraars op basis van de afgesloten
+DBC&#x2019;s;</al>
+          </li>
+          <li>
+            <li.nr>5.</li.nr>
+            <al>controle op een
+re&#xEB;le verhouding tussen de beschikbare tijd van behandelaars ten
+opzichte van de geregistreerde tijd van
+behandelaars;</al>
+          </li>
+          <li>
+            <li.nr>6.</li.nr>
+            <al>oplevering periodieke
+controlerapportages aan het lijnmanagement over de uitgevoerde
+controles (zie hoofdstuk 2);</al>
+          </li>
+          <li>
+            <li.nr>7.</li.nr>
+            <al>het
+systematisch vastleggen van gesignaleerde (mogelijke) fouten, de
+terugkoppeling hiervan naar de (hoofd)behandelaars en het uitvoeren van
+eventuele correcties in de DBC
+registratie;</al>
+          </li>
+          <li>
+            <li.nr>8.</li.nr>
+            <al>de rapportage over de
+opzet, het bestaan en voortdurende goede werking van de AO/IC aan het
+management, is zodanig dat de Raad van Bestuur op basis hiervan een
+verklaring af kan geven over de DBC-registratie en de DBC-facturering
+(=productie).</al>
+          </li>
+        </lijst>
+        <tussenkop kopopmaak="cur">
+          <nadruk type="cur">4.2.3
+Zelfstandig gevestigde zorgaanbieders in de curatieve
+GGZ</nadruk>
+        </tussenkop>
+        <al>Zelfstandig gevestigde zorgaanbieders als bedoeld in
+artikel 2.3 dienen te declareren in DBC&#x2019;s kunnen niet aan de
+eisen van artikel 4.2.2 voldoen vanwege onder andere het ontbreken van
+functiescheiding zoals daarvan sprake is bij zorginstellingen. Dit
+neemt echter niet weg dat de bedoeling van deze regeling, het voeren
+van een juiste en volledige DBC-registratie en declaratie, onverkort
+van toepassing is op zelfstandig gevestigde zorgaanbieders.</al>
+        <al>Zelfstandig gevestigde zorgaanbieders dienen daartoe een actuele
+beschrijving beschikbaar te hebben op welke wijze de DBC-registratie
+wordt gevoerd, declaratie plaatsvindt en op welke wijze invulling wordt
+gegeven aan de controle daarvan.</al>
+        <al>Deze beschrijving dient op
+verzoek ter beschikking te worden gesteld aan verzekeraars en/of NZa.
+In het kader van de handhaving kan de NZa een nader onderzoek
+instellen.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Verklaring
+zorgaanbieder</titel>
+        </kop>
+        <al>Het
+bestuur van de gebudgetteerde instelling legt jaarlijks voor 1 april op
+het daartoe bestemde formulier een verklaring af over de juistheid en
+de volledigheid van de gerealiseerde productie over het voorafgaande
+jaar. Daarbij wordt aangegeven in welke mate is voldaan aan de
+voorwaarden van deze regeling. Indien niet of niet volledig aan de
+voorwaarden van deze regeling is voldaan, geeft het bestuur aan welke
+onderdelen dit betreft, wat de reden is waarom op deze onderdelen niet
+is voldaan aan de regeling en welke maatregelen zijn getroffen om de
+werking van de AO/IC op deze onderdelen te
+verbeteren.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Gelijktijdig
+met de inwerkingtreding van deze regel wordt de &#x2018;<extref status="actief" doc="1.0:v:BWBR0028933" compleet="nee">Regeling
+administratieve organisatie en interne controle registratie en
+facturering DBC&#x2019;s GGZ</extref>&#x2019;, met kenmerk GG/NR-100.112,
+ingetrokken.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De&#xA0;regeling
+Administratieve organisatie en interne controle registratie en
+facturering DBC&#x2019;s GGZ, met kenmerk GG/NR-100.112, blijft van
+toepassing op besluiten&#xA0;en&#xA0;aangelegenheden die verwijzen
+naar, dan wel hun grondslag vinden in&#xA0;die regeling en&#xA0;die
+betrekking hebben&#xA0;op de periode waarvoor&#xA0;die regeling
+gold.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Deze
+regeling treedt in werking op 1 januari
+2011.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Deze
+regeling kan worden aangehaald als &#x2018;Regeling administratieve
+organisatie en interne controle registratie en facturering DBC&#x2019;s
+GGZ&#x2019;.</al>
+        </lid>
+      </artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <ondertekening>
+        <organisatie>Nederlandse Zorgautoriteit,</organisatie>
+        <naam>
+          <voornaam>T.W.</voornaam>
+          <achternaam>Langejan,</achternaam>
+        </naam>
+        <functie>voorzitter Raad van Bestuur.</functie>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

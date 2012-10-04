@@ -1,0 +1,2875 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0028903" dtdversie="2.0" id="447509" soort="zbo">
+  
+  <intitule>Regeling
+van De Nederlandsche Bank N.V. van 26 oktober 2010 houdende regels
+ingevolge de artikelen 108, tweede lid, en 111, zesde lid, van het
+Besluit prudenti&#xEB;le regels Wft met betrekking tot de posten van de
+vereiste en de aanwezige liquiditeit en de weging daarvan (Regeling
+liquiditeit Wft
+2011)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De
+Nederlandsche Bank N.V.,</wie>
+      <considerans>
+        <considerans.al>Na
+raadpleging van de betrokken representatieve
+organisaties;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet
+op <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=1%3A28" compleet="nee">artikel&#xA0;1:28, tweede lid, van de Wet op het financieel
+toezicht</extref>;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op
+<extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A18a" compleet="nee">artikel&#xA0;3:18a van de Wet op het financieel
+toezicht</extref>;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op de
+definitie van &#x2018;offici&#xEB;le stand-by faciliteiten&#x2019; in
+<extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=1" compleet="nee">artikel 1 van het Besluit prudenti&#xEB;le regels
+Wft</extref>;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op
+<extref status="actief" doc="1.0:v:BWBR0020420&amp;hoofdstuk=11" compleet="nee">hoofdstuk 11 &#x2013; Liquiditeit &#x2013; van het Besluit
+prudenti&#xEB;le regels Wft</extref>, in het bijzonder <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=108" compleet="nee">artikel 108, tweede lid</extref>,
+en <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=111" compleet="nee">artikel 111, zesde
+lid</extref>;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op
+<extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2009/111/EG</extref> van het Europees Parlement en
+de Raad van 16&#xA0;september 2009 tot wijziging van de <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijnen
+2006/48/EG</extref>, <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">2006/49/EG</extref> en <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">2007/64/EG</extref> wat betreft banken die zijn
+aangesloten bij centrale instellingen, bepaalde
+eigenvermogensbestanddelen, grote posities, het toezichtkader en het
+crisisbeheer (PbEU
+L&#xA0;302);</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+        </kop>
+        <al>In
+deze regeling en de <intref status="actief" doc="1.0:v:BWBR0028903&amp;bijlage=">Bijlage</intref> wordt verstaan
+onder:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al><nadruk type="cur">Besluit:</nadruk> het
+<extref status="actief" doc="1.0:v:BWBR0020420" compleet="nee">Besluit prudenti&#xEB;le regels
+Wft</extref>;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al><nadruk type="cur">Rsk
+2010:</nadruk> de <extref status="actief" doc="1.0:v:BWBR0020764" compleet="nee">Regeling solvabiliteitseisen
+kredietrisico en grote posities Wft
+2010</extref>;</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al><nadruk type="cur">DNB:</nadruk> De
+Nederlandsche Bank
+N.V.;</al>
+          </li>
+          <li>
+            <li.nr>d.</li.nr>
+            <al><nadruk type="cur">ECB:</nadruk> de
+Europese Centrale
+Bank;</al>
+          </li>
+          <li>
+            <li.nr>e.</li.nr>
+            <al><nadruk type="cur">erkende
+centrale bank:</nadruk> de ECB of de nationale centrale
+bank van een staat met een convertibele
+valuta;</al>
+          </li>
+          <li>
+            <li.nr>f.</li.nr>
+            <al><nadruk type="cur">convertibele
+valuta:</nadruk> convertibele valuta als bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=1" compleet="nee">artikel&#xA0;1 van het Besluit</extref>, alsmede de valuta van Hong Kong en
+Singapore;</al>
+          </li>
+          <li>
+            <li.nr>g.</li.nr>
+            <al><nadruk type="cur">equivalente
+schuldinstrumenten:</nadruk> verhandelbare
+schuldinstrumenten die vorderingen zijn op of gegarandeerd zijn door
+publiekrechtelijke lichamen, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020764&amp;artikel=1%3A1" compleet="nee">artikel 1:1, onderdeel r,
+van de Rsk 2010</extref>, de Bank for International Settlements, het
+Internationale Monetaire Fonds, de Europese Commissie, en de
+multilaterale ontwikkelingsbanken, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020764&amp;bijlage=2C" compleet="nee">Bijlage 2C van de Rsk
+2010</extref>.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De
+liquiditeitsposten en de weging daarvan, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=108" compleet="nee">artikel 108, tweede
+lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=111" compleet="nee">artikel 111, zesde lid, van het Besluit</extref>, worden vastgesteld
+zoals opgenomen in de <intref status="actief" doc="1.0:v:BWBR0028903&amp;bijlage=">Bijlage</intref> bij deze
+regeling.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>In
+afwijking van het eerste lid kan DNB, indien zij de in overeenstemming
+met het eerste lid berekende liquiditeit van een bank of
+clearinginstelling onvoldoende acht, voor deze onderneming een
+aanvullende liquiditeitseis
+vaststellen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Bij
+de toepassing van het tweede lid neemt DNB onder meer de volgende
+aspecten in
+aanmerking:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de
+diversificatie van de posten, bedoeld in het eerste
+lid;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de mate waarin de actuele waarde
+van de posten, bedoeld in het eerste lid, van de onderneming binnen de
+tijdshorizon van een week onderscheidenlijk een maand, als constant kan
+worden verondersteld;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de mate waarin
+de posten, bedoeld in het eerste lid, een adequaat beeld geven van de
+liquiditeitspositie van de onderneming op korte en lange termijn;
+en</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>de mate waarin de terugvloeiing
+van gelden naar de onderneming uit vorderingen binnen onderneming, of
+binnen de groep waarvan die onderneming deel uitmaakt, of uit
+vorderingen op derde partijen, in gevaar kan
+komen.</al>
+            </li>
+          </lijst>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Een
+liquiditeitsgarantie die is ontvangen van een binnenlandse of
+buitenlandse bank wordt slechts door DNB erkend als offici&#xEB;le
+stand-by faciliteit als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=1" compleet="nee">artikel 1 van het Besluit</extref>, indien
+aan de volgende voorwaarden wordt
+voldaan:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>op
+de faciliteit kan onmiddellijk worden
+getrokken;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de faciliteit kan slechts
+met instemming van DNB worden verlaagd of
+ingetrokken;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de valuta waarin de
+liquiditeitsgarantie wordt ontvangen, zijn
+convertibel;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>de liquiditeitsgarantie
+is bij realisatie niet onderworpen aan beperkende
+transfermaatregelen;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>de faciliteit is
+afkomstig van een bank die naar het oordeel van DNB onder adequaat
+toezicht staat;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>de toezichthoudende
+instantie op de bank die de liquiditeitsgarantie afgeeft, heeft
+schriftelijk
+bevestigd:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;</li.nr>
+                  <al>dat
+zij de faciliteit heeft goedgekeurd;
+of</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;</li.nr>
+                  <al>dat zij kennis heeft genomen
+van de faciliteit;</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>de
+overeenkomst voor de liquiditeitsgarantie is door DNB goedgekeurd en
+bij wijze van erkenning als offici&#xEB;le stand-by faciliteit mede
+ondertekend;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>de overeenkomst voor de
+liquiditeitsgarantie is opgesteld in de Nederlandse taal of gaat
+vergezeld van een gelegaliseerde vertaling in de Nederlandse taal;
+en</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>op de overeenkomst is uitsluitend
+Nederlands recht van toepassing verklaard en is de Rechtbank Amsterdam
+bij uitsluiting bevoegd
+verklaard.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Een
+liquiditeitsgarantie die is afgegeven door een binnenlandse of
+buitenlandse bank wordt slechts door DNB erkend als offici&#xEB;le
+stand-by faciliteit als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=1" compleet="nee">artikel 1 van het Besluit</extref>, indien
+deze liquiditeitsgarantie wordt
+afgegeven:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>aan
+een binnenlandse bank of clearinginstelling en aantoonbaar wordt
+voldaan aan de voorwaarden gesteld in het eerste lid;
+of</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>aan een buitenlandse bank of
+clearinginstelling en aantoonbaar wordt voldaan aan de voorwaarden die
+door het prudenti&#xEB;le toezicht ter plaatse worden gesteld met
+betrekking tot offici&#xEB;le stand-by
+faciliteiten.</al>
+            </li>
+          </lijst>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+        </kop><al>De
+<extref status="actief" doc="1.0:v:BWBR0020673" compleet="nee">Regeling liquiditeit Wft</extref>
+(Stcrt.
+2006, 244) wordt met ingang van 1&#xA0;mei 2011
+ingetrokken.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+        </kop>
+        <al>Deze
+regeling treedt in werking met ingang van 1 mei
+2011.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+        </kop>
+        <al>Deze
+regeling wordt aangehaald als: Regeling liquiditeit Wft
+2011.</al>
+      </artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze
+regeling zal met de toelichting in de Staatscourant worden
+geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Amsterdam</plaats>
+          <datum isodatum="2010-10-26">26
+oktober
+2010</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>
+        <organisatie>De Nederlandsche Bank N.V.,</organisatie>
+        <naam>
+          <voornaam>H.J.</voornaam>
+          <achternaam>Brouwer,
+</achternaam>
+        </naam><functie>directeur</functie>
+      </ondertekening>
+    </regeling-sluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><titel status="officieel">bij <intref status="actief" doc="1.0:v:BWBR0028903&amp;artikel=2">artikel 2</intref> van de Regeling liquiditeit Wft
+2011</titel>
+      </kop>
+      <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml1">
+        <tgroup align="left" char="" charoff="50" cols="6" tgroupstyle="xml1">
+          <colspec colname="col1" colnum="1" colwidth="7*"/>
+          <colspec colname="col2" colnum="2" colwidth="5*"/>
+          <colspec colname="col3" colnum="3" colwidth="59.5*"/>
+          <colspec colname="col4" colnum="4" colwidth="20*"/>
+          <colspec colname="col5" colnum="5" colwidth="20*"/>
+          <colspec colname="col6" colnum="6" colwidth="18*"/>
+          <thead valign="bottom">
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>ACTIEFPOSTEN</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Kalenderpost
+(K)</al>
+              </entry>
+              <entry align="center" colname="col5" colsep="0" morerows="0" nameend="col6" namest="col5" rotate="0" valign="top">
+                <al>Weging
+in
+procenten</al>
+              </entry>
+            </row>
+            <row rowsep="1">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Weekperiode</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Maandperiode</al>
+              </entry>
+            </row>
+          </thead>
+          <tbody valign="top">
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">1.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">Bankbiljetten
+/
+munten</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">2.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">Vorderingen
+op centrale
+banken</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Saldi
+direct
+opeisbaar</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Te
+ontvangen
+bedragen</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>3</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Vorderingen
+uit hoofde van omgekeerde retrocessieovereenkomsten (reverse
+repo&#x2019;s)</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>4</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Vorderingen
+luidende in
+effecten</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>*</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>*</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">3.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">Incassopapier</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Direct
+opeisbaar</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Te
+ontvangen</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">4.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">Onbezwaarde,
+goed verhandelbare en door een erkende centrale bank als onderpand
+aanvaarde
+schuldinstrumenten</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">4.0.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Door
+een overheid <sup>[1]</sup> of een erkende centrale bank uitgegeven
+schuldinstrumenten en equivalente
+schuldinstrumenten</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>(Equivalente)
+schuldinstrumenten die door een erkende centrale bank als onderpand
+worden aanvaard</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>90**</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>90**</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">4.1.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Door
+kredietinstellingen uitgegeven
+schuldinstrumenten</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Schuldinstrumenten
+van hoge kwaliteit, exclusief gedekte obligaties (covered bonds), die
+door een erkende centrale bank als onderpand worden
+aanvaard</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>50</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>50</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Gedekte
+obligaties (covered bonds), die door een erkende centrale bank als
+onderpand worden
+aanvaard</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>50***</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>80***</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>3</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Overige
+liquide schuldinstrumenten met een overheidsgarantie van een staat met
+een convertibele valuta</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>50</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>50</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">4.2.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Door
+overige instellingen (niet zijnde krediet-instellingen) uitgegeven
+schuldinstrumenten</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Schuldinstrumenten
+van hoge kwaliteit, exclusief bedrijfsobligaties, die door een erkende
+centrale bank als onderpand worden aanvaard</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>50</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>50</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Bedrijfsobligaties
+van hoge kwaliteit, die door een erkende centrale bank als onderpand
+worden aanvaard</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>50***</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>80***</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>3</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Overige
+verhandelbare schuldinstrumenten met een overheidsgarantie van een
+staat met een convertibele valuta</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>50</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>50</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">5.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">Te
+ontvangen
+bedragen</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">5.0</nadruk>.</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Van
+niet in de rapportage betrokken bijkantoren en bancaire
+deelnemingen</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Direct
+opeisbare
+tegoeden</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Vorderingen
+uit hoofde van
+effectentransacties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K*</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>3</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Overige
+te ontvangen
+bedragen</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>90</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">5.1.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Van
+overige
+kredietinstellingen</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Direct
+opeisbare
+tegoeden</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Vorderingen
+uit hoofde van
+effectentransacties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K*</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>3</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Overige
+te ontvangen
+bedragen</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>90</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">5.2.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Van
+overheden</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Direct
+opeisbare
+tegoeden</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Vorderingen
+uit hoofde van
+effectentransacties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K*</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>3</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Overige
+te ontvangen
+bedragen</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>90</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">5.3.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Van
+overige professionele geldmarktpartijen, bedoeld in artikel 1 van het
+Besluit</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Direct
+opeisbare
+tegoeden</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Vorderingen
+uit hoofde van
+effectentransacties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K*</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>3</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Overige
+te ontvangen
+bedragen</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>90</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">5.4.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Van
+overige
+tegenpartijen</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Direct
+opeisbare
+tegoeden</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>0</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>0</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Vorderingen
+uit hoofde van
+effectentransacties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K*</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>3</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Overige
+te ontvangen bedragen, waarin verwerkt verwachte vervroegde
+aflossingen</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>50</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>40</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">6.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">Vorderingen
+uit hoofde van (omgekeerde) retrocessieovereenkomsten (niet met
+centrale banken) en
+effectenleentransacties</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">6.0.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Omgekeerde
+retrocessieovereenkomsten (reverse repo&#x2019;s), niet met centrale
+banken</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Vorderingen
+tegenover
+obligaties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Vorderingen
+tegenover
+aandelen</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">6.1.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Retrocessieovereenkomsten
+(repo&#x2019;s), niet met centrale
+banken</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Vorderingen
+luidende in
+obligaties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>90</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>90</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Vorderingen
+luidende in
+aandelen</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>70</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>70</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">6.2.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Effectenleentransacties
+(securities lending /borrowing
+transactions)</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Voorraad
+effecten uit hoofde van
+effectenleentransacties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Te
+vorderen effecten uit hoofde van
+effectenleentransacties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">7.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">Overige
+effecten en
+goud</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Overige
+liquide aandelen,
+repobaar</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>50</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>70</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Incourante
+aandelen</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>0</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>0</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>3</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Incourante
+obligaties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>4</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Goud</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>90</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>90</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">8.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">Offici&#xEB;le
+stand-by faciliteiten (erkend)</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Ontvangen
+offici&#xEB;le stand-by
+faciliteiten</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">9.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">Vorderingen
+uit hoofde van
+derivaten</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Bekende
+vorderingen uit hoofde van
+derivaten</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>+++</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>+++</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">10.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vetcur">TOTAAL</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml1">
+        <tgroup align="left" char="" charoff="50" cols="6" tgroupstyle="xml1">
+          <colspec colname="col1" colnum="1" colwidth="7*"/>
+          <colspec colname="col2" colnum="2" colwidth="5*"/>
+          <colspec colname="col3" colnum="3" colwidth="59.5*"/>
+          <colspec colname="col4" colnum="4" colwidth="20*"/>
+          <colspec colname="col5" colnum="5" colwidth="20*"/>
+          <colspec colname="col6" colnum="6" colwidth="18*"/>
+          <thead valign="bottom">
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>PASSIEFPOSTEN</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Kalenderpost
+(K)</al>
+              </entry>
+              <entry align="center" colname="col5" colsep="0" morerows="0" nameend="col6" namest="col5" rotate="0" valign="top">
+                <al>Weging
+in
+procenten</al>
+              </entry>
+            </row>
+            <row rowsep="1">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Weekperiode</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Maandperiode</al>
+              </entry>
+            </row>
+          </thead>
+          <tbody valign="top">
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">11.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">Bij
+centrale banken opgenomen
+gelden</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Debetsaldo
+(binnen &#xE9;&#xE9;n week af te
+lossen)</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Overige
+verplichtingen</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">12.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">Uitgegeven
+schuldinstrumenten van de bank of clearinginstelling
+zelf</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Uitgegeven
+schuldbewijzen</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Achtergestelde
+schulden</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">13.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">Deposito&#x2019;s
+en overige opgenomen gelden op vaste
+termijn</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">13.0.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Van
+niet in de rapportage betrokken kantoren en bancaire
+deelnemingen</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Verplichtingen
+uit hoofde van
+effectentransacties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K*</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Deposito&#x2019;s
+en overige opgenomen gelden met een
+termijnkarakter</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>90</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">13.1.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Van
+overige
+kredietinstellingen</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Verplichtingen
+uit hoofde van
+effectentransacties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K*</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Deposito&#x2019;s
+en overige opgenomen gelden met een
+termijnkarakter</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>90</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">13.2.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Van
+overige professionele geldmarktpartijen, bedoeld in artikel 1 van het
+Besluit</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Verplichtingen
+uit hoofde van
+effectentransacties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K*</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Deposito&#x2019;s
+en overige opgenomen gelden met een termijnkarakter, en te betalen
+rente</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>90</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">13.3</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Van
+overige
+tegenpartijen</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Verplichtingen
+uit hoofde van
+effectentransacties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K*</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Deposito&#x2019;s
+en overige opgenomen gelden met een termijnkarakter, en te betalen
+rente</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>50</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>40</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>3</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Spaardeposito&#x2019;s
+met een vaste
+termijn</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>20</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>20</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">14.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">Verplichtingen
+uit hoofde van (omgekeerde) retrocessieovereenkomsten (niet met
+centrale banken) en
+effectenleentransacties</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">14.0.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Retrocessieovereenkomsten
+(repo&#x2019;s), niet met centrale
+banken</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Verplichtingen
+tegenover
+obligaties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Verplichtingen
+tegenover
+aandelen</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">14.1.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Omgekeerde
+retrocessieovereenkomsten (reverse repo&#x2019;s), niet met centrale
+banken</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Verplichtingen
+luidende in obligaties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Verplichtingen
+luidende in aandelen</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">14.2.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Effectenleentransacties
+(securities lending / borrowing
+transactions)</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Negatieve
+voorraad effecten uit hoofde van effectenleentransacties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Te
+leveren effecten uit hoofde van effectenleentransacties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">15.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">Creditsaldi
+en overige opgenomen gelden met een onbepaalde effectieve
+looptijd</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">15.0.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Niet
+in de rapportage opgenomen kantoren en bancaire
+deelnemingen</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Creditsaldi
+in rekening-courant en overige direct opvraagbare
+tegoeden</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">15.1.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Overige
+kredietinstellingen</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Creditsaldi
+(loro) van bankiers</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Overige
+direct opvraagbare
+tegoeden</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">15.2.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Overige
+professionele geldmarktpartijen, bedoeld in artikel 1 van het
+Besluit</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Direct
+opvraagbare
+tegoeden</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">15.3.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Spaargelden</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Spaargelden
+zonder vaste
+termijn</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2,5</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>10</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">15.4.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="cur">Overige</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Direct
+opvraagbare tegoeden en overige
+schulden</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>5</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>20</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Overige
+nog te verantwoorden en te betalen bedragen, waaronder saldo
+termijnaffaires en verplichtingen aan sociale- en
+voorzieningsfondsen</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>5</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>20</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">16.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">Offici&#xEB;le
+stand-by
+faciliteiten</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Afgegeven
+offici&#xEB;le stand-by
+faciliteiten</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">17.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">Verplichtingen
+uit hoofde van
+derivaten</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Bekende
+verplichtingen uit hoofde van
+derivaten</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>+++</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>+++</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Onbekende
+verplichtingen uit hoofde van derivaten en margin
+calls</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>+++</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>+++</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">18.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">Overige
+voorwaardelijke schulden en onherroepelijke
+kredietfaciliteiten</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Onbenutte
+onherroepelijke kredietfaciliteiten, waaronder
+uitgiftegaranties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2,5</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>10</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Geaccepteerde
+wissels</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>K</al>
+              </entry>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>100</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>3</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Kredietvervangende
+garanties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2,5</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>10</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>4</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Niet-kredietvervangende
+garanties</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1,25</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>5</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>5</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Overige
+verplichtingen buiten de
+balans</al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1,25</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>5</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">19.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vetcur">TOTAAL</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">20.</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">Extra
+aan te houden liquiditeit, als gevolg van specifieke omstandigheden ten
+aanzien van de betrokken onderneming (zie artikel&#xA0;2, tweede en
+derde lid, van deze
+regeling)</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col4" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col5" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>###</al>
+              </entry>
+              <entry align="left" colname="col6" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>###</al>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Aantekeningen
+/ verklaring van
+tekens:</titel>
+        </kop>
+        <table colsep="0" frame="none" pgwide="1" rowsep="0" tabstyle="tekst">
+          <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="tekst">
+            <colspec colname="col1" colnum="1" colwidth="7*"/>
+            <colspec colname="col2" colnum="2" colwidth="5*"/>
+            <colspec colname="col3" colnum="3" colwidth="117.5*"/>
+            <tbody valign="top">
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>[1]</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>=</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>met
+&#x2018;overheid&#x2019; wordt in rubriek 4 bedoeld een nationaal of
+regionaal overheidslichaam of een overheidslichaam dat de
+overheidsschuld
+beheert;</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>K</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>=</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>in
+de kalender op te nemen
+post;</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>K*</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>=</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>settlement
+binnen een week of onbepaald, opnemen in de weekperiode
+onderscheidenlijk in de
+kalender;</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>*</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>=</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>100%
+minus de toepasselijke
+discount;</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>**</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>=</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>of
+met betrekking tot obligaties het beleningspercentage van de
+desbetreffende centrale bank, waarbij bovendien geldt dat het
+beleningspercentage van de centrale bank in ieder geval moet worden
+gebruikt, indien dit percentage lager is dan 90%; voor onderhandse
+leningen die aan de criteria voldoen, geldt het laagste van het
+genoemde percentage of het
+beleningspercentage;</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>***</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>=</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>het
+laagste van het genoemde percentage of
+beleningspercentage;</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>+++</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>=</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>het
+berekende bedrag voor de aangegeven
+periode;</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>###</al>
+                </entry>
+                <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>=</al>
+                </entry>
+                <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>in
+voorkomende gevallen per afzonderlijke bank of clearinginstelling
+vastgesteld door DNB, met toepassing van artikel&#xA0;2, tweede en
+derde lid, van deze
+regeling).</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </divisie>
+    </bijlage>
+  </regeling>
+</wetgeving>
+  	

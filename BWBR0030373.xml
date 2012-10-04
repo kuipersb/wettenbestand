@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0030373" dtdversie="2.0" id="462209" soort="zbo">
+  
+  <intitule>Werkwijze AFM inzien en kopi&#xEB;ren van digitale gegevens</intitule>
+  
+  <circulaire>
+    
+    <circulaire-tekst>
+      
+      
+      
+      
+      
+      
+      
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Begripsomschrijvingen</titel>
+        </kop>
+        <tekst status="goed">
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><al><nadruk type="cur">Digitale gegevens:</nadruk> gegevens waarover de onderneming in elektronische vorm beschikt of kan
+beschikken.</al></li><li><al><nadruk type="cur">Functionaris verschoningsrecht:</nadruk> een door het bestuur van de Autoriteit Financi&#xEB;le Markten (AFM)
+aangewezen persoon die niet als toezichthouder bij onderzoeken betrokken is of zal zijn en het
+geprivilegieerde karakter van de door de onderneming als zodanig geclaimde gegevens toetst.</al></li><li><al><nadruk type="cur">Geprivilegieerde gegevens:</nadruk> gegevens die zijn gewisseld tussen een onderneming en een advocaat die
+is toegelaten tot de balie. De gegevens worden als geprivilegieerd aangemerkt wanneer de advocaat
+zich ten aanzien van die gegevens zou kunnen beroepen op het verschoningsrecht zoals vastgelegd in
+<extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=5%3A20" compleet="nee">artikel 5:20, tweede lid, Awb</extref>, indien de gegevens zich bij hem/haar zouden bevinden.<noot type="voet"><noot.nr>1</noot.nr><noot.al>Onder het verschoningsrecht valt bijvoorbeeld niet correspondentie met juridische adviseurs (waaronder bedrijfsjuristen) die
+geen advocaat zijn en correspondentie met advocaten die niet zijn ingeschreven bij de balie van een lidstaat van de Europese
+Unie. Als een bedrijfsjurist ook advocaat is, moet uit de geprivilegieerde documenten duidelijk blijken dat de bedrijfsjurist als
+advocaat handelt. De bedrijfsjurist is hier zelf verantwoordelijk voor. Wel vallen onder het verschoningsrecht eventuele interne
+documenten voor zover daarin de correspondentie met voornoemde advocaten is weergegeven of samengevat en interne
+documenten die zijn opgesteld met het uitsluitend doel om advies van die advocaat in te winnen.</noot.al></noot></al></li><li><al><nadruk type="cur">Geschoonde gegevens:</nadruk> digitale gegevens zoals gekopieerd door de toezichthouder (in voorkomend
+geval de IT-specialist), met uitzondering van eventuele verwijderde priv&#xE9;- en/of geprivilegieerde
+gegevens.</al></li><li><al><nadruk type="cur">IT-specialist:</nadruk> toezichthouder belast met de technische bewerking van digitale gegevens die zich niet
+bezighoudt met de inhoudelijke behandeling van het onderzoek.
+</al></li><li><al><nadruk type="cur">Priv&#xE9; gegevens:</nadruk> gegevens en bescheiden van persoonlijke aard die niet worden gebruikt ten dienste
+van het maatschappelijk verkeer.</al></li><li><al><nadruk type="cur">Toezichthouder:</nadruk> een door het bestuur van de AFM aangewezen functionaris belast met het houden
+van toezicht.</al></li><li><al><nadruk type="cur">Werkwijze:</nadruk> de Werkwijze AFM inzien en kopi&#xEB;ren van digitale gegevens.</al></li></lijst>
+        </tekst>
+      </circulaire.divisie><circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">&#x2013; Inleiding</titel>
+        </kop>
+        <tekst status="goed">
+          <al-groep><al>Met toezicht op de naleving van de bij en krachtens (onder meer) de <extref status="actief" doc="1.0:v:BWBR0020368" compleet="nee">Wet op het financieel toezicht</extref>
+(Wft) gestelde regels zijn belast de bij besluit van de AFM aangewezen personen.<noot type="voet"><noot.nr>2</noot.nr><noot.al>Artikel 5:11 Awb jo artikel 1:72 Wft. Verwezen wordt naar de regeling van mandaat, volmacht en machtiging van de AFM zoals
+laatstelijk gewijzigd. In die regeling wordt gedetailleerd omschreven welke bevoegdheden het bestuur van de AFM heeft gemandateerd
+en aan welke personen.</noot.al></noot> Deze door de AFM
+aangewezen personen beschikken over de bevoegdheid die de <extref status="actief" doc="1.0:v:BWBR0005537" compleet="nee">Algemene wet bestuursrecht</extref> (Awb)
+toekent om inzage te vorderen van zakelijke gegevens en bescheiden en daarvan kopie&#xEB;n te maken.<noot type="voet"><noot.nr>3</noot.nr><noot.al>Artikel 5:17 Awb.</noot.al></noot>
+Ook zijn zij bevoegd om inlichtingen te vorderen.<noot type="voet"><noot.nr>4</noot.nr><noot.al>Artikel 5:16 Awb.</noot.al></noot> De onderneming waarbij een onderzoek wordt
+verricht, is verplicht medewerking te verlenen aan het uitoefenen van die bevoegdheid voor zover dat
+wordt gevorderd.<noot type="voet"><noot.nr>5</noot.nr><noot.al>Artikel 5:20, eerste lid, Awb.</noot.al></noot></al></al-groep><al-groep><al>Deze Werkwijze geeft op hoofdlijnen weer hoe de toezichthouders van de AFM te werk zullen gaan bij
+het uitoefenen van genoemde bevoegdheden voor zover de AFM daarbij digitale gegevens vordert. De
+Werkwijze is van overeenkomstige toepassing op het vorderen van digitale gegevens op grond van
+<extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=5%3A16" compleet="nee">artikel 5:16 Awb</extref>, in andere situaties dan tijdens een onderzoek ter plaatse. De Werkwijze beschrijft de
+gevolgde procedure vanaf het moment dat de digitale gegevens door de toezichthouders zijn
+geselecteerd die naar hun aard en/of inhoud redelijkerwijs binnen het doel en voorwerp van het
+betreffende onderzoek kunnen vallen.</al></al-groep>
+        </tekst>
+      </circulaire.divisie><circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">&#x2013; Het identificeren van priv&#xE9;- en geprivilegieerde gegevens</titel>
+        </kop>
+        <tekst status="goed">
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>1.</li.nr><al>De toezichthouder stelt de onderneming, in beginsel tijdens het onderzoek ter plaatse, in de
+gelegenheid aan te geven of de door de toezichthouder geselecteerde digitale gegevens priv&#xE9;en/
+of geprivilegieerde gegevens bevatten.</al></li><li><li.nr>2.</li.nr><al>Indien de onderneming aangeeft dat de door de toezichthouder geselecteerde digitale gegevens
+geen priv&#xE9;- en/of geprivilegieerde gegevens bevatten, of de onderneming aangeeft afstand te
+willen doen van de bescherming van priv&#xE9;- en geprivilegieerde gegevens, en het identificeren als bedoeld onder 1 van deze paragraaf aldus achterwege kan worden gelaten, bevestigt de toezichthouder
+dit schriftelijk aan de onderneming binnen vijf werkdagen na het onderzoek ter plaatse. De
+toezichthouder kopieert de geselecteerde digitale gegevens naar een opslagmedium van de AFM.</al></li><li><li.nr>3.</li.nr><al>Indien de onderneming gemotiveerd aangeeft dat de geselecteerde digitale gegevens wel priv&#xE9;en/
+of geprivilegieerde gegevens bevatten, vergewist de IT-specialist zich &#x2013; behoudens het
+bepaalde onder 7 ten aanzien van geprivilegieerde gegevens &#x2013; van de juistheid van deze claim
+door deze ter plaatse vluchtig in te zien.</al></li><li><li.nr>4.</li.nr><al>Indien de IT-specialist op basis van het vluchtig inzien van de als priv&#xE9; of geprivilegieerd
+geclaimde digitale gegevens overtuigd is van het priv&#xE9;- of geprivilegieerde karakter verwijdert hij
+de betreffende gegevens uit de geselecteerde gegevens.</al></li><li><li.nr>5.</li.nr><al>Indien de IT-specialist op basis van het vluchtig inzien van de als priv&#xE9; geclaimde digitale
+gegevens niet overtuigd is van het priv&#xE9; karakter, kopieert de IT-specialist de geselecteerde digitale
+gegevens inclusief de als priv&#xE9; geclaimde digitale gegevens naar een opslagmedium van de AFM
+en voegt deze toe aan het onderzoeksdossier.</al></li><li><li.nr>6.</li.nr><al>Indien de IT-specialist op basis van het vluchtig inzien van de als geprivilegieerd geclaimde digitale
+gegevens niet overtuigd is van het geprivilegieerde karakter, terwijl de onderneming zijn claim wel
+handhaaft, verzoekt de IT-specialist de onderneming zijn claim schriftelijk nader te motiveren
+binnen tien werkdagen na het onderzoek ter plaatse. De onderneming dient de motivering
+uitsluitend te richten aan de functionaris verschoningsrecht en daarbij duidelijk aan te geven dat
+en waarom het geprivilegieerde informatie betreft.<noot type="voet"><noot.nr>6</noot.nr><noot.al>Voor zover digitale gegevens worden gevorderd op grond van artikel 5:16 Awb, in andere situaties dan tijdens een onderzoek ter
+plaatse, vermeldt de toezichthouder bij zijn vordering dat digitale gegevens waarvan geclaimd wordt dat deze geprivilegieerd zijn,
+rechtstreeks aan de functionaris verschoningsrecht dienen te worden gestuurd.</noot.al></noot>
+</al><al>Dit motiveren bestaat ten minste uit het aangeven:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>&#x2013;</li.nr><al>wie de digitale gegevens heeft opgesteld,
+</al></li><li><li.nr>&#x2013;</li.nr><al>aan wie deze zijn gericht,</al></li><li><li.nr>&#x2013;</li.nr><al>wat de functies en verantwoordelijkheden van deze personen zijn,</al></li><li><li.nr>&#x2013;</li.nr><al>wat het doel van de digitale gegevens is en in welke context deze zijn opgesteld.
+</al></li></lijst><al>De IT-specialist kopieert de als geprivilegieerd geclaimde digitale gegevens afzonderlijk van de
+overige geselecteerde digitale gegevens naar een opslagmedium van de AFM. De als geprivilegieerd
+geclaimde digitale gegevens worden overhandigd aan de functionaris verschoningsrecht en
+worden door de toezichthouder niet verder ingezien tot het moment dat door de functionaris
+verschoningsrecht definitief is beoordeeld of de claim al dan niet terecht is en de gegevens
+waarvan de functionaris verschoningsrecht heeft geoordeeld dat de claim niet terecht is aan het
+onderzoeksdossier zijn toegevoegd conform de procedure beschreven in <intref status="actief" doc="1.0:v:BWBR0030373&amp;circulaire.divisie=3">paragraaf 3</intref>.</al></li><li><li.nr>7.</li.nr><al>Indien de onderneming stelt dat zelfs het vluchtig inzien van de als geprivilegieerd geclaimde
+gegevens door de toezichthouder het geprivilegieerde karakter al kan schaden, verzoekt de
+toezichthouder de onderneming zijn claim schriftelijk nader te motiveren binnen tien werkdagen
+na het onderzoek ter plaatse. Dit motiveren bestaat ten minste uit het aangeven van de elementen
+genoemd onder 6 van deze paragraaf, aangevuld met het aangeven waarom het vluchtig inzien al
+het geprivilegieerde karakter van de betreffende digitale gegevens kan schaden. De onderneming
+dient de motivering uitsluitend te richten aan de functionaris verschoningsrecht en daarbij
+duidelijk aan te geven dat en waarom het geprivilegieerde informatie betreft.
+De IT-specialist kopieert de als geprivilegieerd geclaimde digitale gegevens afzonderlijk van de
+overige geselecteerde digitale gegevens naar een opslagmedium van de AFM zonder deze in te
+zien. De als geprivilegieerd geclaimde digitale gegevens worden overhandigd aan de functionaris
+verschoningsrecht en worden door de toezichthouder niet ingezien tot het moment dat door de
+functionaris verschoningsrecht definitief is beoordeeld of de claim al dan niet terecht is en de en
+de gegevens waarvan de functionaris verschoningsrecht heeft geoordeeld dat de claim niet terecht
+is aan het onderzoeksdossier zijn toegevoegd conform de procedure beschreven in <intref status="actief" doc="1.0:v:BWBR0030373&amp;circulaire.divisie=3">paragraaf 3</intref>.</al></li><li><li.nr>8.</li.nr><al>Indien het identificeren van priv&#xE9;- en/of geprivilegieerde digitale gegevens als bedoeld onder 1 van
+deze paragraaf in de ogen van de toezichthouder tot onnodige vertraging leidt voor de te
+verrichten handelingen ter plaatse of op andere zwaarwegende praktische bezwaren stuit, kopieert
+de IT-specialist de geselecteerde digitale gegevens naar een opslagmedium van de AFM zonder
+deze in te zien. De toezichthouder stelt de onderneming in de gelegenheid binnen tien werkdagen
+na het onderzoek ter plaatse, schriftelijk gemotiveerd aan te geven welke van de geselecteerde
+digitale gegevens priv&#xE9; en/of geprivilegieerd zijn.
+De geselecteerde digitale gegevens zullen niet worden ingezien door de toezichthouder tot het
+moment dat voornoemde motivering binnen de daarvoor gestelde termijn van de onderneming
+door de AFM is ontvangen. Na ontvangst van de motivering wordt in lijn met de hierboven en
+hierna beschreven procedure gehandeld. De onderneming wordt in dat geval door de AFM in de
+gelegenheid gesteld ten kantore van de AFM aanwezig te zijn bij de onder 3 van deze paragraaf
+genoemde handelingen. De onderneming dient binnen tien werkdagen na het onderzoek ter
+plaatse aan de AFM te laten weten of zij bij de genoemde handelingen aanwezig wenst te zijn.</al></li></lijst>
+        </tekst>
+      </circulaire.divisie><circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">&#x2013; Het beoordelen van de claim door de functionaris verschoningsrecht</titel>
+        </kop>
+        <tekst status="goed">
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>1.</li.nr><al>De functionaris verschoningsrecht toetst het geprivilegieerde karakter van de door de onderneming
+overeenkomstig <intref status="actief" doc="1.0:v:BWBR0030373&amp;circulaire.divisie=2">paragraaf 2 onder 6 of 7</intref> als zodanig geclaimde digitale gegevens. De door
+de functionaris verschoningsrecht in het kader van de claims gevoerde correspondentie is niet
+toegankelijk voor de toezichthouder.</al></li><li><li.nr>2.</li.nr><al>Voor zover de functionaris verschoningsrecht van oordeel is dat de claim terecht is, stelt hij de
+onderneming daarvan schriftelijk in kennis en laat hij de desbetreffende digitale gegevens
+vernietigen door een IT-specialist.</al></li><li><li.nr>3.</li.nr><al>Voor zover de functionaris verschoningsrecht van oordeel is dat de claim niet terecht is, stelt hij de
+onderneming daarvan schriftelijk en gemotiveerd in kennis. Indien de onderneming de claim
+desalniettemin wenst te handhaven, verzoekt hij de onderneming daarbij om binnen tien werkdagen
+na verzending van die schriftelijke kennisgeving zijn standpunt schriftelijk nader toe te lichten.
+De onderneming dient de betreffende correspondentie uitsluitend te richten aan de functionaris
+verschoningsrecht en daarbij duidelijk aan te geven dat het geprivilegieerde informatie betreft.</al></li><li><li.nr>4.</li.nr><al>Indien de onderneming in de claim volhardt en een nadere toelichting toestuurt als bedoeld in het
+vorige lid, beoordeelt de functionaris verschoningsrecht het geprivilegieerde karakter van de door
+de onderneming als zodanig geclaimde digitale gegevens nogmaals met inachtneming van die
+toelichting.</al></li><li><li.nr>5.</li.nr><al>Is de functionaris verschoningsrecht na deze nadere toelichting alsnog van oordeel dat de claim
+terecht is, dan laat hij de desbetreffende digitale gegevens vernietigen door een IT-specialist. De
+functionaris verschoningsrecht stelt de onderneming schriftelijk in kennis van zijn beoordeling.</al></li><li><li.nr>6.</li.nr><al>Blijft de functionaris verschoningsrecht na deze nadere toelichting van oordeel dat de claim
+onterecht is, dan stelt hij de onderneming daarvan schriftelijk in kennis. In deze kennisgeving geeft
+de functionaris verschoningsrecht aan dat de desbetreffende digitale gegevens niet eerder dan tien
+werkdagen na verzending van de kennisgeving zullen worden toegevoegd aan het onderzoeksdossier.
+De wachttermijn van in elk geval tien dagen dient ertoe de onderneming de mogelijkheid te
+bieden een kort geding aanhangig te maken bij de civiele rechter.</al></li></lijst></tekst>
+      </circulaire.divisie><circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">&#x2013; Gerichte zoekacties</titel>
+        </kop>
+        <tekst status="goed">
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>1.</li.nr><al>De gerichte zoekacties worden uitgevoerd in de geschoonde gegevens ten kantore van de AFM
+door middel van zoektermen die verband houden met het doel en voorwerp van onderzoek.</al></li><li><li.nr>2.</li.nr><al>De lijst met tijdens het onderzoek gehanteerde zoektermen wordt opgenomen in het dossier. Op
+verzoek van de onderneming wordt de onderneming een afschrift van de lijst met gehanteerde
+zoektermen gestuurd binnen een week nadat het gericht zoeken in het desbetreffende onderzoek is
+afgerond. De onderneming krijgt geen inzage in de zoekresultaten.</al></li><li><li.nr>3.</li.nr><al>In het geval dat de toezichthouder tijdens het onderzoek priv&#xE9; en/of geprivilegieerde digitale
+gegevens aantreft die niet als zodanig zijn geclaimd en derhalve niet zijn beoordeeld overeenkomstig
+<intref status="actief" doc="1.0:v:BWBR0030373&amp;circulaire.divisie=2">paragraaf 2</intref> en <intref status="actief" doc="1.0:v:BWBR0030373&amp;circulaire.divisie=3">3</intref> van de Werkwijze, zal hij deze tijdens het onderzoek terzijde laten. Deze
+digitale gegevens worden vernietigd conform het bepaalde onder <intref status="actief" doc="1.0:v:BWBR0030373&amp;circulaire.divisie=5">paragraaf 5</intref> van de Werkwijze.</al></li></lijst>
+        </tekst>
+      </circulaire.divisie><circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">&#x2013; Vernietiging van digitale gegevens</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Na afronding van het onderzoek en nadat eventuele bezwaar- of beroepstermijnen met betrekking tot
+besluiten die naar aanleiding van het onderzoek zijn genomen zijn verstreken of, indien bezwaar is
+gemaakt of beroep is ingesteld, op dat bezwaar of beroep onherroepelijk is beslist, laat de functionaris
+verschoningsrecht de uitgewisselde correspondentie tussen hem en de onderneming over de als
+geprivilegieerd geclaimde gegevens evenals de gegevens waarvan is vast komen te staan dat deze
+geprivilegieerd zijn (voor zover die gegevens niet al vernietigd zijn, zie <intref status="actief" doc="1.0:v:BWBR0030373&amp;circulaire.divisie=3">paragraaf 3 onder 2 en 5</intref>)
+vernietigen door een IT-specialist. De toezichthouder vernietigt vervolgens alle digitale gegevens met
+uitzondering van die gegevens die in het rapportdossier zijn opgenomen.</al>
+        </tekst>
+      </circulaire.divisie><circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">&#x2013; Intrekking eerdere werkwijze</titel>
+        </kop>
+        <tekst status="goed">
+          <al>De &#x2018;Werkwijze Autoriteit Financi&#xEB;le Markten met betrekking tot het inzien en kopi&#xEB;ren van digitale
+gegevens&#x2019;, gepubliceerd in de Staatscourant van 21 juli 2006, wordt ingetrokken.</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">&#x2013; Inwerkingtreding</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Deze Werkwijze treedt in werking met ingang van de eerste dag na dagtekening van de Staatscourant
+waarin deze wordt geplaatst.</al>
+        </tekst>
+      </circulaire.divisie>
+    </circulaire-tekst>
+    <circulaire-sluiting status="goed">
+      
+      <ondertekening><organisatie afkorting="FIN">Autoriteit Financi&#xEB;le Markten,</organisatie>
+        <naam>
+          <voornaam>J.F.</voornaam>
+          <achternaam>Hoogervorst MA,</achternaam>
+        </naam><functie>Bestuursvoorzitter.</functie><naam>
+          <voornaam>T.F.</voornaam>
+          <achternaam>Kockelkoren MBA,</achternaam>
+        </naam>
+      <functie>Bestuurslid.</functie></ondertekening>
+    </circulaire-sluiting>
+  </circulaire>
+</wetgeving>
+  	

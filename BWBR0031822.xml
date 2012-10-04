@@ -1,0 +1,358 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0031822" dtdversie="2.0" id="476699" soort="beleidsregel">
+  
+  <intitule>Aanwijzing handhaving Telecommunicatiewet (hoofdstukken 3 en 10)</intitule>
+  
+  <circulaire>
+    
+    <circulaire-tekst>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Samenvatting</titel>
+        </kop>
+        <tekst status="goed">
+          <al>De <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Telecommunicatiewet</extref> (Tw) kan zowel strafrechtelijk als bestuursrechtelijk worden gehandhaafd. De aanwijzing beschrijft in welke gevallen en op welke wijze een overtreding van de Tw strafrechtelijk wordt gehandhaafd. De aanwijzing onderstreept het belang van een integrale aanpak voor een effectieve handhaving van de Tw en geeft aan wat dit concreet betekent.</al>
+          <al>Deze aanwijzing geeft regels voor de opsporing en vervolging bij de overtreding van de strafrechtelijk te handhaven bepalingen in de <extref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=3" compleet="nee">hoofdstukken 3</extref> en <extref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=10" compleet="nee">10 van de Tw</extref>.</al>
+          <al>De aanwijzing schetst hoe wordt opgetreden bij geconstateerd gebruik van <nadruk type="cur">jammers</nadruk> (blokkeerzenders van onder meer mobiele-telefonie- en GPS-signalen). Daarna geeft de aanwijzing regels voor de strafrechtelijke aanpak bij een verstoring van frequentieruimte in radiosignalen. De aanwijzing maakt hierbij onderscheid tussen etherpiraten (illegale omroepzenders) en niet-etherpiraten (bijvoorbeeld gebruikers van een marifoon, mobilofoon, portofoon  zonder registratie of vergunning). Ten slotte bespreekt de aanwijzing wanneer strafrechtelijk wordt opgetreden bij het aantreffen van uitrusting<noot id="n1e11774404" type="voet">
+              <noot.nr>1</noot.nr>
+              <noot.al> Uitrusting is in de Tw gedefinieerd als elk apparaat of vaste installatie (artikel 1.1 onder gg Tw.) Een vaste installatie is een specifieke combinatie van verschillende soorten apparaten en eventuele andere inrichtingen, die samengebouwd, ge&#xEF;nstalleerd en bestemd zijn voor permanent gebruik op een van te voren vastgestelde locatie (artikel 1.1 onder ii Tw).</noot.al>
+            </noot> of bij een handelsvoorraad uitrusting of apparatuur die niet voldoet aan de eisen als bedoeld in de <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1" compleet="nee">artikelen 10.1 tot en met 10.3 Tw</extref>. </al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Beleidskader</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Regelgeving</titel>
+          </kop>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <nr status="officieel">1.1</nr>
+              <titel status="officieel"><extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Telecommunicatiewet</extref></titel>
+            </kop>
+            <tekst status="goed">
+
+              <al>De vanuit de Europese Unie gereguleerde liberalisering en harmonisatie van het elektronisch communicatiedomein heeft in 2008 geleid tot de invoering van de <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Tw</extref>.<noot id="n2e11774424" type="voet">
+                  <noot.nr>2</noot.nr>
+                  <noot.al> De <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijnen 2004/108/EG</extref> van 15 december 2004 en <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">1999/5/EG</extref> van 9&#xA0;maart 1999 van het Europees Parlement en de Raad (de EMC- respectievelijk R&amp;TTE-richtlijn) zijn ge&#xEF;mplementeerd in hoofdstuk 10 van de Tw.</noot.al>
+
+                </noot> De Tw stelt regels voor het gebruik van de frequentieruimte (de ether) en vormt de basis voor het Nationaal Frequentieplan waarin de verdeling van frequenties is vastgelegd. Het gaat hierbij met name om frequenties voor  (mobiele) communicatie, radio- en televisie-uitzendingen, communicatie in lucht- en scheepvaart, hulpdiensten, defensie, radar, satelliet, radiozendamateurs, radioastronomie en straalverbindingen. Voor het gebruik van frequentieruimte is in beginsel een vergunning, en in sommige gevallen een registratie, vereist. Voor een aantal toepassingen is een vrijstelling van het vereiste van een vergunning geregeld.<noot id="n3e11774424" type="voet">
+                  <noot.nr>3</noot.nr>
+                  <noot.al> Voorbeelden van het gebruik van frequentieruimte, dat niet aan een vergunning gebonden is, zijn mobiele telefoontoestellen, draadloze (huis)netwerken en huistelefoons, babyfoons, medische implantaten, afstandsbedieningen en alarminstallaties.</noot.al>
+                </noot>
+              </al>
+
+              <al>De <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Tw</extref> is tevens de basis voor het <extref status="actief" doc="1.0:v:BWBR0021041" compleet="nee">Besluit Elektromagnetische compatibiliteit 2007</extref> (hierna: Besluit EMC) en het <extref status="actief" doc="1.0:v:BWBR0021037" compleet="nee">Besluit Randapparaten en Radioapparaten 2007</extref> (hierna: BRR)<noot id="n4e11774424" type="voet">
+                  <noot.nr>4</noot.nr>
+                  <noot.al>Stb. 2007, 19 en Stb. 2007, 20.</noot.al>
+                </noot> en een aantal hierop gebaseerde ministeri&#xEB;le regelingen. Deze regelgeving ziet op het in de handel brengen of verhandelen van uitrusting. Deze regelgeving stelt eisen op technisch vlak (elektromagnetische compatibiliteit) en eisen op het vlak van certificatie en markeringen van apparaten (CE, Alert Sign) met als doel om een ongestoorde werking van radiozendapparaten en uitrusting te garanderen.</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <nr status="officieel">1.2</nr>
+              <titel status="officieel">Doel regelgeving</titel>
+            </kop>
+            <tekst status="goed">
+              <al>De telecommunicatieregelgeving dient diverse belangen. Enerzijds zijn dat economische belangen (het versterken van de concurrentiepositie van Nederland in de telecommunicatiesector) en belangen die zien op het bevorderen van een goede marktwerking (universele dienstverlening, koppeling en interoperabiliteit van diensten, voorwaarden voor vergunningen voor infrastructuur en voorwaarden voor eerlijke mededinging). Anderzijds gaat het om maatschappelijke belangen als de bescherming van de persoonlijke levenssfeer van gebruikers en de gecontroleerde toegang tot telecommunicatie in het kader van staatsveiligheid en openbare orde.</al>
+              <al>Deze aanwijzing geeft regels die met name zien op het belang van de ongestoorde werking van radiozendapparaten en uitrusting. Dit is van groot belang aangezien ook in buitengewone omstandigheden en crisissituaties gewaarborgd dient te zijn dat de telecommunicatie op essenti&#xEB;le onderdelen blijft functioneren.</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <nr status="officieel">1.3</nr>
+              <titel status="officieel">Toezicht op de naleving</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Op grond van <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=15.1" compleet="nee">artikel 15.1, eerste lid Tw</extref> is Agentschap Telecom van het Ministerie van Economische Zaken, Landbouw en Innovatie (hierna: Agentschap Telecom) belast met het bestuursrechtelijke toezicht op de naleving. Een aantal van de toezichthoudende ambtenaren van Agentschap Telecom is tevens als buitengewoon opsporingsambtenaar (BOA) aangewezen op grond van <extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=17" compleet="nee">artikel 17 Wet op de Economische Delicten</extref> (WED).</al>
+              <al>In het algemeen maken de BOA&#x2019;s van het agentschap proces-verbaal op ter zake van overtredingen van de <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Tw</extref>. In voorkomende gevallen maakt de politie proces-verbaal op of assisteert de politie deze BOA&#x2019;s.</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <nr status="officieel">1.4</nr>
+              <titel status="officieel">Economische delicten</titel>
+            </kop>
+            <tekst status="goed">
+              <al>De strafrechtelijk te handhaven overtredingen van de <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Tw</extref> worden ingevolge <extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=1" compleet="nee">artikel 1, onder 1&#xB0; van de WED</extref> aangemerkt als economische delicten. Dit betreft de <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3" compleet="nee">artikelen 3.3, eerste lid</extref>, <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.10" compleet="nee">3.10</extref>, <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1" compleet="nee">10.1</extref>, <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.5" compleet="nee">10.5, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.9" compleet="nee">10.9, eerste lid</extref> <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.11" compleet="nee">10.11, eerste lid</extref>, <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=15.2a" compleet="nee">15.2a</extref>, <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.8" compleet="nee">18.8</extref> en <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.9" compleet="nee">18.9 Tw</extref>.</al>
+              <al>Gelet op <extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=2" compleet="nee">artikel 2, vierde lid, WED</extref> worden deze gedragingen gekwalificeerd als overtreding. De maximale straf die hiervoor kan worden opgelegd is zes maanden hechtenis of geldboete van de vierde categorie (<extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=6" compleet="nee">artikel 6, eerste lid, sub 4, WED</extref>).</al>
+              <al>Deze aanwijzing betreft alleen de verbodsbepalingen opgenomen in de <extref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=3" compleet="nee">hoofdstukken 3</extref> en <extref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=10" compleet="nee">10 van de Tw</extref>.</al>
+            </tekst>
+          </circulaire.divisie>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Bestuursrechtelijke en strafrechtelijke handhaving</titel>
+          </kop>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <nr status="officieel">2.1</nr>
+              <titel status="officieel">Integrale benadering handhaving</titel>
+            </kop>
+            <tekst status="goed">
+              <al>De <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Tw</extref> kan zowel strafrechtelijk als bestuursrechtelijk worden gehandhaafd. Bestuursrechtelijke en strafrechtelijke handhaving vullen elkaar aan en zijn op elkaar afgestemd.</al>
+              <al>Op grond van <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=5%3A44" compleet="nee">artikel 5:44 van de Algemene wet bestuursrecht</extref> vervalt de bevoegdheid tot strafvervolging indien een bestuurlijke boete is opgelegd. Andersom vervalt op grond van deze bepaling ook de bevoegdheid tot het opleggen van een bestuurlijke boete wanneer strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen. Dit sluit een samenloop van sancties niet geheel uit. Een last onder dwangsom kan, anders dan een bestuurlijke boete, wel in combinatie met een strafrechtelijke boete worden opgelegd.</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <nr status="officieel">2.2</nr>
+              <titel status="officieel">Wanneer strafrechtelijke handhaving?</titel>
+            </kop>
+            <tekst status="goed">
+              <al>In de praktijk ligt het accent bij de handhaving van de <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Tw</extref> op de bestuursrechtelijke aanpak. De inzet van strafrechtelijke middelen is aan de orde wanneer het bestuursrechtelijk instrumentarium ontoereikend is, bijvoorbeeld in het geval dat inbeslagneming en/of binnentreding in een woning noodzakelijk is, bij recidive en bij ernstige overtredingen waarbij gevaar is veroorzaakt of een potentieel gevaarlijke situatie is ontstaan.</al>
+            </tekst>
+            <circulaire.divisie opmaak="default" status="goed">
+              <kop>
+                <nr status="officieel">a</nr>
+                <titel status="officieel">Inbeslagneming</titel>
+              </kop>
+              <tekst status="goed">
+                <al>Radiozendapparatuur waarvoor gelet op de aard ervan geen vergunning kan worden verleend, is vatbaar voor onttrekking aan het verkeer. Denk hierbij bijvoorbeeld aan blokkeerzenders bestemd om het mobiele telefonieverkeer in een bepaalde straal onmogelijk te maken. Dit soort radiozendapparaten dient te allen tijde strafrechtelijk in beslag genomen te worden ter onttrekking aan het verkeer. Dit brengt mee dat de handhaving via het strafrechtelijke weg plaatsvindt.</al>
+                <al>Ook indien verbeurdverklaring in de rede ligt, kan een bestuursrechtelijke reactie (alleen) onvoldoende effectief zijn. Dat geldt bijvoorbeeld voor  (een handelsvoorraad) uitrusting in de zin van <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=1.1" compleet="nee">artikel 1.1 i.i, jj en kk Tw</extref>, die niet voldoet aan de daaraan gestelde regels. Gedacht kan worden aan uitrusting die niet voldoet aan de essenti&#xEB;le eisen uit de EMC en R&amp;TTE richtlijn, waardoor deze onveilig is, teveel storing veroorzaakt op andere apparaten of te weinig immuun is tegen verstoring van andere apparatuur.</al>
+              </tekst>
+            </circulaire.divisie>
+            <circulaire.divisie opmaak="default" status="goed">
+              <kop>
+                <nr status="officieel">b</nr>
+                <titel status="officieel">Binnentreding in een woning</titel>
+              </kop>
+              <tekst status="goed">
+                <al>Wanneer een illegale uitzending vanuit een woning wordt gepleegd, kan binnentreding in de woning nodig zijn. Dit is aan de orde als sprake is van gevaarzetting, bijvoorbeeld als de uitzending stoort op vitaal frequentieverkeer. Dit is bijvoorbeeld een frequentie bestemd voor de communicatie van lucht- en scheepvaart, voor hulpdiensten, defensie, en dergelijke. In zo'n geval zijn de bestuursrechtelijke middelen ontoereikend en wordt strafrechtelijk opgetreden.</al>
+              </tekst>
+            </circulaire.divisie>
+            <circulaire.divisie opmaak="default" status="goed">
+              <kop>
+                <nr status="officieel">c</nr>
+                <titel status="officieel">Recidive</titel>
+              </kop>
+              <tekst status="goed">
+                <al>Inzet van bestuursrechtelijke middelen tegen een overtreder die eerder voor een zelfde of vergelijkbare overtreding bestuursrechtelijk is aangepakt, is niet altijd zinvol. Als de overtreder keer op keer in de fout gaat, ondanks een bestuursrechtelijke sanctie, is bestuurlijk optreden kennelijk niet effectief en strafrechtelijk optreden aangewezen. Denk bijvoorbeeld aan een etherpiraat die in korte tijd meermaals bestuurlijk is gesanctioneerd of al in de schuldsanering zit, waardoor financi&#xEB;le sancties niet effectief kunnen zijn.</al>
+              </tekst>
+            </circulaire.divisie>
+            <circulaire.divisie opmaak="default" status="goed">
+              <kop>
+                <nr status="officieel">d</nr>
+                <titel status="officieel">Ernst overtreding</titel>
+              </kop>
+              <tekst status="goed">
+                <al>De ernst van de overtreding is afhankelijk van het soort radiozendapparaat en de daarop geprogrammeerde frequentie. De opsporingsambtenaar geeft in het proces-verbaal aan op welke frequentie(s) de verboden apparatuur stoort, of deze frequentie(s) van vitaal belang is (zijn) en of sprake is van concrete gevaarzetting. Bij vitale frequenties moet niet alleen gedacht worden aan de frequenties bestemd voor de communicatie van lucht- en scheepvaart, hulpdiensten en defensie maar ook aan (mobiele) telefonie en radio-uitzendingen die ernstig gestoord kunnen worden.</al>
+              </tekst>
+            </circulaire.divisie>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <nr status="officieel">2.3</nr>
+              <titel status="officieel">Informatie-uitwisseling en samenwerking</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Wanneer de politie een overtreding van de <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Tw</extref> constateert, zendt de opsporingsambtenaar een afschrift van het proces-verbaal naar Agentschap Telecom. Tevens voegt deze een proces-verbaal van bevindingen bij zodat het agentschap een last onder dwangsom kan opleggen om eenzelfde overtreding in de toekomst te voorkomen. In het proces-verbaal van bevindingen wordt aangegeven of er eerder bestuursrechtelijke maatregelen ten aanzien van de verdachte zijn getroffen en zo ja, welke.</al>
+              <al>In zaken die niet (verder) door het OM worden vervolgd wordt binnen drie maanden na inschrijving van de zaak op het parket, door of namens de officier van justitie een gemotiveerde kennisgeving van deze beslissing aan Agentschap Telecom verzonden. Het agentschap beoordeelt vervolgens of bestuurlijke sanctionering nog opportuun is. </al>
+            </tekst>
+          </circulaire.divisie>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Opsporing en vervolging</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Inleiding</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Storing van frequenties in de ether kan ernstige gevolgen hebben. Er kan sprake zijn van gevaarzetting, ernstige hinder of (grote) economische schade. De ernst van de overtreding is afhankelijk van het soort radiozendapparaat en de daarop geprogrammeerde frequentie. In het proces-verbaal van bevindingen van de opsporingsambtenaar wordt aangegeven op welke frequentie(s) de verboden apparatuur stoort en of deze frequentie(s) van vitaal belang is (zijn). Frequenties van vitaal belang zijn frequenties die gebruikt worden door de politie voor openbare-orde-doeleinden en (staats)veiligheidsdoeleinden, door hulpverleningsdiensten, lucht- en scheepvaartverkeersbegeleiding, defensie, publieke alarmdiensten, en in voorkomende gevallen ook mobiele telefonie en radio- uitzendingen. Bij radio-uitzendingen kan bijvoorbeeld sprake zijn van verstoring zijn van de rampenzender. In het proces-verbaal worden zo mogelijk ook concrete storingsmeldingen genoemd die veroorzaakt worden door de uitzendingen van de overtreder.</al>
+
+            <al>Agentschap Telecom hanteert een prioritering ten aanzien van storingsmeldingen en de ernst daarvan. Er wordt onderscheid gemaakt in storingsmeldingen met Prio 1, 2 en 4<noot id="n5e11774674" type="voet">
+                <noot.nr>5</noot.nr>
+                <noot.al> Er is aansluiting gezocht bij de storingsmeldingsprocedure van het Agentschap Telecom, die uitgaat van prio 1, 2 en 4.</noot.al>
+              </noot>.</al>
+            <al>De meest ernstige categorie (Prio 1) betreft storingen van netwerken of infrastructuur waarbij geen gebruik kan worden gemaakt van alternatieve frequenties of alternatieve communicatiemogelijkheden. Bijvoorbeeld:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>vitale overheidsinfrastructuur (zoals: C2000, P2000);</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>continu&#xEF;teit van vitale netwerken (internet knooppunten, mobiele telefonie);</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>vitaal frequentiegebruik (luchtverkeersbegeleiding, essenti&#xEB;le scheepvaartcommunicatie, rampenzenders bijvoorbeeld),</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>storingen die een levensbedreigende situatie kunnen veroorzaken;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>storingen die grote economische schade kunnen veroorzaken (als meer dan 250 personen worden gedupeerd of als het gaat om grote schade (&gt;&#x20AC;&#xA0;100.000)) of die de continu&#xEF;teit van een bedrijf bij het voortduren van de storing in gevaar brengen.</al>
+              </li>
+            </lijst>
+            <al>Bij Prio 1-meldingen volgt de inbeslagneming van de radiozendapparatuur en strafrechtelijke vervolging.</al>
+            <al>Prio 2-meldingen zijn storingen die economische schade veroorzaken, maar niet levensbedreigend zijn of anderszins tot Prio 1 behoren. Onder Prio 4-meldingen vallen de overige storingsmeldingen. De Prio 2- en Prio 4-meldingen worden doorgaans bestuursrechtelijk afgedaan.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Etherpiraten (illegale omroep)</titel>
+          </kop>
+          <tekst status="goed">
+            <al>In het Nationaal Frequentieplan (NFP) zijn de frequenties tussen de 88,0&#xA0;MHz en de 108,0&#xA0;MHz, tussen de 174&#xA0;MHz en de 230&#xA0;MHz en tussen de 1452&#xA0;MHz en de 1479.5&#xA0;MHz in gebruik voor radio-omroep Voor het uitzenden van omroepprogramma&#x2019;s &#x2013; programma&#x2019;s die ontvangen kunnen worden met radiotoestellen &#x2013; is een vergunning voor het gebruik van een bepaalde frequentie vereist. Etherpiraten plegen &#x2018;illegale omroep&#x2019;: zij zenden doelbewust uit op een frequentie in de omroepband zonder dat daarvoor een vergunning is afgegeven. Deze omschrijving omvat elk illegaal gebruik van omroepfrequenties.</al>
+            <al>Bij vergunninghouders voor publieke of commerci&#xEB;le omroep, die bepalingen van hun vergunning overtreden is ander beleid van toepassing. Dergelijke overtredingen worden in alle gevallen bestuursrechtelijk afgedaan.</al>
+            <al>Illegale omroep wordt veelal gepleegd vanaf percelen die in eigendom zijn van degenen die illegaal uitzenden ofwel vanaf andermans of openbare grond, en dan veelal in groepsverband. Daarnaast wordt bij het illegaal uitzenden ook veelvuldig gebruik gemaakt van mobiele en/of afbreekbare antenne-installaties of gehuurde kranen, waarbij de uitzendlocatie regelmatig wordt gewijzigd om de pakkans te verkleinen.</al>
+            <al>Degene die anderen toestemming geeft om uit te zenden vanaf zijn grond, kan als medepleger of medeplichtige worden vervolgd. Dit geldt ook voor degene die een studio heeft ingericht vanwaar de illegale uitzending wordt gemaakt voor uitzending door een antennemast op een ander grondgebied. Hetzelfde geldt voor degene die de kraan of mast ter beschikking stelt indien hij wist dat de mast als antenne-installatie voor illegaal uitzenden zou worden gebruikt.</al>
+            <al>Wanneer in groepsverband een illegale uitzending wordt gepleegd is het van belang dat niet alleen proces-verbaal wordt opgemaakt tegen degene &#x2018;achter de knoppen&#x2019; maar ook tegen andere betrokkenen. Zo veel mogelijk wordt beschreven wie hebben bijgedragen aan de illegale uitzending of deze mede mogelijk hebben gemaakt in de zin van het beschikbaar stellen van materiaal, geld, generatoren, zenders, antennemasten, kraan en dergelijke.</al>
+          </tekst>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Handhaving</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Tegen etherpiraten wordt strafrechtelijk opgetreden wanneer:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>er sprake is van een Prio 1-melding; of</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>de bestuursrechtelijke aanpak niet effectief is gebleken (zie <intref status="actief" doc="1.0:v:BWBR0031822&amp;circulaire.divisie=2">hoofdstuk 2</intref>); of</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>er sprake is van ernstige verstoring van de openbare orde maar het geen Prio 1-melding betreft.</al>
+                </li>
+              </lijst>
+              <al>Veelal zenden etherpiraten niet bewust uit op frequenties van legale radiozenders. Als etherpiraten echter een frequentie dichtbij een legale zender kiezen, storen ze evenwel aanzienlijk. Het illegaal uitzenden op omroepfrequenties wordt strafrechtelijk gehandhaafd wanneer bestuursrechtelijk optreden niet effectief is gebleken. Het radiozendapparaat en toebehoren worden inbeslaggenomen in alle gevallen waarin strafrechtelijk wordt opgetreden.</al>
+              <al>Het bestuursrechtelijke sanctiebeleid bestaat uit waarschuwen (met aanzegging de uitzending te staken) en zo nodig beboeten en opleggen van een last onder dwangsom. Afhankelijk van de situatie wordt de waarschuwingsbrief uitgereikt (om de uitzending binnen een uur te be&#xEB;indigen) of nagestuurd. Als de waarschuwingsbrief wordt uitgereikt en de uitzending gaat door, dan wordt er onmiddellijk gesanctioneerd. Afhankelijk van de aard en de ernst van de overtreding bedraagt de boete &#x20AC;&#xA0;2500,&#x2013; tot &#x20AC;&#xA0;45.000,&#x2013;.</al>
+              <al>De richteisen voor etherpiraterij zijn opgenomen in de <extref status="actief" doc="1.0:v:BWBR0031819" compleet="nee">Richtlijn voor strafvordering Telecommunicatiewet</extref>, basisdelict 1.</al>
+            </tekst>
+          </circulaire.divisie>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">Niet-etherpiraten</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Storing op frequenties die niet zijn aangewezen als omroepfrequenties, veroorzaken veelal slechts overlast en hinder. Het gaat hierbij om het gebruik van bijvoorbeeld een marifoon, een mobilofoon of een portofoon waarvoor een registratie of vergunning vereist is maar niet is verleend. Ook kan het gaan om (moedwillig) onjuist gebruik van deze apparaten, dat kan leiden tot een gevaarlijke situatie, bijvoorbeeld een verstoring van de maritieme communicatie via een marifoon die het nood- spoed of veiligheidskanaal bezet houdt of een verstoring van vitaal portofoonverkeer bij een evenement.</al>
+          </tekst>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Handhaving</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Deze overtredingen worden in beginsel bestuursrechtelijk gehandhaafd. Tegen niet-etherpiraten wordt strafrechtelijk opgetreden als sprake is van een Prio 1-melding. Dat is zelden het geval.</al>
+              <al>Het bestuursrechtelijke sanctiebeleid bestaat uit waarschuwen en het opleggen van boetes, soms in combinatie met (een) last(en) onder dwangsom.</al>
+              <al>De richteisen voor niet-etherpiraterij zijn opgenomen in de <extref status="actief" doc="1.0:v:BWBR0031819" compleet="nee">Richtlijn voor strafvordering Telecommunicatiewet</extref>, basisdelict&#xA0;2.</al>
+            </tekst>
+          </circulaire.divisie>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">4</nr>
+            <titel status="officieel">Jammers</titel>
+          </kop>
+          <tekst status="goed">
+
+            <al>Een jammer is een radiozendapparaat dat tot doel heeft de werking van andere zenders te verstoren.<noot id="n6e11774774" type="voet">
+                <noot.nr>6</noot.nr>
+                <noot.al> Jammers moeten worden onderscheiden van apparaten die onbedoeld kunnen storen op de juiste werking van andere zenders, zoals een ge&#xEF;mporteerde babyfoon die is afgesteld op een in Nederland niet toegestane, maar  in het buitenland gangbare frequentie.</noot.al>
+              </noot> Het gebruik van een jammer kan ernstige gevolgen hebben. Verstoring van de openbare mobiele-telefonie-infrastructuur of het GPS-netwerk kan instanties, bedrijven en systemen die in de uitoefening van hun publieke taak of commerci&#xEB;le activiteiten afhankelijk zijn van de werking van deze infrastructuren, (ernstig) benadelen. Dat kan gevaarlijke situaties opleveren in de luchtvaart, bij de hulpverlening, bij de handhaving van de openbare orde, enzovoort.</al>
+            <al>Er zijn twee soorten jammers te onderscheiden:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>1.)</li.nr>
+                <al>GPS-jammers</al>
+                <al>
+                              GPS-jammers, ook wel &#x2018;blockers&#x2019; genoemd, zijn apparaten die speciaal zijn ontworpen om het GPS-verkeer in de banden voor radioplaatsbepaling en radionavigatie (1215&#x2013;1300&#xA0;MHz, 1300&#x2013;1350&#xA0;MHz en 1559&#x2013;1610&#xA0;MHz) geheel onmogelijk te maken. Deze apparaten belemmeren ernstig de GPS-ontvangst door het uitzenden van een breedbandig stoorsignaal. De GPS ontvangst is immers noodzakelijk voor onder meer alle navigatiesystemen, alsmede voor tracering van voertuigen. Tevens maakt nood-, spoed- en veiligheidsverkeer gebruik van deze signalen.</al>
+              </li>
+              <li>
+                <li.nr>2.)</li.nr>
+                <al>Mobiele-telefonie-jammers</al>
+                <al>Mobiele-telefonie-jammers zijn apparaten die speciaal zijn ontworpen om het mobiele telefoonverkeer in hoofdzakelijk de GSM- en/of UMTS-frequentiebanden (880&#x2013;960&#xA0;MHz, 1710&#x2013;1880&#xA0;MHz, 1900&#x2013;2070 MHZ en 2110&#x2013;2170&#xA0;MHz) in zijn directe omgeving geheel onmogelijk te maken. Deze apparaten blokkeren het mobiele telefoonverkeer door het uitzenden van een breedbandig stoorsignaal. Hierdoor is geen spraak- of dataverkeer in de omgeving van de jammer mogelijk.</al>
+              </li>
+            </lijst>
+            <al>Het geheel of gedeeltelijk aangelegd aanwezig hebben<noot id="n7e11774774" type="voet">
+                <noot.nr>7</noot.nr>
+                <noot.al> Het &#x2018;aangelegd aanwezig hebben&#x2019; wordt ruim ge&#xEF;nterpreteerd. Daarbij moet bijvoorbeeld worden gedacht aan de situatie waarbij in de omgeving van het radiozendapparaat een geschikte antenne aanwezig is of andere hulpmiddelen die noodzakelijk zijn om het radiozendapparaat met een betrekkelijk simpele handeling in gebruik te nemen. De intentie van de houder is er dan immers op gericht om het apparaat te gebruiken. Van &#x2018;aangelegd aanwezig hebben&#x2019; zal in feite alleen dan geen sprake zijn, indien het apparaat in verpakte toestand aanwezig is of uit andere omstandigheden blijkt of kan worden aangetoond dat de intentie van gebruik niet aanwezig is.</noot.al>
+
+              </noot> en het gebruik van beide soorten jammers is in strijd met de <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Tw</extref>. Beide apparaten kunnen niet voldoen aan <extref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=10" compleet="nee">hoofdstuk 10 Tw</extref> en de R&amp;TTE richtlijn (1999/05/EG) en EMC <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn 2004/105/EG</extref>) . Deze apparaten kunnen daarom ook niet voorzien zijn van de in de richtlijnen verplicht gestelde CE-markering. Daarmee zijn jammers vatbaar voor onttrekking aan het verkeer.</al>
+            <al>Het gebruik van een jammer heeft in veel gevallen een criminele bedoeling. Jammers worden door criminelen ingezet, bijvoorbeeld om waarschuwingssystemen plat te leggen, tracering van geldwagens onmogelijk te maken of gestolen vrachtwagens onzichtbaar te maken voor track &amp; trace systemen. Jammers worden ook ingezet bijvoorbeeld door hotelketens om klanten daarmee te dwingen via de (duurdere) vaste telefoon te laten bellen, of door caf&#xE9;s en restaurants om de gepercipieerde hinder van telefonerende gasten te beperken. De gevolgen van het gebruik van een jammer zijn in dit soort gevallen niet minder ernstig omdat ook in deze gevallen vitale systemen worden gestoord.</al>
+            <al>Het geheel of gedeeltelijk aangelegd hebben of het gebruik van een jammer is een overtreding van <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.9" compleet="nee">artikel 10.9 Tw</extref>. Dit is tevens een overtreding van <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161sexies" compleet="nee">art. 161sexies van het Wetboek van Strafrecht</extref> (Sr), dat het vernielen, beschadigen of onbruikbaar maken, of het storen van de gang of de werking van telecommunicatienetwerken en het verijdelen van een veiligheidsmaatregel met betrekking tot zo&#x2019;n werk strafbaar stelt. Wanneer een jammer opzettelijk wordt ingezet om opsporingshandelingen te beletten, belemmeren of verijdelen kan ook vervolgd worden ter zake van <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=184" compleet="nee">art. 184 Sr</extref>.</al>
+          </tekst>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Handhaving</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Het geheel of gedeeltelijk aangelegd hebben en het gebruik van een jammer wordt in alle gevallen strafrechtelijk gehandhaafd. Een jammer wordt in alle gevallen in beslag genomen ter onttrekking aan het verkeer.</al>
+              <al>Bij crimineel gebruik van jammers, waarbij blokkeerzenders worden gebruikt om het plegen van misdrijven te vergemakkelijken of om de opsporing van misdrijven te verhinderen of te belemmeren is een taakstraf sanctie gepast. Bij ander gebruik van een jammer, is eerder een boete aan de orde.</al>
+              <al>Bij het aantreffen van jammers bestemd voor de handel kan (naast de strafrechtelijke aanpak) onder omstandigheden ook bestuursrechtelijk worden opgetreden. Agentschap Telecom kan een last onder dwangsom opleggen aan degene die de apparatuur in de handel brengt of verhandelt.</al>
+              <al>De richteisen voor het gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een jammer zijn opgenomen in de <extref status="actief" doc="1.0:v:BWBR0031819" compleet="nee">Richtlijn voor strafvordering Telecommunicatiewet</extref>, basisdelict 3.</al>
+            </tekst>
+          </circulaire.divisie>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">5</nr>
+            <titel status="officieel">Handel in uitrusting die niet voldoet aan de eisen</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Uitrusting die niet voldoet aan de (technische) essenti&#xEB;le eisen dan wel waarbij markeringen of documenten ontbreken kunnen ernstige storing van de etherorde veroorzaken. Dat is bijvoorbeeld het geval wanneer het apparaat niet geschikt is voor een juiste werking op de Europese markt. Het in de handel brengen van dit soort uitrusting, vaak in grote partijen, is krachtens de in <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.3" compleet="nee">artikel 10.3, onderdeel a, b, c en e van de Tw</extref> gestelde voorschriften verboden.</al>
+            <al>Doorgaans gaat het om partijen (goedkope) elektronische en elektrische apparaten die onveilig zijn of ernstige storingen veroorzaken. Handel in deze apparaten wordt vaak getraceerd via de detailhandel naar de importeur/fabrikant.</al>
+          </tekst>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Handhaving</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Het in de handel brengen of verhandelen van uitrusting die niet voldoet aan de administratieve eisen wordt in beginsel bestuursrechtelijk gehandhaafd. Uitrusting die niet voldoet aan de (technische) essenti&#xEB;le eisen, wordt in beslag genomen ter verbeurdverklaring, indien deze in potentie een ernstige storing van de etherorde kan veroorzaken.</al>
+              <al>Tevens wordt uitrusting in beslag genomen indien het gaat om gevallen waarbij bestuursrechtelijke handhaving niet voldoende effectief is.</al>
+              <al>Bij het aantreffen van een handelsvoorraad uitrusting die niet voldoet aan de eisen kan (naast de strafrechtelijke aanpak) onder omstandigheden ook bestuursrechtelijk worden opgetreden. Agentschap Telecom kan een last onder dwangsom opleggen aan degene die de apparatuur in de handel brengt of verhandelt. Tevens kan een verkoopverbod worden uitgevaardigd.</al>
+              <al>De richteisen voor het in de handel brengen van uitrusting die niet aan de eisen voldoet, zijn opgenomen in de <extref status="actief" doc="1.0:v:BWBR0031819" compleet="nee">Richtlijn voor strafvordering Telecommunicatiewet</extref>, basisdelict 4.</al>
+            </tekst>
+          </circulaire.divisie>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">6</nr>
+            <titel status="officieel">Radiozendapparaat met verkeerde frequentie en/of onjuist vermogen</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Voor het gebruik van (onder andere) mobiele telefoons, modems, draadloze microfoons, babyfoons, apparaten met modelbesturing, 27&#xA0;MHz-apparatuur is geen vergunning vereist, mits deze apparaten voldoen aan de criteria gesteld in <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.4" compleet="nee">artikel 3.4 Tw</extref> en de daarop gebaseerde <extref status="actief" doc="1.0:v:BWBR0023553" compleet="nee">Regeling gebruik van frequentieruimte zonder vergunning 2008</extref>. Deze criteria hebben doorgaans betrekking op technische beperkingen waaronder deze apparaten zonder vergunning mogen werken. Hierbij kan gedacht worden aan de frequentie waarop het apparaat dient te werken en het vermogen van het apparaat.</al>
+            <al>Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat dat op een verkeerde frequentie werkt en/of een onjuist vermogen heeft is verboden op grond van <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.9" compleet="nee">art. 10.9, eerste lid Tw</extref>.</al>
+          </tekst>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Handhaving</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van radiozendapparatuur die op een verkeerde frequentie werkt, wordt in beginsel strafrechtelijk gehandhaafd. Deze radiozendapparaten worden in beslag genomen ter onttrekking aan het verkeer.</al>
+              <al>Het bezit of gebruik van radiozendapparatuur die een onjuist vermogen heeft of op andere gronden niet voldoet aan de eisen uit de <extref status="actief" doc="1.0:v:BWBR0023553" compleet="nee">Regeling gebruik van frequentieruimte zonder vergunning 2008</extref>, wordt in beginsel bestuursrechtelijk afgehandeld. In het geval van strafrechtelijke handhaving kan deze apparatuur in beslag genomen worden ter verbeurdverklaring. Dat is in ieder geval aan de orde in een prio 1 situatie.</al>
+              <al>De richteisen voor het bezit en/of gebruik van radiozendapparatuur met verkeerde frequentie en/of onjuist vermogen, zijn opgenomen in de <extref status="actief" doc="1.0:v:BWBR0031819" compleet="nee">Richtlijn voor strafvordering Telecommunicatiewet</extref>, basisdelict 5. </al>
+            </tekst>
+          </circulaire.divisie>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Overgangsregeling</titel>
+        </kop>
+        <tekst status="goed">
+          <al>De beleidsregels in deze aanwijzing hebben onmiddellijke gelding vanaf de datum van inwerkingtreding.</al>
+        </tekst>
+      </circulaire.divisie>
+    </circulaire-tekst>
+  </circulaire>
+</wetgeving>
+  	

@@ -1,0 +1,1223 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0029486" dtdversie="2.0" id="453339" soort="beleidsregel">
+  
+  
+  <intitule>Internationaal
+belastingrecht, winstallocatie vaste
+inrichtingen</intitule>
+  
+  <circulaire>
+    <circulaire.aanhef>
+      <al>De Staatssecretaris van Financi&#xEB;n heeft het volgende
+besloten.</al>
+    </circulaire.aanhef>
+    <circulaire-tekst>
+      <tekst status="goed">
+        <al>
+          <nadruk type="cur">Dit besluit geeft nader inzicht in
+mijn standpunten met betrekking tot de winstallocatie aan vaste
+inrichtingen.</nadruk>
+        </al>
+        <al>
+          <nadruk type="cur">De publicatie van het
+OESO-rapport &#x2018;Report on the Attribution of Profits to Permanent
+Establishments&#x2019;, de aanpassing van het commentaar bij artikel 7
+van het OESO Modelverdrag in 2008 en de vaststelling van het nieuwe
+artikel 7 OESO Modelverdrag (inclusief commentaar) in juli 2010 zijn de
+aanleiding voor dit besluit. Doel van het besluit is om zoveel mogelijk
+duidelijkheid te geven over de wijze waarop de Nederlandse
+belastingdienst tegen de winstallocatie van vaste inrichtingen
+aankijkt.</nadruk>
+        </al>
+      </tekst>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Inleiding</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">1.1</nr>
+            <titel status="officieel">Gebruikte
+afkortingen en
+termen</titel>
+          </kop>
+          <tekst status="goed">
+            <table colsep="0" frame="none" pgwide="1" rowsep="0" tabstyle="tekst">
+              <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="tekst">
+                <colspec colname="col1" colnum="1" colwidth="30*"/>
+                <colspec colname="col2" colnum="2" colwidth="99.5*"/>
+                <tbody valign="top">
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>AOA</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Authorised
+OECD Approach</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Artikel
+7 OMV
+nieuw</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Het
+in juli 2010 vastgestelde artikel 7
+OMV</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Artikel
+7 OMV
+oud</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Het
+v&#xF3;&#xF3;r juli 2010 geldende artikel 7
+OMV</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Bvdb</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al><extref status="actief" doc="1.0:v:BWBR0012095" compleet="nee">Besluit
+voorkoming dubbele belasting
+2001</extref></al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Guidelines</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Transfer
+Pricing Guidelines for Multinational Enterprises and Tax
+Administrations</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>KERT-functies</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Key
+Entrepreneurial Risk Taking
+functies</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>OESO</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Organisatie
+voor Economische Samenwerking en
+Ontwikkeling</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>OMV</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>OESO-modelverdrag</al>
+                    </entry>
+                  </row>
+                  <row rowsep="0">
+                    <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>PE-Report</al>
+                    </entry>
+                    <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                      <al>Report
+on the Attribution of Profits to Permanent
+Establishments</al>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">1.2</nr>
+            <titel status="officieel">Aanleiding
+besluit</titel>
+          </kop>
+          <tekst status="goed">
+
+            <al>Ten aanzien van
+grensoverschrijdende transacties bestaat binnen de OESO-lidstaten
+overeenstemming over toepassing van het zogenoemde
+arm&#x2019;s-lengthbeginsel, zoals dat is opgenomen in artikel 7 en 9
+van het OESO-modelverdrag (OMV) en zoals dat in <extref status="actief" doc="1.0:v:BWBR0002672&amp;artikel=8b" compleet="nee">art. 8b Wet VPB 1969</extref> is
+gecodificeerd in Nederland. In het OESO-commentaar op artikel 9 OMV, de
+Transfer Pricing Guidelines for Multinational Enterprises and Tax
+Administrations (Guidelines) en Nederlandse
+beleidsbesluiten<noot id="n1e11189954" type="voet">
+                <noot.nr>1</noot.nr>
+                <noot.al>Beleidsbesluiten
+van 30 maart 2001, nr. IFZ2001/295M en 21 augustus 2004, nr.
+IFZ2004/680M.</noot.al>
+              </noot>wordt het arm&#x2019;s-lengthbeginsel van een nadere invulling en
+toelichting voorzien.</al>
+
+            <al>In juli 2008 is het OESO-rapport
+&#x2018;Report on the Attribution of Profits to Permanent
+Establishments&#x2019; (PE-Report) gepubliceerd, dat in 2010 is
+aangepast<noot id="n2e11189954" type="voet">
+                <noot.nr>2</noot.nr>
+                <noot.al>Deze
+aanpassingen hadden als voornaamste doel het in overeenstemming brengen
+van bepaalde begrippen uit het PE-Report met begrippen uit het nieuwe
+artikel 7 en de vernieuwde Guidelines. Met deze aanpassingen zijn geen
+inhoudelijke wijzigingen beoogd.</noot.al>
+
+              </noot>. In dit rapport wordt beschreven hoe winsten aan vaste inrichtingen
+toegerekend dienen te
+worden<noot id="n3e11189954" type="voet">
+                <noot.nr>3</noot.nr>
+                <noot.al>Indien
+in dit besluit sprake is van het begrip winsten wordt door mij hier
+tevens verliezen onder verstaan.</noot.al>
+              </noot>. Dit rapport is geschreven met het doel om een grotere internationale
+consensus te bereiken met betrekking tot de toepassing van artikel 7
+OMV. Hoewel in het in 2008 geldende artikel 7 OMV de verwijzing naar de
+&#x2018;functionally separate entity approach&#x2019; als zodanig in
+lid 2 is opgenomen, bleek vanuit ervaringen in de praktijk nadere
+uitleg noodzakelijk. Daarnaast zijn nieuwe inzichten inzake
+winstallocatie aan vaste inrichtingen in het rapport verwerkt.</al>
+
+            <al>Uitgangspunt bij de winstallocatie in het PE-Report is de
+Authorised OECD Approach (AOA). Deze komt er kort gezegd op neer dat
+activa en risico`s worden gealloceerd aan de vaste inrichting op basis
+van de functie-analyse. Daarna wordt eerst het eigen vermogen (free
+capital<noot id="n4e11189954" type="voet">
+                <noot.nr>4</noot.nr>
+                <noot.al>In
+het Pe-Report is het eigen vermogen als &#x2018;free capital&#x2019;
+aangeduid ter onderscheiding van het vermogen waarvan de
+interestbetaling als aftrekbare last in het land van de vaste
+inrichting dient te worden aangemerkt.</noot.al>
+              </noot>) en vervolgens het vreemd vermogen gealloceerd aan de vaste inrichting.
+Bij deze vermogensallocatie zijn in grote lijnen twee methoden te
+onderscheiden: de capital allocation approach en de thin capitalisation
+approach. Vervolgens wordt de arm&#x2019;s length winst van de vaste
+inrichting bepaald. Daarbij kan de rentelast ter zake van het
+gealloceerde vreemd vermogen worden bepaald aan de hand van ook weer
+twee methoden: de fungibility approach en de tracing approach.</al>
+            <al>In het kader van de implementatie van het PE-Report heeft
+de OESO een traject gevolgd dat uit verschillende stappen bestond. Voor
+zover de conclusies van het PE-Report niet conflicteerden met het op
+dat moment bestaande commentaar is het commentaar op artikel 7 OMV in
+2008 aangepast. Veelal ging het hier om een verduidelijking of een
+nadere interpretatie. De tweede stap in het implementatietraject
+bestond uit het herschrijven van het bestaande artikel 7 OMV inclusief
+een nieuw commentaar. Het nieuwe artikel 7 OMV met nieuw commentaar is
+in juli 2010 door de OESO vastgesteld.</al>
+            <al>In dit besluit zal het
+nieuwe artikel 7 OMV zoals door de OESO vastgesteld in juli 2010 als
+artikel 7 OMV Nieuw worden aangeduid. Het artikel 7 OMV dat
+v&#xF3;&#xF3;r juli 2010 geldig was zal in dit besluit als artikel 7
+OMV Oud worden aangeduid.</al>
+
+            <al>Het Nederlandse beleid is
+er in het verleden al op gericht geweest het
+arm&#x2019;s-lengthbeginsel van toepassing te laten zijn bij de
+winstbepaling van vaste inrichtingen. Het land waar de vaste inrichting
+is gelegen mag de voordelen belasten voor zover deze aan de vaste
+inrichting kunnen worden toegerekend. De winst wordt toegerekend aan de
+vaste inrichting afhankelijk van de verrichte functies, de gebruikte
+activa en de gelopen risico&#x2019;s. Daarbij dient te worden gehandeld
+alsof de vaste inrichting een afzonderlijke ongelieerde onderneming
+is<noot id="n5e11189954" type="voet">
+                <noot.nr>5</noot.nr>
+                <noot.al>In
+het PE-Report wordt dit aangeduid als de &#x2018;legally distinct and
+separate enterprise&#x2019;.</noot.al>
+
+              </noot>. Dit wordt ook wel de &#x2018;functionally separate entity
+approach&#x2019; genoemd. Bij interne leveringen, dienstverlening en
+het beschikbaar stellen van activa
+(dealings<noot id="n6e11189954" type="voet">
+                <noot.nr>6</noot.nr>
+                <noot.al>Omdat
+dergelijke transacties binnen een onderneming juridisch niet mogelijk
+zijn worden ze fictieve transacties of dealings
+genoemd.</noot.al>
+              </noot>) dient derhalve een arm&#x2019;s-lengthprijs gehanteerd te worden
+tenzij het commentaar bij artikel 7 OMV, het <extref status="actief" doc="1.0:v:BWBR0012095" compleet="nee">Besluit voorkoming dubbele
+belasting 2001</extref> en/of de Nederlandse jurisprudentie hier een beperking
+op aanbrengt.</al>
+            <al>Het Nederlandse beleid sluit aan bij de
+conclusies van het PE-Report. Ik onderschrijf de conclusies van het
+PE-Report en ik vind het een juiste invulling van de beginselen die ook
+aan het v&#xF3;&#xF3;r juli 2010 geldende artikel 7 OMV ten grondslag
+hebben gelegen. Daar waar in het verleden verschillende interpretaties
+bestonden over de wijze waarop de winst aan een vaste inrichting
+gealloceerd diende te worden, wordt in het PE-Report gekozen voor de
+functionally separate entity approach en daarmee voor de toepassing van
+het arm&#x2019;s-lengthbeginsel zoals nader uitgewerkt in de
+Guidelines. Als gevolg daarvan is in het PE-Report onder andere
+verwoord dat het in rekening brengen van een fictieve (interne) royalty
+in specifieke omstandigheden gepast is en dat de allocatie van
+rentelasten aan de vaste inrichting op een arm&#x2019;s length wijze
+dient te geschieden, rekening houdend met de functies, de activa en de
+risico&#x2019;s van de vaste inrichting.</al>
+            <al>In Nederland wordt bij
+de uitleg van verdragen met een gewijzigd OESO commentaar de dynamische
+methode toegepast. Dit leidt ertoe dat wijzigingen die bedoeld zijn als
+verduidelijking ook van toepassing zijn op verdragen die zijn
+afgesloten v&#xF3;&#xF3;r wijziging van het commentaar. De wijzigingen
+in het commentaar zoals vastgesteld in juli 2008 zijn dergelijke
+verduidelijkingen. Deze zijn dan ook van toepassing op bestaande
+verdragen. In gevallen waarbij door de wijziging van het commentaar in
+2008 duidelijk is geworden dat een gehanteerde winstallocatie van een
+belastingplichtige niet als arm&#x2019;s length is aan te merken zal in
+redelijkheid beoordeeld moeten worden in hoeverre en vanaf welk moment
+aanpassing noodzakelijk is. Overleg met de Belastingdienst kan hier
+uitkomst bieden.</al>
+            <al>Het is echter niet zo dat de wijzingen in
+artikel 7 OMV Nieuw en het daarbij horende commentaar, automatisch
+doorwerken naar de bestaande verdragen die met een ander artikel 7 tot
+stand zijn gekomen.</al>
+            <al>De vraag in hoeverre de wijzingen in
+artikel 7 OMV Nieuw en het daarbij horende commentaar invloed hebben
+bij de toepassing van verdragen met de oude tekst is niet eenvoudig te
+beantwoorden. Voor de uitvoeringspraktijk is het echter ongewenst als
+hierover onduidelijkheid bestaat. Om deze onzekerheid te voorkomen ben
+ik bereid om de beginselen van het PE-Report, voor zover deze
+beginselen niet als een verduidelijking van artikel 7 OMV oud beschouwd
+kunnen worden, ook toe te passen bij verdragen waarin de tekst van
+artikel 7 OMV Oud is opgenomen. Daarom zal de Nederlandse
+belastingdienst een arm&#x2019;s length winsttoerekening aan een vaste
+inrichting die gebaseerd is op de uitgangspunten van het PE-Report en
+die als zodanig ook in het andere betrokken land door
+belastingplichtige consistent is toegepast niet corrigeren. Dit geldt
+ook bij de vrijstelling van buitenlandse winst onder het <extref status="actief" doc="1.0:v:BWBR0012095" compleet="nee">Besluit
+voorkoming dubbele belasting 2001</extref> (Bvdb) of bij de belastingheffing van
+buitenlands belastingplichtigen in verdragsloze situaties.</al>
+            <al>Bij
+verdragsonderhandelingen zal artikel 7 OMV Nieuw inzet zijn bij de
+besprekingen.</al>
+            <al>Daarnaast is relevant dat het PE-Report, het OESO
+Modelverdrag en het daarbij horende commentaar geen directe betekenis
+hebben voor de toepassing van de nationale belastingwetten en van het
+<extref status="actief" doc="1.0:v:BWBR0012095" compleet="nee">Bvdb</extref>, maar slechts voor de uitleg van door Nederland afgesloten
+belastingverdragen. De bepalingen over vaste inrichtingen in de
+nationale belastingwetten, in het Bvdb en in de bilaterale verdragen
+hebben echter wel dezelfde bedoeling. Dat blijkt ook uit de sterk
+overeenkomende definities van een vaste inrichting en van de methode
+waarmee de winst aan een vaste inrichting moet worden toegerekend. Het
+uiteen lopen van de invulling van deze bepalingen zou mogelijk leiden
+tot dubbele belasting of tot dubbele vrijstelling wat in strijd is met
+het doel van deze regelingen. Daarom zijn het PE-Report en het
+commentaar bij artikel 7 OMV van groot belang bij de uitleg van de
+nationale belastingwetten en het
+Bvdb.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">1.3</nr>
+            <titel status="officieel">Doel
+besluit</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Het doel
+van dit besluit is om nader inzicht te geven in mijn standpunten met
+betrekking tot de winstallocatie aan vaste inrichtingen. Deze
+standpunten zien overigens slechts op de allocatie van de aan de winst
+ten grondslag liggende baten en lasten, en niet op de belastbaarheid en
+de aftrekbaarheid van deze afzonderlijke baten en lasten.</al>
+            <al>De
+standpunten zijn ook van belang bij de toepassing van <extref status="actief" doc="1.0:v:BWBR0002672&amp;artikel=15" compleet="nee">art. 15 Wet op de
+vennootschapsbelasting 1969</extref> en de <extref status="actief" doc="1.0:v:BWBR0002515" compleet="nee">Wet op de dividendbelasting 1965</extref> ten
+aanzien van de toerekening van aandelen aan een in Nederland gevestigde
+vaste
+inrichting.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">1.4</nr>
+            <titel status="officieel">Toelichting
+paragrafen</titel>
+          </kop>
+          <tekst status="goed">
+            <al>In
+<intref status="actief" doc="1.0:v:BWBR0029486&amp;circulaire.divisie=2">paragraaf 2</intref> gaat dit besluit in op de AOA met betrekking tot de wijze
+waarop winst aan vaste inrichtingen dient te worden toegerekend.
+Daarbij wordt onder andere stilgestaan bij de
+vermogensallocatiemethoden en wordt een voorkeur uitgesproken voor de
+capital allocation approach. In <intref status="actief" doc="1.0:v:BWBR0029486&amp;circulaire.divisie=3">paragraaf 3</intref> gaat dit besluit in op
+vragen met betrekking tot risicoallocatie waarbij de verhouding tussen
+de begrippen control en significant people functions nader wordt
+uitgewerkt. Ik ga ervan uit dat de risicoallocatie aan vaste
+inrichtingen in hoge mate vergelijkbaar is met de risicoallocatie zoals
+die in soortgelijke omstandigheden bij een met de vaste inrichting
+vergelijkbare ongelieerde onderneming zou hebben plaatsgevonden. In
+<intref status="actief" doc="1.0:v:BWBR0029486&amp;circulaire.divisie=4">paragraaf 4</intref> gaat dit besluit in op dealings binnen de generale
+onderneming. Daarbij wordt onder andere ingegaan op verschillen van
+interpretatie in het verleden waarbij het PE-Report een keuze heeft
+gemaakt. Deze keuzes sluiten aan bij het reeds bestaande Nederlandse
+beleid. Van belang is daarbij dat met betrekking tot financi&#xEB;le
+transacties een situatie waarbij de vaste inrichting meer vreemd
+vermogen krijgt toebedeeld dan daadwerkelijk door de generale
+onderneming van externe partijen (gelieerd of ongelieerd) is geleend
+niet past in de door mij voorgestane benadering. In <intref status="actief" doc="1.0:v:BWBR0029486&amp;circulaire.divisie=5">paragraaf 5</intref> gaat
+het besluit in op een aantal specifieke onderwerpen waaronder de
+mogelijkheid van zekerheid vooraf.</al>
+            <al>Dit besluit betreft niet de
+toepassing van de artikelen 5 en 9 OMV die een rol spelen bij de vraag
+of er sprake is van een vaste inrichting (artikel 5) en bij de vraag of
+er arm&#x2019;s length gehandeld is door gelieerde partijen (artikel
+9).</al>
+          </tekst>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Winstallocatie
+vaste
+inrichtingen</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">2.1</nr>
+            <titel status="officieel">Algemeen</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Uitgangspunt
+bij de winstallocatie in het PE-Report is de AOA. Deze benadering houdt
+in dat aan een vaste inrichting de winst toegerekend dient te worden
+die door de vaste inrichting zou zijn behaald indien zij een
+afzonderlijke ongelieerde onderneming zou zijn geweest met dezelfde of
+soortgelijke functies, handelend onder dezelfde of overeenkomstige
+omstandigheden. In het PE-Report wordt hiermee de &#x2018;functionally
+separate entity approach&#x2019; bevestigd. De achterliggende gedachte
+bij deze benadering is dat de winstvaststelling van vaste inrichtingen
+op het arm&#x2019;s-lengthbeginsel gebaseerd dient te zijn, zoals dat
+ook geldt voor gelieerde ondernemingen op basis van artikel 9 OMV en
+nader is uitgewerkt in de Guidelines. Een belangrijk verschil in de
+toepassing van het arm&#x2019;s-lengthbeginsel op basis van artikel 7
+OMV in vergelijking met de toepassing op basis van artikel 9 OMV is dat
+binnen een onderneming wettelijk bindende contracten
+ontbreken.</al>
+            <al>De AOA kent twee stappen. In de eerste stap worden
+de activa en risico&#x301;s alsmede het vermogen gealloceerd aan de
+vaste inrichting op basis van de functie-analyse. In de tweede stap
+wordt de winst van de vaste inrichting bepaald op basis van de analyse
+in de eerste stap en de toepassing van het
+arm&#x2019;s-lengthbeginsel.</al>
+            <al>In de eerste stap dient voor de
+allocatie van activa en risico&#x2019;s in zijn algemeenheid
+aangesloten te worden bij de plaats waar de zogenaamde
+&#x2018;significant people functions&#x2019; worden uitgeoefend. Deze
+&#x2018;significant people functions&#x2019; zijn gerelateerd aan de
+mensen die de activiteiten verrichten met betrekking tot het aangaan en
+beheren van risico&#x2019;s. Het gaat hier om de zogenaamde &#x2018;day
+to day&#x2019; activiteiten die bij de bedrijfsvoering een bepalende
+rol spelen. De plaats waar deze activiteiten worden verricht is
+bepalend voor de allocatie van het economisch eigendom van de activa en
+de door de onderneming gelopen risico&#x2019;s.</al>
+            <al>Tevens wordt in
+de eerste stap eerst het eigen en daarna het vreemd vermogen
+gealloceerd aan de vaste inrichting.</al>
+            <al>Uitgangspunt is daarbij
+dat aan een vaste inrichting voldoende eigen vermogen dient te worden
+toegerekend ter ondersteuning van de aan haar toegerekende
+activiteiten, activa en risico&#x2019;s. De toerekening van het
+vermogen vindt daarom plaats na de allocatie van de activa en
+risico&#x2019;s op basis van een functie-analyse. In zijn algemeenheid
+is daarbij het uitgangspunt dat een vaste inrichting een gelijke
+kredietwaardigheid heeft als de generale onderneming.</al>
+            <al>Voor de
+toerekening van het eigen vermogen aan de vaste inrichting worden in
+het PE-Report verschillende methoden beschreven die tot verschillende
+uitkomsten kunnen leiden. Deze methoden onderscheiden zich in
+hoofdlijnen in methoden die in hun benadering uitgaan van de actuele
+vermogensstructuur van de generale onderneming (&#x2018;capital
+allocation approach&#x2019;) of van de vermogensstructuur van met de
+vaste inrichting vergelijkbare onafhankelijke ondernemingen
+(&#x2018;thin capitalisation approach&#x2019;).</al>
+            <al>Gelet op het
+feit dat in de praktijk vaak door ondernemingen slechts externe
+leningen gealloceerd werden aan de vaste inrichting indien er een
+causaal verband was met de aan de vaste inrichting gealloceerde activa,
+zal de toepassing van deze methoden mogelijk tot een andere allocatie
+van eigen en vreemd vermogen leiden.</al>
+            <al>Bij de allocatie van
+eigen en vreemd vermogen is het Nederlandse beleid erop gericht om de
+methode te kiezen die ertoe leidt dat de winsttoerekening en daarmee
+ook de allocatie van rente aan de vaste inrichting zoveel als mogelijk
+leidt tot de winst die een afzonderlijke ongelieerde onderneming zou
+hebben behaald met vergelijkbare activiteiten onder vergelijkbare
+omstandigheden. Mede gelet op het uitgangspunt van het PE-Report dat de
+vaste inrichting in principe een gelijke kredietwaardigheid heeft als
+de onderneming in zijn geheel heb ik een voorkeur voor de capital
+allocation approach.</al>
+            <al>Om de gelijke kredietwaardigheid te
+bewerkstelligen zal er bij de toedeling van het vermogen naar zowel de
+waarde van de activa als de aan de activiteiten en activa verbonden
+risico's gekeken moeten worden. Een voorbeeld van de toepassing van de
+&#x2018;capital allocation method&#x2019; is uitgewerkt in een <intref status="actief" doc="1.0:v:BWBR0029486&amp;bijlage=">bijlage</intref>
+bij dit besluit.</al>
+            <al>Tenslotte schetst het PE-Report bij de eerste
+stap onder welke omstandigheden er dealings tussen hoofdhuis en vaste
+inrichting aangenomen moeten worden. Deze dealings hebben invloed op de
+winstallocatie tussen hoofdhuis en vaste inrichting. Op specifieke
+dealings met betrekking tot concerndiensten, immateri&#xEB;le vaste
+activa en financiering wordt in het vervolg van dit besluit nader
+ingegaan (zie <intref status="actief" doc="1.0:v:BWBR0029486&amp;circulaire.divisie=4">paragraaf 4</intref>).</al>
+            <al>De allocatie van baten en lasten
+dient te geschieden op basis van het arm's-lengthbeginsel. Daarom
+worden in de tweede stap de kosten en opbrengsten gealloceerd aan de
+vaste inrichting op basis van de functies, de activa, de risico's, het
+vermogen en de dealings zoals die in stap 1 zijn geanalyseerd. Voor de
+in stap 1 ge&#xEF;dentificeerde &#x2018;dealings&#x2019; dient in stap
+2 een verrekenprijs te worden bepaald.</al>
+            <al>Behalve het toerekenen
+van het eigen en vreemd vermogen dient er ook een arm's length
+rentelast aan de vaste inrichting te worden toegerekend. In het
+PE-Report worden daartoe verschillende methoden beschreven. Daarbij
+gaat het met name om de &#x2018;tracing approach&#x2019; waarbij voor
+het bepalen van het rentepercentage zoveel mogelijk wordt aangesloten
+bij het rentepercentage van de externe lening die aangetrokken is om
+het specifieke actief te financieren en de &#x2018;fungibility
+approach&#x2019; waarbij de totale rentelast van de generale
+onderneming naar rato wordt toegerekend aan de vaste inrichting en het
+historisch verband met een lening niet van belang is.</al>
+
+            <al>Hoewel in
+het PE-Report de verschillende methoden onder de AOA worden toegelaten
+heb ik een voorkeur voor de &#x2018;fungibility approach&#x2019;,
+waarbij evenals bij de allocatie van het vermogen op basis van de
+&#x2018;capital allocation approach&#x2019; ook een risicogewogen
+aandeel in de totale rentelasten van de onderneming wordt gealloceerd
+aan de vaste inrichting. De &#x2018;tracing approach&#x2019; houdt
+immers minder rekening met de specifieke omstandigheden van de vaste
+inrichting en zal daardoor mogelijk niet tot de toerekening van een
+arm's length rentelast aan de vaste inrichting
+leiden<noot id="n7e11190024" type="voet">
+                <noot.nr>7</noot.nr>
+                <noot.al>Met
+specifieke omstandigheden wordt hier bedoeld de functies, activa en
+risico's van de vaste inrichting.</noot.al>
+              </noot>. Onder de &#x2018;fungibility approach&#x2019; kan hier wel rekening
+mee gehouden worden indien een, op de functie-analyse gebaseerd, pro
+rata deel van de rentelasten van de gehele onderneming aan de vaste
+inrichting wordt toegerekend. De omvang van de rentelast zal naar
+verwachting bij een dergelijke methode de rentelast benaderen die een
+ongelieerde geldverstrekker in rekening zou brengen bij financiering
+van een soortgelijke ongelieerde onderneming. Uitgangspunt van de AOA
+is immers dat de aftrekbare rentelast van de vaste inrichting niet
+hoger zou mogen zijn dan een arm's length
+rentelast.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">2.2</nr>
+            <titel status="officieel">Toelichting
+Nederlandse
+voorkeursmethode</titel>
+          </kop>
+          <tekst status="goed">
+            <al>De
+allocatie van eigen en vreemd vermogen aan een vaste inrichting
+verdient een nadere toelichting. Uitgangspunt van de AOA is dat de
+vaste inrichting dezelfde kredietwaardigheid heeft als de generale
+onderneming. Gevolg daarvan is dat van een interne garantstelling geen
+sprake kan zijn en dat er een beperkte keuzevrijheid bestaat bij de
+allocatie van eigen en vreemd vermogen aan de vaste inrichting. Immers
+aan de vaste inrichting dient zoveel eigen en vreemd vermogen te worden
+toegerekend dat de vaste inrichting dezelfde kredietwaardigheid heeft
+als de generale onderneming.</al>
+            <al>Omdat de capital allocation
+approach in combinatie met de fungibility approach het meest aansluit
+bij het uitgangspunt van de gelijke kredietwaardigheid zal de
+belastingdienst bij haar beoordeling in beginsel voor de toerekening
+van eigen vermogen aan de vaste inrichting de &#x2018;capital
+allocation approach&#x2019; en voor toerekening van rentelasten de
+&#x2018;fungibility approach&#x2019; hanteren. Beide, op interne
+vergelijking gebaseerde, methoden rekenen immers op risicogewogen wijze
+vermogen respectievelijk rentelasten toe aan de vaste inrichting en
+sluiten derhalve logisch op elkaar aan.</al>
+            <al>Slechts wanneer de
+generale onderneming niet conform het arm&#x2019;s-lengthbeginsel is
+gefinancierd, met als gevolg daarvan te weinig eigen vermogen en te
+hoge rentelasten, zal de belastingdienst de interne vergelijking moeten
+loslaten. Dan zal de op externe vergelijking gebaseerde &#x2018;thin
+capitalisation approach&#x2019; gehanteerd worden. In dat geval zullen,
+om toch een arm&#x2019;s length winst van de vaste inrichting te kunnen
+bepalen, de omvang van het eigen vermogen en de omvang van de
+rentelasten van de vaste inrichting worden vergeleken met ongelieerde
+ondernemingen, die vergelijkbaar zijn met de vaste
+inrichting.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">2.3</nr>
+            <titel status="officieel">Dubbele
+belastingheffing als gevolg van het gebruik van een verschillende
+methode</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Omdat in het
+PE-Report niet gekozen wordt voor de ene of de andere methode is het
+risico aanwezig dat indien verschillende landen de allocatie van eigen
+vermogen en de rentelasten verschillend benaderen er geen of dubbele
+belastingheffing ontstaat. Indien vanwege de toepassing van een
+verschillende benadering met betrekking tot de allocatie van
+rentelasten door de verschillende belastingautoriteiten,
+belastingplichtige wordt geconfronteerd met dubbele belastingheffing,
+ben ik in dergelijke situaties bereid bij toepassing van een
+belastingverdrag in overleg te treden met de bevoegde autoriteit van
+het andere land en daarbij ernaar te streven om de ontstane dubbele
+belastingheffing te elimineren zoals omschreven is in het <extref status="actief" doc="1.0:v:BWBR0024542" compleet="nee">besluit van
+29 september 2008</extref>, nr. IFZ2008/248M.</al>
+            <al>In situaties waarin
+artikel 7 OMV Oud van toepassing is zal, overeenkomstig het commentaar
+in paragraaf 48 bij dat artikel, bij het gebruik van een verschillende
+benadering met betrekking tot de vermogensallocatie in de betreffende
+landen de benadering van het land van de vaste inrichting worden
+gevolgd
+indien:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de
+verschillende benadering in de landen het gevolg is van keuzen die zijn
+verankerd in de wet- of
+regelgeving;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de keuze in het land van
+de vaste inrichting een door de OESO geautoriseerde keuze
+is;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>in de betreffende specifieke
+casus deze benadering een resultaat tot gevolg heeft dat als
+arm&#x2019;s length beschouwd kan worden.</al>
+              </li>
+            </lijst>
+            <al>Indien
+vanwege de toepassing van een verschillende benadering met betrekking
+tot de vermogensallocatie door de verschillende belastingautoriteiten
+er over een deel van de winst geen belasting wordt geheven ben ik van
+mening dat deze onevenwichtigheid zoveel mogelijk dient te worden
+voorkomen of
+opgeheven.</al>
+          </tekst>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Het
+begrip &#x2018;significant people functions&#x2019; versus
+&#x2018;control&#x2019;</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Het
+is van belang dat de uitgangspunten die worden gehanteerd bij de
+risicoallocatie bij transacties tussen gelieerde vennootschappen zo
+veel mogelijk overeenkomen met de risicoallocatie zoals die bij de
+winstbepaling van een vaste inrichting wordt gehanteerd. In dat kader
+zijn de begrippen &#x2018;significant people functions&#x2019; en
+&#x2018;control&#x2019; van belang.</al>
+          <al>In het PE-Report is in het
+kader van de analoge toepassing van het arm&#x2019;s-lengthbeginsel
+voor de winstallocatie aan vaste inrichtingen het begrip
+&#x2018;significant people functions&#x2019; ge&#xEF;ntroduceerd. In
+het deel van het PE-Report dat handelt over de financi&#xEB;le
+instellingen wordt hiervoor de term &#x2018;key entrepreneurial
+risk-taking&#x2019; functies (KERT-functie) gebruikt.</al>
+          <al>De reden
+voor het gebruik van deze afwijkende terminologie is gelegen in het
+feit dat bij financi&#xEB;le instellingen er meer dan bij andere
+ondernemingen een overlap zal bestaan tussen de &#x2018;significant
+people functions&#x2019; die bepalend zijn voor de toerekening van het
+economisch eigendom van activa en de &#x2018;significant people
+functions&#x2019; bij het aangaan en beheren van risico&#x2019;s. Dit
+vindt zijn oorzaak in de nauwe relatie bij financi&#xEB;le instellingen
+tussen activa en risico&#x2019;s. Een KERT-functie bij een
+financi&#xEB;le instelling ziet doorgaans op een activiteit
+(&#x2018;significant people function&#x2019;) die zowel van belang is
+voor de toerekening van een activum, als voor de toerekening van een
+risico (bijvoorbeeld het verstrekken van een lening door een
+bank).</al>
+          <al>Mede gelet op het ontbreken van juridische contracten
+tussen hoofdhuis en vaste inrichting zijn bij de allocatie van activa
+en risico&#x2019;s aan de vaste inrichting de &#x2018;significant
+people functions&#x2019; bepalend. De &#x2018;significant people
+functions&#x2019; kunnen worden aangemerkt als die functies die
+betrekking hebben op het actief nemen van beslissingen over het aangaan
+en beheren van de risico&#x2019;s van de activiteiten binnen de
+onderneming. Volgens het PE-Report gaat het hier met name om de
+zogenaamde &#x2018;day to day&#x2019; activiteiten die bij de
+bedrijfsvoering van een onderneming een bepalende rol
+spelen.</al>
+          <al>In de Guidelines, waarin nadere uitwerking wordt
+gegeven aan het arm&#x2019;s-lengthbeginsel met betrekking tot
+transacties tussen gelieerde vennootschappen, wordt eveneens aandacht
+besteed aan risicoallocatie. Hoewel in de Guidelines de contractuele
+werkelijkheid het startpunt is van de functie-analyse, wordt ook
+aandacht besteed aan de wijze waarop risico&#x2019;s tussen partijen in
+zijn algemeenheid gealloceerd worden. In paragraaf 1.49 van de
+Guidelines (versie 2010) is te lezen: &#x2018;In arm&#x2019;s length
+transactions it generally makes sense for parties to be allocated a
+greater share of those risks over which they have relatively more
+control.&#x2019; Hieruit valt af te leiden dat het begrip
+&#x2018;control&#x2019; een zeer belangrijke rol speelt bij de
+risicoallocatie zoals die doorgaans tussen ongelieerde partijen wordt
+vormgegeven.</al>
+          <al>Het is de vraag wat nu precies de verhouding is
+tussen de &#x2018;significant people functions&#x2019; en de functies
+van mensen die &#x2018;control&#x2019; uitoefenen met betrekking tot
+bepaalde activiteiten. De activiteiten van de partijen die
+&#x2018;control&#x2019; uitoefenen zouden mogelijk een iets ander
+karakter kunnen hebben dan de activiteiten van de partijen die de
+&#x2018;significant people functions&#x2019; uitoefenen doordat ze
+functioneel mogelijk iets verder afstaan van de &#x2018;day to
+day&#x2019; activiteiten.</al>
+          <al>Omdat het uitgangspunt van het
+PE-Report was om de AOA met betrekking tot vaste inrichtingen zoveel
+als mogelijk te laten aansluiten bij het arm&#x2019;s-lengthbeginsel ga
+ik ervan uit dat, hoewel deze begrippen in de uitwerking mogelijk
+verschillend ge&#xEF;nterpreteerd zouden kunnen worden, er een grote
+overlap valt te onderkennen in de activiteiten van partijen die
+&#x2018;control&#x2019; hebben over de risico&#x2019;s (in de context
+van artikel 9 OMV) en de &#x2018;day to day&#x2019; activiteiten van de
+&#x2018;significant people functions&#x2019; (in de context van artikel
+7 OMV). Daarom dient ervan uit gegaan te worden dat de risicoallocatie
+aan de vaste inrichting in hoge mate vergelijkbaar is met de
+risicoallocatie zoals die bij een met de vaste inrichting vergelijkbare
+ongelieerde onderneming in soortgelijke omstandigheden zou hebben
+plaatsgevonden.</al>
+          <al>Ter illustratie van het voorafgaande kan het
+volgende worden opgemerkt. In het <extref status="actief" doc="1.0:v:BWBR0017130&amp;circulaire.divisie=3" compleet="nee">besluit van 21&#xA0;augustus 2004,
+nr. IFZ 2004/680M is in paragraaf 3</extref> een analyse gegeven van de rol van
+de principaal met betrekking tot de uitvoering van researchactiviteiten
+waarbij ter verduidelijking een aantal voorbeelden zijn gegeven. Ik ben
+van mening dat de conclusies niet principieel anders kunnen zijn in de
+situatie dat de betreffende activiteiten van de onderneming uit de
+aangehaalde voorbeelden door middel van een vaste inrichting worden
+uitgevoerd.</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Dealings</titel>
+        </kop>
+        <tekst status="goed">
+          <al>In
+deze paragraaf wordt mijn standpunt ten aanzien van een aantal
+specifieke dealings nader toegelicht.</al>
+          <al>Het betreft fictieve
+transacties met betrekking tot concerndiensten, het beschikbaar stellen
+van immateri&#xEB;le vaste activa en het aangaan van financi&#xEB;le
+transacties.</al>
+        </tekst>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">4.1</nr>
+            <titel status="officieel">Concerndiensten</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Op
+basis van het arm&#x2019;s-lengthbeginsel dienen concerndiensten op een
+wijze te worden beloond zoals dat onder vergelijkbare omstandigheden
+tussen ongelieerde ondernemingen zou zijn geschied. Het PE-Report sluit
+geheel aan bij deze benadering.</al>
+            <al>Artikel 7 OMV Oud, derde lid
+geeft regels voor bij de vaste inrichting in aftrek toegestane kosten.
+Volgens dit artikel behoren kosten van leiding en algemene
+beheerskosten tot de in aftrek toegelaten kosten, ongeacht waar deze
+uitgaven gedaan zijn. Het derde lid van artikel 7 OMV Oud moet in dit
+verband niet worden gelezen als een beperking van artikel 7 OMV Oud,
+tweede lid, maar als een verduidelijking die de toepassing van het
+arm&#x2019;s-lengthbeginsel niet in de weg staat.</al>
+
+            <al>Hoewel het
+derde lid van artikel 7 OMV Oud de arm&#x2019;s length benadering niet
+in de weg staat is in het commentaar van artikel 7 OMV Oud (paragrafen
+37 en 38) te lezen dat voor de daar genoemde diensten (inclusief
+strategisch management) de kosten toegerekend worden
+<nadruk type="vet">zonder</nadruk> een winstopslag in aanmerking te
+nemen<noot id="n8e11190124" type="voet">
+                <noot.nr>8</noot.nr>
+                <noot.al>Met
+het commentaar van artikel 7 OMV Oud wordt hier bedoeld het commentaar
+dat in 2008 is herzien.</noot.al>
+              </noot>. Dit is slechts anders indien de betreffende diensten ook meer dan
+incidenteel aan niet-gelieerde partijen worden verleend of indien de
+betreffende diensten de belangrijkste activiteit van de onderneming
+vormen (paragrafen 35 en 36). Het is mijn visie dat in geval van
+interne dienstverlening, evenals bij toepassing van artikel 9 OMV, in
+beginsel een winstopslag in aanmerking dient te worden
+genomen.</al>
+            <al>Ik zal mij bij de toepassing van verdragen die niet
+zijn gebaseerd op artikel 7 OMV Nieuw soepel opstellen bij de
+interpretatie van artikel 7 OMV Oud. Dit betekent concreet dat met
+betrekking tot in het commentaar genoemde diensten toerekening van
+kosten aan een vaste inrichting zowel op basis van alle relevante
+werkelijke kosten zonder winstopslag als tegen een prijs gebaseerd op
+het arm&#x2019;s- lengthbeginsel in principe als passend zal worden
+aangemerkt.</al>
+            <al>Met de introductie van artikel 7 OMV Nieuw kan er
+geen twijfel meer bestaan over de toepassing van het
+arm&#x2019;s-lengthbeginsel bij fictieve
+concerndiensten.</al>
+            <al>Overigens is het beleid, zoals geformuleerd in
+het <extref status="actief" doc="1.0:v:BWBR0017130" compleet="nee">besluit van 21 augustus 2004</extref>, nr. IFZ2004/680M, dat toestaat om
+zonder winstopslag alle relevante werkelijke kosten met betrekking tot
+bepaalde ondersteunende diensten in rekening te brengen,
+vanzelfsprekend ook op deze fictieve transacties van toepassing.
+Hierbij wordt geen onderscheid gemaakt voor situaties waarbij artikel 7
+OMV Oud of artikel 7 OMV Nieuw van toepassing
+is.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">4.2</nr>
+            <titel status="officieel">Immateri&#xEB;le
+vaste activa</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Paragraaf 34
+van het commentaar van artikel 7 OMV Oud is in het verleden vaak
+uitgelegd als een verbod op het berekenen van interne fictieve
+royaltyfees tussen het hoofdhuis en de vaste inrichting. In de
+paragraaf wordt de complexiteit geschetst van het toerekenen van
+immateri&#xEB;le vaste activa aan een deel van een onderneming. Op
+basis van deze constatering wordt daarom in het commentaar de suggestie
+gedaan om de kosten (zonder winstopslag) tussen hoofdhuis en vaste
+inrichting te verdelen.</al>
+            <al>Indien aannemelijk gemaakt wordt dat de
+kosten van de ontwikkeling van de immateri&#xEB;le vaste activa aan
+slechts &#xE9;&#xE9;n deel van de onderneming toe te rekenen zijn is er
+mijns inziens ruimte voor het in rekening brengen van een royalty. Er
+is bij artikel 7 OMV Oud geen sprake van een absoluut intern
+royalty-verbod.</al>
+            <al>Het is mijn uitgangspunt om zoveel mogelijk een
+systematiek te hanteren die leidt tot een uitkomst die gelijk is aan de
+uitkomst in gelijksoortige situaties bij ongelieerde ondernemingen.
+Voor zowel de allocatie van zelfontwikkelde als aangekochte
+immateri&#xEB;le vaste activa is doorslaggevend welk deel van de
+onderneming op basis van de &#x2018;significant people
+functions&#x2019; de actieve beslissingen neemt ten aanzien van het
+aangaan en het beheren van de risico&#x2019;s met betrekking tot de
+immateri&#xEB;le vaste activa.</al>
+            <al>Het louter verdelen van de
+kosten is daarom niet passend indien op basis van de feiten en
+omstandigheden een systematiek, die gebaseerd is op het
+arm&#x2019;s-lengthbeginsel, tot de mogelijkheden behoort en tot een
+andere uitkomst
+leidt.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">4.3</nr>
+            <titel status="officieel">Financi&#xEB;le
+transacties</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Volgens het
+commentaar bij artikel 7 OMV Oud (paragraaf 41 en 42) is er in zijn
+algemeenheid (met uitzondering van financi&#xEB;le instellingen zoals
+banken) sprake van een verbod op interne fictieve rente.</al>
+            <al>De
+toerekening van het eigen en vreemd vermogen aan de vaste inrichting is
+gebaseerd op de wens om een vermogensstructuur te realiseren die zoveel
+mogelijk is gebaseerd op het arm&#x2019;s-lengthbeginsel. De
+toerekening van het vermogen (eigen en vreemd) vindt plaats na de
+allocatie van de activa en risico&#x2019;s op basis van een
+functie-analyse. Het daaruit voortvloeiende toerekenbare vreemd
+vermogen en de daarbij behorende rentelast voor de vaste inrichting is
+mede bepalend voor de winstallocatie.</al>
+            <al>Hoewel er gelet op de
+wijze van de toerekening van eigen en vreemd vermogen aan de vaste
+inrichting zoals omschreven in het PE-Report weinig ruimte lijkt te
+zijn voor het in aanmerking nemen van interne rente, is het expliciete
+verbod op interne rente niet meer beschreven en speelt het in het
+commentaar bij artikel 7 OMV Nieuw geen rol meer.</al>
+            <al>De interne
+interest dealings kunnen volgens het PE-Report slechts voorkomen indien
+en voor zover er sprake is van treasury-activiteiten die als
+&#x2018;significant people functions&#x2019; kunnen worden aangemerkt
+en die op basis van de functie-analyse een arm&#x2019;s-lengthbeloning
+rechtvaardigen die gerelateerd is aan de betreffende geldstromen en
+risico&#x2019;s.</al>
+            <al>Volgens het PE-Report hebben deze interest
+dealings slechts consequenties voor het belonen van de treasury-functie
+en niet voor de toerekening van de hoeveelheid eigen en vreemd vermogen
+gelet op het feit dat deze allocatie plaatsvindt op basis van
+&#xE9;&#xE9;n van de in het PE-Report beschreven methoden.</al>
+
+            <al>Een
+situatie waarbij de vaste inrichting meer vreemd vermogen krijgt
+toebedeeld dan daadwerkelijk door de onderneming van externe partijen
+(gelieerd of ongelieerd) is geleend past niet in de door mij
+voorgestane benadering. Daarin dient immers in beginsel enerzijds op
+basis van de capital allocation approach een aandeel in eerst het eigen
+en vervolgens het vreemd vermogen van de onderneming gealloceerd te
+worden aan de vaste inrichting en anderzijds de vaste inrichting
+dezelfde kredietwaardigheid te hebben als de generale onderneming. Het
+bestaan van een treasury-functie kan niet leiden tot het alloceren van
+een rentelast met betrekking tot een lening die niet van externe
+partijen (gelieerd of ongelieerd) afkomstig
+is<noot id="n9e11190164" type="voet">
+                <noot.nr>9</noot.nr>
+                <noot.al>Zie
+hiervoor tevens paragraaf 157 en 158, Part I van het PE Report (versie
+2010).</noot.al>
+              </noot>. Deze uitgangspunten gelden voor zowel financi&#xEB;le als niet
+financi&#xEB;le instellingen.</al>
+            <al>Het bestaan van een
+treasury-functie leidt niet automatisch tot interestdealings.
+Afhankelijk van de specifieke feiten en omstandigheden zoals
+geconstateerd bij de functie-analyse kan de beloning voor de
+treasury-afdeling namelijk ook vormgegeven worden door middel van een
+fictieve doorbelasting van kosten met een daarbij passende
+winstopslag.</al>
+            <al>Nu in het PE-Report het belang van de
+zelfstandigheidfictie wordt benadrukt kan er discussie ontstaan over de
+vraag of er afhankelijk van de specifieke feiten en omstandigheden
+mogelijk een rentelast of rentebate op een interne schuld of vordering
+als gevolg van goederenleveranties en/of diensten in aanmerking genomen
+kan worden. Gelet op de in het PE-Report gekozen benadering om het
+eigen en vreemd vermogen te alloceren op basis van &#xE9;&#xE9;n van de
+beschreven methoden ligt het niet voor de hand om naast de berekening
+van de rentelast op basis van &#xE9;&#xE9;n van deze methoden een
+rentelast of rentebate met betrekking tot schuldig gebleven bedragen
+als gevolg van interne leveringen of diensten in aanmerking te nemen.
+De rentelasten of rentebaten die in ongelieerde verhoudingen het gevolg
+zijn van dergelijke transacties maken bij de winstallocatie van een
+vaste inrichting impliciet deel uit van de rentelasten of rentebaten
+die zijn berekend op basis van de gehanteerde methode voor
+vermogensallocatie.</al>
+          </tekst>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Specifieke
+onderwerpen</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">5.1</nr>
+            <titel status="officieel">Materi&#xEB;le
+vaste activa</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Het is niet
+mogelijk om activa toe te rekenen aan de vaste inrichting op grond van
+het juridisch eigendom. Daarom zoekt het PE-Report in paragraaf 72 t/m
+74, Part I (versie 2010) de analogie met het begrip economisch
+eigendom. Doorslaggevend hierbij zijn de &#x2018;significant people
+functions&#x2019; zoals die blijken uit de functie-analyse. In de
+praktijk ontstond bij de toerekening van materi&#xEB;le vaste activa
+soms discussie over de vraag of de &#x2018;significant people
+functions&#x2019; dan wel de &#x2018;place of use&#x2019;
+doorslaggevend moest zijn voor het economisch eigendom. Met ingang van
+2008 wordt in het OESO-commentaar (door de verwijzing naar de secties
+D-2 en D-3 van Part I van het PE-Report) gekozen voor de toerekening
+van de materi&#xEB;le vaste activa aan de vaste inrichting indien deze
+daar worden gebruikt, tenzij bijzondere omstandigheden een andere
+benadering rechtvaardigen.</al>
+            <al>In Nederland maakt de Hoge Raad
+sinds jaar en dag onderscheid tussen duurzame en tijdelijke
+terbeschikkingstelling aan de vaste inrichting. Bij duurzame
+terbeschikkingstelling aan de vaste inrichting wordt de vaste
+inrichting als economisch eigenaar van de materi&#xEB;le vaste activa
+beschouwd. Is er slechts sprake van een tijdelijke
+terbeschikkingstelling, dan dient de vaste inrichting als huurder van
+het activum beschouwd te worden, en het hoofdhuis als verhuurder (zie
+BNB 1986/100). Deze zienswijze is bevestigd in de toelichting bij
+<extref status="actief" doc="1.0:v:BWBR0012095&amp;artikel=9" compleet="nee">artikel 9 van het Bvdb</extref>. De tijdelijke terbeschikkingstelling merk ik
+aan als een bijzondere omstandigheid die een andere benadering
+rechtvaardigt dan de benadering (&#x2018;place of use&#x2019;) zoals
+die in het OESO-commentaar is
+omschreven.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">5.2</nr>
+            <titel status="officieel">Financi&#xEB;le
+activa</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Voor
+financi&#xEB;le activa (zoals liquide middelen en vorderingen) geldt
+dat de economische eigendom aan de vaste inrichting wordt gealloceerd
+indien de &#x2018;significant people functions&#x2019; met betrekking
+tot het aangaan en beheren van de risico&#x2019;s ten aanzien van deze
+activa door de vaste inrichting worden uitgeoefend. Een uitzondering op
+deze allocatieregel kan gelden voor financi&#xEB;le activa die worden
+aangehouden met een specifieke bestemming zoals een geplande overname
+of een geplande dividenduitkering. In dat geval dienen deze activa niet
+te worden toegerekend aan de vaste inrichting als daar de beslissing
+niet is genomen om deze middelen hiervoor aan te
+wenden.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">5.3</nr>
+            <titel status="officieel">De
+agent als vaste
+vertegenwoordiger</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Het
+PE-Report (zie D5 van Part I) beschrijft op welke wijze winst dient te
+worden toegerekend aan een specifieke vaste inrichting: de vaste
+inrichting van de buitenlandse opdrachtgever die het gevolg is van het
+aanmerken van een afhankelijke, al dan niet gelieerde, agent als vaste
+vertegenwoordiger. Feitelijk ontstaan er in die situatie twee
+belastingplichtigen: de onderneming van de afhankelijke agent (de
+dependent agent) en de vaste inrichting van de buitenlandse
+opdrachtgever (de dependent agent PE). Met nadruk geldt de beschreven
+methodiek niet om te bepalen of er sprake is van een vaste
+vertegenwoordiger. Voor wat betreft de allocatie van winst gelden
+volgens het PE-Report bij de &#x2018;dependent agent PE&#x2019;
+dezelfde regels als bij een gewone vaste inrichting.</al>
+            <al>Ik ben van
+mening dat gelet op het uitgangspunt dat de agent in de uitoefening van
+zijn eigen onderneming at arm&#x2019;s length beloond dient te worden,
+er normaliter geen aanleiding is om daarnaast winst toe te rekenen aan
+een eventueel te constateren vaste inrichting van de buitenlandse
+opdrachtgever.</al>
+            <al>Indien de buitenlandse opdrachtgever met haar
+eigen personeel &#x2018;significant people functions&#x2019; uitoefent
+door middel van een vaste inrichting dient daar winst aan toegerekend
+te
+worden.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">5.4</nr>
+            <titel status="officieel">Zekerheid
+vooraf</titel>
+          </kop>
+          <tekst status="goed">
+            <al>In de eerste stap
+van de AOA worden op basis van de functie-analyse de activa en de
+risico&#x2019;s gealloceerd. In de tweede stap worden de kosten en
+opbrengsten gealloceerd aan de vaste inrichting op basis van de
+functies, de activa, de risico&#x2019;s, het vermogen en de dealings
+zoals die in de eerste stap zijn geanalyseerd.</al>
+            <al>Een verzoek ter
+verkrijging van zekerheid vooraf met betrekking tot de winstallocatie
+aan een vaste inrichting dient te worden gericht aan de competente
+inspecteur. In de gevallen waar het betreft de keuzes die worden
+gemaakt in de tweede stap legt de inspecteur het verzoek voor aan het
+APA-/ATR-team van de Belastingdienst/Rijnmond voor een bindend advies.
+Het APA-/ATR-team van de Belastingdienst/ Rijnmond stemt de mogelijke
+beleidsmatige aspecten die samenhangen met het verzoek en die nog niet
+eerder als beleid zijn gepubliceerd af met de Co&#xF6;rdinatiegroep
+Verrekenprijzen teneinde de eenheid van beleid en uitvoering te
+waarborgen. Daarbij is het <extref status="actief" doc="1.0:v:BWBR0017094" compleet="nee">besluit van 11 augustus 2004</extref> nr. IFZ
+2004/124 M onverkort van toepassing.</al>
+            <al>In de gevallen waar het
+slechts een verzoek tot goedkeuring betreft van de keuzen die worden
+gemaakt in stap 1 stemt de competente inspecteur het verzoek af met de
+Co&#xF6;rdinatiegroep Verrekenprijzen teneinde de eenheid van beleid en
+uitvoering te waarborgen. Mocht belastingplichtige zekerheid willen
+hebben ten aanzien van zowel de allocatie van activa en de
+risico&#x2019;s als een arm&#x2019;s length toerekening van kosten en
+opbrengsten aan de vaste inrichting, dan kan hij verzoeken om een
+Advance Pricing Agreement.</al>
+            <al>Indien het gaat om het verkrijgen
+van zekerheid vooraf over de toerekening van aandelen aan een vaste
+inrichting in Nederland behandelt de Belastingdienst deze op basis van
+het <extref status="actief" doc="1.0:v:BWBR0017098" compleet="nee">besluit van 11 augustus 2004</extref>, IFZ2004/125M. Dit betekent onder
+andere dat de competente inspecteur deze verzoeken om zekerheid vooraf
+voor een bindend advies voorlegt aan het APA-/ATR-team van de
+Belastingdienst/Rijnmond. De beoordeling van dergelijke verzoeken vindt
+plaats aan de hand van het gelijktijdig uitgebrachte <extref status="actief" doc="1.0:v:BWBR0029487" compleet="nee">besluit van 15
+januari 2011</extref>,
+DGB2010/8223M.</al>
+          </tekst>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Inwerkingtreding</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Dit
+besluit treedt in werking met ingang van de dag na de datum van
+uitgifte van de Staatscourant waarin het wordt geplaatst.</al>
+          <al>Dit
+besluit zal in de Staatscourant worden
+geplaatst.</al>
+        </tekst>
+      </circulaire.divisie>
+    </circulaire-tekst>
+    <circulaire-sluiting status="goed">
+      <gegeven>
+        <dagtekening>
+          <plaats>Den Haag</plaats>
+          <datum isodatum="2011-01-15">15 januari
+2011</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>De
+<functie>Staatssecretaris</functie> van
+<organisatie afkorting="FIN">Financi&#xEB;n,</organisatie>
+        <naam>
+          <voornaam>F.H.H.</voornaam>
+          <achternaam>Weekers</achternaam>
+        </naam>
+      </ondertekening>
+    </circulaire-sluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label>
+      <titel status="officieel">bij het Besluit &#x2018;winstallocatie vaste inrichtingen&#x2019; IFZ
+2010 457
+M</titel></kop>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Voorbeeld
+met betrekking tot de uitwerking van de capital allocation
+methode</titel>
+        </kop>
+        <al>Dit voorbeeld is opgenomen ter illustratie van
+de capital allocation methode. Het doel van de gehanteerde methode is
+de allocatie van eigen en in het verlengde daarvan ook vreemd vermogen
+aan de vaste inrichting.</al>
+        <al>De generale onderneming kent de
+volgende
+balans:</al>
+        <plaatje><illustratie bin-id="248394" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/248394"/></plaatje>
+        <al>Er dienen in het kader van stap 1 van de AOA
+activa aan de vaste inrichting te worden toegerekend.</al>
+        <al>Stel dat
+op basis van de analyse van de significant people functions de
+toewijzing van de activa aan de vaste inrichting resulteert in activa
+voor een bedrag van 200. In dat geval dient er daarna financiering ter
+grootte van 200 te worden gealloceerd aan de vaste inrichting, en is
+het de vraag welk deel daarvan uit eigen vermogen en welk deel uit
+vreemd vermogen dient te bestaan ter bepaling van de arm&#x2019;s
+length rentelast van de vaste inrichting.</al>
+        <al>Bij de uitwerking van
+dit voorbeeld wordt onderscheid gemaakt tussen twee
+situaties.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Situatie
+1:</titel>
+        </kop>
+        <al>In dit voorbeeld wordt ervan uitgegaan dat de
+verrichte activiteiten, gebruikte activa en gelopen risico&#x2019;s van
+de vaste inrichting volledig vergelijkbaar zijn met die van de generale
+onderneming. Toepassing van de capital allocation methode zou er dan
+toe kunnen leiden dat er naar rato van de waarde van de activa eigen
+vermogen toegerekend moet worden aan de vaste inrichting (in dit geval
+200/400 * 150 = 75). Het toe te rekenen vreemd vermogen bedraagt in dat
+geval 125 (200 &#x2013; 75).</al>
+        <al>De balans van de vaste inrichting
+ziet er dan als volgt
+uit.</al>
+        <plaatje><illustratie bin-id="248395" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/248395"/></plaatje>
+        <al>De rentelast zal berekend worden naar rato van het
+toegerekende vreemd vermogen van 125. Aangezien de verrichte
+activiteiten en gebruikte activa van de vaste inrichting hetzelfde
+risicoprofiel hebben als die van de generale onderneming, ligt het voor
+de hand dat bij toepassing van de fungibility methode dan ook circa 50%
+van de rentelasten van de onderneming dient te worden toegerekend aan
+de vaste inrichting. In dat geval mag worden aangenomen dat de vaste
+inrichting dezelfde kredietwaardigheid heeft als de generale
+onderneming.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Situatie
+2:</titel>
+        </kop>
+        <al>In dit voorbeeld wordt ervan uitgegaan
+dat de verrichte activiteiten en gebruikte activa van de vaste
+inrichting een lager risicoprofiel hebben dan die van de generale
+onderneming. Stel dat toepassing van de capital allocation methode tot
+de conclusie leidt dat 1/3 deel van het eigen vermogen van de
+onderneming aan de vaste inrichting dient te worden toegerekend dan
+dient aan de vaste inrichting een eigen vermogen te worden toegerekend
+van 50 (1/3 * 150).</al>
+        <al>Het toe te rekenen deel van het vreemd
+vermogen wordt hierdoor 150 (200 &#x2013; 50).</al>
+        <al>De balans van de
+vaste inrichting ziet er dan als volgt
+uit.</al>
+        <plaatje><illustratie bin-id="248396" display="block" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/248396"/></plaatje>
+        <al>De rentelast zal berekend worden naar rato van
+het toegerekende vreemd vermogen van 150.</al>
+        <al>Omdat de vaste
+inrichting een lager risicoprofiel heeft dan de generale onderneming
+dient er relatief weinig eigen vermogen te worden toegerekend aan de
+vaste inrichting in situatie 2 en daarmee ook minder dan in situatie 1.
+Keerzijde daarvan is dat er relatief veel vreemd vermogen aan de vaste
+inrichting dient te worden toegerekend, waardoor in principe aan de
+vaste inrichting relatief veel rente wordt gealloceerd. Het
+uitgangspunt in aanmerking nemende dat de vaste inrichting dezelfde
+kredietwaardigheid heeft als de generale onderneming lijkt dit een
+logische uitkomst omdat verwacht mag worden dat de aan de vaste
+inrichting toe te rekenen operationele winst, als gevolg van het lage
+risicoprofiel, een relatief stabiel verloop zal kennen en daarmee een
+relatief zekere dekking zal bieden voor de rentelasten.</al>
+        <al>Een aantal opmerkingen kan hierbij gemaakt
+worden:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>Voor
+de bepaling van de waarde van de activa bij de vaststelling van het
+relatieve belang van de actiefzijde van de vaste inrichting in relatie
+tot de balans van de generale onderneming zal in principe uitgegaan
+moeten worden van de waarde van de activa in het economisch
+verkeer.</al>
+          </li>
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>De bepaling van de
+relatieve waarde van de activa dient in beginsel jaarlijks te worden
+toegepast.</al>
+          </li>
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>Gelet op de
+complexiteit van de bepaling van de jaarlijkse relatieve waarde van de
+activa en het besef dat het hier niet om een exacte wetenschap gaat zal
+de Belastingdienst bij de beoordeling een zekere flexibiliteit in acht
+nemen.</al>
+          </li>
+        </lijst>
+      </divisie>
+    </bijlage>
+  </circulaire>
+</wetgeving>
+  	

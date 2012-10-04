@@ -1,0 +1,669 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0025297" dtdversie="2.0" id="411449" soort="zbo">
+  
+  <intitule>Reglement behandeling bezwaarschriften UWV 2009</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>Het Uitvoeringsinstituut werknemersverzekeringen,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op de <extref status="actief" doc="1.0:v:BWBR0005537&amp;hoofdstuk=6" compleet="nee">hoofdstukken 6</extref> en <extref status="actief" doc="1.0:v:BWBR0005537&amp;hoofdstuk=7" compleet="nee">7 van de Algemene wet bestuursrecht</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">definities</titel>
+        </kop>
+        <al>In dit reglement wordt verstaan onder:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a)</li.nr>
+            <al>
+              <nadruk type="cur">de wet:</nadruk> de <extref status="actief" doc="1.0:v:BWBR0005537" compleet="nee">Algemene wet bestuursrecht</extref>;</al>
+          </li>
+          <li>
+            <li.nr>b)</li.nr>
+            <al>
+              <nadruk type="cur">UWV:</nadruk> het Uitvoeringsinstituut werknemersverzekeringen, genoemd in <extref status="actief" doc="1.0:v:BWBR0013060&amp;hoofdstuk=5" compleet="nee">hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen</extref>;</al>
+          </li>
+          <li>
+            <li.nr>c)</li.nr>
+            <al>
+              <nadruk type="cur">beschikking:</nadruk> een beschikking als bedoeld in <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=1%3A3" compleet="nee">artikel 1:3, tweede lid, van de wet</extref>;</al>
+          </li>
+          <li>
+            <li.nr>d)</li.nr>
+            <al>
+              <nadruk type="cur">bijzondere gegevens:</nadruk> dit zijn medische gegevens, strafrechtelijke gegevens of gegevens betreffende iemands godsdienst of levensovertuiging, ras, politieke gezindheid of seksuele leven;</al>
+          </li>
+          <li>
+            <li.nr>e)</li.nr>
+            <al>
+              <nadruk type="cur">bijzondere beschikking:</nadruk> een beschikking waaraan een beoordeling van bijzondere gegevens ten grondslag ligt;</al>
+          </li>
+          <li>
+            <li.nr>f)</li.nr>
+            <al>
+              <nadruk type="cur">medische beschikking:</nadruk> een bijzondere beschikking waaraan een beoordeling van medische gegevens ten grondslag ligt;</al>
+          </li>
+          <li>
+            <li.nr>g)</li.nr>
+            <al>
+              <nadruk type="cur">bezwaarschrift:</nadruk> een bezwaarschrift als bedoeld in <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=6%3A4" compleet="nee">artikel 6:4 van de wet</extref>;</al>
+          </li>
+          <li>
+            <li.nr>h)</li.nr>
+            <al>
+              <nadruk type="cur">belanghebbende:</nadruk> een belanghebbende als bedoeld in <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=1%3A2" compleet="nee">artikel 1:2 van de wet</extref>;</al>
+          </li>
+          <li>
+            <li.nr>i)</li.nr>
+            <al>
+              <nadruk type="cur">werknemer:</nadruk> de belanghebbende op wiens gegevens de beoordeling betrekking heeft;</al>
+          </li>
+          <li>
+            <li.nr>j)</li.nr>
+            <al>
+              <nadruk type="cur">werkgever:</nadruk> de belanghebbende bij een bijzondere beschikking, niet zijnde de werknemer</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">ontvangstbevestiging</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Op het bezwaarschrift wordt de datum van ontvangst aangetekend.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>UWV bevestigt de ontvangst van het bezwaarschrift schriftelijk binnen vijf werkdagen na ontvangst.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>UWV brengt daarnaast andere belanghebbenden binnen vijf werkdagen na ontvangst van het bezwaarschrift schriftelijk op de hoogte van het ingediende bezwaar.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">vertegenwoordiging</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Als het bezwaarschrift is ingediend (mede) namens een natuurlijke of rechtspersoon, kan een schriftelijke machtiging worden verlangd.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Als UWV een schriftelijke machtiging verlangt, stelt het de indiener in de gelegenheid binnen twee weken een machtiging te overleggen. Eerst na ontvangst van de machtiging wordt het bezwaarschrift verder in behandeling genomen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Als een gevraagde machtiging niet op tijd is verstrekt, wordt degene namens wie het bezwaarschrift is ingediend, schriftelijk verzocht binnen twee weken de bedoelde machtiging over te leggen dan wel te verklaren dat hij zelf het bezwaar heeft ingediend, op straffe van niet-ontvankelijkheid van het bezwaar.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Als het bezwaarschrift is ingediend tegen een medische beschikking kan UWV verlangen dat binnen 10 dagen een machtiging wordt overgelegd waaruit blijkt dat de gemachtigde van de werkgever namens de werkgever kennis mag nemen van de medische gegevens, omdat hij arts of advocaat is, dan wel van UWV bijzondere toestemming kan krijgen om kennis te nemen van stukken die medische gegevens bevatten met betrekking tot de werknemer, dan wel, de arbodienst van de werkgever die eigenrisicodrager is voor de <extref status="actief" doc="1.0:v:BWBR0001888" compleet="nee">Ziektewet</extref> en het bezwaar betrekking heeft op een medische beschikking op grond van de <extref status="actief" doc="1.0:v:BWBR0001888" compleet="nee">Ziektewet</extref>.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">vormverzuimen</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Als niet is voldaan aan <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=6%3A5" compleet="nee">artikel 6:5 van de wet</extref> of aan enig ander wettelijk vereiste voor het in behandeling nemen van het bezwaar of beroep, wordt de indiener in de gelegenheid gesteld dit verzuim binnen vier weken te herstellen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De in het eerste lid genoemde termijn van vier weken kan op verzoek worden verlengd met &#xE9;&#xE9;n week, en in bijzondere gevallen met vier weken.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Bij overschrijding van de in het eerste lid genoemde termijn, dan wel de in het tweede lid genoemde verlengde termijn, kan het bezwaar niet-ontvankelijk worden verklaard.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">vormverzuimen bij medische beschikkingen</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>In afwijking van het bepaalde in <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=6%3A5" compleet="nee">artikel 6:5 van de wet</extref> worden de gronden van bezwaar die betrekking hebben op medische gegevens, op een aparte bijlage vermeld.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Bij het niet nakomen van het bepaalde in het eerste lid, kan de indiener in de gelegenheid worden gesteld zijn verzuim binnen vier weken te herstellen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De in het tweede lid genoemde termijn van vier weken. kan op verzoek worden verlengd met &#xE9;&#xE9;n week, en in bijzondere gevallen met vier weken.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Bij overschrijding van de in het tweede lid genoemde termijn, dan wel de in het derde lid genoemde verlengde termijn kan het bezwaar niet-ontvankelijk worden verklaard.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">aanvullende gronden van bezwaar</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Als de indiener verzoekt om uitstel voor aanvulling van de gronden van het bezwaar, krijgt hij hiertoe vier weken de gelegenheid.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De in het eerste lid genoemde termijn van vier weken kan op verzoek worden verlengd met &#xE9;&#xE9;n week, en in bijzondere gevallen met vier weken.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Bij overschrijding van de in het eerste lid genoemde termijn, dan wel de in het tweede lid genoemde verlengde termijn, kan UWV de beslissing baseren op het op dat moment voorliggende bezwaar.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">prematuur bezwaar</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Als <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=6%3A10" compleet="nee">artikel 6:10 van de wet</extref> van toepassing is, stelt UWV de indiener in de gelegenheid de gronden van zijn bezwaar aan te vullen binnen vier weken na de dag van verzending van de beschikking waartegen het bezwaar is gericht.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De in het eerste lid genoemde termijn van vier weken kan op verzoek worden verlengd met &#xE9;&#xE9;n week, en in bijzondere gevallen met vier weken.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Bij overschrijding van de in het eerste lid genoemde termijn, dan wel de in het tweede lid genoemde verlengde termijn, kan UWV de beslissing baseren op het op dat moment voorliggende bezwaar.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">termijnoverschrijding</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>UWV stelt de indiener van een bezwaarschrift dat is ingediend na afloop van de wettelijke termijn, in de gelegenheid zijn zienswijze over het verzuim binnen vier weken naar voren te brengen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De in het eerste lid genoemde termijn van vier weken kan op verzoek worden verlengd met &#xE9;&#xE9;n week, en in bijzondere gevallen met vier weken.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Als op basis van de tijdig naar voren gebrachte zienswijze redelijkerwijs kan worden geoordeeld dat de indiener van het bezwaarschrift in verzuim is geweest, of bij overschrijding van de in het eerste lid genoemde termijn, dan wel de in het tweede lid genoemde verlengde termijn, kan het bezwaar niet-ontvankelijk worden verklaard.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">9</nr>
+          <titel status="officieel">betrokkenheid andere belanghebbenden dan de indiener</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>UWV stuurt het bezwaarschrift, met inachtneming van <intref status="actief" doc="1.0:v:BWBR0025297&amp;artikel=14">artikel 14</intref>, aan andere belanghebbenden met de vraag of deze bij de verdere voortgang van de procedure betrokken willen worden.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De beslissing op bezwaar wordt toegezonden aan alle belanghebbenden, ook aan degene die niet betrokken wil worden bij de procedure.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De werknemer wordt in beginsel ongevraagd bij de verdere voortgang van de procedure betrokken.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">10</nr>
+          <titel status="officieel">inschakeling van bezwaar-verzekeringsarts en/of -arbeidsdeskundige</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Beoordeling van de medische aspecten van het bezwaar vindt plaats door een bezwaar-verzekeringsarts die niet bij de voorbereiding van de bestreden beschikking betrokken is.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De bezwaar-verzekeringsarts geeft &#x2013; zo nodig na een eigen onderzoek of consultatie van een hiertoe ingeschakelde deskundige &#x2013; een oordeel over het medische aspect van het bezwaar.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Als in het bezwaarschrift arbeidskundige gronden zijn aangevoerd, beoordeelt een bezwaar-arbeidsdeskundige, die niet bij de voorbereiding van de bestreden beschikking betrokken is &#x2013; de arbeidskundige aspecten.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>De bezwaar-arbeidsdeskundige geeft &#x2013; zo nodig na een eigen onderzoek of consultatie van een hiertoe ingeschakelde deskundige &#x2013; een oordeel over het arbeidskundige aspect van het bezwaar.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>UWV betrekt het oordeel van de bezwaar verzekeringsarts en/of -arbeidsdeskundige bij de beslissing op bezwaar.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">11</nr>
+          <titel status="officieel">mediation</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>UWV beoordeelt of een geschil zich leent voor mediation.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Als een tijdens de bezwaarschiftprocedure ingezette mediation niet slaagt, wordt de behandeling van het bezwaarschrift voortgezet door een medewerker die niet betrokken was bij de mediation.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Gegevens die tijdens de mediation zijn uitgewisseld tussen UWV en belanghebbende, mogen bij de voortzetting van de bezwaarschriftprocedure alleen worden gebruikt als belanghebbende hiermee heeft ingestemd.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">12</nr>
+          <titel status="officieel">beslissingsautoriteit</titel>
+        </kop>
+        <al>Als de bestreden beschikking is genomen door een beslissingsautoriteit als bedoeld in <extref status="actief" doc="1.0:v:BWBR0013060&amp;artikel=30c" compleet="nee">artikel 30c, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen</extref>, wordt het bezwaarschrift niet behandeld door die beslissingsautoriteit.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">13</nr>
+          <titel status="officieel">de hoorzitting</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Als een belanghebbende heeft aangegeven gehoord te willen worden, of als UWV belang heeft bij het horen van de belanghebbende, stelt UWV in overleg met de belanghebbende datum en tijd vast waarop de hoorzitting plaatsvindt.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De afgesproken datum en tijd worden schriftelijk bevestigd.Als belanghebbende telefonisch onbereikbaar is, wordt de hoorzitting door UWV eenzijdig gepland en wordt belanghebbende schriftelijk uitgenodigd.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Als de belanghebbende of een gemachtigde, niet zijnde een professioneel rechtshulpverlener, verzoekt om een geplande hoorzitting uit te stellen, neemt UWV daarover telefonisch contact op en stelt UWV, zo nodig, in overleg een nieuwe datum en tijd vast voor de hoorzitting.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Als een professioneel rechtshulpverlener verzoekt om een geplande hoorzitting uit te stellen, honoreert UWV dit verzoek als volgens UWV sprake is van een valide reden voor het uitstel.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>UWV kan van een gemachtigde verlangen dat hij bij het begin van de zitting een schriftelijke machtiging overlegt, tenzij de belanghebbende zelf met hem verschijnt of de gemachtigde advocaat, procureur, of een andere algemeen erkende rechtshulpverlener is.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">6</lidnr>
+          <al>Het horen van belanghebbenden geschiedt met inachtneming van het bepaalde in <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=7%3A5" compleet="nee">artikel 7:5 van de wet</extref> door een of meer medewerkers van UWV.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">7</lidnr>
+          <al>Als een van de in <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=7%3A3" compleet="nee">artikel 7:3 van de wet</extref> genoemde gevallen zich voordoet beslist UWV of van het horen van belanghebbenden wordt afgezien.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">14</nr>
+          <titel status="officieel">hoorzitting bij bezwaar tegen bijzondere beschikkingen</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>In aanvulling op <intref status="actief" doc="1.0:v:BWBR0025297&amp;artikel=13">artikel 13</intref> geldt bij bezwaar tegen bijzondere beschikkingen het bepaalde in dit artikel.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Als de werknemer geen toestemming heeft verleend als bedoeld in <intref status="actief" doc="1.0:v:BWBR0025297&amp;artikel=16">artikel 16</intref>, wordt de hoorzitting gesplitst in een deel waarin bijzondere gegevens van de werknemer worden behandeld en een deel waarin de overige aspecten van het bezwaar aan de orde worden gesteld.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De werkgever heeft geen toegang tot het deel van de hoorzitting waarin de bijzondere gegevens over zijn werknemer worden behandeld.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Het derde lid is bij medische beschikkingen niet van toepassing op de gemachtigde van de werkgever die arts of advocaat is dan wel van UWV bijzondere toestemming heeft gekregen om kennis te nemen van stukken die medische gegevens bevatten met betrekking tot de werknemer. In geval van medische beschikkingen op grond van de <extref status="actief" doc="1.0:v:BWBR0001888" compleet="nee">Ziektewet</extref> is het derde lid evenmin van toepassing op de arbodienst van de werkgever die eigenrisicodrager is voor de <extref status="actief" doc="1.0:v:BWBR0001888" compleet="nee">Ziektewet</extref>.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">15</nr>
+          <titel status="officieel">toezending en inzage</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Voorafgaand aan de hoorzitting kan UWV op verzoek alle op de zaak betrekking hebbende stukken kosteloos aan belanghebbenden sturen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Onverminderd het bepaalde in het eerste lid, liggen het bezwaarschrift en alle andere op de zaak betrekking hebbende stukken voorafgaand aan de hoorzitting een week ter inzage voor belanghebbenden op een door UWV te bepalen plaats en tijdstip.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Belanghebbenden worden op de terinzagelegging gewezen in de uitnodiging voor de hoorzitting, genoemd in <intref status="actief" doc="1.0:v:BWBR0025297&amp;artikel=13">artikel 13</intref>.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Belanghebbenden kunnen van de in het tweede lid bedoelde stukken, voor zo ver niet reeds toegezonden, kosteloos afschriften krijgen.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">16</nr>
+          <titel status="officieel">toezending en inzage bij bezwaren tegen bijzondere beschikkingen</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De werkgever heeft in afwijking van het bepaalde in <intref status="actief" doc="1.0:v:BWBR0025297&amp;artikel=15">artikel 15, eerste en tweede lid</intref>, slechts recht op inzage in dan wel kennisname of toezending van enig stuk dat bijzondere gegevens bevat, als de werknemer hiervoor schriftelijk toestemming heeft gegeven aan UWV.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>UWV verstrekt de werknemer hiertoe een machtigingsformulier.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De toestemming kan schriftelijk &#x2013; en tijdens de hoorzitting mondeling &#x2013; worden ingetrokken. Intrekking van eerder verleende toestemming werkt niet terug.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>De toestemming omvat:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>alle op de zaak betrekking hebbende bijzondere gegevens, met inbegrip van de gegevens die in de loop van de procedure worden ontvangen en/of opgemaakt;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de toegang van de werkgever tot het gedeelte van de hoorzitting als bedoeld in <intref status="actief" doc="1.0:v:BWBR0025297&amp;artikel=14">artikel 14, derde lid</intref>.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>Als UWV over bepaalde stukken &#x2013; gelet op de inhoud daarvan &#x2013; twijfelt of de toestemming mede deze stukken omvat, vraagt UWV of de toestemming ook deze stukken omvat.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">6</lidnr>
+          <al>In afwijking van het bepaalde in dit artikel, is de toestemming niet vereist voor inzage in en kennisname door of toezending van medische gegevens aan de gemachtigde van de werkgever als bedoeld in <intref status="actief" doc="1.0:v:BWBR0025297&amp;artikel=14">artikel 14, vierde lid</intref>.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">17</nr>
+          <titel status="officieel">openbaarheid van de hoorzitting</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De hoorzitting is niet openbaar.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Belanghebbenden kunnen onder opgaaf van redenen verzoeken anderen de hoorzitting geheel of gedeeltelijk te laten bijwonen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>UWV beslist op dit verzoek.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">18</nr>
+          <titel status="officieel">tolken</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Bij de hoorzitting kan op verzoek van belanghebbenden of op aanwijzing van UWV gebruik worden gemaakt van de diensten van een tolk.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>UWV beslist op een verzoek om gebruik te mogen maken van een tolk.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>UWV zorgt voor de beschikbaarheid en vergoeding van de tolk.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">19</nr>
+          <titel status="officieel">intrekking van het bezwaar</titel>
+        </kop>
+        <al>Als de indiener zijn bezwaar intrekt, wordt dit schriftelijk bevestigd en aan andere belanghebbenden meegedeeld.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">20</nr>
+          <titel status="officieel">verslag van de hoorzitting</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Het verslag van de hoorzitting wordt op verzoek kosteloos aan belanghebbenden toegezonden. Toezending geschiedt in beginsel gelijktijdig met de beslissing op bezwaar.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Het verslag vermeldt de namen van de aanwezigen en hun hoedanigheid. Het houdt een korte vermelding in van al hetgeen over en weer is gezegd en van al hetgeen voor het overige ter zitting is voorgevallen, voor zover dit voor de zaak relevant is.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Het verslag verwijst naar de stukken die ter zitting zijn overgelegd.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Het verslag wordt ondertekend door de voorzitter van de hoorzitting.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>Als artikel 14 toepassing heeft gevonden en de hoorzitting is gesplitst, wordt het verslag gesplitst in een verslag van het deel waarin de bijzondere aspecten zijn behandeld en een verslag waarin de overige aspecten van het bezwaar zijn behandeld. <intref status="actief" doc="1.0:v:BWBR0025297&amp;artikel=16">Artikel 16</intref> van dit reglement is dan van overeenkomstige toepassing.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">21</nr>
+          <titel status="officieel">nader onderzoek/nieuwe hoorzitting</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Als na afloop van de hoorzitting blijkt dat een nader onderzoek wenselijk is, worden de resultaten van dat onderzoek in afschrift aan belanghebbenden toegezonden als de uitkomst van dit onderzoek van aanmerkelijk belang is voor de beslissing op bezwaar. <intref status="actief" doc="1.0:v:BWBR0025297&amp;artikel=16">Artikel 16</intref> van dit reglement is van overeenkomstige toepassing.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Indien</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>na de hoorzitting, of nadat door belanghebbende is afgezien van een hoorzitting, feiten of omstandigheden bekend geworden zijn die van aanmerkelijk belang kunnen zijn voor de beslissing op bezwaar, of</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>een vooraankondiging van de beslissing op bezwaar aan belanghebbende is gezonden en belanghebbende daartegen bezwaren kenbaar heeft gemaakt,</al>
+            </li>
+          </lijst>
+          <al>wordt belanghebbende in de gelegenheid gesteld daarover te worden gehoord.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Op de nieuwe hoorzitting als bedoeld in het tweede lid zijn de bepalingen in dit reglement die betrekking hebben op de hoorzitting van overeenkomstige toepassing.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">22</nr>
+          <titel status="officieel">verdaging</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Als de beslissing op bezwaar niet kan worden genomen binnen de daarvoor geldende wettelijke termijn verdaagt UWV de beschikking voor ten hoogste vier weken. Belanghebbenden worden schriftelijk ge&#xEF;nformeerd over de verdaging.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Als verdere vertraging optreedt in de afgifte van de beslissing op bezwaar, wordt de beschikking opnieuw verdaagd voor zover de indiener van het bezwaarschrift daarmee heeft ingestemd en andere belanghebbenden daardoor niet in hun belangen worden geschaad of ermee instemmen.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">23</nr>
+          <titel status="officieel">geneeskundige geschillen <extref status="actief" doc="1.0:v:BWBR0001888" compleet="nee">Ziektewet</extref></titel>
+        </kop>
+        <al>Voor geschillen van geneeskundige aard omtrent het al dan niet voortbestaan van de ongeschiktheid tot werken in het kader van de <extref status="actief" doc="1.0:v:BWBR0001888" compleet="nee">Ziektewet</extref>, geldt in afwijking van het bepaalde in</al>
+        <al><intref status="actief" doc="1.0:v:BWBR0025297&amp;artikel=3">artikel 3, tweede en derde lid</intref>: een termijn van &#xE9;&#xE9;n week;</al>
+        <al><intref status="actief" doc="1.0:v:BWBR0025297&amp;artikel=3">artikel 3, vierde lid</intref>: een termijn van 5 dagen;</al>
+        <al><intref status="actief" doc="1.0:v:BWBR0025297&amp;artikel=4">artikel 4, eerste lid</intref>: een termijn van &#xE9;&#xE9;n week;</al>
+        <al><intref status="actief" doc="1.0:v:BWBR0025297&amp;artikel=6">artikel 6, eerste lid</intref>: een termijn van &#xE9;&#xE9;n week;</al>
+        <al><intref status="actief" doc="1.0:v:BWBR0025297&amp;artikel=7">artikel 7, eerste lid</intref>: een termijn van &#xE9;&#xE9;n week;</al>
+        <al><intref status="actief" doc="1.0:v:BWBR0025297&amp;artikel=8">artikel 8</intref>: een termijn van &#xE9;&#xE9;n week;</al>
+        <al><intref status="actief" doc="1.0:v:BWBR0025297&amp;artikel=13">artikel 13, vierde en vijfde lid</intref>: een termijn van &#xE9;&#xE9;n dag;</al>
+        <al><intref status="actief" doc="1.0:v:BWBR0025297&amp;artikel=15">artikel 15, tweede lid</intref>: een termijn van twee dagen.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">24</nr>
+          <titel status="officieel">beslissing op bezwaar</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De beslissing op bezwaar betreft alle op de bestreden beschikking ingediende bezwaarschriften.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De beslissing op bezwaar wordt genomen door iemand die niet betrokken was bij het nemen van de bestreden beschikking.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">25</nr>
+          <titel status="officieel">beslissing op bezwaar bij bijzondere beschikkingen</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De motivering van de beslissing op bezwaar vindt &#x2013; voorzover deze betrekking heeft op bijzondere gegevens &#x2013;- plaats op een aparte bijlage.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De bijlage als bedoeld in het eerste lid wordt niet aan de werkgever verstrekt, tenzij de werknemer toestemming heeft verleend als bedoeld in <intref status="actief" doc="1.0:v:BWBR0025297&amp;artikel=16">artikel 16</intref>.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De bijlage als bedoeld in het eerste lid wordt in geval van medische beschikkingen verstrekt aan een persoon als bedoeld in <intref status="actief" doc="1.0:v:BWBR0025297&amp;artikel=14">artikel 14, vierde lid</intref>.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">26</nr>
+          <titel status="officieel">termijnen en tijdigheid</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Wanneer aan een verzoek van UWV aan de indiener of andere belanghebbenden een termijn is verbonden, gaat deze termijn in op de dag na verzending van de hiertoe strekkende mededeling.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Een (gevraagd) schriftelijk document of verklaring heeft UWV op tijd ontvangen als deze voor het eind van de gestelde termijn is ontvangen. Hierbij geldt dat een per post ontvangen stuk tijdig is als het uiterlijk op de laatste dag van de termijn per post is bezorgd en binnen &#xE9;&#xE9;n week hierna is ontvangen.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">27</nr>
+          <titel status="officieel">uitzonderingen</titel>
+        </kop>
+        <al>Dit reglement is niet van toepassing op bezwaarschriften gericht tegen beschikkingen genomen op grond van:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>de <extref status="actief" doc="1.0:v:BWBR0007149" compleet="nee">Wet arbeid vreemdelingen</extref>;</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>de <extref status="actief" doc="1.0:v:BWBR0008903" compleet="nee">Wet sociale werkvoorziening</extref>;</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0013060&amp;artikel=30b" compleet="nee">artikel 30b, Wet structuur uitvoeringsorganisatie werk en inkomen</extref> (weigering registratie);</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>artikel 14 van de Wet vermindering afdracht (verklaring startkwalificatie); en</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>de <extref status="actief" doc="1.0:v:BWBR0019296" compleet="nee">Regeling indicatiestelling no-riskpolis en premiekorting UWV</extref>.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">28</nr>
+          <titel status="officieel">intrekking eerdere reglement</titel>
+        </kop>
+        <al>Het <extref status="actief" doc="1.0:v:BWBR0021337" compleet="nee">reglement behandeling bezwaarschriften UWV 2007</extref> wordt ingetrokken.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">29</nr>
+          <titel status="officieel">citeertitel</titel>
+        </kop>
+        <al>Dit reglement wordt aangehaald als: Reglement behandeling bezwaarschriften UWV 2009.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">30</nr>
+          <titel status="officieel">inwerkingtreding</titel>
+        </kop>
+        <al>Dit reglement treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1&#xA0;januari 2009.</al>
+      </artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <gegeven>
+        <dagtekening>
+          <plaats>Amsterdam</plaats>
+          <datum isodatum="2009-01-13">13 januari 2009</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>
+        <functie>Voorzitter Raad van Bestuur</functie>
+        <organisatie>UWV</organisatie>,<naam>
+          <voornaam>J.M.</voornaam>
+          <achternaam>Linthorst</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

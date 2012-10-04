@@ -1,0 +1,678 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0005828" dtdversie="2.0" id="30969" soort="AMvB" xml:lang="nl">
+    
+    <intitule>Besluit van 5 januari 1993, houdende regels betreffende het
+    energiegebruik van cv-ketels</intitule>
+    
+    <wet-besluit>
+        <aanhef>
+    <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden,
+        Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+    <considerans>
+        <considerans.al>Op de voordracht van Onze Minister van
+            Economische Zaken van 5 oktober 1992, nr. 92075619 WJA/W,
+            gedaan in overeenstemming met Onze Minister van
+            Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op de <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr.
+            92/42/EEG</extref> van de Raad van de Europese Gemeenschappen van 21
+            mei 1992 betreffende de rendementseisen voor nieuwe olie- en
+            gasgestookte centrale-verwarmingsketels (<nadruk type="cur">PbEG</nadruk> L 167) en op de <extref status="actief" doc="1.0:v:BWBR0003916&amp;artikel=2" compleet="nee">artikelen 2</extref>, 6
+            en <extref status="actief" doc="1.0:v:BWBR0003916&amp;artikel=21" compleet="nee">21 van de Wet energiebesparing
+            toestellen</extref> (<nadruk type="cur">Stb.</nadruk> 1986, 59);</considerans.al>
+        <considerans.al>De Raad van State gehoord (advies van 22
+            december 1992, nr. W10.92 0473);</considerans.al>
+        <considerans.al>Gezien het nader rapport van Onze Minister van
+            Economische Zaken van 30 december 1992, nr. 92101769 WJA/W,
+            uitgebracht in overeenstemming met Onze Minister van
+            Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;</considerans.al>
+    </considerans>
+    <afkondiging>
+        <al>Hebben goedgevonden en verstaan:</al>
+    </afkondiging>
+</aanhef>
+        <wettekst>
+            <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>1</nr>
+    </kop>
+    <al>In dit besluit wordt verstaan onder: </al>
+    <al>
+        <nadruk type="cur">ketel:</nadruk> het geheel van een
+        ketellichaam en een brander van een uitsluitend met vloeibare of
+        gasvormige brandstoffen gestookt en voor verwarming van een of
+        meer ruimten bestemd toestel, dat de verbrandingswarmte op water
+        overbrengt, met een nominaal vermogen van niet minder dan 4 kW
+        en niet meer dan 400 kW; </al>
+    <al>
+        <nadruk type="cur">onderdeel:</nadruk>
+    </al>
+    <lijst>
+        <li>
+            <li.nr>a.</li.nr>
+            <al>een ketellichaam waarop een brander behoort te worden
+                gemonteerd dan wel</al>
+        </li>
+        <li>
+            <li.nr>b.</li.nr>
+            <al>een brander die op een ketellichaam behoort te worden gemonteerd,</al>
+        </li>
+    </lijst>
+    <al>een en ander ten einde te zamen een ketel te vormen; </al>
+    <al>
+        <nadruk type="cur">nominaal vermogen</nadruk> of <nadruk type="cur">Pn</nadruk>: het maximale verwarmingsvermogen,
+        uitgedrukt in kW, dat een ketel kan afgeven bij de door de
+        fabrikant opgegeven nominale belasting en bij een gemiddelde
+        bedrijfstemperatuur van 70 &#xB0;C; </al>
+    <al>
+        <nadruk type="cur">gemiddelde bedrijfstemperatuur:</nadruk> het
+        gemiddelde van de intrede- en uittredetemperatuur van het water
+        in de ketel; </al>
+    <al>
+        <nadruk type="cur">deellast:</nadruk> de verhouding, uitgedrukt
+        in een percentage, tussen het vermogen van een ketel, die werkt
+        bij tussenpozen of op een vermogen lager dan het nominale
+        vermogen, en dat nominale vermogen; </al>
+    <al>
+        <nadruk type="cur">waterzijdig rendement:</nadruk> de
+        verhouding, uitgedrukt in een percentage, tussen de hoeveelheid
+        warmte, in een bepaalde tijdseenheid overgedragen op het water
+        in een ketel, en het produkt van de calorische benedenwaarde bij
+        constante druk van de brandstof en het brandstofverbruik in
+        diezelfde tijdseenheid; </al>
+    <al>
+        <nadruk type="cur">gasgestookte condenserende ketel:</nadruk>
+        een met gasvormige brandstof gestookte ketel die zodanig is
+        ontworpen dat er permanent een belangrijk deel van de waterdamp
+        in de rookgassen kan condenseren; </al>
+    <al>
+        <nadruk type="cur">oliegestookte condenserende ketel:</nadruk>
+        een met vloeibare brandstof gestookte ketel die zodanig is
+        ontworpen dat er onder bepaalde omstandigheden een deel van de
+        waterdamp in de rookgassen kan condenseren; </al>
+    <al>
+        <nadruk type="cur">lage-temperatuurketel:</nadruk> een ketel die
+        zodanig is ontworpen dat hij permanent in bedrijf kan zijn met
+        een intredetemperatuur van het water in de ketel van 35 tot 40
+        &#xB0;C en dat er onder bepaalde omstandigheden een deel van de
+        waterdamp in de rookgassen kan condenseren; </al>
+    <al>
+        <nadruk type="cur">richtlijn:</nadruk> de <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr.
+        92/42/EEG</extref> van de Raad van de Europese Gemeenschappen van 21 mei
+        1992 betreffende de rendementseisen voor nieuwe olie- en
+        gasgestookte centrale-verwarmingsketels (<nadruk type="cur">PbEG</nadruk> L 167);</al>
+    <al>CE-markering: de in bijlage I, onder 1, eerste
+        gedachtenstreepje, van de richtlijn weergegeven markering; </al>
+    <al>
+        <nadruk type="cur">EG-conformiteitsverklaring:</nadruk> een
+        verklaring van overeenstemming als bedoeld in bijlage IV van de richtlijn.</al>
+</artikel>
+            <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>2</nr>
+    </kop>
+    <al>Dit besluit is niet van toepassing op: </al>
+    <lijst>
+        <li>
+            <li.nr>a.</li.nr>
+            <al>ketels die moeten worden gestookt met brandstoffen
+                waarvan de eigenschappen aanzienlijk afwijken van
+                normaal in de handel verkrijgbare oli&#xEB;n of gassen, zoals
+                industri&#xEB;le restgassen en biogas;</al>
+        </li>
+        <li>
+            <li.nr>b.</li.nr>
+            <al>ketels die zijn ontworpen om hoofdzakelijk de ruimte
+                waarin zij zijn ge&#xEF;nstalleerd te verwarmen en die als
+                nevenfunctie tevens warm water leveren voor verwarming
+                van een of meer andere ruimten of voor gebruik als tapwater;</al>
+        </li>
+        <li>
+            <li.nr>c.</li.nr>
+            <al>ketels die niet in serie geproduceerd worden;</al>
+        </li>
+        <li>
+            <li.nr>d.</li.nr>
+            <al>ketels die reeds eerder ge&#xEF;nstalleerd en gebruikt zijn;</al>
+        </li>
+        <li>
+            <li.nr>e.</li.nr>
+            <al>onderdelen van ketels als bedoeld onder <nadruk type="cur">a, b, c</nadruk> en <nadruk type="cur">d</nadruk>.</al>
+        </li>
+    </lijst>
+</artikel>
+            <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>3</nr>
+    </kop>
+    <lid>
+        <lidnr>1</lidnr>
+        <al>Het is verboden ketels of onderdelen ten verkoop voorhanden
+            te hebben, ten verkoop aan te bieden, te verkopen, te
+            verhuren of te installeren die: </al>
+        <lijst>
+            <li>
+                <li.nr>a.</li.nr>
+                <al>niet voldoen aan de in <intref status="actief" doc="1.0:v:BWBR0005828&amp;artikel=4">artikel 4</intref> gestelde eisen;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>niet overeenkomstig <intref status="actief" doc="1.0:v:BWBR0005828&amp;artikel=6">artikel 6</intref> zijn voorzien van de CE-markering;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>anders dan met inachtneming van <intref status="actief" doc="1.0:v:BWBR0005828&amp;artikel=7">artikel 7</intref> zijn
+                    voorzien van een of meer merktekens als in dat
+                    artikel bedoeld.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al> Het is verboden op een ketel of een onderdeel een markering
+            aan te brengen waarvan de betekenis of vormgeving met die
+            van de CE-markering zou kunnen worden verward.</al>
+    </lid>
+    <lid>
+        <lidnr>3</lidnr>
+        <al> Het is verboden op een ketel of een onderdeel een merkteken
+            aan te brengen dat met een merkteken als bedoeld in <intref status="actief" doc="1.0:v:BWBR0005828&amp;artikel=7">artikel
+            7</intref> kan worden verward.</al>
+    </lid>
+    <lid>
+        <lidnr>4</lidnr>
+        <al> Het eerste, tweede en derde lid zijn niet van toepassing op
+            ketels of onderdelen die kennelijk bestemd zijn om buiten de
+            gebieden waarop de Overeenkomst betreffende de Europese
+            Economische Ruimte van toepassing is in de handel te worden gebracht.</al>
+    </lid>
+</artikel>
+            <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>4</nr>
+    </kop>
+    <lid>
+        <lidnr>1</lidnr>
+        <al>Ketels moeten voldoen aan de in de onderstaande tabel per
+            soort ketel weergegeven eisen inzake waterzijdig rendement: </al>
+        <lijst>
+            <li>
+                <li.nr>a.</li.nr>
+                <al>bij werking op nominaal vermogen en</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>bij werking in een deellast van 30 % waarbij de
+                    temperatuur, bedoeld in de tabel, afhankelijk van
+                    het soort ketel varieert.</al>
+            </li>
+        </lijst>
+        <table colsep="1" frame="all" orient="port" rowsep="1">
+            <tgroup align="left" charoff="75" cols="4" colsep="1" rowsep="1" tgroupstyle="sdu1">
+                <colspec colname="1" colnum="1" colwidth="1.50in"/>
+                <colspec colname="2" colnum="2" colwidth="1.50in"/>
+                <colspec colname="3" colnum="3" colwidth="1.50in"/>
+                <colspec colname="4" colnum="4" colwidth="1.50in"/>
+                <thead valign="bottom">
+                    <row rowsep="1" valign="top">
+                        <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1">
+                            <al/>
+                        </entry>
+                        <entry colname="2" colsep="1" morerows="0" rotate="0" rowsep="1">
+                            <al/>
+                        </entry>
+                        <entry align="center" morerows="0" nameend="4" namest="3" rotate="0" rowsep="1">
+                            <al>Rendement in deellast </al>
+                        </entry>
+                    </row>
+                    <row rowsep="1" valign="top">
+                        <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1">
+                            <al>Soort ketel</al>
+                        </entry>
+                        <entry colname="2" colsep="1" morerows="0" rotate="0" rowsep="1">
+                            <al>Rendement bij nominaal vermogen
+                                uitgedrukt in %</al>
+                        </entry>
+                        <entry colname="3" colsep="1" morerows="0" rotate="0" rowsep="1">
+                            <al>Gemiddelde bedrijfstemperatuur</al>
+                        </entry>
+                        <entry colname="4" morerows="0" rotate="0" rowsep="1">
+                            <al>Rendement uitgedrukt in % </al>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody valign="bottom">
+                    <row rowsep="1" valign="top">
+                        <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1">
+                            <al>a. andere dan de onder b, c en d
+                                bedoelde ketels</al>
+                        </entry>
+                        <entry colname="2" colsep="1" morerows="0" rotate="0" rowsep="1" valign="bottom">
+                            <al>&#x2265; 84 + 2 &#xB7; logPn</al>
+                        </entry>
+                        <entry colname="3" colsep="1" morerows="0" rotate="0" rowsep="1" valign="bottom">
+                            <al>&#x2265; 50 &#xB0;C</al>
+                        </entry>
+                        <entry colname="4" morerows="0" rotate="0" rowsep="1" valign="bottom">
+                            <al>&#x2265; 80 + 3 &#xB7; logPn</al>
+                        </entry>
+                    </row>
+                    <row rowsep="1" valign="top">
+                        <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1">
+                            <al>b. lage-temperatuurketels</al>
+                        </entry>
+                        <entry colname="2" colsep="1" morerows="0" rotate="0" rowsep="1">
+                            <al>&#x2265; 87,5 + 1,5 &#xB7; logPn</al>
+                        </entry>
+                        <entry colname="3" colsep="1" morerows="0" rotate="0" rowsep="1">
+                            <al>40 &#xB0;C</al>
+                        </entry>
+                        <entry colname="4" morerows="0" rotate="0" rowsep="1">
+                            <al>&#x2265; 87,5 + 1,5 &#xB7; logPn</al>
+                        </entry>
+                    </row>
+                    <row rowsep="1" valign="top">
+                        <entry colname="1" colsep="1" morerows="0" rotate="0" rowsep="1">
+                            <al>c. oliegestookte condenserende ketels</al>
+                        </entry>
+                        <entry colname="2" colsep="1" morerows="0" rotate="0" rowsep="1">
+                            <al> &#x2265; 87,5 + 1,5 &#xB7; logPn</al>
+                        </entry>
+                        <entry colname="3" colsep="1" morerows="0" rotate="0" rowsep="1">
+                            <al> 40 &#xB0;C</al>
+                        </entry>
+                        <entry colname="4" morerows="0" rotate="0" rowsep="1">
+                            <al> &#x2265; 87,5 +  1,5 &#xB7; logPn</al>
+                        </entry>
+                    </row>
+                    <row rowsep="0" valign="top">
+                        <entry colname="1" colsep="1" morerows="0" rotate="0">
+                            <al>d. gasgestookte condenserende ketels</al>
+                        </entry>
+                        <entry colname="2" colsep="1" morerows="0" rotate="0">
+                            <al> &#x2265; 91 + 1 &#xB7; logPn</al>
+                        </entry>
+                        <entry colname="3" colsep="1" morerows="0" rotate="0">
+                            <al> 30 &#xB0;C<noot id="n1e911204">
+                                    <noot.nr>*</noot.nr>
+                                    <noot.al> Intredetemperatuur van het
+                                    water in de ketel</noot.al>
+                                </noot>
+                            </al>
+                        </entry>
+                        <entry colname="4" morerows="0" rotate="0">
+                            <al> &#x2265; 97 + 1 &#xB7; logPn</al>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <al/>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al> Indien een ketel bestemd is voor zowel het verwarmen van
+            een of meer ruimten als het leveren van warm tapwater,
+            hebben de rendementseisen, bedoeld in het eerste lid, alleen
+            betrekking op de functie van ruimteverwarming.</al>
+    </lid>
+</artikel>
+            <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>5</nr>
+    </kop>
+    <al>Ketels worden in elk geval vermoed aan de in <intref status="actief" doc="1.0:v:BWBR0005828&amp;artikel=4">artikel 4, eerste
+        lid</intref>, bedoelde rendementseisen te voldoen, indien zij in
+        overeenstemming zijn met: </al>
+    <lijst>
+        <li>
+            <li.nr>a.</li.nr>
+            <al>de ter uitvoering van artikel 5, tweede lid, van de
+                richtlijn opgestelde geharmoniseerde normen, waarvan de
+                referentienummers in het <nadruk type="cur">Publikatieblad van de Europese
+                Gemeenschappen</nadruk> zijn bekendgemaakt;</al>
+        </li>
+        <li>
+            <li.nr>b.</li.nr>
+            <al>de normen waarin de onder <nadruk type="cur">a</nadruk>
+                bedoelde geharmoniseerde normen in Nederland zijn
+                omgezet en waarvan de referentienummers door Onze
+                Minister in de <nadruk type="cur">Nederlandse
+                Staatscourant</nadruk> zijn bekendgemaakt;</al>
+        </li>
+        <li>
+            <li.nr>c.</li.nr>
+            <al>de normen waarin de onder <nadruk type="cur">a</nadruk>
+                bedoelde geharmoniseerde normen in een andere lid-staat
+                van de Europese Unie of een andere staat die partij is
+                bij de Overeenkomst betreffende de Europese Economische
+                Ruimte zijn omgezet en waarvan de referentienummers in
+                die staat zijn bekendgemaakt.</al>
+        </li>
+    </lijst>
+</artikel>
+            <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>6</nr>
+    </kop>
+    <lid>
+        <lidnr>1</lidnr>
+        <al>Ketels dienen, ten blijke van het voldoen aan de
+            voorschriften van dit besluit, te zijn voorzien van de
+            CE-markering en vergezeld te gaan van de EG-conformiteitsverklaring.</al>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al> De CE-markering en de EG-conformiteitsverklaring mogen
+            uitsluitend worden aangebracht onderscheidenlijk bijgevoegd: </al>
+        <lijst>
+            <li>
+                <li.nr>a.</li.nr>
+                <al>indien het desbetreffende type blijkens een
+                    verklaring van EG-type-onderzoek overeenkomstig de
+                    in bijlage III van de richtlijn beschreven procedure
+                    is goedgekeurd,</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>zolang de vervaardiging van de desbetreffende ketels
+                    geschiedt met inachtneming van een van de drie in
+                    bijlage IV van de richtlijn beschreven procedures en</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>zolang wordt voldaan aan de verplichtingen die in
+                    het kader van de onder <nadruk type="cur">a</nadruk>
+                    en <nadruk type="cur">b</nadruk> bedoelde procedures
+                    rusten op de fabrikant, diens in de gebieden waarop
+                    de Overeenkomst betreffende de Europese Economische
+                    Ruimte van toepassing is gevestigde gemachtigde dan
+                    wel de persoon die met het in de handel brengen van
+                    de desbetreffende ketels in die gebieden is belast.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr>3</lidnr>
+        <al> Voor de beoordeling van het voldoen aan de voorschriften
+            van dit besluit van ketels waarop het <extref status="actief" doc="1.0:v:BWBR0005384" compleet="nee">Besluit
+            gastoestellen</extref> (<nadruk type="cur">Stb.</nadruk> 1992, 124) van toepassing is, zijn
+            in afwijking van het tweede lid, onder <nadruk type="cur">a</nadruk> en <nadruk type="cur">b</nadruk>, de
+            in de bij dat besluit behorende bijlage III, onder A en B,
+            beschreven procedures van overeenkomstige toepassing.</al>
+    </lid>
+    <lid>
+        <lidnr>4</lidnr>
+        <al> Onderdelen dienen te zijn voorzien van de CE-markering en
+            vergezeld te gaan van de EG-conformiteitsverklaring, waarin
+            de parameters worden aangegeven waarmee, na assemblage, de
+            desbetreffende ketels kunnen voldoen aan de rendementseisen,
+            bedoeld in <intref status="actief" doc="1.0:v:BWBR0005828&amp;artikel=4">artikel 4, eerste lid</intref>.</al>
+    </lid>
+    <lid>
+        <lidnr>5</lidnr>
+        <al> De CE-markering moet zichtbaar, gemakkelijk leesbaar en
+            onuitwisbaar op de ketels en de onderdelen zijn aangebracht
+            en, indien van toepassing, gevolgd worden door het in
+            bijlage IV, module D, onder 1, en module E, onder 1, van de
+            richtlijn bedoelde identificatienummer. Op ketels en
+            onderdelen mogen slechts andere markeringen worden
+            aangebracht indien daardoor de zichtbaarheid en leesbaarheid
+            van de CE-markering niet worden verminderd.</al>
+    </lid>
+</artikel>
+            <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">7</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Ketels mogen slechts zijn voorzien van het in de
+            onderstaande tabel aangegeven aantal merktekens als bedoeld
+            in bijlage I, onder 2, van de richtlijn, indien: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>met toepassing van de in <intref status="actief" doc="1.0:v:BWBR0005828&amp;artikel=6">artikel 6, tweede lid,
+                    onder a</intref>, bedoelde
+                    procedure wordt vastgesteld dat het desbetreffende
+                    type ketel voldoet aan de in de tabel bij dat aantal
+                    merktekens weergegeven eisen inzake waterzijdig
+                    rendement: </al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                        <li.nr>1&#xB0;.</li.nr>
+                        <al>bij werking op nominaal vermogen en</al>
+                    </li>
+                    <li>
+                        <li.nr>2&#xB0;.</li.nr>
+                        <al>bij werking in een deellast van 30 % en een
+                            gemiddelde bedrijfstemperatuur die gelijk is
+                            aan of hoger is dan 50 &#xB0;C en</al>
+                    </li>
+                </lijst>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>zolang de in <intref status="actief" doc="1.0:v:BWBR0005828&amp;artikel=6">artikel 6, tweede lid onder b</intref>, bedoelde procedure mede wordt
+                    toegepast ten aanzien van het voldoen aan de onder
+                        <nadruk type="cur">a</nadruk> bedoelde eisen.</al>
+            </li>
+        </lijst>
+        <table frame="none">
+            <tgroup align="left" char="" charoff="50" cols="3" colsep="0" rowsep="0">
+                <colspec colname="1" colnum="1"/><colspec colname="col2" colnum="2" colwidth="*"/><colspec colname="col3" colnum="3" colwidth="*"/>
+                <tbody valign="top">
+                    <row>
+                        <entry morerows="0" rotate="0">
+                            <al>Aantal merktekens       </al></entry><entry colname="col2" morerows="0" rotate="0"><al>Rendement bij
+                                nominaal vermogen </al></entry><entry colname="col3" morerows="0" rotate="0"><al>Rendement in                                                        deellast</al>
+                        </entry>
+                    </row>
+                    
+                    <row>
+                        <entry morerows="0" rotate="0">
+                            <al>1                               </al></entry><entry colname="col2" morerows="0" rotate="0"><al>&#x2265; 84 +
+                                2.logPn</al></entry><entry colname="col3" morerows="0" rotate="0"><al>&#x2265; 80 + 3.logPn</al>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" rotate="0">
+                            <al>2</al></entry><entry colname="col2" morerows="0" rotate="0"><al>&#x2265; 87 +
+                                2.logPn          </al></entry><entry colname="col3" morerows="0" rotate="0"><al>&#x2265; 83 + 3.logPn</al>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" rotate="0">
+                            <al>3</al></entry><entry colname="col2" morerows="0" rotate="0"><al>&#x2265; 90 +
+                                2.logPn          </al></entry><entry colname="col3" morerows="0" rotate="0"><al>&#x2265; 86 + 3.logPn</al>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" rotate="0">
+                            <al>4</al></entry><entry colname="col2" morerows="0" rotate="0"><al>&#x2265; 93 +
+                                2.logPn          </al></entry><entry colname="col3" morerows="0" rotate="0"><al>&#x2265; 89 + 3.logPn</al>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> De <intref status="actief" doc="1.0:v:BWBR0005828&amp;artikel=4">artikelen 4, tweede lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0005828&amp;artikel=6">6, derde lid</intref>, zijn van
+            overeenkomstige toepassing.</al>
+    </lid>
+</artikel>
+            <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">8</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Onze Minister wijst de instellingen aan die bevoegd zijn: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>het in <intref status="actief" doc="1.0:v:BWBR0005828&amp;artikel=6">artikel 6, tweede lid, onder a</intref>, bedoelde EG-type-onderzoek te verrichten;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>tot het verrichten van controles en beoordelingen
+                    zoals omschreven in de in <intref status="actief" doc="1.0:v:BWBR0005828&amp;artikel=6">artikel 6, tweede lid,
+                    onder b</intref>, bedoelde procedures.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Voor een aanwijzing als bedoeld in het eerste lid komen in
+            aanmerking instellingen die ten minste voldoen aan de in
+            bijlage V van de richtlijn vastgestelde voorwaarden.
+            Instellingen die voldoen aan de geharmoniseerde normen,
+            bedoeld in artikel 8, tweede lid, van de richtlijn, worden
+            geacht aan deze voorwaarden te voldoen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Onze Minister trekt een aanwijzing als bedoeld in het
+            eerste lid in ieder geval in, indien de betrokken
+            instelling: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>niet langer voldoet aan de in het tweede lid
+                    bedoelde voorwaarden;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>niet voldoet aan de in het kader van de in <intref status="actief" doc="1.0:v:BWBR0005828&amp;artikel=6">artikel
+                    6, tweede lid</intref>, bedoelde procedures op haar rustende verplichtingen.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al> Als instellingen als bedoeld in het eerste lid worden mede
+            aangemerkt instellingen die in het kader van de richtlijn
+            door andere lid-staten van de Europese Unie of een andere
+            staat die partij is bij de Overeenkomst betreffende de
+            Europese Economische Ruimte bij de Commissie van de Europese
+            Gemeenschappen zijn aangemeld en waarvan de namen door de
+            Commissie zijn gepubliceerd in het <nadruk type="cur">Publikatieblad van de Europese Gemeenschappen</nadruk>.</al>
+    </lid>
+</artikel>
+            <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>9</nr>
+    </kop>
+    <al>Voor zover in dit besluit wordt verwezen naar de richtlijn of
+        naar een bijlage daarvan, treedt voor de toepassing van de
+        desbetreffende bepaling een wijziging van de richtlijn of van
+        een bijlage daarvan in werking met ingang van de dag, waarop aan
+        die wijziging uitvoering moet zijn gegeven.</al>
+</artikel>
+            <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">10</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al><intref status="actief" doc="1.0:v:BWBR0005828&amp;artikel=3">Artikel 3, eerste lid, onderdelen a en b</intref>, is
+            tot 1 januari 1998 niet van toepassing ten aanzien van
+            ketels en onderdelen: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>die voldoen aan de op 21 mei 1992 in Nederland
+                    geldende voorschriften en aan de op die datum
+                    geldende keuringseisen voor
+                    centrale-verwarmingstoestellen, vastgesteld door de
+                    Koninklijke Vereniging van Gasfabrikanten in
+                    Nederland (KE 28);</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>die kennelijk bestemd zijn om in een andere
+                    lid-staten van de Europese Unie of een andere staat
+                    die partij is bij de Overeenkomst betreffende de
+                    Europese Economische Ruimte in de handel te worden
+                    gebracht en die voldoen aan de op 21 mei 1992 in die
+                    Lid-Staat geldende voorschriften.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Met betrekking tot ketels en onderdelen als bedoeld in het
+            eerste lid, waarop <intref status="actief" doc="1.0:v:BWBR0005828&amp;artikel=3">artikel 3, eerste lid, onderdelen a en b</intref>, van
+            dit besluit niet wordt toegepast en waarop ingevolge een of
+            meer andere wettelijke regelingen de CE-markering wordt
+            aangebracht, worden op de bij die ketels en onderdelen
+            gevoegde documenten, handleidingen of gebruiksaanwijzingen
+            de in het <nadruk type="cur">Publikatieblad van de Europese
+            Gemeenschappen</nadruk> bekendgemaakte referenties van de
+            aan die wettelijke regelingen ten grondslag liggende
+            richtlijnen vermeld.</al>
+    </lid>
+</artikel>
+            <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>11</nr>
+    </kop>
+    <al>Dit besluit treedt in werking met ingang van de dag na de datum
+        van uitgifte van het <nadruk type="cur">Staatsblad</nadruk>
+        waarin het wordt geplaatst, met uitzondering van <intref status="actief" doc="1.0:v:BWBR0005828&amp;artikel=3">artikel 3</intref> dat
+        in werking treedt met ingang van 1 januari 1994.</al>
+</artikel>
+            <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>12</nr>
+    </kop>
+    <al>Dit besluit wordt aangehaald als: Besluit rendementseisen cv-ketels.</al>
+</artikel>
+        </wettekst>
+        <wetsluiting status="goed">
+    <slotformulering>
+        <al>Lasten en bevelen dat dit besluit met de daarbij behorende
+            nota van toelichting in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat
+            daarvan afschrift zal worden gezonden aan de Raad van State.</al>
+    </slotformulering>
+    <gegeven>
+        <dagtekening>
+            <plaats>'s-Gravenhage</plaats>
+            <datum isodatum="">5 januari 1993</datum>
+        </dagtekening>
+        <koning>Beatrix</koning>
+    </gegeven>
+    <ondertekening>
+        <functie>De Minister van Economische Zaken,</functie>
+        <naam>
+            <achternaam>J. E. Andriessen</achternaam>
+        </naam>
+    </ondertekening>
+    <uitgifte>
+        <datum isodatum="">de veertiende januari 1993</datum>
+        <ondertekening>
+            <functie>De Minister van Justitie,</functie>
+            <naam>
+                <achternaam>E. M. H. Hirsch Ballin</achternaam>
+            </naam>
+        </ondertekening>
+    </uitgifte>
+</wetsluiting>
+    </wet-besluit>
+</wetgeving>
+  	

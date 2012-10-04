@@ -1,0 +1,568 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0008540" dtdversie="2.0" id="260209" soort="ministeriele-regeling" xml:lang="nl">        <intitule>Regeling van de Minister van Verkeer en Waterstaat en van de Staatssecretaris van Defensie van 6 februari 1997, DGRLD/VI/L 97.710034, inzake het aanbrengen van geluidwerende voorzieningen binnen geluidzones rond luchtvaartterreinen </intitule>        <regeling>    <aanhef>    <wie>De Minister van Verkeer en Waterstaat en de Staatssecretaris van     Defensie,</wie>    <considerans>      <considerans.al bevat="overeenstemmend">handelende in overeenstemming     met de Minister van Volkshuisvesting, Ruimtelijke Ordening en     Milieubeheer;</considerans.al>     <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0002267&amp;artikel=26b" compleet="nee">artikel 26b van de     Luchtvaartwet</extref>;</considerans.al>    </considerans>    <afkondiging>      <al>Besluiten:</al>    </afkondiging>        </aanhef>    <regeling-tekst>    <hoofdstuk>      <kop>      <label>Hoofdstuk</label><nr>1</nr>      <titel>Begripsomschrijvingen</titel>     </kop>      <artikel status="goed">      <kop>      <label>Artikel</label><nr status="officieel">1</nr>      </kop>      <lid><lidnr status="officieel">1</lidnr><al>In deze regeling wordt verstaan onder:</al>      <definitielijst nr-sluiting="" plaatsing="inline" type="expliciet"><definitie-item><li.nr>a.</li.nr>       <term>minister:</term>       <definitie>       <al> wat de burgerluchtvaart betreft: de Minister van Verkeer en Waterstaat; wat de militaire       luchtvaart betreft: de Minister van Defensie;</al>       </definitie>     </definitie-item><definitie-item><li.nr>b.</li.nr>       <term>geluidsgevoelige ruimten van woningen:</term>       <definitie>       <al> ruimten binnen woningen voor zover die kennelijk duurzaam       als slaap-, woon- of eetkamer worden gebruikt of voor een zodanig gebruik zijn       bestemd;</al>       </definitie>     </definitie-item><definitie-item><li.nr>c.</li.nr>       <term>andere geluidsgevoelige gebouwen: </term>       <definitie><al>onderwijsgebouwen, ziekenhuizen, verpleeghuizen en andere gezondheidszorggebouwen als bedoeld in de algemene maatregel van bestuur, bedoeld in <extref status="actief" doc="1.0:v:BWBR0003227&amp;artikel=1" compleet="nee">artikel 1 van de Wet geluidhinder</extref>;</al>       </definitie>     </definitie-item><definitie-item><li.nr>d.</li.nr>       <term>geluidsgevoelige ruimten van andere geluidsgevoelige       gebouwen:</term>       <definitie>       <al>les-, theorie- en studielokalen van onderwijsgebouwen, alsmede onderzoeks- en behandelings-, recreatie- en conversatieruimten en woon- en slaapruimten van ziekenhuizen, verpleeghuizen en andere gezondheidszorggebouwen als bedoeld in de algemene maatregel van bestuur, bedoeld in <extref status="actief" doc="1.0:v:BWBR0003227&amp;artikel=1" compleet="nee">artikel 1 van de Wet geluidhinder</extref>;</al></definitie>     </definitie-item><definitie-item><li.nr>e.</li.nr>       <term> geluidwering van een uitwendige       scheidingsconstructie:</term>       <definitie>       <al> grootheid die het verschil tussen het niveau van het       invallende geluid aan de buitenzijde van een uitwendige scheidingsconstructie       en het geluidsniveau in een ruimte achter deze constructie in een getal       weergeeft;</al>       </definitie>     </definitie-item><definitie-item><li.nr>f.</li.nr>       <term> kostenbegrenzingswaarde:</term>       <definitie>       <al> maximaal door de minister ter beschikking te stellen       bedrag voor de geluidwerende voorzieningen en het aanbrengen daarvan, dat de       uitkomst is van de berekening volgens <intref status="actief" doc="1.0:v:BWBR0008540&amp;bijlage=1">bijlage 1</intref> bij deze regeling;</al>       </definitie>     </definitie-item><definitie-item><li.nr>g.</li.nr>       <term>slaapkamer:</term>       <definitie>       <al> ruimte van een woning die kennelijk duurzaam voor nachtverblijf in gebruik is of voor zodanig gebruik is bestemd, alsmede gedeelte van een ziekenhuis, verpleeghuis of ander gezondheidszorggebouw als bedoeld in de algemene maatregel van bestuur, bedoeld in <extref status="actief" doc="1.0:v:BWBR0003227&amp;artikel=1" compleet="nee">artikel 1 van de Wet geluidhinder</extref>, waarin personen die medisch worden verpleegd, verzorgd of behandeld, de nacht doorbrengen;</al>       </definitie>     </definitie-item><definitie-item><li.nr>h.</li.nr>       <term> geluidszone in Ke:</term>       <definitie>       <al> geluidszone, bedoeld in <extref status="actief" doc="1.0:v:BWBR0002267&amp;artikel=25a" compleet="nee">artikel 25a van de Luchtvaartwet</extref>       voor de grenswaarde, <extref status="actief" doc="1.0:v:BWBR0002267&amp;artikel=25" compleet="nee">bedoeld in artikel 25, eerste lid, aanhef en onder a, van       die wet</extref>;</al>       </definitie>     </definitie-item><definitie-item><li.nr>i.</li.nr>       <term> LAeq geluidszone in dB(A):</term>       <definitie>       <al> geluidszone, bedoeld in <extref status="actief" doc="1.0:v:BWBR0002267&amp;artikel=25a" compleet="nee">artikel 25a van de Luchtvaartwet</extref>       voor de grenswaarde, bedoeld in <extref status="actief" doc="1.0:v:BWBR0002267&amp;artikel=25" compleet="nee">artikel 25, vierde lid, van die wet</extref>, en van de luchthaven Schiphol de LAeq geluidszone, bedoeld in het tweede lid;</al>       </definitie>     </definitie-item><definitie-item><li.nr>j.</li.nr><term>geluidscontour Schiphol:</term><definitie><al>desbetreffende geluidscontour van de luchthaven Schiphol, bedoeld in het tweede lid;</al></definitie></definitie-item><definitie-item><li.nr>k.</li.nr>       <term>geluidsbelasting in Ke:</term>       <definitie>       <al> geluidsbelasting, bedoeld in <extref status="actief" doc="1.0:v:BWBR0008439&amp;artikel=1" compleet="nee">artikel 1, onder g, van het       Besluit geluidsbelasting grote luchtvaart</extref>;</al>       </definitie>     </definitie-item><definitie-item><li.nr>l.</li.nr>       <term> LAeq geluidsbelasting in dB(A):</term>       <definitie>       <al> gemiddeld (equivalente) A-gewogen geluidsniveau voor de       geluidsbelasting ten gevolge van het structureel uitgevoerd nachtelijk       vliegverkeer;</al>       </definitie>     </definitie-item><definitie-item><li.nr>m.</li.nr>       <term> vergunning
+voor het bouwen:</term>       <definitie>       <al>vergunning als bedoeld in <extref status="actief" doc="1.0:v:BWBR0005181&amp;artikel=40" compleet="nee">artikel 40, eerste lid, van
+de Woningwet</extref> dan wel omgevingsvergunning voor een bouwactiviteit als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0024779&amp;artikel=2.1" compleet="nee">artikel 2.1, eerste lid, onder a, van de Wet algemene
+bepalingen
+omgevingsrecht</extref>;</al>       </definitie>     </definitie-item><definitie-item><li.nr>n.</li.nr><term>onderzoek:</term><definitie><al> akoestisch en bouwtechnisch onderzoek van woningen of van andere geluidsgevoelige gebouwen;</al></definitie></definitie-item><definitie-item><li.nr>o.</li.nr><term>NEN-5077:</term><definitie><al>door het Nederlands Normalisatie-Instituut uitgegeven norm &#x2018;Geluidwering in gebouwen &#x2013; Bepalingsmethoden voor de grootheden voor luchtgeluidisolatie, contactgeluidisolatie, geluidwering van scheidingsconstructies en geluidniveaus veroorzaakt door installaties&#x2019;, publicatiejaar 2001, met de daarop uitgegeven aanvullingen en correctiebladen, zoals deze zijn vastgelegd in de <extref status="actief" doc="1.0:v:BWBR0014319" compleet="nee">Regeling Bouwbesluit 2003</extref>;</al></definitie></definitie-item><definitie-item><li.nr>p.</li.nr><term>NEN-EN-12354-3: </term><definitie><al>door het Nederlands Normalisatie-Instituut uitgegeven norm &#x2018;Geluidwering in gebouwen &#x2013; Berekening van de akoestische eigenschappen van gebouwen met de eigenschappen van bouwelementen &#x2013; Deel 3: Luchtgeluidisolatie tegen geluiden van buitenaf&#x2019;, publicatiejaar 2000, met de daarop uitgegeven aanvullingen en correctiebladen, zoals deze zijn vastgelegd in de <extref status="actief" doc="1.0:v:BWBR0014319" compleet="nee">Regeling Bouwbesluit 2003</extref>.</al></definitie></definitie-item></definitielijst></lid><lid><lidnr status="officieel">2</lidnr><al> Voor de toepassing van deze regeling zijn voor de luchthaven Schiphol de geluidscontouren, behorende bij de maximale waarden 40, 50, 55 en 65 Ke, opgenomen in <intref status="actief" doc="1.0:v:BWBR0008540&amp;bijlage=3">bijlage 3</intref> bij deze regeling, en de LAeq geluidszone in dB(A), opgenomen in <intref status="actief" doc="1.0:v:BWBR0008540&amp;bijlage=4">bijlage 4</intref> bij deze regeling.</al></lid>            </artikel>   </hoofdstuk>    <hoofdstuk>      <kop>      <label>Hoofdstuk</label><nr>2</nr>      <titel>Reikwijdte</titel>     </kop>      <afdeling>     <kop>     <label>Afdeling</label><nr>1</nr>     <titel>Algemene bepalingen</titel>     </kop>     <artikel status="goed">      <kop>        <label>Artikel</label><nr status="officieel">2</nr>      </kop>      <lid>        <lidnr status="officieel">1</lidnr>        <al>Tenzij in deze regeling anders is bepaald, worden op &#x2019;s rijks       kosten geluidwerende voorzieningen aangebracht aan geluidsgevoelige ruimten       van:</al>        <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>        <al> een woning die:</al>        <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>1&#xBA;.</li.nr>         <al>op het tijdstip van vaststelling van de geluidszone         in Ke of van de geluidscontour Schiphol daarbinnen reeds aanwezig is, of nog niet aanwezig is maar waarvoor de         vergunning voor
+het bouwen is verleend, en</al>         </li><li><li.nr>2&#xBA;.</li.nr>         <al>volgens de in <extref status="actief" doc="1.0:v:BWBR0002267&amp;artikel=25d" compleet="nee">artikel 25d van de Luchtvaartwet</extref>         bedoelde geluidscontouren voor de in <extref status="actief" doc="1.0:v:BWBR0002267" compleet="nee">die wet</extref> bedoelde luchtvaartterreinen of de geluidscontour Schiphol een geluidsbelasting van 40 Ke of hoger ondervindt een hogere geluidsbelasting dan 40 Ke         ondervindt;</al>         </li></lijst>        </li><li><li.nr>b.</li.nr>        <al> een ander geluidsgevoelig gebouw dat:</al>        <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>1&#xBA;.</li.nr>         <al>op het tijdstip van vaststelling van de geluidszone         in Ke of van de geluidscontour Schiphol daarbinnen reeds aanwezig is, of nog niet aanwezig is maar waarvoor de         vergunning voor
+het bouwen is verleend, en</al>         </li><li><li.nr>2&#xBA;.</li.nr>         <al> een hogere geluidsbelasting in Ke ondervindt dan de         ten hoogste toelaatbare geluidsbelasting, bedoeld in <extref status="actief" doc="1.0:v:BWBR0008439&amp;artikel=7" compleet="nee">artikel 7 van het Besluit         geluidsbelasting grote luchtvaart</extref> of, voor de luchthaven Schiphol, een geluidsbelasting van 40 Ke of hoger ondervindt.</al>         </li></lijst>        </li></lijst>      </lid>      <lid>        <lidnr status="officieel">2</lidnr>        <al>Tenzij in deze regeling anders is bepaald, worden op &#x2019;s rijks       kosten geluidwerende voorzieningen aangebracht aan slaapkamers van een woning       die, of een ziekenhuis, verpleeghuis of ander gezondheidszorggebouw dat:</al>        <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>        <al> op het tijdstip van vaststelling van de LAeq geluidszone         in dB(A) daarbinnen reeds aanwezig is, of nog niet aanwezig is maar waarvoor de         vergunning voor
+het bouwen is verleend, en</al>        </li><li><li.nr>b.</li.nr>        <al> in de slaapkamers op grond van de vastgestelde         geluidszone een LAeq geluidsbelasting in dB(A) van 26 dB(A) of hoger ondervindt.</al>        </li></lijst>      </lid>      <lid>
+                <lidnr status="officieel">3</lidnr>
+                <al>Onverminderd het eerste lid, worden op &#x2019;s rijks kosten geluidwerende voorzieningen aangebracht aan geluidsgevoelige ruimten van woningen die direct grenzen aan en een ononderbroken gebouweenheid vormen met een of meer woningen als bedoeld in het eerste lid, onderdeel a, mits eerstbedoelde woningen een geluidbelasting van niet minder dan 39 Ke ondervinden.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">4</lidnr>
+                <al>Onverminderd het tweede lid, worden op &#x2019;s rijks kosten geluidwerende voorzieningen aangebracht aan slaapkamers van woningen die direct grenzen aan en een ononderbroken gebouweenheid vormen met een of meer woningen met slaapkamers als bedoeld in het tweede lid, mits eerstbedoelde slaapkamers een LAeq geluidbelasting van niet minder dan 25 dB(A) ondervinden.</al>
+              </lid><lid>        <lidnr status="officieel">5</lidnr>        <al>Indien aan een slaapkamer krachtens zowel het eerste lid als       het tweede lid van dit artikel op &#x2019;s rijks kosten geluidwerende voorzieningen       moeten worden aangebracht, dan is uitsluitend het lid van toepassing dat de       grootste mate van geluidwering van de uitwendige scheidingsconstructie, bepaald       volgens <intref status="actief" doc="1.0:v:BWBR0008540&amp;bijlage=2">bijlage 2</intref> bij deze regeling, oplevert. </al>      </lid>            </artikel>     </afdeling><afdeling><kop>      <label>Afdeling</label><nr>2</nr>      <titel>Situaties waarin geen geluidwerende voorzieningen worden       aangebracht</titel>     </kop><paragraaf><kop>       <label>&#xA7;</label><nr>1</nr>       <titel>Ke-isolatie aan geluidsgevoelige ruimten van       woningen</titel>     </kop><artikel status="goed">        <kop>        <label>Artikel</label><nr status="officieel">3</nr>        </kop>        <al>Geluidwerende voorzieningen worden niet aangebracht aan de in       <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikel 2, eerste lid</intref>, bedoelde woningen, wanneer ten tijde van de bekendmaking       van het isolatieprogramma, bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=12">artikel 12, eerste lid</intref>:</al>        <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>        <al> vast staat dat de geluidsgevoelige ruimten van de         betreffende woningen reeds voldoen aan <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=19">artikel 19</intref>, dan wel aan overeenkomstige         eisen hadden moeten voldoen op grond van de geluidweringsvoorschriften         ingevolge de <extref status="actief" doc="1.0:v:BWBR0002379" compleet="nee">Woningwet 1962</extref> of de <extref status="actief" doc="1.0:v:BWBR0005181" compleet="nee">Woningwet</extref>;</al>        </li><li><li.nr>b.</li.nr>        <al>vaststaat dat zij onteigend maar nog bewoond zijn, dan wel de verwachting bestaat dat zij binnen vijf jaar na de bekendmaking van het isolatieprogramma zullen worden of zijn onteigend of dat de bewoning om andere redenen binnen die termijn zal worden gestaakt;</al>        </li><li><li.nr>c.</li.nr>        <al> vast staat dat zij onbewoonbaar zijn verklaard, dan wel         een procedure tot onbewoonbaarverklaring, bedoeld in <extref status="actief" doc="1.0:v:BWBR0005181&amp;afdeling=3" compleet="nee">hoofdstuk III, afdeling 3,         van de Woningwet</extref>, aanhangig is gemaakt;</al>        </li><li><li.nr>d.</li.nr>        <al><redactie type="vervanging">vervallen;</redactie></al>        </li><li><li.nr>e.</li.nr>        <al> vast staat dat zij niet voor permanente bewoning         geschikt of bestemd zijn of daar niet voor worden gebruikt;</al>        </li><li><li.nr>f.</li.nr>        <al> vast staat dat zij behoren tot de categorie&#xEB;n         woonschepen of woonwagens;</al>        </li><li><li.nr>g.</li.nr>        <al>de verwachting bestaat dat zij binnen twee jaar na bekendmaking van het isolatieprogramma of na bekendmaking van een deelproject, door het wijzigen of het vervallen van de geluidszone in Ke of van de geluidscontour Schiphol niet meer binnen de in <extref status="actief" doc="1.0:v:BWBR0002267&amp;artikel=25d" compleet="nee">artikel 25d van de Luchtvaartwet</extref> of, voor de luchthaven Schiphol, binnen de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=3">bijlage 3</intref> bij deze regeling bedoelde geluidscontour die behoort bij de waarde van 40 Ke, aanwezig zullen zijn;</al>        </li><li>
+                <li.nr>h.</li.nr>
+                <al>vaststaat dat aan de desbetreffende woningen met toepassing van deze regeling reeds van rijkswege geluidwerende voorzieningen zijn aangebracht, en de waarde van de geluidwering van de uitwendige scheidingsconstructie ter bescherming van de geluidsgevoelige ruimte, bepaald volgens <intref status="actief" doc="1.0:v:BWBR0008540&amp;bijlage=2">bijlage 2</intref> bij deze regeling zoals die gold op het moment waarop bedoelde geluidwerende voorzieningen werden aangebracht, 3 dB(A) of minder lager is dan de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=19">artikel 19, eerste lid</intref>, bedoelde waarde;</al>
+              </li>
+              <li>
+                <li.nr>i.</li.nr>
+                <al>vaststaat dat de desbetreffende woningen reeds in beschouwing voor toepassing van deze regeling zijn genomen en op grond van de volgende situaties besloten is om niet over te gaan tot het van rijkswege aanbrengen van geluidwerende voorzieningen:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>er was sprake van constructieve gebreken of achterstallig onderhoud als bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=6">artikel 6, derde lid</intref>, en</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>de waarde van de geluidwering van de uitwendige scheidingsconstructie, bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=19">artikel 19, eerste lid</intref>, is minder dan 5 dB(A) lager dan de waarde van de geluidwering van de uitwendige scheidingsconstructie op het moment waarop de woning eerder in beschouwing is genomen.</al>
+                  </li>
+                </lijst>
+              </li></lijst>              </artikel></paragraaf><paragraaf><kop>       <label>&#xA7;</label><nr>2</nr>       <titel>LAeq-isolatie aan slaapkamers van woningen</titel>     </kop><artikel status="goed">        <kop>        <label>Artikel</label><nr status="officieel">4</nr>        </kop>        <al>Geluidwerende voorzieningen worden niet aangebracht aan de in       <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikel 2, tweede lid</intref>, bedoelde woningen, wanneer ten tijde van de bekendmaking       van het isolatieprogramma, bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=15">artikel 15, eerste lid</intref>:</al>        <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>        <al>vaststaat dat de slaapkamers van de desbetreffende woningen reeds voldoen aan <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=20">artikel 20</intref>;</al>        </li><li><li.nr>b.</li.nr>        <al>vaststaat dat zij onteigend maar nog bewoond zijn, dan wel de verwachting bestaat dat zij binnen vijf jaar na de bekendmaking van het isolatieprogramma zullen worden onteigend of dat de bewoning om andere redenen binnen die termijn zal worden gestaakt;</al>        </li><li><li.nr>c.</li.nr>        <al> vast staat dat zij onbewoonbaar zijn verklaard, dan wel         een procedure tot onbewoonbaarverklaring, bedoeld in <extref status="actief" doc="1.0:v:BWBR0005181&amp;afdeling=3" compleet="nee">hoofdstuk III, afdeling 3,         van de Woningwet</extref>, aanhangig is gemaakt;</al>        </li><li><li.nr>d.</li.nr>        <al><redactie type="vervanging">vervallen;</redactie></al>        </li><li><li.nr>e.</li.nr>        <al> vast staat dat zij niet voor permanente bewoning         geschikt of bestemd zijn of daar niet voor worden gebruikt;</al>        </li><li><li.nr>f.</li.nr>        <al> vast staat dat zij behoren tot de categorie&#xEB;n         woonschepen of woonwagens;</al>        </li><li><li.nr>g.</li.nr>        <al>de verwachting bestaat dat zij binnen twee jaar na bekendmaking van het isolatieprogramma of na bekendmaking van een deelproject, door het wijzigen of het vervallen van de Laeq geluidszone in dB(A) niet meer binnen de Laeq geluidzone in dB(A) aanwezig zullen zijn;</al>        </li><li>
+                <li.nr>h.</li.nr>
+                <al>vaststaat dat aan de slaapkamers van de desbetreffende woningen met toepassing van deze regeling reeds van rijkswege geluidwerende voorzieningen zijn aangebracht, en de LAeq geluidszone in dB(A) ter bescherming van de slaapkamers zoals die gold op het moment waarop bedoelde geluidwerende voorzieningen werden aangebracht, een waarde heeft die 1 dB(A) of minder lager is dan de bij de desbetreffende LAeq geluidszone behorende waarde in dB(A);</al>
+              </li>
+              <li>
+                <li.nr>i.</li.nr>
+                <al>vaststaat dat de slaapkamers van de desbetreffende woningen reeds in beschouwing voor toepassing van deze regeling zijn genomen en op grond van de volgende situaties besloten is om niet over te gaan tot het van rijkswege aanbrengen van geluidwerende voorzieningen:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>er was sprake van constructieve gebreken of achterstallig onderhoud als bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=8">artikel 8, derde lid</intref>, zoals <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=8">dat artikel</intref> luidde op het in de aanhef bedoelde moment van in beschouwing nemen, en</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>de waarde van de LAeq geluidszone in dB(A), bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=20">artikel 20</intref>, is minder dan 5 dB(A) lager dan de waarde van de LAeq geluidszone in dB(A) op het moment waarop de woning eerder in beschouwing is genomen.</al>
+                  </li>
+                </lijst>
+              </li></lijst>              </artikel></paragraaf></afdeling><afdeling><kop>     <label>Afdeling</label><nr>3</nr>     <titel>Situaties waarin onder bepaalde voorwaarden geluidwerende       voorzieningen worden aangebracht</titel>     </kop><paragraaf><kop>       <label>&#xA7;</label><nr status="officieel">1</nr>       <titel status="officieel">Ke-isolatie aan geluidsgevoelige ruimten van       woningen</titel>     </kop><artikel status="goed">        <kop>        <label>Artikel</label><nr status="officieel">5</nr>        </kop>        <lid>        <lidnr status="officieel">1</lidnr>        <al>Indien uit het onderzoek blijkt dat:</al>        <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>          <al> de waarde van de geluidwering van de uitwendige         scheidingsconstructie van de geluidsgevoelige ruimten van een woning, bedoeld         in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikel 2, eerste lid</intref>, meer dan 2 dB(A) lager is dan de waarde die bereikt         had moeten worden op grond van de geluidweringsvoorschriften ingevolge de         <extref status="actief" doc="1.0:v:BWBR0002379" compleet="nee">Woningwet 1962</extref> of de <extref status="actief" doc="1.0:v:BWBR0005181" compleet="nee">Woningwet</extref>, en</al>        </li><li><li.nr>b.</li.nr>          <al> de geluidsbelasting in Ke hoger is dan op de datum         waarop de vergunning voor het
+bouwen krachtens welke de woning is gebouwd, is verleend,         wordt niet tot het van rijkswege aanbrengen van geluidwerende voorzieningen         overgegaan voordat bedoelde uitwendige scheidingsconstructie, binnen een door de Minister gestelde redelijke termijn, door en op kosten van de eigenaar van de woning in overeenstemming         is gebracht met de onder a, bedoelde geluidweringsvoorschriften.</al>        </li></lijst>        </lid>        <lid>        <lidnr status="officieel">2</lidnr>        <al>Indien het eerste lid van toepassing is, vinden de       werkzaamheden tot het in overeenstemming brengen met de       geluidweringsvoorschriften, bedoeld in het eerste lid, onder a, en het van       rijkswege aanbrengen van de geluidwerende voorzieningen gelijktijdig plaats,       indien de eigenaar daarom verzoekt.</al>        </lid>        <lid>        <lidnr status="officieel">3</lidnr>        <al>Indien uit het onderzoek blijkt dat:</al>        <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>          <al> de eigenaar van de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikel 2, eerste lid</intref>, bedoelde         woningen is aangeschreven tot het op zijn kosten treffen van voorzieningen als bedoeld in         <extref status="actief" doc="1.0:v:BWBR0002379&amp;afdeling=2" compleet="nee">hoofdstuk III, afdeling 2 van de Woningwet</extref>;</al>        </li><li><li.nr>b.</li.nr>          <al> die voorzieningen verband houden met het kunnen         aanbrengen van geluidwerende voorzieningen krachtens deze regeling, en</al>        </li><li><li.nr>c.</li.nr>          <al> die voorzieningen nog niet zijn aangebracht, wordt         niet tot het van rijkswege aanbrengen van geluidwerende voorzieningen         overgegaan, tenzij burgemeester en wethouders op verzoek van de eigenaar ermee         hebben ingestemd, dat het treffen van de onder a, bedoelde voorzieningen en het         aanbrengen van de geluidwerende voorzieningen gelijktijdig plaatsvindt.</al>        </li></lijst>        </lid>                      </artikel><artikel status="goed">        <kop>        <label>Artikel</label><nr status="officieel">6</nr>        </kop>        <lid>        <lidnr status="officieel">1</lidnr>        <al>Indien uit het onderzoek blijkt dat met betrekking tot de       geluidsgevoelige ruimten, bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikel 2, eerste lid</intref>, of de       bereikbaarheid van die ruimten, niet is voldaan aan de technische voorschriften       voor bestaande bouw als opgenomen in het <extref status="actief" doc="1.0:v:BWBR0012727" compleet="nee">Bouwbesluit 2003</extref>, wordt niet tot het van rijkswege       aanbrengen van geluidwerende voorzieningen overgegaan voordat bedoelde ruimten       en bereikbaarheid, binnen een door de minister gestelde redelijke termijn, door en op kosten van de eigenaar van de woning in overeenstemming zijn gebracht met de die technische voorschriften.</al>        </lid>        <lid>        <lidnr status="officieel">2</lidnr>        <al>De minister kan het eerste lid buiten toepassing laten of       daarvan afwijken voor zover toepassing, gelet op het belang dat deze regeling       beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende       aard.</al>        </lid>        <lid>        <lidnr status="officieel">3</lidnr>        <al>Indien uit het onderzoek blijkt dat met betrekking tot de       geluidsgevoelige ruimten, bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikel 2, eerste lid</intref>, sprake is van       zichtbare of aantoonbare constructieve gebreken of van achterstallig onderhoud, waaronder niet wordt verstaan       aanpassingen die rechtstreeks voortvloeien uit het aanbrengen van de       geluidwerende voorzieningen, wordt niet tot het van rijkswege aanbrengen van       geluidwerende voorzieningen overgegaan voordat bedoelde gebreken en       achterstallig onderhoud, binnen een door de minister gestelde redelijke termijn, door en op kosten van de eigenaar van de woning zijn opgeheven.</al>        </lid>                <lid>        <lidnr status="officieel">4</lidnr>        <al>Indien het eerste of het derde lid van toepassing is,       vinden de werkzaamheden tot het in overeenstemming brengen met de eisen,       bedoeld in het eerste lid, alsmede het opheffen van constructieve gebreken en van       achter-stallig onderhoud, bedoeld in het derde lid, en het van rijkswege       aanbrengen van de geluidwerende voorzieningen gelijktijdig plaats, indien de       eigenaar daarom verzoekt.</al>        </lid>        <lid>        <lidnr status="officieel">5</lidnr>        <al>Indien uit het onderzoek blijkt dat de kosten van de geluidwerende       voorzieningen en het aanbrengen daarvan hoger zijn dan de       kostenbegrenzingswaarde, wordt niet tot het van rijkswege aanbrengen van       geluidwerende voorzieningen overgegaan, tenzij de eigenaar van de woning het       verschil voor zijn rekening neemt.</al>        </lid>        <lid>        <lidnr status="officieel">6</lidnr>        <al>Indien zich gedurende de uitvoering van de werkzaamheden in       verband met het aanbrengen van de geluidwerende voorzieningen aan de woning       constructieve gebreken openbaren die tot gevolg hebben dat de geluidwerende       voorzieningen niet doelmatig kunnen worden aangebracht, en het Rijk die       gebreken redelijkerwijs niet had behoeven te voorzien, worden de kosten in       verband met het opheffen van die gebreken in overleg met de eigenaar op       billijke wijze verdeeld tussen de eigenaar en het Rijk. </al>        </lid>              </artikel><artikel status="goed">       <kop>       <label>Artikel</label><nr status="officieel">7</nr>       </kop>       <al>Indien de kosten van het aanbod, bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=14">artikel 14, derde lid</intref>, hoger zijn dan de kosten bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=13">artikel 13, derde lid, onderdeel d</intref>, wordt niet tot het van rijkswege aanbrengen van geluidwerende voorzieningen overgegaan, tenzij de eigenaar van de woning het verschil voor zijn rekening neemt.</al>            </artikel></paragraaf><paragraaf><kop>       <label>&#xA7;</label><nr status="officieel">2</nr>       <titel status="officieel">LAeq-isolatie aan slaapkamers van woningen</titel>     </kop><artikel status="goed">        <kop>        <label>Artikel</label><nr status="officieel">8</nr>        </kop>        <al>Indien uit het onderzoek blijkt dat:</al>        <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>          <al> de eigenaar van de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikel 2, tweede lid</intref>, bedoelde         woningen is aangeschreven tot het op zijn kosten treffen van voorzieningen als bedoeld in         <extref status="actief" doc="1.0:v:BWBR0002379&amp;afdeling=2" compleet="nee">hoofdstuk III, afdeling 2, van de Woningwet</extref>;</al>        </li><li><li.nr>b.</li.nr>          <al> die voorzieningen verband houden met het kunnen         aanbrengen van geluidwerende voorzieningen krachtens deze regeling, en</al>        </li><li><li.nr>c.</li.nr>          <al> die voorzieningen nog niet zijn aangebracht, wordt         niet tot het van rijkswege aanbrengen van geluidwerende voorzieningen         overgegaan, tenzij burgemeester en wethouders op verzoek van de eigenaar ermee         hebben ingestemd, dat het treffen van de onder a, bedoelde voorzieningen en het         aanbrengen van de geluidwerende voorzieningen gelijktijdig plaatsvindt;</al>        </li></lijst>                              </artikel><artikel status="goed">        <kop>        <label>Artikel</label><nr status="officieel">9</nr>        </kop>        <lid>        <lidnr status="officieel">1</lidnr>        <al>Indien uit het onderzoek blijkt dat met betrekking tot de       slaapkamers, bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikel 2, tweede lid</intref>, of de bereikbaarheid van die       slaapkamers, niet is voldaan aan de technische voorschriften voor bestaande bouw als opgenomen in het <extref status="actief" doc="1.0:v:BWBR0012727" compleet="nee">Bouwbesluit 2003</extref>, wordt niet tot het van rijkswege aanbrengen van       geluidwerende voorzieningen overgegaan voordat bedoelde slaapkamers en       bereikbaarheid, binnen een door de minister gestelde redelijke termijn, door en op kosten van de eigenaar van de woning in overeenstemming zijn gebracht met de laatstbedoelde technische voorschriften.</al>        </lid>        <lid>        <lidnr status="officieel">2</lidnr>        <al>De minister kan het eerste lid buiten toepassing laten of       daarvan afwijken voor zover toepassing, gelet op het belang dat deze regeling       beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende       aard.</al>        </lid>        <lid>        <lidnr status="officieel">3</lidnr>        <al>Indien uit het onderzoek blijkt dat met betrekking tot de       slaapkamers, bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikel 2, tweede lid</intref>, sprake is van zichtbare of aantoonbare constructieve gebreken of van       achterstallig onderhoud, waaronder niet wordt verstaan aanpassingen die       rechtstreeks voortvloeien uit het aanbrengen van de geluidwerende       voorzieningen, wordt niet tot het van rijkswege aanbrengen van geluidwerende       voorzieningen overgegaan voordat bedoelde gebreken en achterstallig onderhoud,       binnen een door de minister gestelde redelijke termijn, door en op kosten van de eigenaar van de woning       zijn opgeheven.</al>        </lid>                <lid>        <lidnr status="officieel">4</lidnr>        <al>Indien het eerste of het derde lid van toepassing is,       vinden de werkzaamheden tot het in overeenstemming brengen met de eisen, bedoeld in het eerste lid, alsmede het opheffen van constructieve gebreken en       van achterstallig onderhoud, bedoeld in het derde lid, en het van rijkswege       aanbrengen van de geluidwerende voorzieningen gelijktijdig plaats, indien de       eigenaar daarom verzoekt.</al>        </lid>        <lid>        <lidnr status="officieel">5</lidnr>        <al>Indien uit het onderzoek blijkt dat de kosten van de geluidwerende       voorzieningen en het aanbrengen daarvan hoger zijn dan de       kostenbegrenzingswaarde, wordt niet tot het van rijkswege aanbrengen van       geluidwerende voorzieningen overgegaan, tenzij de eigenaar van de woning het       verschil voor zijn rekening neemt.</al>        </lid>        <lid>        <lidnr status="officieel">6</lidnr>        <al>Indien zich gedurende de uitvoering van de werkzaamheden in       verband met het aanbrengen van de geluidwerende voorzieningen aan de woning       constructieve gebreken openbaren die tot gevolg hebben dat de geluidwerende       voorzieningen niet doelmatig kunnen worden aangebracht, en het Rijk die       gebreken redelijkerwijs niet had behoeven te voorzien, worden de kosten in       verband met het opheffen van die gebreken in overleg met de eigenaar op       billijke wijze verdeeld tussen de eigenaar en het Rijk. </al>        </lid>              </artikel><artikel status="goed">       <kop>       <label>Artikel</label><nr status="officieel">10</nr>       </kop>       <al>Indien de kosten van het aanbod, bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=17">artikel 17, derde lid</intref>, hoger zijn dan de kosten, bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=16">artikel 16, derde lid, onderdeel d</intref>, wordt       niet tot het van rijkswege aanbrengen van geluidwerende voorzieningen       overgegaan, tenzij de eigenaar van de woning het verschil voor zijn rekening       neemt.</al>            </artikel></paragraaf></afdeling>                <afdeling status="goed">     <kop>     <label>Afdeling</label><nr status="officieel">4</nr>     <titel status="officieel">Andere geluidsgevoelige gebouwen</titel>     </kop>     <artikel status="goed">      <kop>        <label>Artikel</label><nr status="officieel">11</nr>      </kop>      <lid><lidnr status="officieel">1</lidnr><al><intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=3">Artikel 3, aanhef en onder a, b, e, g, h en i</intref>, <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=5">artikel 5</intref>, <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=6">artikel 6, eerste tot en met vierde lid en zesde lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=7">artikel 7</intref>, zijn van overeenkomstige toepassing op de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikel 2, eerste lid</intref>, bedoelde andere geluidsgevoelige gebouwen.</al></lid>
+              <lid><lidnr status="officieel">2</lidnr><al><intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=4">Artikel 4, aanhef en onder a, b, e, g, h en i</intref>, <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=8">artikel 8</intref>, <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=9">artikel 9, eerste tot en met vierde lid en zesde lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=10">artikel 10</intref>, zijn van overeenkomstige toepassing op de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikel 2, tweede lid</intref>, bedoelde ziekenhuizen, verpleeghuizen en andere gezondheidszorggebouwen.</al></lid>
+            </artikel>     </afdeling>   </hoofdstuk>    <hoofdstuk>     <kop>     <label>Hoofdstuk</label><nr>3</nr>     <titel>Procedure</titel>     </kop>     <afdeling><kop>     <label>Afdeling</label><nr>1</nr>     <titel>Ke-isolatie aan geluidsgevoelige ruimten van woningen</titel>     </kop><paragraaf><kop>       <label>&#xA7;</label><nr status="officieel">1</nr>       <titel status="officieel">Isolatieprogramma en deelprojecten</titel>     </kop><artikel status="goed">        <kop>        <label>Artikel</label><nr status="officieel">12</nr>        </kop>        <lid><lidnr status="officieel"> 1</lidnr><al>De Minister stelt in een isolatieprogramma vast welke woningen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikel 2, eerste lid</intref>, voor het van rijkswege aanbrengen van geluidwerende voorzieningen in beschouwing zullen worden genomen.  Na vaststelling van het isolatieprogramma, kan de Minister deelprojecten vaststellen waarin wordt aangeven voor welke woningen uit het isolatieprogramma in een daarbij aangegeven periode achtereenvolgens uitvoering wordt gegeven aan de <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=13">artikelen 13</intref> en <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=14">14</intref>. De Minister kan besluiten aan woningen in een deelproject geen uitvoering te geven aan de <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=13">artikelen 13</intref> en <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=14">14</intref> indien  op grond van een besluit tot het wijzigen of vervallen van de geluidszone in Ke of van de geluidscontour Schiphol wordt vastgesteld dat de woningen binnen twee jaar na vaststelling van het deelproject niet meer binnen de in <extref status="actief" doc="1.0:v:BWBR0002267&amp;artikel=25d" compleet="nee">artikel 25d van de Luchtvaartwet</extref> of, voor de luchthaven Schiphol, binnen de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;bijlage=3">bijlage 3</intref> bij deze regeling bedoelde geluidscontour die behoort bij de waarde van 40 Ke of  binnen de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;bijlage=4">bijlage 4</intref> bij deze regeling bedoelde LAeq geluidszone in dB(A) aanwezig zullen zijn.</al><al>De in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=3">artikel 3</intref> bedoelde woningen worden niet in het isolatieprogramma opgenomen.</al></lid>
+              
+              <lid><lidnr status="officieel">2</lidnr><al>Tot het moment waarop een geluidszone in Ke of een geluidscontour Schiphol wordt gewijzigd, wordt een woning door de Minister slechts &#xE9;&#xE9;nmaal in beschouwing genomen.</al></lid>
+              <lid><lidnr status="officieel"> 3</lidnr><al>De Minister stelt de eigenaren van de in het eerste lid bedoelde woningen die voor het van rijkswege aanbrengen van geluidwerende voorzieningen in beschouwing worden genomen, hiervan schriftelijk op de hoogte. De Minister stelt de eigenaren van de woningen die ingevolge het eerste lid niet in het isolatieprogramma worden opgenomen, hiervan schriftelijk op de hoogte.</al></lid>
+              <lid><lidnr status="officieel">4</lidnr><al>In verband met het opstellen van het isolatieprogramma of deelprojecten, kan de Minister burgemeester en wethouders verzoeken met betrekking tot de in het eerste lid bedoelde woningen in ieder geval de volgende gegevens te verstrekken:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>namen en adressen van eigenaren;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>kadastrale gegevens;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>gegevens uit de registratie met betrekking tot de onroerende-zaakbelasting die de bestemming van de woning betreffen;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>tekeningen van woningen;</al>
+                </li>
+                <li>
+                  <li.nr>e.</li.nr>
+                  <al>de verstrekte vergunningen voor het
+bouwen;</al>
+                </li>
+                <li>
+                  <li.nr>f.</li.nr>
+                  <al>een overzicht van de voor <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=3">artikel 3</intref> noodzakelijke gegevens.</al>
+                </li>
+              </lijst></lid></artikel></paragraaf><paragraaf><kop>       <label>&#xA7;</label><nr status="officieel">2</nr>       <titel status="officieel">Onderzoek</titel>     </kop><artikel status="goed">        <kop>        <label>Artikel</label><nr status="officieel">13</nr>        </kop>        <lid><lidnr status="officieel">1</lidnr><al>Aan de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=12">artikel 12, derde lid, eerste volzin</intref>, bedoelde eigenaren wordt, zodra de woning die is opgenomen in het isolatieprogramma of een deelproject, in uitvoering wordt genomen, verzocht binnen twee maanden na verzending van de mededeling, schriftelijk toestemming te verlenen tot het uitvoeren van een onderzoek.</al></lid>
+              <lid><lidnr status="officieel"> 2</lidnr><al>Indien de toestemming niet volledig, niet binnen de in het eerste lid genoemde termijn of niet voor de gehele woning is verleend, wordt de desbetreffende eigenaren schriftelijk medegedeeld dat geen geluidwerende voorzieningen worden aangebracht.</al></lid>
+              <lid><lidnr status="officieel">3</lidnr><al>Indien toestemming tot het uitvoeren van een onderzoek is verleend, stelt de Minister binnen zes maanden na ontvangst daarvan een onderzoek in. Het resultaat van het onderzoek, met in ieder geval de volgende onderwerpen, wordt de Minister medegedeeld:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>een opgave van de geluidsgevoelige ruimten;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>een inventarisatie van bouwtechnische gegevens die van belang zijn voor het vaststellen van de aan te brengen geluidwerende voorzieningen;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>een opgave van de geluidwerende voorzieningen die moeten worden aangebracht om te voldoen aan <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=19">artikel 19</intref>;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>een raming van de ten laste van het Rijk komende kosten die zijn verbonden aan het aanbrengen van de onder c bedoelde geluidwerende voorzieningen;</al>
+                </li>
+                <li>
+                  <li.nr>e.</li.nr>
+                  <al>indien van toepassing, een raming van de ten laste van de eigenaren komende kosten voor:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                      <li.nr>1&#xB0;.</li.nr>
+                      <al>het uitvoeren van extra voorzieningen met betrekking tot het in overeenstemming brengen met de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=5">artikel 5, eerste lid, onderdeel a</intref>, bedoelde geluidweringsvoorschriften;</al>
+                    </li>
+                    <li>
+                      <li.nr>2&#xB0;.</li.nr>
+                      <al>het uitvoeren van extra voorzieningen met betrekking tot de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=5">artikel 5, derde lid</intref>, bedoelde aanschrijvingen;</al>
+                    </li>
+                    <li>
+                      <li.nr>3&#xB0;.</li.nr>
+                      <al>het uitvoeren van extra voorzieningen met betrekking tot het in overeenstemming brengen met de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=6">artikel 6, eerste lid</intref>, bedoelde technische voorschriften van het <extref status="actief" doc="1.0:v:BWBR0012727" compleet="nee">Bouwbesluit 2003</extref>;</al>
+                    </li>
+                    <li>
+                      <li.nr>4&#xB0;.</li.nr>
+                      <al>het in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=6">artikel 6, derde lid</intref>, bedoelde opheffen van gebreken en van achterstallig onderhoud;</al>
+                    </li>
+                    <li>
+                      <li.nr>5&#xB0;.</li.nr>
+                      <al>het in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=6">artikel 6, vijfde lid</intref>, bedoelde verschil tussen het geraamde bedrag voor het aanbrengen van de geluidwerende voorzieningen en de kostenbegrenzingswaarde.</al>
+                    </li>
+                  </lijst>
+                </li>
+              </lijst></lid>
+              
+              <lid><lidnr status="officieel">4</lidnr><al>De Minister kan op verzoek van de eigenaar de resultaten van het onderzoek doen controleren.</al></lid>
+            </artikel></paragraaf><paragraaf><kop>       <label>&#xA7;</label><nr status="officieel">3</nr>       <titel status="officieel">Aanbod en overeenkomst</titel>     </kop><artikel status="goed">        <kop>        <label>Artikel</label><nr status="officieel">14</nr>        </kop>        <lid><lidnr status="officieel">1</lidnr><al>De Minister stelt de eigenaren van de woningen die op basis van het onderzoek in overeenstemming moeten worden gebracht met:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=5">artikel 5, eerste lid, onderdeel a</intref>, bedoelde geluidweringsvoorschriften;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=5">artikel 5, derde lid</intref>, bedoelde aanschrijvingen;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=6">artikel 6, eerste lid</intref>, bedoelde technische voorschriften van het Bouwbesluit 2003;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=6">artikel 6, derde lid</intref>, bedoelde opheffing van gebreken en van achterstallig onderhoud,</al>
+              </li>
+            </lijst><al>hiervan binnen zes weken na ontvangst van de resultaten, bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=13">artikel 13, derde lid</intref>, schriftelijk op de hoogte. Aan hen wordt verzocht binnen twee maanden na ontvangst van deze mededeling, schriftelijk te verklaren dat zij zich verplichten, om binnen een door de Minister gestelde redelijke termijn de onder a tot en met d bedoelde werkzaamheden uit te voeren voorafgaand aan het aanbrengen van de geluidwerende voorzieningen, tenzij toepassing wordt gevraagd van <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=5">artikel 5, tweede lid</intref>, of van <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=6">artikel 6, vierde lid</intref>.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De eigenaren van de woningen die op basis van het onderzoek voor het van rijkswege aanbrengen van geluidwerende voorzieningen in aanmerking komen, ontvangen binnen zes weken na het afronden van het onderzoek een aanbod met betrekking tot de aan te brengen geluidwerende voorzieningen, alsmede, indien toepassing wordt gevraagd van <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=5">artikel 5, tweede lid</intref>, of van <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=6">artikel 6, vierde lid</intref>, een voorstel voor een overeenkomst met betrekking tot de in het eerste lid, onderdelen a tot en met d, bedoelde werkzaamheden.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Het aanbod kan op verzoek van de eigenaar betrekking hebben op een kleiner aantal geluidsgevoelige ruimten dan bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=13">artikel 13, derde lid, onderdeel a</intref>. Indien de eigenaar het verschil in kosten als bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=7">artikel 7</intref> voor zijn rekening neemt, wordt bij het aanbod tevens een voorstel voor een overeenkomst bijgevoegd.</al></lid>       <lid>       <lidnr status="officieel">4</lidnr>       <al>Indien <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=6">artikel 6, vijfde lid</intref>, van toepassing is, kan het in       het tweede lid bedoelde aanbod op verzoek van de eigenaar betrekking hebben op       geluidwerende voorzieningen waarmee een lagere waarde van de geluidwering van       de uitwendige scheidingsconstructie ter bescherming van de geluidsgevoelige       ruimte wordt bereikt als bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=19">artikel 19, zesde lid</intref>.</al>       </lid>       <lid>        <lidnr status="officieel">5</lidnr>        <al>Indien van toepassing wordt, na ontvangst van de in het       eerste lid bedoelde verklaring, het in het tweede lid bedoelde aanbod gedaan       onder de voorwaarde dat de in het eerste lid, onder a tot en met d, bedoelde       werkzaamheden binnen een door de minister gestelde redelijke termijn zijn uitgevoerd;</al>        </lid>        <lid>        <lidnr status="officieel">6</lidnr>        <al>De eigenaren van de woningen, die op basis van het onderzoek niet in       aanmerking komen voor het van rijkswege aanbrengen van geluidwerende       voorzieningen, worden hiervan schriftelijk op de hoogte gesteld.</al>        </lid>        <lid>        <lidnr status="officieel">7</lidnr>        <al>Aan de in het tweede lid bedoelde eigenaren wordt verzocht       binnen twee maanden na ontvangst van het aanbod en, indien van toepassing, de       overeenkomst, door middel van ondertekening schriftelijk te verklaren dat:</al>              <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>          <al> zij voor alle geluidsgevoelige ruimten waar het aanbod         betrekking op heeft, instemmen met de voorgestelde geluidwerende voorzieningen         en toestemming geven tot het aanbrengen van de voorgestelde geluidwerende         voorzieningen;</al>        </li><li><li.nr>b.</li.nr>          <al> zij zich verbinden tot het uitvoeren van de in het         eerste lid, onder a tot en met d, bedoelde werkzaamheden;</al>        </li><li><li.nr>c.</li.nr>          <al> zij zich verbinden tot het nakomen van de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=13">artikel 13, derde lid, onder e</intref>, bedoelde betalingsverplichtingen;</al>        </li><li><li.nr>d.</li.nr>          <al> zij de bij het aanbrengen van de geluidwerende         voorzieningen verwijderde onderdelen prijsgeven;</al>        </li><li><li.nr>e.</li.nr>         <al>zij zich, indien van toepassing, verbinden tot het         betalen van de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=7">artikel 7</intref> bedoelde kosten.</al>       </li></lijst>        </lid>        <lid><lidnr status="officieel">8</lidnr><al>Na ondertekening van het aanbod en, indien van toepassing, van de overeenkomst, wordt de desbetreffende eigenaren schriftelijk meegedeeld wanneer de geluidwerende voorzieningen naar verwachting zullen worden aangebracht.</al></lid><lid><lidnr status="officieel">9</lidnr><al>In geval de ondertekening van het aanbod en, indien van toepassing, van de overeenkomst, niet binnen de in het zevende lid genoemde termijn heeft plaatsgevonden, wordt de desbetreffende eigenaren schriftelijk meegedeeld dat geen geluidwerende voorzieningen worden aangebracht.</al></lid>                      </artikel></paragraaf></afdeling><afdeling><kop>     <label>Afdeling</label><nr>2</nr>     <titel>LAeq-isolatie aan slaapkamers van woningen</titel>     </kop><paragraaf><kop>       <label>&#xA7;</label><nr status="officieel">1</nr>       <titel status="officieel">Isolatieprogramma en deelprojecten</titel>     </kop><artikel status="goed">        <kop>        <label>Artikel</label><nr status="officieel">15</nr>        </kop>        <lid><lidnr status="officieel"> 1</lidnr><al>De Minister stelt in een isolatieprogramma vast welke woningen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikel 2, tweede lid</intref>, voor het van rijkswege aanbrengen van geluidwerende voorzieningen in beschouwing zullen worden genomen.  Na vaststelling van het isolatieprogramma, kan de Minister deelprojecten vaststellen waarin wordt aangeven voor welke woningen uit het isolatieprogramma in een daarbij aangegeven periode achtereenvolgens uitvoering wordt gegeven aan de <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=16">artikelen 16</intref> en<intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=17">17</intref>. De Minister kan besluiten aan woningen in een deelproject geen uitvoering te geven aan de <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=16">artikelen 16</intref> en <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=17">17</intref> indien op grond van een besluit tot het wijzigen of vervallen van de LAeq geluidszone in dB(A) wordt vastgesteld dat de woningen binnen twee jaar na vaststelling van het deelproject niet meer binnen de in <extref status="actief" doc="1.0:v:BWBR0002267&amp;artikel=25a" compleet="nee">artikel 25a van de Luchtvaartwet</extref> of, voor de luchthaven Schiphol, binnen de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;bijlage=4">bijlage 4</intref> bij deze regeling bedoelde LAeq geluidszone in dB(A) aanwezig zullen zijn. De in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=4">artikel 4</intref> bedoelde woningen worden niet in het isolatieprogramma opgenomen.</al></lid>
+              <lid><lidnr status="officieel">2</lidnr><al>Tot het moment waarop een LAeq geluidszone in dB(A) wordt gewijzigd, wordt een woning wordt door de Minister slechts &#xE9;&#xE9;nmaal in beschouwing genomen.</al></lid>
+              <lid><lidnr status="officieel">3</lidnr><al>De Minister stelt eigenaren van de in het eerste lid bedoelde woningen die voor het van rijkswege aanbrengen van geluidwerende voorzieningen in beschouwing worden genomen, hiervan schriftelijk op de hoogte. De Minister stelt eigenaren van de woningen die ingevolge het eerste lid niet in het isolatieprogramma worden opgenomen, hiervan schriftelijk op de hoogte.</al></lid>
+              <lid><lidnr status="officieel">4</lidnr><al>In verband met het opstellen van het isolatieprogramma of deelprojecten, kan de Minister burgemeester en wethouders verzoeken met betrekking tot de in het eerste lid bedoelde woningen in ieder geval de volgende gegevens te verstrekken:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>namen en adressen van eigenaren;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>kadastrale gegevens;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>gegevens uit de registratie met betrekking tot de onroerende-zaakbelasting die de bestemming van de woning betreffen;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>tekeningen van woningen;</al>
+                </li>
+                <li>
+                  <li.nr>e.</li.nr>
+                  <al>de verstrekte vergunningen voor het
+bouwen;</al>
+                </li>
+                <li>
+                  <li.nr>f.</li.nr>
+                  <al>een overzicht van de voor <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=4">artikel 4</intref> noodzakelijke gegevens.</al>
+                </li>
+              </lijst></lid>              </artikel></paragraaf><paragraaf><kop>       <label>&#xA7;</label><nr status="officieel">2</nr>       <titel status="officieel">Onderzoek</titel>     </kop><artikel status="goed">        <kop>        <label>Artikel</label><nr status="officieel">16</nr>        </kop>        <lid><lidnr status="officieel">1</lidnr><al>Aan de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=15">artikel 15, derde lid, eerste volzin</intref>, bedoelde eigenaren wordt, zodra de woning die is opgenomen in het isolatieprogramma of een deelproject, in uitvoering wordt genomen, verzocht binnen twee maanden na verzending van de mededeling, schriftelijk toestemming te verlenen tot het uitvoeren van een onderzoek.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Indien de toestemming niet volledig, niet binnen de in het eerste lid genoemde termijn of niet voor de gehele woning is verleend, wordt de desbetreffende eigenaren schriftelijk meegedeeld dat geen geluidwerende voorzieningen worden aangebracht.</al></lid>
+              
+              <lid><lidnr status="officieel"> 3</lidnr><al>Indien de toestemming is verleend, stelt de Minister binnen zes maanden na ontvangst daarvan een onderzoek in. Het resultaat van het onderzoek, met in ieder geval de volgende onderwerpen, wordt de Minister medegedeeld:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>een opgave van de slaapkamers;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>een inventarisatie van bouwtechnische gegevens die van belang zijn voor het vaststellen van de aan te brengen geluidwerende voorzieningen;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>een opgave van de geluidwerende voorzieningen die moeten worden aangebracht om te voldoen aan <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=20">artikel 20</intref>;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>een raming van de ten laste van het Rijk komende kosten die zijn verbonden aan het aanbrengen van de onder c bedoelde geluidwerende voorzieningen;</al>
+                </li>
+                <li>
+                  <li.nr>e.</li.nr>
+                  <al>indien van toepassing, een raming van de ten laste van de eigenaren komende kosten voor:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                      <li.nr>1&#xB0;.</li.nr>
+                      <al>het uitvoeren van extra voorzieningen met betrekking tot de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=8">artikel 8, onderdeel a</intref>, bedoelde aanschrijvingen;</al>
+                    </li>
+                    <li>
+                      <li.nr>2&#xB0;.</li.nr>
+                      <al>het uitvoeren van extra voorzieningen met betrekking tot het in overeenstemming brengen met de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=9">artikel 9, eerste lid</intref>, bedoelde technische voorschriften van het <extref status="actief" doc="1.0:v:BWBR0012727" compleet="nee">Bouwbesluit 2003</extref>;</al>
+                    </li>
+                    <li>
+                      <li.nr>3&#xB0;.</li.nr>
+                      <al>het in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=9">artikel 9, derde lid</intref>, bedoelde opheffen van gebreken en van achterstallig onderhoud;</al>
+                    </li>
+                    <li>
+                      <li.nr>4&#xB0;.</li.nr>
+                      <al>het in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=9">artikel 9, vijfde lid</intref>, bedoelde verschil tussen het geraamde bedrag voor het aanbrengen van de geluidwerende voorzieningen en de kostenbegrenzingswaarde.</al>
+                    </li>
+                  </lijst>
+                </li>
+              </lijst></lid>
+              <lid><lidnr status="officieel">4</lidnr><al>De Minister kan op verzoek van de eigenaar de resultaten van het onderzoek doen controleren.</al></lid>
+                          </artikel></paragraaf><paragraaf><kop>       <label>&#xA7;</label><nr status="officieel">3</nr>       <titel status="officieel">Aanbod en overeenkomst</titel>     </kop><artikel status="goed">        <kop>        <label>Artikel</label><nr status="officieel">17</nr>        </kop>        <lid><lidnr status="officieel">1</lidnr><al>De Minister stelt de eigenaren van de woningen die op basis van het onderzoek in overeenstemming moeten worden gebracht met:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=8">artikel 8, onderdeel a</intref>, bedoelde aanschrijvingen;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=9">artikel 9, eerste lid</intref>, bedoelde technische voorschriften van het <extref status="actief" doc="1.0:v:BWBR0012727" compleet="nee">Bouwbesluit 2003</extref>;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=9">artikel 9, derde lid</intref>, bedoelde opheffing van gebreken en van achterstallig onderhoud,</al>
+              </li>
+            </lijst><al>hiervan binnen zes weken na ontvangst van de resultaten, bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=16">artikel 16, derde lid</intref>, schriftelijk op de hoogte. Aan hen wordt verzocht binnen twee maanden na ontvangst van deze schriftelijke mededeling, schriftelijk te verklaren dat zij zich verplichten, om binnen een door de Minister gestelde redelijke termijn de onder a tot en met c bedoelde werkzaamheden uit te voeren voorafgaand aan het aanbrengen van de geluidwerende voorzieningen, tenzij toepassing wordt gevraagd van <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=9">artikel 9, vierde lid</intref>.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De eigenaren van de woningen die op basis van het onderzoek voor het van rijkswege aanbrengen van geluidwerende voorzieningen in aanmerking komen, ontvangen binnen zes weken na het afronden van het onderzoek een aanbod met betrekking tot de aan te brengen geluidwerende voorzieningen, alsmede, indien toepassing wordt gevraagd van <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=9">artikel 9, vierde lid</intref>, een voorstel voor een overeenkomst met betrekking tot de in het eerste lid, de onderdelen a tot en met c, bedoelde werkzaamheden.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Het aanbod kan op verzoek van de eigenaar betrekking hebben op een kleiner aantal geluidsgevoelige ruimten dan bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=16">artikel 16, derde lid, onderdeel a</intref>. Indien de eigenaar het verschil in kosten als bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=10">artikel 10</intref> voor zijn rekening neemt, wordt bij het aanbod tevens een voorstel voor een overeenkomst bijgevoegd.</al></lid>       <lid>        <lidnr status="officieel">4</lidnr>        <al>Indien van toepassing wordt, na ontvangst van de in het       eerste lid bedoelde verklaring, het in het tweede lid bedoelde aanbod gedaan       onder de voorwaarde dat de in het eerste lid, onder a tot en met c, bedoelde       werkzaamheden binnen een door de minister gestelde redelijke termijn zijn uitgevoerd;</al>        </lid>        <lid>        <lidnr status="officieel">5</lidnr>        <al>De eigenaren van de woningen, die op basis van het onderzoek niet in       aanmerking komen voor het van rijkswege aanbrengen van geluidwerende       voorzieningen, worden hiervan schriftelijk op de hoogte gesteld.</al>        </lid>        <lid>        <lidnr status="officieel">6</lidnr>        <al>Aan de in het tweede lid bedoelde eigenaren wordt verzocht       binnen twee maanden na ontvangst van het aanbod en, indien van toepassing, de       overeenkomst, door middel van ondertekening schriftelijk te verklaren dat:</al>              <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>          <al> zij voor alle slaapkamers waar het aanbod betrekking         op heeft, instemmen met de voorgestelde geluidwerende voorzieningen en         toestemming geven tot het aanbrengen van de voorgestelde geluidwerende         voorzieningen;</al>        </li><li><li.nr>b.</li.nr>          <al> zij zich verbinden tot het uitvoeren van de in het         eerste lid, onder a tot en met c, bedoelde werkzaamheden;</al>        </li><li><li.nr>c.</li.nr>          <al> zij zich verbinden tot het nakomen van de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=16">artikel 16, derde lid, onder e</intref>, bedoelde betalingsverplichtingen;</al>        </li><li><li.nr>d.</li.nr>          <al> zij de bij het aanbrengen van de geluidwerende         voorzieningen verwijderde onderdelen prijsgeven;</al>        </li><li><li.nr>e.</li.nr>         <al>zij zich, indien van toepassing, verbinden tot het         betalen van de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=10">artikel 10</intref> bedoelde kosten.</al>       </li></lijst>        </lid>        <lid><lidnr status="officieel">7</lidnr><al>Na ondertekening van het aanbod en, indien van toepassing, van de overeenkomst, wordt de desbetreffende eigenaren schriftelijk meegedeeld wanneer de geluidwerende voorzieningen naar verwachting zullen worden aangebracht.</al></lid><lid><lidnr status="officieel">8</lidnr><al>In geval de ondertekening van het aanbod en, indien van toepassing, van de overeenkomst, niet binnen de in het zesde lid genoemde termijn heeft plaatsgevonden, wordt de desbetreffende eigenaren schriftelijk meegedeeld dat geen geluidwerende voorzieningen worden aangebracht.</al></lid>                      </artikel></paragraaf></afdeling>          <afdeling status="goed">     <kop>     <label>Afdeling</label><nr status="officieel">3</nr>     <titel status="officieel">Andere geluidsgevoelige gebouwen</titel>     </kop>     <artikel status="goed">      <kop>        <label>Artikel</label><nr status="officieel">18</nr>      </kop>      <lid><lidnr status="officieel">1</lidnr><al><intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=12">Artikel 12</intref>, <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=13">artikel 13 met uitzondering van het derde lid, onderdeel e, onder 5&#xB0;</intref>, en <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=14">artikel 14</intref> zijn van overeenkomstige toepassing op de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikel 2, eerste lid</intref>, bedoelde andere geluidsgevoelige gebouwen.</al></lid><lid><lidnr status="officieel">2</lidnr><al><intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=15">Artikel 15</intref>, <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=16">artikel 16 met uitzondering van het derde lid, onderdeel e, onder 4&#xB0;</intref>, en <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=17">artikel 17</intref> zijn van overeenkomstige toepassing op de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikel 2, tweede lid</intref>, bedoelde ziekenhuizen, verpleeghuizen en andere gezondheidszorggebouwen.</al></lid></artikel>     </afdeling>   </hoofdstuk>    <hoofdstuk>     <kop>     <label>Hoofdstuk</label><nr status="officieel">4</nr>     <titel status="officieel">Eisen aan de voorzieningen</titel>     </kop>     <artikel status="goed">      <kop>      <label>Artikel</label><nr status="officieel">19</nr>      </kop>      <lid>      <lidnr status="officieel">1</lidnr>      <al>Geluidwerende voorzieningen die worden aangebracht ingevolge       <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikel 2, eerste lid</intref>, dienen een zodanige kwaliteit te bezitten dat de waarde       van de geluidwering van de uitwendige scheidingsconstructie ter bescherming van       de geluidsgevoelige ruimte, bepaald volgens <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=4">artikel 4</intref> dan wel <intref status="actief" doc="1.0:v:BWBR0008540&amp;bijlage=2">artikel 5 van       bijlage 2</intref>, bij deze regeling, gelijk is aan:</al>      <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>        <al> 30 tot 35 dB(A), indien de geluidsbelasting meer dan 40       Ke, doch niet meer dan 50 Ke bedraagt;</al>        </li><li><li.nr>b.</li.nr>        <al> 35 tot 40 dB(A), indien de geluidsbelasting meer dan 50       Ke, doch niet meer dan 55 Ke bedraagt;</al>        </li><li><li.nr>c.</li.nr>        <al> 40 dB(A), indien de geluidsbelasting meer dan 55 Ke       bedraagt.</al>        </li></lijst>      </lid>      <lid><lidnr status="officieel">2</lidnr><al>Indien de geluidsbelasting tussen de in het eerste lid, de onderdelen a of b, bedoelde Ke-waarden ligt, wordt de te bereiken waarde van de geluidwering bepaald door middel van de rechtevenredige interpolatie tussen de in het eerste lid, onder a of b, bedoelde dB(A)-waarden van de geluidwering. Indien de waarde van de geluidwering eindigt op een halve eenheid, wordt zij naar beneden op een gehele eenheid afgerond.</al></lid><lid><lidnr status="officieel">3</lidnr><al>De krachtens het eerste lid aan te brengen geluidwerende voorzieningen worden bepaald volgens <intref status="actief" doc="1.0:v:BWBR0008540&amp;bijlage=2">artikel 5 van bijlage 2</intref> bij deze regeling.  In afwijking van de eerste volzin, kunnen ten aanzien van een aaneengesloten rij woningen, om redenen van architectonische waarde of eenvormig aanzicht, identieke geluidwerende voorzieningen worden aangebracht. Bij toepassing van de tweede volzin worden aan de bedoelde woningen de geluidwerende voorzieningen aangebracht die voor de woning met de hoogste geluidsbelasting zijn vastgesteld.</al></lid>      <lid>      <lidnr status="officieel">4</lidnr>      <al>Indien de geluidwering van de uitwendige scheidingsconstructie       ter bescherming van de geluidsgevoelige ruimte, bepaald volgens <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=4">artikel 4</intref> dan       wel <intref status="actief" doc="1.0:v:BWBR0008540&amp;bijlage=2">artikel 5 van bijlage 2</intref>, bij deze regeling, een waarde heeft die 3 dB(A) of       minder lager is dan de in het eerste lid bedoelde waarde van de geluidwering,       worden geen geluidwerende voorzieningen aangebracht. </al>      </lid>     <lid>     <lidnr status="officieel">5</lidnr>     <al>Indien sprake is van een aanbod als bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=14">artikel 14,       derde lid</intref>, is het eerste lid alleen van toepassing op die geluidsgevoelige       ruimten ten behoeve waarvan geluidwerende voorzieningen worden       aangebracht.</al>     </lid>     <lid>     <lidnr status="officieel">6</lidnr>     <al>Indien uit het onderzoek blijkt dat:</al>      <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>        <al> de in het eerste lid bedoelde waarde van de geluidwering       van de uitwendige scheidingsconstructie ter bescherming van de geluidsgevoelige       ruimte niet wordt bereikt zonder toepassing te geven aan <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=6">artikel 6, vijfde lid</intref>,       en</al>        </li><li><li.nr>b.</li.nr>        <al> de <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=5">artikelen 5</intref> en <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=6">6</intref>, met uitzondering van <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=6">artikel 6, vijfde       lid</intref>, niet van toepassing zijn, kan de in het eerste lid bedoelde waarde met ten       hoogste 5 dB(A) worden verlaagd met dien verstande dat deze waarde minimaal 30       dB(A) bedraagt. </al>        </li></lijst>     </lid>            </artikel>     <artikel status="goed">      <kop>      <label>Artikel</label><nr status="officieel">20</nr>      </kop>      <lid>      <lidnr status="officieel">1</lidnr>      <al>Geluidwerende voorzieningen die worden aangebracht ingevolge       <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikel 2, tweede lid</intref>, dienen een zodanige kwaliteit te bezitten dat de waarde       van de LAeq geluidsbelasting binnen de slaapkamer, bepaald volgens <intref status="actief" doc="1.0:v:BWBR0008540&amp;bijlage=2">artikel 6       van bijlage 2</intref>, bij deze regeling, niet meer bedraagt dan 26 dB(A).</al>      </lid>      <lid><lidnr status="officieel">2</lidnr><al>De waarde van de geluidwering van de uitwendige scheidingsconstructie, bepaald volgens <intref status="actief" doc="1.0:v:BWBR0008540&amp;bijlage=2">bijlage 2</intref> bij deze regeling, die wordt bereikt met de krachtens het eerste lid aan te brengen geluidwerende voorzieningen, bedraagt maximaal 40 dB(A).</al></lid><lid><lidnr status="officieel">3</lidnr><al>In afwijking van het tweede lid, kunnen ten aanzien van een aaneengesloten rij woningen, om redenen van architectonische waarde of eenvormig aanzicht, identieke geluidwerende voorzieningen worden aangebracht. Bij toepassing van de eerste volzin worden aan de bedoelde slaapkamers de geluidwerende voorzieningen aangebracht die voor de woning met de hoogste geluidsbelasting zijn vastgesteld.</al></lid>     <lid>     <lidnr status="officieel">4</lidnr>     <al> Indien sprake is van een aanbod als bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=17">artikel 17,       derde lid</intref>, is het eerste lid alleen van toepassing op die slaapkamers ten       behoeve waarvan geluidwerende voorzieningen worden aangebracht.</al>     </lid>            </artikel>     <artikel status="goed">      <kop>      <label>Artikel</label><nr>21</nr>      </kop>      <lid>      <lidnr>1</lidnr>      <al>De geluidwerende voorzieningen mogen niet leiden tot een       essenti&#xEB;le vermindering van het comfort van de woning of het ander       geluidsgevoelig gebouw ten opzichte van de situatie voorafgaand aan het       aanbrengen van de geluidwerende voorzieningen.</al>      </lid>      <lid>      <lidnr>2</lidnr>      <al>De kwaliteit van de geluidwerende voorzieningen moet zodanig       zijn dat de effectiviteit -bij normaal onderhoud - voor een lange periode       gewaarborgd is. Onderhoud of vervanging van de geluidwerende voorzieningen moet       mogelijk zijn. </al>      </lid>            </artikel>     <artikel status="goed">      <kop>      <label>Artikel</label><nr status="officieel">22</nr>      </kop>      <lid>      <lidnr status="officieel">1</lidnr>      <al>Geluidwerende voorzieningen worden aangebracht onder       verantwoordelijkheid van de minister.</al>      </lid>      <lid>      <lidnr status="officieel">2</lidnr>      <al>De minister is belast met het toezicht op de uitvoering van het       bepaalde in het eerste lid.</al>      </lid>      <lid>      <lidnr status="officieel">3</lidnr>      <al>De waarde van de geluidwering van de uitwendige       scheidingsconstructie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=19">artikel 19</intref>, wordt bij ten minste &#xE9;&#xE9;n op de       twintig woningen of &#xE9;&#xE9;n op de twintig geluidsgevoelige ruimten in andere       geluidsgevoelige gebouwen, waaraan geluidwerende voorzieningen krachtens deze       regeling zijn aangebracht, door de minister door middel van meting       gecontroleerd, volgens de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;bijlage=2">artikel 4 van bijlage 2</intref> bij deze regeling bedoelde meetmethode. De Minister voert de meting uiterlijk &#xE9;&#xE9;n jaar na het aanbrengen van de geluidwerende voorzieningen uit.</al>      </lid>      <lid>      <lidnr status="officieel">4</lidnr>      <al>De waarde van de LAeq geluidsbelasting in dB(A) in een       slaapkamer, als bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=20">artikel 20</intref>, wordt bij ten minste &#xE9;&#xE9;n op de twintig       woningen of &#xE9;&#xE9;n op de twintig slaapkamers in ziekenhuizen, verpleeghuizen en andere gezondheidszorggebouwen, waaraan       geluidwerende voorzieningen krachtens deze regeling zijn aangebracht, door de       minister door middel van meting gecontroleerd, volgens de in <intref status="actief" doc="1.0:v:BWBR0008540&amp;bijlage=2">artikel 6 van bijlage 2</intref> bij deze regeling bedoelde meetmethode. De Minister voert de meting uiterlijk &#xE9;&#xE9;n jaar na het aanbrengen van de geluidwerende voorzieningen uit.</al>      </lid>      <lid>      <lidnr status="officieel">5</lidnr>      <al>Indien het resultaat van een meting als bedoeld in het derde       lid een waarde oplevert die niet meer dan 2 dB(A) lager is dan de vereiste       waarde van de geluidwering van de uitwendige scheidingsconstructie van de       geluidsgevoelige ruimte, wordt de waarde van de geluidwering geacht gelijk te       zijn aan de vereiste waarde. Indien het resultaat van de meting een waarde oplevert die meer dan 2 dB(A) lager is, draagt de Minister ervoor zorg dat alsnog wordt voldaan aan <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=19">artikel 19, eerste lid</intref>.</al>      </lid>      <lid>      <lidnr status="officieel">6</lidnr>      <al>Indien het resultaat van een meting als bedoeld in het vierde       lid een waarde oplevert die niet meer dan 2 dB(A) hoger is dan de vereiste       waarde van LAeq 26 dB(A) in de slaapkamer, wordt de waarde van de LAeq       geluidsbelasting in dB(A) geacht gelijk te zijn aan de vereiste waarde. Indien het resultaat van de meting een waarde oplevert die meer dan 2 dB(A) hoger is, draagt de Minister ervoor zorg dat alsnog wordt voldaan aan <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=19">artikel 19, eerste lid</intref>.</al>      </lid>            </artikel>   </hoofdstuk>    <hoofdstuk>     <kop>     <label>Hoofdstuk</label><nr status="officieel">5</nr>     <titel status="officieel">Financi&#xEB;n</titel>     </kop>     <artikel status="goed">      <kop>      <label>Artikel</label><nr status="officieel">23</nr>      </kop>      <al>Indien anders dan met toepassing van deze regeling aan een in     <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikel 2, eerste lid</intref>, bedoelde geluidsgevoelige ruimte, alsmede een in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikel     2, tweede lid</intref>, bedoelde slaapkamer geluidwerende voorzieningen zijn     aangebracht, wordt geen vergoeding voor het aanbrengen van die voorzieningen     toegekend. </al>            </artikel>     <artikel status="goed">      <kop>      <label>Artikel</label><nr status="officieel">24</nr>      </kop>      <al>In het aanbod, bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=14">artikel 14, tweede lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=17">artikel 17,     tweede lid</intref>, dan wel in een afzonderlijk voorstel voor een overeenkomst, wordt     een bepaling opgenomen dat indien de woning of het andere geluidsgevoelige     gebouw waaraan op &#x2019;s rijks kosten geluidwerende voorzieningen zijn aangebracht,     naderhand door het Rijk in eigendom wordt verworven, de door het aanbrengen van     de geluidwerende voorzieningen toegenomen marktwaarde op de koopprijs in     mindering wordt gebracht. Het in mindering te brengen bedrag wordt verlaagd met     &#xE9;&#xE9;ntiende gedeelte daarvan voor elk jaar dat is verstreken na het aanbrengen     van de geluidwerende voorzieningen. </al>            </artikel>     <artikel status="goed">      <kop>      <label>Artikel</label><nr status="officieel">25</nr>      </kop>      <al>De minister kan een vergoeding toekennen aan de natuurlijke of     rechtspersoon die deze regeling geheel of gedeeltelijk krachtens een daartoe met de minister gesloten     overeenkomst uitvoert. </al>            </artikel>   </hoofdstuk>    <hoofdstuk>     <kop>     <label>Hoofdstuk</label><nr status="officieel">6</nr>     <titel status="officieel">Slotbepalingen</titel>     </kop>               <artikel status="goed">      <kop>      <label>Artikel</label><nr status="officieel">26</nr>      </kop>      <al>Deze regeling treedt in werking met ingang van de tweede dag na     de dagtekening van de Staatscourant waarin zij wordt geplaatst. </al>            </artikel>     <artikel status="goed">      <kop>      <label>Artikel</label><nr status="officieel">27</nr>      </kop>      <al>Deze regeling wordt aangehaald als: <extref status="slapend" doc="" compleet="nee">Regeling geluidwerende     voorzieningen 1997</extref>.</al>            </artikel>   </hoofdstuk>    </regeling-tekst>    <regeling-sluiting status="goed">    <slotformulering>      <al>Deze regeling zal met de toelichting in de Staatscourant worden     geplaatst.</al>    </slotformulering>    <gegeven>      <dagtekening>      <plaats>&#x2019;s-Gravenhage</plaats>      <datum isodatum="19970206">6 februari 1997</datum>      </dagtekening>    </gegeven>    <ondertekenaar>      <ondertekening>De <functie>Minister</functie> van <organisatie>Verkeer     en Waterstaat</organisatie>, <naam>      <voornaam>A.</voornaam>      <achternaam>Jorritsma-Lebbink</achternaam>      </naam></ondertekening>           <ondertekening>De <functie>Staatssecretaris</functie> van     <organisatie>Defensie</organisatie>,<naam>      <voornaam>J.C.</voornaam>      <achternaam>Gmelich Meijling</achternaam>      </naam></ondertekening>        </ondertekenaar>        </regeling-sluiting>    <bijlage status="goed">   <kop>      <label>Bijlage</label><nr status="officieel">1</nr>     <titel status="officieel">Bepaling kostenbegrenzingswaarde geluidwerende voorzieningen     luchtvaartgeluid als bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=1">artikel 1</intref> van de regeling</titel>    </kop>   <al>Voor toepassing van deze bijlage wordt verstaan onder:</al>    <lijst level="single" nr-sluiting="." start="1" type="expliciet">     <li>     <al>I: geraamde kosten (inclusief BTW) die zijn verbonden aan het     aanbrengen van geluidwerende voorzieningen, als bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=13">artikel 13, derde     lid, onderdeel d</intref>, en in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=16">16, derde lid, onderdeel d</intref>, van de regeling;</al>     </li>     <li>     <al>K: kostenbegrenzingswaarde, als bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=1">artikel 1, onder f</intref>,     van de regeling;</al>     </li>     <li>     <al>W: waarde van de woning bepaald volgens de in deze bijlage     opgenomen methodiek;</al>     </li>     <li>     <al>T: term geluidwering, bepaald volgens formule (2);</al>     </li>     <li>     <al>G(A): vereiste waarde van de geluidwering van de uitwendige     scheidingsconstructie in dB(A), als bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=19">artikel 19, eerste lid</intref>, van de     regeling, dan wel de hoogste van de vereiste waarden van de geluidwering van de     uitwendige scheidingsconstructie voor startend of landend vliegverkeer als     bedoeld in NEN-EN-12354-3 en NPR-5272.</al>     </li>   </lijst>    <al>K wordt berekend volgens:</al>    <al>K=T*W (1)</al>    <al>T wordt berekend volgens:</al>    <al>T=0,045*G(A)-0,8 (2)</al>    <al>W wordt bepaald door middel van berekening conform de     berekeningsmethodiek die is aangegeven in paragraaf 3.1 van het rapport     &#x2019;Methodiek en criteria voor de toetsing van isolatiekosten in relatie tot de     opstal opnieuw bezien&#x2019;, nr. 685/90790/R001 d.d. juli 1988 van adviesbureau     Heidemij BV en de in de paragrafen 5.2, 5.3 en 5.5 van genoemd rapport     opgenomen woningparameters en correctiefactoren.</al>    <al>Indien er sprake is van een uit akoestisch oogpunt lichte bouwkundige     constructie, kan W worden bepaald door middel van taxatie. In dat geval wordt     de taxatie verricht door een door de minister aan te wijzen be&#xEB;digd taxateur.     Als uitgangspunt voor taxatie geldt de waarde van de woning in het economisch     verkeer, beperkt tot de waarde van de opstallen met een geluidsgevoelige     bestemming en exclusief de grond.</al>    <al>Indien I &lt;= K, dan is de woning isoleerbaar;</al>    <al>indien I &lt; K, dan is de woning niet isoleerbaar.</al>       <al>De in het rapport genoemde prijzen per kubieke meter worden jaarlijks geactualiseerd.</al></bijlage>   <bijlage status="goed">   <kop>     <label>Bijlage</label><nr status="officieel">2</nr>     <titel status="officieel">Technisch voorschrift als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikelen 2</intref>, <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=19">19</intref>, <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=20">20</intref> en <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=22">22</intref></titel>   </kop>            <divisie opmaak="default">
+        <kop>
+          <titel status="officieel"><nadruk type="cur">Hoofdstuk 1. Algemene bepalingen</nadruk></titel>
+        </kop>
+        <divisie opmaak="niet-inspringen">
+          <kop>
+            <titel status="officieel"><nadruk type="cur">Artikel 1</nadruk></titel>
+          </kop>
+          <al> 1. De bepaling van de geluidwering van de uitwendige scheidingsconstructie, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=2">artikelen 2</intref>, <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=19">19</intref>, <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=20">20</intref> en <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=22">22</intref> van de regeling, vindt plaats door middel van berekeningen dan wel door middel van metingen.</al>
+          <al> 2.  De berekeningen en metingen vinden plaats voor de octaafbanden met de middenfrequenties 125 Hz, 250 Hz, 500 Hz, 1000 Hz en 2000 Hz.</al>
+          <al>3. Bij de berekeningen wordt uitgegaan van de situatie zoals die voor een bepaling door metingen van de geluidwering volgens dit voorschrift van toepassing zijn.</al>
+        </divisie>
+        <divisie opmaak="niet-inspringen">
+          <kop>
+            <titel status="officieel"><nadruk type="cur">Artikel 2</nadruk></titel>
+          </kop>
+          <al> 1. Voor de toepassing van <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=19">artikel 19</intref> van de regeling, wordt bij de in artikel 1, eerste lid, bedoelde berekeningen en metingen, uitgegaan van de herleidingswaarden C<inf>i</inf> volgens het standaard referentiespectrum voor luchtvaartgeluid, zoals opgenomen in tabel 6 van de NEN- 5077.</al>
+          <al> 2. Voor de toepassing van <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=20">artikel 20</intref> van de regeling, wordt bij de in artikel 1, eerste lid, bedoelde berekeningen en metingen, onderscheid gemaakt tussen de geluidwering voor startend en landend vliegverkeer. Hierbij wordt uitgegaan van de herleidingswaarden C<inf>i</inf> volgens het spectrum voor startend en landend vliegverkeer, zoals opgenomen in onderstaande tabel:</al>
+          
+          <table frame="topbot" tabstyle="stcrt2">
+            <title>Tabel 6a. Herleidingswaarden (Ci) voor verschillende soorten buitengeluid</title><tgroup align="left" char="" charoff="50" cols="6" tgroupstyle="stcrt2">
+              <colspec colname="col1" colnum="1" colwidth="43*"/>
+              <colspec align="right" colname="col2" colnum="2" colwidth="12*"/>
+              <colspec align="right" colname="col3" colnum="3" colwidth="12*"/>
+              <colspec align="right" colname="col4" colnum="4" colwidth="12*"/>
+              <colspec align="right" colname="col5" colnum="5" colwidth="12*"/>
+              <colspec align="right" colname="col6" colnum="6" colwidth="12*"/>
+              <thead valign="bottom">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Ci in dB voor octaafband met middenfrequentie in Hz</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>125</al>
+                    <al>I=1</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>250</al>
+                    <al>i=2</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>500</al>
+                    <al>i=3</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>1000</al>
+                    <al>i=4</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>2000</al>
+                    <al>i=5</al>
+                  </entry>
+                </row>
+              </thead>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>luchtverkeer op Schiphol, starten</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 15,3</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 7,6</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 6.8</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 4,4</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 6,5</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>luchtverkeer op Schiphol, landen</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 18,8</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 11,9</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 7,1</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 5,9</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al> &#x2013; 3,2</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>luchtverkeer op Maastricht, starten</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 12,6</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 6,0</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 5,7</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 4,8</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 10,8</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>luchtverkeer op Maastricht, landen</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 17,2</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 10,5</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 6,9</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 6,1</al>
+                  </entry>
+                  <entry align="right" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; 3,6</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <al> 3. Indien, naar het oordeel van de Minister het spectrum van het luchtvaartgeluid buiten de woning of het ander geluidsgevoelig gebouw sterk afwijkt van het in het eerste respectievelijk tweede lid bedoelde spectrum, worden de dienovereenkomstige herleidingswaarden C<inf>i</inf> in de plaats gesteld van de in het eerste respectievelijk tweede lid bedoelde waarden.</al>
+          <al> 4. Bij de in artikel 1, eerste lid, bedoelde berekeningen en metingen, worden afscherming en reflectie verdisconteerd door toepassing van de correctiefactor C<inf>L</inf>, zoals opgenomen met betrekking tot de geluidsbelasting in Ke in artikel 3, eerste en tweede lid, en met betrekking tot de LAeq geluidsbelasting in dB(A) in artikel 3, derde lid. </al>
+        </divisie>
+        <divisie opmaak="niet-inspringen">
+          <kop>
+            <titel status="officieel"><nadruk type="cur">Artikel 3</nadruk></titel>
+          </kop>
+          <al> 1. Voor de toepassing van <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=19">artikel 19</intref> van de regeling, worden, indien bij meerdere geluidbelaste onderdelen van de uitwendige scheidingsconstructie deze onderdelen niet gelijktijdig door een vliegtuig direct aangestraald kunnen worden, voor de correctiefactor C<inf>L</inf> de volgende waarden gehanteerd:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>C<inf>L</inf>=0 dB voor de onderdelen waarvoor de hoek tussen de verbindingslijn geluidsbron &#x2013; onderdeel en de normaal op het onderdeel kleiner dan of gelijk is aan 70&#xB0;;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>C<inf>L</inf>=3 dB voor de onderdelen waarvoor de hoek tussen de verbindingslijn geluidsbron &#x2013; onderdeel en de normaal op het onderdeel groter is dan 70&#xB0; maar kleiner dan of gelijk is aan 90&#xB0;, en</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>C<inf>L</inf>=8 dB voor de onderdelen waarvoor de hoek tussen de verbindingslijn geluidsbron &#x2013; onderdeel en de normaal op het onderdeel groter is dan 90&#xB0;.</al>
+            </li>
+          </lijst>
+          <al>De geluidwering (G<inf>A</inf>) van de uitwendige scheidingsconstructie is de laagste van de te berekenen geluidwering bij mogelijke combinaties van direct en niet direct aangestraalde onderdelen van de uitwendige scheidingsconstructie.</al>
+          <al> 2. Voor de toepassing van <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=19">artikel 19</intref> van de regeling, wordt voor het onderdeel van de uitwendige scheidingsconstructie dat het verst van het gemiddelde grondpad is verwijderd, C<inf>L</inf> = 8 dB gehanteerd, indien de hoek tussen het onderdeel van de uitwendige scheidingsconstructie en het gemiddelde grondpad kleiner is dan 30&#xB0;.</al>
+          <al> 3. Voor de toepassing van <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=20">artikel 20</intref> van de regeling, wordt een correctiefactor C<inf>L</inf> toegepast ten gevolge van de hoekafhankelijkheid van de geluidwering van de uitwendige scheidingsconstructie, &#x3C6;<inf>&#x3B1;&#xDF;m</inf>. &#x3C6;<inf>&#x3B1;&#xDF;m</inf> is afhankelijk van de momentane vliegtuigpositie die wordt beschreven door de hoeken &#x3B1; en &#xDF;. De horizontale hoek &#x3B1; is gedefinieerd als de hoek tussen de normaal op het onderdeel van de uitwendige scheidingsconstructie en de verbindingslijn tussen het middelpunt van het onderdeel van de uitwendige scheidingsconstructie in het referentievlak en de projectie van de vliegtuigpositie op het referentievlak. De verticale hoek &#xDF; is gedefinieerd als de hoek tussen de verbindingslijn tussen het middelpunt van het onderdeel van de uitwendige scheidingsconstructie in het referentievlak en de vliegtuigpositie en de verbindingslijn tussen het middelpunt van het onderdeel van de uitwendige scheidingsconstructie in het referentievlak en de projectie van de vliegtuigpositie op het referentievlak. &#x3C6;<inf>&#x3B1;&#xDF;m</inf> wordt op grond van metingen of berekeningen per luchtvaartterrein vastgesteld.</al>
+          <al>C<inf>L</inf> wordt per onderdeel j van de uitwendige scheidingsconstructie per procedure m bepaald uit:</al>
+          <al>C<inf>L</inf>=L<inf>Aeq</inf><sup>(1)</sup>-L<inf>Aeq</inf><sup>(2)</sup>(1)</al>
+          <al>waarbij :</al>
+          <al>L<inf>Aeq</inf><sup>(1)</sup> = de LAeq geluidsbelasting in dB(A), als bedoeld in artikel 6, tweede lid, voor procedure m;</al>
+          <al>L<inf>Aeq</inf><sup>(2)</sup> = de LAeq geluidsbelasting in dB(A), berekend conform de ingevolge a<extref status="actief" doc="1.0:v:BWBR0002267&amp;artikel=25g" compleet="nee">rtikel 25g van de Luchtvaartwet</extref> vastgestelde <extref status="actief" doc="1.0:v:BWBR0008336" compleet="nee">Regeling berekening nachtelijke geluidsbelasting</extref>, met mede-integratie van de hoekafhankelijke geluidwering &#x3C6;<inf>&#x3B1;&#xDF;m</inf>, voor procedure m en onderdeel j.</al>
+        </divisie>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel"><nadruk type="cur">Hoofdstuk 2. Meting van de geluidwering van de uitwendige scheidingsconstructie</nadruk></titel>
+        </kop>
+        <divisie opmaak="niet-inspringen">
+          <kop>
+            <titel status="officieel"><nadruk type="cur">Artikel 4</nadruk></titel>
+          </kop>
+          <al>De geluidwering (G<inf>A</inf>) van de uitwendige scheidingsconstructie wordt bepaald overeenkomstig NEN 5077.</al>
+        </divisie>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel"><nadruk type="cur">Hoofdstuk 3. Berekening van de geluidwering van de uitwendige scheidingsconstructie</nadruk></titel>
+        </kop>
+        <divisie opmaak="niet-inspringen">
+          <kop>
+            <titel status="officieel"><nadruk type="cur">Artikel 5</nadruk></titel>
+          </kop>
+          <al>1. De geluidwering (G<inf>A</inf>) van de uitwendige scheidingsconstructie wordt berekend uit de parti&#xEB;le geluidwering G<inf>i</inf> in octaafbanden volgens hoofdstuk 5 van NEN 5077 voor het relevante referentiespectrum.</al>
+          <al>2. De parti&#xEB;le geluidwering wordt bepaald uit het genormeerd geluiddrukniveauverschil van de uitwendige schedingsconstructie D<inf>2m,nT,i</inf> en de herleidingsterm voor gevelreflectie C<inf>r</inf> voor het constructie-onderdeel met de hoogste geluidbelasting volgens:</al>
+          <al>G<inf>i</inf> = D<inf>2m,nT,i</inf> &#x2013; C<inf>r</inf></al>
+          <al>waarin C<inf>r</inf> volgt uit tabel 3 van NEN 5077.</al>
+          <al>3. Het genormeerd geluiddrukniveauverschil van de gevel, D<inf>2m,nT,i</inf>, wordt bepaald uit het genormeerd geluiddrukniveauverschil per constructie-onderdeel, D<inf>2m,nT,i,j</inf>, en de herleidingsterm voor de variatie in geluidbelasting C<inf>L,j</inf> voor het betreffende constructie-onderdeel volgens de formule:</al>
+          <al>D<inf>2m,nT,i</inf> = &#x2013;10 lg SOM(j=1 tot N) 10<sup>&#x2013;(D2m,nT,i,j+CL,j)/10</sup></al>
+          <al>waarin C<inf>L,j</inf> volgt uit <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=3">artikel 3</intref> van deze regeling.</al>
+          <al>4. Het genormeerd geluiddrukniveauverschil D<inf>2m,nT,i,j</inf>. wordt per constructie-onderdeel berekend volgens NEN-EN 12354-3, waarbij de invulling van de rekenmethode die in de annexen B, C en D wordt gegeven als een integraal onderdeel van de methode wordt beschouwd.</al>
+          <al>5. Ten aanzien van de te hanteren invoergegevens voor de berekeningen zijn de aanwijzingen in NEN-EN 12354-3 annexen B, C en D van toepassing. Indien hiervan afwijkenden waarden als invoergegeven worden toegepast, worden die afwijkingen nader gemotiveerd.</al>
+        </divisie>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel"><nadruk type="cur">Hoofdstuk 4. Berekening van het geluidsniveau in een slaapkamer ten gevolge van nachtelijk vliegverkeer</nadruk></titel>
+        </kop>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel"><nadruk type="cur">Artikel 6</nadruk></titel>
+          </kop>
+          <al> 1. De LAeq geluidsbelasting in dB(A) binnen een slaapkamer, bedoeld in <intref status="actief" doc="1.0:v:BWBR0008540&amp;artikel=20">artikel 20</intref> van de regeling, wordt als volgt berekend:</al>
+          <table frame="topbot" tabstyle="stcrt2">
+            <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="stcrt2">
+              <colspec colname="col1" colnum="1" colwidth="25*"/>
+              <colspec colname="col2" colnum="2" colwidth="70*"/>
+              <colspec colname="col3" colnum="3" colwidth="8*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>L<inf>Aeq,binnen</inf></al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>= 10 log {10<sup>LAeq,binnen,starten/10</sup> + 10 <sup>LAeq,binnen,landen/10</sup>}</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>(5)</al>
+                  </entry>
+                </row>
+              <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>L<inf>Aeq,binnen,starten</inf></al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>= L<inf>Aeq,binnen, starten</inf> &#x2013; G<inf>A,starten</inf></al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>(6)</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>L<inf>Aeq,binnen,landen</inf></al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>= L<inf>Aeq,buiten, landen</inf> &#x2013; G<inf>A,landen</inf></al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>(7)</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <al>waarin:</al><table frame="topbot" tabstyle="stcrt2">
+            <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="stcrt2">
+              <colspec colname="col1" colnum="1" colwidth="25*"/>
+              <colspec colname="col2" colnum="2" colwidth="4*"/>
+              <colspec colname="col3" colnum="3" colwidth="74*"/>
+              <tbody valign="top">
+               <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    
+                    <al>L<inf>Aeq,binnen,starten</inf></al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>=</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>de LAeq geluidsbelasting in dB(A) binnen een slaapkamer ten gevolge van startend vliegverkeer;</al>
+                  </entry>
+                </row>
+               <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>L<inf>Aeq,buiten,starten</inf></al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>=</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>de LAeq geluidsbelasting in dB(A) buiten de woning of het ziekenhuis, verpleeghuis of ander gezondheidszorggebouw ten gevolge van startend vliegverkeer als bedoeld in het tweede lid;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>G<inf>A,starten</inf></al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>=</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>de geluidswering van de uitwendige scheidingsconstructie in dB(A) bij startend vliegverkeer, bepaald volgens artikel 4 dan wel artikel 5;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>L<inf>Aeq,binnen,landen</inf></al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>=</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>de LAeq geluidsbelasting in dB(A) binnen een slaapkamer ten gevolge van landend vliegverkeer;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>L<inf>Aeq,buiten,landen</inf></al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>=</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>de LAeq geluidsbelasting in dB(A) buiten de woning of het ziekenhuis, verpleeghuis of ander gezondheidszorggebouw ten gevolge van landend vliegverkeer als bedoeld in het tweede lid;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>G<inf>A,landen</inf></al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>=</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>de geluidswering van de uitwendige scheidingsconstructie in dB(A) bij landend vliegverkeer, bepaald volgens artikel 4 dan wel artikel 5.</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <al> 2. De LAeq geluidsbelasting in dB(A) buiten de woning of het ziekenhuis, verpleeghuis of ander gezondheidszorggebouw voor startend en landend vliegverkeer wordt berekend overeenkomstig de Regeling berekening nachtelijke geluidsbelasting, waarbij de geluidwering van de uitwendige scheidingsconstructie onderscheiden naar startend en landend vliegverkeer, L<inf>gevel,m</inf>, gelijk wordt gesteld aan 0 dB(A).</al>
+        </divisie>
+      </divisie>   </bijlage>    <bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">3</nr></kop><plaatje><illustratie bin-id="241840" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/241840"/></plaatje></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">4</nr></kop><plaatje><illustratie bin-id="241841" formaat="png" kleur="nee" type="tekst" uitlijning="start" url="http://wetten.overheid.nl/Illustration/241841"/></plaatje></bijlage></regeling> </wetgeving>
+  	

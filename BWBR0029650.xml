@@ -1,0 +1,380 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0029650" dtdversie="2.0" id="454979" soort="beleidsregel">
+  
+  
+  <intitule>Algemene
+wet bestuursrecht, Algemene wet inzake rijksbelastingen,
+openstelling elektronisch bestuurlijk verkeer met de
+Belastingdienst met gebruik van
+Digipoort</intitule>
+  
+  <circulaire>
+    <circulaire.aanhef>
+      <al>De
+staatssecretaris van Financi&#xEB;n heeft het volgende
+besloten.</al>
+    </circulaire.aanhef>
+    <circulaire-tekst>
+      <tekst status="goed">
+        <al>
+          <nadruk type="cur">Met
+dit besluit wordt kenbaar gemaakt (zie afdeling 2.3 van de Algemene wet
+bestuursrecht) dat voor het elektronisch berichtenverkeer met gebruik
+van Digipoort de elektronische weg tussen belanghebbenden en de
+inspecteur is geopend en welke specifieke eisen daarvoor gelden. Er
+gelden specifieke voorwaarden voor de indiening van een verkorte
+aangifte inkomstenbelasting voor binnenlands belastingplichtige
+ondernemers en een verkorte aangifte vennootschapsbelasting. Onder meer
+de voorwaarde dat de fiscale dienstverlener of koepelorganisatie een
+convenant horizontaal toezicht met de Belastingdienst heeft
+gesloten.</nadruk>
+        </al>
+      </tekst>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Elektronisch
+berichtenverkeer met gebruik van
+Digipoort</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">1.1</nr>
+            <titel status="officieel">Beschrijving
+Digipoort en
+XBRL</titel>
+          </kop>
+          <tekst status="goed">
+            <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+              <li>
+                <al>
+                  <nadruk type="cur">Digipoort</nadruk></al>
+                <al>Digipoort
+is een generieke overheidsvoorziening voor informatie-uitwisseling en
+ontvangst van elektronische berichten geadresseerd aan een specifiek
+overheidsorgaan, het &#x2018;elektronische postkantoor&#x2019;.
+Digipoort ontvangt het bericht, verzorgt de controle op een aantal
+eisen aan het bericht en bevestigt namens het geadresseerde
+overheidsorgaan de ontvangst van het bericht. Bij elektronisch
+berichtenverkeer met gebruik van Digipoort is een digitaal certificaat
+verplicht.</al>
+              </li>
+              <li>
+                <al>
+                  <nadruk type="cur">XBRL</nadruk></al>
+                <al>XBRL
+staat voor eXtensible Business Reporting Language. XBRL is een open
+standaard voor het digitaal uitwisselen van bedrijfsgegevens en
+rapportages. Deze standaard zorgt ervoor dat gegevens eenvoudig worden
+verzameld, uitgewisseld en
+bewerkt.</al>
+              </li>
+            </lijst>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <nr status="officieel">1.2</nr>
+            <titel status="officieel">Openstelling
+elektronisch
+berichtenverkeer</titel>
+          </kop>
+          <tekst status="goed">
+            <al>De
+elektronische weg wordt opengesteld voor het volgende berichtenverkeer
+met gebruik van Digipoort en
+XBRL.</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>Aangifte
+inkomstenbelasting voor binnenlands belastingplichtige
+particulieren</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>Aangifte
+inkomstenbelasting voor binnenlands belastingplichtige
+ondernemers</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>Verkorte aangifte
+inkomstenbelasting voor binnenlands belastingplichtige
+ondernemers</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>Aangifte
+vennootschapsbelasting</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>Verkorte aangifte
+vennootschapsbelasting</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>Aangifte omzetbelasting voor binnenlandse
+ondernemers</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>Aangifte
+omzetbelasting / intracommunautaire leveringen en
+prestaties</al>
+              </li>
+            </lijst>
+          </tekst>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Voorwaarden
+voor de indiening van een verkorte aangifte inkomstenbelasting voor
+binnenlands belastingplichtige
+ondernemers</titel>
+        </kop>
+        <tekst status="goed">
+          <al>De
+volgende voorwaarden gelden voor de indiening van een verkorte aangifte
+inkomstenbelasting voor binnenlands belastingplichtige
+ondernemers.</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>De
+aangifte wordt ingediend door een fiscaal
+dienstverlener;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>De fiscaal
+dienstverlener of koepelorganisatie heeft een convenant horizontaal
+toezicht met de Belastingdienst afgesloten en de aangifte vooraf
+aangemeld;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>Er mag geen verkorte
+aangifte ingediend worden als de
+ondernemer:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>in
+het jaar waarover aangifte wordt gedaan gestart is met zijn
+onderneming;</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>(gedeeltelijk)
+zijn onderneming heeft
+gestaakt;</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>aangifte doet voor
+een medegerechtigde in een
+cv;</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>een beroep doet op de
+geruisloze
+doorschuifregeling;</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>zijn
+onderneming omzet in een BV of
+NV;</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>zijn onderneming
+onderbrengt in een
+samenwerkingsverband;</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>de
+regeling voor scheepvaart- of film-cv&#x2019;s
+toepast;</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>aangifte doet voor
+winst uit zeescheepvaart
+(tonnageregeling).</al>
+                </li>
+              </lijst>
+            </li>
+          </lijst>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Voorwaarden
+voor de indiening van een verkorte aangifte
+vennootschapsbelasting</titel>
+        </kop>
+        <tekst status="goed">
+          <al>De
+volgende voorwaarden gelden voor de indiening van een verkorte aangifte
+vennootschapsbelasting.</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>De
+aangifte wordt ingediend door een fiscaal
+dienstverlener;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>De fiscaal
+dienstverlener of koepelorganisatie heeft een convenant horizontaal
+toezicht met de Belastingdienst afgesloten en de aangifte vooraf
+aangemeld;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>De
+belastingplichtige is een &#x2018;kleine&#x2019; rechtspersoon zoals
+omschreven in <extref status="actief" doc="1.0:v:BWBR0003045&amp;artikel=396" compleet="nee">artikel 396, boek 2 van het Burgerlijk Wetboek</extref> indien hij
+op twee opeenvolgende balansdatums voldoet aan minimaal twee van de
+volgende
+eisen:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a)</li.nr>
+                  <al>De
+waarde van de activa volgens de balans met toelichting is, op basis van
+verkrijgings- en vervaardigingsprijs, niet hoger dan
+&#x20AC;&#xA0;4.400.000.</al>
+                </li>
+                <li>
+                  <li.nr>b)</li.nr>
+                  <al>De
+netto-omzet over het boekjaar is niet hoger dan
+&#x20AC;&#xA0;8.800.000.</al>
+                </li>
+                <li>
+                  <li.nr>c)</li.nr>
+                  <al>Het
+gemiddeld aantal werknemers over het boekjaar is lager dan
+50.</al>
+                </li>
+              </lijst>
+              <al>Er mag geen verkorte aangifte ingediend worden
+als de
+onderneming:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>opgericht
+is in het jaar waarover aangifte wordt
+gedaan;</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>aangifte doet in een
+andere valuta dan de
+euro;</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>gebruikmaakt van de
+deelnemingsverrekening voor
+beleggingsdeelnemingen;</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>internationale
+houdster-, licentie-, of financieringsactiviteiten
+verricht;</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>het '<extref status="actief" doc="1.0:v:BWBR0012096" compleet="nee">Besluit
+winstbepaling en reserves verzekeraars 2001</extref>'
+toepast;</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>het '<extref status="actief" doc="1.0:v:BWBR0002705" compleet="nee">Besluit
+beleggingsinstellingen</extref>'
+toepast;</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>aangifte doet voor
+winst uit zeescheepvaart
+(tonnageregeling).</al>
+                </li>
+              </lijst>
+            </li>
+          </lijst>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Ontvangstbevestiging</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Als
+moment van ontvangst door de Belastingdienst geldt het moment dat het
+bericht door Digipoort is ontvangen. Na ontvangst stelt Digipoort een
+ontvangstbevestiging beschikbaar, die met het eerder gebruikte
+certificaat moet worden
+opgehaald.</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Inwerkingtreding</titel>
+        </kop>
+        <tekst status="goed">
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>1.</li.nr>
+              <al>Dit
+besluit treedt in werking met ingang van de dag na de dagtekening van
+de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1
+januari 2011.</al>
+            </li>
+            <li>
+              <li.nr>2.</li.nr>
+              <al>Dit besluit zal in de
+Staatscourant worden
+geplaatst.</al>
+            </li>
+          </lijst>
+        </tekst>
+      </circulaire.divisie>
+    </circulaire-tekst>
+    <circulaire-sluiting status="goed">
+      <gegeven>
+        <dagtekening>
+          <plaats>Den Haag</plaats>
+          <datum isodatum="2011-02-16">16 februari
+2011</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>De
+<functie>staatssecretaris</functie> van
+<organisatie afkorting="FIN">Financi&#xEB;n,</organisatie>
+        <naam>
+          <voornaam>F.H.H.</voornaam>
+          <achternaam>Weekers</achternaam>
+        </naam>
+      </ondertekening>
+    </circulaire-sluiting>
+  </circulaire>
+</wetgeving>
+  	

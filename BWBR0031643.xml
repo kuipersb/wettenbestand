@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0031643" dtdversie="2.0" id="474909" soort="zbo">
+  
+  <intitule>Regeling Verplichte aanlevering minimale dataset GGZ Zvw</intitule>
+  
+  <regeling>
+    <aanhef>
+      <considerans>
+        <considerans.al>Ingevolge <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=62" compleet="nee">artikel 62</extref> juncto <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=68" compleet="nee">68 van de Wet marktordening gezondheidszorg</extref> (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van de aanlevering van informatie en gegevens aan de NZa.</considerans.al>
+      </considerans>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Reikwijdte</titel>
+        </kop>
+        <al>Deze regeling is van toepassing op zorgaanbieders die tweedelijns curatieve geestelijke gezondheidszorg leveren als bedoeld bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0018450" compleet="nee">Zorgverzekeringswet</extref>.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <al>In deze regeling wordt verstaan onder:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+          <li>
+            <li.nr>2.1</li.nr>
+            <al>
+              <nadruk type="cur">Zorgaanbieder</nadruk>
+            </al>
+            <al>De natuurlijke persoon of rechtspersoon die beroeps- of bedrijfsmatig zorg verleent, als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031643&amp;artikel=1">artikel 1</intref> van deze regeling, voor zover deze ingevolge een beschikking van de NZa dient te declareren in DBC&#x2019;s.</al>
+            <al>Waar in deze regeling wordt gesproken van zorgaanbieder wordt ingevolge <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=62" compleet="nee">artikel 62, eerste lid, Wmg</extref>, tevens gedoeld op degene die een administratie voert als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=44" compleet="nee">artikel 44, van de Wmg</extref>.</al>
+            <al>Waar in deze regeling wordt gesproken van zorgaanbieder wordt ingevolge artikel 62, tweede lid, Wmg, tevens gedoeld op degene die ten behoeve van de zorgaanbieder gegevens verzamelt, bewaart en bewerkt, alsmede op de groep in de zin van <extref status="actief" doc="1.0:v:BWBR0003045&amp;artikel=24b" compleet="nee">artikel 24b van Boek 2 van het Burgerlijk Wetboek</extref>, indien zorgaanbieders daartoe behoren.</al>
+          </li>
+          <li>
+            <li.nr>2.2</li.nr>
+            <al>
+              <nadruk type="cur">MDS (Minimale Dataset)</nadruk>
+            </al>
+            <al>Dataset van gegevens als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031643&amp;artikel=4">artikel 4</intref> van deze regeling.</al>
+          </li>
+          <li>
+            <li.nr>2.3</li.nr>
+            <al>
+              <nadruk type="cur">DBC</nadruk>
+            </al>
+            <al>De diagnosebehandelcombinatie (DBC) typeert het geheel van prestaties van de zorgaanbieder, voortvloeiend uit de zorgvraag waarvoor de pati&#xEB;nt de zorgaanbieder consulteert.</al>
+          </li>
+          <li>
+            <li.nr>2.4</li.nr>
+            <al>
+              <nadruk type="cur">DIS (DBC Informatiesysteem)</nadruk>
+            </al>
+            <al/>
+            <al>Onafhankelijke afdeling binnen Stichting DBC-Onderhoud, die diensten aanbiedt om aanlevering van de MDS mogelijk te maken, te weten verzameling, opslag en uitlevering van gegevens.</al>
+          </li>
+          <li>
+            <li.nr>2.5</li.nr>
+            <al>
+              <nadruk type="cur">DBC-traject</nadruk>
+            </al>
+            <al>Een DBC duurt maximaal 365 dagen. Wanneer het zorgtraject van een DBC langer dan 365 dagen duurt of een andere fase of status in de behandeling aanbreekt (bijvoorbeeld langdurige periodieke controle), wordt dit vervolgtraject getypeerd met een zogenoemde vervolg-DBC.</al>
+            <al>Voor klinische DBC&#x2019;s geldt dat de bekostiging na 365 opnamedagen ten laste van de AWBZ komt. Derhalve is een DBC altijd gerelateerd aan een bepaalde periode binnen een zorgtraject, het zogenoemde DBC-traject.</al>
+            <al>Binnen deze periode wordt de DBC-dataset opgebouwd die gebruikt wordt voor de typering van de DBC als declarabel product.</al>
+          </li>
+          <li>
+            <li.nr>2.6</li.nr>
+            <al>
+              <nadruk type="cur">DBC-prestatiecode</nadruk>
+            </al>
+            <al>De twaalfcijferige code, die het afgesloten en gevalideerde DBC-traject beschrijft. De code bestaat uit het samenstelsel van de codes van het zorgtype, de diagnoseclassificatie, de productgroep voor behandeling en de deelprestaties verblijf. Op de posities waar voorheen de verblijfsgroepen waren opgenomen, worden deze posities nu altijd gevuld met een 0 (in totaal dus 000).</al>
+          </li>
+          <li>
+            <li.nr>2.7</li.nr>
+            <al>
+              <nadruk type="cur">Geleverd zorgprofiel</nadruk>
+            </al>
+            <al>Lijst met alle per pati&#xEB;nt uitgevoerde en geregistreerde zorgactiviteiten zoals deze binnen een DBC-traject plaatsvinden. Ook zorgactiviteiten binnen het DBC-traject uitgevoerd door andere zorgaanbieders in het kader van onderlinge dienstverlening zijn onderdeel van het geleverde zorgprofiel van een DBC-traject.</al>
+          </li>
+          <li>
+            <li.nr>2.8</li.nr>
+            <al>
+              <nadruk type="cur">Gedeclareerde prijs</nadruk>
+            </al>
+            <al/>
+            <al>Prijs van het DBC-traject of overige cli&#xEB;ntgebonden productie zoals deze op de factuur staat welke is verstuurd aan de pati&#xEB;nt of diens zorgverzekeraar.</al>
+          </li>
+          <li>
+            <li.nr>2.9</li.nr>
+            <al>
+              <nadruk type="cur">Circuit</nadruk>
+            </al>
+            <al>Het circuit geeft de doelgroep van de op genezing gerichte geestelijke gezondheidszorg aan, waaronder volwassenen, ouderen, kinderen en jeugd en verslavingszorg.</al>
+          </li>
+          <li>
+            <li.nr>2.10</li.nr>
+            <al>
+              <nadruk type="cur">Cli&#xEB;ntgebonden productie</nadruk>
+            </al>
+            <al/>
+            <al>Cli&#xEB;ntgebonden productie buiten de DBC-systematiek: De producten die geen deel uitmaken van het geleverde zorgprofiel van een DBC en apart worden gedeclareerd.</al>
+          </li>
+          <li>
+            <li.nr>2.11</li.nr>
+            <al>
+              <nadruk type="cur">ZorgTTP</nadruk>
+            </al>
+            <al>ZorgTTP is een onafhankelijke organisatie werkzaam is als &#x2018;Trusted Third Party&#x2019; op het gebied van zorg en welzijn. ZorgTTP verzorgt pseudonimisering van de MDS-gegevensstroom.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Doel</titel>
+        </kop>
+        <al>De verstrekking van de in <intref status="actief" doc="1.0:v:BWBR0031643&amp;artikel=4">artikel 4</intref> bedoelde MDS-gegevens door de in <intref status="actief" doc="1.0:v:BWBR0031643&amp;artikel=1">artikel 1</intref> van deze regeling genoemde zorgaanbieders geschiedt ten behoeve van:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>de uitvoering van de wettelijke taken met betrekking tot het onderhoud van de tot het DBC-systeem deeluitmakende prestatie-beschrijvingen en tarieven, teneinde de publieke belangen van de zorg te borgen. Hieronder mede begrepen de Wmg-taken op het gebied van tarifering en budgettering.</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>het verstrekken van informatie aan het Ministerie van VWS over de ontwikkeling van de bekostiging en financiering van de tweedelijns curatieve geestelijke gezondheidszorg.</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>het monitoren en analyseren van marktontwikkelingen en zo nodig ingrijpen op grond van wettelijke taken of de Minister van VWS adviseren nadere maatregelen te treffen in die deelsectoren van de tweedelijns curatieve geestelijke gezondheidszorg.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Minimale Dataset GGZ</titel>
+        </kop>
+        <al>De minimale dataset GGZ omvat de in de navolgende tabel vermelde gegevens over alle in een kalendermaand gedeclareerde prestaties.</al>
+        <al>Identificerende persoonsgegevens als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=60" compleet="nee">artikel 60, tweede lid, van de Wmg</extref> worden gepseudonimiseerd aangeleverd.</al>
+        <table colsep="0" frame="all" pgwide="1" rowsep="0" tabstyle="xml1">
+          <tgroup align="left" char="" charoff="50" cols="1" tgroupstyle="xml1">
+            <colspec colname="col1" colnum="1" colwidth="295*"/>
+            <tbody valign="top">
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>
+                    <nadruk type="vet">Identificatie zorgaanbieder</nadruk>
+                  </al>
+                  <al>Unieke identificatie zorgaanbieder (AGB-code) &#xB9;
+                  </al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <al>&#xB9; Dit betreft de AGB-instellingscode voor toegelaten instellingen en de AGB-praktijkcode voor niet aan instellingen verbonden vrijgevestigde zorgaanbieders.</al><table colsep="0" frame="all" pgwide="1" rowsep="0" tabstyle="xml1">
+          <tgroup align="left" char="" charoff="50" cols="1" tgroupstyle="xml1">
+            <colspec colname="col1" colnum="1" colwidth="295*"/>
+            <tbody valign="top">
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>
+                    <nadruk type="vet">Cli&#xEB;nt</nadruk>
+                  </al>
+                  <al>Pati&#xEB;ntgegevens (gepseudonimiseerd):</al>
+                  <al>&#x2013; Naam cli&#xEB;nt</al>
+                  <al>&#x2013; Geboortedatum</al>
+                  <al>&#x2013; Geslacht</al>
+                  <al>&#x2013; Postcode</al>
+                  <al>&#x2013; Burgerservicenummer</al>
+                  <al>Unieke identificatie zorgverzekeraar (conform UZOVI-register)</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>
+                    <nadruk type="vet">Productie per cli&#xEB;nt</nadruk>
+                  </al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>
+                    <nadruk type="cur">A. DBC-trajecten</nadruk>
+                  </al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>DBC:</al>
+                  <al>&#x2013; Zorgtrajectnummer</al>
+                  <al>&#x2013; Begindatum zorgtraject</al>
+                  <al>&#x2013; Einddatum zorgtraject</al>
+                  <al>&#x2013; Circuit</al>
+                  <al>&#x2013; Zorgtype</al>
+                  <al>&#x2013; Volledig diagnoseprofiel (DSMIV)</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Behandeling:</al>
+                  <al>&#x2013; Begindatum DBC-traject</al>
+                  <al>&#x2013; Einddatum DBC-traject</al>
+                  <al>&#x2013; Afsluitreden DBC</al>
+                  <al>&#x2013; Gedeclareerde prijs</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>Geleverd zorgprofiel binnen het DBC-traject:</al>
+                  <al>&#x2013; Activiteiten, verrichtingen, overige deelprestaties en producten, zoals gedefinieerd in NR instructie DBC DBC Registratie GGZ</al>
+                  <al>&#x2013; Datum + tijdsduur activiteiten/producten</al>
+                  <al>&#x2013; Beroep behandelaar</al>
+                </entry>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row rowsep="0">
+                <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                  <al>
+                    <nadruk type="cur">B. Cli&#xEB;ntgebonden productie buiten de DBC-systematiek:</nadruk>
+                  </al>
+                  <al>&#x2013; Beroep behandelaar</al>
+                  <al>&#x2013; Overige producten</al>
+                  <al>&#x2013; Datum overige producten</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Maandelijkse aanlevering MDS</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Zorgaanbieders zijn verplicht eenmaal per maand elektronisch de MDS zoals genoemd in <intref status="actief" doc="1.0:v:BWBR0031643&amp;artikel=4">artikel 4</intref>, te verstrekken aan DIS. De levering hiervan vindt uiterlijk voor het einde van de opvolgende maand plaats.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>In afwijking van lid 1 van dit artikel is een zorgaanbieder van wie de jaarlijkse omzet niet meer bedraagt dan &#x20AC;&#xA0;250.000 per jaar, danwel die jaarlijks gemiddeld minder dan 200 DBC&#x2019;s registreert, gerechtigd de elektronische MDS eenmaal per kwartaal aan te leveren. De levering geschiedt in dat geval uiterlijk voor het eerste kwartaal op 30 april, voor het tweede kwartaal op 31 juli, voor het derde kwartaal op 31&#xA0;oktober en voor het vierde kwartaal op 31&#xA0;januari van het opvolgende jaar.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>In afwijking van lid 1 van dit artikel is een zorgaanbieder van wie de jaarlijkse omzet niet meer bedraagt dan &#x20AC;&#xA0;70.000 per jaar, danwel die jaarlijks gemiddeld minder dan 50 DBC&#x2019;s registreert, gerechtigd de elektronische MDS eenmaal per half jaar aan te leveren. De levering geschiedt in dat geval uiterlijk op 31 juli en 31&#xA0;januari van het opvolgende jaar.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Aanlevering aan DIS vindt plaats na pseudonimisering van de pati&#xEB;ntgegevens door gebruikmaking van de software van ZorgTTP. De gegevens worden aangeleverd aan DIS en worden vervolgens aan de NZa beschikbaar gesteld.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>Voor aanlevering aan DIS via ZorgTTP wordt gebruik gemaakt van de meest recente aanleverspecificatie met de daarin opgenomen technische vereisten. Deze aanleverspecificatie ligt vanaf de datum van inwerkingtreding van deze regeling bij de NZa ter inzage. Op verzoek van een belanghebbende wordt dit format toegezonden. Het format kan worden geraadpleegd op www.DISportal.nl.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">6</lidnr>
+          <al>Mutaties en aanvullingen op de MDS-informatie van productie afgesloten in enig jaar (t) worden uiterlijk op het daaropvolgende jaar (t+1) aangeleverd bij DIS als onderdeel van de reguliere maandelijkse gegevenslevering.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Uitzonderingsbepaling</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De verplichting voor een zorgaanbieder tot aanlevering van de MDS aan DIS, zoals genoemd in <intref status="actief" doc="1.0:v:BWBR0031643&amp;artikel=5">artikel 5</intref> van deze regeling, geldt niet indien en voor zover het MDS-gegevens betreft die betrekking hebben op gedeclareerde prestaties c.q. DBC-facturen die onder de uitzonderingsbepaling van <extref status="actief" doc="1.0:v:BWBR0031644&amp;artikel=7" compleet="nee">artikel 7 van de Regeling Declaratiebepalingen DBC GGZ</extref> vallen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Een zorgaanbieder die in aanmerking wenst te komen voor de vrijstelling als bedoeld in het vorige lid, dient hiervan blijk te geven middels ondertekening van de verklaring als bedoeld in <extref status="actief" doc="1.0:v:BWBR0031644&amp;artikel=7" compleet="nee">artikel 7.1 van de Regeling Declaratiebepalingen DBC GGZ</extref>.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Ondertekening van de in het vorige lid genoemde verklaring blijft achterwege, indien het MDS-gegevens betreft die betrekking hebben op gedeclareerde prestaties c.q. facturen aan zelfbetalende cli&#xEB;nten als bedoeld in <extref status="actief" doc="1.0:v:BWBR0031644&amp;artikel=7" compleet="nee">artikel 7.6 van de Regeling Declaratiebepalingen DBC GGZ</extref>.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Getrouwe aanlevering MDS</titel>
+        </kop>
+        <al>Door de feitelijke verstrekking verklaart de zorgaanbieder alle gegevens betreffende de MDS volledig en naar waarheid te hebben ingevuld.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Intrekking oude regel(s)</titel>
+        </kop><al>Gelijktijdig met de inwerkingtreding van deze regeling wordt de &#x2018;<extref status="actief" doc="1.0:v:BWBR0030800" compleet="nee">Regeling Verplichte aanlevering minimale dataset GGZ Zvw</extref>&#x2019;, kenmerk NR/CU-514 ingetrokken.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">9</nr>
+          <titel status="officieel">Inwerkingtreding en citeerregel</titel>
+        </kop>
+        <al>Deze regeling treedt in werking na publicatie in de staatscourant<noot id="n2e11726794" type="voet">
+            <noot.nr>1</noot.nr>
+            <noot.al>De datum van inwerkingtreding is de dag na de publicatiedatum van deze regeling in de Staatscourant.</noot.al>
+          </noot>.</al>
+      </artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Ingevolge <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=20" compleet="nee">artikel 20, tweede lid, onderdeel a, van de Wet marktordening gezondheidszorg</extref> (Wmg) zal deze regeling in de Staatscourant worden geplaatst.</al>
+        <al>Deze regeling kan worden aangehaald als: &#x2018;Regeling Verplichte aanlevering minimale dataset GGZ Zvw&#x2019;.</al>
+      </slotformulering>
+      <ondertekening>
+        <functie>Nederlandse Zorgautoriteit,</functie>
+        <naam>
+          <voornaam>T.W.</voornaam>
+          <achternaam>Langejan,</achternaam>
+        </naam>
+        <functie>voorzitter Raad van Bestuur.</functie>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

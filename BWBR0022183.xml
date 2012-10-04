@@ -1,0 +1,249 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0022183" dtdversie="2.0" id="380309" soort="beleidsregel">
+  
+  <intitule>Beleidsregel van de Minister van Economische Zaken van 2&#xA0;juli 2007, nr.&#xA0;WJZ 7079770, houdende vaststelling van de elektronische aanvraagprocedure voor subsidies via Senterloket</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Minister van Economische Zaken,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op de <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=2%3A15" compleet="nee">artikelen 2:15, eerste lid, van de Algemene wet bestuursrecht</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Algemene bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>In deze beleidsregel wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>aanvraagapplicatie: toepassing van de website die de mogelijkheid biedt om elektronisch subsidieaanvragen in te dienen;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>certificaat: elektronisch document dat waarborgen biedt omtrent de identiteit van de gebruiker met een geldigheid van twee jaar;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>certificaathouder: degene aan wie het certificaat is afgegeven en de bezitter van de private sleutel;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>DigiD-inlogcode: de combinatie van gebruikersnaam en bijbehorend
+							 wachtwoord, verkregen via www.digid.nl;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>uitvoerder: SenterNovem of de EVD internationaal ondernemen en samenwerken;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>website: website van SenterNovem voor het elektronisch indienen
+							 van subsidieaanvragen.</al>
+            </li>
+          </lijst>
+        </artikel>
+        </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">De aanvraagprocedure met authenticatie door middel van
+						een certificaat</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <lid> 
+					 <lidnr status="officieel">1</lidnr> 
+					 <al>De <intref status="actief" doc="1.0:v:BWBR0022183&amp;artikel=4">artikelen 4 tot en met 6</intref> van deze beleidsregel zijn van
+						toepassing op het elektronisch indienen van een aanvraag met betrekking tot
+						subsidieverstrekking met authenticatie door middel van een certificaat.</al> 
+				  </lid> 
+				  <lid> 
+					 <lidnr status="officieel">2</lidnr> 
+					 <al>Het elektronisch indienen van een subsidieaanvraag
+						overeenkomstig deze paragraaf is mogelijk indien de subsidieregeling daartoe is
+						opengesteld via de website.</al> 
+				  </lid>
+        </artikel>
+        
+      <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Om toegang te krijgen tot de aanvraagapplicatie is een certificaat en pincode vereist.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Op de website kan een certificaat worden opgevraagd en ge&#xEF;nstalleerd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Bij het aanvragen van het certificaat geeft certificaathouder zijn pincode op aan de uitvoerder.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Door middel van het installeren van het certificaat ontvangt de certificaathouder het certificaat met daarin opgeslagen de private sleutel.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <al>Het elektronisch indienen van subsidieaanvragen geschiedt op de volgende wijze:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de certificaathouder verkrijgt toegang tot de aanvraagapplicatie door in te loggen met het certificaat en de pincode;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de certificaathouder start een nieuwe aanvraag en selecteert de subsidieregeling waarvoor hij elektronisch een subsidieaanvraag wil indienen;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de certificaathouder vult de subsidieaanvraag in en controleert deze.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Indien de certificaathouder de tekenbevoegde is van de organisatie die een subsidieaanvraag wil indienen, ondertekent hij de subsidieaanvraag met een elektronische handtekening en dient hij de subsidieaanvraag in.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien de certificaathouder niet de tekenbevoegde van de organisatie is, kan hij een tekenbevoegde autoriseren om de aanvraag te ondertekenen of in te dienen.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf><kop><label>&#xA7;</label><nr status="officieel">3</nr><titel status="officieel">De aanvraagprocedure met authenticatie door middel van
+						DigiD</titel></kop><artikel status="goed"> 
+					 <kop> 
+						<label>Artikel</label> 
+						<nr status="officieel">6a</nr> 
+					 </kop> 
+					 <lid> 
+						<lidnr status="officieel">1</lidnr> 
+						<al>Deze paragraaf is van toepassing op het elektronisch
+						  indienen van een aanvraag met betrekking tot subsidieverstrekking met
+						  authenticatie door middel van DigiD of DigiD voor bedrijven.</al> 
+					 </lid> 
+					 <lid> 
+						<lidnr status="officieel">2</lidnr> 
+						<al>Het elektronisch indienen van een aanvraag met betrekking
+						  tot subsidieverstrekking overeenkomstig deze paragraaf is mogelijk indien de
+						  subsidieregeling daartoe is opengesteld via de website.</al> 
+					 </lid> 
+				  </artikel> 
+				  <artikel status="goed"> 
+					 <kop> 
+						<label>Artikel</label> 
+						<nr status="officieel">6b</nr> 
+					 </kop> 
+					 <al>Om toegang te krijgen tot de aanvraagapplicatie is een
+						DigiD-inlogcode vereist.</al> 
+				  </artikel> 
+				  <artikel status="goed"> 
+					 <kop> 
+						<label>Artikel</label> 
+						<nr status="officieel">6c</nr> 
+					 </kop> 
+					 <al>Het elektronisch indienen van aanvragen met betrekking tot
+						subsidieverstrekking geschiedt op de volgende wijze:</al> 
+					 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+						<li> 
+						  <li.nr>a.</li.nr> 
+						  <al>de indiener selecteert de subsidieregeling waarvoor hij
+							 elektronisch een aanvraag wil indienen;</al> 
+						</li> 
+						<li> 
+						  <li.nr>b.</li.nr> 
+						  <al>de indiener verkrijgt toegang tot de aanvraagapplicatie
+							 door in te loggen met de DigiD-inlogcode;</al> 
+						</li> 
+						<li> 
+						  <li.nr>c.</li.nr> 
+						  <al>de indiener start een nieuwe aanvraag;</al> 
+						</li> 
+						<li> 
+						  <li.nr>d.</li.nr> 
+						  <al>de indiener vult de aanvraag in, controleert deze en
+							 dient de aanvraag in.</al> 
+						</li> 
+					 </lijst> 
+				  </artikel> 
+				  <artikel status="goed"> 
+					 <kop> 
+						<label>Artikel</label> 
+						<nr status="officieel">6d</nr> 
+					 </kop> 
+					 <al>Indien een aanvraag met betrekking tot subsidieverstrekking
+						wordt ingediend overeenkomstig deze paragraaf geldt het invoeren van de
+						DigiD-inlogcode als elektronische handtekening.</al> 
+				  </artikel></paragraaf><paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed"> 
+				  <kop> 
+					 <label>Artikel</label> 
+					 <nr status="officieel">6e</nr> 
+				  </kop> 
+				  <al>De beleidsregel wordt aangehaald als: Beleidsregel
+					 elektronische aanvraagprocedure voor subsidies via SenterNovem.</al> 
+				</artikel><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <al>Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.</al>
+        </artikel>
+      </paragraaf>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Den Haag</plaats>
+          <datum isodatum="2007-07-02">2 juli 2007</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>De <functie>Minister</functie> van <organisatie afkorting="EZ">Economische Zaken</organisatie>,
+        <naam>
+          <voornaam>M.J.A. van der </voornaam>
+          <achternaam>Hoeven</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

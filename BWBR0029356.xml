@@ -1,0 +1,400 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0029356" dtdversie="2.0" id="452039" soort="ministeriele-regeling">
+  
+  <intitule>Regeling
+van de Staatssecretaris van Infrastructuur en Milieu van
+30&#xA0;december 2010, nr. BJZ2010032478, houdende regels over de
+toepassing van het Besluit externe veiligheid buisleidingen (Regeling
+externe veiligheid
+buisleidingen)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De
+Staatssecretaris van Infrastructuur en
+Milieu,</wie>
+      <considerans>
+        <considerans.al>Handelende na overleg met de
+Ministers van Economische Zaken en van
+Defensie,</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op de
+<extref status="actief" doc="1.0:v:BWBR0028265&amp;artikel=2" compleet="nee">artikelen 2, eerste lid</extref>, <extref status="actief" doc="1.0:v:BWBR0028265&amp;artikel=3" compleet="nee">3, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0028265&amp;artikel=6" compleet="nee">6, derde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0028265&amp;artikel=7" compleet="nee">7, eerste lid</extref>,
+<extref status="actief" doc="1.0:v:BWBR0028265&amp;artikel=12" compleet="nee">12, derde lid, onderdeel b</extref>, en <extref status="actief" doc="1.0:v:BWBR0028265&amp;artikel=13" compleet="nee">13 van het Besluit externe veiligheid
+buisleidingen</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Definities</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>In
+deze regeling wordt verstaan
+onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+            <li>
+              <al><nadruk type="cur">aardgas:</nadruk></al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>drooggas
+dat bij een temperatuur van &#x2013;20<sup>0</sup>C onder atmosferische
+druk geen vloeistoffractie meer afscheidt van het gas en met een
+dichtheid van 0,82 kg/m<sup>3</sup>en een calorische waarde van ten
+hoogste 36,4 MJ/m<sup>3</sup>,</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>natgas
+dat naast aardgas ook condensaat bevat met een Condensaat-Gas Ratio
+kleiner dan of gelijk aan 80 m<sup>3</sup>/1.000.000 m<sup>3</sup>, en
+zuurgas dat naast aardgas minder dan 4,3% zwavelwaterstof
+bevat,</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>voor zover dit aardgas niet
+vloeibaar wordt getransporteerd en geen componenten bevat met toxische
+of explosieve
+effecten;</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">aardolieproducten:</nadruk></al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>aardolie,</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>aardgasolie,</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>vloeibare
+aardolieproducten,
+en</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>derivaten,</al>
+                </li>
+              </lijst>
+              <al> voor
+zover deze geen componenten bevatten met toxische of explosieve
+effecten;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">besluit:</nadruk>  <extref status="actief" doc="1.0:v:BWBR0028265" compleet="nee">Besluit externe
+veiligheid
+buisleidingen</extref>;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">Carola:</nadruk> 
+softwareprogramma voor het berekenen van het plaatsgebonden risico en
+het groepsrisico van ondergrondse buisleidingen met aardgas, versie nr.
+1.0.0;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">Rekenmethodiek
+Bevb:</nadruk>  rekenmethodiek behorend bij het Besluit
+externe veiligheid buisleidingen, bestaande uit de Handleiding
+Risicoberekeningen Bevb, versie nr. 1, uitgave 2010 en, indien het
+betreft ondergrondse
+buisleidingen:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;.</li.nr>
+                  <al>voor
+aardgas: Carola, en</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;.</li.nr>
+                  <al>voor
+aardolieproducten:
+Safeti-NL;</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">Safeti-NL:
+</nadruk> softwareprogramma voor het berekenen van het
+plaatsgebonden risico en het groepsrisico van inrichtingen en
+ondergrondse buisleidingen voor het transport van andere stoffen dan
+aardgas, versie nr. 6.54, uitgave
+2010.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Buisleidingen
+waarop het besluit van toepassing
+is</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <al>Als
+categorie&#xEB;n buisleidingen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0028265&amp;artikel=2" compleet="nee">artikel&#xA0;2, eerste
+lid, van het besluit</extref> worden
+aangewezen:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>buisleidingen
+voor aardgas met een uitwendige diameter van meer dan 50 mm en een druk
+van meer dan 1600 kPa,
+en</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>buisleidingen voor
+aardolieproducten, met een uitwendige diameter van meer dan 70 mm en
+een druk van meer dan 1600
+kPa.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Uitzonderingen
+als bedoeld in <extref status="actief" doc="1.0:v:BWBR0028265&amp;artikel=3" compleet="nee">artikel 3 van het
+besluit</extref></titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <al>De
+<extref status="actief" doc="1.0:v:BWBR0028265&amp;artikel=6" compleet="nee">artikelen 6, eerste en tweede lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0028265&amp;artikel=17" compleet="nee">17, eerste en tweede lid, van het
+besluit</extref> zijn niet van toepassing op pijpleidingen als bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0014394&amp;artikel=92" compleet="nee">artikel&#xA0;92, onderdeel a, van het Mijnbouwbesluit</extref> waarvan het
+plaatsgebonden risico in de loop der tijd kleiner wordt voor zover de
+overschrijding van de grenswaarde voor het plaatsgebonden risico
+maximaal 3 jaar voortduurt en het plaatsgebonden risico niet groter is
+dan 10<sup>-5</sup> per
+jaar.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <al><extref status="actief" doc="1.0:v:BWBR0028265&amp;artikel=10" compleet="nee">Artikel
+10 van het besluit</extref> is niet van toepassing voor zover de exploitant
+reeds aan de daarin opgenomen meldplichten heeft voldaan op grond van
+het bepaalde bij of krachtens <extref status="actief" doc="1.0:v:BWBR0014394&amp;artikel=100" compleet="nee">artikel 100 van het
+Mijnbouwbesluit</extref>.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <al>Voor
+buisleidingen voor aardgas met een druk tussen 1600 en 4000
+kPa:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>is
+in afwijking van <extref status="actief" doc="1.0:v:BWBR0028265&amp;artikel=6" compleet="nee">artikel&#xA0;6, tweede lid, van het besluit</extref> het
+plaatsgebonden risico op een afstand van 4 meter, gemeten uit het hart
+van de buisleiding, niet hoger dan 10<sup>-6</sup> per jaar,
+en</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>bedraagt in afwijking van
+<extref status="actief" doc="1.0:v:BWBR0028265&amp;artikel=14" compleet="nee">artikel&#xA0;14, eerste lid, van het besluit</extref> de belemmeringenstrook ten
+minste vier meter aan weerszijden van de buisleiding, gemeten vanuit
+het hart van die
+buisleiding.</al>
+            </li>
+          </lijst>
+        </artikel>
+      <artikel status="goed">
+                  <kop>
+                     <label>Artikel</label>
+                     <nr status="officieel">5a</nr>
+                  </kop>
+                  <lid>
+                     <lidnr status="officieel">1</lidnr>
+                     <al><extref status="actief" doc="1.0:v:BWBR0028265" compleet="nee">Artikel
+6, tweede lid, van het besluit</extref> is niet van toepassing voor zover de
+overschrijding van de waarde, genoemd in dat lid, het gevolg is van het
+op grond van een bestemmingsplan toelaten van de aanleg, bouw of
+vestiging van een risicoverhogend object in de directe omgeving van de
+buisleiding.</al>
+                  </lid>
+                  <lid>
+                     <lidnr status="officieel">2</lidnr>
+                     <al>De
+uitzondering, bedoeld in het eerste lid, is alleen van toepassing op
+bedrijventerreinen die als zodanig in een bestemmingsplan zijn bestemd
+en waar de vestiging van kwetsbare objecten is
+uitgesloten.</al>
+                  </lid>
+               </artikel></paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Berekeningen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <al>Het
+plaatsgebonden risico, bedoeld in <extref status="actief" doc="1.0:v:BWBR0028265&amp;artikel=11" compleet="nee">artikel&#xA0;11 van het besluit</extref>, het
+groepsrisico, bedoeld in <extref status="actief" doc="1.0:v:BWBR0028265&amp;artikel=12" compleet="nee">artikel 12 van het besluit</extref>, en het effect van
+maatregelen ter beperking van het risico worden berekend met de
+Rekenmethodiek
+Bevb.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <al>Maatregelen
+ter beperking van het risico, waarvan de exploitant niet kan aantonen
+dat de maatregel voldoet aan de omschrijving in de Rekenmethodiek Bevb,
+hebben geen risicoverlagend effect in de
+risicoberekening.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Groepsrisico</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+          </kop>
+          <al>De
+waarde, bedoeld in <extref status="actief" doc="1.0:v:BWBR0028265&amp;artikel=12" compleet="nee">artikel&#xA0;12, derde lid, onderdeel b, van het
+besluit</extref> is
+voor:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>het
+groepsrisico: 0,1 maal de waarden, genoemd in <extref status="actief" doc="1.0:v:BWBR0028265&amp;artikel=12" compleet="nee">artikel&#xA0;12, eerste
+lid, onderdeel b, van het besluit</extref>,
+en</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de toename van het groepsrisico:
+minder dan 10%, voor zover de waarden, genoemd in <extref status="actief" doc="1.0:v:BWBR0028265&amp;artikel=12" compleet="nee">artikel&#xA0;12,
+eerste lid, onderdeel b, van het besluit</extref> niet worden
+overschreden.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Met
+de Rekenmethodiek Bevb worden gelijkgesteld rekenmethodieken die
+rechtmatig zijn vervaardigd of in de handel zijn gebracht in een
+lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat
+van de Europese Unie, die partij is bij een tot een douane-unie
+strekkend verdrag, dan wel rechtmatig zijn vervaardigd in een staat die
+partij is bij een tot een vrijhandelszone strekkend Verdrag dat
+Nederland bindt, waarvan de resultaten gelijkwaardig zijn aan de
+resultaten van de Rekenmethodiek
+Bevb.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+Minister van Infrastructuur en Milieu besluit, gehoord het RIVM, op
+verzoek van het bevoegd gezag, of die rekenmethodiek gelijkwaardig is
+aan de Rekenmethodiek Bevb. Daarbij betrekt hij in elk geval de
+transparantie, reproduceerbaarheid, het toepassingsgebied en de
+ruimtelijke consequenties van die
+rekenmethodiek.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+          </kop>
+          <al>Deze
+regeling treedt in werking met ingang van 1&#xA0;januari
+2011.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+          </kop>
+          <al>Deze
+regeling wordt aangehaald als: Regeling externe veiligheid
+buisleidingen.</al>
+        </artikel>
+      </paragraaf>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze
+regeling zal met de toelichting in de Staatscourant worden
+geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Den Haag</plaats>
+          <datum isodatum="2010-12-30">30 december
+2010</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>De
+<functie>Staatssecretaris</functie> van
+<organisatie afkorting="IM">Infrastructuur en Milieu,</organisatie>
+        <naam>
+          <voornaam>J.J.</voornaam>
+          <achternaam>Atsma</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

@@ -1,0 +1,3426 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0002402" dtdversie="2.0" id="63269" soort="wet" xml:lang="nl">
+    
+    <intitule>Wet van 21 februari 1963, houdende regelen met betrekking tot
+    de vrijmaking van kernenergie en de aanwending van radioactieve
+    stoffen en ioniserende stralen uitzendende toestellen</intitule>
+    
+    <wet-besluit>
+        <aanhef>
+    <wij>Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden,
+        Prinses van Oranje-Nassau, enz., enz., enz.</wij>
+    <considerans>
+        <considerans.al>Allen, die deze zullen zien of horen lezen,
+            saluut! doen te weten:</considerans.al>
+        <considerans.al>Alzo Wij in overweging genomen hebben, dat het
+            wenselijk is op het gebied van de kernenergie en de
+            ioniserende stralen een regeling te treffen, in het
+            bijzonder ter bevordering van een goede ontwikkeling op het
+            gebied van de vrijmaking van kernenergie en de aanwending
+            van radioactieve stoffen en ioniserende stralen uitzendende
+            toestellen, zomede ter bescherming tegen de hieraan
+            verbonden gevaren;</considerans.al>
+    </considerans>
+    <afkondiging>
+        <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen
+            overleg der Staten-Generaal, hebben goedgevonden en
+            verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+    </afkondiging>
+</aanhef>
+        <wettekst>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>I</nr>
+        <titel>Begripsbepalingen en werkingssfeer</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">1</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>In deze wet en de daarop berustende bepalingen wordt
+            verstaan onder: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>kernenergie: energie, vrijkomend bij splijting of
+                    versmelting van atoomkernen;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>splijtstoffen: stoffen, welke ten minste een bij
+                    algemene maatregel van bestuur te bepalen percentage
+                    uranium, plutonium, thorium of andere daarbij
+                    aangewezen elementen bevatten;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>ertsen: ertsen die naar gewicht gerekend ten minste
+                    een tiende procent uranium of drie procent thorium
+                    bevatten en waarmee handelingen worden verricht
+                    wegens hun splijt- of kweekeigenschappen;</al>
+            </li>
+            <li>
+                <li.nr>d.</li.nr>
+                <al>radioactieve stoffen: stoffen met uitzondering van
+                    splijtstoffen en ertsen, die in zodanige mate
+                    radionucliden bevatten dat zij, voorzover het de
+                    bescherming tegen ioniserende straling betreft, niet
+                    mogen worden verwaarloosd;</al>
+            </li>
+            <li>
+                <li.nr>e.</li.nr>
+                <al>ioniserende straling: r&#xF6;ntgen- en gammastraling,
+                    alsmede corpusculaire straling, die in staat is
+                    ionenvorming te veroorzaken;</al>
+            </li>
+            <li>
+                <li.nr>f.</li.nr>
+                <al>toestel: toestel dat ioniserende straling kan
+                    uitzenden en geen radioactieve stof, splijtstof of
+                    erts bevat;</al>
+            </li>
+            <li>
+                <li.nr>g.</li.nr>
+                <al>bevoegd gezag: bestuursorgaan dat bevoegd is tot het
+                    geven van een beschikking.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al>De voordracht tot vaststelling, wijziging of intrekking van
+            een algemene maatregel van bestuur als in het eerste lid,
+            onder b, bedoeld wordt Ons gedaan door Onze Ministers van Economische Zaken, Landbouw en Innovatie en van Sociale Zaken en Werkgelegenheid.</al>
+    </lid>
+</artikel>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>II</nr>
+        <titel>De Commissie Reactorveiligheid</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">2</nr>
+    </kop>
+    <al>Het bij of krachtens deze wet bepaalde is mede van
+						  toepassing op een verkenningsonderzoek, het opsporen of het winnen van
+						  delfstoffen of aardwarmte, dan wel het opslaan van stoffen voorzover dit
+						  plaatsvindt op het continentaal plat, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0014168" compleet="nee">Mijnbouwwet</extref>.</al>
+</artikel>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>III</nr>
+        <titel>Splijtstoffen, ertsen en inrichtingen</titel>
+    </kop>
+    <afdeling>
+    <kop>
+        <label>Afdeling</label>
+        <nr>1</nr>
+        <titel status="officieel">Registratie van splijtstoffen en ertsen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">13</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Er is een register, waarin worden ingeschreven de gegevens
+            van splijtstoffen, ertsen en andere stoffen waaruit
+            splijtstoffen kunnen worden verkregen en die naar gewicht
+            gerekend ten minste een tiende procent uranium of drie
+            procent thorium bevatten, waarvan overeenkomstig
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=14">artikel 14</intref>
+            aangifte is gedaan.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Bij of krachtens algemene maatregel van bestuur wordt de
+            inrichting van het register geregeld en worden de gevallen
+            aangewezen, waarin inlichtingen uit het register kunnen
+            worden verstrekt.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Onze Minister van Economische Zaken, Landbouw en Innovatie is belast met het
+            beheer van het register en de verstrekking van inlichtingen daaruit.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">14</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Ieder, die met inachtneming van deze wet splijtstoffen of
+            ertsen of andere stoffen waaruit splijtstoffen kunnen worden
+            verkregen en die naar gewicht gerekend ten minste een tiende
+            procent uranium of drie procent thorium bevatten vervoert,
+            voorhanden heeft, binnen of buiten Nederlands grondgebied
+            brengt of doet brengen, dan wel zich daarvan ontdoet, is
+            verplicht daaromtrent administratie te voeren en ten behoeve
+            van de in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=13">artikel 13</intref>
+            bedoelde inschrijving aangifte te doen, een en ander in bij
+            algemene maatregel van bestuur te bepalen gevallen en
+            overeenkomstig bij de maatregel te stellen regelen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Ieder, die de aanwezigheid van ertsen of andere stoffen
+            waaruit splijtstoffen  kunnen worden verkregen en die naar
+            gewicht gerekend ten minste een tiende procent uranium of
+            drie procent thorium bevatten in de bodem heeft vastgesteld,
+            is verplicht in bij algemene maatregel van bestuur te
+            bepalen gevallen en overeenkomstig bij de maatregel te
+            stellen regelen daarvan ten behoeve van de in
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=13">artikel 13</intref>
+            bedoelde inschrijving aangifte te doen.</al>
+    </lid>
+</artikel>
+</afdeling>
+    <afdeling status="goed">
+    <kop>
+        <label>Afdeling</label>
+        <nr status="officieel">2</nr>
+        <titel status="officieel">Vergunningen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">15</nr>
+    </kop>
+    <al>Het is verboden zonder vergunning van Onze Minister van Economische Zaken, Landbouw en Innovatie: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+            <li.nr>a.</li.nr>
+            <al>splijtstoffen of ertsen te vervoeren, voorhanden te
+                hebben, binnen of buiten Nederlands grondgebied te
+                brengen of te doen brengen, dan wel zich daarvan te
+                ontdoen; </al>
+        </li>
+        <li>
+            <li.nr>b.</li.nr>
+            <al>een inrichting, waarin kernenergie kan worden
+                vrijgemaakt, splijtstoffen kunnen worden vervaardigd,
+                bewerkt of verwerkt, dan wel splijtstoffen worden
+                opgeslagen, op te richten, inwerking te brengen, in
+                werking te houden, buiten gebruik te stellen of te wijzigen of een inrichting, waarin kernenergie kon worden
+vrijgemaakt, splijtstoffen konden worden vervaardigd, bewerkt of
+verwerkt, dan wel splijtstoffen werden opgeslagen, te
+ontmantelen;</al>
+        </li>
+        <li>
+            <li.nr>c.</li.nr>
+            <al>een uitrusting, geschikt om een vaartuig of ander
+                vervoermiddel door middel van kernenergie voort te
+                bewegen, daarin aan te brengen of aangebracht te houden,
+                dan wel zodanige daarin aangebrachte uitrusting in
+                werking te brengen, in werking te houden of te wijzigen.</al>
+        </li>
+    </lijst>
+</artikel>
+    <artikel status="goed">                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">15a</nr>
+                     </kop>
+                     <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Met
+ingang van 31 december 2033 vervalt de op grond van <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder
+b</intref>, verleende vergunning voor het in werking houden van de in 1973 in
+werking gebrachte kernenergiecentrale Borssele, voorzover het betreft
+het vrijmaken van kernenergie.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Een
+aanvraag om een vergunning als bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder b</intref>, voor het
+vrijmaken van kernenergie in de in het eerste lid genoemde inrichting
+na het in het eerste lid genoemde tijdstip wordt, onverminderd het
+overigens bij of krachtens deze wet bepaalde, buiten behandeling
+gelaten.</al>
+                     </lid>
+                  
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">15aa</nr>
+    </kop>
+    <al>Indien een vergunning als bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder b</intref>,
+        voor het wijzigen van een inrichting wordt aangevraagd en voor
+        die inrichting al een of meer vergunningen krachtens deze wet
+        zijn verleend, is <extref status="actief" doc="1.0:v:BWBR0024779&amp;artikel=2.6" compleet="nee">artikel 2.6, eerste,
+tweede en vierde lid, van de Wet algemene bepalingen
+omgevingsrecht</extref> van
+        overeenkomstige toepassing. Onze Minister van Economische Zaken, Landbouw en Innovatie kan de rechten die
+        de vergunninghouder aan de al eerder verleende vergunningen
+        ontleende, niet wijzigen anders dan mogelijk zou zijn met
+        toepassing van <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=18a">artikel 18a</intref> of
+            <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=19">artikel 19</intref> van deze wet.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">15b</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>De vergunning kan slechts worden geweigerd in het belang
+            van: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>de bescherming van mensen, dieren, planten en goederen;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>de veiligheid van de staat;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>de bewaring en beveiliging van splijtstoffen en ertsen en de beveiliging
+van inrichtingen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder b</intref>;</al>
+            </li>
+            <li>
+                <li.nr>d.</li.nr>
+                <al>de energievoorziening;</al>
+            </li>
+            <li>
+                <li.nr>e.</li.nr>
+                <al>het zeker stellen van de betaling van de vergoeding,
+                    aan derden toekomende voor schade of letsel, hun toegebracht;</al>
+            </li>
+            <li>
+                <li.nr>f.</li.nr>
+                <al>de nakoming van internationale verplichtingen.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Onverminderd
+het eerste lid kan een vergunning voor het oprichten van een inrichting
+als bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder b</intref>, worden geweigerd, indien de in de
+aanvraag beschreven techniek voor het vrijmaken van kernenergie, het
+vervaardigen, bewerken of verwerken van splijtstoffen dan wel het
+opslaan van splijtstoffen in de inrichting naar het oordeel van Onze Minister van Economische Zaken, Landbouw en Innovatie bij
+het in werking brengen van de inrichting zal zijn
+verouderd.</al>
+                     </lid><lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Bij algemene maatregel van bestuur kunnen naast de in het
+            eerste lid bedoelde belangen andere belangen worden aangewezen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al> Indien Wij niet binnen drie maanden na het in werking
+            treden van een algemene maatregel van bestuur als in het
+            tweede lid bedoeld aan de Tweede Kamer der Staten-Generaal
+            een voorstel van wet hebben doen toekomen tot wijziging van
+            deze wet overeenkomstig die maatregel of indien zodanig
+            voorstel wordt ingetrokken of verworpen, trekken Wij de
+            maatregel onverwijld in.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">15c</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>In een vergunning wordt duidelijk aangegeven waarop zij
+            betrekking heeft. De aanvraag om de vergunning maakt deel
+            uit van de vergunning, voor zover dat in de vergunning is aangegeven.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Een vergunning kan ter bescherming van de bij of krachtens
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15b">artikel 15<nadruk type="cur">b</nadruk>
+            </intref> aangewezen belangen onder beperkingen
+            worden verleend.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Aan een vergunning worden, met inachtneming van de
+            dienaangaande bij algemene maatregel van bestuur gestelde
+            regels, de voorschriften verbonden, die nodig zijn ter
+            bescherming van de bij of krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15b">artikel 15 <nadruk type="cur">b</nadruk>
+            </intref> aangewezen belangen. Voor zover door het
+            verbinden van voorschriften aan de vergunning de nadelige
+            gevolgen van de betrokken activiteit voor mensen, dieren,
+            planten en goederen niet kunnen worden voorkomen, worden
+            daaraan de voorschriften verbonden, die de grootst mogelijke
+            bescherming bieden tegen die gevolgen, tenzij dat
+            redelijkerwijs niet kan worden gevergd.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al> Voor zover ten aanzien van de betrokken splijtstoffen,
+            ertsen, inrichtingen of uitrustingen regels gelden krachtens
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=21">artikel 21</intref>,
+            kunnen de voorschriften daarvan alleen afwijken, voor zover
+            dat bij die regels is toegestaan.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">15d</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>De aan een vergunning te verbinden voorschriften geven de
+            doeleinden aan, die de vergunninghouder ter bescherming van
+            de bij of krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15b">artikel 15b</intref> aangewezen belangen op een door hem te
+            bepalen wijze dient te verwezenlijken.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Voor zover dit naar het oordeel van Onze Minister van Economische Zaken, Landbouw en Innovatie
+            noodzakelijk is, kunnen de voorschriften inhouden dat
+            daarbij aangegeven middelen ter bescherming van de bij of
+            krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15b">artikel 15b</intref> aangewezen belangen moeten worden toegepast.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>15e</nr>
+    </kop>
+    <lid>
+        <lidnr>1</lidnr>
+        <al>Aan een vergunning kunnen ter bescherming van de bij of
+            krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15b">artikel 15<nadruk type="cur">b</nadruk>
+            </intref> aangewezen belangen andere dan de in
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15d">artikel 15<nadruk type="cur">d</nadruk>
+            </intref> bedoelde voorschriften worden verbonden.</al>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al> Een voorschrift kan de verplichting inhouden dat met
+            betrekking tot in het voorschrift geregelde, daarbij
+            aangegeven onderwerpen moet worden voldaan aan nadere eisen
+            die door een bij het voorschrift aangewezen bestuursorgaan
+            worden gesteld. Bij het voorschrift kan worden aangegeven
+            hoe die eisen door het betrokken bestuursorgaan moeten
+            worden bekendgemaakt. Bij het stellen van een nadere eis
+            wordt het tijdstip bepaald, waarop ten aanzien van die eis
+            de verplichting ingaat.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">15f</nr>
+                     </kop>
+                     <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>De houder
+van een vergunning als bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder b</intref>, voor het in
+werking brengen, in werking houden, buiten gebruik stellen of
+ontmantelen van een inrichting waarin kernenergie kan,
+onderscheidenlijk kon worden vrijgemaakt, stelt op een door Onze Ministers van Economische Zaken, Landbouw en Innovatie en van Financi&#xEB;n goedgekeurde wijze financi&#xEB;le zekerheid ter
+dekking van de kosten die voortvloeien uit het buiten gebruik stellen
+en de ontmanteling van de inrichting.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De
+financi&#xEB;le zekerheid wordt in stand gehouden tot het tijdstip
+waarop Onze genoemde Ministers schriftelijk hebben verklaard dat de
+ontmanteling is voltooid.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>De
+financi&#xEB;le zekerheid wordt gesteld in een of meer van de volgende
+vormen:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>een
+borgtocht of een
+bankgarantie;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>het
+deelnemen aan een daartoe ingesteld fonds dat naar het oordeel van Onze
+genoemde Ministers voldoende waarborg biedt dat de in het eerste lid
+bedoelde kosten zijn
+gedekt;</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>het treffen
+van enige andere voorziening die naar het oordeel van Onze genoemde
+Ministers voldoende waarborg biedt dat de in het eerste lid bedoelde
+kosten zijn gedekt.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>De
+aanvraag om goedkeuring vermeldt het bedrag en de termijn waarvoor en
+het tijdstip en de wijze waarop de zekerheid wordt gesteld. Tevens
+bevat de aanvraag een onderbouwing van de omvang van de te stellen
+financi&#xEB;le zekerheid. Indien de aanvraag betrekking heeft op een
+wijziging van bij een eerdere aanvraag verstrekte gegevens, wordt de
+aanvraag uiterlijk vier weken voor de wijziging ingediend.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">5</lidnr>
+                        <al>Bij of
+krachtens algemene maatregel van bestuur kunnen regels worden gesteld
+met betrekking tot de aanvraag om goedkeuring.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">6</lidnr>
+                        <al>Aan de
+goedkeuring kunnen voorschriften worden verbonden. Daartoe kan in ieder
+geval behoren een voorschrift dat de houder van de vergunning het
+bedrag van de gestelde zekerheid aanpast, indien dat naar het oordeel
+van Onze genoemde Ministers nodig is met het oog op wijziging van bij
+het voorschrift aangegeven omstandigheden.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">7</lidnr>
+                        <al>Onze
+genoemde Ministers beslissen binnen zes maanden na de ontvangst van een
+aanvraag om goedkeuring op die aanvraag.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">8</lidnr>
+                        <al>Bij of
+krachtens algemene maatregel van bestuur kunnen andere inrichtingen als
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder b</intref>, worden aangewezen, waarop het eerste
+tot en met zevende lid van overeenkomstige toepassing
+zijn.</al>
+                     </lid>
+                  <lid>
+                           <lidnr status="officieel">9</lidnr>
+                           <al>Met
+toepassing van <extref status="actief" doc="1.0:v:BWBR0026759&amp;artikel=28" compleet="nee">artikel 28, eerste lid, laatste zinsnede, van de
+Dienstenwet</extref> is <extref status="actief" doc="1.0:v:BWBR0005537&amp;paragraaf=4.1.3.3" compleet="nee">paragraaf 4.1.3.3. van de Algemene wet bestuursrecht</extref>
+niet van toepassing op de aanvraag om
+goedkeuring.</al>
+                        </lid></artikel><artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">16</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Bij of krachtens algemene maatregel van bestuur worden
+            regelen gesteld betreffende de wijze, waarop de aanvraag om
+            een vergunning dient te geschieden, en de gegevens, welke
+            van de aanvrager kunnen worden verlangd.</al>
+    </lid>
+    <lid>
+                           <lidnr status="officieel">2</lidnr>
+                           <al>Bij
+of krachtens de maatregel wordt in ieder geval bepaald dat de aanvrager
+in gevallen waarin de vergunning betrekking heeft op het oprichten of
+veranderen van een inrichting als bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder b</intref>, dat
+tevens is aan te merken als het bouwen van een bouwwerk als bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0024779&amp;artikel=2.1" compleet="nee">artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen
+omgevingsrecht</extref>:</al>
+                           <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                              <li>
+                                 <li.nr>a.</li.nr>
+                                 <al>indien
+de aanvraag om een omgevingsvergunning voor dat bouwen tegelijk met de
+aanvraag om de vergunning krachtens deze wet is ingediend, een
+afschrift van die aanvraag om een omgevingsvergunning bij zijn aanvraag
+overlegt;</al>
+                              </li>
+                              <li>
+                                 <li.nr>b.</li.nr>
+                                 <al>indien de
+aanvraag om een omgevingsvergunning voor dat bouwen niet tegelijk met
+de aanvraag om de vergunning krachtens deze wet wordt ingediend, een
+afschrift van die aanvraag om een omgevingsvergunning aan het bevoegd
+gezag overlegt gelijktijdig met de indiening van die
+aanvraag.</al>
+                              </li>
+                           </lijst>
+                        </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">17</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Op de
+voorbereiding van de beschikking op de aanvraag om een vergunning
+krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15</intref> is <extref status="actief" doc="1.0:v:BWBR0005537&amp;afdeling=3.4" compleet="nee">afdeling 3.4 van de Algemene wet bestuursrecht</extref>
+van toepassing en zijn <extref status="actief" doc="1.0:v:BWBR0024779&amp;paragraaf=3.5" compleet="nee">paragraaf&#xA0;3.5
+van de Wet algemene bepalingen omgevingsrecht</extref> en <extref status="actief" doc="1.0:v:BWBR0003245&amp;afdeling=13.2" compleet="nee">afdeling
+13.2 van de Wet milieubeheer</extref> van overeenkomstige toepassing, met dien
+verstande dat daarbij hetgeen in de <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=17a">artikelen 17a tot en met 20a </intref> van
+deze wet is bepaald, in acht wordt
+genomen.</al></lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> In afwijking van het eerste lid zijn de in dat lid genoemde
+            onderdelen van de <extref status="actief" doc="1.0:v:BWBR0005537" compleet="nee">Algemene wet bestuursrecht</extref>, van de <extref status="actief" doc="1.0:v:BWBR0024779" compleet="nee">Wet algemene
+bepalingen omgevingsrecht</extref> en van de <extref status="actief" doc="1.0:v:BWBR0003245" compleet="nee">Wet milieubeheer</extref> niet van toepassing op de voorbereiding van beschikkingen op de
+            aanvraag om een vergunning krachtens:  </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al><intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder a</intref>,
+                    voor het vervoeren, het voorhanden hebben bij opslag
+                    in verband met het vervoer, dan wel het binnen of
+                    buiten Nederlands grondgebied brengen of doen
+                    brengen van splijtstoffen of ertsen; </al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al><intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder a</intref>,
+                    voor het voorhanden hebben van splijtstoffen in een
+                    inrichting of uitrusting, ten aanzien waarvan een
+                    vergunning krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder b of c</intref>, is vereist, dan wel voor het
+                    zich ontdoen van splijtstoffen die rechtstreeks
+                    afkomstig zijn uit een zodanige inrichting of
+                    uitrusting; </al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al><intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder a</intref>,
+                    voor het voorhanden hebben of zich ontdoen van
+                    splijtstoffen in gevallen als bedoeld in het derde
+                    lid; </al>
+            </li>
+            
+            <li>
+                <li.nr>d.</li.nr>
+                <al><intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder c</intref>, in
+                    gevallen waarin de uitrusting slechts buiten
+                    Nederland in werking zal worden gebracht of
+                    gehouden. </al>
+            </li>
+        </lijst>
+    <al>In
+gevallen als bedoeld in de eerste volzin is met toepassing van <extref status="actief" doc="1.0:v:BWBR0026759&amp;artikel=28" compleet="nee">artikel
+28, eerste lid, laatste zinsnede, van de Dienstenwet</extref> <extref status="actief" doc="1.0:v:BWBR0005537&amp;paragraaf=4.1.3.3" compleet="nee">paragraaf 4.1.3.3.
+van de Algemene wet bestuursrecht</extref> niet van toepassing op de aanvraag om
+een
+vergunning.</al></lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Gevallen als bedoeld in het tweede lid, onder c, zijn die gevallen:  </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>waarin het voorhanden hebben van splijtstoffen of
+                    het zich daarvan ontdoen geschiedt:  </al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                        <li.nr>1&#xB0;.</li.nr>
+                        <al>in een voertuig of aan boord van een
+                            vaartuig of van een luchtvaartuig; </al>
+                    </li>
+                    <li>
+                        <li.nr>2&#xB0;.</li.nr>
+                        <al>op steeds wisselende plaatsen, indien die
+                            gevallen behoren tot een bij algemene
+                            maatregel van bestuur aangegeven categorie
+                            waarin het belang van de toepassing van <extref status="actief" doc="1.0:v:BWBR0005537&amp;afdeling=3.4" compleet="nee">afdeling 3.4 van de
+                                Algemene wet
+                            bestuursrecht</extref> niet opweegt
+                            tegen de daaraan verbonden bezwaren; </al>
+                    </li>
+                    <li>
+                              <li.nr>3&#xB0;.</li.nr>
+                              <al>indien
+al eerder een overeenkomstige vergunning met betrekking tot dezelfde
+plaats was verleend aan de aanvrager of aan degene wiens vergunning
+ingevolge <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=70">artikel 70</intref> voor hem geldt en de aangevraagde vergunning niet
+leidt tot andere of grotere nadelige gevolgen voor het milieu dan
+volgens de geldende vergunning is
+toegestaan;</al>
+                           </li>
+                </lijst>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>waarin bij algemene maatregel van bestuur aangegeven
+                    splijtstoffen op een daarbij aan te geven wijze
+                    hetzij zijn opgenomen in vaste stoffen die geen
+                    ioniserende straling uitzenden, hetzij zijn omgeven
+                    door een omhulsel; </al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>behorende tot een bij algemene maatregel van bestuur
+                    aangewezen categorie, waarin, gezien de wijze waarop
+                    de daarbij aangegeven splijtstoffen worden
+                    toegepast, het belang van de toepassing van 
+                            <extref status="actief" doc="1.0:v:BWBR0005537&amp;afdeling=3.4" compleet="nee">afdeling 3.4 van de
+                                Algemene wet
+                            bestuursrecht</extref> niet opweegt tegen de
+                    daaraan verbonden bezwaren. </al>
+            </li>
+        </lijst>
+    </lid>
+<lid>
+                           <lidnr status="officieel">4</lidnr>
+                           <al>In
+afwijking van het eerste lid zijn de in dat lid genoemde onderdelen van
+de <extref status="actief" doc="1.0:v:BWBR0005537" compleet="nee">Algemene wet bestuursrecht</extref>, van de <extref status="actief" doc="1.0:v:BWBR0024779" compleet="nee">Wet algemene bepalingen
+omgevingsrecht</extref> en van de <extref status="actief" doc="1.0:v:BWBR0003245" compleet="nee">Wet milieubeheer</extref> niet van toepassing op de
+voorbereiding van beschikkingen op de aanvraag om een wijziging van een
+vergunning krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder b of c</intref>, die niet leidt tot
+andere of grotere nadelige gevolgen voor het milieu dan volgens de
+geldende vergunning is toegestaan, waarvoor geen verplichting bestaat
+tot het maken van een milieueffectrapport als bedoeld in <extref status="actief" doc="1.0:v:BWBR0003245&amp;hoofdstuk=7" compleet="nee">hoofdstuk 7
+van de Wet milieubeheer</extref>, en die niet leidt tot een andere inrichting
+dan waarvoor eerder een vergunning is
+verleend.</al>
+                        </lid></artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">17a</nr>
+    </kop>
+    <al>Bij algemene maatregel van bestuur worden de bestuursorganen
+            aangewezen, die - anders dan als adviseurs - bij de totstandkoming van de
+            beschikking op de aanvraag worden betrokken. Bij de
+            maatregel kunnen bestuursorganen worden aangewezen, die in
+            de gelegenheid worden gesteld advies uit te brengen over het
+            ontwerp van de beschikking op de aanvraag om een vergunning.</al>
+    </artikel>
+    
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">18a</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Onze Minister van Economische Zaken, Landbouw en Innovatie beziet regelmatig of de beperkingen
+            waaronder een vergunning is verleend, en de voorschriften
+            die aan een vergunning zijn verbonden, nog toereikend zijn
+            gezien de ontwikkelingen op het gebied van de technische
+            mogelijkheden tot bescherming van mensen, dieren, planten en goederen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Onze Minister van Economische Zaken, Landbouw en Innovatie wijzigt de beperkingen waaronder de
+            vergunning is verleend en de voorschriften die daaraan zijn
+            verbonden, vult deze aan of trekt ze in, dan wel brengt
+            alsnog beperkingen aan, of verbindt alsnog voorschriften aan
+            de vergunning, voor zover blijkt dat de nadelige gevolgen
+            die de betrokken activiteit voor mensen, dieren, planten en
+            goederen veroorzaakt, gezien de ontwikkeling van de
+            technische mogelijkheden tot bescherming daarvan verder
+            kunnen worden beperkt.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Bij algemene maatregel van bestuur kunnen in het belang van
+            de bescherming van mensen, dieren, planten en goederen
+            regels worden gesteld met betrekking tot de wijze waarop het
+            eerste lid wordt toegepast met betrekking tot daarbij
+            aangewezen categorie&#xEB;n van handelingen. Bij de maatregel kan
+            worden bepaald dat daarbij gestelde regels slechts gelden in
+            daarbij aangegeven categorie&#xEB;n van gevallen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al> Met betrekking tot de beslissing ter zake en de inhoud van
+            die beperkingen en voorschriften zijn de <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15b">artikelen 15b tot en met 15e</intref> van overeenkomstige toepassing.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">19</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Onze Minister van Economische Zaken, Landbouw en Innovatie kan beperkingen waaronder een vergunning
+            is verleend, en voorschriften die daaraan zijn verbonden,
+            wijzigen, aanvullen of intrekken, dan wel alsnog beperkingen
+            aanbrengen of voorschriften aan een vergunning verbinden ter
+            bescherming van de bij of krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15b">artikel 15b</intref> aangewezen belangen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Een ieder, met uitzondering van de vergunninghouder, kan
+            Onze Minister van Economische Zaken, Landbouw en Innovatie verzoeken een vergunning in het belang van
+            de bescherming van mensen, dieren, planten en goederen met
+            toepassing van het eerste lid te wijzigen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Op aanvraag van de vergunninghouder kan Onze Minister van Economische Zaken, Landbouw en Innovatie
+            beperkingen waaronder een vergunning is verleend, en
+            voorschriften die daaraan zijn verbonden, wijzigen,
+            aanvullen of intrekken, dan wel alsnog beperkingen
+            aanbrengen of voorschriften aan een vergunning verbinden.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al> In een geval als bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15b">artikel 15b,
+vierde lid</intref>, trekt
+            Onze Minister van Economische Zaken, Landbouw en Innovatie zo spoedig mogelijk nadat de betrokken
+            algemene maatregel van bestuur is ingetrokken, de ingevolge
+            die maatregel aan een vergunning verbonden voorschriften in.
+            Tot het tijdstip waarop de beschikking tot intrekking van
+            kracht wordt, blijven de voorschriften gelden.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">20</nr>
+    </kop>
+    <lid><lidnr status="officieel">1</lidnr><al>Op de
+voorbereiding van een beschikking krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=18a">artikel 18a, tweede lid</intref>, of
+<intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=19">artikel 19, eerste, tweede of derde lid</intref>, is &#x2013;&#xA0;tenzij het
+een geval betreft als bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=17">artikel 17, tweede lid</intref>&#xA0;&#x2013;
+<extref status="actief" doc="1.0:v:BWBR0005537&amp;afdeling=3.4" compleet="nee">afdeling 3.4 van de Algemene wet bestuursrecht</extref> van toepassing en zijn
+<extref status="actief" doc="1.0:v:BWBR0024779&amp;paragraaf=3.5" compleet="nee">paragraaf&#xA0;3.5 van de Wet algemene bepalingen
+omgevingsrecht</extref> en <extref status="actief" doc="1.0:v:BWBR0003245&amp;afdeling=13.2" compleet="nee">afdeling 13.2 van de Wet
+milieubeheer</extref> van overeenkomstige
+toepassing.</al></lid><lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Indien een verzoek wordt gedaan als bedoeld in
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=19">artikel 19, tweede
+            lid</intref>, stelt Onze Minister van Economische Zaken, Landbouw en Innovatie de houder van
+            de betrokken vergunning daarvan in kennis. Deze wordt voor
+            zover zijn belang dat vordert, mede als verzoeker beschouwd.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">20a</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Onze Minister van Economische Zaken, Landbouw en Innovatie kan de vergunning intrekken indien dat ter
+            bescherming van de bij of krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15b">artikel 15b</intref> aangewezen belangen noodzakelijk is.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al>Op de
+voorbereiding van een beschikking krachtens het eerste lid is <extref status="actief" doc="1.0:v:BWBR0005537&amp;afdeling=3.4" compleet="nee">afdeling
+3.4 van de Algemene wet bestuursrecht</extref> van toepassing en zijn <extref status="actief" doc="1.0:v:BWBR0024779&amp;paragraaf=3.5" compleet="nee">paragraaf&#xA0;3.5 van de Wet algemene bepalingen
+omgevingsrecht</extref> en <extref status="actief" doc="1.0:v:BWBR0003245&amp;afdeling=13.2" compleet="nee">afdeling 13.2 van de Wet milieubeheer</extref>
+van overeenkomstige toepassing, tenzij het een geval betreft als
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=17">artikel 17, tweede
+lid</intref>.</al></lid>
+<lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Onze Minister van Economische Zaken, Landbouw en Innovatie kan
+een vergunning voor het ontmantelen van een inrichting als bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder b</intref>, tevens intrekken wanneer de ontmanteling van die
+inrichting is
+voltooid.</al>
+                     </lid></artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">21</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Bij of krachtens algemene maatregel van bestuur kunnen ter
+            bescherming van de bij of krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15b">artikel 15b</intref> aangewezen belangen regels worden gesteld
+            met betrekking tot daartoe bij de maatregel aangewezen
+            categorie&#xEB;n van splijtstoffen, ertsen, inrichtingen of
+            uitrustingen dan wel onderdelen van inrichtingen of
+            uitrustingen. Bij de maatregel kan worden bepaald dat
+            daarbij gestelde regels slechts gelden in daarbij aangegeven
+            categorie&#xEB;n van gevallen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Bij algemene maatregel van bestuur kan worden bepaald dat
+            de bij <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15</intref>
+            gestelde verboden in daarbij aangewezen categorie&#xEB;n van
+            gevallen niet gelden met betrekking tot splijtstoffen,
+            ertsen, inrichtingen of uitrustingen, behorende tot een bij
+            die maatregel aangewezen categorie.</al>
+    </lid>
+    <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Bij
+of krachtens algemene maatregel van bestuur kunnen regels worden
+gesteld met betrekking tot de buitengebruikstelling en ontmanteling van
+bij of krachtens die maatregel aangewezen categorie&#xEB;n van
+inrichtingen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder b</intref>. Bij of krachtens de
+maatregel kan worden bepaald dat daarbij gestelde regels slechts gelden
+in daarbij aangegeven categorie&#xEB;n van
+gevallen.</al>
+                     </lid><lid>
+        <lidnr status="officieel">4</lidnr>
+        <al> Ten aanzien van bij de regels te stellen voorschriften zijn
+            de bij of krachtens <extref status="actief" doc="1.0:v:BWBR0024779&amp;artikel=2.22" compleet="nee">artikel 2.22, tweede en
+derde lid, van de Wet algemene bepalingen omgevingsrecht</extref> gestelde
+regels over activiteiten met betrekking tot inrichtingen als bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0024779&amp;artikel=2.1" compleet="nee">artikel 2.1, eerste lid, onder e, van die wet</extref>, alsmede <extref status="actief" doc="1.0:v:BWBR0024779&amp;artikel=4.1" compleet="nee">artikel 4.1 van die wet</extref> van
+            overeenkomstige toepassing, met dien verstande dat, bij
+            toepassing van het tweede lid, het stellen van financi&#xEB;le
+            zekerheid slechts kan worden voorgeschreven in de vorm van
+            het sluiten van een verzekering tegen aansprakelijkheid voor
+            schade, voortvloeiend uit de nadelige gevolgen voor de bij
+            of krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15b">artikel 15b</intref> aangewezen belangen, die de inrichting veroorzaakt.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">5</lidnr>
+        <al> Indien bij een maatregel krachtens het eerste lid tevens
+            toepassing wordt gegeven aan het tweede lid, kan de
+            verplichting worden opgelegd tot het melden van de
+            handelingen ten aanzien waarvan de bij <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15</intref>
+            gestelde verboden niet gelden.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">6</lidnr>
+        <al> De <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=8.40" compleet="nee">artikelen 8.40, tweede
+            lid</extref>, <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=8.41" compleet="nee">8.41, tweede, derde en vierde
+            lid</extref> en <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=8.42" compleet="nee">8.42, eerste tot en met vijfde lid, van de Wet milieubeheer</extref> zijn van overeenkomstige
+            toepassing, met dien verstande dat onder "Onze
+            Minister" wordt verstaan: Onze Ministers van Economische Zaken, Landbouw en Innovatie en van Sociale Zaken en Werkgelegenheid tezamen.</al>
+    </lid>
+</artikel>
+</afdeling>
+    <afdeling>
+    <kop>
+        <label>Afdeling</label>
+        <nr>3</nr>
+        <titel status="officieel">Inbezitneming van splijtstoffen en ertsen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">22</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Ieder, die zonder daartoe bevoegd te zijn splijtstoffen of
+            ertsen, dan wel stoffen, waarvan hij redelijkerwijs moet
+            vermoeden, dat het splijtstoffen of ertsen zijn, onder zich
+            heeft of krijgt, is verplicht daarvan terstond aangifte te
+            doen bij de burgemeester van de gemeente, waar die goederen
+            zich bevinden.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> De burgemeester geeft van de gedane aangifte onverwijld
+            kennis aan een der krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=58">artikel 58, eerste
+            lid</intref>, aangewezen ambtenaren.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al>De krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=58">artikel 58, eerste
+            lid</intref>, aangewezen ambtenaren zijn bevoegd met
+            betrekking tot ongeoorloofd aanwezig bevonden splijtstoffen
+            en ertsen en de voorwerpen, welke tot hun verpakking of
+            berging dienen of hebben gediend, een last onder bestuursdwang op te
+leggen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al>Door toepassing van bestuursdwang in bezit genomen goederen
+            worden overgedragen aan een door Onze Ministers van Economische Zaken, Landbouw en Innovatie en van Sociale Zaken en Werkgelegenheid aan te wijzen instelling of persoon. Deze
+            geeft van de overdracht kennis in de <nadruk type="cur">Staatscourant</nadruk> en een of meer nieuwsbladen. Met
+toepassing van <extref status="actief" doc="1.0:v:BWBR0026759&amp;artikel=28" compleet="nee">artikel 28, eerste lid, laatste zinsnede, van de
+Dienstenwet</extref> is <extref status="actief" doc="1.0:v:BWBR0005537&amp;paragraaf=4.1.3.3" compleet="nee">paragraaf 4.1.3.3. van de Algemene wet bestuursrecht</extref>
+niet van toepassing op de aanvraag om een
+aanwijzing.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">23</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Hij, die bevoegd is de in bezit genomen splijtstoffen of
+            ertsen onder zich te hebben, kan binnen drie maanden na de
+            in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=22">artikel 22, vierde
+            lid</intref>, bedoelde kennisgeving de afgifte van
+            de in bezit genomen goederen vorderen bij een
+            verzoekschrift, te richten tot de rechtbank,
+            binnen welker rechtsgebied de inbezitneming heeft plaats gevonden.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> De rechtbank behandelt het verzoek overeenkomstig de
+            bepalingen van de zesde afdeling van Titel I van
+                het Eerste Boek van het Wetboek van
+            Strafvordering en beslist zo spoedig
+            mogelijk bij met redenen omklede beschikking.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">24</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Ingeval niet binnen de in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=23">artikel 23, eerste
+            lid</intref>, genoemde termijn een verzoekschrift is
+            ingediend of ingeval een krachtens dat lid gedaan verzoek
+            ongegrond is verklaard, vervallen alle rechten op de in
+            bezit genomen goederen aan de staat, met uitzondering van de
+            rechten, welke ingevolge internationale overeenkomsten of
+            besluiten van volkenrechtelijke organisaties daarop rusten.
+            De krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=22">artikel 22, vierde
+            lid</intref>, aangewezen instelling of persoon geeft
+            hiervan kennis in de <nadruk type="cur">Staatscourant</nadruk> en een of meer nieuwsbladen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Hij, wiens rechten ingevolge het eerste lid aan de staat
+            zijn vervallen, kan binnen een jaar na de krachtens het
+            eerste lid gedane kennisgeving deze rechten van de staat terugvorderen.</al>
+    </lid>
+</artikel>
+    
+</afdeling>
+    <afdeling>
+    <kop>
+        <label>Afdeling</label>
+        <nr>5</nr>
+        <titel status="officieel">Algemeen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">26</nr>
+    </kop>
+    
+    
+<lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>De voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur als in dit hoofdstuk bedoeld wordt Ons gedaan, indien het betreft:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>een maatregel als in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=13">artikel&#xA0;13</intref> of <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=14">14</intref> bedoeld: Onze Minister van Economische Zaken, Landbouw en Innovatie;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>een maatregel als in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15b">artikel&#xA0;15b</intref> bedoeld: door Onze Ministers, wie het aangaat;</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>een maatregel als in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=16">artikel&#xA0;16</intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=17">17</intref> of <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=21">21</intref> bedoeld: door Onze Ministers van Economische Zaken, Landbouw en Innovatie en van Sociale Zaken en Werkgelegenheid.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Ten aanzien van bij een algemene maatregel van bestuur, vastgesteld krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=14">artikel&#xA0;14</intref>, geregelde onderwerpen, kan Onze Minister van Economische Zaken, Landbouw en Innovatie nadere regels stellen.</al>
+                     </lid></artikel>
+    
+</afdeling>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>IV</nr>
+        <titel>Radioactieve stoffen en toestellen</titel>
+    </kop>
+    <afdeling>
+    <kop>
+        <label>Afdeling</label>
+        <nr>1</nr>
+        <titel status="officieel">Radioactieve stoffen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">28</nr>
+    </kop>
+    <al>Ieder die radioactieve stoffen bereidt, vervoert, voorhanden
+        heeft, toepast, binnen of buiten Nederlands grondgebied brengt
+        of doet brengen, dan wel zich daarvan ontdoet, is verplicht
+        daaromtrent een administratie te voeren, overeenkomstig bij of
+        krachtens algemene maatregel van bestuur gestelde regels.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">29</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Het is verboden zonder vergunning van Onze Minister van Economische Zaken, Landbouw en Innovatie bij of krachtens algemene
+            maatregel van bestuur aan te wijzen radioactieve stoffen of
+            in daarbij aan te wijzen gevallen radioactieve stoffen te
+            bereiden, te vervoeren, voorhanden te hebben, toe te passen,
+            binnen of buiten Nederlands grondgebied te brengen of te
+            doen brengen, dan wel zich daarvan te ontdoen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al>Voor zover het bij of krachtens het eerste lid bepaalde
+            afwijkt van bij of krachtens andere wetten gestelde regelen,
+            blijven deze buiten toepassing.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">29a</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Op de
+voorbereiding van de beschikking op de aanvraag om een vergunning
+krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=29">artikel 29</intref> zijn <extref status="actief" doc="1.0:v:BWBR0005537&amp;afdeling=3.4" compleet="nee">afdeling 3.4 van de Algemene wet
+bestuursrecht</extref> en <extref status="actief" doc="1.0:v:BWBR0003245&amp;afdeling=13.2" compleet="nee">afdeling 13.2 van de Wet milieubeheer</extref> van
+toepassing.</al></lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> In afwijking van het eerste lid zijn <extref status="actief" doc="1.0:v:BWBR0005537&amp;afdeling=3.4" compleet="nee">afdeling 3.4
+                van de Algemene wet bestuursrecht</extref> en
+                <extref status="actief" doc="1.0:v:BWBR0003245&amp;afdeling=13.2" compleet="nee">afdeling 13.2 van de Wet
+            milieubeheer</extref> niet van toepassing op de voorbereiding van de beschikking op de
+            aanvraag om een vergunning krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=29">artikel 29</intref>: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>voor het vervoeren, het voorhanden hebben bij opslag
+                    in verband met het vervoer, het binnen of buiten
+                    Nederlands grondgebied brengen of doen brengen van
+                    radioactieve stoffen, dan wel het voorhanden hebben
+                    of zich ontdoen van zodanige stoffen die zullen
+                    ontstaan tijdens het gebruik van splijtstoffen in
+                    een inrichting of uitrusting, ten aanzien waarvan
+                    een vergunning krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder b of
+                    c</intref>, is vereist;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>voor het bereiden, voorhanden hebben, toepassen of
+                    zich ontdoen van radioactieve stoffen in
+                    overeenkomstige gevallen als bedoeld in
+                        <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=17">artikel 17, derde
+                    lid</intref>;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>voor medische toepassingen, indien naar het oordeel
+                    van Onze Minister van Economische Zaken, Landbouw en Innovatie het belang van de pati&#xEB;nt onverwijlde
+                    toepassing van die stoffen vereist.</al>
+            </li>
+        </lijst>
+    <al>In gevallen als bedoeld in de
+eerste volzin is met toepassing van <extref status="actief" doc="1.0:v:BWBR0026759&amp;artikel=28" compleet="nee">artikel 28, eerste lid, laatste
+zinsnede, van de Dienstenwet</extref> <extref status="actief" doc="1.0:v:BWBR0005537&amp;paragraaf=4.1.3.3" compleet="nee">paragraaf 4.1.3.3. van de Algemene wet
+bestuursrecht</extref> niet van toepassing op de aanvraag om een
+vergunning.</al></lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al>De <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15c">artikelen 15c, eerste
+            lid</intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=16">16</intref> en
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=17a">17a</intref> zijn van
+            overeenkomstige toepassing.</al>
+    </lid>
+</artikel>
+    
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">31</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Aan een vergunning worden met inachtneming van de
+            dienaangaande bij algemene maatregel van bestuur gestelde
+            regelen de met het oog op de bescherming van mensen, dieren,
+            planten en goederen nodige voorschriften verbonden. Voor
+            zover door het verbinden van voorschriften aan de vergunning
+            de nadelige gevolgen van de betrokken activiteit voor
+            mensen, dieren, planten en goederen niet kunnen worden
+            voorkomen, worden daaraan de voorschriften verbonden, die de
+            grootst mogelijke bescherming bieden tegen die gevolgen,
+            tenzij dat redelijkerwijs niet kan worden gevergd.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Zodanige voorschriften kunnen de verplichting inhouden te
+            voldoen aan door bestuursorganen, die bij het voorschrift
+            zijn aangewezen, gestelde nadere eisen. Bij het stellen van
+            zodanige eis wordt tevens het tijdstip bepaald, waarop ten
+            aanzien van die eis de verplichting ingaat.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al>Een vergunning kan ter bescherming van de in het eerste lid
+            genoemde belangen onder beperkingen worden verleend.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al> De <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=18a">artikelen 18<nadruk type="cur">a</nadruk> tot en met 20<nadruk type="cur">a</nadruk>
+            </intref> zijn van overeenkomstige toepassing.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">32</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Onverminderd het in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=29">artikel 29</intref> bepaalde kunnen bij of krachtens
+algemene maatregel van bestuur regels worden gesteld met betrekking
+tot radioactieve stoffen met het oog op de bescherming van mensen,
+dieren, planten en goederen of in het belang van de beveiliging van die
+stoffen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Hiertoe kunnen behoren:  </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>regelen, welke voorwaarden inhouden, waaraan degene,
+                    die bij de maatregel aangewezen radioactieve stoffen
+                    bereidt, vervoert, voorhanden heeft of toepast, dan
+                    wel zich daarvan ontdoet, moet voldoen; </al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>regelen betreffende de plaatsen, waar, de wijze,
+                    waarop en de omstandigheden, waaronder bij de
+                    maatregel aangewezen radioactieve stoffen mogen
+                    worden bereid, vervoerd, voorhanden gehouden of
+                    toegepast, en de wijze, waarop en de omstandigheden,
+                    waaronder men zich van deze stoffen mag ontdoen; </al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>regelen, welke voorwaarden inhouden, waaraan
+                    vervoermiddelen, waarmede bij de maatregel
+                    aangewezen radioactieve stoffen worden vervoerd,
+                    moeten voldoen. </al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Een algemene maatregel van bestuur, waarbij regelen als in
+            het tweede lid, onder a, b of c, bedoeld worden gesteld, kan
+            tevens de verplichting inhouden te voldoen aan door
+            bestuursorganen, die bij de maatregel zijn aangewezen, aan
+            de betrokkene gestelde nadere eisen. Bij het stellen van
+            zodanige eis wordt tevens het tijdstip bepaald, waarop ten
+            aanzien van die eis de verplichting ingaat. </al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al>Bij of krachtens de algemene maatregel van bestuur, bedoeld
+            in het eerste lid, kan een verplichting worden opgelegd tot
+            het melden van bij die maatregel aangewezen handelingen.</al>
+    </lid>
+    
+    <lid>
+                        <lidnr status="officieel">5</lidnr>
+                        <al>Ten aanzien van het bepaalde in het vierde lid, zijn de <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=8.40" compleet="nee">artikelen 8.40, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=8.41" compleet="nee">8.41, tweede, derde en vierde lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=8.42" compleet="nee">8.42, eerste tot en met vijfde lid, van de Wet milieubeheer </extref>van overeenkomstige toepassing, met dien verstande dat met betrekking tot de toepassing van artikel&#xA0;8.41, derde lid, van die wet onder &#xAB;Onze Minister&#xBB; wordt verstaan: Onze Ministers van Sociale Zaken en Werkgelegenheid en van Economische Zaken, Landbouw en Innovatie, en:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>indien de in dat artikellid bedoelde nadere regels betrekking hebben op medische stralingstoepassingen, Onze Minister van Volksgezondheid, Welzijn en Sport;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>indien de in dat artikellid bedoelde nadere regels betrekking hebben op lozing in oppervlaktewater, Onze Minister van Infrastructuur en Milieu.</al>
+                           </li>
+                        </lijst>
+                     </lid><lid>
+        <lidnr status="officieel">6</lidnr>
+        <al> Indien bij een algemene maatregel van bestuur als in het
+            eerste lid bedoeld wordt afgeweken van bij of krachtens
+            andere wetten gestelde regelen, blijven deze in zoverre
+            buiten toepassing. </al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">33</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Ieder, die zonder daartoe bevoegd te zijn radioactieve
+            stoffen dan wel stoffen, waarvan hij redelijkerwijs moet
+            vermoeden dat het radioactieve stoffen zijn, onder zich
+            heeft of krijgt, is verplicht daarvan terstond aangifte te
+            doen bij de burgemeester van de gemeente, waar die goederen
+            zich bevinden.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> De burgemeester geeft van de gedane aangifte onverwijld
+            kennis aan een der krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=58">artikel 58, eerste
+            lid</intref>, aangewezen ambtenaren.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al>De krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=58">artikel 58, eerste
+            lid</intref>, aangewezen ambtenaren zijn bevoegd met
+            betrekking tot ongeoorloofd aanwezig bevonden radioactieve
+            stoffen en de voorwerpen, welke tot hun verpakking of
+            berging dienen of hebben gediend, een last onder bestuursdwang op te
+leggen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al> Door toepassing van bestuursdwang in bezit genomen goederen
+            worden overgedragen aan een door Onze Ministers van Economische Zaken, Landbouw en Innovatie en van Sociale Zaken en Werkgelegenheid aan te wijzen instelling
+            of persoon. Deze geeft van de overdracht kennis in de
+                <nadruk type="cur">Staatscourant</nadruk> en een of meer nieuwsbladen. Met
+toepassing van <extref status="actief" doc="1.0:v:BWBR0026759&amp;artikel=28" compleet="nee">artikel 28, eerste lid, laatste zinsnede, van de
+Dienstenwet</extref> is <extref status="actief" doc="1.0:v:BWBR0005537&amp;paragraaf=4.1.3.3" compleet="nee">paragraaf 4.1.3.3. van de Algemene wet bestuursrecht</extref>
+niet van toepassing op de aanvraag om een
+aanwijzing.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">5</lidnr>
+        <al> De <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=23">artikelen 23</intref> en
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=24">24</intref> zijn van
+            overeenkomstige toepassing.</al>
+    </lid>
+</artikel>
+</afdeling>
+    <afdeling>
+    <kop>
+        <label>Afdeling</label>
+        <nr>2</nr>
+        <titel status="officieel">Toestellen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">34</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Bij of krachtens algemene maatregel van bestuur kunnen met
+            het oog op de bescherming van mensen, dieren, planten en
+            goederen regelen worden gesteld betreffende toestellen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Hiertoe kunnen behoren: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>regelen, welke een verbod inhouden bij de maatregel
+                    aangewezen toestellen te gebruiken, voor zover naar
+                    Ons oordeel het nut van het gebruik daarvan niet
+                    opweegt tegen de nadelige gevolgen voor de openbare gezondheid;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>regelen, welke een verbod inhouden bij de maatregel
+                    aangewezen toestellen te gebruiken zonder vergunning;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>regelen, welke voorwaarden inhouden, waaraan degene,
+                    die bij de maatregel aangewezen toestellen gebruikt,
+                    moet voldoen;</al>
+            </li>
+            <li>
+                <li.nr>d.</li.nr>
+                <al>regelen, welke voorwaarden inhouden, waaraan bij de
+                    maatregel aangewezen toestellen moeten voldoen;</al>
+            </li>
+            <li>
+                <li.nr>e.</li.nr>
+                <al>regelen betreffende de plaatsen, waar, de wijze,
+                    waarop en de omstandigheden, waaronder bij de
+                    maatregel aangewezen toestellen mogen worden gebruikt;</al>
+            </li>
+            <li>
+                <li.nr>f.</li.nr>
+                <al>regelen, welke de verplichting inhouden tot melding
+                    van het gebruik van bij de maatregel aangewezen toestellen.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> In geval van toepassing van het tweede lid, onder b, zijn
+            <extref status="actief" doc="1.0:v:BWBR0005537&amp;afdeling=3.4" compleet="nee">afdeling 3.4
+                van de Algemene wet bestuursrecht</extref> en
+                <extref status="actief" doc="1.0:v:BWBR0003245&amp;afdeling=13.2" compleet="nee">afdeling 13.2 van de Wet
+            milieubeheer</extref> van toepassing, voor zover dat
+            bij die regelen is bepaald. De <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15c">artikelen 15c, eerste
+            lid</intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=16">16, eerste lid</intref>,
+            en <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=17a">17a</intref> zijn van
+            overeenkomstige toepassing.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al>Een vergunning als bedoeld in het tweede lid, onder b, kan
+            ter bescherming tegen nadelige gevolgen voor mensen, dieren,
+            planten of goederen onder beperkingen worden verleend. </al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">5</lidnr>
+        <al> Aan een vergunning als in het tweede lid, onder b, bedoeld
+            kunnen voorschriften worden verbonden. Voor zover door het
+            verbinden van voorschriften aan de vergunning de nadelige
+            gevolgen van de betrokken activiteit voor mensen, dieren,
+            planten en goederen niet kunnen worden voorkomen, worden
+            daaraan de voorschriften verbonden, die de grootst mogelijke
+            bescherming bieden tegen die gevolgen, tenzij dat
+            redelijkerwijs niet kan worden gevergd.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">6</lidnr>
+        <al> Zodanige voorschriften kunnen, voor zover bij de maatregel
+            niet anders is bepaald, de verplichting inhouden te voldoen
+            aan door bestuursorganen, die bij het voorschrift zijn
+            aangewezen, gestelde nadere eisen. Bij het stellen van
+            zodanige eis wordt tevens het tijdstip bepaald, waarop ten
+            aanzien van die eis de verplichting ingaat.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">7</lidnr>
+        <al> De <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=18a">artikelen 18a tot en met
+            20a</intref> zijn van overeenkomstige toepassing.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">8</lidnr>
+        <al> Een algemene maatregel van bestuur, waarbij regelen als in
+            het tweede lid, onder c, d of e, bedoeld worden gesteld, kan
+            tevens de verplichting inhouden te voldoen aan door
+            bestuursorganen, die bij de maatregel zijn aangewezen, aan
+            de betrokkene gestelde nadere eisen. Het vijfde lid, tweede
+            volzin, is van overeenkomstige toepassing.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">9</lidnr>
+        <al> Indien bij een algemene maatregel van bestuur als in het
+            eerste lid bedoeld wordt afgeweken van bij of krachtens
+            andere wetten gestelde regelen, blijven deze in zoverre
+            buiten toepassing.</al>
+    </lid>
+</artikel>
+</afdeling>
+    <afdeling>
+    <kop>
+        <label>Afdeling</label>
+        <nr>3</nr>
+        <titel status="officieel">Algemeen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">35</nr>
+    </kop>
+    <al>De voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur krachtens dit hoofdstuk wordt Ons gedaan door Onze Ministers van Economische Zaken, Landbouw en Innovatie en van Sociale Zaken en Werkgelegenheid. Indien de maatregel betrekking heeft op medische stralingstoepassingen, wordt de voordracht mede door Onze Minister van Volksgezondheid, Welzijn en Sport gedaan. Indien de maatregel betrekking heeft op lozing in oppervlaktewater, wordt de voordracht mede door Onze Minister van Infrastructuur en Milieu gedaan.</al>
+</artikel>
+</afdeling>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>V</nr>
+        <titel>Maatregelen met betrekking tot
+            werkzaamheden of verblijf in ruimten</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">36</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Indien ten aanzien van een inrichting als in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder
+            b</intref>, bedoeld of ten aanzien van een
+            uitrusting als in dat artikel, onder c, bedoeld, welke in
+            een vaartuig of ander vervoermiddel is of wordt aangebracht,
+            dan wel ten aanzien van splijtstoffen, ertsen, radioactieve
+            stoffen of toestellen in strijd met het bij of krachtens
+            deze wet bepaalde is gehandeld, kunnen de krachtens
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=58">artikel 58, eerste
+            lid</intref>, aangewezen ambtenaren, ingeval dit
+            handelen naar hun oordeel ten gevolge heeft, dat personen
+            door het verrichten van werkzaamheden in bepaalde ruimten of
+            door het verblijf in die ruimten zich aan een aanmerkelijk
+            gevaar blootstellen, de betrokkene bij beschikking bevelen
+            een ieder, dan wel personen, behorende tot daarbij
+            aangewezen categorie&#xEB;n, te beletten werkzaamheden in die
+            ruimten te verrichten of aldaar te verblijven.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> De ambtenaar, die een beschikking krachtens het eerste lid
+            heeft vastgesteld, kan - zo nodig met behulp van de sterke
+            arm - alle maatregelen treffen, die hij ter verzekering van
+            de uitvoering van de beschikking nodig acht.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Een krachtens het eerste lid vastgestelde beschikking heeft
+            een werkingsduur van &#xE9;&#xE9;n week, tenzij v&#xF3;&#xF3;r het verstrijken
+            van die termijn door Onze betrokken Ministers anders is bepaald.</al>
+    </lid>
+</artikel>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>Va</nr>
+        <titel>Metingen radioactiviteit en bedrijfsvoering</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">37</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Bij of krachtens algemene maatregel van bestuur kunnen
+            regelen worden gesteld betreffende het meten van doses
+            ioniserende straling en het bepalen van radioactieve
+            besmetting, zomede betreffende de registratie daarvan.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Hiertoe kunnen behoren: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>regelen, welke voor bij de maatregel aangewezen
+                    personen de verplichting inhouden tot het bij zich
+                    dragen van een middel ter controle van de dosis
+                    ioniserende straling, waaraan zij blootgesteld zijn geweest;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>regelen, welke voor bij de maatregel aangewezen
+                    personen de verplichting inhouden tot het houden van
+                    een register, waarin wordt bijgehouden de dosis
+                    ioniserende straling, waaraan de houder is
+                    blootgesteld geweest;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>regelen, welke voor degene onder wiens
+                    verantwoordelijkheid de houder van een register als
+                    onder b bedoeld aan ioniserende straling
+                    blootgesteld is geweest, de verplichting inhouden
+                    tot het registreren van de dosis in dit register;</al>
+            </li>
+            <li>
+                <li.nr>d.</li.nr>
+                <al>regelen, welke voor bij de maatregelen aangewezen
+                    personen de verplichting inhouden tot het zich
+                    onderwerpen aan een geneeskundig onderzoek in
+                    verband met stralingsgevaar;</al>
+            </li>
+            <li>
+                <li.nr>e.</li.nr>
+                <al>regelen, welke de verplichting inhouden apparaten,
+                    dienende tot het meten van doses ioniserende
+                    straling en tot het bepalen van radioactieve
+                    besmetting, te doen ijken.</al>
+            </li>
+        </lijst>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">37a</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>De voordracht tot vaststelling, wijziging of intrekking van
+            een algemene maatregel van bestuur als in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=37">artikel 37</intref>
+            bedoeld wordt gedaan door Onze Minister van Economische Zaken, Landbouw en Innovatie en,
+            indien het een maatregel betreft met het oog op de
+            arbeidsbescherming dan wel de medische aspecten van
+            bescherming tegen ioniserende straling, Onze Minister van
+            Sociale Zaken en Werkgelegenheid onderscheidenlijk Onze
+            Minister van Volksgezondheid, Welzijn en Sport.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Ten aanzien van bij een algemene maatregel van bestuur,
+            vastgesteld krachtens het eerste lid, geregelde onderwerpen
+            kan Onze Minister van Economische Zaken, Landbouw en Innovatie en, indien het een maatregel betreft met het
+            oog op de arbeidsbescherming dan wel medische aspecten van
+            bescherming tegen ioniserende straling, Onze Minister van
+            Sociale Zaken en Werkgelegenheid onderscheidenlijk Onze
+            Minister van Volksgezondheid, Welzijn en Sport, nadere
+            regels stellen.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">37b</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Indien naar het oordeel van Onze Ministers van Economische Zaken, Landbouw en Innovatie en van Sociale Zaken en Werkgelegenheid de bedrijfsvoering van
+            een inrichting als bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder
+            b</intref>, ernstige tekortkomingen vertoont,
+            treffen zij alle maatregelen die zij met het oog op de
+            omstandigheden geboden achten.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Tot de in het eerste lid bedoelde maatregelen kunnen
+            behoren het treffen van de nodige technische,
+            organisatorische, personele en administratieve voorzieningen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al>Indien de inrichting in gebruik is dan wel is bestemd voor
+            gebruik bij de  Nederlandse krijgsmacht of bij de
+            krijgsmacht van een bondgenootschappelijke  mogendheid,
+            oefenen Onze Ministers hun bevoegdheid uit in
+            overeenstemming met  Onze Minister van Defensie,
+            onderscheidenlijk de verantwoordelijke autoriteit  van de
+            desbetreffende mogendheid.</al>
+    </lid>
+</artikel>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>VI</nr>
+        <titel>Bepalingen met betrekking tot
+            interventie bij ongevallen of langdurige blootstellingen
+            alsmede de voorbereiding daarop</titel>
+    </kop>
+    <afdeling>
+    <kop>
+        <label>Afdeling</label>
+        <nr>1</nr>
+        <titel status="officieel">Inleidende bepalingen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">38</nr>
+    </kop>
+    <al>Voor de toepassing van dit hoofdstuk en de daarop berustende
+        bepalingen wordt verstaan onder: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+            <li.nr>a.</li.nr>
+            <al>Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;</al>
+        </li>
+        <li>
+            <li.nr>b.</li.nr>
+            <al>ongeval: gebeurtenis </al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>als gevolg waarvan straling vrijkomt of dreigt
+                        vrij te komen die tot een verhoogd risico leidt
+                        of kan leiden voor mens of milieu, of</al>
+                </li>
+                <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>die ter voorkoming of vermindering van een
+                        verhoogd stralingsrisico voor mens of milieu een
+                        geco&#xF6;rdineerde inzet van diensten en
+                        organisaties van verschillende disciplines vergt;</al>
+                </li>
+            </lijst>
+        </li>
+        <li>
+            <li.nr>c.</li.nr>
+            <al>categorie A-object: </al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>een inrichting als bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder
+                                b</intref>, met uitzondering van een
+                        inrichting waarin uitsluitend splijtstoffen
+                        worden opgeslagen of verwerkt, alsmede een
+                        inrichting voor uraniumverrijking,</al>
+                </li>
+                <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>een ruimtevaartuig of een vervoermiddel met een
+                        uitrusting als bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder
+                                c</intref>,</al>
+                </li>
+                <li>
+                    <li.nr>3&#xB0;.</li.nr>
+                    <al>inrichtingen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder
+                                b</intref>, uitrustingen als bedoeld in
+                            <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder
+                                c</intref>, alsmede inrichtingen of
+                        vervoermiddelen waarin of waarmee handelingen
+                        worden verricht als bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder
+                                a</intref>, met betrekking tot
+                        splijtstoffen of ertsen voor zover bestemd voor
+                        of in gebruik bij de Nederlandse krijgsmacht of
+                        bij de krijgsmacht van een
+                        bondgenootschappelijke mogendheid, of</al>
+                </li>
+                <li>
+                    <li.nr>4&#xB0;.</li.nr>
+                    <al>een met een object als bedoeld onder 1&#xB0; tot en
+                        met 3&#xB0; en onder d
+                        vergelijkbaar object buiten Nederland;</al>
+                </li>
+            </lijst>
+        </li>
+        <li>
+            <li.nr>d.</li.nr>
+            <al>categorie B-object: </al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>een inrichting voor uraniumverrijking,</al>
+                </li>
+                <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>een inrichting waarin uitsluitend splijtstoffen
+                        of radioactieve stoffen worden opgeslagen of verwerkt,</al>
+                </li>
+                <li>
+                    <li.nr>3&#xB0;.</li.nr>
+                    <al>een inrichting waarin radioactieve stoffen
+                        kunnen worden bereid of toegepast,</al>
+                </li>
+                <li>
+                    <li.nr>4&#xB0;.</li.nr>
+                    <al>een inrichting waarin zich toestellen bevinden,</al>
+                </li>
+                <li>
+                    <li.nr>5&#xB0;.</li.nr>
+                    <al>een vervoermiddel waarin zich splijtstoffen of
+                        ertsen bevinden, of</al>
+                </li>
+                <li>
+                    <li.nr>6&#xB0;.</li.nr>
+                    <al>een vervoermiddel waarin zich radioactieve
+                        stoffen of toestellen bevinden;</al>
+                </li>
+            </lijst>
+        </li>
+        <li>
+            <li.nr>e.</li.nr>
+            <al>radiologische noodsituatie: een situatie die een
+                dringend optreden vereist om mensen, dieren, planten en
+                goederen tegen blootstelling aan ioniserende straling te beschermen;</al>
+        </li>
+        <li>
+            <li.nr>f.</li.nr>
+            <al>interventie: een verrichting, bestaande uit het treffen
+                van maatregelen bij stralingsbronnen, stralingsroutes en
+                mensen, dieren, planten en goederen, ter voorkoming of
+                vermindering van de  blootstelling aan ioniserende
+                straling van mensen, dieren, planten en  goederen ten
+                gevolge van:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>een radiologische noodsituatie, of</al>
+                </li>
+                <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>een langdurige blootstelling tengevolge van een
+                        radiologische noodsituatie of een handeling of
+                        werkzaamheid met splijtstoffen, radioactieve
+                        stoffen of toestellen die in het verleden heeft plaatsgevonden.</al>
+                </li>
+            </lijst>
+        </li>
+    </lijst>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">38a</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Onze Minister en Onze Minister wie het aangaat zijn
+            verantwoordelijk voor de voorbereiding van interventies en
+            voor de co&#xF6;rdinatie en uitvoering daarvan. Bij of krachtens
+            algemene maatregel van bestuur kunnen omtrent deze
+            voorbereiding, uitvoering en co&#xF6;rdinatie regels worden gesteld.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al>De voordracht tot vaststelling, wijziging of intrekking van
+            een algemene maatregel van bestuur als bedoeld in het eerste
+            lid wordt gedaan door Onze Minister en Onze Minister wie het aangaat.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">39</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Ieder die weet of redelijkerwijs kan vermoeden dat zich een
+            ongeval voordoet met een categorie A- of B-object is
+            verplicht dit terstond te melden aan de burgemeester van de
+            gemeente, waar hij zich bevindt.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> De burgemeester geeft van de gedane melding onverwijld
+            kennis aan Onze Minister.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> De exploitant van een inrichting als bedoeld in
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder <nadruk type="cur">b</nadruk>
+            </intref>, verschaft de burgemeester, al of niet op
+            diens verzoek, onverwijld alle informatie die bij de
+            uitoefening van diens taak nodig is.</al>
+    </lid>
+</artikel>
+</afdeling>
+    <afdeling>
+    <kop>
+        <label>Afdeling</label>
+        <nr>2</nr>
+        <titel status="officieel">Organisatie en co&#xF6;rdinatie</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">40</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Onze Minister en Onze Minister wie het aangaat, zijn
+            verantwoordelijk voor de voorbereiding van de organisatie
+            ten behoeve van een doelmatige bestrijding van ongevallen
+            binnen of buiten Nederland met categorie A-objecten en voor
+            de co&#xF6;rdinatie van die bestrijding. Zij bevorderen voorts in
+            het bijzonder het houden van oefeningen en de totstandkoming
+            van afspraken, die nodig zijn voor een doelmatige
+            bestrijding van deze ongevallen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Het
+bestuur van de veiligheidsregio is verantwoordelijk voor de
+            voorbereiding van de organisatie ten behoeve van een
+            doelmatige bestrijding van ongevallen met categorie
+            B-objecten. De burgemeester is verantwoordelijk voor de
+            co&#xF6;rdinatie van die bestrijding.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">41</nr>
+    </kop>
+    <al>De voorbereiding door het bestuur van de
+veiligheidsregio van de bestrijding van ongevallen met categorie
+A-objecten en categorie B-objecten geschiedt overeenkomstig
+<extref status="actief" doc="1.0:v:BWBR0027466&amp;paragraaf=3" compleet="nee">paragraaf&#xA0;3 van de Wet veiligheidsregio&#x2019;s</extref>. Bij de
+voorbereiding houdt het bestuur van de veiligheidsregio rekening met
+de, overeenkomstig <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=40">artikel 40, eerste lid</intref>, tot stand gekomen
+afspraken.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">42</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Onze Minister kan, na overleg met Onze Minister wie het
+            aangaat, gelet op de meer dan plaatselijke betekenis van een
+            ongeval met een categorie B-object, zoveel mogelijk na
+            overleg met de burgemeester van de gemeente waar zich dat
+            ongeval heeft voorgedaan en de
+voorzitter van de veiligheidsregio,
+            besluiten dat een ongeval met een categorie B-object wordt
+            bestreden als een ongeval met een categorie A-object.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> De burgemeester van de gemeente waar zich dat ongeval heeft
+            voorgedaan, of de
+voorzitter van de veiligheidsregio kan Onze
+            Minister verzoeken gebruik te maken van de bevoegdheid,
+            bedoeld in het eerste lid.</al>
+    </lid>
+</artikel>
+</afdeling>
+    <afdeling>
+    <kop>
+        <label>Afdeling</label>
+        <nr>3</nr>
+        <titel status="officieel">Informatieverstrekking</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">43</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Onze Minister en Onze Minister wie het aangaat, dragen er
+            zorg voor dat de Nederlandse bevolking op passende wijze
+            informatie wordt verstrekt over mogelijke ongevallen met een
+            categorie A-object, de maatregelen ter voorkoming en
+            bestrijding daarvan, daaronder begrepen maatregelen ter
+            bescherming van de gezondheid, en de bij deze ongevallen te
+            volgen gedragslijn.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> De in het eerste lid bedoelde informatie heeft in ieder
+            geval betrekking op: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>gegevens inhoudende basiskennis over radioactiviteit
+                    en de gevolgen daarvan op mens en milieu;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>de gevaren en de gevolgen van een ongeval;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>de wijze waarop de bevolking bij een ongeval wordt
+                    gewaarschuwd, op de hoogte gehouden en beschermd;</al>
+            </li>
+            <li>
+                <li.nr>d.</li.nr>
+                <al>de wijze waarop de bevolking dreigend gevaar kan herkennen;</al>
+            </li>
+            <li>
+                <li.nr>e.</li.nr>
+                <al>de door de bevolking te volgen gedragslijn en de
+                    maatregelen die zij bij een ongeval dient te treffen
+                    om de schadelijke gevolgen daarvan zoveel mogelijk
+                    te beperken.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> De verschaffing van de informatie, bedoeld in het tweede
+            lid, onder <nadruk type="cur">c, d</nadruk> en <nadruk type="cur">e</nadruk>, geschiedt ten minste &#xE9;&#xE9;n maal per
+            jaar en daarnaast wanneer in de beschreven maatregelen
+            significante wijzigingen worden aangebracht. Voor zover
+            nodig wordt de te verstrekken informatie dan bijgewerkt.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al> De verschaffing van de informatie, bedoeld in het tweede
+            lid, onder <nadruk type="cur">a</nadruk> en <nadruk type="cur">b</nadruk>, geschiedt ten minste &#xE9;&#xE9;n maal per
+            vijf jaar en daarnaast wanneer in de beschreven maatregelen
+            significante wijzigingen worden aangebracht. Voor zover
+            nodig wordt de te verstrekken informatie dan bijgewerkt.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">5</lidnr>
+        <al> Onze Minister en Onze Minister wie het aangaat verschaffen
+            de informatie, bedoeld in het vierde lid, eerder en werken
+            deze eerder bij, indien naar hun oordeel ontwikkelingen in
+            de kennis over de veiligheid, over de beoordeling van
+            risico&#x2019;s of over een doelmatige ongevallenbestrijding
+            hiertoe nopen.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>43a</nr>
+    </kop>
+    <lid>
+        <lidnr>1</lidnr>
+        <al>Onze Minister en Onze Minister wie het aangaat, dragen er
+            zorg voor dat de bevolking die wordt getroffen door een
+            ongeval met een categorie A-object of door een ongeval met
+            een categorie B-object dat krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=42">artikel 42</intref> als
+            een ongeval met een categorie A-object wordt bestreden,
+            onverwijld en bij herhaling doelmatige informatie wordt
+            verstrekt over de te volgen gedragslijn en de maatregelen
+            die zijn getroffen ter bestrijding van dat ongeval,
+            daaronder begrepen maatregelen ter bescherming van de gezondheid.</al>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al> De in het eerste lid bedoelde informatie heeft in ieder
+            geval betrekking op: </al>
+        <lijst>
+            <li>
+                <li.nr>a.</li.nr>
+                <al>het ongeval, met name over de oorzaak, de omvang en
+                    de te verwachten gevolgen voor mens en milieu,
+                    alsmede over het te verwachten verloop van het ongeval;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>de wijze waarop de bevolking wordt gewaarschuwd, op
+                    de hoogte gehouden en beschermd;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>instructies aan de bevolking die afhankelijk van de
+                    aard van het ongeval betrekking kunnen hebben op
+                    onder meer het gebruik van verontreinigde
+                    levensmiddelen, de hygi&#xEB;ne en ontsmetting, het
+                    verblijf binnenshuis, distributie en gebruik van
+                    beschermende stoffen en evacuatie;</al>
+            </li>
+            <li>
+                <li.nr>d.</li.nr>
+                <al>de diensten of personen bij wie nadere informatie
+                    kan worden ingewonnen.</al>
+            </li>
+        </lijst>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">44</nr>
+    </kop>
+    <al>Onze Minister, Onze Minister wie het aangaat, en het bestuur van de
+veiligheidsregio
+        dragen er zorg voor dat de personen werkzaam bij diensten of
+        organisaties die kunnen worden ingeschakeld bij de bestrijding
+        van een ongeval met een categorie A-object of van een ongeval
+        met een categorie B-object dat krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=42">artikel 42</intref> als een
+        ongeval met een categorie A-object wordt bestreden, regelmatig
+        worden ge&#xEF;nformeerd over de tot deze categorie behorende
+        ongevallen, over de risico&#x2019;s die zij bij de uitvoering van hun
+        taak lopen, en over de daarbij te nemen voorzorgsmaatregelen.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">45</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>De verstrekking van informatie aan de bevolking en aan
+            personen die bij de bestrijding van een ongeval met een
+            categorie B-object zijn betrokken, geschiedt overeenkomstig
+            het bepaalde bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0027466&amp;artikel=7" compleet="nee">artikelen 7</extref> en <extref status="actief" doc="1.0:v:BWBR0027466&amp;artikel=46" compleet="nee">46 van de Wet
+veiligheidsregio&#x2019;s</extref>.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Het
+bestuur van de veiligheidsregio draagt er zorg voor dat de door
+            hem verstrekte informatie in overeenstemming is met de
+            informatie, bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=43">artikel 43, tweede lid, onder
+                    a en b</intref>.</al>
+    </lid>
+</artikel>
+</afdeling>
+    <afdeling>
+    <kop>
+        <label>Afdeling</label>
+        <nr>4</nr>
+        <titel status="officieel">Regels en maatregelen bij een ongeval
+            met een categorie A- of een categorie B-object</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">46</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Indien zich een ongeval voordoet met een categorie A-object
+            of met een categorie B-object dat krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=42">artikel 42</intref> als
+            een ongeval met een A-object wordt bestreden, stelt Onze
+            Minister wie het aangaat, regels of treft hij maatregelen,
+            zo nodig met behulp van de sterke arm, om de gevolgen van
+            dat ongeval zoveel mogelijk te beperken of ongedaan te maken.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> De in het eerste lid bedoelde regels en maatregelen kunnen
+            onder meer betrekking hebben op: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>de toegang van mensen, dieren, planten of goederen
+                    tot het verontreinigde gebied,</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>het verblijf binnenshuis van mens en dier,</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>het brengen van mensen, dieren, planten of goederen
+                    binnen het verontreinigde gebied naar elders binnen
+                    of buiten het verontreinigde gebied,</al>
+            </li>
+            <li>
+                <li.nr>d.</li.nr>
+                <al>het uitwendig ontsmetten en het behandelen van
+                    inwendige besmetting van mensen, alsmede het
+                    verstrekken van beschermende stoffen aan mensen,</al>
+            </li>
+            <li>
+                <li.nr>e.</li.nr>
+                <al>het in verband met stralingsgevaar onderwerpen van
+                    personen of dieren aan een geneeskundig of
+                    veterinair onderzoek,</al>
+            </li>
+            <li>
+                <li.nr>f.</li.nr>
+                <al>het begraven, verbranden, bewaren, behandelen of
+                    vervoeren van lijken van personen, die mogelijk
+                    radioactief besmet zijn,</al>
+            </li>
+            <li>
+                <li.nr>g.</li.nr>
+                <al>het in beslag nemen of het vernietigen van dieren,
+                    planten en goederen, die mogelijk radioactief besmet zijn,</al>
+            </li>
+            <li>
+                <li.nr>h.</li.nr>
+                <al>het ontsmetten van dieren of goederen,</al>
+            </li>
+            <li>
+                <li.nr>i.</li.nr>
+                <al>het versnellen van de afvoer of het doorspoelen van
+                    verontreinigd oppervlaktewater,</al>
+            </li>
+            <li>
+                <li.nr>j.</li.nr>
+                <al>het beschermen van oppervlaktewater en de drinkwatervoorziening,</al>
+            </li>
+            <li>
+                <li.nr>k.</li.nr>
+                <al>het onttrekken van primair slib aan het
+                    slibverwerkingsproces, of het verbieden of beperken
+                    van het gebruik van oppervlaktewater, en</al>
+            </li>
+            <li>
+                <li.nr>l.</li.nr>
+                <al>het telen en oogsten van land- en tuinbouwprodukten,
+                    het sluiten van kassen, het weiden, vangen en
+                    slachten van dieren en het vissen.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Onze Minister wie het aangaat, stelt geen regels en treft
+            geen maatregelen dan na overleg met Onze Minister alsmede
+            met de voorzitter van de
+veiligheidsregio en de commissaris van de Koning, die
+            hierbij in het bijzonder betrokken zijn, tenzij de vereiste
+            spoed zich daartegen verzet.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>47</nr>
+    </kop>
+    <lid>
+        <lidnr>1</lidnr>
+        <al>Indien zich een ongeval voordoet met een categorie A-object,
+            als bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=38">artikel 38, onderdeel <nadruk type="cur">c</nadruk>, onder 1&#xB0; of 2&#xB0;</intref>,
+            kan Onze Minister degene die het daarbij betrokken object
+            onder zijn beheer heeft, bij beschikking bevelen de
+            maatregelen te nemen die naar zijn oordeel nodig zijn om de
+            gevolgen van dat ongeval zoveel mogelijk te beperken en
+            ongedaan te maken.</al>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al> Tot de in het eerste lid bedoelde maatregelen kunnen
+            behoren het stilleggen van de betrokken inrichting, het
+            buiten werking stellen van de betrokken uitrusting of het
+            be&#xEB;indigen van het verblijf van het betrokken vervoermiddel
+            in Nederland.</al>
+    </lid>
+    <lid>
+        <lidnr>3</lidnr>
+        <al> Indien de gevolgen van het ongeval zich waarschijnlijk
+            zullen beperken tot de veiligheid binnen de betrokken
+            inrichting, worden de in het eerste lid bedoelde bevelen
+            gegeven door Onze Minister en Onze Minister van Sociale
+            Zaken en Werkgelegenheid tezamen.</al>
+    </lid>
+    <lid>
+        <lidnr>4</lidnr>
+        <al> De burgemeester van de gemeente waar zich het ongeval heeft
+            voorgedaan kan Onze Minister, onderscheidenlijk Onze
+            Minister en Onze Minister van Sociale Zaken en
+            Werkgelegenheid, verzoeken gebruik te maken van de
+            bevoegdheid, bedoeld in het eerste onderscheidenlijk derde
+            lid. Op dit verzoek wordt zo spoedig mogelijk beschikt.</al>
+    </lid>
+    <lid>
+        <lidnr>5</lidnr>
+        <al> Van een krachtens het eerste lid vastgestelde beschikking
+            wordt mededeling gedaan door toezending van een afschrift
+            aan de burgemeester van de gemeente, waar zich het ongeval
+            heeft voorgedaan.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">48</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Indien zich een ongeval voordoet met een categorie A-object,
+            als bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=38">artikel 38, onderdeel <nadruk type="cur">c</nadruk>, onder 3&#xB0;</intref>, kan
+            Onze Minister van Defensie, in overeenstemming met Onze
+            Minister en Onze Minister van Binnenlandse Zaken en
+            Koninkrijksrelaties, degene die het daarbij betrokken object
+            onder zijn beheer heeft, bij beschikking bevelen de
+            maatregelen te nemen die naar zijn oordeel nodig zijn om de
+            gevolgen van dat ongeval zoveel mogelijk te beperken en
+            ongedaan te maken. <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=47">Artikel 47, tweede
+            lid</intref>, is van overeenkomstige toepassing.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> De burgemeester van de gemeente waar zich het ongeval heeft
+            voorgedaan, kan Onze Minister van Defensie verzoeken gebruik
+            te maken van de bevoegdheid, bedoeld in het eerste lid. Op
+            dit verzoek wordt zo spoedig mogelijk beschikt.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al>
+            <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=47">Artikel 47, vijfde
+            lid</intref>, is van overeenkomstige toepassing.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">49</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>De commissaris van de Koning, de burgemeester, de voorzitter van de
+veiligheidsregio en het
+            dagelijks bestuur van het waterschap en van andere openbare
+            lichamen verlenen, op verzoek van Onze Minister wie het
+            aangaat, medewerking aan de uitvoering of handhaving van de
+            in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=46">artikel 46, eerste
+            lid</intref>, bedoelde regels en maatregelen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Onze Minister wie het aangaat, geeft van de regels en
+            maatregelen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=46">artikel 46, eerste
+            lid</intref>, onmiddellijk kennis aan de commissaris
+            van de Koning, aan de burgemeester, aan de
+voorzitter van de
+veiligheidsregio en, voor zover nodig, aan
+            het dagelijks bestuur van het waterschap en van andere
+            openbare lichamen.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">49a</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Onze Minister wie het aangaat, trekt, zodra de
+            omstandigheden dit toelaten, de regels in en be&#xEB;indigt de
+            getroffen maatregelen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Indien de krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=46">artikel 46, eerste
+            lid</intref>, gestelde regels of getroffen
+            maatregelen met onmiddellijke ingang in werking moeten
+            treden of van kracht moeten worden, kan met het oog daarop,
+            vooruitlopend op de gebruikelijke bekendmaking, bekendmaking
+            plaatsvinden door middel van de locale, regionale of
+            landelijke omroep.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">49b</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>De voorzitter van de
+veiligheidsregio kan naar aanleiding van een
+            ongeval met een categorie A-object bij verordening
+            voorschriften vaststellen of kan, zonodig met behulp van de
+            sterke arm, maatregelen treffen om de gevolgen van dat
+            ongeval zoveel mogelijk te beperken of ongedaan te maken. De
+            voorschriften en maatregelen kunnen onder meer betrekking
+            hebben op de onderwerpen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=46">artikel 46, tweede lid</intref>.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> De voorzitter van de veiligheidsregio deelt de voorschriften of maatregelen die
+            hij krachtens het eerste lid heeft vastgesteld of getroffen,
+            onmiddellijk mee aan Onze Minister, Onze Minister wie het
+            aangaat, en de commissaris van de Koning.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> De voorzitter van de veiligheidsregio trekt de door hem vastgestelde
+            voorschriften in en be&#xEB;indigt de door hem getroffen
+            maatregelen, zodra Onze Minister wie het aangaat,
+            overeenkomstige regels stelt of overeenkomstige maatregelen
+            treft krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=46">artikel 46, eerste
+            lid</intref>, of aan de voorzitter van de veiligheidsregio meedeelt dat de
+            door deze vastgestelde voorschriften moeten worden
+            ingetrokken of de door hem getroffen maatregelen moeten
+            worden be&#xEB;indigd. Onze Minister wie het aangaat, handelt
+            hierbij voor zover mogelijk in overleg met de voorzitter van de veiligheidsregio.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al>
+            <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=49a">Artikel 49a</intref> is van overeenkomstige toepassing.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">49c</nr>
+    </kop>
+    <al>De burgemeester deelt de bevelen en algemeen verbindende
+        voorschriften die hij op grond van <extref status="actief" doc="1.0:v:BWBR0005416&amp;artikel=175" compleet="nee">artikel
+175</extref> onderscheidenlijk
+            <extref status="actief" doc="1.0:v:BWBR0005416&amp;artikel=176" compleet="nee">176 van de
+        Gemeentewet</extref> bij een ongeval met een categorie
+        B-object heeft gegeven, onmiddellijk mee aan Onze Minister, Onze
+        Minister wie het aangaat, en aan de commissaris van de Koning.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">49d</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Indien zich een ongeval voordoet met een categorie B-object,
+            treft de beheerder van het oppervlaktewater maatregelen,
+            zonodig met behulp van de sterke arm, die naar zijn oordeel
+            nodig zijn om de gevolgen voor het oppervlaktewater zoveel
+            mogelijk te beperken of ongedaan te maken.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> De in het eerste lid bedoelde maatregelen kunnen in ieder
+            geval betrekking hebben op: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>het versnellen van de afvoer of het doorspoelen van
+                    verontreinigd oppervlaktewater,</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>het beschermen van oppervlaktewater en de
+                    drinkwatervoorziening, en</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>het onttrekken van primair slib aan het
+                    slibverwerkingsproces, of het verbieden of beperken
+                    van het gebruik van oppervlaktewater.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> De <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=49a">artikelen 49<nadruk type="cur">a</nadruk>
+            </intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=49b">49<nadruk type="cur">b</nadruk>, derde lid</intref>, en
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=49c">49<nadruk type="cur">c</nadruk>
+            </intref> zijn van overeenkomstige toepassing.</al>
+    </lid>
+</artikel>
+</afdeling>
+    <afdeling>
+    <kop>
+        <label>Afdeling</label>
+        <nr>5</nr>
+        <titel status="officieel">Schadevergoeding</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">49e</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Aan degene voor wie uit de toepassing van <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=46">artikel 46</intref>,
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=49b">49b</intref> of <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=49d">49d</intref> of uit de toepassing van <extref status="actief" doc="1.0:v:BWBR0005416&amp;artikel=175" compleet="nee">artikel 175</extref> of
+                <extref status="actief" doc="1.0:v:BWBR0005416&amp;artikel=176" compleet="nee">176 van de
+            Gemeentewet</extref> bij een ongeval met een
+            categorie B-object rechtstreeks en onmiddellijk schade
+            ontstaat, die redelijkerwijs niet of niet geheel te zijnen
+            laste behoort te blijven, kan op zijn verzoek door het in
+            het vijfde lid aangewezen bestuursorgaan een naar
+            billijkheid te bepalen vergoeding worden toegekend, voor
+            zover: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>de schade niet langs burgerrechtelijke weg is of kan
+                    worden verhaald;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>in de vergoeding van de schade niet op andere wijze
+                    is of kan worden voorzien.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Het in het vijfde lid aangewezen bestuursorgaan kan regels
+            stellen: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>waarbij categorie&#xEB;n van gevallen worden aangewezen,
+                    ten aanzien waarvan toepassing zal worden gegeven
+                    aan het eerste lid;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>omtrent de indiening en behandeling van en de
+                    beslissing op een verzoek om een vergoeding als
+                    bedoeld in het eerste lid.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Het in het vijfde lid aangewezen bestuursorgaan kan regels
+            stellen, waarbij wordt bepaald dat een vergoeding kan worden
+            toegekend indien de vaststelling vooraf of zich al dan niet
+            schade als bedoeld in het eerste lid, onder <nadruk type="cur">a</nadruk> of <nadruk type="cur">b</nadruk>,
+            voordoet, zou leiden tot onredelijke vertraging in de
+            behandeling van het verzoek of tot kosten ten aanzien
+            waarvan in redelijkheid niet kan worden gevergd dat de
+            belanghebbende deze draagt.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al> Een vergoeding krachtens het derde lid kan alleen aan de
+            belanghebbende worden toegekend onder de voorwaarde dat hij
+            voor het toegekende bedrag de rechten die hij terzake van de
+            door hem geleden schade tegenover derden heeft, overdraagt
+            aan het bestuursorgaan dat de vergoeding toekent.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">5</lidnr>
+        <al>Regels als
+bedoeld in het tweede en derde lid worden gesteld
+door:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>Onze Minister wie het aangaat, indien het betreft
+                    schade ten gevolge van de toepassing van
+                        <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=46">artikel 46</intref>;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>de gemeenteraad, indien het betreft schade ten
+                    gevolge van de toepassing van <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=49b">artikel 49b</intref> of van de toepassing van
+                        <extref status="actief" doc="1.0:v:BWBR0005416&amp;artikel=175" compleet="nee">artikel
+                    175</extref> of
+                        <extref status="actief" doc="1.0:v:BWBR0005416&amp;artikel=176" compleet="nee">176 van de
+                    Gemeentewet</extref> bij een ongeval met een
+                    categorie B-object;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>de beheerder van het oppervlaktewater indien het
+                    betreft schade ten gevolge van de toepassing van
+                        <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=49d">artikel 49d</intref>.</al>
+            </li>
+        </lijst>
+    </lid><lid><lidnr status="officieel">6</lidnr><al>De beslissing
+op een verzoek om vergoeding van schade als bedoeld in het eerste lid
+wordt genomen
+door:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>Onze Minister wie het aangaat, indien het betreft
+schade ten gevolge van de toepassing van artikel 46;</al></li><li>
+<li.nr>b.</li.nr><al>het college van burgemeester en wethouders, indien
+het betreft schade ten gevolge van de toepassing van <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=49b">artikel 49b</intref> of van
+de toepassing van <extref status="actief" doc="1.0:v:BWBR0005416&amp;artikel=175" compleet="nee">artikel 175</extref> of <extref status="actief" doc="1.0:v:BWBR0005416&amp;artikel=176" compleet="nee">176 van de Gemeentewet</extref> bij een
+ongeval met een categorie B-object;</al></li><li>
+<li.nr>c.</li.nr><al>de beheerder van het oppervlaktewater, indien het
+betreft schade ten gevolge van de toepassing van <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=49d">artikel
+49d</intref>.</al></li></lijst></lid>
+</artikel>
+</afdeling>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>VII</nr>
+        <titel>Beroep</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">50</nr>
+    </kop>
+    <al>Beroep op de administratieve rechter staat open overeenkomstig
+            <extref status="actief" doc="1.0:v:BWBR0003245&amp;hoofdstuk=20" compleet="nee">hoofdstuk 20 van de Wet milieubeheer</extref>.</al>
+</artikel>
+    
+    
+    
+    
+    
+    
+    
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>VIII</nr>
+        <titel>Ambtelijke bevoegdheden</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">58</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Met het toezicht op de naleving van het bepaalde bij of
+            krachtens deze wet zijn belast de bij besluit van Onze
+            Ministers, wie het aangaat, aangewezen ambtenaren. </al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al>Onze Ministers van Economische Zaken, Landbouw en Innovatie en van Sociale Zaken en Werkgelegenheid wijzen,
+            in overeenstemming met Onze Ministers wie het mede aangaat,
+            ambtenaren aan belast met het meten van doses ioniserende
+            straling en het bepalen van radioactieve besmetting, alsmede
+            met de in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=37">artikel 37</intref>
+            bedoelde registratie daarvan. </al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al>Met de uitoefening van de in het eerste en tweede lid
+            bedoelde taken zijn mede belast de door Onze Minister van
+            Volksgezondheid, Welzijn en Sport daartoe aangewezen
+            ambtenaren, bedoeld in <extref status="actief" doc="1.0:v:BWBR0001969&amp;artikel=25" compleet="nee">artikel 25, eerste lid, onder
+                    <nadruk type="cur">a</nadruk>, van de
+            Warenwet</extref>. </al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al>Onze betrokken Ministers stellen regelen betreffende de
+            taakvervulling van de krachtens het eerste, tweede en derde
+            lid aangewezen ambtenaren. </al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">5</lidnr>
+        <al>Van een besluit als bedoeld in het eerste, tweede of derde
+            lid wordt mededeling gedaan door plaatsing in de <nadruk type="cur">Staatscourant</nadruk>. </al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">59</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>De <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=5%3A13" compleet="nee">artikelen 5:13</extref>
+            en <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=5%3A15" compleet="nee">5:15 tot en met 5:20 van de
+                Algemene wet bestuursrecht</extref> zijn van
+            overeenkomstige toepassing ten aanzien van de in
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=58">artikel 58, tweede en derde
+            lid</intref>, bedoelde ambtenaren bij de uitoefening
+            van de in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=58">artikel 58, tweede
+            lid</intref>, bedoelde taken. </al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al>De in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=58">artikel 58, eerste, tweede en
+                derde lid</intref>, bedoelde ambtenaren zijn
+            bevoegd, met medeneming van de benodigde apparatuur, een
+            woning binnen te treden zonder toestemming van de bewoner. </al>
+    </lid>
+</artikel>
+    
+    
+    
+    
+    
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">65</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Onze Ministers, wie het aangaat, kunnen personen, die zijn
+            aangewezen om de naleving van internationale overeenkomsten
+            en door volkenrechtelijke organisaties genomen besluiten,
+            geheel of gedeeltelijk betrekking hebbende op het gebied van
+            de kernenergie of van de ioniserende straling, te
+            controleren, toelaten deze taak te vervullen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al>De <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=5%3A13" compleet="nee">artikelen 5:13</extref>
+            en <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=5%3A15" compleet="nee">5:15 tot en met 5.20 van de
+                Algemene wet bestuursrecht</extref> zijn van
+            overeenkomstige toepassing ten aanzien van de in het eerste
+            lid bedoelde personen. </al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al>De in het eerste lid bedoelde personen zijn bevoegd, met
+            medeneming van de benodigde apparatuur, een woning binnen te
+            treden zonder toestemming van de bewoner, met dien verstande
+            dat bedoelde personen daarbij vergezeld zijn van een
+            ambtenaar als bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=58">artikel 58</intref>. </al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al>Van een besluit als bedoeld in het eerste lid wordt
+            mededeling gedaan door plaatsing in de <nadruk type="cur">Staatscourant</nadruk>. </al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">66</nr>
+    </kop>
+    <al>Het bevoegd gezag is bevoegd tot oplegging van
+een last onder
+bestuursdwang
+        ter handhaving van <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=5%3A20" compleet="nee">artikel 5:20 van de Algemene wet
+        bestuursrecht</extref>, voor zover het betreft de
+        verplichting tot het verlenen van medewerking aan een krachtens
+        de <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=58">artikelen 58</intref> en
+            <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=65">65</intref> aangewezen persoon of
+        ambtenaar. </al>
+</artikel>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr status="officieel">IX</nr>
+        <titel status="officieel">Algemene bepalingen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">67</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Bij algemene maatregel van bestuur kunnen regelen worden
+            gesteld ter uitvoering van internationale overeenkomsten en
+            door volkenrechtelijke organisaties genomen besluiten,
+            geheel of gedeeltelijk betrekking hebbende op het gebied van
+            de kernenergie of van de ioniserende straling.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Hiertoe kunnen behoren: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>regelen, welke een verbod inhouden hulpstoffen of
+                    hulptoestellen, welke voor de vrijmaking van
+                    kernenergie of voor de opslag, vervaardiging,
+                    bewerking of verwerking van splijtstoffen dienstig
+                    kunnen zijn, voorhanden te hebben dan wel binnen of
+                    buiten Nederlands grondgebied te brengen zonder vergunning;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>regelen, welke de verplichting inhouden tot
+                    mededeling van daarbij aangewezen gegevens.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> In geval van toepassing van het tweede lid, onder <nadruk type="cur">a,</nadruk> is <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=16">artikel 16</intref> van
+            overeenkomstige toepassing.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al> Aan een vergunning als in het tweede lid, onder <nadruk type="cur">a,</nadruk> bedoeld kunnen voorschriften worden verbonden.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">5</lidnr>
+        <al> Zodanige voorschriften kunnen, voor zover bij de maatregel
+            niet anders is bepaald, de verplichting inhouden te voldoen
+            aan door bestuursorganen, die bij het voorschrift zijn
+            aangewezen, gestelde nadere eisen. Bij het stellen van
+            zodanige eis wordt tevens het tijdstip bepaald, waarop ten
+            aanzien van die eis de verplichting ingaat.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">6</lidnr>
+        <al> Een vergunning als bedoeld in het tweede lid, onder <nadruk type="cur">a,</nadruk> kan te allen tijde worden ingetrokken
+            op grond van gewichtige redenen aan het algemeen belang
+            ontleend. De aan een vergunning verbonden voorschriften
+            kunnen te allen tijde worden gewijzigd, aangevuld of ingetrokken.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">68</nr>
+    </kop>
+    <al>Bij algemene maatregel van bestuur kunnen regelen worden gesteld
+        ter verzekering van de geheimhouding van: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+            <li.nr>a.</li.nr>
+            <al>gegevens,
+hulpmiddelen en materialen
+voor:</al>
+                           <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                              <li>
+                                 <li.nr>1&#xB0;.</li.nr>
+                                 <al>de
+vrijmaking van
+kernenergie,</al>
+                              </li>
+                              <li>
+                                 <li.nr>2&#xB0;.</li.nr>
+                                 <al>de
+opslag, vervaardiging, bewerking of verwerking van splijtstoffen
+en</al>
+                              </li>
+                              <li>
+                                 <li.nr>3&#xB0;.</li.nr>
+                                 <al>de
+beveiliging van bij die maatregel aangewezen categorie&#xEB;n van
+splijtstoffen, ertsen, radioactieve stoffen en inrichtingen als bedoeld
+in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder b</intref>,</al>
+                              </li>
+                           </lijst>
+                           <al>voor
+zover deze, hetzij rechtstreeks van de overheid, hetzij met instemming
+van het bevoegde gezag, onder verplichting tot geheimhouding zijn
+verkregen, dan wel door Onze Ministers, wie het aangaat, zijn
+aangewezen;</al>
+        </li>
+        <li>
+            <li.nr>b.</li.nr>
+            <al>met behulp van zodanige gegevens, hulpmiddelen en
+                materialen verrichte onderzoekingen en toegepaste
+                werkmethoden, voor zover deze onderzoekingen en
+                werkmethoden door Onze Ministers, wie het aangaat, zijn aangewezen.</al>
+        </li>
+    </lijst>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">69</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Een taak die ingevolge bij of krachtens deze wet gestelde
+            regels wordt verricht door een deskundige, wordt slechts
+            uitgevoerd door een persoon die als zodanig met het oog op
+            de uitvoering van de betrokken taak is ingeschreven in een
+            door Onze Ministers van Sociale Zaken en Werkgelegenheid en van Economische Zaken, Landbouw en Innovatie
+            aan te wijzen register.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al>Onze Ministers van Sociale Zaken en Werkgelegenheid en van Economische Zaken, Landbouw en Innovatie
+            beslissen op de aanvraag voor inschrijving in een register
+            als bedoeld in het eerste lid. Zij zijn bevoegd de
+            inschrijving door te halen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al>Een inschrijving in een register geldt voor een bepaalde
+            tijd. Aan een inschrijving kunnen voorschriften worden verbonden.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al>Bij of krachtens algemene maatregel van bestuur worden
+            regels gesteld over de eisen met betrekking tot vaardigheden
+            en bekwaamheden waaraan een persoon moet voldoen om als
+            deskundige in een register te kunnen worden ingeschreven.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">5</lidnr>
+        <al>Bij of krachtens algemene maatregel van bestuur kunnen
+            regels worden gesteld over de inschrijving in een register,
+            die in ieder geval betrekking kunnen hebben op:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>de wijze waarop de aanvraag voor inschrijving in een
+                    register wordt gedaan en de door de aanvrager te
+                    verschaffen gegevens en bescheiden;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>de gronden waarop en de gevallen waarin de
+                    inschrijving kan worden geweigerd of doorgehaald;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>de vergoeding die is verschuldigd in verband met de
+                    inschrijving in een register; </al>
+            </li>
+            <li>
+                <li.nr>d.</li.nr>
+                <al>de aanwijzing van een register;</al>
+            </li>
+            <li>
+                <li.nr>e.</li.nr>
+                <al>het beheer van een register;</al>
+            </li>
+            <li>
+                <li.nr>f.</li.nr>
+                <al>de taakverdeling tussen Onze in het eerste lid
+                    genoemde Ministers.</al>
+            </li>
+        </lijst>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">69a</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Onze Ministers van Sociale Zaken en Werkgelegenheid, van Economische Zaken, Landbouw en Innovatie en van Volksgezondheid, Welzijn en Sport
+            kunnen op verzoek een instelling aanwijzen die de
+            bevoegdheden, bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=69">artikel 69, derde
+lid</intref>, uitoefent.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al>Aan de aanwijzing van een instelling, bedoeld in het eerste
+            lid, kunnen voorschriften worden verbonden.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al>Bij of krachtens algemene maatregel van bestuur kunnen
+            regels worden gesteld met betrekking tot de gronden waarop
+            een instelling kan worden aangewezen, alsmede met betrekking
+            tot de gronden waarop een aanwijzing kan worden ingetrokken
+            dan wel gewijzigd.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">69b</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Een krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=69a">artikel 69a, eerste
+            lid</intref>, aangewezen instelling verstrekt
+            desgevraagd kosteloos aan Onze in dat artikellid genoemde
+            Ministers de voor de uitoefening van hun taak benodigde
+            inlichtingen. Onze genoemde Ministers kunnen inzage vorderen
+            van zakelijke gegevens en bescheiden voor zover dat voor
+            vervulling van hun taak redelijkerwijs nodig is.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al>Bij of krachtens algemene maatregel van bestuur kan een
+            krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=69a">artikel 69a, eerste
+            lid</intref>, aangewezen instelling worden verplicht
+            tot het periodiek opstellen en toezenden aan Onze genoemde
+            Ministers van een verslag van de in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=69">artikel 69, tweede
+            lid</intref>, bedoelde werkzaamheden en de
+            rechtmatigheid en doeltreffendheid van die werkzaamheden en
+            werkwijze in de afgelopen periode.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">69c</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Onze Ministers van Sociale Zaken en Werkgelegenheid, van Economische Zaken, Landbouw en Innovatie en van Volksgezondheid, Welzijn en Sport
+            kunnen een krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=69a">artikel 69a, eerste
+            lid</intref>, aangewezen instelling aanwijzingen
+            geven met betrekking tot de uitoefening van haar taak. Zij
+            treden daarbij niet in individuele gevallen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al>Een krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=69a">artikel 69a, eerste
+            lid</intref>, aangewezen instelling is gehouden
+            overeenkomstig de aanwijzing, bedoeld in het eerste lid, te handelen.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">69d</nr>
+    </kop>
+    <al>Bij algemene maatregel van bestuur kunnen voorzieningen worden getroffen voor het
+        geval een krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=69a">artikel 69a, eerste
+        lid</intref>, aangewezen instelling haar uit deze wet
+        voortvloeiende verplichtingen niet naar behoren nakomt.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">70</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Een krachtens deze wet verleende vergunning is persoonlijk.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Na het overlijden van een vergunninghouder blijft de
+            vergunning gedurende vier weken van kracht ten behoeve van
+            diens rechtverkrijgenden, die het bedrijf voortzetten, mits
+            door of namens hen binnen een week na dit overlijden daarvan
+            aan Onze Minister van Economische Zaken, Landbouw en Innovatie kennis
+            wordt gegeven onder opgaaf van de namen van hen, die het
+            bedrijf voortzetten. Wanneer binnen deze vier weken een
+            aanvraag om een nieuwe vergunning is ingediend, blijft
+            eerstbedoelde vergunning verder van kracht totdat op die
+            aanvraag onherroepelijk is beslist. Gedurende het van kracht
+            blijven van de vergunning kan zij overeenkomstig de
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=19">artikelen 19 tot en met 20a</intref> worden gewijzigd of ingetrokken.</al>
+    </lid>
+    <lid><lidnr status="officieel">3</lidnr><al>De
+vergunninghouder kan de vergunning geheel of gedeeltelijk aan een ander
+overdragen, indien daarvoor toestemming is gegeven door Onze Minister van Economische Zaken, Landbouw en Innovatie. Aan de toestemming kunnen
+voorschriften worden
+verbonden.</al></lid>
+</artikel>
+    <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">70a</nr>
+                     </kop>
+                     <al>Op een overeenkomst, gesloten door de eigenaar van
+een inrichting als bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder b</intref>, waarin kernenergie
+kan worden vrijgemaakt, met de Staat der Nederlanden, die verband houdt
+met die inrichting, is <extref status="actief" doc="1.0:v:BWBR0005289&amp;artikel=252" compleet="nee">artikel 252 van Boek 6 van het Burgerlijk
+Wetboek</extref> van overeenkomstige toepassing, met dien verstande dat de in
+dat artikel bedoelde rechtsgevolgen mede zullen gelden voor
+verplichtingen van eerstgenoemde partij om ten aanzien van die
+inrichting iets te
+doen.</al>
+                  </artikel><artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">71</nr>
+    </kop>
+    <al>Een vergunning als in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder <nadruk type="cur">b,</nadruk>
+        </intref> bedoeld wordt voor de toepassing van de
+            <extref status="actief" doc="1.0:v:BWBR0001865" compleet="nee">Belemmeringenwet
+        Verordeningen</extref> (<nadruk type="cur">Stb.</nadruk>
+        1899, 129) aangemerkt als een van Onzentwege verleende concessie
+        als in artikel 1 van die wet bedoeld en voor de toepassing van
+        de <extref status="actief" doc="1.0:v:BWBR0001936" compleet="nee">Belemmeringenwet
+        Privaatrecht</extref> (<nadruk type="cur">Stb.</nadruk>
+        1927, 159) als een door het openbaar gezag verleende concessie
+        als in <extref status="actief" doc="1.0:v:BWBR0001936&amp;artikel=1" compleet="nee">artikel 1 van die
+        wet</extref> bedoeld.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">72</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Bij algemene maatregel van bestuur kunnen bij of krachtens
+            andere wetten gestelde regelen geheel of gedeeltelijk buiten
+            toepassing worden verklaard, voor zover de belangen, welke
+            die regelen beogen te beschermen, naar Ons oordeel in
+            voldoende mate door toepassing van deze wet kunnen worden beschermd.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Indien Wij niet binnen twaalf weken na het in werking
+            treden van een algemene maatregel van bestuur, waarbij
+            bepalingen van een andere wet geheel of gedeeltelijk buiten
+            toepassing zijn verklaard, aan de Staten-Generaal een
+            voorstel van wet tot wijziging van die wet of tot afwijking
+            daarvan hebben doen toekomen of indien zodanig voorstel
+            wordt ingetrokken of verworpen, trekken Wij de maatregel
+            onverwijld in.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>73</nr>
+    </kop>
+    <al>Indien in deze wet geregelde onderwerpen in het belang van een
+        goede uitvoering van de wet nadere regeling behoeven, kan deze
+        geschieden bij algemene maatregel van bestuur.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">74</nr>
+    </kop>
+    <al>De bij de toepassing van deze wet betrokken personen zijn
+        verplicht in bij algemene maatregel van bestuur bepaalde
+        gevallen en overeenkomstig daarbij gestelde regelen bij de
+        maatregel vastgestelde bedragen aan de staat te betalen als
+        bijdrage in de aan de uitvoering van deze wet verbonden kosten.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">75</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Wij kunnen ten behoeve van instellingen van wetenschap of in
+            het belang van de landsverdediging van de in de
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikelen 15</intref> en
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=29">29</intref> vervatte
+            verboden: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>bij algemene maatregel van bestuur vrijstelling verlenen;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>op daartoe strekkend verzoek ontheffing verlenen.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Aan een vrijstelling of ontheffing worden de voorschriften
+            verbonden, welke naar Ons oordeel nodig zijn met het oog op
+            de bij of krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15b">artikel 15<nadruk type="cur">b</nadruk>
+            </intref> aangewezen belangen.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">76</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Het ontwerp van een algemene maatregel van bestuur krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=14">artikel
+14</intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15c">15c</intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15f">15f</intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=16">16</intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=17">17</intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=17a">17a</intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=18a">18a</intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=21">21</intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=29">29</intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=32">32</intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=34">34</intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=37">37</intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=38a">38a</intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=37">67</intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=68">68</intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=73">73</intref> of
+<intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=75">75</intref> wordt overgelegd
+            aan de beide kamers der Staten-Generaal en in de <nadruk type="cur">Staatscourant</nadruk> bekendgemaakt. Aan een
+            ieder wordt de gelegenheid geboden binnen een bij die
+            bekendmaking vast te stellen termijn van ten minste vier
+            weken opmerkingen over het ontwerp schriftelijk ter kennis
+            te brengen van Onze Ministers van Economische Zaken, Landbouw en Innovatie, van Sociale Zaken en Werkgelegenheid, en, behoudens ingeval het een maatregel krachtens artikel 21
+            betreft, van Volksgezondheid, Welzijn en Sport.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Een algemene maatregel van bestuur als bedoeld in het
+            eerste lid wordt, nadat hij is vastgesteld, toegezonden aan
+            beide kamers der Staten-Generaal. Hij treedt niet eerder in
+            werking dan vier weken na de datum van uitgifte van het
+                <nadruk type="cur">Staatsblad</nadruk> waarin hij is geplaatst.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Ten aanzien van bij een algemene maatregel van bestuur,
+            vastgesteld krachtens <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=67">artikel 67</intref>,
+            geregelde onderwerpen kunnen Onze betrokken Ministers nadere
+            regelen stellen.</al>
+    </lid>
+<lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Hetgeen
+ingevolge deze wet bij algemene maatregel van bestuur kan worden
+geregeld, kan in afwijking daarvan bij ministeri&#xEB;le regeling
+worden geregeld, indien de regels uitsluitend strekken ter uitvoering
+van een voor Nederland verbindend verdrag of een voor Nederland
+verbindend besluit van een volkenrechtelijke organisatie, tenzij voor
+een juiste uitvoering wijziging van een algemene maatregel van bestuur
+of de wet noodzakelijk is. Op de vaststelling van een ministeri&#xEB;le
+regeling zijn de <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=26">artikelen 26</intref> en <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=35">35</intref> van overeenkomstige
+toepassing.</al>
+                     </lid></artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>76a</nr>
+    </kop>
+    <al>Een gedraging in strijd met een voorschrift dat is verbonden aan
+        een krachtens deze wet verleende vergunning, is verboden.</al>
+</artikel>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>X</nr>
+        <titel>Handhaving</titel>
+    </kop>
+    
+    
+    <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">79</nr>
+              </kop>
+              <al>Degene die:</al>
+              <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>
+                  <al>splijtstoffen of ertsen vervoert, voorhanden heeft, toepast, binnen
+of buiten Nederlands grondgebied brengt of doet brengen, ter beschikking stelt
+dan wel zich deze verschaft of zich daarvan ontdoet,</al>
+                </li><li><li.nr>b.</li.nr>
+                  <al>een inrichting waarin kernenergie kan worden vrijgemaakt, splijtstoffen
+kunnen worden vervaardigd, bewerkt of verwerkt, dan wel splijtstoffen worden
+opgeslagen, opricht, in werking brengt, in werking houdt of wijzigt,</al>
+                </li><li><li.nr>c.</li.nr>
+                  <al>een uitrusting, geschikt om een vaartuig of een ander vervoermiddel
+door middel van kernenergie voort te bewegen, daarin aanbrengt of aangebracht
+houdt, dan wel zodanige daarin aangebrachte uitrusting in werking brengt,
+in werking houdt of wijzigt,</al>
+                </li><li><li.nr>d.</li.nr>
+                  <al>radioactieve stoffen bereidt, vervoert, voorhanden heeft, toepast,
+binnen of buiten Nederlands grondgebied brengt of doet brengen, ter beschikking
+stelt, dan wel zich deze verschaft of zich daarvan ontdoet,</al>
+                </li><li><li.nr>e.</li.nr>
+                  <al>ioniserende stralen uitzendende toestellen vervaardigt, vervoert, voorhanden
+heeft, toepast, binnen of buiten Nederlands grondgebied brengt of doet brengen,
+ter beschikking stelt, dan wel zich een zodanig toestel verschaft of zich
+daarvan ontdoet,</al>
+                </li></lijst>
+              <al>met een terroristisch oogmerk als bedoeld in <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=83a" compleet="nee">artikel 83a van het Wetboek
+van Strafrecht</extref>, dan wel met het oogmerk om een terroristisch misdrijf als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=83" compleet="nee">artikel 83 van dat wetboek</extref> voor te bereiden of gemakkelijk te maken,
+wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete
+van de vijfde categorie.</al>
+            </artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">80</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Indien van het opzettelijk handelen in strijd met het bij of
+            krachtens de <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikelen 15</intref>,
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=21">21</intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=26">26</intref>, of
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=76a">76a</intref>, voor zover betrekking hebbend op een
+            vergunning als bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15</intref>,
+            bepaalde gevaar voor ernstig lichamelijk letsel voor een
+            ander of aanzienlijke schade aan goederen of het
+milieu te duchten is,
+            wordt de schuldige gestraft met gevangenisstraf van ten
+            hoogste twaalf jaren of geldboete van de vijfde categorie.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Indien van het opzettelijk handelen in strijd met het bij
+            of krachtens de <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikelen 15</intref>,
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=21">21</intref>, <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=26">26</intref> of
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=76a">76a</intref>, voor zover betrekking hebbend op een
+            vergunning als bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15</intref>,
+            bepaalde levensgevaar voor een ander te duchten is en het
+            feit iemands dood ten gevolge heeft, wordt de schuldige
+            gestraft met levenslange gevangenisstraf of tijdelijke van
+            ten hoogste dertig jaren of geldboete van de vijfde categorie.</al>
+    </lid>
+<lid>
+                <lidnr status="officieel">3</lidnr>
+                <al>De samenspanning tot de in het eerste en tweede lid omschreven misdrijven,
+te begaan met een terroristisch oogmerk als bedoeld in <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=83a" compleet="nee">artikel 83a van het
+Wetboek van Strafrecht</extref>, wordt gestraft met gevangenisstraf van ten hoogste
+tien jaren of geldboete van de vijfde categorie. <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=96" compleet="nee">Artikel 96, tweede lid, van
+het Wetboek van Strafrecht</extref> is van overeenkomstige toepassing.</al>
+              </lid></artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">80a</nr>
+    </kop>
+    <al>In geval van vervolging wegens een strafbaar feit, vallende
+        onder de omschrijvingen van artikel 7, eerste lid, onder a en d, van het op 3 maart 1980 te Wenen/New York
+        tot stand gekomen Verdrag inzake de fysieke beveiliging van
+        kernmateriaal (Trb. 1981, 7), zoals gewijzigd bij de op
+8&#xA0;juli 2005 te Wenen tot stand gekomen Wijziging van dat verdrag
+(Trb. 2006,
+81),  op
+        grond van een der bevoegdheidsregels, bedoeld in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=8">artikel 8, eerste lid, onder b</intref>, of <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=8">artikel 8, tweede
+        lid</intref>, van dat Verdrag, wordt bij de toepassing
+        van deze wet </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+            <li.nr>a.</li.nr>
+            <al>elk handelen zonder vergunning te verlenen door het
+                bevoegd gezag van een Staat, Partij bij dat Verdrag, of
+                in strijd met de in zulk een Staat geldende
+                voorschriften gelijk gesteld met eenzelfde handelen
+                zonder vergunning te verlenen ingevolge deze wet of in
+                strijd met overeenkomstige bij of krachtens deze wet
+                gestelde voorschriften,</al>
+        </li>
+        <li>
+            <li.nr>b.</li.nr>
+            <al>het binnen of buiten het grondgebied van een Staat,
+                Partij bij dat Verdrag, brengen of doen brengen gelijk
+                gesteld met het binnen of buiten Nederlands grondgebied
+                brengen of doen brengen, en</al>
+        </li>
+        <li>
+            <li.nr>c.</li.nr>
+            <al>de veiligheid van de Staat gelijk gesteld met de
+                veiligheid van een vreemde Staat, Partij bij dat Verdrag.</al>
+        </li>
+    </lijst>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>81</nr>
+    </kop>
+    <al>De in de <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=79">artikelen 79</intref> en <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=80">80</intref> strafbaar
+        gestelde feiten zijn misdrijven.</al>
+</artikel>
+    
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">83</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Met de opsporing van de bij of krachtens deze wet strafbaar
+            gestelde feiten zijn, onverminderd <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=141" compleet="nee">artikel 141 van het Wetboek van
+            Strafvordering</extref>, belast de in
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=58">artikel 58</intref>
+            bedoelde ambtenaren, voor zover zij bij besluit van Onze Minister van Veiligheid en Justitie zijn aangewezen. Deze ambtenaren zijn
+            tevens belast met de opsporing van de feiten, strafbaar
+            gesteld in de <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=179" compleet="nee">artikelen 179 tot en met
+            182</extref> en <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=184" compleet="nee">184 van het Wetboek van
+            Strafrecht</extref>, voor zover deze feiten
+            betrekking hebben op een bevel, vordering of handeling,
+            gedaan of ondernomen door henzelf. </al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al>Van een besluit als bedoeld in het eerste lid wordt
+            mededeling gedaan door plaatsing in de <nadruk type="cur">Staatscourant</nadruk>. </al>
+    </lid>
+</artikel>
+    <artikel status="goed">                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">83a</nr>
+                        </kop>
+                        <al>Met betrekking tot de handhaving van het bij of
+krachtens deze wet bepaalde zijn de <extref status="actief" doc="1.0:v:BWBR0024779&amp;artikel=5.15" compleet="nee">artikelen 5.15 tot en met 5.18</extref>,
+<extref status="actief" doc="1.0:v:BWBR0024779&amp;artikel=5.19" compleet="nee">5.19, eerste en derde lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0024779&amp;artikel=5.21" compleet="nee">5.21 tot en met 5.23 van de Wet algemene
+bepalingen omgevingsrecht</extref> van
+toepassing.</al>
+                     </artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">83b</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>De <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=5%3A13" compleet="nee">artikelen 5:13</extref>
+            en <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=5%3A15" compleet="nee">5:15 tot en met 5:20 van de
+                Algemene wet bestuursrecht</extref> zijn van
+            overeenkomstige toepassing ten aanzien van de in
+                <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=83">artikel 83</intref>
+            bedoelde ambtenaren bij de uitoefening van de in dat artikel
+            bedoelde taken. </al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al>De in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=83">artikel 83</intref>
+            bedoelde ambtenaren zijn bij de uitoefening van de in dat
+            artikel bedoelde taken bevoegd, met medeneming van de
+            benodigde apparatuur, een woning binnen te treden zonder
+            toestemming van de bewoner. </al>
+    </lid>
+</artikel>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>XI</nr>
+        <titel>Slotbepalingen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">84</nr>
+    </kop>
+    <al>
+        <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+    </al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">85</nr>
+    </kop>
+    <al>Krachtens de Hinderwet voor inrichtingen als in <intref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15">artikel 15, onder <nadruk type="cur">b</nadruk>
+        </intref>, bedoeld verleende vergunningen worden geacht
+        te zijn verleend op grond van deze wet.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>86</nr>
+    </kop>
+    <al>
+        <redactie type="vervanging">Bevat wijzigingen in andere regelgeving.</redactie>
+    </al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">87</nr>
+    </kop>
+    <al>De R&#xF6;ntgenstralenwet (<nadruk type="cur">Stb.</nadruk> 1931,
+        299) wordt ingetrokken.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">88</nr>
+    </kop>
+    <al>Deze wet kan worden aangehaald als: Kernenergiewet.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">89</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>
+            <intref status="actief" doc="1.0:v:BWBR0002402&amp;hoofdstuk=II">Hoofdstuk II van deze
+            wet</intref> treedt in werking met ingang van de dag
+            na de datum van uitgifte van het <nadruk type="cur">Staatsblad</nadruk>, waarin zij wordt geplaatst.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Haar onderscheidene overige bepalingen treden in werking op
+            door Ons te bepalen tijdstippen. De voordrachten hiertoe
+            worden Ons gedaan door Onze Ministers, wie het aangaat, de
+            Centrale Raad gehoord.</al>
+    </lid>
+</artikel>
+</hoofdstuk>
+        </wettekst>
+        <wetsluiting status="goed">
+    <slotformulering>
+        <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat
+            alle Ministeri&#xEB;le Departementen, Autoriteiten, Colleges en
+            Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering
+            de hand zullen houden.</al>
+    </slotformulering>
+    <gegeven>
+        <dagtekening>
+            <plaats>Gegeven ten Paleize Soestdijk</plaats>
+            <datum isodatum="">21 februari 1963</datum>
+        </dagtekening>
+        <koning>JULIANA.</koning>
+    </gegeven>
+    <ondertekening>
+        <functie>De Minister van Economische Zaken,</functie>
+        <naam>
+            <achternaam>J. W. DE POUS.</achternaam>
+        </naam>
+    </ondertekening>
+    <ondertekening>
+        <functie>De Minister van Onderwijs, Kunsten en Wetenschappen,</functie>
+        <naam>
+            <achternaam>J. CALS.</achternaam>
+        </naam>
+    </ondertekening>
+    <ondertekening>
+        <functie>De Minister van Sociale Zaken en Volksgezondheid,</functie>
+        <naam>
+            <achternaam>G. M. J. VELDKAMP.</achternaam>
+        </naam>
+    </ondertekening>
+    <ondertekening>
+        <functie>De Minister van Justitie,</functie>
+        <naam>
+            <achternaam>A. C. W. BEERMAN.</achternaam>
+        </naam>
+    </ondertekening>
+    <uitgifte>
+        <datum isodatum="">de zesentwintigste maart 1963.</datum>
+        <ondertekening>
+            <functie>De Minister van Justitie,</functie>
+            <naam>
+                <achternaam>A. C. W. BEERMAN.</achternaam>
+            </naam>
+        </ondertekening>
+    </uitgifte>
+</wetsluiting>
+    </wet-besluit>
+</wetgeving>
+  	

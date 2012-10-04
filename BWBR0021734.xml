@@ -1,0 +1,1460 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0021734" dtdversie="2.0" id="375819" soort="ministeriele-regeling">
+  
+  <intitule>Regeling van de Minister van Financi&#xEB;n van 9 april 2007, houdende voorschriften inzake het rekening-courantbeheer bij &#x2019;s Rijks schatkist van derden die collectieve middelen beheren, alsmede van het leningenbeheer van die derden (Regeling rekening-courant- en leningenbeheer derden)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Minister van Financi&#xEB;n,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0013891&amp;artikel=49a" compleet="nee">artikel 49a van de Comptabiliteitswet 2001</extref> en op <extref status="actief" doc="1.0:v:BWBR0009347&amp;artikel=2" compleet="nee">artikel 2, derde lid, van het Besluit kasbeheer 1998</extref>;</considerans.al>
+        <considerans.al>Na overleg met de Algemene Rekenkamer (brief van 20 februari 2007, kenmerk 6007579R);</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <al>In deze regeling wordt verstaan onder:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>actuele marktwaarde: de waarde die kan worden berekend aan de hand van de actuele marktrente van de resterende looptijden van de toekomstige kasstromen (rente en aflossing) van een financieel product;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>deposito: het creditbedrag op een aan de rekening-courant gekoppelde rekening, waarover een vooraf vastgestelde rente wordt vergoed en waarover gedurende een vooraf vastgestelde periode door de rechtspersoon niet vrij beschikt kan worden;</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>Euro Overnight Index Average (EONIA): de dagelijkse vaststelling door de Europese Centrale Bank van de rente waartegen gemiddeld genomen overnight en zonder onderpand liquiditeiten zijn geleend in de eurogeldmarkt door een panel van &#x2018;prime banks&#x2019;;</al>
+          </li>
+          <li>
+            <li.nr>d.</li.nr>
+            <al>Euro Interbank Offered Rate (Euribor): de dagelijks door de European Banking Federation vastgestelde rente waartegen op de geldmarkt interbancair deposito's in euro's van verschillende looptijden worden aangeboden in de landen waar de euro betaalmiddel is;</al>
+          </li>
+          <li>
+            <li.nr>e.</li.nr>
+            <al>krediet in rekening-courant: het rekening-courantkrediet, bedoeld in <extref status="actief" doc="1.0:v:BWBR0013891&amp;artikel=49" compleet="nee">artikel 49, eerste lid, van de Comptabiliteitswet 2001</extref>;</al>
+          </li>
+          <li>
+            <li.nr>f.</li.nr>
+            <al>lening: de lening, bedoeld in <extref status="actief" doc="1.0:v:BWBR0013891&amp;artikel=48" compleet="nee">artikel 48, eerste lid, van de Comptabiliteitswet 2001</extref>;</al>
+          </li>
+          <li>
+            <li.nr>g.</li.nr>
+            <al>Minister: de Minister van Financi&#xEB;n;</al>
+          </li>
+          <li>
+            <li.nr>h.</li.nr>
+            <al>rechtspersoon: de rechtspersoon die op grond van het <extref status="actief" doc="1.0:v:BWBR0017117" compleet="nee">Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie</extref> zijn opgenomen in <extref status="actief" doc="1.0:v:BWBR0017117&amp;bijlage=A" compleet="nee">bijlage A behorende bij dat besluit</extref> dan wel de andere derde, bedoeld in <extref status="actief" doc="1.0:v:BWBR0013891&amp;artikel=24" compleet="nee">artikel 24, zesde lid, van de Comptabiliteitswet 2001</extref>;</al>
+          </li>
+          <li>
+            <li.nr>i.</li.nr>
+            <al>rekening-courant: de rekening-courant, bedoeld in <extref status="actief" doc="1.0:v:BWBR0013891&amp;artikel=24" compleet="nee">artikel 24, zesde lid, van de Comptabiliteitswet 2001</extref>;</al>
+          </li>
+          <li>
+            <li.nr>j.</li.nr>
+            <al>Staat-swapspread: het verschil tussen het effectieve rendement op staatsleningen en het effectieve rendement waartegen banken rentestromen met elkaar uitwisselen;</al>
+          </li>
+          <li>
+            <li.nr>k.</li.nr>
+            <al>trekkingsrecht: het recht van een derde partij om op eerste afroep te kunnen beschikken over een maximaal overeengekomen bedrag van een rechtspersoon die gelden in rekening-courant bij &#x2019;s&#xA0;Rijks schatkist aanhoudt.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Rekening-courant en deposito</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Het aanhouden van liquide middelen in &#x2019;s Rijks schatkist door een rechtspersoon geschiedt in de vorm van een rekening-courant. Aan een rekening-courant kan een depositorekening worden gekoppeld.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Met de rechtspersoon wordt daartoe door de Minister een rekening-courantovereenkomst gesloten.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De Minister kan in een rekening-courantovereenkomst nadere voorwaarden opnemen, waaronder de voorwaarden inzake de wijze waarop de rekening-courant en een daarmee verbonden depositorekening worden gedebiteerd en gecrediteerd.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>De looptijd van een deposito wordt uitgedrukt in dagen, weken, maanden of jaren.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>Het vervroegd laten vrijvallen van een deposito is uitsluitend mogelijk tegen de actuele marktwaarde.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Rente</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Over aangehouden liquide middelen in rekening-courant wordt een daggeldrente vergoed waarvan de hoogte gelijk is aan de Euro Overnight Index Average (EONIA).</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Over een deposito wordt rente vergoed. De hoogte van de rente is afhankelijk van de looptijd van het deposito, waarbij geldt dat voor een deposito met een looptijd van maximaal 12 maanden een rente wordt vergoed waarvan de hoogte gekoppeld is aan de Euro Interbank Offered Rate (Euribor), en voor een deposito met een looptijd van meer dan 12 maanden een rente wordt vergoed waarvan het percentage gekoppeld is aan het effectief rendement van openbare staatsleningen met een corresponderende looptijd en een uitstaand volume van tenminste 2,5 miljard euro.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Over een opgenomen lening wordt rente in rekening gebracht. De hoogte van de rente is afhankelijk van de duur van de rentevaste periode dan wel, wanneer er binnen dat tijdvak een aflossing plaatsvindt, van de tijdsduur dat de gelden van die lening gemiddeld binnen de rentevaste periode zullen uitstaan. De rentevaste periode gaat in op de ingangsdatum van de lening. Indien de rente vastligt voor een periode van maximaal 12 maanden, is de hoogte van de rente gekoppeld aan de Euro Interbank Offered Rate (Euribor). Indien de rente vastligt voor een periode van meer dan 12 maanden is de hoogte van de rente gekoppeld aan het effectief rendement van openbare staatsleningen met een corresponderende looptijd en een uitstaand volume van tenminste 2,5 miljard euro.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Over een krediet in rekening-courant en over een debetstand van een rekening-courant wordt rente in rekening gebracht. De hoogte van de rente is gelijk aan de Euro Overnight Index Average (EONIA), tenzij een rentevaste periode is overeengekomen in welk geval de rente gekoppeld is aan de Euro Interbank Offered Rate (Euribor).</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>Indien een rechtspersoon in enig jaar gemiddeld meer gelden in deposito met een oorspronkelijke looptijd van langer dan 12 maanden in &#x2019;s Rijks schatkist heeft aangehouden dan hij aan leningen bij &#x2019;s Rijks schatkist had uitstaan, wordt over het netto in deposito uitstaande bedrag een bonusrente vergoed die gebaseerd is op de Staat-swapspread.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">6</lidnr>
+          <al>Bij de berekening van rente, bedoeld in dit artikel, wordt zowel het jaar als de periode waarop de rente betrekking heeft op het juiste aantal dagen gesteld, resulterend in de formule &#x2018;actual/actual&#x2019;, indien de overeengekomen rentevaste periode minimaal gelijk is aan een jaar en een dag. In de overige gevallen wordt het jaar op 360 dagen gesteld (&#x2018;actual/360&#x2019;).</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Lening en krediet in rekening-courant</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Een lening heeft een looptijd van minimaal twaalf maanden.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De rentevaste periode van een lening kan afwijken van de looptijd van een lening.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Een lening kan in tranches worden opgenomen en kan in haar geheel of in gedeelten worden afgelost.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Vervroegde gehele of gedeeltelijke aflossing van een lening is uitsluitend mogelijk tegen de actuele marktwaarde.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>Een lening en een krediet in rekening-courant worden door de Minister in de vorm van een overeenkomst gesloten.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">6</lidnr>
+          <al>De Minister kan met inachtneming van deze regeling in een overeenkomst nadere voorwaarden opnemen.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Trekkingsrecht</titel>
+        </kop>
+        <al>De Minister kan een trekkingsrecht voor derden toestaan op middelen die een rechtspersoon in &#x2019;s Rijks schatkist aanhoudt, mits die rechtspersoon daartoe een verzoek heeft ingediend en haar middelen in &#x2019;s Rijks schatkist toereikend zijn.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Risico-arm kasbeheer</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De producten, bedoeld in <extref status="actief" doc="1.0:v:BWBR0013891&amp;artikel=45" compleet="nee">artikel 45, tweede lid, van de Comptabiliteitswet 2001</extref> hebben uitsluitend de vorm van:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>producten waarbij de hoofdsom tenminste aan het einde van de looptijd intact is, uitgezet bij een instelling die voldoet aan de in het tweede lid bedoelde eisen;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>vastrentende waarden, uitgegeven door een instelling die voldoet aan de in het tweede lid bedoelde eisen.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De producten en vastrentende waarden worden uitsluitend betrokken van instellingen die voldoen aan de eisen, bedoeld in <extref status="actief" doc="1.0:v:BWBR0012076&amp;artikel=2" compleet="nee">artikel 2 van de Regeling uitzettingen en derivaten decentrale overheden</extref>.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Overgangsbepaling</titel>
+        </kop>
+        <al>Ten aanzien van een rechtspersoon die reeds voor de inwerkingtreding van het <extref status="actief" doc="1.0:v:BWBR0017117" compleet="nee">Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie</extref> een rekening-courant bij &#x2019;s Rijks schatkist aanhield, kan de Minister, in afwijking van deze regeling, de in het verleden contractueel overeengekomen modaliteiten continueren.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Inwerkingtreding en intrekking</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Deze regeling treedt in werking op de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 september 2004.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Deze regeling wordt aangehaald als: Regeling rekening-courant- en leningenbeheer derden.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De <extref status="actief" doc="1.0:v:BWBR0017132" compleet="nee">Regeling liquidemiddelenbeheer rechtspersonen ex artikel 45, tweede lid, CW 2001</extref> wordt ingetrokken.</al>
+        </lid>
+      </artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <ondertekening>De <functie>Minister</functie> van <organisatie afkorting="FIN">Financi&#xEB;n</organisatie>,
+        <naam>
+          <voornaam>W.J.</voornaam>
+          <achternaam>Bos</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">1</nr> 
+      <titel status="officieel"/></kop>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Berekening van de marktwaarde</titel>
+        </kop>
+        <divisie opmaak="niet-inspringen"><kop><titel status="officieel">Formule</titel></kop><al>Vervroegde aflossing van een lening of vervroegde opname van een deposito (indien noodzakelijk voor de bedrijfsvoering) is toegestaan. Er worden g&#xE9;&#xE9;n kosten en/of boetes in rekening gebracht. De vervroegde aflossing of opname is gelijk aan de marktwaarde van de lening of het deposito.</al>
+        <al>De formule om de marktwaarde te berekeningen is:  &#x3A3; Cashflows * df</al>
+        <al>Cashflows = alle toekomstige kasstromen zoals rente en aflossing</al>
+        <al>df = disconteringsfactor (een factor waarmee een toekomstige kasstroom vermenigvuldigd dient te worden, om de huidige waarde van deze kasstroom te berekenen) waarbij:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>voor kasstromen met een resterende looptijd (rl) &#x2264; 1 jaar geldt: df<inf>rl</inf> = 1/(1+zero-rate<inf>rl</inf> * rl)</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>voor kasstromen met een resterende looptijd (rl) &gt; 1 jaar geldt: df<inf>rl</inf> = 1/(1+zero-rate<inf>rl </inf>)<sup>rl</sup></al>
+          </li>
+        </lijst>
+        <al>Daarbij worden de zero-rates van de GMB-rentetarieven gebruikt en niet de GMB-rentetarieven zelf, omdat:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>De GMB-tarieven &#x2264;1 jaar gelijk zijn aan de Euribortarieven en dus een renteconventie hebben van actual/360 in plaats van de benodigde actual/actual.</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>De GMB-tarieven &gt; 1 jaar bepaald worden op basis van de effectieve rendementen op de Staatsleningen, waarbij er jaarlijkse rentebetalingen zijn en waarvoor dus gecorrigeerd dient te worden. Het GMB-tarief van bijvoorbeeld 3 jaar is gebaseerd op een rentebetaling per jaar, terwijl een zero-rate van 3 jaar g&#xE9;&#xE9;n jaarlijkse rentebetalingen kent.</al>
+          </li>
+        </lijst>
+        <divisie opmaak="niet-inspringen"><kop><titel status="officieel"><nadruk type="cur">Toelichting berekening zero-rate en disconteringsfactor resterende looptijd &#x2264; 1 jaar</nadruk></titel></kop><al>Om de zero-rate te bepalen van de GMB-rentetarieven &#x2264; 1 jaar, dienen deze vermenigvuldigd te worden met actual/360. Voorbeeld<noot id="e1e9026744" type="eind"><noot.al>Voor de leesbaarheid van alle formules zijn in alle voorbeelden de zero-rates afgerond op 3 decimalen en de df op 4 decimalen. Voor de uiteindelijke berekening zijn de niet-afgeronde cijfers gebruikt.</noot.al></noot>: De zero-rate op 2-5-2005 behorende bij een 5 maands GMB-tarief van 2,14% is  2,14% * 365/360 = 2,170%. De bijbehorende df is 1 / (1+2,170% * 153/365) = 0,9910 (153 is het aantal dagen vanaf 2-5-2005 tot 2-10-2005).</al></divisie>
+        
+        <divisie opmaak="niet-inspringen"><kop><titel status="officieel"><nadruk type="cur">Toelichting berekening zero-rate en disconteringsfactor resterende looptijd &gt; 1 jaar</nadruk></titel></kop><al>De zero-rates &gt; 1 jaar worden aan de hand van de bootstrapping methode bepaald. Bootstrappen is feitelijk niet meer dan een onbekende oplossen in de formule. Deze formule is recursief en dat wil zeggen dat de df van ieder jaar wordt berekend met de df van voorgaande jaren. Met de df van een jaar kan dan via een formule ook de zero-rate van dat jaar berekend worden. De formule om de df van een jaar n te berekenen is:</al>
+        <al>df<inf>n</inf> = 1 &#x2013; &#x3A3; (df<inf>x</inf> * r<inf>n</inf>) / (1+ r<inf>n</inf>)       voor x = 1 t/m n-1   ;  r<inf>n</inf> = het rentetarief voor n jaar</al>
+        <al>Nu de df voor jaar n berekend is, kan de zero-rate voor jaar n berekend worden. Hiervoor wordt de volgende formule gebruikt: zero-rate<inf>n</inf> = (1/df<inf>n</inf>)<sup>1/n</sup>  &#x2013; 1 (dit is in feite de inverse van df<inf>rl</inf> = 1/(1+zero-rate<inf>rl</inf>)<sup>rl</sup>; waarbij rl = n)</al></divisie>
+        
+        <divisie opmaak="niet-inspringen"><kop><titel status="officieel"><nadruk type="cur">Stappenplan berekening marktwaarde</nadruk></titel></kop><al>Samenvattend is het stappenplan van het berekenen van de marktwaarde als volgt:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>1.</li.nr>
+            <al>bepalen resterende looptijd cashflows;</al>
+          </li>
+          <li>
+            <li.nr>2.</li.nr>
+            <al>berekening zero-rates en df van de GMB-tarieven tot na de langste resterende looptijd;</al>
+          </li>
+          <li>
+            <li.nr>3.</li.nr>
+            <al>berekening zero-rates cashflows d.m.v. lineaire interpolatie;</al>
+          </li>
+          <li>
+            <li.nr>4.</li.nr>
+            <al>berekening df op basis van ge&#xEF;nterpoleerde zero-rates en vervolgens per cashflow de marktwaarde.</al>
+          </li>
+        </lijst></divisie>
+        
+        <divisie opmaak="niet-inspringen"><kop><titel status="officieel"><nadruk type="cur">Voorbeeld vervroegde aflossing lening</nadruk></titel></kop><al>Hieronder volgt een voorbeeld waarin volgens het stappenplan de marktwaarde bepaald zal worden.</al>
+        <divisie opmaak="niet-inspringen"><kop><titel status="officieel"><nadruk type="cur">Modaliteiten</nadruk></titel></kop><al>Een lening met een looptijd van 4 jaar en een hoofdsom van 10 miljoen tegen een rente van 2,94%. De lening werd verstrekt op 19-11-2004 en loopt af op 19-11-2008. Er zijn 4 aflossingen:</al>
+        <table frame="topbot" tabstyle="tekst">
+          <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="tekst">
+            <colspec colname="col1" colnum="1" colwidth="25*"/>
+            <colspec colname="col2" colnum="2" colwidth="25*"/>
+            <tbody valign="top">
+             <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>&#x2013; 21-11-2005</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,5 miljoen</al>
+                </entry>
+              </row>
+             <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>&#x2013; 20-11-2006</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1,5 miljoen</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>&#x2013; 19-11-2007</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1 miljoen</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>&#x2013; 19-11-2008</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>5 miljoen</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <al>Op 2 mei 2005 wordt de lening vervroegd afgelost.</al></divisie>
+        
+        <divisie opmaak="niet-inspringen"><kop><titel status="officieel"><nadruk type="cur">Marktwaarde</nadruk></titel></kop><tussenkop>Stap 1: Bepaling resterende looptijd cashflows</tussenkop>
+        <table frame="topbot" tabstyle="stcrt3">
+          <tgroup align="left" char="" charoff="50" cols="4" tgroupstyle="stcrt3">
+            <colspec colname="col1" colnum="1" colwidth="16*"/>
+            <colspec colname="col2" colnum="2" colwidth="16*"/>
+            <colspec colname="col3" colnum="3" colwidth="21*"/>
+            <colspec colname="col4" colnum="4" colwidth="103*"/>
+            <thead valign="bottom">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Datum</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Cashflow</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>Bedrag</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Resterende looptijd (rl)</al>
+                </entry>
+              </row>
+            </thead>
+            <tbody valign="top">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>21-11-2005</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Rente</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;295.610,96</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2-5-2005 tot 21-11-2005 = 203/365 jaar</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>21-11-2005</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Aflossing</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;2.500.000,00</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2-5-2005 tot 21-11-2005 = 203/365 jaar</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>20-11-2006</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Rente</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;219.895,89</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2-5-2005 tot 20-11-2006 = 1 + 202/365 jaar</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>20-11-2006</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Aflossing</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;1.500.000,00</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2-5-2005 tot 20-11-2006 = 1 + 202/365 jaar</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>19-11-2007</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Rente</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;175.916,71</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2-5-2005 tot 19-11-2007 = 2 + 201/366 jaar<sup>2</sup></al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>19-11-2007</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Aflossing</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;1.000.000,00</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2-5-2005 tot 19-11-2007 = 2 + 201/366 jaar<sup>2</sup></al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>19-11-2008</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Rente</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;147.000,00</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2-5-2005 tot 19-11-2008 = 3 + 201/365 jaar</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>19-11-2008</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Aflossing</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;5.000.000,00</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2-5-2005 tot 19-11-2008 = 3 + 201/365 jaar</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        <bron><al><sup>2</sup> De periode 2-5-2005 tot 19-11-2007 bevat 2 hele jaren en een gebroken jaar, namelijk van 2-5-2007 tot 19-11-2007. Dit gebroken jaar maakt onderdeel uit van het jaar 2-5-2007 tot 2-5-2008, welke een schrikkeldag (29-2-2008) bevat. Dit betekent dat voor het gebroken jaar het jaar op 366 wordt gesteld.</al></bron></table>
+        <tussenkop>Stap 2: Berekening zero-rates en disconteringsfactoren van 2&#xA0;mei 2005</tussenkop>
+        <al>De zero-rates en disconteringsfactoren van 2&#xA0;mei 2005 tot na de langste resterende looptijd (3 en 201/365 jaar) van de cashflows worden als volgt bepaald.</al>
+        <table frame="topbot" tabstyle="stcrt3">
+          <tgroup align="left" char="" charoff="50" cols="6" tgroupstyle="stcrt3">
+            <colspec colname="col1" colnum="1" colwidth="14*"/>
+            <colspec colname="col2" colnum="2" colwidth="12*"/>
+            <colspec colname="col3" colnum="3" colwidth="20*"/>
+            <colspec colname="col4" colnum="4" colwidth="57*"/>
+            <colspec colname="col5" colnum="5" colwidth="17*"/>
+            <colspec colname="col6" colnum="6" colwidth="36*"/>
+            <thead valign="bottom">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Looptijd</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Tarief</al>
+                  <al>GMB</al>
+                  <al>(g)</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Disconterings-</al>
+                  <al>factor (df)</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Formule df</al>
+                  
+                  
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Zero-rate</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Formule zero-rate</al>
+                  
+                  
+                </entry>
+              </row><row><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"><al><nadruk type="cur">rl</nadruk> &#x2264;<nadruk type="cur">1 jaar: 1/(1+zero-rate * rl)</nadruk></al></entry><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"><al><nadruk type="cur">rl</nadruk> &#x2264;<nadruk type="cur">1 jaar: g * act/360</nadruk></al></entry></row><row><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"><al>
+                    <nadruk type="cur">rl &gt; 1 jaar: 1 - &#x3A3; (df<inf>x</inf> * r<inf>n</inf>) / (1+ r<inf>n</inf> )</nadruk>
+                  </al></entry><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"><al><nadruk type="cur">rl &gt; 1 jaar:</nadruk> (1/df<inf>n</inf>)<sup>1/n</sup>   &#x2013; 1</al></entry></row>
+            </thead>
+            <tbody valign="top">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1 week</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,09%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9996</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1 / (1+2,119% * (7/365))</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,119%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,09% * 365/360</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2 weken</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,09%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9992</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1 / (1+2,119% * (14/365))</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,119%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,09% * 365/360</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>3 weken</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,10%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9988</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1 / (1+2,129% * (21/365))</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,129%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,10% * 365/360</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1 mnd</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,11%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9982</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1 / (1+2,139% * (31/365))</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,139%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,11% * 365/360</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2 mnd</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,12%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9964</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1 / (1+2,149% * (61/365))</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,149%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,12% * 365/360</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>3 mnd</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,13%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9946</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1 / (1+2,160% * (92/365))</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,160%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,13% * 365/360</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>4 mnd</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,13%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9929</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1 / (1+2,160% * (123/365))</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,160%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,13% * 365/360</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>5 mnd</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,14%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9910</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1 / (1+2,170% * (153/365))</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,170%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,14% * 365/360</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>6 mnd</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,15%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9892</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1 / (1+2,180% * (184/365))</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,180%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,15% * 365/360</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>7 mnd</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,15%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9874</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1 / (1+2,180% * (214/365))</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,180%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,09% * 365/360</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>8 mnd</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,16%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9856</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1 / (1+2,190% * (245/365))</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,190%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,16% * 365/360</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>9 mnd</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,17%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9838</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1 / (1+2,200% * (276/365))</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,200%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,17% * 365/360</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>10 mnd</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,18%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9819</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1 / (1+2,210% * (304/365))</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,210%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,18% * 365/360</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>11 mnd</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,19%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9801</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1 / (1+2,220% * (335/365))</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,220%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,19% * 365/360</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1 jaar</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,20%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9782</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1 / (1+2,231% * (365/365))</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,231%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,20% * 365/360</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2 jaar</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,27%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9561</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1&#x2013; (0,9782 * 2,27%)/(1+2,27%)</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,270%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al> (1/0,9561)<sup>1/2</sup> &#x2013; 1 </al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>3 jaar</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,46%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9295</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1&#x2013; (0,9782 * 2,46%+0,9561 * 2,46%) / (1+2,46%)</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,465%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al> (1/0,9295)<sup>1/3</sup> &#x2013; 1</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>4 jaar</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,63%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9010</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1&#x2013; (0,9782 * 2,63%+0,9561 * 2,63%+0,9295 * 2,63%) / (1+2,63%)</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,641%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al> (1/0,9010)<sup>1/4</sup> &#x2013; 1</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <tussenkop>Stap 3: Berekening zero-rates cashflows</tussenkop>
+        <al>Nu de zero-rates van 2 mei 2005 bekend zijn kunnen d.m.v. lineaire interpolatie de zero-rates van de cashflows berekend worden.</al>
+        <table frame="topbot" tabstyle="stcrt3">
+          <tgroup align="left" char="" charoff="50" cols="5" tgroupstyle="stcrt3">
+            <colspec colname="col1" colnum="1" colwidth="16*"/>
+            <colspec colname="col2" colnum="2" colwidth="16*"/>
+            <colspec colname="col3" colnum="3" colwidth="21*"/>
+            <colspec colname="col4" colnum="4" colwidth="16*"/>
+            <colspec colname="col5" colnum="5" colwidth="87*"/>
+            <thead valign="bottom">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Datum</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Cashflow</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>Bedrag</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Zero-rate</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Uitwerking lineaire interpolatie zero-rate</al>
+                </entry>
+              </row>
+            </thead>
+            <tbody valign="top">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>21-11-2005</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Rente</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;295.610,96</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,180%</al>
+                </entry>
+                <entry align="left" morerows="1" rotate="0" valign="top">
+                  <al>2,180% + (21&#xA0;nov 2005 &#x2013; 2&#xA0;nov 2005) / (2&#xA0;dec 2005 &#x2013; 2&#xA0;nov 2005) * (2,180%&#x2013;2,180%) = 2,180% + 19 / 30 * 0 = 2,180%</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>21-11-2005</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Aflossing</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;2.500.000,00</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,180%</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>20-11-2006</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Rente</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;219.895,89</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,253%</al>
+                </entry>
+                <entry align="left" morerows="1" rotate="0" valign="top">
+                  <al>2,231% + (20&#xA0;nov 2006 &#x2013; 2&#xA0;mei 2006) / (2&#xA0;mei 2007 &#x2013; 2&#xA0;mei 2006) * (2,270%&#x2013;2,231%) = 2,231% + 202 / 365 * 0,039 = 2,253%</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>20-11-2006</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Aflossing</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;1.500.000,00</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,253%</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>19-11-2007</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Rente</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;175.916,71</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,377%</al>
+                </entry>
+                <entry align="left" morerows="1" rotate="0" valign="top">
+                  <al>2,270% + (19&#xA0;nov 2007 &#x2013; 2&#xA0;mei 2007) / (2&#xA0;mei 2008 &#x2013; 2&#xA0;mei 2007) * (2,465%&#x2013;2,270%) = 2,270% + 201 / 366 * 0,195 = 2,377%</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>19-11-2007</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Aflossing</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;1.000.000,00</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,377%</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>19-11-2008</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Rente</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;147.000,00</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,562%</al>
+                </entry>
+                <entry align="left" morerows="1" rotate="0" valign="top">
+                  <al>2,465% + (19&#xA0;nov 2008 &#x2013; 2&#xA0;mei 2008) / (2&#xA0;mei 2009 &#x2013; 2&#xA0;mei 2008) * (2,641%&#x2013;2,465%) = 2,465% + 201 / 365 * 0,176 = 2,562%</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>19-11-2008</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Aflossing</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;5.000.000,00</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2,562%</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <tussenkop>Stap 4: Berekening disconteringsfactor en marktwaarde cashflows</tussenkop>
+        <al>Aan de hand van de zero-rate van de cashflows kan de disconteringsfactor (df) en vervolgens de marktwaarde berekend worden.</al>
+        <table frame="topbot" tabstyle="stcrt3">
+          <tgroup align="left" char="" charoff="50" cols="7" tgroupstyle="stcrt3">
+            <colspec colname="col1" colnum="1" colwidth="16*"/>
+            <colspec colname="col2" colnum="2" colwidth="20*"/>
+            <colspec colname="col3" colnum="3" colwidth="20*"/>
+            <colspec colname="col4" colnum="4" colwidth="12*"/>
+            <colspec colname="col5" colnum="5" colwidth="37*"/>
+            <colspec colname="col6" colnum="6" colwidth="21*"/>
+            <colspec align="right" colname="col7" colnum="7" colwidth="30*"/>
+            <thead valign="bottom">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Datum</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Cashflow</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>Bedrag</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>df</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Formule df</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>Marktwaarde</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>Formule marktwaarde</al>
+                  <al>
+                    <nadruk type="cur">Cashflow * df</nadruk>
+                  </al>
+                </entry>
+              </row>
+            </thead>
+            <tbody valign="top">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>21-11-2005</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Rente</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;295.610,96</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9880</al>
+                </entry>
+                <entry align="left" morerows="1" rotate="0" valign="top">
+                  <al>1 / (1+2,180% * (203/365))</al>
+                
+                  
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;292.070,02</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;295.610,96 * 0,9880</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>21-11-2005</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Aflossing</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;2.500.000,00</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9880</al>
+                </entry>
+                
+                <entry align="right" colname="col6" morerows="0" rotate="0" valign="top">
+                  
+                <al>&#x20AC;&#xA0;2.470.054,03</al></entry><entry align="right" morerows="0" rotate="0"><al>&#x20AC;&#xA0;2.500.000,00 * 0,9880</al></entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>20-11-2006</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Rente</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;219.895,89</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9660</al>
+                </entry>
+                <entry align="left" morerows="1" rotate="0" valign="top">
+                  <al> 1 / (1+2,253%)<sup>( 1 + 202/365)</sup></al>
+                
+                  
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;212.416,63</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;219.895,89 * 0,9660</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>20-11-2006</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Aflossing</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;1.500.000,00</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9660</al>
+                </entry>
+                
+                <entry align="right" colname="col6" morerows="0" rotate="0" valign="top">
+                  
+                <al>&#x20AC;&#xA0;1.448.980,87</al></entry><entry align="right" morerows="0" rotate="0"><al>&#x20AC;&#xA0;1.500.000,00 * 0,9660</al></entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>19-11-2007</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Rente</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;175.916,71</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9419</al>
+                </entry>
+                <entry align="left" morerows="1" rotate="0" valign="top">
+                  <al> 1 / (1+2,377%)<sup>( 2 + 201/366)</sup></al>
+                
+                  
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;165.689,84</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;175.916,71 * 0,9419</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>19-11-2007</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Aflossing</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;1.000.000,00</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9419</al>
+                </entry>
+                
+                <entry align="right" colname="col6" morerows="0" rotate="0" valign="top">
+                  
+                <al>&#x20AC;&#xA0;941.865,29</al></entry><entry align="right" morerows="0" rotate="0"><al>&#x20AC;&#xA0;1.000.000,00 * 0,9419</al></entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>19-11-2008</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Rente</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;147.000,00</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9141</al>
+                </entry>
+                <entry align="left" morerows="1" rotate="0" valign="top">
+                  <al> 1 / (1+2,562%)<sup>( 3 + 201/365)</sup></al>
+                
+                  
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;134.372,16</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;147.000,00 * 0,9141</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>19-11-2008</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Aflossing</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;5.000.000,00</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9141</al>
+                </entry>
+                
+                <entry align="right" colname="col6" morerows="0" rotate="0" valign="top">
+                  
+                <al>&#x20AC;&#xA0;4.570.481,68</al></entry><entry align="right" morerows="0" rotate="0"><al>&#x20AC;&#xA0;5.000.000,00 * 0,9141</al></entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Totaal</al>
+                  <al>
+                    <nadruk type="cur">&#x3A3; Cashflows  * df</nadruk>
+                  </al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;10.235.930,52</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top"/><entry morerows="0" rotate="0"/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table></divisie>
+        </divisie>
+        
+        <divisie opmaak="niet-inspringen"><kop><titel status="officieel"><nadruk type="cur">Voorbeeld vervroegde opname deposito</nadruk></titel></kop><al>In geval van een vervroegde opname van een deposito zal een gestegen rente de marktwaarde verlagen en een gedaalde rente de marktwaarde verhogen. In de praktijk kan het dus voorkomen dat een instelling meer terugontvangt dan de initi&#xEB;le storting + de opgelopen rente van een deposito. Onderstaand zal een voorbeeld van dit scenario worden uitgewerkt.</al>
+        <divisie opmaak="niet-inspringen"><kop><titel status="officieel"><nadruk type="cur">Modaliteiten</nadruk></titel></kop><al>Een deposito met een looptijd van 1 jaar en een hoofdsom van 1 miljoen tegen een rente van 2,29%. Het deposito is op 19-10-2004 geplaatst. Op 19-4-2005 wordt het deposito vervroegd opgenomen. Stel dat de rente flink is gedaald en dat het 6 maands tarief op 19-4-2005 1,79% bedraagt.</al></divisie>
+        
+        <divisie opmaak="niet-inspringen"><kop><titel status="officieel"><nadruk type="cur">Marktwaarde</nadruk></titel></kop><tussenkop>Stap 1: Bepaling resterende looptijd cashflows</tussenkop>
+        <table frame="topbot" tabstyle="stcrt3">
+          <tgroup align="left" char="" charoff="50" cols="4" tgroupstyle="stcrt3">
+            <colspec colname="col1" colnum="1" colwidth="16*"/>
+            <colspec colname="col2" colnum="2" colwidth="16*"/>
+            <colspec colname="col3" colnum="3" colwidth="21*"/>
+            <colspec colname="col4" colnum="4" colwidth="103*"/>
+            <thead valign="bottom">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Datum</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Cashflow</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>Bedrag</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Resterende looptijd (rl)</al>
+                </entry>
+              </row>
+            </thead>
+            <tbody valign="top">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>19-10-2005</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Rente</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;23.218,06</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>19-4-2005 tot 19-10-2005 = 183/365 jaar</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>19-10-2005</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Aflossing</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;1.000.000,00</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>19-4-2005 tot 19-10-2005 = 183/365 jaar</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <tussenkop>Stap 2: Berekening zero-rate en disconteringsfactor van 19 april 2005</tussenkop>
+        <al>De zero-rate  en de disconteringsfactor van 19 april 2005 wordt als volgt bepaald.</al>
+        <table frame="topbot" tabstyle="stcrt3">
+          <tgroup align="left" char="" charoff="50" cols="4" tgroupstyle="stcrt3">
+            <colspec colname="col1" colnum="1" colwidth="16*"/>
+            <colspec colname="col2" colnum="2" colwidth="16*"/>
+            <colspec colname="col3" colnum="3" colwidth="36*"/>
+            <colspec colname="col4" colnum="4" colwidth="88*"/>
+            <thead valign="bottom">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Looptijd</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Tarief GMB (g)</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Zero-rate</al>
+                  
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Disconteringsfactor (df)</al>
+                  
+                </entry>
+              </row><row><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"><al>
+                    <nadruk type="cur">g * act/360</nadruk>
+                  </al></entry><entry align="left" morerows="0" rotate="0" valign="top"><al>
+                    <nadruk type="cur">1/(1+zero-rate * rl)</nadruk>
+                  </al></entry></row>
+            </thead>
+            <tbody valign="top">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>6 mnd</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1,79%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1,79% * 365/360 = 1,815%</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1 / (1+1,815% * (183/365)) = 0,9910</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <tussenkop>Stap 3: Berekening zero-rate cashflows</tussenkop>
+        <al>Aangezien de resterende looptijd van de cashflows gelijk is aan 6 maanden (dus gelijk aan 6-maands GMB-tarief), is het niet nodig om de  zero-rate van de cashflow d.m.v. lineaire interpolatie te berekenen. De zero-rate (en de df) van de cashflow is gelijk aan de zero-rate (en de df) van het 6-maands GMB-tarief.</al>
+        <tussenkop>Stap 4: Berekening marktwaarde cashflows</tussenkop>
+        <table frame="topbot" tabstyle="stcrt3">
+          <tgroup align="left" char="" charoff="50" cols="6" tgroupstyle="stcrt3">
+            <colspec colname="col1" colnum="1" colwidth="16*"/>
+            <colspec colname="col2" colnum="2" colwidth="16*"/>
+            <colspec colname="col3" colnum="3" colwidth="21*"/>
+            <colspec colname="col4" colnum="4" colwidth="20*"/>
+            <colspec align="right" colname="col5" colnum="5" colwidth="63*"/>
+            <colspec colname="col6" colnum="6" colwidth="20*"/>
+            <thead valign="bottom">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Datum</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Cashflow</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>Bedrag</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>df</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>Marktwaarde ( <nadruk type="cur">&#x3A3; Cashflow * df)</nadruk></al>
+                </entry><entry align="right" colname="col6" morerows="0" rotate="0" valign="top"/>
+              </row>
+            </thead>
+            <tbody valign="top">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>19-10-2005</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Rente</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;23.218,06</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9910</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;23.218,06 * 0,9910 = &#x20AC;      23.008,68</al>
+                </entry><entry align="right" colname="col6" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>19-10-2005</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Aflossing</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;1.000.000,00</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>0,9910</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>&#x20AC;&#xA0;1.000.000,00 * 0,9910 = &#x20AC;    990.982,20</al>
+                </entry><entry align="right" colname="col6" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>Totaal   &#x20AC;&#xA0;1.013.990,88</al>
+                </entry><entry align="right" colname="col6" morerows="0" rotate="0" valign="top"/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <al>De markwaarde van het vervroegd opgenomen deposito bedraagt &#x20AC;&#xA0;1.013.990,88. De initi&#xEB;le waarde (&#x20AC;&#xA0;1.000.000,00) + de opgelopen rente(182/365 * &#x20AC;&#xA0;23.218,06 = &#x20AC;&#xA0;11.577,22) bedraagt &#x20AC;&#xA0;1.011.577,22. In dit voorbeeld bedraagt het voordelige resultaat voor de instelling dus &#x20AC;&#xA0;2.413,66.</al></divisie>
+        </divisie>
+        </divisie>
+      </divisie>
+    </bijlage>
+  </regeling>
+</wetgeving>
+  	

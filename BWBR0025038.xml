@@ -1,0 +1,377 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0025038" dtdversie="2.0" id="408859" soort="ministeriele-regeling">
+  
+  <intitule>Regeling van de Minister van Justitie, de Minister van Binnenlandse Zaken en de Minister van Defensie van 9&#xA0;december 2008, nr. 5578598/08, houdende nadere regels ten aanzien van het toezicht op de naleving van de bij of krachtens de Wet politiegegevens gegevens voorschriften (Regeling periodieke audit politiegegegevens)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Minister van Justitie, de Minister van Binnenlandse Zaken en de Minister van Defensie;</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0023086&amp;artikel=6%3A5" compleet="nee">artikel 6:5 van het Besluit politiegegevens</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluiten:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Definities</titel>
+        </kop>
+        <al>In deze regeling wordt verstaan onder:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>
+              <nadruk type="cur">wet:</nadruk> de <extref status="actief" doc="1.0:v:BWBR0022463" compleet="nee">Wet politiegegevens</extref>.</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>
+              <nadruk type="cur">besluit:</nadruk> het <extref status="actief" doc="1.0:v:BWBR0023086" compleet="nee">Besluit politiegegevens</extref>;</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>
+              <nadruk type="cur">verantwoordelijke:</nadruk> de verantwoordelijke, bedoeld in <extref status="actief" doc="1.0:v:BWBR0022463&amp;artikel=1" compleet="nee">artikel 1, onderdeel f, van de wet</extref>;</al>
+          </li>
+          <li>
+            <li.nr>d.</li.nr>
+            <al>
+              <nadruk type="cur">privacy audit:</nadruk> de audit, bedoeld in <extref status="actief" doc="1.0:v:BWBR0022463&amp;artikel=33" compleet="nee">artikel 33 van de wet</extref>;</al>
+          </li>
+          <li>
+            <li.nr>e.</li.nr>
+            <al>
+              <nadruk type="cur">auditinstelling:</nadruk> het onderzoeksbureau dat is aangewezen om de privacy audit uit te voeren;</al>
+          </li>
+          <li>
+            <li.nr>f.</li.nr>
+            <al>
+              <nadruk type="cur">auditor:</nadruk> de medewerker van de auditinstelling die de privacy audit namens de auditinstelling uitvoert;</al>
+          </li>
+          <li>
+            <li.nr>g.</li.nr>
+            <al>
+              <nadruk type="cur">auditee:</nadruk> het regionaal politiekorps, het Korps landelijke politiediensten, de Rijksrecherche of de Koninklijke marechaussee, of het onderdeel daarvan, dat onderworpen wordt aan een audit;</al>
+          </li>
+          <li>
+            <li.nr>h.</li.nr>
+            <al>
+              <nadruk type="cur">interne audit:</nadruk> de interne audit, bedoeld in <extref status="actief" doc="1.0:v:BWBR0023086&amp;artikel=6%3A5" compleet="nee">artikel 6:5, vijfde lid, van het besluit</extref>;</al>
+          </li>
+          <li>
+            <li.nr>i.</li.nr>
+            <al>
+              <nadruk type="cur">interne auditor:</nadruk> de voor het uitvoeren van een interne audit gekwalificeerde ambtenaar van politie bedoeld in <extref status="actief" doc="1.0:v:BWBR0022463&amp;artikel=1" compleet="nee">artikel 1, onderdeel k, van de wet</extref>;</al>
+          </li>
+          <li>
+            <li.nr>j.</li.nr>
+            <al>
+              <nadruk type="cur">hercontrole:</nadruk> de hercontrole, bedoeld in <extref status="actief" doc="1.0:v:BWBR0022463&amp;artikel=33" compleet="nee">artikel 33, derde lid, van de wet</extref>.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Privacy audit (<extref status="actief" doc="1.0:v:BWBR0023086&amp;artikel=6%3A5" compleet="nee">artikel 6:5, eerste lid</extref>)</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De privacy audit wordt uitgevoerd door middel van een Electronic Data Processing (EDP) audit, ook wel IT-audit genoemd.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De privacy audit heeft tot doel op systematische wijze te toetsen of aan de bepalingen van de <extref status="actief" doc="1.0:v:BWBR0022463" compleet="nee">wet</extref> op adequate wijze uitvoering is gegeven. Hiertoe vindt een beoordeling plaats van de volgende aspecten binnen de organisatie van de auditee:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de opzet en het bestaan van maatregelen en procedures die in de borging van de wettelijke eisen moeten voorzien;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de werking van de getroffen maatregelen en procedures.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De resultaten van de interne audits worden betrokken bij de privacy audit.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Indien de verantwoordelijke de toegang tot bepaalde gegevens wenselijk noch noodzakelijk acht voor een goede uitvoering van de privacy audit, kan hij de toegang daartoe weigeren, dan wel aan beperkende voorwaarden verbinden. De verantwoordelijke deelt de auditor schriftelijk en gemotiveerd zijn beslissing mede.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>De resultaten van de privacy audit worden in een auditrapportage vermeld. De auditrapportage bevat ten minste:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>een beschrijving van de bij het uitvoeren van de audit gevolgde aanpak;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>een beschrijving van de resultaten van de privacy audit;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>het oordeel en de aanbevelingen van de auditor;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>indien uit de resultaten van de privacy audit blijkt dat niet of niet geheel wordt voldaan aan het bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0022463" compleet="nee">wet</extref> bepaalde, de aanbeveling van de auditor inzake de uitvoering van een hercontrole door een externe dan wel interne auditor.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">6</lidnr>
+          <al>Na afronding van de privacy audit wordt de rapportage onverwijld aangeboden aan de verantwoordelijke.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Interne audit (<extref status="actief" doc="1.0:v:BWBR0023086&amp;artikel=6%3A5" compleet="nee">artikel 6:5, vijfde lid</extref>)</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De verantwoordelijke draagt zorg dat, mede ter voorbereiding op de privacy audit, tenminste jaarlijks een interne audit plaatsvindt.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De interne audit wordt uitgevoerd door middel van een Electronic Data Processing (EDP) audit, ook wel IT-audit genoemd.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De interne audit heeft betrekking op &#xE9;&#xE9;n dan wel een aantal onderdelen van de wet en heeft tot doel voor het onderdeel of de onderdelen van de wet waar de interne audit zich op richt, op systematische wijze te toetsen of aan de bepalingen van de <extref status="actief" doc="1.0:v:BWBR0022463" compleet="nee">wet</extref> op adequate wijze uitvoering is gegeven. Hiertoe vindt een beoordeling plaats van de volgende aspecten binnen de organisatie van de auditee:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de opzet en het bestaan van maatregelen en procedures die in de borging van de wettelijke eisen moeten voorzien;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de werking van de getroffen maatregelen en procedures.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>De interne audit vindt plaats aan de hand van en overeenkomstig een auditplan. In het auditplan komen minimaal de volgende elementen aan de orde:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>het doel van de interne audit;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de inhoud/object van de interne audit;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de doorlooptijd van de interne audit;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>de onderzoeksinstrumenten die bij de interne audit worden ingezet en de bijdrage daarvan;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>de wijze waarop en de termijn waarbinnen wordt gerapporteerd;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>de beveiliging van de ten behoeve van de interne audit verzamelde informatie;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>de geheimhoudingsplicht waartoe een ieder die betrokken is bij een interne audit verplicht is;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>de aanbieding en verspreidingskring van de interne auditrapportage.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>Indien de verantwoordelijke de toegang tot bepaalde gegevens noodzakelijk noch wenselijk acht voor een goede uitvoering van de interne audit, kan hij de toegang daartoe weigeren, dan wel aan beperkende voorwaarden verbinden. De verantwoordelijke deelt de interne auditor schriftelijk en gemotiveerd zijn beslissing mede.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">6</lidnr>
+          <al>De resultaten van de interne audit worden in een auditrapportage vermeld. De auditrapportage bevat minimaal:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>een beschrijving van de bij het uitvoeren van de audit gevolgde werkwijze;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>een beschrijving van de resultaten van de privacy audit;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>het oordeel en de aanbevelingen van de auditor.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">7</lidnr>
+          <al>Na afronding van de interne audit wordt de rapportage onverwijld aangeboden aan de verantwoordelijke.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Hercontrole (<extref status="actief" doc="1.0:v:BWBR0023086&amp;artikel=6%3A5" compleet="nee">artikel 6:5, vierde lid</extref>)</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Indien bij het uitvoeren van de privacy audit tekortkomingen zijn geconstateerd stelt de verantwoordelijke binnen drie maanden een verbeterrapport op waarin de maatregelen worden beschreven die getroffen zijn ter verbetering van de geconstateerde tekortkomingen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Op basis van het verbeterrapport vindt de hercontrole plaats. De hercontrole heeft alleen betrekking op het onderdeel of de onderdelen van de <extref status="actief" doc="1.0:v:BWBR0022463" compleet="nee">wet</extref> ten aanzien waarvan tekortkomingen zijn geconstateerd en heeft tot doel op systematische wijze te toetsen of door de verantwoordelijke zodanige maatregelen zijn getroffen dat aan de uitvoering van het onderdeel of de betreffende onderdelen van de <extref status="actief" doc="1.0:v:BWBR0022463" compleet="nee">wet</extref> thans op adequate wijze uitvoering is gegeven.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De hercontrole wordt uitgevoerd door een externe auditor indien de auditor daartoe heeft geadviseerd. In alle andere gevallen wordt de hercontrole door een interne auditor uitgevoerd.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>De resultaten van de hercontrole worden in een rapportage vastgelegd.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>Na afronding van de hercontrole wordt de rapportage onverwijld aangeboden aan de verantwoordelijke.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">De auditor (<extref status="actief" doc="1.0:v:BWBR0023086&amp;artikel=6%3A5" compleet="nee">artikel 6:5, derde lid</extref>)</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De auditor is ingeschreven als Register EDP-auditor bij de Nederlandse Orde van Register EDP-Auditors, dan wel bij een internationaal of Europees equivalent daarvan.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De auditor beschikt over gedegen en aantoonbare kennis en vaardigheden op het gebied van:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de politieorganisatie;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de informatievoorziening en processen van verwerking van politiegegevens;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de vigerende wet- en regelgeving, in het bijzonder de <extref status="actief" doc="1.0:v:BWBR0022463" compleet="nee">Wet politiegegevens</extref>, het <extref status="actief" doc="1.0:v:BWBR0023086" compleet="nee">Besluit politiegegevens</extref> en de <extref status="actief" doc="1.0:v:BWBR0011468" compleet="nee">Wet bescherming persoonsgegevens</extref>.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De auditor is onafhankelijk ten opzichte van de auditee.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>De auditor is verplicht tot volledige geheimhouding van de informatie die hij in de loop van zijn auditactiviteiten verkrijgt, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht. Hij legt daartoe een geheimhoudingsverklaring af.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>De functie van auditor kan worden voorgedragen voor aanwijzing als vertrouwensfunctie ingevolge <extref status="actief" doc="1.0:v:BWBR0008277&amp;artikel=3" compleet="nee">artikel 3 van de Wet veiligheidsonderzoeken</extref>.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">De interne auditor</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De interne auditor heeft een auditorenopleiding van de politie gevolgd.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De interne auditor beschikt over voldoende kennis en vaardigheden op het gebied van:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>geautomatiseerde informatiesystemen en methoden en technieken rond EDP/IT- auditing;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de politieorganisatie;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de informatievoorziening en processen van verwerking van politiegegevens;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>de vigerende wet- en regelgeving, in het bijzonder de <extref status="actief" doc="1.0:v:BWBR0022463" compleet="nee">Wet politiegegevens</extref>, het <extref status="actief" doc="1.0:v:BWBR0023086" compleet="nee">Besluit politiegegevens</extref> en de <extref status="actief" doc="1.0:v:BWBR0011468" compleet="nee">Wet bescherming persoonsgegevens</extref>.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De interne auditor stelt zich onafhankelijk op ten opzichte van de auditee.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Inwerkingtreding</titel>
+        </kop>
+        <al>Deze regeling treedt in werking met ingang van 1&#xA0;januari 2009.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Citeertitel</titel>
+        </kop>
+        <al>Deze regeling wordt aangehaald als: Regeling periodieke audit politiegegevens.</al>
+      </artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling, met de daarbij behorende toelichting, zal in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <ondertekening>De <functie>Minister</functie> van <organisatie afkorting="JUS">Justitie</organisatie>,
+        <naam>
+          <voornaam>E.M.H.</voornaam>
+          <achternaam>Hirsch Ballin</achternaam>
+        </naam>
+      </ondertekening>
+      <ondertekening>De <functie>Minister</functie> van <organisatie afkorting="BZK">Binnenlandse Zaken en Koninkrijksrelaties</organisatie>,
+        <naam>
+          <voornaam>G. ter</voornaam>
+          <achternaam>Horst</achternaam>
+        </naam>
+      </ondertekening>
+      <ondertekening>De <functie>Minister</functie> van <organisatie afkorting="DEF">Defensie</organisatie>,
+        <naam>
+          <voornaam>E. van</voornaam>
+          <achternaam>Middelkoop</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

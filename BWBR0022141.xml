@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0022141" dtdversie="2.0" id="379889" soort="ministeriele-regeling">
+  
+  <intitule>Besluit voorschrift informatiebeveiliging rijksdienst 2007</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Minister-President, Minister van Algemene Zaken,</wie>
+      <considerans>
+        <considerans.al>Handelend in overeenstemming met het gevoelen van de Ministerraad;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <al>In dit besluit wordt verstaan onder:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>Informatiebeveiliging: het proces van vaststellen van de vereiste betrouwbaarheid van informatiesystemen in termen van vertrouwelijkheid, beschikbaarheid en integriteit alsmede het treffen, onderhouden en controleren van een samenhangend pakket van bijbehorende maatregelen;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>Informatiesysteem: een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Plaatsbepaling en reikwijdte</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Dit voorschrift geldt voor de Rijksdienst waartoe gerekend worden de Ministeries met de daaronder ressorterende diensten, bedrijven en instellingen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Dit voorschrift geldt voor het gehele proces van informatievoorziening en de gehele levenscyclus van informatiesystemen, ongeacht de toegepaste technologie en ongeacht het karakter van de informatie.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Informatiebeveiliging is een lijnverantwoordelijkheid en vormt een onderdeel van de kwaliteitszorg voor bedrijfs- en bestuursprocessen en de ondersteunende informatiesystemen.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Informatiebeveiligingsbeleid</titel>
+        </kop>
+        <al>De secretaris-generaal van een Ministerie stelt het informatiebeveiligingsbeleid vast, draagt dit uit en legt verantwoording hierover af. Het beleid omvat ten minste:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>De strategische uitgangspunten en randvoorwaarden die het Ministerie hanteert voor informatiebeveiliging en in het bijzonder de inbedding in, en afstemming op het algemene beveiligingsbeleid en het informatievoorzieningsbeleid;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>De organisatie van de informatiebeveiligingsfunctie, waaronder verantwoordelijkheden, taken en bevoegdheden;</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>De toewijzing van de verantwoordelijkheden voor ketens van informatiesystemen aan lijnmanagers;</al>
+          </li>
+          <li>
+            <li.nr>d.</li.nr>
+            <al>De gemeenschappelijke betrouwbaarheidseisen en normen die op het Ministerie van toepassing zijn;</al>
+          </li>
+          <li>
+            <li.nr>e.</li.nr>
+            <al>De frequentie waarmee het informatiebeveiligingsbeleid wordt ge&#xEB;valueerd;</al>
+          </li>
+          <li>
+            <li.nr>f.</li.nr>
+            <al>De bevordering van het beveiligingsbewustzijn;</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Verantwoordelijkheden lijnmanagement</titel>
+        </kop>
+        <al>Het lijnmanagement is verantwoordelijk voor de beveiliging van zijn informatiesystemen. Het lijnmanagement:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>Stelt op basis van een expliciete risico afweging de betrouwbaarheidseisen voor zijn informatiesystemen vast;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>Is verantwoordelijk voor de keuze, de implementatie en het uitdragen van de maatregelen die voortvloeien uit de betrouwbaarheidseisen;</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>Stelt vast dat de getroffen maatregelen aantoonbaar overeenstemmen met de betrouwbaarheidseisen en dat deze maatregelen worden nageleefd;</al>
+          </li>
+          <li>
+            <li.nr>d.</li.nr>
+            <al>Evalueert periodiek het geheel van betrouwbaarheidseisen en beveiligingsmaatregelen en stelt deze waar nodig bij.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Slotbepaling</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Het <extref status="actief" doc="1.0:v:BWBR0006836" compleet="nee">Besluit voorschrift informatiebeveiliging rijksdienst 1994</extref> wordt ingetrokken.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Dit besluit treedt in werking met ingang van 1 juli 2007.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Dit besluit wordt aangehaald als het Besluit voorschrift informatiebeveiliging rijksdienst 2007.</al>
+        </lid>
+      </artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Dit besluit zal met toelichting in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Den Haag</plaats>
+          <datum isodatum="2007-06-20">20 juni 2007</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>De
+        <functie>Minister-President, Minister</functie> van <organisatie afkorting="AZ">Algemene Zaken</organisatie>,
+        <naam>
+          <voornaam>J.P.</voornaam>
+          <achternaam>Balkenende</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

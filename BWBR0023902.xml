@@ -1,0 +1,1134 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0023902" dtdversie="2.0" id="397499" soort="AMvB">
+  
+  <intitule>Besluit
+van 23 mei 2008, houdende regels voor het gebruik van het
+burgerservicenummer in de zorgsector
+				(Besluit
+gebruik burgerservicenummer in de zorg)</intitule>
+  
+  <wet-besluit>
+    <aanhef>
+      <wij>Wij Beatrix, bij
+de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau,
+enz. enz. enz.</wij>
+      <considerans>
+        <considerans.al>Op de voordracht van
+Onze Minister van Volksgezondheid, Welzijn en Sport van 16 januari
+2007, MEVA/ICT-2740333, gedaan in overeenstemming met Onze Minister
+voor Bestuurlijke Vernieuwing en Koninkrijksrelaties;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op de
+<extref status="actief" doc="1.0:v:BWBR0023864&amp;artikel=2" compleet="nee">artikelen 2</extref>, <extref status="actief" doc="1.0:v:BWBR0023864&amp;artikel=11" compleet="nee">11</extref>, <extref status="actief" doc="1.0:v:BWBR0023864&amp;artikel=15" compleet="nee">15</extref>, <extref status="actief" doc="1.0:v:BWBR0023864&amp;artikel=17" compleet="nee">17</extref> en <extref status="actief" doc="1.0:v:BWBR0023864&amp;artikel=17a" compleet="nee">17a van de Wet
+gebruik burgerservicenummer in de zorg</extref> en de
+<extref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=17" compleet="nee">artikelen 17</extref> en <extref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=21" compleet="nee">21, vierde lid, van de
+Wet algemene bepalingen burgerservicenummer</extref>;</considerans.al>
+        <considerans.al bevat="gehoord">De Raad van State gehoord (advies van
+21 februari 2007, nr. W13.07.0014/I);</considerans.al>
+        <considerans.al bevat="gezien">Gezien het nader rapport van Onze
+Minister van Volksgezondheid, Welzijn en Sport van 20 mei 2008,
+MEVA/ICT-2846755;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Hebben goedgevonden en
+verstaan:</al>
+      </afkondiging>
+    </aanhef>
+    <wettekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">I</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>In dit
+besluit wordt verstaan
+onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>
+                <nadruk type="cur">wet:</nadruk> <extref status="actief" doc="1.0:v:BWBR0023864" compleet="nee">Wet gebruik
+burgerservicenummer in de zorg</extref>;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>
+                <nadruk type="cur">register van zorgaanbieders:</nadruk>
+register van zorgaanbieders als bedoeld in <extref status="actief" doc="1.0:v:BWBR0023864&amp;artikel=14" compleet="nee">artikel 14, eerste lid, van
+de wet</extref>;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>
+                <nadruk type="cur">register van
+indicatieorganen:</nadruk> register van indicatieorganen als bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0023864&amp;artikel=14" compleet="nee">artikel 14, eerste lid, van de wet</extref>;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>
+                <nadruk type="cur">register van zorgverzekeraars:</nadruk>
+register van zorgverzekeraars als bedoeld in <extref status="actief" doc="1.0:v:BWBR0023864&amp;artikel=14" compleet="nee">artikel 14, eerste lid,
+van de wet</extref>;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>
+                <nadruk type="cur">register:</nadruk> register van
+zorgaanbieders, register van indicatieorganen of register van
+zorgverzekeraars;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>
+                <nadruk type="cur">geregistreerde:</nadruk> in een register
+opgenomen zorgaanbieder, indicatieorgaan of
+zorgverzekeraar;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>
+                <nadruk type="cur">SBV-Z:</nadruk> sectorale
+berichtenvoorziening in de zorg als bedoeld in <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=11">artikel 11, eerste
+lid</intref>;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>
+                <nadruk type="cur">beheervoorziening:</nadruk>
+beheervoorziening als bedoeld in <extref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=3" compleet="nee">artikel 3 van de Wet algemene
+bepalingen burgerservicenummer</extref>;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>
+                <nadruk type="cur">systeembeschrijving:</nadruk>
+systeembeschrijving als bedoeld in <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=12">artikel 12</intref>;</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>
+                <nadruk type="cur">toegangsmiddel:</nadruk> certificaat of
+ander authenticatiemiddel als bedoeld in <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=18">artikel 18</intref> met inbegrip van de
+drager van het
+toegangsmiddel.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <al>De
+verbindingskantoren, bedoeld in <extref status="actief" doc="1.0:v:BWBR0003585&amp;artikel=1" compleet="nee">artikel 1, onderdeel c, van het
+Administratiebesluit Bijzondere Ziektekostenverzekering</extref>, worden
+aangewezen als zorgverzekeraar in de zin van de <extref status="actief" doc="1.0:v:BWBR0023864" compleet="nee">wet</extref> voor zover zij het
+in <extref status="actief" doc="1.0:v:BWBR0003585&amp;artikel=8" compleet="nee">artikel 8 van dat besluit</extref> aangegeven deel van de administratie
+verrichten voor de bij <extref status="actief" doc="1.0:v:BWBR0003585&amp;artikel=2" compleet="nee">artikel 2 van dat besluit</extref> aangewezen
+zorg.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">II</nr>
+          <titel status="officieel">Registers</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <al>Bij
+ministeri&#xEB;le regeling kan worden bepaald welke gegevens en
+bescheiden worden verstrekt bij de aanvraag te worden opgenomen in een
+register.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <al>Onze
+Minister stelt, voor zover mogelijk aan de hand van wettelijk gestelde
+vereisten voor de hoedanigheid van zorgaanbieder, indicatieorgaan en
+zorgverzekeraar, vast of de aanvraag, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=3">artikel 3</intref>, is gedaan
+door onderscheidenlijk een zorgaanbieder, een indicatieorgaan of een
+zorgverzekeraar.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <al>De aanvraag,
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=3">artikel 3</intref>, wordt in ieder geval afgewezen indien deze niet
+is gedaan door een zorgaanbieder, indicatieorgaan of
+zorgverzekeraar.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>In het register van zorgaanbieders wordt per
+inschrijving
+opgenomen:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>indien de geregistreerde een natuurlijke persoon
+is:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>geslachtsnaam;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>voornamen;</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;.</li.nr>
+                    <al>geboortedatum;</al>
+                  </li>
+                  <li>
+                    <li.nr>4&#xB0;.</li.nr>
+                    <al>geboorteplaats;</al>
+                  </li>
+                  <li>
+                    <li.nr>5&#xB0;.</li.nr>
+                    <al>titel in de zin van de <extref status="actief" doc="1.0:v:BWBR0006251" compleet="nee">Wet op de beroepen
+in de individuele gezondheidszorg</extref>;</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>indien de geregistreerde een rechtspersoon is:
+naam;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>indien de geregistreerde een
+zorgaanbieder is als bedoeld in <extref status="actief" doc="1.0:v:BWBR0007850&amp;artikel=1" compleet="nee">artikel 1, eerste lid, onder c, sub
+2&#xB0;, van de Kwaliteitswet zorginstellingen</extref>: naam van de
+instelling.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In het
+register van indicatieorganen en zorgverzekeraars wordt per
+inschrijving opgenomen de naam van onderscheidenlijk het
+indicatieorgaan en de zorgverzekeraar.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>In de registers wordt voorts per inschrijving
+opgenomen:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>aard van de gegevens en bescheiden aan de hand
+waarvan is vastgesteld dat de geregistreerde een zorgaanbieder,
+indicatieorgaan of zorgverzekeraar is;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>datum van opname in het register;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>adres van vestiging;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>gegevens met betrekking tot verstrekte en
+ingetrokken toegangsmiddelen.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Bij ministeri&#xEB;le regeling kunnen nadere
+regels worden gesteld over de opname en verwerking van gegevens in het
+register.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <al>De
+geregistreerde stelt Onze Minister onmiddellijk op de hoogte van een
+wijziging van de in het register opgenomen gegevens en van andere
+omstandigheden die van belang kunnen zijn voor het schorsen of
+doorhalen van de inschrijving.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+          </kop>
+          <al>Zolang de
+inschrijving van een zorgaanbieder in het register, bedoeld in <extref status="actief" doc="1.0:v:BWBR0006251&amp;artikel=3" compleet="nee">artikel
+3 van de Wet op de beroepen in de individuele gezondheidszorg</extref>, is
+geschorst, is zijn inschrijving in het register van zorgaanbieders
+geschorst.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+          </kop>
+          <al>De
+inschrijving in het register wordt slechts
+doorgehaald:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>op verzoek van de geregistreerde of</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>indien de geregistreerde geen zorgaanbieder,
+indicatieorgaan of zorgverzekeraar meer
+is.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Onze Minister deelt aan een ieder die daarom
+verzoekt mede
+of:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>een natuurlijke persoon of rechtspersoon staat
+ingeschreven;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>een aan een
+geregistreerde verstrekt toegangsmiddel geldig
+is.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien het
+verzoek wordt gedaan door de SBV-Z, wordt de mededeling, bedoeld in het
+eerste lid, te allen tijde onmiddellijk
+gedaan.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">III</nr>
+          <titel status="officieel">SBV-Z</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Onze Minister draagt zorg voor de inrichting
+en instandhouding van een sectorale berichtenvoorziening in de zorg,
+waarvan deel
+uitmaken:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>voorzieningen door tussenkomst waarvan
+zorgaanbieders, indicatieorganen en zorgverzekeraars gebruik kunnen
+maken van de beheervoorziening;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>voorzieningen met behulp waarvan aan een
+cli&#xEB;nt een overzicht gegeven kan worden van het gebruik dat
+zorgaanbieders, indicatieorganen en zorgverzekeraars van de
+voorzieningen, bedoeld onder a, hebben gemaakt teneinde het
+burgerservicenummer van de cli&#xEB;nt vast te
+stellen.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Onze
+Minister is verantwoordelijk voor de
+SBV-Z.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">12</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Onze Minister stelt een systeembeschrijving
+voor de SBV-Z vast.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+systeembeschrijving bevat een beschrijving
+van:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de hoofdlijnen van de inrichting van de
+SBV-Z;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de inrichting en werking van
+de voorzieningen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=11">artikel 11, eerste lid</intref>, met inbegrip van
+de wijze waarop de uitwisseling van gegevens door de SBV-Z met een
+zorgaanbieder, indicatieorgaan of zorgverzekeraar enerzijds en de
+beheervoorziening anderzijds, plaatsvindt;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de wijze waarop de SBV-Z het geautomatiseerde
+systeem van een zorgaanbieder, indicatieorgaan of zorgverzekeraar in
+staat stelt aan te sluiten op de SBV-Z;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de gevallen waarin en de wijze waarop aantekening
+wordt gehouden van het gebruik dat van de SBV-Z wordt
+gemaakt;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>de hoofdlijnen van het
+beheer van de SBV-Z.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">13</nr>
+          </kop>
+          <al>Onze
+Minister zorgt er voor dat de SBV-Z functioneert op een wijze die
+overeenstemt met de systeembeschrijving.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">14</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Onze Minister draagt zorg voor de nodige
+maatregelen van technische en organisatorische aard ter beveiliging van
+de gegevens die de SBV-Z verwerkt tegen verlies of aantasting van deze
+gegevens en tegen onbevoegde kennisneming, opneming, wijziging,
+verwijdering of verstrekking van deze gegevens.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Onze Minister draagt zorg voor de nodige
+maatregelen van technische en organisatorische aard ter beveiliging van
+de SBV-Z tegen onbevoegd gebruik en belemmering van de goede werking
+van de voorzieningen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=11">artikel 11, eerste
+lid</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De maatregelen, bedoeld in
+het eerste en tweede lid, hebben ten minste betrekking
+op:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>personen die werkzaam zijn voor Onze
+Minister;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de toegang tot de SBV-Z,
+met inbegrip van de verbindingen met de SBV-Z;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de toegang tot gebouwen en ruimten waar de SBV-Z
+of onderdelen daarvan aanwezig zijn;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de apparatuur en de programmatuur van de
+SBV-Z;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>de gegevens en het beheer van
+de gegevens die door de SBV-Z zijn vastgelegd en bewaard;</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>het geval dat de geheimhouding van door de SBV-Z
+verwerkte gegevens is geschaad;</al>
+              </li>
+              <li>
+                <li.nr>g.</li.nr>
+                <al>het
+voorkomen van calamiteiten en het afhandelen
+daarvan.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">15</nr>
+          </kop>
+          <al>Zorgaanbieders, indicatieorganen en zorgverzekeraars kunnen
+uitsluitend door tussenkomst van de SBV-Z gebruik maken van de
+voorzieningen, bedoeld in <extref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=3" compleet="nee">artikel 3, eerste lid, onder c en d, van de
+Wet algemene bepalingen
+burgerservicenummer</extref>.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">16</nr>
+          </kop>
+          <al>De
+zorgaanbieder, het indicatieorgaan en de zorgverzekeraar die is
+aangesloten op de SBV-Z draagt zorg dat de verbinding van zijn
+geautomatiseerde systeem met de SBV-Z en de uitwisseling van gegevens
+tussen zijn geautomatiseerde systeem en de SBV-Z functioneren op een
+wijze die overeenstemt met hetgeen daarover in de systeembeschrijving
+is vastgelegd.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">17</nr>
+          </kop>
+          <al>Het
+onderzoek, bedoeld in <extref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=21" compleet="nee">artikel 21, derde lid, van de Wet algemene
+bepalingen burgerservicenummer</extref>, leidt tot een oordeel
+over:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de volledigheid, begrijpelijkheid en juistheid van
+de beschrijving van de inrichting, werking en beveiliging van de SBV-Z,
+gelet op de geldende regelgeving;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de
+mate waarin de SBV-Z functioneert overeenkomstig de onder a bedoelde
+beschrijving.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">IV</nr>
+          <titel status="officieel">Toegangsmiddelen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">18</nr>
+          </kop>
+          <al>Onze
+Minister kan op aanvraag de volgende middelen verschaffen waarmee de
+geregistreerde toegang kan verkrijgen tot de
+SBV-Z:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>een certificaat dat is verankerd in het Staat der
+Nederlanden Root CA Certificaat;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>een
+bij ministeri&#xEB;le regeling aangewezen
+authenticatiemiddel.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">19</nr>
+          </kop>
+          <al>Bij
+ministeri&#xEB;le regeling kan worden bepaald welke gegevens en
+bescheiden worden verstrekt bij de aanvraag van een
+toegangsmiddel.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">20</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De aanvraag, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=18">artikel 18</intref>, wordt
+toegekend,
+tenzij:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de aanvraag niet is gedaan door een
+geregistreerde;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de aanvraag een
+certificaat betreft en de geregistreerde niet voldoet aan de vereisten
+voor de toekenning van een certificaat;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de aanvraag een authenticatiemiddel betreft en de
+geregistreerde niet voldoet aan de bij ministeri&#xEB;le regeling
+gestelde regels voor de toekenning van dat
+toegangsmiddel.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Onze
+Minister verstrekt het toegekende toegangsmiddel desgevraagd aan de
+geregistreerde,
+tenzij:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het een certificaat betreft en de geregistreerde
+niet voldoet aan de vereisten voor het verstrekken van een
+certificaat;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het een ander
+toegangsmiddel dan een certificaat betreft en de geregistreerde niet
+voldoet aan de bij ministeri&#xEB;le regeling gestelde regels voor de
+verstrekking van dat
+toegangsmiddel.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">21</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Onze Minister brengt de geregistreerde een
+vergoeding voor het certificaat in rekening die ten hoogste
+kostendekkend is.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Bij
+ministeri&#xEB;le regeling kunnen regels worden gesteld met
+betrekking tot de vergoeding van het certificaat, waarbij in afwijking
+van het eerste lid kan worden bepaald dat geen vergoeding in rekening
+wordt gebracht voor daarbij aan te wijzen categorie&#xEB;n
+certificaten die gedurende een daarbij aan te wijzen periode worden
+verstrekt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Bij ministeri&#xEB;le
+regeling kunnen regels worden gesteld met betrekking tot de vergoeding
+van een ander toegangsmiddel dan een
+certificaat.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">22</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De geregistreerde gebruikt het toegangsmiddel
+uitsluitend overeenkomstig de bestemming van dat
+toegangsmiddel.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De geregistreerde
+treft passende maatregelen om het toegangsmiddel te
+beveiligen tegen beschadiging, verlies en onrechtmatig
+gebruik.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De geregistreerde doet
+Onze Minister onmiddellijk mededeling van omstandigheden die van belang
+kunnen zijn voor het wijzigen of intrekken van het
+toegangsmiddel.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Onze Minister kan
+de geregistreerde aanwijzingen geven met betrekking tot het beheer, de
+beveiliging of het gebruik van het
+toegangsmiddel.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Bij
+ministeri&#xEB;le regeling kunnen nadere regels worden gesteld met
+betrekking tot het beheer, de beveiliging, het gebruik en de intrekking
+van het toegangsmiddel.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">23</nr>
+          </kop>
+          <al>Het
+toegangsmiddel kan worden
+ingetrokken:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>indien het toegangsmiddel niet is verstrekt op
+grond van <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=20">artikel 20, tweede lid, onder a of b</intref>;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>indien de vergoeding, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=21">artikel 21</intref>, niet
+is voldaan;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>indien de inschrijving
+in het register is geschorst of is doorgehaald;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>indien het toegangsmiddel beschadigd, verloren of
+defect is;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>indien het toegangsmiddel
+onrechtmatig gebruikt is;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>indien de
+werking van het toegangsmiddel aangetast is;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>indien de geregistreerde niet voldoet aan de
+aanwijzingen of regels met betrekking tot het beheer, de beveiliging,
+het gebruik en de intrekking van het toegangsmiddel;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>in andere, bij ministeri&#xEB;le regeling te
+bepalen gevallen.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">24</nr>
+          </kop>
+          <al>Bij
+ministeri&#xEB;le regeling wordt de geldigheidsduur van het
+toegangsmiddel bepaald.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">25</nr>
+          </kop>
+          <al>De
+geregistreerde verkrijgt geen recht van eigendom of rechten van
+intellectuele eigendom op het
+toegangsmiddel.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">V</nr>
+          <titel status="officieel">Vaststellen
+identiteit cli&#xEB;nt</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">26</nr>
+          </kop>
+          <al><extref status="actief" doc="1.0:v:BWBR0023864&amp;artikel=5" compleet="nee">Artikel 5,
+aanhef en onder a, van de wet</extref> geldt niet voor
+apothekers.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">27</nr>
+          </kop>
+          <al>In
+afwijking van <extref status="actief" doc="1.0:v:BWBR0023864&amp;artikel=5" compleet="nee">artikel 5 van de wet</extref> stelt een zorgaanbieder de
+identiteit van een persoon die op het moment van inwerkingtreding van
+de <extref status="actief" doc="1.0:v:BWBR0023864" compleet="nee">wet</extref> zijn cli&#xEB;nt is, vast voor zover dat redelijkerwijs nodig
+is ter uitvoering van <extref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=12" compleet="nee">artikel 12 van de Wet algemene bepalingen
+burgerservicenummer</extref>.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">28</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Indien het vaststellen van de identiteit van
+een cli&#xEB;nt door een zorgaanbieder overeenkomstig het bij of
+krachtens de <extref status="actief" doc="1.0:v:BWBR0023864&amp;artikel=5" compleet="nee">artikelen 5</extref>, <extref status="actief" doc="1.0:v:BWBR0023864&amp;artikel=6" compleet="nee">6</extref> en <extref status="actief" doc="1.0:v:BWBR0023864&amp;artikel=17" compleet="nee">17 van de wet</extref> bepaalde onmogelijk blijkt
+of een onevenredige inspanning kost, gebruikt de zorgaanbieder in
+afwijking van de <extref status="actief" doc="1.0:v:BWBR0023864&amp;artikel=4" compleet="nee">artikelen 4</extref>, <extref status="actief" doc="1.0:v:BWBR0023864&amp;artikel=8" compleet="nee">8</extref> en <extref status="actief" doc="1.0:v:BWBR0023864&amp;artikel=9" compleet="nee">9 van de wet</extref> geen
+burgerservicenummer.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In de
+gevallen, bedoeld het eerste
+lid:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>neemt de zorgaanbieder in ieder geval de volgende
+gegevens van de cli&#xEB;nt in zijn administratie
+op:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>geslachtsnaam;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>voornamen;</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;.</li.nr>
+                    <al>geboortedatum;</al>
+                  </li>
+                  <li>
+                    <li.nr>4&#xB0;.</li.nr>
+                    <al>postcode van het woonadres;</al>
+                  </li>
+                  <li>
+                    <li.nr>5&#xB0;.</li.nr>
+                    <al>huisnummer van het woonadres
+en</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>vermeldt de
+zorgaanbieder de gegevens, bedoeld in onderdeel a, bij het verstrekken
+van persoonsgegevens met betrekking tot de verlening van,
+indicatiestelling voor of verzekering van zorg aan een zorgaanbieder,
+een indicatieorgaan of een
+zorgverzekeraar.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">29</nr>
+          </kop>
+          <al>In
+afwijking van <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=28">artikel 28</intref> kan het burgerservicenummer worden gebruikt
+door apothekers en bij zorg die per telefoon of per elektronische
+bericht aan de cli&#xEB;nt wordt verleend,
+indien:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de zorgaanbieder de identiteit van de
+cli&#xEB;nt aan de hand van de volgende gegevens van de cli&#xEB;nt
+controleert:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;.</li.nr>
+                  <al>geslachtsnaam;</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;.</li.nr>
+                  <al>voornamen;</al>
+                </li>
+                <li>
+                  <li.nr>3&#xB0;.</li.nr>
+                  <al>geboortedatum;</al>
+                </li>
+                <li>
+                  <li.nr>4&#xB0;.</li.nr>
+                  <al>postcode van het woonadres;</al>
+                </li>
+                <li>
+                  <li.nr>5&#xB0;.</li.nr>
+                  <al>huisnummer van het woonadres
+en</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de zorgaanbieder bij
+het verstrekken van het burgerservicenummer vermeldt dat de identiteit
+van de cli&#xEB;nt niet is
+vastgesteld.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">30</nr>
+          </kop>
+          <al>Bij
+ministeri&#xEB;le regeling kunnen regels worden gesteld over de aan
+de gegevensverwerking, bedoeld in <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=28">artikel 28, tweede lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=29">artikel
+29</intref>, te stellen beveiligingseisen.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">VI</nr>
+          <titel status="officieel">Overgangs- en
+slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">31</nr>
+          </kop>
+          <al>In
+afwijking van <extref status="actief" doc="1.0:v:BWBR0022428&amp;artikel=23" compleet="nee">artikel 23 van de Wet algemene bepalingen
+burgerservicenummer</extref> verwijdert een zorgaanbieder, een indicatieorgaan
+en een zorgverzekeraar het sociaal-fiscaalnummer van een cli&#xEB;nt
+waarover onderscheidenlijk de zorgaanbieder, het indicatieorgaan en de
+zorgverzekeraar op het tijdstip van inwerkingtreding van de <extref status="actief" doc="1.0:v:BWBR0023864" compleet="nee">wet</extref>
+beschikt, binnen drie maanden na inwerkingtreding van de <extref status="actief" doc="1.0:v:BWBR0023864" compleet="nee">wet</extref> uit de
+administratie,
+tenzij:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>onderscheidenlijk de zorgaanbieder, het
+indicatieorgaan en de zorgverzekeraar met inachtneming van <extref status="actief" doc="1.0:v:BWBR0023864&amp;artikel=7" compleet="nee">artikel 7
+van de wet</extref> heeft vastgesteld dat het sociaal-fiscaalnummer gelijk is
+aan het burgerservicenummer van de cli&#xEB;nt en het nummer
+vervolgens als burgerservicenummer in de administratie heeft opgenomen
+of</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>onderscheidenlijk het
+indicatieorgaan en de zorgverzekeraar met inachtneming van <extref status="actief" doc="1.0:v:BWBR0023864&amp;artikel=7" compleet="nee">artikel 7
+van de wet</extref> heeft vastgesteld dat het een sociaal-fiscaalnummer betreft
+van een persoon waaraan geen burgerservicenummer is
+toegekend.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">32</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>In afwijking van de <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=3">artikelen 3</intref>, <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=4">4</intref> en <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=5">5</intref> wordt
+in het register van zorgaanbieders opgenomen elke zorgaanbieder die een
+op het tijdstip van inwerkingtreding van dit besluit geldige
+overeenkomst terzake van een certificaat heeft gesloten met de Staat
+der Nederlanden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Op het tijdstip
+dat de overeenkomst, bedoeld in het eerste lid, met inachtneming van de
+daarvoor geldende termijn door Onze Minister is opgezegd, wordt een
+certificaat waarover de zorgaanbieder uit hoofde van de overeenkomst
+beschikt, aangemerkt als een certificaat dat op grond van dit besluit
+is verstrekt. De <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=21">artikelen 21, eerste en tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=22">22</intref>, <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=23">23, onderdelen
+b tot en met h</intref>, <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=24">24</intref> en <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=25">25</intref> zijn van overeenkomstige toepassing op het
+certificaat.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">33</nr>
+          </kop>
+          <al>Onze
+Minister benoemt een functionaris voor de gegevensbescherming als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=62" compleet="nee">artikel 62 van de Wet bescherming persoonsgegevens</extref>, die
+toeziet op de verwerking van persoonsgegevens ten behoeve van de
+registers, de SBV-Z en de
+toegangsmiddelen.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">34</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Onverminderd wettelijke verplichtingen tot
+het gebruik van het burgerservicenummer kunnen zorgaanbieders,
+indicatieorganen en zorgverzekeraars voor alle vormen van zorg in de
+periode tot een jaar na inwerkingtreding van dit besluit het
+burgerservicenummer van een cli&#xEB;nt gebruiken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Onverminderd wettelijke verplichtingen tot het
+gebruik van het sociaal-fiscaalnummer en onverminderd <intref status="actief" doc="1.0:v:BWBR0023902&amp;artikel=31">artikel 31, onder
+b</intref>, kunnen indicatieorganen en zorgverzekeraars voor alle vormen van
+zorg in de periode tot een jaar na inwerkingtreding van dit besluit het
+sociaal-fiscaalnummer van een cli&#xEB;nt gebruiken bij het ontbreken
+van een burgerservicenummer.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">35</nr>
+          </kop>
+          <al><redactie type="vervanging">Wijzigt het Inschrijvingsbesluit bijzondere ziektekostenverzekering 1992.</redactie></al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">36</nr>
+          </kop>
+          <al><redactie type="vervanging">Wijzigt het Besluit maatschappelijke
+ondersteuning.</redactie></al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">37</nr>
+          </kop>
+          <al>De
+artikelen van dit besluit treden in werking op een bij koninklijk
+besluit te bepalen tijdstip, dat voor de verschillende artikelen of
+onderdelen daarvan verschillend kan worden
+vastgesteld.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">38</nr>
+          </kop>
+          <al>Dit besluit
+wordt aangehaald als: Besluit gebruik burgerservicenummer in de
+zorg.</al>
+        </artikel>
+      </hoofdstuk>
+    </wettekst>
+    <wetsluiting status="goed">
+      <slotformulering>
+        <al>Lasten en bevelen dat dit besluit met de daarbij behorende nota van
+toelichting in het Staatsblad zal worden geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>
+					's-Gravenhage</plaats>
+          <datum isodatum="23 mei 2008">23
+mei
+2008</datum>
+        </dagtekening>
+        <koning>Beatrix</koning>
+      </gegeven>
+      <ondertekening>
+        <functie>De
+
+          Minister
+           van
+
+          Volksgezondheid, Welzijn en
+Sport
+          ,
+        </functie>
+        <naam>
+          <voornaam>A.</voornaam>
+          <achternaam>Klink</achternaam>
+        </naam>
+      </ondertekening>
+      <uitgifte>
+        <datum isodatum="2007-05-29">de <nadruk type="cur">negenentwintigste</nadruk>
+mei 2008</datum>
+        <ondertekening>
+          <functie>De 
+            Minister
+             van
+
+            Justitie
+            
+          ,</functie>
+          <naam>
+            <voornaam>E.
+M. H.</voornaam>
+            <achternaam>Hirsch
+Ballin</achternaam>
+          </naam>
+        </ondertekening>
+      </uitgifte>
+    </wetsluiting>
+  </wet-besluit>
+</wetgeving>
+  	

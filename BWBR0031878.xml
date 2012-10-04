@@ -1,0 +1,841 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0031878" dtdversie="2.0" id="477259" soort="pbo">
+  
+  <intitule>Verordening op de kwaliteitstoetsing NOvAA</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De ledenvergadering van de Nederlandse Orde van Accountants-Administratieconsulenten,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0002856&amp;artikel=24" compleet="nee">artikel 24, eerste lid, van de Wet op de Accountants-Administratieconsulenten</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Stelt de volgende verordening vast:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>Voor de toepassing van deze verordening wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">aan assurance verwante opdracht:</nadruk> de aan assurance verwante opdracht, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0026536" compleet="nee">Verordening gedragscode</extref>;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">accountant:</nadruk> de Accountant-Administratieconsulent;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">openbaar accountant:</nadruk> de openbaar accountant, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0026536" compleet="nee">Verordening gedragscode</extref>;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">intern accountant:</nadruk> de intern accountant, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0026536" compleet="nee">Verordening gedragscode</extref>;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">overheidsaccountant:</nadruk> de overheidsaccountant, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0026536" compleet="nee">Verordening gedragscode</extref> met uitzondering van de overheidsaccountant die werkzaam is bij de belastingdienst en belast is met de controle van door belastingplichtigen ingeleverde aangiften en de overheidsaccountant die aan deze controle direct leiding geeft;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">dagelijks beleidsbepaler:</nadruk> de openbaar accountant, bedoeld in <extref status="actief" doc="1.0:v:BWBR0026536&amp;artikel=B1-291.2" compleet="nee">artikel&#xA0;B1-291.2 van de Verordening gedragscode</extref>, dan wel de intern of overheidsaccountant, bedoeld in <extref status="actief" doc="1.0:v:BWBR0026536&amp;artikel=B2-291.2" compleet="nee">artikel&#xA0;B2-291.2 van de Verordening gedragscode</extref>;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">accountantsafdeling:</nadruk> de accountantsafdeling, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0026536" compleet="nee">Verordening gedragscode</extref>;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">accountantspraktijk:</nadruk> de accountantspraktijk, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0026536" compleet="nee">Verordening gedragscode</extref>;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">assuranceopdracht:</nadruk> de assuranceopdracht, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0026536" compleet="nee">Verordening gedragscode</extref>, met uitzondering van de opdracht tot het uitvoeren van een wettelijke controle als bedoeld in <extref status="actief" doc="1.0:v:BWBR0019468&amp;artikel=1" compleet="nee">artikel&#xA0;1, eerste lid, onderdeel&#xA0;p, van de Wet toezicht accountantsorganisaties</extref>;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">AFM:</nadruk> de Stichting Autoriteit Financi&#xEB;le Markten;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">bestuur:</nadruk> het bestuur van de NOvAA;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">incidentenonderzoek:</nadruk> een onderzoek naar vermeende tekortkomingen in de beroepsuitoefening met uitzondering van de uitvoering van een wettelijke controle;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">koepelorganisatie:</nadruk> een organisatie waarvan de accountantspraktijk of de accountantsafdeling lid is of waarbij de accountantspraktijk of de accountantsafdeling is aangesloten en welke organisatie bevoegd is aan de accountantspraktijk of de accountantsafdeling bindende regels voor de kwaliteitsbeheersing op te leggen, te toetsen en de naleving daarvan af te dwingen;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">NOvAA:</nadruk> de Nederlandse Orde van Accountants-Administratieconsulenten, bedoeld in <extref status="actief" doc="1.0:v:BWBR0002856&amp;artikel=2" compleet="nee">artikel&#xA0;2, eerste lid, van de Wet op de Accountants-Administratieconsulenten</extref>;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">Raad:</nadruk> de individuele personen die op grond van <extref status="actief" doc="1.0:v:BWBR0014164&amp;artikel=3" compleet="nee">artikel&#xA0;3, eerste lid van de Verordening op de Raad van Toezicht Beroepsuitoefening AA&#x2019;s</extref> zijn of zullen worden benoemd als lid van de Raad van Toezicht Beroepsuitoefening AA&#x2019;s;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">thematisch onderzoek:</nadruk> een onderzoek naar een bepaald aspect van de uitvoering van assurance- of aan assurance verwante opdrachten;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">toetsing:</nadruk> de beoordeling van de opzet en werking van het stelsel van kwaliteitsbeheersing van een accountantspraktijk of een accountantsafdeling;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">hertoetsing:</nadruk> de toetsing waarbij mede wordt beoordeeld of de accountantspraktijk of de accountantsafdeling in voldoende mate opvolging heeft gegeven aan het goedgekeurde verbeterplan om de kwaliteit van de beroepsuitoefening in overeenstemming te brengen met het bij en krachtens de <extref status="actief" doc="1.0:v:BWBR0002856" compleet="nee">Wet op de Accountants-Administratieconsulenten</extref> bepaalde;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">stelsel van kwaliteitsbeheersing:</nadruk> het totaal van ter zake van assurance- en aan assurance verwante opdrachten door de accountantspraktijk of de accountantsafdeling getroffen maatregelen en ingestelde procedures ter zake van:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;.</li.nr>
+                  <al>de interne beheersing van de accountantspraktijk of de accountantsafdeling met betrekking tot kwaliteit;</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;.</li.nr>
+                  <al>het interne onderzoek naar de naleving van de in de <extref status="actief" doc="1.0:v:BWBR0026536" compleet="nee">Verordening gedragscode</extref> opgenomen fundamentele beginselen door de bij de accountantspraktijk of de accountantsafdeling werkzame of daaraan verbonden accountants en andere personen; en</al>
+                </li>
+                <li>
+                  <li.nr>3&#xB0;.</li.nr>
+                  <al>het interne onderzoek ten aanzien van assurance- en aan assurance verwante opdrachten naar de kwaliteit van de door de bij de accountantspraktijk of de accountantsafdeling werkzame of daaraan verbonden accountants en andere personen uitgevoerde werkzaamheden;</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">systeem van kwaliteitsborging:</nadruk> de door een organisatie getroffen maatregelen en ingestelde procedures ten aanzien van het onderzoek naar de opzet en de werking van het stelsel van kwaliteitsbeheersing van de bij de organisatie aangesloten accountants, accountantspraktijken of accountantsafdelingen;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">toetsingsteam:</nadruk> het team dat door het bestuur voor een toetsing, een hertoetsing, een thematisch onderzoek of een incidentenonderzoek wordt samengesteld en belast is met de uitvoering van de toetsing of het onderzoek bij een accountantspraktijk of accountantsafdeling;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">verbeterplan:</nadruk> een op de in <intref status="actief" doc="1.0:v:BWBR0031878&amp;artikel=13">artikel 13, vierde en vijfde lid</intref>, bedoelde aanwijzingen en aanbevelingen gebaseerd document, waarin op planmatige en gestructureerde wijze wordt aangegeven welke maatregelen worden getroffen ter correctie van de geconstateerde tekortkomingen van de opzet en werking van het in <intref status="actief" doc="1.0:v:BWBR0031878&amp;artikel=3">artikel&#xA0;3</intref> bedoelde stelsel van kwaliteitsbeheersing;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">voorzitter:</nadruk> de voorzitter van de NOvAA;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>
+                <nadruk type="cur">wettelijke controle:</nadruk> de wettelijke controle, bedoeld in <extref status="actief" doc="1.0:v:BWBR0019468" compleet="nee">artikel 1, eerste lid, onderdeel&#xA0;p, van de Wet toezicht accountantsorganisaties</extref>.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het bestuur verleent, voor zover dat zich verdraagt met <extref status="actief" doc="1.0:v:BWBR0005537&amp;afdeling=10.1.1" compleet="nee">afdeling 10.1.1 van de Algemene wet bestuursrecht</extref>, voor de uitoefening van de in deze verordening aan hem verstrekte bevoegdheden mandaat, volmacht en machtiging aan de Raad.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Namens het bestuur kan de Raad binnen het gestelde in het eerste lid ondermandaat verlenen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Over de inrichting en samenstelling van de Raad worden bij verordening nadere regels gesteld.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Algemeen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <al>De openbaar accountant en intern of overheidsaccountant draagt er zorg voor dat de accountantspraktijk of accountantsafdeling waarbij hij werkzaam is of waaraan hij is verbonden, beschikt over een stelsel van kwaliteitsbeheersing dat is afgestemd op de aard, omvang en het belang van de opdrachten en waarmee wordt voldaan aan het bepaalde bij en krachtens de <extref status="actief" doc="1.0:v:BWBR0002856" compleet="nee">Wet op de Accountants-Administratieconsulenten</extref>.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <al>De accountant verleent medewerking aan een toetsing een hertoetsing, een thematisch onderzoek of een incidentenonderzoek en stelt alle gegevens ter beschikking die nodig zijn voor een toetsing, een hertoetsing, een thematisch onderzoek of een incidentenonderzoek.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De voorzitter kan zijn bevindingen in de vorm van een klacht ter kennis van de accountantskamer brengen indien hem bij de uitoefening van het toezicht van feiten of omstandigheden blijkt die grond kunnen opleveren tot het opleggen van een tuchtrechtelijke maatregel, althans tot gegrondverklaring van de klacht.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien bij een accountantspraktijk of accountantsafdeling meerdere accountants werkzaam zijn of aan een accountantspraktijk of accountantsafdeling meerdere accountants verbonden zijn, bepaalt de voorzitter voor de toepassing van het eerste lid, tegen welke accountant of accountants hij een klacht aanhangig maakt.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het bestuur is belast met de selectie en opleiding van de toetsers.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Voor de (her)toetsing van een accountantspraktijk of accountantsafdeling wijst het bestuur toetsers aan die voldoen aan nader door het bestuur te stellen eisen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Voor het uitvoeren van een thematisch onderzoek of incidentenonderzoek wijst het bestuur personen aan die over de specifieke kwalificaties beschikken om deze onderzoeken uit te voeren.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Toetsingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <al>Een accountantspraktijk of accountantsafdeling wordt, om de kwaliteit van de beroepsuitoefening van een openbaar accountant, intern accountant of overheidsaccountant te kunnen beoordelen ten minste eenmaal in de zes jaar aan een toetsing onderworpen.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Teneinde inzicht te krijgen in de specifieke situatie van de accountantspraktijk of de accountantsafdeling wordt er door het bestuur aan de accountantspraktijk of aan de accountantsafdeling een jaarlijkse monitoringvragenlijst gestuurd. De dagelijks beleidsbepaler zorgt ervoor dat deze vragenlijst binnen een termijn van zes weken na ontvangst door de accountantspraktijk of de accountantsafdeling ingevuld wordt geretourneerd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het bestuur kan een accountantspraktijk of accountantsafdeling op basis van risico-indicatoren aan een nader onderzoek onderwerpen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een toetsing van een accountantspraktijk houdt een onderzoek in waarbij wordt nagegaan of het stelsel van kwaliteitsbeheersing van de accountantspraktijk, niet betrekking hebbend op het verrichten van wettelijke controles door accountantsorganisaties welke beschikken over een vergunning als bedoeld in <extref status="actief" doc="1.0:v:BWBR0019468&amp;artikel=6" compleet="nee">artikel&#xA0;6, tweede lid, van de Wet toezicht accountantsorganisaties</extref>, in opzet en werking voldoet aan het bij en krachtens de <extref status="actief" doc="1.0:v:BWBR0002856" compleet="nee">Wet op de Accountants-Administratieconsulenten</extref> bepaalde.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een toetsing van een accountantsafdeling houdt een onderzoek in waarbij wordt nagegaan of het stelsel van kwaliteitsbeheersing van de accountantsafdeling in opzet en werking voldoet aan het bij en krachtens de <extref status="actief" doc="1.0:v:BWBR0002856" compleet="nee">Wet op de Accountants-Administratieconsulenten</extref> bepaalde.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De toetsing kan omvatten assuranceopdrachten met uitzondering van wettelijke controles verricht door accountantsorganisaties welke beschikken over een vergunning als bedoeld in <extref status="actief" doc="1.0:v:BWBR0019468&amp;artikel=6" compleet="nee">artikel&#xA0;6, tweede lid, van de Wet toezicht accountantsorganisaties</extref>, aan assurance verwante opdrachten en overige opdrachten binnen de accountantspraktijk of de accountantsafdeling waar de accountant optreedt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De reikwijdte van de toetsing wordt bepaald door het bestuur.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De toetsing wordt uitgevoerd aan de hand van door het bestuur vastgestelde toetsingsprogramma's.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het bestuur maakt de in het eerste lid van dit artikel bedoelde toetsingsprogramma's bekend aan de leden van de NOvAA.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het bestuur stelt vast welke accountantspraktijken en accountantsafdelingen in een bepaald jaar in aanmerking komen voor een toetsing.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het bestuur stelt ten behoeve van elke toetsing of hertoetsing een toetsingsteam samen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Het toetsingsteam is belast met de uitvoering van de toetsing of de hertoetsing van de accountantspraktijk of de accountantsafdeling.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Bij het samenstellen van het toetsingsteam wordt rekening gehouden met de aard en de omvang van de te toetsen accountantspraktijk of accountantsafdeling en met mogelijke feiten en omstandigheden waardoor de objectiviteit van de toetsers zou kunnen worden aangetast.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">12</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het bestuur maakt de datum waarop de (her)toetsing zal plaatsvinden ten minste zes weken van tevoren bekend.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien een accountantspraktijk of een accountantsafdeling aannemelijk maakt dat een (her)toetsing op de datum welke op grond van het eerste lid bekend is gemaakt, niet mogelijk is, kan het bestuur een andere datum bekend maken waarop de (her)toetsing zal plaatsvinden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Indien het tweede lid toepassing vindt, kan het bestuur in overleg met een accountantspraktijk of een accountantsafdeling afwijken van de in het eerste lid genoemde termijn van zes weken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Het bestuur doet mededeling van de samenstelling van het toetsingsteam, alsmede van de termijn waarbinnen een verzoek als bedoeld in het vijfde lid van dit artikel kan worden ingediend.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De accountantspraktijk of de accountantsafdeling kan binnen een door het bestuur te stellen termijn aan het bestuur schriftelijk verzoeken elk van de toetsers die de (her)toetsing uitvoert te wraken op grond van objectieve feiten en omstandigheden waardoor gerede twijfel is ontstaan met betrekking tot de objectiviteit van de toetser.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>Indien het bestuur van oordeel is dat er sprake is van feiten en omstandigheden waardoor de objectiviteit van de toetser aangetast zou kunnen worden of de schijn wordt gewekt dat de objectiviteit van de toetsers aangetast zou kunnen worden, wijzigt het de samenstelling van het toetsingsteam.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">13</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het toetsingsteam bespreekt direct na afloop van de (her)toetsing met de accountantspraktijk of de accountantsafdeling de bevindingen van het toetsingsteam op hoofdlijnen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het toetsingsteam stelt binnen een door het bestuur te stellen termijn na de eindbespreking een concept toetsingsverslag samen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Het toetsingsverslag als bedoeld in het tweede lid omvat naast de bevindingen van het toetsingsteam tevens een gemotiveerd voorstel voor een oordeel als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031878&amp;artikel=15">artikel&#xA0;15, derde lid</intref> of artikel&#xA0;15, vierde lid.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Het toetsingsteam kan bij het voorstel voor een oordeel als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031878&amp;artikel=15">artikel&#xA0;15, derde lid</intref>, onderdeel&#xA0;a of artikel&#xA0;15, vierde lid, onderdeel&#xA0;a, aanbevelingen doen voor het treffen van maatregelen ter verbetering van het stelsel van kwaliteitsbeheersing.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Bij een voorstel voor een oordeel als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031878&amp;artikel=15">artikel&#xA0;15, derde lid, onderdeel&#xA0;b</intref>, doet het toetsingsteam tevens een voorstel voor aanwijzingen voor het treffen van maatregelen ter verbetering van het stelsel van kwaliteitsbeheersing.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>Bij een voorstel voor een oordeel als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031878&amp;artikel=15">artikel&#xA0;15, derde lid, onderdeel&#xA0;c</intref> of artikel&#xA0;15, vierde lid, onderdeel&#xA0;b, doet het toetsingsteam tevens een voorstel voor aanwijzingen voor het treffen van maatregelen ter verbetering van het stelsel van kwaliteitsbeheersing en motiveert de ernst van de geconstateerde tekortkomingen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>Het toetsingsteam draagt zorg voor de verzending van het concept toetsingsverslag binnen een door het bestuur te stellen termijn aan de accountantspraktijk of de accountantsafdeling.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">8</lidnr>
+            <al>De accountantspraktijk of de accountantsafdeling kan binnen een door het bestuur te stellen termijn schriftelijk commentaar op het concept toetsingsverslag, bedoeld in het tweede lid, aan het toetsingsteam zenden dat na verwerking van het commentaar het toetsingsverslag definitief maakt en aan de accountantspraktijk of accountantsafdeling en aan het bestuur zendt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">9</lidnr>
+            <al>De accountantspraktijk of de accountantsafdeling kan binnen een door het bestuur te stellen termijn schriftelijk commentaar op het definitieve toetsingsverslag, bedoeld het achtste lid, aan het bestuur zenden.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">14</nr>
+          </kop>
+          <al>Indien zich over de wijze van uitvoering van de (her)toetsing een meningsverschil voordoet tussen de aan toetsing onderworpen accountantspraktijk of accountantsafdeling en het toetsingsteam, doet het bestuur op verzoek van de accountantspraktijk of de accountantsafdeling of het toetsingsteam een bindende uitspraak.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">15</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het bestuur beperkt zich tot een marginale toetsing van het definitieve toetsingsverslag en stelt naar aanleiding hiervan en het eventuele commentaar als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031878&amp;artikel=13">artikel&#xA0;13, negende lid</intref>, een eindoordeel vast, al dan niet voorzien van aanbevelingen of aanwijzingen voor het treffen van maatregelen ter verbetering van geconstateerde tekortkomingen, dat hij binnen zes weken na afloop van de in artikel&#xA0;13, negende lid, bedoelde termijn ter kennis brengt van de accountantspraktijk of de accountantsafdeling. Het bestuur kan gemotiveerd afwijken van het voorstel van het toetsingsteam.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het bestuur kan de in het eerste lid genoemde termijn van zes weken verlengen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Een eindoordeel na een toetsing kan als volgt luiden:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het stelsel van kwaliteitsbeheersing voldoet in opzet en werking aan het bepaalde bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0002856" compleet="nee">Wet op de Accountants-Administratieconsulenten</extref>;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het stelsel van kwaliteitsbeheersing behoeft verbetering en voldoet in opzet of werking op belangrijke onderdelen niet aan het bepaalde bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0002856" compleet="nee">Wet op de Accountants-Administratieconsulenten</extref>;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>het stelsel van kwaliteitsbeheersing voldoet in opzet en werking niet aan het bepaalde bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0002856" compleet="nee">Wet op de Accountants-Administratieconsulenten</extref>.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Een eindoordeel na een hertoetsing als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031878&amp;artikel=16">artikel&#xA0;16, eerste lid</intref>, kan als volgt luiden:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het stelsel van kwaliteitsbeheersing voldoet in opzet en werking aan het bepaalde bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0002856" compleet="nee">Wet op de Accountants-Administratieconsulenten</extref>;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het stelsel van kwaliteitsbeheersing voldoet in opzet en werking niet aan het bepaalde bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0002856" compleet="nee">Wet op de Accountants-Administratieconsulenten</extref>.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>In het geval aan een accountantspraktijk of de accountantsafdeling een eindoordeel als bedoeld in het derde lid, onderdeel&#xA0;b, wordt gegeven, dan dient de accountantspraktijk of de accountantsafdeling binnen een door het bestuur te stellen termijn een door het bestuur goed te keuren verbeterplan in.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>Het bestuur stelt een termijn waarbinnen het stelsel van kwaliteitsbeheersing dient te worden aangepast en moet voldoen aan het bepaalde bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0002856" compleet="nee">Wet op de Accountants-Administratieconsulenten</extref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>Het bestuur kan volstaan met een gedeeltelijke goedkeuring van het verbeterplan. Het bestuur vermeldt daarbij op welke onderdelen het verbeterplan tekort schiet.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">8</lidnr>
+            <al>Voor het beoordelen en goedkeuren van het in het verbeterplan, bedoeld in het vijfde lid, wordt een tarief in rekening gebracht waarvan de hoogte in de <extref status="actief" doc="1.0:v:BWBR0031879" compleet="nee">Verordening tarieven kwaliteitstoetsing NOvAA</extref> is vastgesteld.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">9</lidnr>
+            <al>De tijd welke het bestuur besteedt aan de beoordeling van een verbeterplan, schort niet de termijn op bedoeld in het zesde lid.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">10</lidnr>
+            <al>In het geval een eindoordeel luidt als bedoeld in het derde lid, onderdeel&#xA0;c, kan de voorzitter een tuchtrechtelijk procedure aanhangig te maken bij de Accountantskamer.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">16</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Na een eindoordeel als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031878&amp;artikel=15">artikel 15, derde lid, onderdeel&#xA0;b</intref>, vindt een hertoetsing plaats.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De hertoetsing vindt plaats na afloop van de termijn, bedoeld in <intref status="actief" doc="1.0:v:BWBR0031878&amp;artikel=15">artikel&#xA0;15, zesde lid</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>In het geval aan een accountantspraktijk of een accountantsafdeling na een hertoetsing een eindoordeel is gegeven als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031878&amp;artikel=15">artikel&#xA0;15, vierde lid, onderdeel&#xA0;b</intref>, kan de voorzitter een tuchtrechtelijke procedure aanhangig te maken bij de Accountantskamer.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">17</nr>
+          </kop>
+          <al>Indien de getoetste accountantspraktijk, accountantsafdeling of individuele accountant de inhoud van het toetsingsverslag of het eindoordeel openbaar maakt,</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>neemt hij het bepaalde in <extref status="actief" doc="1.0:v:BWBR0026536&amp;artikel=A-150.2" compleet="nee">artikel&#xA0;A-150.2 van de Verordening gedragscode</extref> in acht en;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>vermeldt hij de datum waarop de meest recente (her)toetsing heeft plaatsgevonden.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Thematisch onderzoek</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">18</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het bestuur kan bij accountantspraktijken en accountantsafdelingen een thematisch onderzoek uitvoeren.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Bij de uitvoering van een thematisch onderzoek bepaalt het bestuur in elk geval:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het onderwerp van het thematisch onderzoek;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de periode waarin het thematisch onderzoek wordt verricht;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de wijze waarop en de vorm waarin het thematisch onderzoek wordt verricht;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>aan wie de uitvoering van het themaonderzoek wordt opgedragen;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>bij welke accountantspraktijk of accountantsafdeling een thematisch onderzoek wordt uitgevoerd.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">19</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het bestuur stelt naar aanleiding van het thematisch onderzoek een verslag vast.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het bestuur kan het verslag, bedoeld in het eerst lid, aan de accountantspraktijk of de accountantsafdeling verstrekken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Het bestuur kan een mededeling doen waarin de uitkomsten van het thematisch onderzoek zijn opgenomen. In de mededeling worden enkel geanonimiseerde gegevens opgenomen.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Incidentenonderzoek</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">20</nr>
+          </kop>
+          <al>Het bestuur kan een incidentenonderzoek uitvoeren.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">21</nr>
+          </kop>
+          <al>Het bestuur bepaalt de wijze waarop en de vorm waarin het incidentenonderzoek plaatsvindt.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Informatie-uitwisseling</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">22</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Indien een accountantspraktijk beschikt over een vergunning, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0019468&amp;artikel=6" compleet="nee">artikel&#xA0;6 van de Wet toezicht accountantsorganisaties</extref>, meldt het bestuur het eindoordeel over een bij deze accountantspraktijk uitgevoerde (her)toetsing bij de AFM.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien een accountantspraktijk beschikt over een vergunning, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0019468&amp;artikel=6" compleet="nee">artikel&#xA0;6 van de Wet toezicht accountantsorganisaties</extref>, draagt het bestuur, indien een eindoordeel over een bij deze accountantspraktijk uitgevoerde toetsing of hertoetsing luidt als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031878&amp;artikel=15">artikel&#xA0;15, derde lid, onderdeel&#xA0;c</intref>, respectievelijk artikel&#xA0;15, vierde lid, onderdeel&#xA0;b, het toetsingsdossier over aan de AFM.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">23</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Indien uit een thematisch onderzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031878&amp;artikel=18">artikel&#xA0;18, eerste lid</intref>, informatie blijkt die duidt op een ernstige overtreding van de bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0019468" compleet="nee">Wet toezicht accountantsorganisaties</extref> gestelde voorschriften door een accountantsorganisatie dan wel door een (mede) beleidsbepaler of een externe accountant van een accountantsorganisatie, verstrekt het bestuur deze informatie aan de AFM.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien uit een incidentenonderzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031878&amp;artikel=20">artikel&#xA0;20</intref>, informatie blijkt die duidt op een ernstige overtreding van de bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0019468" compleet="nee">Wet toezicht accountantsorganisaties</extref> gestelde voorschriften door een accountantsorganisatie dan wel door een (mede) beleidsbepaler of een externe accountant van een accountantsorganisatie, verstrekt het bestuur deze informatie aan de AFM.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Vrijstellingen en accreditatie</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">24</nr>
+          </kop>
+          <al>Het bestuur kan naar aanleiding van een daartoe door een accountantspraktijk of accountantsafdeling schriftelijk ingediend en gedocumenteerd verzoek besluiten tijdelijke vrijstelling van een (her)toetsing of vrijstelling van een themaonderzoek te verlenen.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">25</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een verzoek tot tijdelijke vrijstelling of de verlenging daarvan wordt eerst in behandeling genomen nadat het tarief hiervoor, waarvan de hoogte in de <extref status="actief" doc="1.0:v:BWBR0031879" compleet="nee">Verordening tarieven kwaliteitstoetsing NOvAA</extref> is vastgesteld, door de desbetreffende accountantspraktijk of accountantsafdeling is voldaan.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een tijdelijke vrijstelling van een (her)toetsing wordt slechts verleend wanneer tijdelijk niet kan worden voldaan aan de normen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0031878&amp;artikel=3">artikel 3</intref> doordat:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de accountantspraktijk of de accountantsafdeling binnen afzienbare termijn ophoudt te bestaan;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>een accountantspraktijk of accountantsafdeling als partij minder dan een jaar geleden betrokken is geweest, dan wel betrokken is bij een fusie met of een overname van of door een accountantspraktijk of accountantsafdeling van vergelijkbare omvang; of</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de samenwerking tussen een aanzienlijk deel van de bij een accountantspraktijk of accountantafdeling werkzame accountants of de aan een accountantspraktijk of accountantsafdeling verbonden accountants minder dan een jaar geleden is verbroken.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Een tijdelijke vrijstelling van een (her)toetsing kan slechts worden verleend voor de duur van maximaal &#xE9;&#xE9;n jaar met de mogelijkheid tot verlenging voor de duur van maximaal &#xE9;&#xE9;n jaar.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Het bestuur neemt een beslissing binnen acht weken na in behandeling nemen van het verzoek tot tijdelijke vrijstelling van een (her)toetsing.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Het bestuur kan de in het vierde lid genoemde termijn verlengen met maximaal zes weken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>Accountantspraktijken of accountantsafdelingen die lid zijn van of aangesloten zijn bij een koepelorganisatie waaraan een accreditatie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031878&amp;artikel=26">artikel&#xA0;26, eerste lid</intref>, is verleend, zijn voor de duur van deze accreditatie vrijgesteld van toetsing door het bestuur.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>Accountantspraktijken of accountantsafdelingen die lid zijn van of aangesloten zijn bij een koepelorganisatie waarvoor een verzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031878&amp;artikel=26">artikel&#xA0;26, eerste lid</intref>, is ingediend, zijn gedurende de periode waarin het bestuur op het verzoek nog geen beslissing heeft genomen, vrijgesteld van toetsing door het bestuur.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">8</lidnr>
+            <al>Accountantspraktijken of accountantsafdelingen die een aanvraag hebben ingediend voor het lidmaatschap van of de aansluiting bij een geaccrediteerde koepelorganisatie zijn, gedurende de periode waarin de koepelorganisatie op het verzoek nog geen beslissing heeft genomen, vrijgesteld van toetsing door het bestuur.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">9</lidnr>
+            <al>Het zesde en zevende lid vinden geen toepassing in het geval de accountantspraktijk of de accountantsafdeling een aanvraag heeft ingediend voor het lidmaatschap van of de aansluiting bij een koepelorganisatie nadat een accountantspraktijk of een accountantsafdeling is aangewezen voor een toetsing op grond van in <intref status="actief" doc="1.0:v:BWBR0031878&amp;artikel=11">artikel&#xA0;11, eerste lid</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">10</lidnr>
+            <al>Het achtste lid vindt geen toepassing in het geval de in dat lid bedoelde aanvraag is ingediend nadat een accountantspraktijk of een accountantsafdeling is aangewezen voor een toetsing op grond van <intref status="actief" doc="1.0:v:BWBR0031878&amp;artikel=11">artikel&#xA0;11, eerste lid</intref>.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">26</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Koepelorganisaties kunnen het bestuur verzoeken hun systeem van kwaliteitsborging te accrediteren.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Ten behoeve van deze accreditatie toetst het bestuur de opzet en werking van het systeem van kwaliteitsborging.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De kosten van de behandeling van een verzoek tot accreditatie, waaronder mede wordt begrepen de toetsing van de opzet en werking van het systeem van kwaliteitsborging, komen voor rekening van de desbetreffende koepelorganisatie.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De accreditatie wordt verleend voor de duur van drie jaar of zoveel korter als het bestuur beslist.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Het bestuur neemt een besluit binnen zestien weken na ontvangst van het verzoek als bedoeld in het eerste lid.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>Het bestuur kan aan de accreditatie voorwaarden verbinden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>De koepelorganisatie doet onverwijld mededeling aan het bestuur van wijzigingen in het geaccrediteerde systeem van kwaliteitsborging.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">8</lidnr>
+            <al>Het bestuur bericht de koepelorganisatie welke gevolgen de wijzigingen hebben voor de accreditatie.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">27</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De kosten van een accreditatie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0031878&amp;artikel=26">artikel&#xA0;26, derde lid</intref>, worden gevormd door het aantal aangevangen dagdelen dat de toetsers gezamenlijk bij de koepelorganisatie aan de toetsing hebben besteed, vermenigvuldigd met het geldende tarief.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het tarief wordt door de ledenvergadering vastgesteld in de <extref status="actief" doc="1.0:v:BWBR0031879" compleet="nee">Verordening tarieven kwaliteitstoetsing NOvAA</extref>.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Overige bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">28</nr>
+          </kop>
+          <al>Van vertrouwelijke gegevens in het kader van de toetsing verkregen, kan geen verder en ander gebruik worden gemaakt dan krachtens deze verordening is bepaald, tenzij bij wet anders is bepaald.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">29</nr>
+          </kop>
+          <al>In situaties die procedureel van aard zijn en waarin deze verordening niet voorziet, beslist het bestuur.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">30</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De kosten van een toetsing, een hertoetsing of een thematisch onderzoek komen voor rekening van de getoetste accountantspraktijk of de onderneming, instelling of de overheid en een daarmee gelijk te stellen dienst waartoe een getoetste accountantsafdeling behoort.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De kosten van een toetsing, een hertoetsing of een thematisch onderzoek worden gevormd door het aantal aangevangen dagdelen dat de toetsers gezamenlijk bij de accountantspraktijk of accountantsafdeling aan de toetsing, de hertoetsing of het thematisch onderzoek hebben besteed, vermenigvuldigd met het geldende tarief.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Het tarief wordt door de ledenvergadering vastgesteld in de <extref status="actief" doc="1.0:v:BWBR0031879" compleet="nee">Verordening tarieven kwaliteitstoetsing NOvAA</extref>.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">31</nr>
+          </kop><al><redactie type="vervanging">Wijzigt de Verordening op de Raad van Toezicht Beroepsuitoefening AA&#x2019;s.</redactie></al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">32</nr>
+          </kop><al>De <extref status="actief" doc="1.0:v:BWBR0014165" compleet="nee">Verordening op de periodieke preventieve toetsing</extref> wordt ingetrokken.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">33</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Deze verordening treedt in werking op de tweede dag na publicatie in de Staatscourant en werkt terug tot 1 juli 2012.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Deze verordening wordt aangehaald als: Verordening op de Kwaliteitstoetsing NOvAA.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">9</nr>
+          <titel status="officieel">Overgangsbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">34</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De toetsing van een accountantspraktijk welke op grond van <extref status="actief" doc="1.0:v:BWBR0014165&amp;artikel=7" compleet="nee">artikel&#xA0;7, tweede lid, van de Verordening op de periodieke preventieve toetsing</extref> reeds is aangewezen voor een toetsing wordt met inachtneming van de bepalingen uit de <extref status="actief" doc="1.0:v:BWBR0014165" compleet="nee">Verordening op de periodieke preventieve toetsing</extref>, zoals deze luidde voor de inwerkingtreding van deze verordening, afgerond door het bestuur.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De hertoetsing van een accountantspraktijk welke op grond van <extref status="actief" doc="1.0:v:BWBR0014165&amp;artikel=12" compleet="nee">artikel&#xA0;12 van de Verordening op de periodieke preventieve toetsing</extref> reeds is aangewezen voor een hertoetsing wordt met inachtneming van de bepalingen uit de Verordening op de periodieke preventieve toetsing, zoals deze luidde voor de inwerkingtreding van deze verordening, afgerond door het bestuur.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+    </regeling-tekst>
+  </regeling>
+</wetgeving>
+  	

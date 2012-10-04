@@ -1,0 +1,868 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0028494" dtdversie="2.0" id="443419" soort="ministeriele-regeling">
+  
+  <intitule>Regeling luchtvaartmeteorologische
+inlichtingen BES
+2010</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De
+Minister van Verkeer en
+Waterstaat,</wie>
+      <considerans>
+        <considerans.al>Handelende in
+overeenstemming met de minister van
+Defensie;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op de
+<extref status="actief" doc="1.0:v:BWBR0012952&amp;artikel=3" compleet="nee">artikelen 3, eerste lid, onderdeel h</extref>, <extref status="actief" doc="1.0:v:BWBR0012952&amp;artikel=3a" compleet="nee">3a, tweede lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0012952&amp;artikel=8b" compleet="nee">8b van de wet
+op het Koninklijk Nederlands Meteorologisch Instituut</extref> en
+<extref status="actief" doc="1.0:v:BWBR0028639&amp;artikel=26" compleet="nee">artikel&#xA0;26, tweede lid, onderdeel b, van het Besluit luchtvaart
+BES</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>In
+deze regeling wordt verstaan
+onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+            <li>
+              <al>
+                <nadruk type="cur">AERODROME WARNING:</nadruk>  een
+waarschuwing aan luchtvaartterreinverkeer op de grond voor onweer,
+hagel, sneeuw, ijzel, rijp, harde wind, windstoten of
+vorst;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">AIREP:</nadruk> 
+een rapport dat vanuit een luchtvaartuig tijdens de vlucht wordt
+verstrekt met informatie over positie en operationele of
+meteorologische omstandigheden (air
+report);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">AUTO
+METAR:</nadruk>  volledig automatisch tot stand gekomen
+uurlijks waarnemingsrapport van een luchtvaartterrein in
+luchtvaartmeteorologische code in gebruik voor de voorbereiding van een
+vlucht (automated meteorological aerodrome
+report);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">AUTO
+SPECI:</nadruk>  volledig automatisch tot stand gekomen
+tussentijds waarnemingsrapport in luchtvaartmeteorologische code bij
+overschrijding van limietwaarden of andere significante verandering in
+gebruik voor de voorbereiding van een vlucht (automated special
+report);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">BES
+luchtruim:</nadruk>  die delen van het luchtruim in het
+Vluchtinformatiegebied Cura&#xE7;ao en het Vluchtinformatiegebied San
+Juan waarbinnen Onze Minister de verantwoordelijkheid voor het verlenen
+van luchtverkeersdiensten heeft aanvaard, te weten Flamingo CTR, F.D.
+Roosevelt ATZ en Yrausquin
+ATZ;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">BES
+luchtvaartterrein:</nadruk>  Flamingo Luchthaven op
+Bonaire, F.D. Roosevelt vliegveld op Sint Eustatius en Juancho
+Yrausquin vliegveld op
+Saba;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">BRIEFING:</nadruk> 
+mondeling verstrekken van actuele of verwachte meteorologische
+condities gebaseerd op bestaande berichten over het actuele of
+verwachte weer, dat wordt gebruikt tijdens de voorbereiding van een
+vlucht, vluchtuitvoering, luchtvaartterreinoperaties en het verlenen
+van
+luchtverkeersdiensten;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">CAR/SAM
+ANP:</nadruk>  gedetailleerde informatie over faciliteiten,
+diensten of procedures voor de internationale luchtvaartnavigatie, van
+toepassing in het Caribisch gebied (Caribbean and South America
+Regional Air Navigation
+Plan);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">CONSULTATIE</nadruk> :
+toelichting door een meteoroloog of een ander gekwalificeerd persoon,
+op verstrekte meteorologische inlichtingen over de heersende of
+verwachte weersomstandigheden in relatie tot de voorbereiding van een
+vlucht, vluchtuitvoering, luchtvaartterreinoperaties en het verlenen
+van luchtverkeersdiensten met de mogelijkheid van vraag, antwoord en
+overleg;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">ICAO:</nadruk> 
+International Civil Aviation Organization, een VN agentschap voor de
+burgerluchtvaart met als doel veilige (safe and secure) en duurzame
+ontwikkeling door middel van samenwerking tussen
+landen.</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">ISCS:</nadruk> 
+het door de Internationale Burgerluchtvaartorganisatie beheerde
+satelliet distributiesysteem van OPMET en WAFS informatie
+(International Satellite Communications
+System);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">Kustwacht:
+</nadruk> Kustwacht voor Aruba, Cura&#xE7;ao en Sint
+Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en
+Saba;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">LLFC:</nadruk> 
+verwachting voor het vluchtinformatiegebied, voor luchtverkeer beneden
+vliegniveau 100, die bij overschrijding van limietwaarden geamendeerd
+wordt
+(low-level-forecast);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">METAR</nadruk> :
+uurlijks waarnemingsrapport van een luchtvaartterrein in
+luchtvaartmeteorologische code in gebruik voor de voorbereiding van een
+vlucht (meteorological aerodrome
+report);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">OPMET:
+</nadruk> de verzameling van alfanumerieke
+waarneemrapporten, verwachtingen en waarschuwingen als AIREP, AUTO
+METAR, AUTO SPECI, LLFC, METAR, SIGMET, SPECI, TAF en TREND-forecast
+(operational meteorological
+information);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">SIGMET:</nadruk> 
+ongecodeerde waarschuwing voor weersomstandigheden die van invloed
+kunnen zijn op een veilige vluchtuitvoering (significant meteorological
+conditions);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">SPECI:</nadruk> 
+tussentijds waarnemingsrapport in luchtvaartmeteorologische code bij
+overschrijding van limietwaarden of andere significante verandering in
+gebruik voor de voorbereiding van een vlucht (special
+report);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">TAF:</nadruk> 
+6-uurlijkse luchtvaartterreinweersverwachting in
+luchtvaartmeteorologische code voor de komende 24 uur, die bij
+overschrijding van limietwaarden wordt geamendeerd (terminal aerodrome
+forecast);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">VERDRAG:</nadruk> 
+het op 7&#xA0;december 1944 in Chicago gesloten Verdrag inzake de
+internationale burgerluchtvaart
+(Trb.&#xA0;1973,
+109);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">W/T:</nadruk> 
+kaarten met informatie over wind en temperatuur op relevante hoogtes
+(wind and temperature
+charts);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">WAFC:</nadruk> 
+binnen het WAFS zijn twee centra aangewezen voor de beschikbaarstelling
+van luchtvaartmeteorologische inlichtingen voor gebruik hoger dan
+vliegniveau 100, Washington en Londen. De inlichtingen voor de openbare
+lichamen Bonaire, Sint Eustatius en Saba worden aan KNMI door het WAFC
+Washington beschikbaar gesteld (world area forecast
+centre);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">WAFS:</nadruk> 
+een middels ICAO annex 3 bij het verdrag geregeld systeem voor de
+beschikbaarstelling en verstrekking van luchtvaartmeteorologische
+inlichtingen voor gebruik hoger dan vliegniveau 100 (world area
+forecast
+system);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">WEERRADAR:</nadruk> 
+beeld van weerradar-ontvangers op Cura&#xE7;ao en Sint
+Maarten;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">WINDSHEAR
+WAARSCHUWINGEN:</nadruk>  waarschuwing voor opgetreden of
+verwachte sterke verticale of horizontale windrichtingverandering of
+windsnelheidveranderingen;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">WMO:</nadruk> 
+Wereld Meteorologische Organisatie, een VN agentschap waarin de
+nationale meteorologische diensten wereldwijd samenwerken op het gebied
+van meteorologie en
+klimaat;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">LLTI:</nadruk> 
+waarschuwing voor verticale temperatuurtoenames ter plaatse (Low Level
+Temperature
+Inversion).</al>
+            </li>
+          </lijst>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Luchtvaartmeteorologische
+inlichtingen ten behoeve van de
+burgerluchtvaart</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het
+KNMI verstrekt ten behoeve van de taakuitvoering van de navolgende
+gebruikers, luchtvaartmeteorologische inlichtingen
+aan:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>luchtvarenden;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>luchtvaartmaatschappijen;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>vluchtafhandelingsmaatschappijen;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>luchtvaartinlichtingenorganisaties;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>de
+Kustwacht;</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>de Onderzoeksraad Voor
+Veiligheid;</al>
+              </li>
+              <li>
+                <li.nr>g.</li.nr>
+                <al>de politiekorpsen van
+Bonaire, Sint Eustatius en Saba;</al>
+              </li>
+              <li>
+                <li.nr>h.</li.nr>
+                <al>de
+Inspectie Verkeer en
+Waterstaat;</al>
+              </li>
+              <li>
+                <li.nr>i.</li.nr>
+                <al>luchtverkeersdienstverleners,
+en</al>
+              </li>
+              <li>
+                <li.nr>j.</li.nr>
+                <al>exploitanten van de BES
+luchtvaartterreinen.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De luchtvaartmeteorologische
+inlichtingen bestaan
+uit:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>producten
+en diensten gebaseerd op de internationale eisen die zijn vastgelegd in
+ICAO Annex 3 bij het verdrag, voor zover toepasselijk nader omschreven
+in deel 6 van het CAR/SAM
+ANP:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>bewaakte
+weerwaarnemingen en
+rapporten;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>bewaakte
+weersverwachtingen;</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;.</li.nr>
+                    <al>bewaakte
+weerswaarschuwingen;</al>
+                  </li>
+                  <li>
+                    <li.nr>4&#xB0;.</li.nr>
+                    <al>meteorologische
+satellietwaarnemingen;</al>
+                  </li>
+                  <li>
+                    <li.nr>5&#xB0;.</li.nr>
+                    <al>weerradarinformatie;</al>
+                  </li>
+                  <li>
+                    <li.nr>6&#xB0;.</li.nr>
+                    <al>klimatologische
+rapporten;</al>
+                  </li>
+                  <li>
+                    <li.nr>7&#xB0;.</li.nr>
+                    <al>WAFC
+producten;</al>
+                  </li>
+                  <li>
+                    <li.nr>8&#xB0;.</li.nr>
+                    <al>OPMET data
+(ISCS);</al>
+                  </li>
+                  <li>
+                    <li.nr>9&#xB0;.</li.nr>
+                    <al>briefing,
+en</al>
+                  </li>
+                  <li>
+                    <li.nr>10&#xB0;.</li.nr>
+                    <al>consultatie;</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>door
+Onze Minister opgedragen nationale producten en
+diensten.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De
+verstrekker van luchtvaartmeteorologische inlichtingen draagt er zorg
+voor dat apparatuur die hij in gebruik heeft voor het vergaren,
+beschikbaar maken, houden en stellen van luchtvaartmeteorologische
+inlichtingen als bedoeld in deze regeling, betrouwbaar is, nauwkeurig
+werkt en op een geschikte plaatsis opgesteld. De gebruikte apparatuur
+voldoet aan eisen van de Internationale Burgerluchtvaart Organisatie en
+WMO, vastgelegd in annex 3 en 14 bij het verdrag en publicatienummer 8
+van de
+WMO.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Medewerkers
+die werkzaamheden uitvoeren ten behoeve van het vergaren, beschikbaar
+maken, stellen en houden van luchtvaartmeteorologische inlichtingen als
+bedoeld in deze regeling, zijn gekwalificeerd uitgaande van ten minste
+de eisen van de Internationale Burgerluchtvaart Organisatie en de WMO,
+vastgelegd in annex 3 bij het verdrag en publicatienummer 258 en
+supplement 1 bij publicatienummer 258 van de WMO.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De in het derde en vierde lid
+genoemde eisen gelden tevens als eisen van geschiktheid of bekwaamheid
+als bedoeld in <extref status="actief" doc="1.0:v:BWBR0012952&amp;artikel=3a" compleet="nee">artikel&#xA0;3a, tweede lid, onderdeel a, van de Wet op
+het Koninklijk Meteorologisch
+Instituut</extref>.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Luchtvaartmeteorologische
+inlichtingen beschikbaar voor de delen van het BES
+luchtruim</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Voor
+de taakuitvoering van de in <intref status="actief" doc="1.0:v:BWBR0028494&amp;artikel=2">artikel&#xA0;2, eerste lid</intref>, genoemde
+gebruikers in het BES luchtruim stelt het KNMI de volgende
+luchtvaartmeteorologische inlichtingen
+beschikbaar:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>SIGMET;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>Low
+Level Temperature Inversion;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>Low
+Level Forecast;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>Volcanic Ash
+Advisories;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>Tropical Cyclone Forecast
+Advisories;</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>Information on accidental
+release of radioactive
+materials;</al>
+              </li>
+              <li>
+                <li.nr>g.</li.nr>
+                <al>WAFC
+producten;</al>
+              </li>
+              <li>
+                <li.nr>h.</li.nr>
+                <al>meteorologische
+satellietwaarnemingen;</al>
+              </li>
+              <li>
+                <li.nr>i.</li.nr>
+                <al>weerradarinformatie;</al>
+              </li>
+              <li>
+                <li.nr>j.</li.nr>
+                <al>OPMET;</al>
+              </li>
+              <li>
+                <li.nr>k.</li.nr>
+                <al>wind-
+en temperatuurinformatie voor het
+luchtverkeersysteem;</al>
+              </li>
+              <li>
+                <li.nr>l.</li.nr>
+                <al>luchtdrukinformatie
+voor de
+hoogtemeterinstellingsgebieden;</al>
+              </li>
+              <li>
+                <li.nr>m.</li.nr>
+                <al>briefing,
+en</al>
+              </li>
+              <li>
+                <li.nr>n.</li.nr>
+                <al>consultatie.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het
+KNMI houdt de ingevolge het eerste lid beschikbaar gestelde
+luchtvaartmeteorologische inlichtingen gedurende een termijn van
+tenminste 90 dagen
+beschikbaar.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Luchtvaartmeteorologische
+inlichtingen beschikbaar op BES luchtvaartterreinen in gebruik of
+aangewezen als uitwijkluchthaven voor internationaal geregeld
+luchtvervoer</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het
+KNMI stelt tijdens de reguliere openstellinguren van BES
+luchtvaartterreinen in gebruik of aangewezen als uitwijkluchthaven voor
+internationaal geregeld luchtvervoer, de volgende
+luchtvaartmeteorologische inlichtingen
+beschikbaar:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>voor
+de taakuitvoering van de in <intref status="actief" doc="1.0:v:BWBR0028494&amp;artikel=2">artikel&#xA0;2, eerste lid</intref>, genoemde
+gebruikers:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>aerodrome
+Warning;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>windshear
+waarschuwingen;</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;.</li.nr>
+                    <al>TAF;</al>
+                  </li>
+                  <li>
+                    <li.nr>4&#xB0;.</li.nr>
+                    <al>METAR
+en SPECI, en</al>
+                  </li>
+                  <li>
+                    <li.nr>5&#xB0;.</li.nr>
+                    <al>take-off forecast,
+indien daarom wordt
+verzocht;</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>voor de
+taakuitvoering van de in <intref status="actief" doc="1.0:v:BWBR0028494&amp;artikel=2">artikel&#xA0;2, eerste lid, onderdelen b, i en
+j</intref>, genoemde gebruikers
+tevens:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>windinformatie
+representatief voor de landingsplek op de landingsbaan,
+en</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>windinformatie
+representatief voor de vertrekplek op de
+landingsbaan.</al>
+                  </li>
+                </lijst>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het
+KNMI stelt buiten de reguliere openstellinguren van de in het eerste
+lid bedoelde BES luchtvaartterreinen de volgende
+luchtvaartmeteorologische inlichtingen
+beschikbaar:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>voor
+de taakuitvoering van de in <intref status="actief" doc="1.0:v:BWBR0028494&amp;artikel=2">artikel&#xA0;2, eerste lid</intref>, genoemde
+gebruikers: TAF;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>voor de
+taakuitvoering van de in <intref status="actief" doc="1.0:v:BWBR0028494&amp;artikel=2">artikel&#xA0;2, eerste lid, onderdelen b, i en
+j</intref> genoemde gebruikers
+tevens:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>windinformatie,
+representatief voor de landingsplek op de landingsbaan,
+en</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>windinformatie,
+representatief voor de vertrekplek op de
+landingsbaan.</al>
+                  </li>
+                </lijst>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Het
+KNMI houdt de ingevolge het eerste en tweede lid beschikbaar gestelde
+luchtvaartmeteorologische inlichtingen gedurende een termijn van
+tenminste 90 dagen
+beschikbaar.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Luchtvaartmeteorologische
+inlichtingen beschikbaar op BES luchtvaartterreinen in gebruik voor
+internationaal, priv&#xE9;- en
+zakenluchtverkeer</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <al>De
+exploitant stelt tijdens de reguliere openstellinguren van BES
+luchtvaartterreinen in gebruik voor internationaal, priv&#xE9;- en
+zakenluchtverkeer, indien buiten de daglichtperiode luchtverkeersklasse
+F van toepassing is, de volgende luchtvaartmeteorologische inlichtingen
+beschikbaar voor de taakuitvoering van de in <intref status="actief" doc="1.0:v:BWBR0028494&amp;artikel=2">artikel&#xA0;2, eerste
+lid</intref>, genoemde
+gebruikers:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de
+actuele windrichting en snelheid op de grond, inclusief belangrijke
+wisselingen, representatief voor de in gebruik zijnde
+baan;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de luchtdruk ten opzichte van
+het gemiddelde zeeniveau, standaard wanneer dat ter plaatse
+gebruikelijk is of anders op verzoek, en de luchtdruk ten opzichte van
+het terrein;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de luchttemperatuur,
+representatief voor de in gebruik zijnde
+baan;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>een aanduiding van belangrijke
+meteorologische omstandigheden in het start- en uitklimgebied, of in
+het naderings- en landingsgebied,
+en</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>de hoeveelheid en hoogte van de
+basis van lage wolken, wanneer een luchtvaartuig een nadering uitvoert
+onder
+instrumentweersomstandigheden.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Verstrekking
+van luchtvaartmeteorologische inlichtingen ten behoeve van de
+voorbereiding van een
+vlucht</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <al>Voor
+de voorbereiding van een vlucht door de in <intref status="actief" doc="1.0:v:BWBR0028494&amp;artikel=2">artikel&#xA0;2, eerste lid</intref>,
+genoemde gebruikers verstrekt het KNMI de luchtvaartmeteorologische
+inlichtingen, bedoeld in artikel&#xA0;2, tweede lid, door middel van
+mondelinge dan wel telefonische briefing en
+consultatie.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Verstrekking
+van luchtvaartmeteorologische inlichtingen ten behoeve van
+vluchtuitvoering, luchtvaarttereinoperaties en het verlenen van
+luchtverkeersdiensten</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Ten
+behoeve van de taakuitvoering van de in <intref status="actief" doc="1.0:v:BWBR0028494&amp;artikel=2">artikel&#xA0;2, eerste lid,
+onderdelen b, i en j</intref>, genoemde gebruikers verstrekt het KNMI
+luchtvaartmeteorologische inlichtingen door direct toegang te verlenen
+tot de meteorologische informatie, bedoeld in <intref status="actief" doc="1.0:v:BWBR0028494&amp;artikel=4">artikel&#xA0;4, eerste
+lid, onderdeel b</intref>, via een voor deze gebruikers toegankelijk
+systeem.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het
+KNMI kan voorwaarden verbinden aan de toegang tot het in het eerste lid
+bedoelde systeem, in verband met de zorg voor een veilige en
+effici&#xEB;nte verstrekking van luchtvaartmeteorologische
+inlichtingen.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Verstrekking
+van luchtvaartmeteorologische inlichtingen ten behoeve van het
+onderzoek van ongevallen en
+incidenten</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+          </kop>
+          <al>Voor
+de taakuitvoering van de in <intref status="actief" doc="1.0:v:BWBR0028494&amp;artikel=2">artikel 2, eerste lid, onderdelen f tot en
+met h</intref>, genoemde gebruikers verstrekt het KNMI op verzoek
+luchtvaartmeteorologische inlichtingen door middel van rapporten met
+als doel een meteorologische reconstructie mogelijk te
+maken.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">9</nr>
+          <titel status="officieel">Luchtvaartmeteorologische
+inlichtingen aan buitenlandse
+organisaties</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+          </kop>
+          <al>Het
+KNMI stelt in overeenstemming met de normen van ICAO en bilaterale
+overeenkomsten luchtvaartmeteorologische inlichtingen als genoemd in
+<intref status="actief" doc="1.0:v:BWBR0028494&amp;artikel=3">artikel&#xA0;3, eerste lid, onderdelen a, d en f</intref>, <intref status="actief" doc="1.0:v:BWBR0028494&amp;artikel=4">artikel 4, eerste
+lid, onderdeel a, en tweede lid, onderdeel a</intref>, beschikbaar aan
+buitenlandse
+organisaties.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">10</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+          </kop>
+          <al>Deze
+regeling treedt in werking op het tijdstip waarop <extref status="actief" doc="1.0:v:BWBR0028249&amp;artikel=I" compleet="nee">artikel I, tweede
+lid, van de Rijkswet wijziging Statuut in verband met de opheffing van
+de Nederlandse Antillen</extref> in werking
+treedt.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+          </kop>
+          <al>Deze
+regeling wordt aangehaald als: Regeling luchtvaartmeteorologische
+inlichtingen BES
+2010.</al>
+        </artikel>
+      </paragraaf>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze
+regeling zal met de toelichting in de Staatscourant worden
+geplaatst.</al>
+      </slotformulering>
+      <ondertekening>De
+<functie>Minister</functie> van <organisatie afkorting="VW">Verkeer en Waterstaat,</organisatie>
+        <naam>
+          <voornaam>C.M.P.S.</voornaam>
+          <achternaam>Eurlings</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

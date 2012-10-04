@@ -1,0 +1,663 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0026601" dtdversie="2.0" id="424489" soort="AMvB">
+  
+  <intitule>Besluit
+van 30 oktober 2009 tot uitvoering van de Implementatiewet EG-richtlijn
+infrastructuur ruimtelijke informatie
+                (Besluit
+Inspire)</intitule>
+  
+  <wet-besluit>
+    <aanhef>
+      <wij>Wij Beatrix, bij
+de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau,
+enz. enz. enz.</wij>
+      <considerans>
+        <considerans.al bevat="voordracht">Op
+de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke
+Ordening en Milieubeheer van 17&#xA0;augustus 2009,
+nr.&#xA0;BJZ2009049464, Directie Bestuurlijke en Juridische
+Zaken;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op de
+<extref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=2" compleet="nee">artikelen 2, eerste lid, onder d</extref>, <extref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=9" compleet="nee">9, tweede lid</extref> en <extref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=10" compleet="nee">10, eerste lid, van
+de Implementatiewet EG-richtlijn infrastructuur ruimtelijke
+informatie</extref>;</considerans.al>
+        <considerans.al bevat="gehoord">De Raad
+van State gehoord (advies van 16&#xA0;september 2009,
+no.&#xA0;W08.09.0327/IV);</considerans.al>
+        <considerans.al bevat="gezien">Gezien het nader rapport van Onze
+Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van
+26&#xA0;oktober 2009,
+nr.&#xA0;BJZ2009056969;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Hebben goedgevonden en
+verstaan:</al>
+      </afkondiging>
+    </aanhef>
+    <wettekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+        </kop>
+        <al>In dit
+besluit en de daarop berustende bepalingen wordt verstaan
+onder:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+          <li>
+            <al>
+              <nadruk type="cur">wet:</nadruk> <extref status="actief" doc="1.0:v:BWBR0026158" compleet="nee">Implementatiewet
+EG-richtlijn infrastructuur ruimtelijke
+informatie</extref>.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+        </kop>
+        <al>De
+thematische categorie&#xEB;n, bedoeld in <extref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=2" compleet="nee">artikel 2, eerste lid, onder
+d, van de wet</extref> zijn opgenomen in <intref status="actief" doc="1.0:v:BWBR0026601&amp;bijlage=I">bijlage I</intref> bij dit
+besluit.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+        </kop>
+        <al>De in
+<extref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=9" compleet="nee">artikel 9, eerste lid, onderdeel a, van de wet</extref> genoemde zoekdiensten
+omvatten in ieder geval de volgende
+zoekcriteria:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>trefwoorden;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>classificering
+van ruimtelijke gegevens en
+diensten;</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>kwaliteit
+en geldigheid van verzamelingen ruimtelijke
+gegevens;</al>
+          </li>
+          <li>
+            <li.nr>d.</li.nr>
+            <al>mate van
+overeenstemming met de uitvoeringsbepalingen bedoeld in artikel 7,
+eerste lid, van de EG-richtlijn infrastructuur ruimtelijke
+informatie;</al>
+          </li>
+          <li>
+            <li.nr>e.</li.nr>
+            <al>geografische
+locatie;</al>
+          </li>
+          <li>
+            <li.nr>f.</li.nr>
+            <al>voorwaarden
+voor de toegang tot en het gebruik van verzamelingen ruimtelijke
+gegevens en diensten met betrekking tot ruimtelijke gegevens,
+en</al>
+          </li>
+          <li>
+            <li.nr>g.</li.nr>
+            <al>de
+overheidsinstanties die verantwoordelijk zijn voor de oprichting, het
+beheer, het onderhoud en de verspreiding van verzamelingen ruimtelijke
+gegevens en diensten met betrekking tot ruimtelijke
+gegevens.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>
+Onverminderd het bepaalde bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0026158" compleet="nee">wet</extref> stelt een Nederlands
+bestuursorgaan de in <intref status="actief" doc="1.0:v:BWBR0026601&amp;bijlage=I">bijlage I</intref> genoemde thematische categorie&#xEB;n
+ruimtelijke gegevens op zodanige wijze beschikbaar dat deze langs
+elektronische weg door andere Nederlandse bestuursorganen kunnen worden
+verkregen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al> Een
+bestuursorgaan is verplicht de gevraagde informatie zo spoedig mogelijk
+maar in ieder geval binnen twintig werkdagen te leveren.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Bij
+ministeri&#xEB;le regeling kunnen nadere regels worden gesteld over het
+voorkomen van praktische belemmeringen op de plaats van gebruik bij het
+uitwisselen van verzamelingen ruimtelijke gegevens en
+diensten.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+        </kop>
+        <al>Dit
+besluit treedt in werking op een bij koninklijk besluit te bepalen
+tijdstip, dat voor de verschillende artikelen of onderdelen daarvan
+verschillend kan worden vastgesteld.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+        </kop>
+        <al>Dit
+besluit wordt aangehaald als: Besluit
+Inspire.</al>
+      </artikel>
+    </wettekst>
+    <wetsluiting status="goed">
+      <slotformulering>
+        <al>Lasten en bevelen
+dat dit besluit met de daarbij behorende nota van toelichting in het
+Staatsblad zal worden geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>&#x2019;s-Gravenhage</plaats>
+          <datum isodatum="2009-10-30">30
+oktober 2009</datum>
+        </dagtekening>
+        <koning>Beatrix</koning>
+      </gegeven>
+      <ondertekening>
+        <functie>De 
+          Minister
+           van
+
+          Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+          
+        </functie>,
+        <naam>
+          <voornaam>J.
+M.</voornaam>
+          <achternaam>Cramer</achternaam>
+        </naam>
+      </ondertekening>
+      <uitgifte>
+        <datum isodatum="2009-11-10">de
+          <nadruk type="cur">tiende</nadruk>
+november 2009</datum>
+        <ondertekening>
+          <functie>De 
+            Minister
+             van
+
+            Justitie
+            
+          </functie>,
+          <naam>
+            <voornaam>E.
+M. H.</voornaam>
+            <achternaam>Hirsch
+Ballin</achternaam>
+          </naam>
+        </ondertekening>
+      </uitgifte>
+    </wetsluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">I</nr><titel status="officieel">Thematische categorie&#xEB;n als bedoeld
+in <extref status="actief" doc="1.0:v:BWBR0026158&amp;artikel=2" compleet="nee">artikel 2, eerste lid, onderdeel d, van de wet</extref></titel>
+      </kop>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Systemen
+voor verwijzing door middel van co&#xF6;rdinaten</nadruk>
+          </titel>
+        </kop>
+        <al>Systemen om aan ruimtelijke informatie een unieke
+reeks co&#xF6;rdinaten (x, y, z) en/of breedte, lengte en hoogte toe te
+kennen, gebaseerd op een horizontaal en verticaal geodetische
+datum.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Geografisch
+rastersysteem</nadruk>
+          </titel>
+        </kop>
+        <al>Geharmoniseerde
+multiresolutieraster met een gemeenschappelijk beginpunt en
+gestandaardiseerde plaats en grootte van de gridcellen.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Geografische
+namen</nadruk>
+          </titel>
+        </kop>
+        <al>Namen van gebieden, regio's,
+plaatsen, steden, voorsteden, gemeenten, nederzettingen, of andere
+geografische of topografische kenmerken van openbaar of historisch
+belang.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Administratieve
+eenheden</nadruk>
+          </titel>
+        </kop>
+        <al>Door administratieve
+grenzen gescheiden lokale, regionale en nationale bestuurlijke eenheden
+die deel uitmaken van gebieden waarover de lidstaten rechtsbevoegdheid
+hebben en/of uitoefenen.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Adressen</nadruk>
+          </titel>
+        </kop>
+        <al>Locatie van onroerende zaken, gebaseerd op
+adresaanduidingen, gewoonlijk aan de hand van de straatnaam, het
+huisnummer en de postcode.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Kadastrale
+percelen</nadruk>
+          </titel>
+        </kop>
+        <al>Gebieden die worden bepaald
+door kadastrale registers of een equivalent daarvan.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Vervoersnetwerken</nadruk>
+          </titel>
+        </kop>
+        <al>Netwerken voor vervoer over de weg, per spoor, in
+de lucht en over het water en de aanverwante infrastructuur met
+inbegrip van koppelingen tussen verschillende netwerken en het
+trans-Europees vervoersnetwerk, zoals gedefinieerd in Beschikking
+nr.&#xA0;1692/96/EG van het Europees Parlement en de Raad van
+23&#xA0;juli 1996 betreffende communautaire richtsnoeren voor de
+ontwikkeling van een trans-Europees vervoersnet en de latere
+herzieningen van deze beschikking.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Hydrografie</nadruk>
+          </titel>
+        </kop>
+
+        <al>Hydrografische elementen, waaronder mariene
+gebieden en alle andere waterlichamen en daarmee verband houdende
+elementen, met inbegrip van stroomgebieden en deelstroomgebieden, in
+voorkomend geval volgens de omschrijvingen vermeld in <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn
+2000/60/EG</extref> van het Europees Parlement en de Raad van 23&#xA0;oktober
+2000 tot vaststelling van een kader voor communautaire maatregelen
+betreffende het waterbeleid en in de vorm van netwerken.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">9</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Beschermde
+gebieden</nadruk>
+          </titel>
+        </kop>
+        <al>Gebieden die worden
+aangeduid of beheerd in het kader van internationale en communautaire
+wetgeving of wetgeving van de lidstaten om specifieke doelstellingen op
+het vlak van milieubescherming te verwezenlijken.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">10</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Hoogte</nadruk>
+          </titel>
+        </kop>
+        <al>Digitale hoogtemodellen voor land-, ijs- en
+oceaanoppervlakken, inclusief landhoogte, bathymetrie en
+kustlijn.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">11</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Bodemgebruik</nadruk>
+          </titel>
+        </kop>
+        <al>Fysieke en biologische bedekking van het
+aardoppervlak, met inbegrip van kunstmatige oppervlakken,
+landbouwgebieden, bossen, halfnatuurlijke gebieden, moeraslanden en
+wateroppervlakken.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">12</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Orthobeeldvorming</nadruk>
+          </titel>
+        </kop>
+        <al>Geogerefereerde beeldgegevens van het
+aardoppervlak, afkomstig van sensoren op satellieten of
+vliegtuigen.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">13</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Geologie</nadruk>
+          </titel>
+        </kop>
+        <al>Geologie, gekenmerkt volgens samenstelling en
+structuur, inclusief vast gesteente, waterhoudende grondlagen en
+geomorfologie.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">14</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Statistische
+eenheden</nadruk>
+          </titel>
+        </kop>
+        <al>Eenheden voor verspreiding
+en gebruik van statistische informatie.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">15</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Gebouwen</nadruk>
+          </titel>
+        </kop>
+        <al>Geografische locatie van gebouwen.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">16</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Bodem</nadruk>
+          </titel>
+        </kop>
+        <al>Bodem en ondergrond, gekenmerkt volgens diepte,
+textuur, structuur en inhoud van deeltjes en organisch materiaal,
+steenachtigheid, erosie en, waar passend, gemiddelde hellingsgraad en
+verwachte wateropslagcapaciteit.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">17</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Landgebruik</nadruk>
+          </titel>
+        </kop>
+        <al>Het grondgebied, gekenmerkt volgens zijn huidige
+en geplande toekomstige functionele dimensie of sociaaleconomische
+bestemming (bv. wonen, industrieel, commercieel, landbouw, bosbouw,
+recreatie).</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">18</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Menselijke
+gezondheid en veiligheid</nadruk>
+          </titel>
+        </kop>
+        <al>De
+geografische spreiding van ziekten (allergie&#xEB;n, kankers,
+ademhalingsziekten, enz.), informatie over de gevolgen voor de
+gezondheid (biomarkers, vruchtbaarheidsdaling, epidemie&#xEB;n) of het
+welzijn van de mens (vermoeidheid, stress, enz.) die direct
+(luchtvervuiling, chemicali&#xEB;n, aantasting van de ozonlaag, lawaai,
+enz.) of indirect (voedsel, genetisch gemodificeerde organismen, enz.)
+samenhangen met de kwaliteit van het milieu.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">19</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Nutsdiensten
+en overheidsdiensten</nadruk>
+          </titel>
+        </kop>
+        <al>Nutsvoorzieningen zoals riolering, afvalbeheer,
+energievoorziening, watervoorziening, bestuurlijke en maatschappelijke
+instanties van de overheid, zoals bestuurlijke overheden, civiele
+bescherming, scholen en ziekenhuizen.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">20</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Milieubewakingsvoorzieningen</nadruk>
+          </titel>
+        </kop>
+        <al>Locatie en werking van
+milieubewakingsvoorzieningen, met inbegrip van waarneming en meting van
+emissies, de staat van de milieucompartimenten en van andere
+ecosysteemparameters (biodiversiteit, ecologische omstandigheden van
+vegetatie, enz.) door of namens de overheidsinstanties.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">21</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Faciliteiten
+voor productie en industrie</nadruk>
+          </titel>
+        </kop>
+        <al>Industri&#xEB;le productievestigingen, met
+inbegrip van installaties die onder <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn 96/61/EG</extref> van de Raad van
+24&#xA0;september 1996 inzake ge&#xEF;ntegreerde preventie en
+bestrijding van verontreiniging vallen en
+wateronttrekkingsfaciliteiten, mijnbouw, opslagplaatsen.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">22</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Faciliteiten
+voor landbouw en aquacultuur</nadruk>
+          </titel>
+        </kop>
+        <al>Landbouwuitrusting en productiefaciliteiten (met
+inbegrip van irrigatiesystemen, broeikassen en stallen).</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">23</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Spreiding
+van de bevolking &#x2013; demografie</nadruk>
+          </titel>
+        </kop>
+        <al>Geografische spreiding van de bevolking, met
+inbegrip van bevolkingskenmerken en activiteitsniveaus, verzameld per
+raster, regio, administratieve eenheid of andere analytische
+eenheid.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">24</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Gebiedsbeheer,
+gebieden waar beperkingen gelden, gereguleerde gebieden en
+rapportage-eenheden</nadruk>
+          </titel>
+        </kop>
+        <al>Gebieden die
+worden beheerd, gereguleerd of gebruikt voor rapportage op
+internationaal, Europees, nationaal, regionaal en lokaal niveau, met
+inbegrip van stortplaatsen, gebieden rond drinkwaterbronnen waar
+beperkingen gelden, nitraatgevoelige gebieden, gereguleerde vaarwegen
+op zee of op grote binnenwateren, gebieden voor het storten van afval,
+gebieden waar geluidsbeperkingen gelden, gebieden met toestemming voor
+exploratie en mijnbouw, stoomgebieden, relevante rapportage-eenheden en
+gebieden voor kustbeheer.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">25</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Gebieden
+met natuurrisico's</nadruk>
+          </titel>
+        </kop>
+        <al>Kwetsbare
+gebieden die worden gekenmerkt door natuurrisico&#x2019;s (alle
+atmosferische, hydrologische, seismische, vulkanische verschijnselen en
+ongecontroleerde branden die door hun locatie, hevigheid en frequentie,
+mogelijk ernstige maatschappelijke gevolgen kunnen hebben), zoals
+overstromingen, aardverschuivingen en -verzakkingen, lawines,
+bosbranden, aardbevingen en vulkaanuitbarstingen.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">26</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Atmosferische
+omstandigheden</nadruk>
+          </titel>
+        </kop>
+        <al>Fysische
+omstandigheden in de atmosfeer, met inbegrip van ruimtelijke gegevens
+die gebaseerd zijn op metingen, modellen of een combinatie daarvan, en
+met inbegrip van meetlocaties.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">27</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Meteorologische
+geografische kenmerken</nadruk>
+          </titel>
+        </kop>
+        <al>Weersomstandigheden en de meting daarvan;
+neerslag, temperatuur, verdamping, windsnelheid en
+windrichting.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">28</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Oceanografische
+geografische kenmerken</nadruk>
+          </titel>
+        </kop>
+        <al>Fysische
+kenmerken van oceanen (stroming, zoutgehalte, golfhoogte,
+enz.).</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">29</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Zeegebieden</nadruk>
+          </titel>
+        </kop>
+        <al>Fysische kenmerken van zee&#xEB;n en
+zoutwateroppervlakken, ingedeeld in regio&#x2019;s en subregio&#x2019;s
+met gemeenschappelijke kenmerken.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">30</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Biogeografische
+gebieden</nadruk>
+          </titel>
+        </kop>
+        <al>Gebieden met betrekkelijk
+homogene ecologische omstandigheden die gemeenschappelijke kenmerken
+vertonen.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">31</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Habitats
+en biotopen</nadruk>
+          </titel>
+        </kop>
+        <al>Geografische gebieden
+die worden gekenmerkt door specifieke ecologische omstandigheden,
+processen, structuur en (leven ondersteunende) functies die fysiek de
+daar levende organismen ondersteunen, met inbegrip van volledig
+natuurlijke of semi-natuurlijke land- en wateroppervlakken,
+onderscheiden naar geografische, abiotische en biotische
+kenmerken.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">32</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Spreiding
+van soorten</nadruk>
+          </titel>
+        </kop>
+        <al>Geografische spreiding
+van dier- en plantensoorten per raster, regio, administratieve eenheid
+of andere analytische eenheid.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">33</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Energiebronnen</nadruk>
+          </titel>
+        </kop>
+        <al>Energiebronnen met inbegrip van koolwaterstof,
+waterkracht, bio-energie, zon, wind enz., waar passend met inbegrip van
+diepte/hoogte-informatie over de omvang van de bron.</al>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">34</nr>
+          <titel status="officieel">
+            <nadruk type="cur">Minerale
+bronnen</nadruk>
+          </titel>
+        </kop>
+        <al>Minerale bronnen met
+inbegrip van metaalertsen, industri&#xEB;le mineralen enz., waar
+passend met inbegrip van diepte/hoogte-informatie over de omvang van de
+bron.</al>
+      </divisie>
+    </bijlage>
+  </wet-besluit>
+</wetgeving>
+  	

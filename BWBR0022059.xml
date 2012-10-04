@@ -1,0 +1,472 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0022059" dtdversie="2.0" id="379069" soort="beleidsregel">
+  
+  <intitule>Richtlijn voor strafvordering diefstal (motor-) voertuigen</intitule>
+  
+  <circulaire>
+    
+    <circulaire-tekst>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Beschrijving</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Deze richtlijn ziet op de diefstal van diverse motorvoertuigen en/of aanhangers, opleggers of caravans.</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Aard van de richtlijn</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Commuun</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Basisdelicten</titel>
+        </kop>
+        <tekst status="goed">
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>Diefstal vrachtwagen/trekker en/of aanhanger/oplegger, autobus</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>Diefstal (bestel-/personen-)auto en/of caravan, motor</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>Diefstal lichte aanhangwagen</al>
+            </li>
+          </lijst>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Wettekst</titel>
+        </kop>
+        <tekst status="goed">
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al><extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=310" compleet="nee">Wetboek van Strafrecht art. 310</extref></al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al><extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=311" compleet="nee">Wetboek van Strafrecht art. 311</extref></al>
+            </li>
+          </lijst>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Basisdelict</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Diefstal vrachtwagen/trekker en/of aanhanger/oplegger, autobus</titel>
+          </kop>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Beschrijving</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Dit basisdelict ziet op de diefstal van een vrachtwagen/trekker en/of aanhanger/oplegger en op de diefstal van een autobus. Door de waarde van dergelijke voertuigen dient een dergelijke diefstal zwaarder bestraft te worden dan die van bijvoorbeeld een personenauto.</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Toepasselijk kader</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Commuun en verkeer</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Basispunten</titel>
+            </kop>
+            <tekst status="goed">
+              <al>49 punten</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Basisfactoren</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Economische waarde van de (beoogde) goederen die zich in het voertuig bevinden: :</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Schijf 1: f 0 t/m f&#xA0;2600: bedrag gedeeld door 100 pt</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Schijf 2: het gedeelte tussen f&#xA0;2600 en f 10000: bedrag gedeeld door 500 pt</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Schijf 3: het gedeelte boven f&#xA0;10000: bedrag gedeeld door 1000 pt</al>
+                </li>
+              </lijst>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Delictspecifieke factoren</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Medeplegen</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Er is geen sprake van medeplegen: +0&#xA0;%</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Er is sprake van medeplegen: +25&#xA0;%</al>
+                </li>
+              </lijst>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Wettelijke factoren</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Medeplichtigheid</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Dader: +0&#xA0;%</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Medeplichtige: -33&#xA0;%</al>
+                </li>
+              </lijst>
+              <al>Poging</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Voltooid delict: +0&#xA0;%</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Poging tot plegen: -33&#xA0;%</al>
+                </li>
+              </lijst>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Recidiveregeling</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Mate van recidive (5 jaar)</al>
+              <table><tgroup align="left" char="" charoff="50" cols="2"><colspec colname="col1" colnum="1" colwidth="*"/><colspec colname="col2" colnum="2" colwidth="*"/><tbody valign="top"><row><entry colname="col1" morerows="0" rotate="0"><al>&#x2022;  Geen recidive</al></entry><entry colname="col2" morerows="0" rotate="0"><al>+0&#xA0;%</al></entry></row><row><entry colname="col1" morerows="0" rotate="0"><al>&#x2013; 1 maal</al></entry><entry colname="col2" morerows="0" rotate="0"><al>+10 %</al></entry></row><row><entry colname="col1" morerows="0" rotate="0"><al>&#x2013; Meermalen</al></entry><entry colname="col2" morerows="0" rotate="0"><al>+20 %</al></entry></row><row><entry colname="col1" morerows="0" rotate="0"/><entry colname="col2" morerows="0" rotate="0"><al>+dagvaarden</al></entry></row></tbody></tgroup></table></tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Draagkracht</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Geen</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Speciale regelingen</titel>
+            </kop>
+            <tekst status="goed">
+              <al>&#x2013; Schaderegeling</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Bijzonderheden</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Het feit of sprake is van verbreking dient geen invloed te hebben op de beoordeling. De impact van de diefstal is voor het slachtoffer niet toegenomen door die verbreking.</al>
+            </tekst>
+          </circulaire.divisie>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Basisdelict</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Diefstal (bestel-/personen-)auto en/of caravan, motor</titel>
+          </kop>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Beschrijving</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Dit basisdelict heeft betrekking op de diefstal van een bestel- of personenauto en/of een caravan en op de diefstal van een motor. Deze delicten worden gezien als vergelijkbaar in ernst en worden derhalve op eenzelfde wijze beoordeeld.</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Toepasselijk kader</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Commuun en verkeer</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Basispunten</titel>
+            </kop>
+            <tekst status="goed">
+              <al>35 punten</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Basisfactoren</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Economische waarde van de (beoogde) goederen die zich in het voertuig bevinden: :</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Schijf 1: f&#xA0;0 t/m f&#xA0;2600: bedrag gedeeld door 100 pt</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Schijf 2: het gedeelte tussen f&#xA0;2600 en f&#xA0;10000: bedrag gedeeld door 500 pt</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Schijf 3: het gedeelte boven f&#xA0;10000: bedrag gedeeld door 1000 pt</al>
+                </li>
+              </lijst>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Delictspecifieke factoren</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Medeplegen</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Er is geen sprake van medeplegen: +0&#xA0;%</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Er is sprake van medeplegen: +25&#xA0;%</al>
+                </li>
+              </lijst>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Wettelijke factoren</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Medeplichtigheid</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Dader: +0&#xA0;%</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Medeplichtige: -33&#xA0;%</al>
+                </li>
+              </lijst>
+              <al>Poging</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Voltooid delict: +0&#xA0;%</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Poging tot plegen: -33&#xA0;%</al>
+                </li>
+              </lijst>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Recidiveregeling</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Mate van recidive (5 jaar)</al>
+              <table><tgroup align="left" char="" charoff="50" cols="2"><colspec colname="col1" colnum="1" colwidth="*"/><colspec colname="col2" colnum="2" colwidth="*"/><tbody valign="top"><row><entry colname="col1" morerows="0" rotate="0"><al>&#x2022;  Geen recidive</al></entry><entry colname="col2" morerows="0" rotate="0"><al>+0&#xA0;%</al></entry></row><row><entry colname="col1" morerows="0" rotate="0"><al>&#x2013; 1 maal</al></entry><entry colname="col2" morerows="0" rotate="0"><al>+10 %</al></entry></row><row><entry colname="col1" morerows="0" rotate="0"><al>&#x2013; Meermalen</al></entry><entry colname="col2" morerows="0" rotate="0"><al>+20 %</al></entry></row><row><entry colname="col1" morerows="0" rotate="0"/><entry colname="col2" morerows="0" rotate="0"><al>+dagvaarden</al></entry></row></tbody></tgroup></table></tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Draagkracht</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Geen</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Speciale regelingen</titel>
+            </kop>
+            <tekst status="goed">
+              <al>&#x2013; Schaderegeling</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Bijzonderheden</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Het feit of sprake is van verbreking dient geen invloed te hebben op de beoordeling. De impact van de diefstal is voor het slachtoffer niet toegenomen door die verbreking.</al>
+            </tekst>
+          </circulaire.divisie>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Basisdelict</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Diefstal lichte aanhangwagen</titel>
+          </kop>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Beschrijving</titel>
+            </kop>
+            <tekst status="goed">
+              <al>De diefstal van een lichte aanhangwagen, zoals bedoeld achter een personenauto of bestelauto, is van betrekkelijk geringe omvang in vergelijking met de andere in deze richtlijn genoemde basisdelicten. Indien een dergelijke aanhanger in combinatie met een personenauto of bestelauto wordt gestolen, dient slechts het zwaarste van beide delicten tenlastegelegd te worden.</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Toepasselijk kader</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Commuun en verkeer</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Basispunten</titel>
+            </kop>
+            <tekst status="goed">
+              <al>15 punten</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Basisfactoren</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Economische waarde van de (beoogde) goederen die zich in het voertuig bevinden: :</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Schijf 1: f&#xA0;0 t/m f&#xA0;2600: bedrag gedeeld door 100 pt</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Schijf 2: het gedeelte tussen f&#xA0;2600 en f&#xA0;10000: bedrag gedeeld door 500 pt</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Schijf 3: het gedeelte boven f&#xA0;10000: bedrag gedeeld door 1000 pt</al>
+                </li>
+              </lijst>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Delictspecifieke factoren</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Medeplegen</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Er is geen sprake van medeplegen: +0&#xA0;%</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Er is sprake van medeplegen: +25&#xA0;%</al>
+                </li>
+              </lijst>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Wettelijke factoren</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Medeplichtigheid</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Dader: +0&#xA0;%</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Medeplichtige: -33&#xA0;%</al>
+                </li>
+              </lijst>
+              <al>Poging</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Voltooid delict: +0&#xA0;%</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>Poging tot plegen: -33&#xA0;%</al>
+                </li>
+              </lijst>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Recidiveregeling</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Mate van recidive (5 jaar)</al>
+              <table><tgroup align="left" char="" charoff="50" cols="2"><colspec colname="col1" colnum="1" colwidth="*"/><colspec colname="col2" colnum="2" colwidth="*"/><tbody valign="top"><row><entry colname="col1" morerows="0" rotate="0"><al>&#x2022;  Geen recidive</al></entry><entry colname="col2" morerows="0" rotate="0"><al>+0&#xA0;%</al></entry></row><row><entry colname="col1" morerows="0" rotate="0"><al>&#x2013; 1 maal</al></entry><entry colname="col2" morerows="0" rotate="0"><al>+10 %</al></entry></row><row><entry colname="col1" morerows="0" rotate="0"><al>&#x2013; Meermalen</al></entry><entry colname="col2" morerows="0" rotate="0"><al>+20 %</al></entry></row><row><entry colname="col1" morerows="0" rotate="0"/><entry colname="col2" morerows="0" rotate="0"><al>+dagvaarden</al></entry></row></tbody></tgroup></table></tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Draagkracht</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Geen</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Speciale regelingen</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Schaderegeling</al>
+            </tekst>
+          </circulaire.divisie>
+          <circulaire.divisie opmaak="default" status="goed">
+            <kop>
+              <titel status="officieel">Bijzonderheden</titel>
+            </kop>
+            <tekst status="goed">
+              <al>Het feit of sprake is van verbreking dient geen invloed te hebben op de beoordeling. De impact van de diefstal is voor het slachtoffer niet toegenomen door die verbreking.</al>
+            </tekst>
+          </circulaire.divisie>
+        </circulaire.divisie>
+      </circulaire.divisie>
+    </circulaire-tekst>
+  </circulaire>
+</wetgeving>
+  	

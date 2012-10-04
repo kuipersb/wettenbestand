@@ -1,0 +1,2661 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0005775" dtdversie="2.0" id="16039" soort="AMvB" xml:lang="nl">
+    
+    <intitule>Besluit van 18 december 1992, houdende regelen ter bevordering
+    van de veiligheid en de regelmaat van het luchtverkeer</intitule>
+    
+    <wet-besluit>
+        <aanhef>
+    <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden,
+        Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+    <considerans>
+        <considerans.al>Op de voordracht van Onze Minister van Verkeer
+            en Waterstaat van 17 juli 1992, nr. JBZ/L 92.007482,
+            Rijksluchtvaartdienst, gedaan mede namens Onze Minister van Defensie;</considerans.al>
+        <considerans.al>Overwegende dat het in verband met het tot stand
+            komen van de <extref status="actief" doc="1.0:v:BWBR0005555" compleet="nee">Wet Luchtverkeer</extref>
+                (<nadruk type="cur">Stb.</nadruk> 1992, 368)
+            noodzakelijk is de regels met betrekking tot het
+            luchtverkeer aan te passen en opnieuw vast te stellen;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op de artikelen 7, 13 en 14 van de Wet Luchtverkeer;</considerans.al>
+        <considerans.al>De Raad van State gehoord (advies van 1 december
+            1992, nr. W09.92.0347);</considerans.al>
+        <considerans.al>Gezien het nader rapport van Onze Minister van
+            Verkeer en Waterstaat, mede namens Onze Minister van
+            Defensie van 11 december 1992, nr. JBZ/L92.013025, Rijksluchtvaartdienst;</considerans.al>
+    </considerans>
+    <afkondiging>
+        <al>Hebben goedgevonden en verstaan:</al>
+    </afkondiging>
+</aanhef>
+        <wettekst>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr status="officieel">I</nr>
+        <titel status="officieel">Algemene bepalingen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">1</nr>
+        <titel status="officieel">Begripsbepalingen</titel>
+    </kop>
+    <al>In dit besluit en de daarop berustende bepalingen wordt verstaan
+        onder: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+            
+            <al>
+                <nadruk type="cur">ACAS: Airborne Collision Avoidance
+                System</nadruk>, een systeem aan boord van een
+                luchtvaartuig, werkend met signalen van transponders en
+                onafhankelijk van installaties op de grond, dat de
+                gezagvoerder advies geeft over mogelijk conflicterende
+                luchtvaartuigen die zijn uitgerust met een transponder;</al>
+        </li>
+        <li>
+            
+            <al>alarmering: een dienstverlening met het doel de
+                betrokken instanties te waarschuwen aangaande
+                luchtvaartuigen die hulp behoeven in de vorm van
+                opsporing en redding en deze instanties bij te staan
+                voor zover dat vereist is;</al>
+        </li>
+        <li>
+            
+            <al>algemeen luchtverkeersleidingsgebied: een
+                luchtverkeersleidingsgebied dat zich in opwaartse
+                richting uitstrekt vanaf een vastgestelde grens boven
+                het aardoppervlak;</al>
+        </li>
+        <li><al>baanwachtpositie: een gemarkeerde positie
+waar voertuigen en taxi&#xEB;nde luchtvaartuigen verplicht zijn te
+stoppen met als doel een baan, een hindernisbeperkend vlak of een
+ILS/MLS-kritisch of -gevoelig gebied te beschermen;</al></li><li>
+            
+            <al>bijzondere VFR-vlucht: een VFR-vlucht, die
+                overeenkomstig een klaring van een
+                verlener
+van
+luchtverkeersleidingsdiensten wordt uitgevoerd binnen een
+                plaatselijk luchtverkeersleidingsgebied, onder
+                weersomstandigheden die slechter zijn dan zichtweersomstandigheden;</al>
+        </li>
+        <li>
+            
+            <al>daglichtperiode: het gedeelte van het etmaal tussen
+                vijftien minuten voor zonsopgang en vijftien minuten na
+                zonsondergang zoals geldt voor de positie 52&#xB0;00' N
+                en 05&#xB0;00' O op zeeniveau;</al>
+        </li>
+        <li>
+            
+            <al>gecontroleerde
+luchthaven: een luchthaven waar
+luchtverkeersleiding wordt gegeven aan
+luchthavenverkeer;</al>
+        </li>
+        <li>
+            
+            <al>gecontroleerde vlucht: een vlucht waarvoor een klaring
+                is vereist;</al>
+        </li>
+        <li>
+            
+            <al>geldend vliegplan: het ingediende vliegplan met inbegrip
+                van eventuele wijzigingen veroorzaakt door daarop
+                verstrekte klaringen;</al>
+        </li>
+        <li>
+            
+            <al>grondzicht: het zicht op een luchthaven, zoals
+                bepaald door een bevoegde waarnemer of met daartoe
+                bestemde apparatuur;</al>
+        </li>
+        <li><al>helikopter:
+gemotoriseerd luchtvaartuig met rotorbladen, zwaarder dan lucht, dat
+hoofdzakelijk in de lucht kan worden gehouden door
+a&#xEB;rodynamische reactiekrachten op zijn rotorbladen;</al></li><li>
+            
+            <al>IFR-vlucht: een vlucht waarop, naast de in
+                    <intref status="actief" doc="1.0:v:BWBR0005775&amp;afdeling=2">hoofdstuk
+                III, afdeling 2</intref>,
+                vastgestelde algemene vliegvoorschriften, tevens de in
+                    <intref status="actief" doc="1.0:v:BWBR0005775&amp;afdeling=4">afdeling 4</intref>
+                vastgestelde instrumentvliegvoorschriften van toepassing zijn;</al>
+        </li>
+        <li>
+            
+            <al>inhalen: een ander luchtvaartuig van achteren naderen
+                uit een richting, die een hoek maakt van minder dan 70&#xB0;
+                met het vlak van symmetrie van dit luchtvaartuig;</al>
+        </li>
+        <li><al>instrumentnaderingsprocedure: een serie van vooraf bepaalde
+manoeuvres met behulp van navigatie-installaties waarbij precies
+beschreven bescherming wordt geboden tegen obstakels vanaf een
+vastgestelde positie waar de nadering begint of vanaf het begin van een
+gedefinieerde aankomstroute, naar een punt waarvandaan de landing kan
+worden afgerond en daarna, wanneer een landing niet is afgerond, naar
+een positie waar obstakelvrije ruimte wordt geboden aan luchtvaartuigen
+in een wachtprocedure of kruisvlucht;</al> </li><li>
+            
+            <al>instrumentweersomstandigheden: weersomstandigheden, die
+                zijn uitgedrukt in termen van zicht, afstand tot wolken
+                en wolkenbasis en die minder zijn dan de voorgeschreven
+                minimum waarden voor zichtweersomstandigheden;</al>
+        </li>
+        <li>
+            
+            <al>kruishoogte: een vlieghoogte, die tijdens een
+                aanzienlijk deel van een vlucht wordt gehandhaafd;</al>
+        </li>
+        <li>
+            
+            <al>landingsterrein: het gedeelte van een luchthaven,
+                met uitzondering van platforms, dat bestemd is voor het
+                opstijgen, het landen en het taxi&#xEB;n van luchtvaartuigen;</al>
+        </li>
+        <li><al>luchtschip: luchtvaartuig, lichter dan lucht, dat is voorzien van
+een voortstuwingsinrichting en een besturingsinrichting;</al></li><li>
+            
+            <al>luchthavenverkeer: alle
+verkeer op het landingsterrein en alle luchtvaartuigen die zich
+bevinden in het luchtverkeerscircuit van de betrokken luchthaven dan
+wel dit circuit binnen vliegen of
+verlaten;</al>
+        </li>
+        <li>
+            
+            <al>luchtverkeersadvisering: adviezen die binnen het
+                luchtverkeersdienstverleningsgebied klasse F worden
+                gegeven met het doel, voor zover uitvoerbaar, separatie
+                te verzekeren tussen vluchten die worden uitgevoerd
+                volgens IFR-vliegplan;</al>
+        </li>
+        <li>
+            
+            <al>luchtverkeerscircuit: de voorgeschreven vliegbaan voor
+                luchtvaartuigen, die moet worden gevolgd in de nabijheid
+                van een luchthaven;</al>
+        </li>
+        
+        <li>
+            
+            <al>luchtverkeersdienstverleningsgebieden: delen van het
+                luchtruim met vastgestelde begrenzingen, waarvoor is
+                vastgesteld welke soorten vluchten erin mogen worden
+                uitgevoerd en welke soorten luchtverkeersdiensten
+er worden verleend, alsmede welke regels gelden voor de vluchtuitvoering;</al>
+        </li>
+        <li>
+            
+            <al>luchtverkeersinformatie: informatie verstrekt door een
+                verlener van
+luchtverkeersdiensten met het doel bestuurders opmerkzaam
+                te maken op ander, bekend of waargenomen, luchtverkeer
+                dat mogelijkerwijs in de nabijheid van hun positie of
+                voorgenomen vliegroute verkeert, alsmede bestuurders
+                behulpzaam te zijn bij het vermijden van botsingen;</al>
+        </li>
+        <li>
+            
+            <al>luchtverkeersleidingsgebied: een
+                luchtverkeersdienstverleningsgebied waarbinnen
+                luchtverkeersleidingsdiensten worden
+verleend aan IFR-vluchten, en
+                aan VFR-vluchten in overeenstemming met de geldende
+                luchtruim classificatie;</al>
+        </li>
+        <li>
+            
+            <al>luchtverkeersontwijkadvies: een door een
+                verlener van
+luchtverkeersdiensten verstrekt advies tot het uitvoeren
+                van bepaalde manoeuvres, met het doel bestuurders
+                behulpzaam te zijn bij het vermijden van botsingen;</al>
+        </li>
+        <li>
+            
+            <al>luchtverkeersroute: een bepaalde route, vastgesteld om
+                de verkeersstroom te kanaliseren, waar dat nodig is voor
+                het verlenen van
+luchtverkeersdiensten;</al>
+        </li>
+        <li>
+            
+            <al>meldingspunt: de geografisch bepaalde plaats, ten
+                opzichte waarvan de positie van een luchtvaartuig kan
+                worden gemeld;</al>
+        </li>
+        <li><al>MLA: MLA als bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0023922&amp;artikel=1" compleet="nee">artikel 1 van het Besluit
+luchtvaartuigen 2008</extref>;</al></li><li>
+                           <al>
+                              <nadruk type="cur">MLH:</nadruk> MLH
+als bedoeld in <extref status="actief" doc="1.0:v:BWBR0023922&amp;artikel=1" compleet="nee">artikel 1 van het Besluit luchtvaartuigen
+2008</extref>;</al>
+                        </li><li><al>modelraket:
+modelraket als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020593&amp;artikel=1" compleet="nee">artikel 1 van de Regeling modelraketten</extref>;</al></li><li><al>motorzweefvliegtuig: vliegtuig dat bij uitgeschakelde motor de
+eigenschappen heeft van een zweefvliegtuig;</al></li><li>
+            
+            <al>naderingsluchtverkeersleidingsgebied: een algemeen
+                luchtverkeersleidingsgebied, dat doorgaans is ingesteld
+                bij het kruispunt van luchtverkeersroutes gelegen in de
+                nabijheid van &#xE9;&#xE9;n of meer luchthavens;</al>
+        </li>
+        <li>
+            
+            <al>omschakelpunt: het punt waar een luchtvaartuig tijdens
+                een vlucht langs een gedeelte van een
+                luchtverkeersroute, dat is bepaald met betrekking tot
+                rondomstralende radiobakens werkend op zeer hoge
+                frequenties, verwacht wordt - voor de primaire navigatie
+                - om te schakelen van het baken achter het luchtvaartuig
+                naar het volgende baken v&#xF3;&#xF3;r het luchtvaartuig;</al>
+        </li>
+        <li>
+            
+            <al>Onze Minister: Onze Minister van Verkeer en Waterstaat
+                voor wat het burgerluchtverkeer en de algemene
+                verkeersveiligheid in de lucht betreft en Onze Minister
+                van Defensie voor wat het militaire luchtverkeer betreft;</al>
+        </li>
+        <li>
+            
+            <al>plaatselijk luchtverkeersleidingsgebied: een
+                luchtverkeersleidingsgebied, dat zich verticaal
+                uitstrekt vanaf het aardoppervlak tot aan een
+                vastgestelde bovengrens;</al>
+        </li>
+        <li>
+            
+            <al>platform: een gedeelte van een luchthaven, dat
+                bestemd is voor het opstellen van luchtvaartuigen, met
+                het doel passagiers te laten in- of uitstappen, post of
+                vracht te laden of te lossen, brandstof in te nemen, te
+                parkeren of onderhoudswerkzaamheden te verrichten;</al>
+        </li>
+        <li>
+            
+            <al>
+                <nadruk type="cur">RA: Resolution Advisory</nadruk>, een
+                door ACAS aan de gezagvoerder gegeven advies om zodanig
+                te manoeuvreren dat een botsing wordt voorkomen;</al>
+        </li>
+        <li><al>schermvliegtuig:
+zweeftoestel zonder starre hoofdstructuur dat kan worden gedragen en
+slechts gestart en geland kan worden door gebruik te maken van de benen
+van de bestuurder;</al></li><li><al>schermzweeftoestel: ongemotoriseerd
+schermvliegtuig;</al></li>
+        <li>
+            
+            <al>taxi&#xEB;n: het op eigen kracht voortbewegen van een
+                luchtvaartuig op een luchthaven, met uitzondering
+                van de start en landing, maar met inbegrip van het
+                voortbewegen van een helikopter boven een luchthaven binnen een hoogteband waar
+                grond-effect wordt ondervonden en met een snelheid die
+                vergelijkbaar is met die van andere taxi&#xEB;nde luchtvaartuigen;</al>
+        </li>
+        <li><al>TMG: motorzweefvliegtuig met een integraal
+gemonteerde niet intrekbare motor en een niet intrekbare propeller, dat
+in staat is om op eigen kracht op te stijgen en te klimmen (Touring
+Motor Glider);</al></li><li>
+            
+            <al>
+                <nadruk type="cur">transponder</nadruk>: een
+                radarbeantwoordingssysteem met informatie over de
+                identiteit en eventueel de hoogte van het luchtvaartuig;</al>
+        </li><li>
+            
+            <al>uitwijkhaven: een luchthaven waarheen een vlucht
+                kan worden vervolgd indien moet worden afgezien van
+                landing op de luchthaven van bestemming;</al>
+        </li>
+        <li>
+            
+            <al>VFR-vlucht: een vlucht waarop, naast de in
+                    <intref status="actief" doc="1.0:v:BWBR0005775&amp;afdeling=2">hoofdstuk
+                III, afdeling 2</intref>,
+                vastgestelde algemene vliegvoorschriften, tevens de in
+                    <intref status="actief" doc="1.0:v:BWBR0005775&amp;afdeling=3">afdeling 3</intref>
+                vastgestelde zichtvliegvoorschriften van toepassing zijn;</al>
+        </li>
+        <li>
+            
+            <al>vlieghoogte: de hoogte van een zich in de lucht
+                bevindend luchtvaartuig uitgedrukt in: </al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                    <li.nr>1.</li.nr>
+                    <al>hoogte boven het aardoppervlak</al>
+                </li>
+                <li>
+                    <li.nr>2.</li.nr>
+                    <al>hoogte boven gemiddeld zeeniveau of</al>
+                </li>
+                <li>
+                    <li.nr>3.</li.nr>
+                    <al>vliegniveau;</al>
+                </li>
+            </lijst>
+        </li>
+        <li>
+            
+            <al>vliegniveau: een vlak van constante atmosferische druk
+                in relatie tot het referentiedrukvlak van 1013.2
+                hectopascals, dat van soortgelijke vlakken is gescheiden
+                door bepaalde drukintervallen;</al>
+        </li>
+        
+        <li><al>vliegtuig: gemotoriseerd luchtvaartuig met
+vaste vleugels, zwaarder dan lucht, dat hoofdzakelijk in de lucht
+gehouden kan worden door a&#xEB;rodynamische reactiekrachten op zijn
+vleugels;</al></li><li>
+            
+            <al>vliegzicht: het zicht recht vooruit waargenomen vanuit
+                de stuurhut van een luchtvaartuig tijdens de vlucht;</al>
+        </li>
+        <li>
+            
+            <al>vluchtinformatiegebied: een luchtruimte met vastgestelde
+                begrenzingen, waarbinnen inlichtingen tijdens de vlucht
+                worden verstrekt en alarmering wordt verzorgd;</al>
+        </li>
+        <li>
+            
+            <al>vluchtinformatieverstrekking: een dienstverlening met
+                het doel inlichtingen te geven tijdens de vlucht ten
+                behoeve van een veilige en doelmatige vluchtuitvoering;</al>
+        </li>
+        <li><al>vrije ballon: luchtvaartuig, lichter dan lucht, dat
+niet voorzien is van een voortstuwingsinrichting en is ingericht en
+bestemd om ten minste &#xE9;&#xE9;n persoon te vervoeren;</al></li><li>
+            
+            <al>wolkenbasis: de hoogte boven grond of water van de basis
+                van de laagste wolkenlaag beneden 6000 meter (20 000
+                voet) die meer dan de helft van de hemel bedekt;</al>
+        </li>
+        
+        <li><al>zeilvliegtuig: zweeftoestel met een starre hoofdstructuur, dat kan
+worden gedragen en slechts gestart en geland kan worden door gebruik te
+maken van de benen van de bestuurder;</al></li><li>
+            
+            <al>zichtweersomstandigheden: weersomstandigheden, die zijn
+                uitgedrukt in termen van zicht, afstand tot wolken en
+                wolkenbasis, die gelijk zijn aan - of beter dan -
+                voorgeschreven minimum waarden.</al>
+        </li>
+    <li><al>zweeftoestel:
+luchtvaartuig, niet zijnde TMG, zwaarder dan lucht, dat hoofdzakelijk
+in de lucht kan worden gehouden door a&#xEB;rodynamische
+reactiekrachten en waarvan de vrije vlucht niet afhankelijk is van een
+motor;</al> </li><li><al>zweefvliegtuig: zweeftoestel met een vaste
+vleugel.</al></li></lijst>
+</artikel>
+    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">1a</nr><titel status="officieel">Bijzondere
+luchtvaartuigen</titel> </kop><lid><lidnr status="officieel">1</lidnr><al>De <extref status="actief" doc="1.0:v:BWBR0005555&amp;titeldeel=5.1" compleet="nee">titels 5.1</extref>
+en <extref status="actief" doc="1.0:v:BWBR0005555&amp;titeldeel=5.2" compleet="nee">5.2 van de Wet luchtvaart</extref> en dit besluit, met uitzondering van het
+tweede en derde lid en de <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=20">artikelen 20</intref> en <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=63">63</intref>, zijn niet van toepassing
+op de volgende
+luchtvaartuigen:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>kabelvlieger, zijnde een toestel, zwaarder dan
+lucht en niet voorzien van een voortstuwingsinrichting, dat door middel
+van (een) ankerkabel(s) of lijn(en) is verbonden met het
+aardoppervlak;</al></li><li> <li.nr>b.</li.nr><al>kleine kabelballon,
+zijnde een onbemande ballon, die door middel van een ankerkabel of lijn
+is verbonden met het aardoppervlak en die op zeeniveau in de
+internationale-standaard-atmosfeer in geheel gevulde toestand een
+diameter van ten hoogste 2 meter of een inhoud van ten hoogste 4
+kubieke meter heeft, dan wel een samenstel van ballonnen waarvan de
+gezamenlijke diameter of inhoud deze waarde niet te boven
+gaat;</al></li><li> <li.nr>c.</li.nr><al>licht onbemand luchtvaartuig,
+niet zijnde een modelluchtvaartuig of onbemande vrije ballon, zijnde
+een luchtvaartuig waarvan de totale startmassa niet meer dan 150
+kilogram bedraagt en de maximale snelheid lager is dan 129,64 km/u (70
+knopen);</al></li><li> <li.nr>d.</li.nr><al>modelluchtvaartuig, zijnde
+een luchtvaartuig van geringe afmeting, niet in staat een mens te
+dragen, waarvan de totale startmassa niet meer dan 25 kilogram
+bedraagt;</al></li><li> <li.nr>e.</li.nr><al>onbemande vrije ballon,
+zijnde een vrije ballon die niet is ingericht of bestemd om personen te
+vervoeren;</al></li><li> <li.nr>f.</li.nr><al>valscherm, zijnde een
+scherm dat dient om de daalsnelheid van een persoon zodanig te beperken
+dat deze veilig het aardoppervlak kan bereiken;</al></li><li>
+<li.nr>g.</li.nr><al>valschermzweeftoestel, zijnde een toestel,
+zwaarder dan lucht en niet voorzien van een voortstuwingsinrichting, in
+de vorm van een scherm met &#xE9;&#xE9;n of twee harnassen, dat in
+de lucht wordt gebracht en voortbewogen met een voer- of vaartuig
+waarmee het dan is verbonden met &#xE9;&#xE9;n of meer
+lijnen.</al></li></lijst></lid><lid> <lidnr status="officieel">2</lidnr><al>In afwijking
+van het eerste lid, zijn de <extref status="actief" doc="1.0:v:BWBR0005555&amp;artikel=5.3" compleet="nee">artikelen 5.3</extref> en <extref status="actief" doc="1.0:v:BWBR0005555&amp;artikel=5.5" compleet="nee">5.5 van de
+Wet luchtvaart</extref> van toepassing
+op de luchtvaartuigen, genoemd in het eerste lid.</al></lid><lid>
+<lidnr status="officieel">3</lidnr><al>Bij regeling van Onze Minister worden regels
+gesteld ten aanzien van de deelname aan het luchtverkeer met een
+luchtvaartuig als genoemd in het eerste
+lid.</al></lid></artikel><artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">1b</nr>
+                        <titel status="officieel">Wettelijke
+grondslag</titel>
+                     </kop>
+                     <al>Dit besluit berust op de
+<extref status="actief" doc="1.0:v:BWBR0005555&amp;artikel=1.2" compleet="nee">artikelen 1.2, tweede en derde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0005555&amp;artikel=5.5" compleet="nee">5.5, eerste en tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0005555&amp;artikel=5.10" compleet="nee">5.10,
+derde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0005555&amp;artikel=5.11" compleet="nee">5.11, eerste lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0005555&amp;artikel=5.12" compleet="nee">5.12, tweede lid, van de Wet
+luchtvaart</extref>.</al>
+                  </artikel><artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>2</nr>
+        <titel status="officieel">Bevoegdheid LVNL</titel>
+    </kop>
+    <al>Voor zover de LVNL beslissingen neemt ingevolge de bij of
+        krachtens dit besluit verleende bevoegdheden die mede betrekking
+        hebben op het militaire luchtverkeer handelt zij in
+        overeenstemming met Onze Minister van Defensie.</al>
+</artikel>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr status="officieel">II</nr>
+        <titel status="officieel">Het verlenen van
+luchtverkeersdiensten</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">3</nr>
+        <titel status="officieel">Classificatie van luchtverkeersdienstverleningsgebieden</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Onze Minister stelt voor elk
+            luchtverkeersdienstverleningsgebied de
+            luchtverkeersdienstverleningsklasse vast met inachtneming
+            van de volgende indeling: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>klasse A: uitsluitend IFR-vluchten zijn toegestaan;
+                    aan alle vluchten worden luchtverkeersleidingsdiensten verleend; alle vluchten worden onderling gesepareerd;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>klasse B: zowel IFR- als VFR-vluchten zijn
+                    toegestaan; aan alle vluchten worden luchtverkeersleidingsdiensten verleend; alle vluchten worden
+                    onderling gesepareerd;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>klasse C: zowel IFR- als VFR-vluchten zijn
+                    toegestaan; aan alle vluchten worden luchtverkeersleidingsdiensten verleend; IFR-vluchten worden
+                    gesepareerd van andere IFR-vluchten en van
+                    VFR-vluchten; VFR-vluchten worden gesepareerd van
+                    IFR-vluchten en ontvangen luchtverkeersinformatie
+                    betreffende andere VFR-vluchten;</al>
+            </li>
+            <li>
+                <li.nr>d.</li.nr>
+                <al>klasse D: zowel IFR- als VFR-vluchten zijn
+                    toegestaan; aan alle vluchten worden luchtverkeersleidingsdiensten verleend, IFR-vluchten worden
+                    gesepareerd van andere IFR-vluchten en ontvangen
+                    luchtverkeersinformatie betreffende VFR-vluchten;
+                    VFR-vluchten ontvangen luchtverkeersinformatie
+                    betreffende andere vluchten;</al>
+            </li>
+            <li>
+                <li.nr>e.</li.nr>
+                <al>klasse E: zowel IFR- als VFR-vluchten zijn
+                    toegestaan; aan IFR-vluchten worden luchtverkeersleidingsdiensten verleend; IFR-vluchten worden
+                    gesepareerd van andere IFR-vluchten; alle vluchten
+                    ontvangen voor zover uitvoerbaar luchtverkeersinformatie;</al>
+            </li>
+            <li>
+                <li.nr>f.</li.nr>
+                <al>klasse F: zowel IFR- als VFR-vluchten zijn
+                    toegestaan; deelnemende IFR-vluchten ontvangen
+                    vlucht-advisering en alle vluchten ontvangen op
+                    verzoek vluchtinformatie;</al>
+            </li>
+            <li>
+                <li.nr>g.</li.nr>
+                <al>klasse G: IFR- en VFR-vluchten zijn toegestaan en
+                    ontvangen op verzoek vluchtinformatie.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Onze Minister kan nadere regels geven met betrekking tot de luchtverkeersdienstverleningsklassen.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">4</nr>
+        <titel status="officieel">Luchtverkeersleidingsdiensten</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Luchtverkeersleidingsdiensten worden
+verleend aan de volgende vluchten: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>alle IFR-vluchten in
+                    luchtverkeersdienstverleningsgebieden klasse A, B,
+                    C, D en E;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>alle VFR-vluchten in
+                    luchtverkeersdienstverleningsgebieden klasse B, C en D;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>alle bijzondere VFR-vluchten;</al>
+            </li>
+            <li>
+                <li.nr>d.</li.nr>
+                <al>het luchthavenverkeer van een gecontroleerde
+luchthaven.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid> <lidnr status="officieel">2</lidnr><al>Het eerste lid,
+onder b, geldt niet voor VFR-vluchten met luchtvaartuigen in
+luchtverkeersdienstverleningsgebied klasse C, indien bij regeling van
+Onze Minister in het belang van de veiligheid van het luchtverkeer
+daarvoor regels worden gegeven.</al></lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Klaringen voorzien in separatie tussen: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>alle vluchten in klasse A en B gebieden;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>IFR-vluchten in klasse C, D en E gebieden;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>IFR- en VFR-vluchten in klasse C gebieden;</al>
+            </li>
+            <li>
+                <li.nr>d.</li.nr>
+                <al>IFR-vluchten en bijzondere VFR-vluchten;</al>
+            </li>
+            <li>
+                <li.nr>e.</li.nr>
+                <al>bijzondere VFR-vluchten
+onderling.</al>
+            </li>
+        </lijst>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">5</nr>
+        <titel status="officieel">Vluchtinformatieverstrekking</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Vluchtinformatie wordt verstrekt aan alle luchtvaartuigen
+            indien: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>aan deze luchtvaartuigen luchtverkeersleidingsdiensten worden
+verleend;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>deze luchtvaartuigen anderszins bekend zijn bij de
+                    betrokken verlener van
+luchtverkeersdiensten, of;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>deze informatie van invloed kan zijn op de vluchtuitvoering.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Vluchtinformatie omvat: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>inlichtingen verstrekt door een meteorologische
+                    dienst betreffende het optreden of verwachte
+                    optreden van bepaalde weersverschijnselen langs de
+                    vliegroute, die de veiligheid van de
+                    vluchtuitvoering kunnen be&#xEF;nvloeden;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>inlichtingen over wijziging in de bruikbaarheid van navigatie-hulpmiddelen;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>inlichtingen over wijzigingen in de staat waarin
+                    luchthavens en bijbehorende faciliteiten
+                    verkeren, met inbegrip van de staat waarin het
+                    landingsterrein en de platforms zich bevinden ten
+                    gevolge van de aanwezigheid van sneeuw, ijs of water;</al>
+            </li>
+            <li>
+                <li.nr>d.</li.nr>
+                <al>andere beschikbare gegevens die de veiligheid van de
+                    vlucht kunnen be&#xEF;nvloeden;</al>
+            </li>
+            <li>
+                <li.nr>e.</li.nr>
+                <al>gemelde of verwachte weersomstandigheden op
+                    luchthavens van aankomst en vertrek en op uitwijkhavens;</al>
+            </li>
+            <li>
+                <li.nr>f.</li.nr>
+                <al>mogelijk botsingsgevaar voor vluchten in de klasse
+                    C, D, E, F en G gebieden.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Vluchtinformatie aan VFR-vluchten omvat, naast de in het
+            tweede lid, onderdeel <nadruk type="cur">a</nadruk> tot en
+            met <nadruk type="cur">d</nadruk> bedoelde gegevens voor
+            zover beschikbaar, inlichtingen omtrent ander luchtverkeer
+            en mogelijke instrumentweersomstandigheden langs de vliegroute.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">6</nr>
+        <titel status="officieel">Alarmering</titel>
+    </kop>
+    <al>Alarmering wordt verzorgd: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+            <li.nr>a.</li.nr>
+            <al>voor alle vluchten waaraan luchtverkeersleidingsdiensten worden
+verleend;</al>
+        </li>
+        <li>
+            <li.nr>b.</li.nr>
+            <al>voorzover uitvoerbaar voor andere vluchten waarvoor een
+                vliegplan is ingediend of die anderszins bekend zijn bij
+                de betrokken verleners
+van
+luchtverkeersdiensten;</al>
+        </li>
+        <li>
+            <li.nr>c.</li.nr>
+            <al>voor elk luchtvaartuig waarvan bekend is of
+                verondersteld wordt dat het is onderworpen aan
+                wederrechtelijke inmenging.</al>
+        </li>
+    </lijst>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">7</nr>
+        <titel status="officieel">Aanwijzing van luchtruimte en van
+            gecontroleerde luchthavens</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Onze Minister wijst in het vluchtinformatiegebied Amsterdam
+            aan: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>algemene luchtverkeersleidingsgebieden;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>plaatselijke luchtverkeersleidingsgebieden;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>gecontroleerde luchthavens.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid><lidnr status="officieel">2</lidnr><al>Onze
+Minister bepaalt, door welke verleners van luchtverkeersdiensten, in
+welke gebieden binnen het vluchtinformatiegebied Amsterdam en op welke
+gecontroleerde luchthaventerreinen luchtverkeersdiensten worden
+verleend.</al></lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>8</nr>
+        <titel status="officieel">Aanwijzing bijzondere luchtverkeersgebieden</titel>
+    </kop>
+    <al>Onze Minister kan ter bescherming van het luchtverkeer ten
+        opzichte van bepaalde soorten luchtverkeer of van bijzondere
+        luchtverkeersactiviteiten, delen van het vluchtinformatiegebied
+        Amsterdam aanwijzen als bijzondere luchtverkeersgebieden; aan
+        deze aanwijzingen kunnen regels worden verbonden.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">9</nr>
+        <titel status="officieel">Uitvoering van het verlenen van
+luchtverkeersdiensten</titel>
+    </kop>
+    <al>Onze Minister kan regels geven voor: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+            <li.nr>a.</li.nr>
+            <al>de wijze waarop luchtverkeersdiensten worden
+verleend;</al>
+        </li>
+        <li>
+            <li.nr>b.</li.nr>
+            <al>de luchtvaarttelecommunicatie;</al>
+        </li>
+        <li>
+            <li.nr>c.</li.nr>
+            <al>het tijdens de vlucht verstrekken van gegevens en luchtvaartinlichtingen.</al>
+        </li>
+    </lijst>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">10</nr>
+        <titel status="officieel">Luchtverkeersroutes en -procedures</titel>
+    </kop>
+    <lid><lidnr status="officieel">1</lidnr><al>Onze Minister stelt in het vluchtinformatiegebied Amsterdam
+        luchtverkeersroutes en -procedures vast, waaronder mede zijn
+        begrepen: naderings-, vertrek- en wachtprocedures, alsmede
+        luchtverkeerspatronen voor luchthavenverkeer.</al></lid>
+<lid> <lidnr status="officieel">2</lidnr><al>De gezagvoerder
+voert een vlucht uit volgens de bij regeling van Onze Minister
+vastgestelde luchtverkeersroutes en luchtverkeersprocedures alsmede
+luchtverkeerspatronen voor luchthavenverkeer tenzij door een
+verlener van
+luchtverkeersleidingsdiensten een anders luidende opdracht is
+gegeven.</al></lid></artikel>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>III</nr>
+        <titel>Luchtverkeersregels</titel>
+    </kop>
+    <afdeling status="goed">
+    <kop>
+        <label>Afdeling</label>
+        <nr status="officieel">1</nr>
+        <titel status="officieel">Na
+te komen vliegvoorschriften</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">11</nr>
+        
+    </kop>
+    <lid><lidnr status="officieel">1</lidnr><al>Een luchtvaartuig wordt zowel op het
+landingsterrein en de platforms als tijdens de vlucht gebruikt in
+overeenstemming met de algemene vliegvoorschriften.</al></lid><lid>
+<lidnr status="officieel">2</lidnr><al>Een luchtvaartuig wordt in het luchtruim gebruikt
+in overeenstemming met de zichtvliegvoorschriften of de
+instrumentvliegvoorschriften.</al></lid></artikel>
+</afdeling>
+    <afdeling>
+    <kop>
+        <label>Afdeling</label>
+        <nr>2</nr>
+        <titel status="officieel">Algemene vliegvoorschriften</titel>
+    </kop>
+    <paragraaf>
+    <kop>
+        <label>&#xA7;</label>
+        <nr>1</nr>
+        <titel>Bescherming van personen en zaken</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>12</nr>
+        <titel status="officieel">Gebruik hoogtemeter en kruishoogtes</titel>
+    </kop>
+    <al>Onze Minister geeft regels met betrekking tot het gebruik van de
+        hoogtemeter en het bepalen van kruishoogtes.</al>
+</artikel>
+    <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr status="officieel">13</nr> 
+	 <titel status="officieel">Verwijderen van voorwerpen of stoffen</titel> 
+  </kop> 
+  <lid> 
+	 <lidnr status="officieel">1</lidnr> 
+	 <al>Het is verboden voorwerpen of stoffen te verwijderen tijdens de
+		vlucht.</al> 
+  </lid> 
+  <lid> 
+	 <lidnr status="officieel">2</lidnr> 
+	 <al> Het eerste lid geldt niet ingeval van verwijderen van: </al> 
+	 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
+		<li> 
+		  <li.nr>a.</li.nr> 
+		  <al>los fijn zand;</al> 
+		</li> 
+		<li> 
+		  <li.nr>b.</li.nr> 
+		  <al>water;</al> 
+		</li> 
+		<li> 
+		  <li.nr>c.</li.nr> 
+		  <al>stoffen ter bevordering of ter bescherming van het milieu dan wel
+			 de land-, tuin- of bosbouw;</al> 
+		</li> 
+		<li> 
+		  <li.nr>d.</li.nr> 
+		  <al>voorwerpen waarvan de massa niet meer is dan 200 gram per voorwerp,
+			 overeenkomstig door Onze Minister te stellen regels;</al> 
+		</li> 
+		<li> 
+		  <li.nr>e.</li.nr> 
+		  <al>voorwerpen en stoffen voor militaire doeleinden of uit militaire
+			 luchtvaartuigen;</al> 
+		</li> 
+		<li> 
+		  <li.nr>f.</li.nr> 
+		  <al>voorwerpen die verband houden met opsporings- en
+			 reddingsakties;</al> 
+		</li> 
+		<li> 
+		  <li.nr>g.</li.nr> 
+		  <al>voorwerpen en stoffen voor politiedoeleinden.</al> 
+		</li> 
+	 </lijst> 
+  </lid> 
+  <lid> <lidnr status="officieel">3</lidnr><al>Bij regeling van
+Onze Minister kan vrijstelling worden verleend van het in het eerste
+lid gestelde verbod. Een vrijstelling kan onder beperkingen worden
+verleend.</al></lid><lid> <lidnr status="officieel">4</lidnr><al>Onze Minister kan
+ontheffing verlenen van het in het eerste lid gestelde verbod. Een
+ontheffing kan onder beperkingen worden verleend. Aan een ontheffing
+kunnen voorschriften worden
+verbonden.</al></lid>
+<lid> <lidnr status="officieel">5</lidnr><al>Het is
+verboden te handelen in strijd met voorschriften als bedoeld in het
+vierde
+lid.</al></lid></artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">14</nr>
+        <titel status="officieel">Slepen</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Het is verboden luchtvaartuigen of andere voorwerpen tijdens
+            de vlucht te slepen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Het eerste lid geldt, overeenkomstig door Onze Minister te
+            stellen regels, niet voor de volgende vluchten: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>vluchten waarbij een zweefvliegtuig wordt gesleept;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>vluchten waarbij een sleepnet wordt gesleept;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>vluchten waarbij voor militaire doeleinden wordt gesleept.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid> <lidnr status="officieel">3</lidnr><al>Bij regeling van
+Onze Minister kan vrijstelling worden verleend van het in het eerste
+lid gestelde verbod. Een vrijstelling kan onder beperkingen worden
+verleend.</al></lid>
+<lid>
+<lidnr status="officieel">4</lidnr><al>Onze Minister kan ontheffing verlenen van het in
+het eerste lid gestelde verbod. Een ontheffing kan onder beperkingen
+worden verleend. Aan een ontheffing kunnen voorschriften worden
+verbonden.</al></lid><lid> <lidnr status="officieel">5</lidnr><al>Het is verboden te
+handelen in strijd met voorschriften als bedoeld in het vierde
+lid.</al></lid></artikel>
+    
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>16</nr>
+        <titel status="officieel">Kunstvluchten</titel>
+    </kop>
+    <lid>
+        <lidnr>1</lidnr>
+        <al>Het is verboden een vlucht uit te voeren, waarbij met opzet
+            bewegingen worden uitgevoerd die een plotselinge verandering
+            in de stand, een abnormale stand of een abnormale
+            verandering in de snelheid van het luchtvaartuig meebrengen.</al>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al> Het eerste lid geldt niet voor: </al>
+        <lijst>
+            <li>
+                <li.nr>a.</li.nr>
+                <al>vluchten met militaire luchtvaartuigen, indien de
+                    gezagvoerder de door Onze Minister van Defensie
+                    vastgestelde regels nakomt;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>vluchten onder zichtweersomstandigheden indien de
+                    gezagvoerder van het luchtvaartuig verscherpte
+                    waakzaamheid betracht met het doel botsingsgevaar
+                    tijdig te kunnen onderkennen en de voorgeschreven
+                    maatregelen tot het vermijden van botsingen tijdig
+                    te kunnen nemen en indien: </al>
+                <lijst>
+                    <li>
+                        <li.nr>1.</li.nr>
+                        <al>op een zodanige horizontale of verticale
+                            afstand van gebieden met aaneengesloten
+                            bebouwing of mensenverzameling wordt
+                            gevlogen dat bij het uitvoeren van de in het
+                            eerste lid bedoelde vlucht personen of zaken
+                            op het aardoppervlak niet in gevaar kunnen
+                            worden gebracht;</al>
+                    </li>
+                    <li>
+                        <li.nr>2.</li.nr>
+                        <al>het luchtvaartuig niet een voorwerp of ander
+                            luchtvaartuig in de lucht sleept of geen
+                            valschermspringers naar het afspringpunt brengt.</al>
+                    </li>
+                </lijst>
+            </li>
+        </lijst>
+    </lid>
+</artikel>
+</paragraaf>
+    <paragraaf>
+    <kop>
+        <label>&#xA7;</label>
+        <nr>2</nr>
+        <titel>Vermijden van botsingen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">17</nr>
+        <titel status="officieel">Nabijheid</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Het is verboden een ander luchtvaartuig zo dicht te naderen
+            dat gevaar voor botsing ontstaat.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Het is verboden in gesloten verband vluchten uit te voeren,
+            tenzij dienaangaande vooraf een regeling is getroffen tussen
+            de gezagvoerders onderling en - bij gecontroleerde vluchten
+            - met de betrokken verlener van
+luchtverkeersleidingsdiensten.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">18</nr>
+        <titel status="officieel">Maatregelen bij uitwijken</titel>
+    </kop>
+    <lid> <lidnr status="officieel">1</lidnr><al>Een gezagvoerder
+neemt de beste maatregelen om een botsing te voorkomen, daarbij
+inbegrepen de manoeuvres om een botsing te vermijden gebaseerd op een
+RA.</al></lid>
+    <lid>
+<lidnr status="officieel">2</lidnr><al>Onverminderd het eerste lid, volgt een
+gezagvoerder van een luchtvaartuig dat voorzien is van ACAS, een RA
+direct op, zelfs indien deze afwijkt van een klaring van de betrokken
+verlener van
+luchtverkeersleidingsdiensten.</al></lid><lid><lidnr status="officieel">3</lidnr><al>De gezagvoerder van een luchtvaartuig dat
+voorrang heeft, behoudt zijn koers en
+snelheid.</al></lid><lid>
+        <lidnr status="officieel">4</lidnr>
+        <al> Het is verboden, indien ingevolge de <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=19">artikelen 19 tot en met
+            26</intref> voor een ander luchtvaartuig wordt
+            uitgeweken, boven, onder of v&#xF3;&#xF3;r dat luchtvaartuig langs te
+            gaan, tenzij daarbij op ruime afstand wordt gebleven en er
+            voor het andere luchtvaartuig geen gevolgen merkbaar zijn
+            van luchtwervelingen veroorzaakt door het uitwijkende luchtvaartuig.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">5</lidnr>
+        <al>Een gezagvoerder die, gevolg gevend aan een RA, afwijkt van
+            een klaring, meldt dit terstond aan de betrokken verlener van
+luchtverkeersleidingsdiensten.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">6</lidnr>
+        <al>Indien de gezagvoerder een melding als bedoeld in het derde
+            lid heeft gedaan, geeft de luchtverkeersleider aan dat
+            luchtvaartuig geen opdrachten die tegenstrijdig zijn aan de RA.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">7</lidnr>
+        <al>Na de afwijking van de klaring als gevolg van de RA wordt de
+            vlucht zo spoedig mogelijk hervat overeenkomstig de
+            oorspronkelijk verkregen klaring of overeenkomstig een
+            nieuwe klaring verkregen van de betrokken verlener van
+luchtverkeersleidingsdiensten.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">19</nr>
+        <titel status="officieel">Recht vooruit naderen</titel>
+    </kop>
+    <al>Wanneer twee luchtvaartuigen elkaar recht vooruit of bijna recht
+        vooruit naderen en gevaar voor botsing bestaat, verlegt elk van
+        deze luchtvaartuigen zijn koers naar rechts.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">20</nr>
+        <titel status="officieel">Kruisende koersen</titel>
+    </kop>
+    <lid><lidnr status="officieel">1</lidnr><al>Indien twee
+luchtvaartuigen van dezelfde categorie op dezelfde of bijna dezelfde
+hoogte koersen volgen die elkaar kruisen, wordt voorrang verleend door
+het luchtvaartuig dat het andere luchtvaartuig rechts van zich
+heeft.</al></lid><lid> <lidnr status="officieel">2</lidnr><al>Voorts gelden de volgende
+voorrangsregels:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>vliegtuigen en helikopters verlenen voorrang aan
+luchtschepen, zweeftoestellen en vrije ballonnen;</al></li><li>
+<li.nr>b.</li.nr><al>luchtschepen verlenen voorrang aan zweeftoestellen
+en vrije ballonnen;</al></li><li> <li.nr>c.</li.nr><al>zweeftoestellen
+verlenen voorrang aan vrije ballonnen;</al></li><li>
+<li.nr>d.</li.nr><al>vliegtuigen, helikopters en luchtschepen verlenen
+voorrang aan luchtvaartuigen waarvan wordt gezien dat zij een ander
+luchtvaartuig of voorwerp slepen;</al></li><li>
+<li.nr>e.</li.nr><al>luchtvaartuigen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=1a">artikel 1a</intref>,
+modelraketten en overige luchtvaartuigen die niet zijn gedefinieerd in
+<intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=1">artikel 1</intref> verlenen voorrang aan vliegtuigen,
+helikopters, zweeftoestellen, vrije ballonnen en
+luchtschepen.</al></li></lijst></lid><lid>
+<lidnr status="officieel">3</lidnr><al>Het eerste lid geldt niet voor een luchtvaartuig
+dat het luchtverkeerscircuit
+volgt.</al></lid>
+    
+    
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">21</nr>
+        <titel status="officieel">Inhalen</titel>
+    </kop>
+    <al>Een luchtvaartuig, dat een ander luchtvaartuig inhaalt, wijkt -
+        onverschillig of eerstgenoemde stijgt, daalt of zich horizontaal
+        voortbeweegt - uit door zijn koers naar rechts te
+        verleggen. Geen daarop volgende veranderingen van de positie van
+        de beide luchtvaartuigen ten opzichte van elkaar ontslaat het
+        inhalende luchtvaartuig van deze verplichting, totdat het zich
+        op ruime afstand voorbij het andere luchtvaartuig bevindt.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">22</nr>
+        <titel status="officieel">Uitwijken voor landend verkeer</titel>
+    </kop>
+    <al>Een luchtvaartuig dat zich in de lucht bevindt of zich
+        voortbeweegt op de grond of op het water, verleent voorrang
+aan
+        een luchtvaartuig dat bezig is te landen of zich bevindt in de
+        laatste naderingsfase voor de landing.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">23</nr>
+        <titel status="officieel">Landen</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Wanneer twee of meer luchtvaartuigen tegelijkertijd een luchthaven naderen om te landen, verleent een zich hoger
+            bevindend luchtvaartuig voorrang aan een zich lager
+            bevindend luchtvaartuig, met dien verstande, dat het zich
+            lager bevindende luchtvaartuig deze bepalingen niet benut door een ander luchtvaartuig, dat zich in de
+            laatste naderingsfase voor de landing bevindt, in te halen
+            of daar voorlangs te gaan.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> In afwijking van het eerste lid verlenen vliegtuigen voorrang
+aan zweefvliegtuigen.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">24</nr>
+        <titel status="officieel">Noodlanding</titel>
+    </kop>
+    <al>Een luchtvaartuig verleent voorrang aan een ander luchtvaartuig
+        dat genoodzaakt is te landen.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">25</nr>
+        <titel status="officieel">Taxi&#xEB;n</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Een luchtvaartuig dat taxiet op het landingsterrein of de
+            platforms verleent voorrang
+aan een luchtvaartuig dat start
+            dan wel op het punt staat te starten.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Wanneer gevaar voor botsing bestaat tussen twee taxi&#xEB;nde
+            luchtvaartuigen op het landingsterrein of platforms zijn de
+            volgende voorschriften van toepassing: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>indien twee
+luchtvaartuigen elkaar recht vooruit of bijna recht vooruit naderen,
+stoppen beide luchtvaartuigen of wijken deze zodanig naar rechts uit
+dat zij vrij van elkaar kunnen
+passeren;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>indien twee luchtvaartuigen routes
+volgen die elkaar kruisen, wordt voorrang verleend door het
+luchtvaartuig dat het andere luchtvaartuig rechts van zich
+heeft;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>een luchtvaartuig dat een ander luchtvaartuig
+                    inhaalt houdt daarbij ruime afstand tot het
+                    andere luchtvaartuig.</al>
+            </li>
+        </lijst>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">26</nr>
+        <titel status="officieel">Taxi&#xEB;n op gecontroleerde luchthavens</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Een luchtvaartuig, dat taxiet op het landingsterrein houdt
+stil en wacht bij alle baanwachtposities tenzij het
+            toestemming om door te taxi&#xEB;n heeft gekregen van de
+            plaatselijke verlener van
+luchtverkeersleidingsdiensten.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Een luchtvaartuig, dat taxiet op het landingsterrein houdt stil en
+wacht bij alle brandende stoplichten en vervolgt zijn weg als: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>het toestemming heeft gekregen van de plaatselijke
+                    verlener van
+luchtverkeersleidingsdiensten, en;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>de stoplichten gedoofd zijn en de betreffende
+                    rijbaan-hartlijnlichten zijn ontstoken.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Alvorens met een luchtvaartuig te taxi&#xEB;n op het
+            landingsterrein van een gecontroleerde
+luchthaven,
+            zonder de bedoeling een vlucht uit te voeren, wordt toestemming verkregen van de plaatselijke
+            verlener van
+luchtverkeersleidingsdiensten en wordt voldaan aan opdrachten van die
+            verlener van
+luchtverkeersleidingsdiensten.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al> Wanneer tijdens het taxi&#xEB;n is afgeweken van de verkregen
+            toestemming wordt de plaatselijke verlener van
+luchtverkeersleidingsdiensten
+            daarvan zo spoedig mogelijk ingelicht onder
+            vermelding van de redenen daarvoor en van de afwijkingen van
+            de toestemming.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">27</nr>
+        <titel status="officieel">Verkeer op of in de nabijheid van een luchthaven</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Op of in de nabijheid van een luchthaven wordt: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>bijzonder acht gegeven op het verkeer,
+                    teneinde een botsing te vermijden;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>het door luchtvaartuigen gevormd
+                    luchtverkeerscircuit gevolgd dan wel vermeden;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>op zodanige wijze in het onder b
+                     bedoelde luchtverkeerscircuit
+                    ingevoegd, dat luchtvaartuigen die dit
+                    luchtverkeerscircuit volgen niet gehinderd;</al>
+            </li>
+            <li>
+                <li.nr>d.</li.nr>
+                <al>tijdens het aanvliegen voor een landing en na het
+                    opstijgen elke bocht naar links gemaakt,
+                    tenzij een anders luidende aanwijzing is gegeven;</al>
+            </li>
+            <li>
+                <li.nr>e.</li.nr>
+                <al>tegen de wind in geland en opgestegen, tenzij
+                    een andere richting de voorkeur verdient met het oog
+                    op de veiligheid, de baanligging of om
+                    luchtverkeerstechnische redenen.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Het eerste lid onder b, d en e geldt
+            niet, indien in het belang van
+de veiligheid van het luchtverkeer bij regeling van Onze
+Minister nadere regels zijn
+            gegeven voor het verkeer op of in de nabijheid van &#xE9;&#xE9;n of
+            meerdere luchthavens.</al>
+    </lid>
+    <lid> <lidnr status="officieel">3</lidnr><al>Onze
+Minister kan ontheffing verlenen van het eerste lid, onder b, aan
+gezagvoerders die deelnemen aan bijzondere luchtverkeersactiviteiten in
+de nabijheid van een
+ongecontroleerde luchthaven. Een ontheffing
+kan onder beperkingen worden verleend. Aan een ontheffing kunnen
+voorschriften worden verbonden.</al></lid>
+<lid> <lidnr status="officieel">4</lidnr><al>Het is verboden
+in strijd met voorschriften als bedoeld in het derde lid te
+handelen.</al></lid></artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">28</nr>
+        <titel status="officieel">Lichten</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Onze Minister geeft regels met betrekking tot de periode
+            waarin en de omstandigheden waaronder de volgende door een
+            luchtvaartuig gevoerde lichten worden getoond: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>navigatielichten;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>anti-botsingslichten;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>lichten die de afmetingen van het
+                    luchtvaartuig aangeven;</al>
+            </li>
+            <li>
+                <li.nr>d.</li.nr>
+                <al>lichten die aangeven dat een
+                    voortstuwingsinrichting van het luchtvaartuig in
+                    werking is dan wel wordt gesteld.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Het is verboden andere dan de in het eerste lid bedoelde
+            lichten te voeren, indien deze kunnen worden aangezien voor
+            de krachtens dat lid vastgestelde lichten.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Het is verboden andere dan de in het eerste lid bedoelde
+            lichten te tonen indien deze verblinding kunnen veroorzaken
+            voor leden van het stuurhutpersoneel van het betrokken
+            luchtvaartuig of van andere luchtvaartuigen, dan wel op een luchthaven voor bestuurders van voertuigen of grondpersoneel.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">29</nr>
+        <titel status="officieel">Nabootsen van blindvliegomstandigheden</titel>
+    </kop>
+    <al>Het is verboden aan het luchtverkeer deel te nemen onder
+        nagebootste blindvliegomstandigheden tenzij: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+            <li.nr>1.</li.nr>
+            <al>het luchtvaartuig is voorzien van een dubbele besturing en;</al>
+        </li>
+        <li>
+            <li.nr>2.</li.nr>
+            <al>een persoon die bevoegd is dat luchtvaartuig te besturen
+                een bestuurdersplaats inneemt teneinde de besturing
+                onmiddellijk te kunnen overnemen; deze persoon beschikt over voldoende uitzicht naar voren en naar
+                beide zijden van het luchtvaartuig of staat rechtstreeks in verbinding met een lid van het
+                stuurhutpersoneel, dat een zodanige plaats inneemt, dat
+                zijn uitzicht het uitzicht van deze persoon voldoende aanvult.</al>
+        </li>
+    </lijst>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">30</nr>
+        <titel status="officieel">Vermijden van botsingen op het water</titel>
+    </kop>
+    <al>Een luchtvaartuig op het water voldoet aan de voorschriften
+        ter voorkoming van botsing die ter plaatse gelden voor vaartuigen.</al>
+</artikel>
+</paragraaf>
+    <paragraaf>
+    <kop>
+        <label>&#xA7;</label>
+        <nr>3</nr>
+        <titel>Inlichtingen omtrent vluchten</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">31</nr>
+        <titel status="officieel">Vliegplan</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Behalve voor een gecontroleerde vlucht wordt tevens een
+            vliegplan ingediend voor de aanvang van: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>elke IFR-vlucht binnen een
+                    luchtverkeersdienstverleningsgebied met klasse F of G;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>elke vlucht in gebieden of langs routes waar Onze
+                    Minister dat heeft voorgeschreven met het doel om
+                    het verstrekken van vluchtinformatie, de alarmering
+                    of de opsporing en redding te vergemakkelijken;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>elke VFR-vlucht in gebieden of langs routes, waar
+                    Onze Minister dat heeft voorgeschreven met het doel
+                    co&#xF6;rdinatie met betrokken militaire eenheden of met
+                    verleners van
+luchtverkeersdiensten in aangrenzende staten te
+                    vergemakkelijken, om zodoende een mogelijke noodzaak
+                    tot onderschepping voor identificatie-doeleinden te voorkomen;</al>
+            </li>
+            <li>
+                <li.nr>d.</li.nr>
+                <al>elke internationale VFR-vlucht.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Onze Minister kan vrijstelling of ontheffing verlenen van
+            de verplichting als bedoeld in het eerste lid,
+onderdeel d.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Een vliegplan kan worden ingediend voor een VFR-vlucht,
+            waarvoor geen vliegplan is vereist, indien de gezagvoerder
+            zulks wenst met het doel eventuele opsporing en redding te vergemakkelijken.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al> Onze Minister kan regels geven met betrekking tot: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>de gegevens die het vliegplan bevat;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>de wijze van indienen, wijzigen,
+annuleren en afsluiten van een
+vliegplan.</al>
+            </li>
+        </lijst>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">32</nr>
+        <titel status="officieel">Wijzigen van het vliegplan</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Elke wijziging van het ingediende vliegplan wordt zo spoedig
+            mogelijk gemeld aan de betrokken verlener
+van
+luchtverkeersdiensten,
+            indien het is ingediend voor: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>een IFR-vlucht, of;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>een gecontroleerde VFR-vlucht.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Een wijziging van het vliegplan dat is ingediend voor een
+            niet-gecontroleerde VFR-vlucht, wordt zo spoedig mogelijk
+            gemeld aan de betrokken verlener
+van
+luchtverkeersdiensten, indien
+            deze betrekking heeft op gegevens die van belang zijn voor
+            de alarmering.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Een wijziging van het voor een gecontroleerde vlucht
+            geldend vliegplan wordt niet uitgevoerd, alvorens
+            daartoe een klaring is verkregen van de betrokken verlener van
+luchtverkeersleidingsdiensten.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al> Wanneer tijdens een gecontroleerde vlucht is afgeweken van
+            het geldend vliegplan wordt de betrokken
+            verlener van
+luchtverkeersleidingsdiensten daarvan zo spoedig mogelijk ingelicht onder vermelding van de redenen daarvoor en
+            van de afwijkingen van het geldend vliegplan.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">5</lidnr>
+        <al> De meldingsplicht, als bedoeld in het vierde lid, geldt
+            niet voor zover: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>de afwijking van de gemiddelde ware
+luchtsnelheid minder
+                    bedraagt dan vijf procent;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>de afwijking van de geschatte tijd voor het volgende
+                    meldingspunt of voor de
+luchthaven van
+                    bestemming, minder bedraagt dan drie minuten.</al>
+            </li>
+        </lijst>
+    </lid>
+</artikel>
+</paragraaf>
+    <paragraaf>
+    <kop>
+        <label>&#xA7;</label>
+        <nr>4</nr>
+        <titel>Seinen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">33</nr>
+    </kop>
+    <lid><lidnr status="officieel">1</lidnr><al>Bij regeling van Onze Minister worden in
+verband met de veiligheid van het luchtverkeer de seinen vastgesteld
+die worden gegeven aan luchtvaartuigen, met de betekenis daarvan. Deze
+seinen worden alleen voor het aangegeven doel gebruikt en andere seinen
+worden niet gebruikt.</al></lid><lid> <lidnr status="officieel">2</lidnr><al>De waarnemer
+of ontvanger van een sein als bedoeld in het eerste lid, geeft hieraan
+gevolg overeenkomstig de betekenis die er aan is gegeven in de
+regeling, bedoeld in het eerste lid.</al></lid><lid>
+<lidnr status="officieel">3</lidnr><al>De seiner geeft handmatige seinen aan een
+luchtvaartuig op een luchthaven op een heldere en precieze
+wijze, overeenkomstig de regeling, bedoeld in het eerste
+lid.</al></lid></artikel>
+</paragraaf>
+    <paragraaf>
+    <kop>
+        <label>&#xA7;</label>
+        <nr>5</nr>
+        <titel>Tijd</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">34</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Voor het vermelden van tijdstippen met betrekking tot
+            vluchten wordt Geco&#xF6;rdineerde Wereldtijd gebruikt,
+            uitgedrukt in uren en minuten van het etmaal, beginnend te middernacht.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Voor de aanvang van een gecontroleerde vlucht en telkens
+            gedurende de vlucht, wanneer de noodzaak daartoe blijkt,
+            stelt de gezagvoerder zich op de hoogte van de juiste tijd.</al>
+    </lid>
+</artikel>
+</paragraaf>
+    <paragraaf>
+    <kop>
+        <label>&#xA7;</label>
+        <nr>6</nr>
+        <titel>Gecontroleerde vluchten</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">35</nr>
+        <titel status="officieel">Nakomen van het vliegplan</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Een gecontroleerde vlucht wordt uitgevoerd in
+            overeenstemming met het geldend vliegplan en met
+            inachtneming van het bepaalde in de volgende leden met
+            betrekking tot het volgen van de vliegplanroute.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Tenzij een afwijkende klaring is verstrekt door de
+            betrokken verlener van
+luchtverkeersleidingsdiensten, wordt tijdens een
+            gecontroleerde vlucht - voor zover uitvoerbaar - als volgt
+             gevlogen: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>bij het volgen van een vastgestelde
+                    luchtverkeersroute, langs de hartlijn bepaald voor
+                    die route, of;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>bij het volgen van een andere route, direct tussen
+                    de navigatiestations of punten waardoor die route
+                    wordt bepaald.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Onverminderd het tweede lid, wordt - tijdens
+            een vlucht langs een gedeelte van een luchtverkeersroute dat
+            is bepaald door rondomstralende radiobakens werkend
+            op zeer hoge frequenties - voor de primaire navigatie omgeschakeld van het achterliggende naar het voorliggend
+            baken boven het omschakelpunt, indien dat is vastgesteld, of
+            zo dicht erbij als operationeel uitvoerbaar is.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al> Bij afwijking van het tweede lid wordt
+            daarvan zo spoedig mogelijk melding gedaan aan de
+            betrokken verlener van
+luchtverkeersleidingsdiensten en wordt - behoudens
+            andersluidende klaring - een zodanige koerswijziging uitgevoerd, dat het luchtvaartuig zo spoedig mogelijk weer
+            terugkeert op de te volgen route.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">36</nr>
+        <titel status="officieel">Positiemeldingen</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Tijdens een gecontroleerde vlucht wordt zo spoedig mogelijk
+            aan de betrokken verlener van
+luchtverkeersleidingsdiensten gemeld
+            de tijd en de vlieghoogte waarop een verplicht meldingspunt
+            is gepasseerd, te zamen met alle verder vereiste
+            inlichtingen, tenzij de betrokken
+            verlener van
+luchtverkeersleidingsdiensten anders bepaalt. Op gelijke wijze
+            vinden positiemeldingen plaats met betrekking tot die
+            punten die de betrokken verlener van
+luchtverkeersleidingsdiensten opgeeft.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Indien geen verplichte meldingspunten zijn vastgesteld,
+            vinden positiemeldingen plaats telkens na het
+            verstrijken van een tijdsverloop dat bij ministeri&#xEB;le
+            regeling is vastgesteld, dan wel is opgegeven door de
+            betrokken verlener van
+luchtverkeersleidingsdiensten.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Bij ministeri&#xEB;le regeling kunnen verplichte meldingspunten
+            worden vastgesteld, alsmede omschakelpunten en het
+            tijdsverloop telkens na het verstrijken waarvan
+            positiemeldingen moeten plaatsvinden.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">37</nr>
+        <titel status="officieel">Be&#xEB;indiging van gecontroleerde vluchten</titel>
+    </kop>
+    <al>Bij be&#xEB;indiging van een gecontroleerde vlucht, hetzij door
+        landing, dan wel bij voortzetting daarvan als niet
+        gecontroleerde vlucht, wordt de betrokken
+        verlener van
+luchtverkeersleidingsdiensten daarvan zo spoedig mogelijk in
+        kennis gesteld.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">38</nr>
+        <titel status="officieel">Radioverbindingen</titel>
+    </kop>
+    <lid>
+<lidnr status="officieel">1</lidnr><al>Tijdens het uitvoeren van een gecontroleerde
+vlucht wordt voortdurend op de aangewezen radiofrequentie geluisterd en
+zonodig een tweezijdige radioverbinding tot stand gebracht met de
+betrokken
+verlener van
+luchtverkeersleidingsdiensten.</al></lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Onze Minister kan nadere regels stellen ten aanzien van het
+            in het eerste lid bepaalde.</al>
+    </lid>
+    <lid>
+<lidnr status="officieel">3</lidnr><al>Het eerste lid geldt niet, indien in het belang
+van de veiligheid van het luchtverkeer bij regeling van Onze Minister
+daarvan afwijkende regels worden
+gesteld.</al></lid><lid> <lidnr status="officieel">4</lidnr><al>Bij regeling van
+Onze Minister kan vrijstelling worden verleend van het in het eerste
+lid bepaalde. Een vrijstelling kan onder beperkingen worden
+verleend.</al></lid>
+<lid>
+<lidnr status="officieel">5</lidnr><al>Onze Minister kan ontheffing verlenen van het in
+het eerste lid bepaalde. Een ontheffing kan onder beperkingen worden
+verleend. Aan een ontheffing kunnen voorschriften worden
+verbonden.</al></lid><lid> <lidnr status="officieel">6</lidnr><al>Het is verboden te
+handelen in strijd met voorschriften als bedoeld in het vijfde
+lid.</al></lid></artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">39</nr>
+        <titel status="officieel">Storing in de radioverbinding</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Indien het bepaalde in <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=38">artikel 38</intref> niet
+            kan worden nagekomen door storing in de radioverbinding,
+            wordt gehandeld overeenkomstig door Onze Minister ter
+            zake gegeven regels voor de luchtvaarttelecommunicatie.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Indien de in het eerste lid bedoelde handelingen niet
+            leiden tot herstel van de radioverbinding, wordt de vlucht
+            voortgezet met inachtneming van de door Onze Minister
+            vastgestelde regels.</al>
+    </lid>
+</artikel>
+</paragraaf>
+    <paragraaf>
+    <kop>
+        <label>&#xA7;</label>
+        <nr>7</nr>
+        <titel>Radar-identificatie en -hoogtemelding</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>40</nr>
+    </kop>
+    <al>Onze Minister geeft regels met betrekking tot de bediening van
+        de boordapparatuur voor het beantwoorden van ondervragingen door radargrondstations.</al>
+</artikel>
+</paragraaf>
+    <paragraaf>
+    <kop>
+        <label>&#xA7;</label>
+        <nr status="officieel">8</nr>
+        <titel status="officieel">Onderschepping</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">41</nr>
+    <titel status="officieel">Onderschepping</titel></kop>
+    <lid><lidnr status="officieel">1</lidnr><al>De gezagvoerder van een
+burgerluchtvaartuig dat wordt onderschept door een militair
+luchtvaartuig of een luchtvaartuig dat wordt gebruikt voor politie- of
+douanediensten:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>volgt de door het onderscheppende luchtvaartuig
+gegeven opdracht op waarbij aan de krachtens <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=33">artikel 33</intref> vastgestelde
+visuele seinen betekenis en uitvoering wordt gegeven;</al></li><li>
+<li.nr>b.</li.nr><al>stelt zo mogelijk de betrokken verlener
+van
+luchtverkeersdiensten
+in kennis van de onderschepping;</al></li><li>
+<li.nr>c.</li.nr><al>brengt zo mogelijk een radioverbinding tot stand
+met het onderscheppende luchtvaartuig of met de eenheid die de
+onderschepping leidt, door het uitzenden van een algemene oproep op de
+noodfrequentie 121.500 MHz onder vermelding van de identiteit van het
+onderschepte luchtvaartuig en de aard van de vlucht;</al></li><li>
+<li.nr>d.</li.nr><al>herhaalt, indien geen radioverbinding tot stand is
+gekomen, de in onderdeel c bedoelde oproep op de noodfrequentie 243.000
+MHz, voor zover uitvoerbaar;</al></li><li> <li.nr>e.</li.nr><al>maakt
+gebruik van de krachtens <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=33">artikel 33</intref> vastgestelde seinen, indien de
+omstandigheden dit noodzakelijk maken;</al></li><li>
+<li.nr>f.</li.nr><al>stelt de transponder in op mode A code 7700,
+tenzij door de betrokken verlener
+van
+luchtverkeersdiensten anders wordt
+opgedragen.</al></li></lijst></lid><lid> <lidnr status="officieel">2</lidnr><al>De
+gezagvoerder van het onderschepte luchtvaartuig dat per radio een
+opdracht ontvangt, uit welke bron dan ook, die afwijkt van de opdracht
+door middel van seinen of de radio gegeven door het onderscheppende
+luchtvaartuig, vraagt onmiddellijk om opheldering aan het
+onderscheppende luchtvaartuig terwijl het voortgaat met het voldoen aan
+de opdracht van het onderscheppende luchtvaartuig.</al></lid><lid>
+<lidnr status="officieel">3</lidnr><al>Bij regeling kan Onze Minister regels geven met
+betrekking tot het onderscheppen van burgerluchtvaartuigen door
+militaire luchtvaartuigen of luchtvaartuigen die worden gebruikt voor
+politie- of douanediensten.</al></lid><lid> <lidnr status="officieel">4</lidnr><al>Bij
+regeling kan Onze Minister nadere regels geven met betrekking tot het
+eerste en tweede
+lid.</al></lid></artikel>
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">41a</nr><titel status="officieel">Wederrechtelijke
+inmenging</titel> </kop><lid><lidnr status="officieel">1</lidnr><al>De gezagvoerder van
+een luchtvaartuig dat onderworpen is aan wederrechtelijke inmenging
+tracht de betrokken verlener
+van
+luchtverkeersdiensten hiervan op de hoogte te
+stellen. Daarbij worden omstandigheden gemeld die voor de betrokken
+verlener
+van
+luchtverkeersdiensten van belang kunnen zijn voor het uitoefenen van haar
+taak.</al></lid><lid> <lidnr status="officieel">2</lidnr><al>Wanneer het niet mogelijk is
+de verlener
+van
+luchtverkeersdiensten te informeren als bedoeld in het eerste lid en
+het luchtvaartuig moet afwijken van de koers en vlieghoogte waarvoor
+een klaring was
+verkregen:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>probeert de gezagvoerder de koers en vlieghoogte
+aan te houden waarvoor een klaring was verkregen, tot de
+verlener
+van
+luchtverkeersdiensten is ge&#xEF;nformeerd of het luchtvaartuig in een
+gebied met radardekking vliegt, tenzij omstandigheden aan boord dit
+onmogelijk maken,</al></li><li> <li.nr>b.</li.nr><al>probeert de
+gezagvoerder waarschuwingen te geven op de VHF noodfrequentie of andere
+geschikte frequenties, en zo of via de transponders of
+gegevensverbindingen informatie te verstrekken over afwijkingen van
+koers en vlieghoogte, tenzij omstandigheden aan boord dit onmogelijk
+maken,</al></li><li> <li.nr>c.</li.nr><al>volgt de gezagvoerder de
+regionale aanvullende procedures voor onvoorziene gebeurtenissen of,
+wanneer deze er niet zijn, zet de gezagvoerder de vlucht zodanig voort
+dat het vliegtuig bij een IFR-vlucht 150 m (500 voet) van de
+kruishoogte afwijkt in een gebied waar een verticale separatie van
+minimaal 300 m (1000 voet) geldt, of 300 m (1000 voet) van de
+kruishoogte afwijkt in een gebied waar een verticale separatie van
+minimaal 600 m (2000 voet)
+geldt.</al></li></lijst></lid></artikel></paragraaf>
+</afdeling>
+    <afdeling status="goed">
+    <kop>
+        <label>Afdeling</label>
+        <nr status="officieel">3</nr>
+        <titel status="officieel">Zichtvliegvoorschriften</titel>
+    </kop>
+    
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">42</nr>
+    <titel status="officieel">Zichtweersomstandigheden</titel></kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Het is verboden een VFR-vlucht uit te voeren onder zodanige
+            weersomstandigheden dat het vliegzicht en de afstand van het
+            luchtvaartuig tot de wolken kleiner is dan de in de volgende
+            tabel genoemde waarden.</al>
+        <table colsep="1" frame="all" orient="port" rowsep="1">
+            <tgroup align="left" char="" charoff="50" cols="4"><colspec colname="col1" colnum="1" colwidth="31.5*"/><colspec colname="col2" colnum="2" colwidth="26*"/><colspec colname="col3" colnum="3" colwidth="26*"/><colspec colname="col4" colnum="4" colwidth="39*"/><thead valign="bottom"><row><entry align="left" morerows="0" rotate="0" valign="top"><al>Hoogteband</al>
+</entry><entry align="left" morerows="0" rotate="0" valign="top"><al>Klasse
+luchtruim</al></entry>
+<entry align="left" morerows="0" rotate="0" valign="top"><al>Vliegzicht</al></entry>
+<entry align="left" morerows="0" rotate="0" valign="top"><al>Afstand
+tot de wolken</al></entry></row></thead><tbody valign="top">
+<row><entry align="left" morerows="0" rotate="0" valign="top"><al>Op en
+boven vliegniveau
+100</al></entry><entry align="left" morerows="0" rotate="0" valign="top"><al>A
+B C D E F G</al></entry>
+<entry align="left" morerows="0" rotate="0" valign="top"><al>8
+km</al></entry>
+<entry align="left" morerows="0" rotate="0" valign="top"><al>1500 m
+horizontaal</al> <al>300 m (1000 voet) verticaal</al></entry></row>
+<row><entry align="left" morerows="0" rotate="0" valign="top"><al>Beneden
+vliegniveau 100 en boven 900 m (3000 voet) boven gemiddeld zeeniveau,
+of boven 300 m (1000 voet) boven terreinhoogte als dit hoger
+is</al></entry><entry align="left" morerows="0" rotate="0" valign="top"><al>A
+B C D E F G</al></entry>
+<entry align="left" morerows="0" rotate="0" valign="top"><al>5
+km</al></entry>
+<entry align="left" morerows="0" rotate="0" valign="top"><al>1500 m
+horizontaal</al> <al>300 m (1000 voet) verticaal</al></entry></row>
+<row><entry align="left" morerows="1" rotate="0" valign="top"><al>Op en
+beneden 900 m (3000 voet) boven gemiddeld zeeniveau, of 300 m (1000
+voet) boven
+terreinhoogte</al></entry><entry align="left" morerows="0" rotate="0" valign="top"><al>A
+B C D E</al></entry>
+<entry align="left" morerows="0" rotate="0" valign="top"><al>5
+km</al></entry>
+<entry align="left" morerows="0" rotate="0" valign="top"><al>1500 m
+horizontaal</al> <al>300 m (1000 voet) verticaal</al></entry></row>
+<row><entry align="left" colname="col2" morerows="0" rotate="0" valign="top"><al>F
+G</al></entry>
+<entry align="left" morerows="0" rotate="0" valign="top"><al>5
+km</al></entry>
+<entry align="left" morerows="0" rotate="0" valign="top"><al>Vrij van
+wolken en met zicht op grond of water</al></entry></row></tbody>
+</tgroup></table>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Het eerste lid geldt niet indien: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>een klaring is verkregen van de betrokken
+                    verlener van
+luchtverkeersleidingsdiensten voor het uitvoeren van
+                    een bijzondere VFR-vlucht;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>bij ministeri&#xEB;le regeling andere waarden zijn vastgesteld.</al>
+            </li>
+        </lijst>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">43</nr>
+        <titel status="officieel">Zichtweersomstandigheden
+in plaatselijke luchtverkeersleidingsgebieden</titel>
+    </kop>
+    <lid><lidnr status="officieel">1</lidnr><al>Het is verboden tijdens een VFR-vlucht
+te starten van of te landen op een
+luchthaven in een plaatselijk
+luchtverkeersleidingsgebied, of het luchthavenverkeersgebied of
+het luchtverkeerscircuit in te vliegen,
+indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>de wolkenbasis lager is dan 450 m (1500 voet),
+of</al></li><li> <li.nr>b.</li.nr><al>het grondzicht minder is dan 5
+km.</al></li></lijst></lid><lid> <lidnr status="officieel">2</lidnr><al>Het eerste lid
+geldt niet
+indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>een klaring is verkregen van de betrokken
+verlener van
+luchtverkeersleidingsdiensten;</al></li><li> <li.nr>b.</li.nr><al>bij
+regeling van Onze Minister in het belang van de veiligheid van het
+luchtverkeer andere waarden zijn
+vastgesteld.</al></li></lijst></lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">44</nr>
+        <titel status="officieel">Beperking van VFR-vluchten</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Het is verboden, ongeacht de weersomstandigheden, een
+            VFR-vlucht uit te voeren: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>buiten de daglichtperiode, zoals gepubliceerd in de
+                    in <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=60">artikel 60, onder a
+                    </intref>, bedoelde luchtvaartgids;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>in luchtverkeersdienstverleningsgebieden met klasse A;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>met een ware
+luchtsnelheid groter dan de plaatselijke
+                    voortplantingssnelheid van het geluid.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Onze Minister kan nadere regels stellen ten aanzien van het
+            in het eerste lid onder <nadruk type="cur">a</nadruk>, bepaalde.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Het eerste lid, onderdelen a
+en b, geldt
+            niet indien bij ministeri&#xEB;le regeling anders is bepaald.</al>
+    </lid>
+    <lid>
+<lidnr status="officieel">4</lidnr><al>Bij regeling van Onze Minister en Onze Minister
+van Defensie kunnen vrijstellingen worden verleend van het in het
+eerste lid gestelde verbod. Een vrijstelling kan onder beperkingen
+worden verleend.</al></lid><lid> <lidnr status="officieel">5</lidnr><al>Onze Minister en
+Onze Minister van Defensie kunnen ontheffingen verlenen van het in het
+eerste lid gestelde verbod. Een ontheffing kan onder beperkingen worden
+verleend. Aan een ontheffing kunnen voorschriften worden
+verbonden.</al></lid><lid> <lidnr status="officieel">6</lidnr><al>Het is verboden te
+handelen in strijd met voorschriften als bedoeld in het vijfde
+lid.</al></lid>
+    <lid>
+        <lidnr status="officieel">7</lidnr>
+        <al> De maximum toegestane aangewezen
+luchtsnelheid in de
+            luchtverkeersdienstverleningsgebieden met klasse C tot en
+            met G beneden vliegniveau 100 bedraagt 470 km/uur (250 knopen).</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">8</lidnr>
+        <al> Het zevende lid geldt niet indien bij ministeri&#xEB;le regeling
+            andere waarden zijn vastgesteld.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">44a</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>In het
+belang van de veiligheid van het luchtverkeer worden bij regeling van
+Onze Minister regels gegeven inzake de
+            navigatie- en telecommunicatie-installaties waarmee een
+            luchtvaartuig voor het uitvoeren van een VFR-vlucht is
+            uitgerust en de eisen waar die installaties aan voldoen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al>Onze Minister kan ontheffing verlenen van de krachtens het
+            eerste lid gegeven regels.</al>
+    </lid>
+    <lid>
+<lidnr status="officieel">3</lidnr><al>Een ontheffing kan onder beperkingen worden
+verleend. Aan een ontheffing kunnen voorschriften worden
+verbonden.</al></lid><lid> <lidnr status="officieel">4</lidnr><al>Het is verboden te
+handelen in strijd met voorschriften als bedoeld in het derde
+lid.</al></lid></artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">45</nr>
+        <titel status="officieel">Minimum VFR-vlieghoogte</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Met uitzondering van het gestelde in het tweede lid is het -
+            tenzij noodzakelijk om op te stijgen van of te landen op een luchthaven, naderings- en vertrekprocedures alsmede
+            luchtverkeerspatronen uit te voeren - verboden een
+            VFR-vlucht uit te voeren beneden de volgende minimum
+            vlieghoogtes: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>boven gebieden met aaneengesloten bebouwing,
+                    industrie- en havengebieden daaronder begrepen, dan
+                    wel boven mensenverzamelingen: tenminste 300 m (1000
+                    voet) boven de hoogste hindernis, gelegen binnen een
+                    afstand van 600 m van het luchtvaartuig;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>elders dan onder a
+                     aangegeven: tenminste 150 m (500
+                    voet) boven de grond of het water, of wel zoveel
+                    hoger als door Onze Minister is bepaald.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Het eerste lid geldt
+            niet, onder nader door Onze Minister te stellen regels, voor
+            de volgende vluchten: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>vluchten waarbij een sleep wordt aangehaakt of
+                    afgeworpen boven een luchthaven;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>vluchten waarbij stoffen ter bevordering of ter
+                    bescherming van het milieu dan wel de land-, tuin-
+                    of bosbouw, te bestemder plaatse worden uitgeworpen;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>vluchten waarbij naderingsprocedures buiten
+                    luchthavens beoefend worden boven nader door
+                    Onze Minister aan te wijzen gebieden;</al>
+            </li>
+            <li>
+                <li.nr>d.</li.nr>
+                <al>vluchten met zweefvliegtuigen boven nader door Onze
+                    Minister aan te wijzen strand- en duingebieden.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Het eerste lid onder b geldt
+            niet boven nader door Onze Minister aan te wijzen routes en gebieden.</al>
+    </lid>
+    <lid>
+<lidnr status="officieel">4</lidnr><al>Bij regeling van Onze Minister en Onze Minister
+van Defensie kunnen vrijstellingen worden verleend van het in het
+eerste lid gestelde verbod. Een vrijstelling kan onder beperkingen
+worden verleend.</al></lid><lid> <lidnr status="officieel">5</lidnr><al>Onze Minister en
+Onze Minister van Defensie kunnen ontheffingen verlenen van het in het
+eerste lid gestelde verbod. Een ontheffing kan onder beperkingen worden
+verleend. Aan een ontheffing kunnen voorschriften worden
+verbonden.</al></lid><lid> <lidnr status="officieel">6</lidnr><al>Het is verboden te
+handelen in strijd met voorschriften als bedoeld in het vijfde
+lid.</al></lid></artikel><artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">46</nr>
+        <titel status="officieel">Uitvoering</titel>
+    </kop>
+    <al>Onverminderd het gestelde in <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=11">artikel 11</intref>  wordt een
+        VFR-vlucht uitgevoerd in overeenstemming met de algemene
+        vliegvoorschriften voor gecontroleerde vluchten wanneer de
+        vlucht: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+            <li.nr>a.</li.nr>
+            <al>wordt uitgevoerd binnen de
+                luchtverkeersdienstverleningsgebieden met klasse B, C en D;</al>
+        </li>
+        <li>
+            <li.nr>b.</li.nr>
+            <al>deel uitmaakt van het terreinverkeer van een gecontroleerde luchthaven, of;</al>
+        </li>
+        <li>
+            <li.nr>c.</li.nr>
+            <al>wordt uitgevoerd als een bijzondere VFR-vlucht.</al>
+        </li>
+    </lijst>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">47</nr>
+        <titel status="officieel">Weersverslechtering tot beneden de
+            criteria voor zichtweersomstandigheden</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Wanneer tijdens een gecontroleerde VFR-vlucht blijkt, dat
+            voortzetting daarvan onder zichtweersomstandigheden volgens
+            het geldend vliegplan niet uitvoerbaar is,  wordt
+            gehandeld overeenkomstig het bepaalde in &#xE9;&#xE9;n van de
+                volgende leden van dit artikel.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> In de omstandigheden, als bedoeld in het eerste lid,  wordt,
+            behoudens het bepaalde in de volgende leden van dit
+            artikel, een herziening van de klaring
+            gevraagd, waardoor het alsnog mogelijk wordt om: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>de vlucht in zichtweersomstandigheden voort te
+                    zetten naar de
+luchthaven van bestemming of
+                    een luchthaven waarnaar wordt uitgeweken, of;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>het betreffende luchtverkeersleidingsgebied, waarin
+                    eveneens worden
+luchtverkeersleidingsdiensten aan VFR-vluchten
+verleend, te verlaten.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Indien een klaring, als bedoeld in het tweede lid, niet kan
+            worden verkregen, wordt de vlucht voortgezet onder
+            zichtweersomstandigheden en wordt de betrokken
+            verlener van
+luchtverkeersleidingsdiensten ingelicht omtrent de
+            actie, die wordt ondernomen ten einde het
+            luchtverkeersleidingsgebied, waarin eveneens
+            worden
+luchtverkeersleidingsdiensten aan VFR-vluchten
+verleend, te
+            verlaten dan wel een landing uit te voeren op de dichtstbijzijnde daarvoor geschikte
+luchthaven.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al> Wanneer een gecontroleerde VFR-vlucht, als bedoeld in het
+            eerste lid, wordt uitgevoerd binnen een plaatselijk
+            luchtverkeersleidingsgebied, kan toestemming worden verzocht
+            om de vlucht te mogen voortzetten als bijzondere VFR-vlucht.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">5</lidnr>
+        <al> Indien de gezagvoerder van een gecontroleerde VFR-vlucht,
+            als bedoeld in het eerste lid, daartoe bevoegd is, kan hij
+            verzoeken om de vlucht te mogen voortzetten in
+            overeenstemming met de instrumentvliegvoorschriften.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">48</nr>
+    </kop>
+    <al>Bij het uitvoeren van een VFR-vlucht in gebieden of langs
+        routes, als bedoeld in <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=31">artikel 31, eerste lid, onder b of c</intref> wordt, onderscheidenlijk worden: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+            <li.nr>a.</li.nr>
+            <al>voortdurend geluisterd op de desbetreffende
+                radiofrequentie van de betrokken luchtverkeersdienst die
+                vluchtinformatie verstrekt;</al>
+        </li>
+        <li>
+            <li.nr>b.</li.nr>
+            <al>desgevraagd positiemeldingen aan die dienst verstrekt;</al>
+        </li><li><li.nr>c.</li.nr><al>zonodig tweezijdige
+radioverbinding tot stand gebracht met de betrokken
+luchtverkeersdienst.</al></li>
+    </lijst>
+</artikel>
+</afdeling>
+    <afdeling status="goed">
+    <kop>
+        <label>Afdeling</label>
+        <nr status="officieel">4</nr>
+        <titel status="officieel">Instrumentvliegvoorschriften</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">49</nr>
+        <titel status="officieel">Uitrusting</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>In het
+belang van de veiligheid van het luchtverkeer worden bij regeling van
+Onze Minister regels gegeven inzake de
+            navigatie- en telecommunicatie-installaties waarmee een
+            luchtvaartuig voor het uitvoeren van een IFR-vlucht is
+            uitgerust en de eisen waar die installaties aan voldoen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al>Onze Minister kan ontheffing verlenen van de krachtens het
+            eerste lid gegeven regels.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al>Ontheffing kan slechts verleend worden indien de navigatie-
+            en telecommunicatieuitrusting van het luchtvaartuig ten
+            minste gelijkwaardige mogelijkheden biedt voor de
+            vluchtuitvoering. </al>
+    </lid>
+    <lid>
+<lidnr status="officieel">4</lidnr><al>Een ontheffing kan onder beperkingen worden
+verleend. Aan een ontheffing kunnen voorschriften worden
+verbonden.</al></lid><lid> <lidnr status="officieel">5</lidnr><al>Het is verboden te
+handelen in strijd met voorschriften als bedoeld in het vierde
+lid.</al></lid></artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">50</nr>
+        <titel status="officieel">Beperking van IFR-vluchten</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>De maximum toegestane aangewezen
+luchtsnelheid in de
+            luchtverkeersdienstverleningsgebieden met klasse D tot en
+            met G beneden vliegniveau 100 bedraagt 470 km/uur (250 knopen).</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Het eerste lid geldt niet indien bij ministeri&#xEB;le regeling
+            andere waarden zijn vastgesteld.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">51</nr>
+        <titel status="officieel">Minimum IFR-vlieghoogte</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Met uitzondering van het gestelde in het tweede lid is het -
+            tenzij noodzakelijk om op te stijgen van of te landen op een luchthaven, naderings- en vertrekprocedures alsmede
+            luchtverkeerspatronen uit te voeren - verboden een
+            IFR-vlucht uit te voeren beneden de volgende minimum
+            vlieghoogtes: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>boven bergachtige gebieden: tenminste 600 m (2000
+                    voet) boven de hoogste hindernis, gelegen binnen 8
+                    km van de gegiste positie van het luchtvaartuig;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>elders dan onder a. is aangegeven: tenminste 300 m
+                    (1000 voet) boven de hoogste hindernis gelegen
+                    binnen 8 km van de gegiste positie van het luchtvaartuig.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid> <lidnr status="officieel">2</lidnr><al>Bij regeling van
+Onze Minister kan met inachtneming van luchtverkeerstechnische aspecten
+vrijstelling worden verleend van het in het eerste lid gestelde verbod.
+Een vrijstelling kan onder beperkingen worden
+verleend.</al></lid>
+<lid>
+<lidnr status="officieel">3</lidnr><al>Onze Minister kan met inachtneming van
+luchtverkeerstechnische aspecten ontheffing verlenen van het in het
+eerste lid gestelde verbod. Een ontheffing kan onder beperkingen worden
+verleend. Aan een ontheffing kunnen voorschriften worden
+verbonden.</al></lid><lid> <lidnr status="officieel">4</lidnr><al>Het is verboden te
+handelen in strijd met voorschriften als bedoeld in het derde
+lid.</al></lid></artikel>
+    
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">53</nr>
+        <titel status="officieel">Verandering van vliegvoorschriften</titel>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Het is verboden af te zien van de IFR-vluchtuitvoering,
+            tenzij zich tijdens een IFR-vlucht zichtweersomstandigheden
+            voordoen, en het te voorzien is en in de bedoeling ligt dat
+            de vlucht voor geruime tijd zal worden voortgezet in
+            ononderbroken zichtweersomstandigheden.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Indien onder de in het eerste lid genoemde omstandigheden
+            wordt besloten de vlucht verder als VFR-vlucht uit te
+            voeren, wordt uitdrukkelijk aan de betrokken
+            verlener van
+luchtverkeersleidingsdiensten gemeld, dat wordt
+            afgezien van de IFR-vluchtuitvoering, onder vermelding van
+            de daartoe strekkende wijzigingen op het geldende vliegplan.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">54</nr>
+    </kop>
+    <al>Onverminderd het gestelde in <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=11">artikel 11</intref> wordt een
+        IFR-vlucht uitgevoerd in overeenstemming met de algemene
+        vliegvoorschriften voor gecontroleerde vluchten, wanneer de
+        vlucht wordt uitgevoerd in een
+        luchtverkeersdienstverleningsgebied klasse A tot en met E.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">55</nr>
+    </kop>
+    <al>Bij het uitvoeren van een IFR-vlucht in
+        luchtverkeersdienstverleningsgebieden F en G en in gebieden of
+        langs routes als bedoeld in <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=31">artikel 31, eerste lid, onder b of c</intref> moet: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+            <li.nr>a.</li.nr>
+            <al>voortdurend worden geluisterd op de desbetreffende
+                radiofrequentie van de betrokken verlener
+van
+luchtverkeersdiensten,
+                die vluchtinformatie verstrekt;</al>
+        </li>
+        <li>
+            <li.nr>b.</li.nr>
+            <al>zonodig tweezijdige radioverbinding tot stand worden
+                gebracht met die dienst, en;</al>
+        </li>
+        <li>
+            <li.nr>c.</li.nr>
+            <al>positiemeldingen worden verstrekt overeenkomstig het in
+                    <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=36">artikel 36</intref>
+                bepaalde voor gecontroleerde vluchten.</al>
+        </li>
+    </lijst>
+</artikel>
+</afdeling>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>IV</nr>
+        <titel>Diverse bepalingen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>56</nr>
+        <titel status="officieel">Bijzondere vluchten</titel>
+    </kop>
+    <al>Onze Minister kan nadere regels stellen ten aanzien van vluchten
+        waarbij door de aard van het luchtvaartuig of het doel van de
+        vlucht niet kan worden voldaan aan bij of krachtens
+            <intref status="actief" doc="1.0:v:BWBR0005775&amp;hoofdstuk=III">hoofdstuk III</intref> van
+        dit besluit gestelde regels.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">57</nr>
+        <titel status="officieel">Dagkenmerken ankerkabels</titel>
+    </kop>
+    <al>De ankerkabel van een zich in de lucht bevindende kabelballon,
+        of van een aan een kabel verankerd luchtschip, wordt - buiten de
+        in <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=28">artikel 28, eerste
+        lid</intref>, genoemde periode - voorzien van de
+        bij ministeri&#xEB;le regeling vastgestelde dagkenmerken.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">58</nr>
+        <titel status="officieel">Luchthavenverkeer, anders dan luchtvaartuigen</titel>
+    </kop>
+    <al>Op een landingsterrein
+verleent een voetganger of bestuurder van een voertuig vrije doorgang
+aan een luchtvaartuig en geeft gevolg aan een aanwijzing gegeven door
+de exploitant en op een gecontroleerde
+luchthaven door de
+plaatselijke
+verlener van
+luchtverkeersleidingsdiensten.</al>
+</artikel>
+    
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>V</nr>
+        <titel>Luchtvaartinlichtingen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>60</nr>
+        <titel status="officieel">Het verstrekken van inlichtingen v&#xF3;&#xF3;r
+            de vlucht</titel>
+    </kop>
+    <al>Ten behoeve van de vluchtvoorbereiding en de vluchtuitvoering
+        verstrekt de LVNL v&#xF3;&#xF3;r de vlucht de volgende
+        luchtvaartinlichtingen: </al>
+    <lijst>
+        <li>
+            <li.nr>a.</li.nr>
+            <al>een ge&#xEF;ntegreerd pakket luchtvaartinlichtingen bestaande
+                uit de volgende publikaties: </al>
+            <lijst>
+                <li>
+                    <li.nr>1.</li.nr>
+                    <al>een luchtvaartgids;</al>
+                </li>
+                <li>
+                    <li.nr>2.</li.nr>
+                    <al>wijzigingslijsten op de luchtvaartgids;</al>
+                </li>
+                <li>
+                    <li.nr>3.</li.nr>
+                    <al>aanvullingslijsten op de luchtvaartgids;</al>
+                </li>
+                <li>
+                    <li.nr>4.</li.nr>
+                    <al>berichten aan luchtvarenden;</al>
+                </li>
+                <li>
+                    <li.nr>5.</li.nr>
+                    <al>circulaires voor de luchtvaart;</al>
+                </li>
+                <li>
+                    <li.nr>6.</li.nr>
+                    <al>mededelingen aan Nederlandse luchtvarenden en
+                        eigenaren van luchtvaartuigen;</al>
+                </li>
+            </lijst>
+        </li>
+        <li>
+            <li.nr>b.</li.nr>
+            <al>luchtvaartkaarten;</al>
+        </li>
+        <li>
+            <li.nr>c.</li.nr>
+            <al>luchtvaartmeteorologische inlichtingen.</al>
+        </li>
+    </lijst>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">61</nr>
+        
+    </kop>
+    <al>Bij regeling van Onze Minister worden regels gesteld met betrekking
+tot luchtvaartinlichtingen. Deze regels betreffen ten
+minste:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>de gegevens die luchtvaartinlichtingen
+bevatten;</al></li><li> <li.nr>b.</li.nr><al>de wijze van
+verstrekking;</al></li><li> <li.nr>c.</li.nr><al>de plaatsen waar en de
+perioden gedurende welke luchtvaartinlichtingen worden verstrekt,
+en</al></li><li> <li.nr>d.</li.nr><al>de instanties en personen aan wie
+luchtvaartinlichtingen worden
+verstrekt.</al></li></lijst></artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>62</nr>
+        <titel status="officieel">Tarieven</titel>
+    </kop>
+    <al>Abonnementen op de luchtvaartpublicaties en luchtvaartkaarten
+        worden verstrekt tegen vergoeding van de kosten welke jaarlijks
+        door de LVNL worden vastgesteld.</al>
+</artikel>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>VI</nr>
+        <titel>Straf- en slotbepalingen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">63</nr>
+        <titel status="officieel">Strafbepalingen</titel>
+    </kop>
+    <al>Het handelen in strijd met het bepaalde in of krachtens de
+<intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=1a">artikelen 1a</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=10">10, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=11">11</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=13">13, eerste, en vijfde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=14">14, eerste
+en vijfde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=16">16, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=17">17</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=18">18</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=19">19</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=20">20, eerste en tweede lid</intref>,
+<intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=21">21</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=22">22</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=23">23</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=24">24</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=25">25</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=26">26</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=27">27, eerste en vierde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=28">28</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=29">29</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=30">30</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=31">31,
+eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=32">32, eerste tot en met vierde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=33">33, tweede en derde lid</intref>,
+<intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=34">34</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=35">35</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=35">36</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=37">37</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=38">38, eerste en zesde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=39">39</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=41">41, eerste en tweede lid</intref>,
+<intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=41a">41a</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=42">42, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=43">43, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=44">44, eerste, zesde en zevende lid</intref>,
+<intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=44a">44a, vierde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=45">45, eerste en zesde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=46">46</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=47">47, eerste, tweede en
+derde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=48">48</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=49">49, vijfde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=50">50, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=51">51, eerste en vierde
+lid</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=53">53</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=54">54</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=55">55</intref>, <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=57">57</intref> en <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=58">58</intref> is een strafbaar
+feit.</al></artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>64</nr>
+        <titel status="officieel">Publikatie</titel>
+    </kop>
+    <lid>
+        <lidnr>1</lidnr>
+        <al>Van krachtens dit besluit gegeven ontheffingen wordt
+            mededeling gedaan in de <nadruk type="cur">Staatscourant</nadruk>.</al>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al> De LVNL doet mededeling aan luchtvarenden van deze en
+            overige krachtens dit besluit gegeven bepalingen door middel
+            van de daartoe bestemde luchtvaartpublikaties als bedoeld in
+                <intref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=60">artikel 60, onder <nadruk type="cur">a</nadruk>
+            </intref>.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>65</nr>
+        <titel status="officieel">Intrekking Luchtverkeersreglement-1980</titel>
+    </kop>
+    <al>Het Luchtverkeersreglement-1980 (<nadruk type="cur">Stb.</nadruk> 786) wordt ingetrokken.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>66</nr>
+        <titel status="officieel">Inwerkingtreding</titel>
+    </kop>
+    <al>Dit besluit treedt in werking op het tijdstip waarop de
+            <extref status="actief" doc="1.0:v:BWBR0005555" compleet="nee">Wet Luchtverkeer</extref> in
+        werking treedt.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>67</nr>
+        <titel status="officieel">Titel</titel>
+    </kop>
+    <al>Dit besluit kan worden aangehaald als: <intref status="actief" doc="1.0:v:BWBR0005775">Luchtverkeersreglement</intref>.</al>
+</artikel>
+</hoofdstuk>
+        </wettekst>
+        <wetsluiting status="goed">
+    <slotformulering>
+        <al>Lasten en bevelen dat dit besluit met daarbij behorende nota
+            van toelichting in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst en dat
+            daarvan afschrift zal worden gezonden aan de Raad van State.</al>
+    </slotformulering>
+    <gegeven>
+        <dagtekening>
+            <plaats>Het Oude Loo</plaats>
+            <datum isodatum="">18 december 1992</datum>
+        </dagtekening>
+        <koning>Beatrix</koning>
+    </gegeven>
+    <ondertekening>
+        <functie>De Minister van Verkeer en Waterstaat,</functie>
+        <naam>
+            <achternaam>J. R. H. Maij-Weggen</achternaam>
+        </naam>
+    </ondertekening>
+    <ondertekening>
+        <functie>De Minister van Defensie a.i.,</functie>
+        <naam>
+            <achternaam>J. P. Pronk</achternaam>
+        </naam>
+    </ondertekening>
+    <uitgifte>
+        <datum isodatum="">de dertigste december 1992</datum>
+        <ondertekening>
+            <functie>De Minister van Justitie,</functie>
+            <naam>
+                <achternaam>E. M. H. Hirsch Ballin</achternaam>
+            </naam>
+        </ondertekening>
+    </uitgifte>
+</wetsluiting>
+    </wet-besluit>
+</wetgeving>
+  	

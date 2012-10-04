@@ -1,0 +1,443 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0031919" dtdversie="2.0" id="477669" soort="zbo">
+  
+  <intitule>Beleidsregel AFM en DNB toepassing en uitvoering Wfm BES en Wwft BES 2012</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Stichting Autoriteit Financi&#xEB;le Markten en de Nederlandsche Bank N.V.,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op de <extref status="actief" doc="1.0:v:BWBR0030883" compleet="nee">Wet financi&#xEB;le markten BES</extref> (Stb. 2011, 612), in het bijzonder de <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=2%3A23" compleet="nee">artikelen&#xA0;2:23</extref>, <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=3%3A5" compleet="nee">3:5</extref>, <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=3%3A8" compleet="nee">3:8</extref> en <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=3%3A9" compleet="nee">3:9</extref>, <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=3%3A30" compleet="nee">3:30</extref>, <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=3%3A38" compleet="nee">3:38</extref>, <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=3%3A44" compleet="nee">3:44</extref> en <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=10%3A5" compleet="nee">10:5</extref> en <extref status="actief" doc="1.0:v:BWBR0030883&amp;hoofdstuk=7" compleet="nee">hoofdstuk&#xA0;7</extref>;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op het <extref status="actief" doc="1.0:v:BWBR0031636" compleet="nee">Besluit financi&#xEB;le markten BES</extref> (Stb. 2012, 238), in het bijzonder de <extref status="actief" doc="1.0:v:BWBR0031636&amp;artikel=3%3A14" compleet="nee">artikelen&#xA0;3:14</extref>, <extref status="actief" doc="1.0:v:BWBR0031636&amp;artikel=3%3A19" compleet="nee">3:19</extref> en <extref status="actief" doc="1.0:v:BWBR0031636&amp;artikel=3%3A21" compleet="nee">3:21</extref>;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op de <extref status="actief" doc="1.0:v:BWBR0030824" compleet="nee">Wet ter voorkoming van witwassen en financieren van terrorisme BES</extref> (Stb. 2011, 613);</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0028712&amp;artikel=5a" compleet="nee">artikel&#xA0;5a, derde lid, van de Pensioenwet BES</extref> (Stb. 2010, 597);</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>BESLUITEN:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Algemene bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">(definities)</titel>
+          </kop>
+          <al>In deze beleidsregel wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al><nadruk type="cur">DNB:</nadruk> de Nederlandsche Bank N.V.;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al><nadruk type="cur">AFM:</nadruk> Stichting Autoriteit Financi&#xEB;le Markten;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al><nadruk type="cur">CBCS:</nadruk> Centrale Bank van Cura&#xE7;ao en Sint Maarten, alsmede haar rechtsvoorgangster, de Bank van de Nederlandse Antillen (BNA);</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al><nadruk type="cur">de openbare lichamen of Caribisch Nederland:</nadruk> de openbare lichamen Bonaire, Sint Eustatius en Saba;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al><nadruk type="cur">de Wfm BES:</nadruk> de <extref status="actief" doc="1.0:v:BWBR0030883" compleet="nee">Wet financi&#xEB;le markten BES</extref> (Stb. 2011, 612);</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al><nadruk type="cur">hetBfm BES:</nadruk> het <extref status="actief" doc="1.0:v:BWBR0031636" compleet="nee">Besluit financi&#xEB;le markten BES</extref> (Stb. 2012, 238);</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al><nadruk type="cur">de Wwft BES:</nadruk> de <extref status="actief" doc="1.0:v:BWBR0030824" compleet="nee">Wet ter voorkoming van witwassen en financieren van terrorisme BES</extref> (Stb. 2011, 613).</al>
+            </li>
+          </lijst>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Gezamenlijke beleidsregels van AFM en DNB</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">2.1</nr>
+            <titel status="officieel">Geschiktheid</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2</nr>
+              <titel status="officieel">(geschiktheid van dagelijks beleidsbepalers en commissarissen)</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Dit artikel is niet van toepassing met betrekking tot de uitoefening van het bedrijf van bemiddelaar in schadeverzekeringen of levensverzekeringen, gevolmachtigd agent of ondergevolmachtigd agent, bedoeld in <extref status="actief" doc="1.0:v:BWBR0031636&amp;artikel=3%3A4" compleet="nee">artikel&#xA0;3:4 van het Bfm BES</extref>.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+
+              <al>Bij toetsingen van de geschiktheid van dagelijks beleidsbepalers of van personen die deel uitmaken van een orgaan dat is belast met toezicht op het beleid en de algemene gang van zaken binnen de financi&#xEB;le onderneming, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=3%3A5" compleet="nee">artikel&#xA0;3:5</extref>, <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=3%3A30" compleet="nee">artikel&#xA0;3:30, eerste lid, aanhef en onderdeel&#xA0;b</extref>, of <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=10%3A5" compleet="nee">artikel&#xA0;10:5, tweede lid, van de Wfm BES</extref>, passen AFM en DNB de <extref status="actief" doc="1.0:v:BWBR0031740" compleet="nee">Beleidsregel geschiktheid 2012</extref>(Stcrt. 2012, 13546) overeenkomstig toe.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+
+              <al>Bij toetsingen van de deskundigheid van personen die het beleid van een pensioenfonds bepalen of mede bepalen, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0028712&amp;artikel=5a" compleet="nee">artikel&#xA0;5a, derde lid, van de Pensioenwet BES</extref> (Stb. 2010, 597), past DNB de <extref status="actief" doc="1.0:v:BWBR0031740" compleet="nee">Beleidsregel geschiktheid 2012</extref>(Stcrt. 2012, 13546) overeenkomstig toe.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Bij de overeenkomstige toepassing van de <extref status="actief" doc="1.0:v:BWBR0031740" compleet="nee">Beleidsregel geschiktheid 2012</extref> (Stcrt. 2012, 13546) houden AFM en DNB rekening met de aard, de omvang en de complexiteit van de betrokken financi&#xEB;le onderneming. </al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">2.2</nr>
+            <titel status="officieel">Betrouwbaarheid</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3</nr>
+              <titel status="officieel">(conflicterende belangen en fungerende en niet-fungerende lokale PEPs)</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+
+              <al>In het kader van betrouwbaarheidstoetsingen op grond van <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=3%3A4" compleet="nee">artikel 3:4 van de Wfm BES</extref> en onverminderd het bepaalde in de <extref status="actief" doc="1.0:v:BWBR0031636&amp;artikel=3%3A1" compleet="nee">artikelen&#xA0;3:1 tot en met 3:3 van het Bfm BES</extref>, beoordelen de AFM en DNB in het bijzonder of met betrekking tot de te toetsen persoon sprake is of kan zijn van conflicterende belangen. Daarbij wordt onder meer aansluiting gezocht bij de <nadruk type="cur">Corporate Governance Guidelines</nadruk> voor goed bestuur van de CBCS.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Conflicterende belangen als bedoeld in het eerste lid doen zich in beginsel voor, indien de te toetsen persoon naast het uitoefenen of beogen van een (mede)beleidsbepalende functie in een onder toezicht staande financi&#xEB;le onderneming tevens:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>betrokken is bij een of meer rechtspersonen of instellingen die niet onder toezicht staan of tevens een nevenfunctie heeft bij een of meer gerelateerde partijen, waaronder partijen die zaken doen of transacties verrichten met de financi&#xEB;le onderneming waar de te toetsen persoon een (mede)beleidsbepalende functie uitoefent of beoogt; of</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>een fungerende lokale PEP (&#x2018;politiek prominente persoon&#x2019;) is, zijnde een persoon die een publieke functie bekleedt, dan wel een niet-fungerende lokale PEP is, zijnde een persoon die een publieke functie heeft bekleed.</al>
+                </li>
+              </lijst>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">2.3</nr>
+            <titel status="officieel">Integere bedrijfsuitoefening</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">4</nr>
+              <titel status="officieel">(voorkoming van witwassen en financieren van terrorisme)</titel>
+            </kop>
+
+            <al>In het toezicht op de naleving van de verplichtingen krachtens de <extref status="actief" doc="1.0:v:BWBR0030824" compleet="nee">Wwft BES</extref> en van de regels met betrekking tot de integere bedrijfsuitoefening, bedoeld in <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=3%3A8" compleet="nee">artikel&#xA0;3:8 van de Wfm BES</extref>, geven de AFM en DNB overeenkomstige toepassing aan de <nadruk type="cur">Provisions and Guidelines on the Detection and Deterrence of Money Laundering and Terrorist Financing</nadruk> van de CBCS, zoals die voor de verschillende sectoren zijn vastgesteld en zoals deze luiden of komen te luiden, alsmede voor zover hiervan niet expliciet wordt afgeweken bij door de AFM of DNB gestelde (nadere) regels of beleidsregels met betrekking tot de voorkoming van witwassen en financieren van terrorisme of de integere bedrijfsuitoefening. Dit betreft de volgende <nadruk type="cur">Provisions and Guidelines</nadruk>:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de <nadruk type="cur">Provisions and Guidelines on the Detection and Deterrence of Money Laundering and Terrorist Financing for Credit Institutions &#x2013; May 2011;</nadruk>
+                </al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de <nadruk type="cur">Provisions and Guidelines on the Detection and Deterrence of Money Laundering and Terrorist Financing for Money Transfer Companies &#x2013; May 2011;</nadruk>
+                </al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de <nadruk type="cur">Provisions and Guidelines on the Detection and Deterrence of Money Laundering and Terrorist Financing for Insurance Companies and Intermediaries (Insurance Brokers) &#x2013; May 2011;</nadruk>
+                </al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de <nadruk type="cur">Provisions and Guidelines on the Detection and Deterrence of Money Laundering and Terrorist Financing for Administrators of Investment Institutions and Self-Administered Investment Institutions &#x2013; May 2011;</nadruk> en</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>de <nadruk type="cur">Provisions and Guidelines on the Detection and Deterrence of Money Laundering and Terrorist Financing for Company (Trust) Service Providers &#x2013; May 2011;</nadruk>
+                </al>
+              </li>
+            </lijst>
+            <al>steeds met inbegrip van de <nadruk type="cur">Appendix I and II Policy Rule of June 2011</nadruk>, voor zover relevant. </al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">5</nr>
+              <titel status="officieel">(beleidsregels en guidelines van de CBCS inzake integere bedrijfsvoering)</titel>
+            </kop>
+
+            <al>In het toezicht op de naleving van de regels met betrekking tot de integere bedrijfsuitoefening, bedoeld in <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=3%3A8" compleet="nee">artikel&#xA0;3:8 van de Wfm BES</extref>, geven de AFM en DNB overeenkomstige toepassing aan de volgende beleidsregels en <nadruk type="cur">guidelines</nadruk> van de CBCS, voor zover deze relevant zijn voor de betrokken financi&#xEB;le onderneming en zoals deze luiden of komen te luiden, alsmede voor zover hiervan niet expliciet wordt afgeweken bij door de AFM of DNB gestelde (nadere) regels of beleidsregels met betrekking tot de integere bedrijfsuitoefening:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de <nadruk type="cur">CBCS Beleidsregel integere bedrijfsvoering bij incidenten en integriteitsgevoelige functies</nadruk> van januari 2011; en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>
+                  <nadruk type="cur">Corporate Governance &#x2013; Summary of Best Practice Guidelines</nadruk> van november 2006.</al>
+              </li>
+            </lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">6</nr>
+              <titel status="officieel">(procedures en maatregelen met betrekking tot incidenten)</titel>
+            </kop>
+            <al>In ieder geval in de volgende situaties wordt een financi&#xEB;le onderneming geacht onverwijld, schriftelijk en uit eigen beweging melding te doen aan DNB dan wel aan de AFM van een incident, in de zin van <extref status="actief" doc="1.0:v:BWBR0031636&amp;artikel=3%3A14" compleet="nee">artikel&#xA0;3:14 van het Bfm BES</extref>:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>indien sprake is van een daadwerkelijke of voorgenomen aangifte omtrent het incident bij de justiti&#xEB;le autoriteiten;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>indien sprake is van een (potenti&#xEB;le) bedreiging voor het voortbestaan van de financi&#xEB;le onderneming;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>in geval van een ernstige tekortkoming in de opzet en werking van de maatregelen voor een integere bedrijfsvoering van de financi&#xEB;le onderneming;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>in geval van verwachte ernstige mate van publiciteit, financi&#xEB;le gevolgen of reputatieschade voor de financi&#xEB;le onderneming of de financi&#xEB;le sector; of</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>in geval van een ander voorval van een zodanige ernst of omvang of waarbij sprake is van zodanige andere omstandigheden dat DNB dan wel de AFM redelijkerwijs van dit incident in kennis behoort te worden gesteld, waaronder:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;</li.nr>
+                    <al>interne of externe fraudezaken bij de financi&#xEB;le onderneming;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;</li.nr>
+                    <al>een inval of huiszoeking bij de onderneming door het Openbaar Ministerie of een onderzoek ter plaatse door de Belastingdienst; alsmede</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;</li.nr>
+                    <al>rechtszaken die naar het oordeel van de (mede)beleidsbepalers gevolgen met zich kunnen brengen voor de financi&#xEB;le positie of de reputatie van de financi&#xEB;le onderneming of van de financi&#xEB;le sector.</al>
+                  </li>
+                </lijst>
+              </li>
+            </lijst>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">2.4</nr>
+            <titel status="officieel">Verrichten van diensten in de openbare lichamen vanuit een vestiging in het buitenland</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">7</nr>
+              <titel status="officieel">(&#x2018;initiative test&#x2019; bij verrichten van diensten in de openbare lichamen)</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Dit artikel is niet van toepassing op trustkantoren met zetel in het buitenland die als trustkantoor werkzaam zijn in de openbare lichamen door middel van het verrichten van diensten vanuit een vestiging in het buitenland.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Van het verrichten van vergunningplichtige activiteiten in de openbare lichamen, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=2%3A1" compleet="nee">artikel&#xA0;2:1</extref> of <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=2%3A3" compleet="nee">artikel&#xA0;2:3 van de Wfm BES</extref>, door middel van het verrichten van diensten vanuit een vestiging in het buitenland is in beginsel geen sprake, voor zover de betrokken financi&#xEB;le onderneming kan aantonen dat het initiatief tot de dienstverlening uitsluitend uitgaat of is uitgegaan van een cli&#xEB;nt of een consument die zijn gewone verblijfplaats in de openbare lichamen heeft of die een vestiging in de openbare lichamen heeft, alsmede dat ook overigens sprake is van incidentele activiteiten in de openbare lichamen.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Beleidsregels van DNB</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">3.1</nr>
+            <titel status="officieel">Inkomende dienstverrichting verzekeraars</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">8</nr>
+              <titel status="officieel">(begrip &#x2018;inkomende dienstverrichting verzekeraars&#x2019;)</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Bij de toepassing van <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=2%3A23" compleet="nee">artikel&#xA0;2:23 van de Wfm BES</extref> wordt onder &#x2018;het verrichten van diensten in de openbare lichamen vanuit een vestiging in het buitenland&#x2019; of onder &#x2018;inkomende dienstverrichting&#x2019; verstaan:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>het door een <nadruk type="cur">levensverzekeraar</nadruk> sluiten van een levensverzekering vanuit een vestiging in het buitenland, met een verzekeringnemer die een natuurlijk persoon is en die zijn gewone verblijfplaats in de openbare lichamen heeft, dan wel met een verzekeringnemer die een rechtspersoon is en die een vestiging in de openbare lichamen heeft, voor zover de levensverzekering betrekking heeft op die vestiging in de openbare lichamen;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>het door een <nadruk type="cur">natura-uitvaartverzekeraar</nadruk> sluiten van een natura-uitvaartverzekering vanuit een vestiging in het buitenland met een verzekeringnemer die zijn gewone verblijfplaats in de openbare lichamen heeft; of</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>het door een <nadruk type="cur">schadeverzekeraar</nadruk> sluiten van een schadeverzekering vanuit een vestiging in het buitenland met betrekking tot een risico dat is gelegen in de openbare lichamen.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Van inkomende dienstverrichting in de zin van <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=2%3A23" compleet="nee">artikel&#xA0;2:23 van de Wfm BES</extref> is in ieder geval sprake, indien voor of namens dan wel voor rekening van de betrokken verzekeraar met zetel in het buitenland een of meer adviseurs, bemiddelaars, gevolmachtigd of ondergevolmachtigd agenten in de openbare lichamen optreden.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">9</nr>
+              <titel status="officieel">(termijnen voor notificaties op grond van <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=2%3A23" compleet="nee">artikel&#xA0;2:23 van de Wfm BES</extref>)</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+
+              <al>In het geval een verzekeraar met zetel in het buitenland niet langer kan aantonen dat is voldaan aan de <nadruk type="cur">initiative test</nadruk>, bedoeld in <intref status="actief" doc="1.0:v:BWBR0031919&amp;artikel=7">artikel&#xA0;7, tweede lid</intref>, wordt de betrokken verzekeraar geacht zo spoedig mogelijk, maar uiterlijk binnen vier weken nadat die situatie is ontstaan, de in <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=2%3A23" compleet="nee">artikel&#xA0;2:23 van de Wfm BES</extref> bedoelde kennisgeving aan DNB te doen. Bij die kennisgeving verstrekt de verzekeraar tevens de gegevens en bescheiden op basis waarvan DNB kan beoordelen dat is voldaan aan de vereisten van <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=2%3A23" compleet="nee">artikel&#xA0;2:23, eerste lid, van de Wfm BES</extref>.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Een verzekeraar met zetel in het buitenland die reeds voorafgaand aan het tijdstip waarop deze beleidsregel in werking treedt door middel van het verrichten van diensten verzekeringen aanbiedt in de openbare lichamen vanuit een vestiging in het buitenland, wordt geacht uiterlijk op 31&#xA0;oktober 2012 de in <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=2%3A23" compleet="nee">artikel&#xA0;2:23 van de Wfm BES</extref> bedoelde kennisgeving aan DNB te doen. Bij die kennisgeving verstrekt de verzekeraar tevens de gegevens en bescheiden op basis waarvan DNB kan beoordelen dat wordt voldaan aan de vereisten van artikel&#xA0;2:23, eerste lid, van de Wfm BES.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">3.2</nr>
+            <titel status="officieel">Integere en beheerste bedrijfsuitoefening</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">10</nr>
+              <titel status="officieel">(provisions, guidelines en policy memoranda van de CBCS)</titel>
+            </kop>
+
+            <al>In het toezicht op de naleving van de regels met betrekking tot de beheerste bedrijfsuitoefening, bedoeld in <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=3%3A9" compleet="nee">artikel&#xA0;3:9 van de Wfm BES</extref>, geeft DNB overeenkomstige toepassing aan de volgende <nadruk type="cur">provisions and guidelines</nadruk> en <nadruk type="cur">policy memoranda</nadruk> van de CBCS, voor zover deze relevant zijn en zoals deze luiden of komen te luiden:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>
+                  <nadruk type="cur">Provisions and Guidelines for Safe and So</nadruk>und Electronic Banking van december 2007;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>
+                  <nadruk type="cur">Policy Memorandum On the Periodic Filing of a Management Report</nadruk>;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>
+                  <nadruk type="cur">Policy Memorandum &#x2013; Management of Computer Risks for Senior Management.</nadruk>
+                </al>
+              </li>
+            </lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">11</nr>
+              <titel status="officieel">(bedrijfsvoering van een hoofd van een financi&#xEB;le groep)</titel>
+            </kop>
+            <al>Op de beheerste bedrijfsvoering, bedoeld in <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=3%3A44" compleet="nee">artikel&#xA0;3:44, eerste lid, van de Wfm BES</extref>, van een onderneming met zetel in de openbare lichamen die aan het hoofd staat van een groep kredietinstellingen of een groep verzekeraars als bedoeld in <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=3%3A45" compleet="nee">artikel&#xA0;3:45</extref> of <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=3%3A46" compleet="nee">3:46 van deze wet</extref>, is het bepaalde in <extref status="actief" doc="1.0:v:BWBR0031636&amp;artikel=3%3A19" compleet="nee">artikel&#xA0;3:19 van het Bfm BES</extref> ten aanzien van de algemene aspecten van de beheerste bedrijfsvoering en <extref status="actief" doc="1.0:v:BWBR0031636&amp;artikel=3%3A21" compleet="nee">artikel&#xA0;3:21 van het Bfm BES</extref> inzake risicomanagement van overeenkomstige toepassing.</al>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">12</nr>
+            <titel status="officieel">(wijzigingen van deze beleidsregel)</titel>
+          </kop>
+          <al>Deze beleidsregel kan worden gewijzigd bij besluit van de AFM en DNB gezamenlijk, dan wel bij afzonderlijk besluit van de AFM onderscheidenlijk van DNB, voor zover het domein van de andere toezichtautoriteit door die wijziging niet wordt geraakt.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">13</nr>
+            <titel status="officieel">(inwerkingtreding)</titel>
+          </kop>
+          <al>Deze beleidsregel treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst, met terugwerkende kracht tot en met 1 juli 2012.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">14</nr>
+            <titel status="officieel">(citeertitel)</titel>
+          </kop>
+          <al>Deze beleidsregel wordt aangehaald als: Beleidsregel AFM en DNB toepassing en uitvoering Wfm BES en Wwft BES 2012.</al>
+        </artikel>
+      </hoofdstuk>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Amsterdam</plaats>
+          <datum isodatum="2012-08-21">21&#xA0;augustus 2012</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>
+        <functie>De Nederlandsche Bank N.V.,</functie>
+        <naam>
+          <voornaam>A.J.</voornaam>
+          <achternaam>Kellermann,</achternaam>
+        </naam>
+        <functie>directeur</functie>
+      </ondertekening>
+      <ondertekening>
+        <naam>
+          <voornaam>J.</voornaam>
+          <achternaam>Sijbrand,</achternaam>
+        </naam>
+        <functie>directeur</functie>
+      </ondertekening>
+      <ondertekening>
+        <functie>Stichting Autoriteit Financi&#xEB;le Markten</functie>
+        <naam>
+          <voornaam>R.</voornaam>
+          <achternaam>Gerritse,</achternaam>
+        </naam>
+        <functie>voorzitter</functie>
+      </ondertekening>
+      <ondertekening>
+        <naam>
+          <voornaam>Th.F.</voornaam>
+          <achternaam>Kockelkoren,</achternaam>
+        </naam>
+        <functie>bestuurder</functie>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

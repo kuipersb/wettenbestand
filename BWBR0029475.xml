@@ -1,0 +1,801 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0029475" dtdversie="2.0" id="453229" soort="AMvB">
+  
+  <intitule>Besluit
+van 17 januari 2011, houdende regels met betrekking tot het
+elektronisch proces-verbaal
+                (Besluit elektronisch
+proces-verbaal)</intitule>
+  
+  <wet-besluit>
+    <aanhef>
+      <wij>Wij Beatrix, bij de
+gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz.
+enz. enz.</wij>
+      <considerans>
+        <considerans.al bevat="voordracht">Op de
+voordracht van Onze Minister van Justitie van 29 september 2010, nr.
+5669201/10/6;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet
+op <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=153" compleet="nee">artikel 153, tweede lid, van het Wetboek van
+Strafvordering</extref>;</considerans.al>
+        <considerans.al bevat="gehoord">De
+Raad van State gehoord (advies van 3 december 2010, nr.
+W03.10.0476/II);</considerans.al>
+        <considerans.al bevat="gezien">Gezien
+het nader rapport van Onze Minister van Veiligheid en Justitie van 22
+december 2010, nr.
+5678816/10/6;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Hebben goedgevonden en
+verstaan:</al>
+      </afkondiging>
+    </aanhef>
+    <wettekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+        </kop>
+        <al>In dit besluit wordt verstaan
+onder:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>
+              <nadruk type="cur">elektronisch
+proces-verbaal:</nadruk> proces-verbaal,
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=152" compleet="nee">artikel 152</extref> en <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=153" compleet="nee">153, eerste lid, van het Wetboek van
+Strafvordering</extref>, dat langs elektronische weg is opgemaakt of dat langs
+elektronische weg is omgezet in een digitaal
+afschrift;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>
+              <nadruk type="cur">digitaal
+afschrift:</nadruk> elektronisch
+gegevensbestand dat een identieke weergave vormt van het
+proces-verbaal, bedoeld in <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=153" compleet="nee">artikel 153, eerste lid en tweede lid,
+eerste volzin, van het Wetboek van
+Strafvordering</extref>;</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>
+              <nadruk type="cur">validatie:</nadruk> vaststelling
+van de geldigheid van een elektronische handtekening, door het
+verifi&#xEB;ren van de geldigheid van het certificaat gerelateerd aan
+het moment van ondertekening en het verifi&#xEB;ren van de ongewijzigde
+staat van het document aan de hand van de
+ondertekening;</al>
+          </li>
+          <li>
+            <li.nr>d.</li.nr>
+            <al>
+              <nadruk type="cur">elektronische
+handtekening:</nadruk> de handtekening,
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0005291&amp;artikel=15a" compleet="nee">artikel 15a, vierde lid, van Boek 3 van het Burgerlijk
+Wetboek</extref>;</al>
+          </li>
+          <li>
+            <li.nr>e.</li.nr>
+            <al>
+              <nadruk type="cur">gekwalificeerde elektronische
+handtekening:</nadruk> elektronische
+handtekening gebaseerd op een gekwalificeerd certificaat en gegenereerd
+door een veilig middel voor het aanmaken van elektronische
+handtekeningen overeenkomstig de eisen, gesteld in <extref status="actief" doc="1.0:v:BWBR0005291&amp;artikel=15a" compleet="nee">artikel 15a, tweede
+lid, onderdelen a tot en met f, van Boek 3 van het Burgerlijk
+Wetboek</extref>;</al>
+          </li>
+          <li>
+            <li.nr>f.</li.nr>
+            <al>
+              <nadruk type="cur">elektronische
+dagtekening:</nadruk> een tijdstempel dat
+de datum en het tijdstip vermeldt van het moment van ondertekenen van
+een elektronisch proces-verbaal en dat is afgegeven overeenkomstig
+geldende normen en standaarden;</al>
+          </li>
+          <li>
+            <li.nr>g.</li.nr>
+            <al>
+              <nadruk type="cur">certificaat, gekwalificeerd
+certificaat, certificatiedienstverlener en veilig middel voor het
+aanmaken van elektronische
+handtekeningen:</nadruk> het certificaat,
+het gekwalificeerd certificaat, de certificatiedienstverlener,
+respectievelijk het veilig middel voor het aanmaken van elektronische
+handtekeningen, bedoeld in <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=1.1" compleet="nee">artikel 1.1, onderdelen ss, tt, uu,
+respectievelijk ww, van de
+Telecommunicatiewet</extref>.</al>
+          </li>
+          <li>
+            <li.nr>h.</li.nr>
+            <al>
+              <nadruk type="cur">verantwoordelijke:</nadruk> het
+hoofd van de organisatie waar een ambtenaar werkzaam is die een
+elektronisch proces-verbaal opmaakt of ontvangt of een digitaal
+afschrift vervaardigt of
+ontvangt.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Een
+elektronisch proces-verbaal is voorzien van een elektronische
+dagtekening en een gekwalificeerde elektronische handtekening, in een
+documentformaat dat voldoet aan het bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0007376" compleet="nee">Archiefwet 1995</extref>
+bepaalde.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Als een
+elektronisch proces-verbaal wordt tevens aangemerkt een digitaal
+afschrift dat is voorzien van een gekwalificeerde elektronische
+handtekening van een, daartoe door de verantwoordelijke aangewezen,
+ambtenaar als waarmerk, overeenkomstig de eisen, bedoeld in het eerste
+lid.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>In
+aanvulling op de gegevens die op grond van <extref status="actief" doc="1.0:v:BWBR0015047&amp;artikel=3" compleet="nee">artikel 3 van het Besluit
+elektronische handtekeningen</extref> in het gekwalificeerd certificaat zijn
+opgenomen, worden gegevens opgenomen over de organisatie waar de
+ambtenaar, aan wie het betreffende certificaat is afgegeven, werkzaam
+is.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>In
+afwijking van <extref status="actief" doc="1.0:v:BWBR0015047&amp;artikel=3" compleet="nee">artikel 3, onderdeel c, van het Besluit elektronische
+handtekeningen</extref> kan van een pseudoniem slechts in bijzondere gevallen
+gebruik worden gemaakt.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Een
+proces-verbaal wordt uitsluitend omgezet in een digitaal afschrift met
+toepassing van de voorschriften voor een identieke weergave, omschreven
+in de <intref status="actief" doc="1.0:v:BWBR0029475&amp;bijlage=I">bijlage I</intref> bij dit besluit.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>In een
+digitaal afschrift wordt vermeld dat het een identieke weergave en
+kopie is van het proces-verbaal.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Bij
+ministeri&#xEB;le regeling kunnen nadere regels worden gesteld
+betreffende de voorschriften, bedoeld in het eerste
+lid.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De
+verantwoordelijke bewaart over de elektronische handtekening en
+dagtekening de in <intref status="actief" doc="1.0:v:BWBR0029475&amp;bijlage=II">bijlage II</intref> bij dit besluit omschreven gegevens met
+het oog op de validatie.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De
+gegevens, bedoeld in het eerste lid, worden tezamen met het
+elektronisch proces-verbaal bewaard gedurende de periode van bewaring
+van het elektronisch proces-verbaal.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De
+gegevens, bedoeld in het tweede lid, worden op zodanige wijze bewaard
+dat op ieder moment de ongewijzigde staat daarvan kan worden
+aangetoond.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De
+verantwoordelijke die een elektronisch proces-verbaal heeft ontvangen
+verzendt onmiddellijk een bevestiging van ontvangst aan de
+verantwoordelijke die dit proces-verbaal heeft verzonden.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De
+verantwoordelijke die het elektronisch proces-verbaal heeft verzonden
+bewaart de bevestiging van ontvangst, bedoeld in het eerste lid,
+gedurende een periode van vijf jaar.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De
+verantwoordelijke die een elektronisch proces-verbaal heeft ontvangen,
+zorgt ervoor dat dit onverwijld wordt gevalideerd.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Indien de
+validatie uitwijst dat de gecontroleerde waarden niet overeen komen,
+dan wordt dit onverwijld bericht aan de verantwoordelijke, die het
+elektronisch proces-verbaal heeft verzonden.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>Indien er
+aanwijzingen zijn dat een digitaal afschrift geen identieke weergave
+vormt van het proces-verbaal dan wordt dit onverwijld aan de
+verantwoordelijke bericht, die het digitaal afschrift heeft
+verzonden.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">6</lidnr>
+          <al>De
+verantwoordelijke, die een elektronisch proces-verbaal heeft verzonden
+en aan wie een bericht is verzonden dat de gecontroleerde waarden niet
+overeen komen of dat een digitaal afschrift geen identieke weergave
+vormt van het proces-verbaal, is gehouden te voorzien in een
+elektronisch proces-verbaal dan wel een digitaal afschrift,
+overeenkomstig de eisen van dit besluit.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De
+verantwoordelijke treft technische en organisatorische maatregelen om
+het elektronisch proces-verbaal en de gegevens, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0029475&amp;artikel=4">artikelen
+4</intref>, <intref status="actief" doc="1.0:v:BWBR0029475&amp;artikel=5">5</intref> en <intref status="actief" doc="1.0:v:BWBR0029475&amp;artikel=6">6</intref>, te beveiligen tegen misbruik, verlies, of onrechtmatige
+verwerking. Deze maatregelen garanderen, rekening houdend met de stand
+van de techniek en de kosten van de tenuitvoerlegging, een passend
+beveiligingsniveau, gelet op de risico&#x2019;s die de verwerking en de
+aard van de gegevens met zich meebrengen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Het
+elektronisch proces-verbaal en de gegevens, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0029475&amp;artikel=4">artikelen
+4</intref>, <intref status="actief" doc="1.0:v:BWBR0029475&amp;artikel=5">5</intref> en <intref status="actief" doc="1.0:v:BWBR0029475&amp;artikel=6">6</intref>, zijn uitsluitend toegankelijk voor personen die daarvoor zijn
+geautoriseerd.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">8</nr>
+        </kop>
+        <al>Dit besluit wordt aangehaald als: Besluit
+elektronisch proces-verbaal.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">9</nr>
+        </kop>
+        <al>Dit besluit treedt in werking op een bij
+koninklijk besluit te bepalen
+tijdstip.</al>
+      </artikel>
+    </wettekst>
+    <wetsluiting status="goed">
+      <slotformulering>
+        <al>Lasten
+en bevelen dat dit besluit met de daarbij behorende nota van
+toelichting in het Staatsblad zal worden
+geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>&#x2019;s-Gravenhage</plaats>
+          <datum isodatum="2011-01-17">17
+januari 2011</datum>
+        </dagtekening>
+        <koning>Beatrix</koning>
+      </gegeven>
+      <ondertekening>
+        <functie>De 
+          Minister
+           van
+
+          Veiligheid en
+Justitie,
+          
+        </functie>
+        <naam>
+          <voornaam>I.
+W.</voornaam>
+          <achternaam>Opstelten</achternaam>
+        </naam>
+      </ondertekening>
+      <uitgifte>
+        <datum isodatum="2011-01-26">de <nadruk type="cur">zesentwintigste</nadruk>
+januari 2011</datum>
+        <ondertekening>
+          <functie>De 
+            Minister
+             van
+
+            Veiligheid en
+Justitie,
+            
+          </functie>
+          <naam>
+            <voornaam>I.
+W.</voornaam>
+            <achternaam>Opstelten</achternaam>
+          </naam>
+        </ondertekening>
+      </uitgifte>
+    </wetsluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">I</nr><titel status="officieel">, bedoeld in <intref status="actief" doc="1.0:v:BWBR0029475&amp;artikel=4">artikel 4</intref> van het Besluit elektronisch
+proces-verbaal</titel>
+      </kop>
+      <al>Voorschriften voor de
+omzetting van een proces-verbaal in een digitaal
+afschrift:</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+          <li.nr>1.</li.nr>
+          <al>Van de omzetting van het
+proces-verbaal of enig ander document in het strafproces in een
+digitaal afschrift is slechts sprake indien de omzetting geschiedt met
+een juiste en volledige weergave van de in het om te zetten
+proces-verbaal of enig ander document voorkomende
+gegevens.</al>
+        </li>
+        <li>
+          <li.nr>2.</li.nr>
+          <al>De
+verantwoordelijkheden en bevoegdheden binnen de organisatie ten aanzien
+van het proces van omzetting zijn vastgelegd en vastgesteld. Hierin
+zijn opgenomen de criteria voor en de frequentie van interne controles
+op het omzettingsproces.</al>
+        </li>
+        <li>
+          <li.nr>3.</li.nr>
+          <al>Ten aanzien van het
+proces-verbaal of enig ander document in het strafproces wordt minimaal
+vastgelegd: de wijze waarop deze worden ontvangen en de wijze waarop de
+gescande documenten in enig systeem worden opgenomen.</al>
+        </li>
+        <li>
+          <li.nr>4.</li.nr>
+          <al>Ten aanzien van de hardware
+worden de specificaties van de scanner vastgelegd.</al>
+        </li>
+        <li>
+          <li.nr>5.</li.nr>
+          <al>Ten aanzien van de software wordt
+vastgelegd:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de
+naam van het
+softwarepakket;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>het
+versienummer;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de
+releasedatum;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>de
+leverancier;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>voor
+zover van toepassing: de ge&#xEF;nstalleerde service packs of
+patches.</al>
+            </li>
+          </lijst>
+        </li>
+        <li>
+          <li.nr>6.</li.nr>
+          <al>Scanning geschiedt in
+kleur.</al>
+        </li>
+        <li>
+          <li.nr>7.</li.nr>
+          <al>Het digitale
+beeld wordt opgeslagen in een gestandaardiseerd, apparaatonafhankelijk
+kleurenprofiel.</al>
+        </li>
+        <li>
+          <li.nr>8.</li.nr>
+          <al>Als
+scanparameter geldt 300 dpi met bitdiepte 24.</al>
+        </li>
+        <li>
+          <li.nr>9.</li.nr>
+          <al>Ten aanzien van het
+bestandsformaat wordt gebruik gemaakt van zogenaamde open standaarden.
+Dit zijn standaarden die via een formeel en open proces binnen een
+erkend standaardisatieorgaan (bijvoorbeeld ISO, NEN, W3C) tot stand
+komen.</al>
+        </li>
+        <li>
+          <li.nr>10.</li.nr>
+          <al>Indien bij
+het scanproces gebruik wordt gemaakt van een tussenformaat, dan mag
+geen kwaliteitsverlies optreden bij de omzetting van het tussenformaat
+naar het uiteindelijke
+formaat.</al>
+        </li>
+      </lijst>
+    </bijlage>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">II</nr><titel status="officieel">, bedoeld in <intref status="actief" doc="1.0:v:BWBR0029475&amp;artikel=5">artikel 5</intref> van het Besluit elektronisch
+proces-verbaal</titel>
+      </kop>
+      <al>In deze bijlage wordt
+verstaan
+onder<noot id="n1e11188374" type="voet">
+          <noot.nr>1</noot.nr>
+          <noot.al>Begrippenlijst
+PKIoverheid, april     2010
+(http://www.logius.nl/nc/begrippenlijst).</noot.al>
+        </noot>:</al>
+      <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+        <li>
+          <al>
+            <nadruk type="cur">Veilig middel (ook wel SSCD of Secure Signature
+Creation Device):</nadruk> Een middel voor
+het aanmaken van elektronische handtekeningen dat voldoet aan de eisen
+gesteld krachtens <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.17" compleet="nee">artikel 18.17, eerste lid van de Telecommunicatiewet</extref>
+(definitie <extref status="actief" doc="1.0:v:BWBR0015046" compleet="nee">Wet elektronische handtekeningen</extref>). Binnen de PKI voor de
+overheid is in domein Burger gekozen voor de smartcard als SSCD. In
+domein Overheid en Bedrijven kunnen zowel smartcards als USB-tokens
+worden gebruikt, mits deze aan de gestelde eisen
+voldoen.</al>
+        </li>
+        <li>
+          <al>
+            <nadruk type="cur">Hash
+algoritme:</nadruk> Een functie die een
+bericht van willekeurige lengte omzet in een reeks met een vaste lengte
+en voldoet aan de volgende
+voorwaarden:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>Het
+is praktisch onuitvoerbaar om voor een gegeven uitvoer een invoer te
+vinden die deze uitvoer als resultaat
+heeft;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>Het is
+praktisch onuitvoerbaar om voor een gegeven invoer een tweede invoer te
+vinden die dezelfde uitvoer als resultaat
+heeft;</al>
+            </li>
+            <li>
+              <li.nr>&#x2022;</li.nr>
+              <al>Het is
+praktisch onuitvoerbaar om twee willekeurige berichten te vinden die
+dezelfde uitvoer als resultaat
+hebben;</al>
+            </li>
+          </lijst>
+          <al>(Voorbeelden zijn SHA-1
+of SHA-2 of
+RIPEMD-160).</al>
+        </li>
+        <li>
+          <al>
+            <nadruk type="cur">Encryptie:</nadruk> Een
+proces waarmee gegevens met behulp van een wiskundig algoritme en een
+cryptografische sleutel worden vercijferd, zodat deze onleesbaar worden
+voor onbevoegden.</al>
+          <al>De betrouwbaarheid van de
+encryptie hangt af van het algoritme, de implementatie daarvan, de
+lengte van de cryptografische sleutel en de gebruiksdiscipline. Bij
+symmetrische encryptie wordt bij het vercijferen en ontcijferen gebruik
+gemaakt van &#xE9;&#xE9;n en dezelfde, geheime, sleutel. Bij
+asymmetrische encryptie wordt gebruik gemaakt van een sleutelpaar. De
+ene sleutel, de private sleutel, is slechts bekend bij de eindgebruiker
+van deze sleutel en moet strikt geheim worden gehouden. De andere, de
+publieke sleutel, wordt verspreid onder communicatiepartners. Wat met
+de private sleutel is vercijferd, kan alleen met de bijbehorende
+publieke sleutel worden ontcijferd, en
+omgekeerd.</al>
+        </li>
+      </lijst>
+      <al>De
+onderstaande gegevens hebben tot doel om de geldigheid en ongewijzigde
+toestand aan te tonen, ongeacht het tijdstip waarop dit wordt gevraagd,
+van de elektronische handtekening in relatie tot het document, de
+gehanteerde certificaten, de gegevens omtrent de ondertekenaar(s) van
+het document en het tijdstip van de
+ondertekening(en);</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+          <li.nr>A.</li.nr>
+          <al>Gegevens
+omtrent het certificaat dat gebruikt is voor een elektronische
+handtekening:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>het
+publieke certificaat van de elektronische
+handtekening;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de
+identificerende gegevens van het
+certificaat;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de naam
+van de ondertekenaar zoals dat opgegeven is in het
+certificaat;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>de naam
+van de organisatie waartoe de ondertekenaar
+behoort;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>de
+identificatie en het land van vestiging van de afgevende
+certificatiedienstverlener(s);</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>de
+vermelding van de tijdstippen van het begin en van het einde van de
+geldigheidsduur van het
+certificaat;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>het
+tijdstip waarop de elektronische handtekening geplaatst is op basis van
+de elektronische dagtekening zoals die bij de handtekening gevoegd is
+op het moment van
+ondertekenen;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>alle
+certificaten, tot en met het stamcertificaat, waaruit de geldigheid van
+het onderhavige certificaat
+blijkt;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>de
+antwoorden van de certificatiedienstverlener(s) waaruit de geldigheid
+blijkt van alle certificaten zoals die gebruikt zijn op het moment van
+ondertekenen, overeenkomstig de geldende normen en standaarden,
+rekening houdend met de door een certificatiedienstverlener bekend
+gestelde tijdsduur tussen een verzoek tot intrekking van een
+gekwalificeerd certificaat tot een publicatie van die
+intrekking;</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>gegevens
+over de gehanteerde certificaat versie, het gehanteerde hash algoritme
+en het gehanteerde encryptie algoritme van ieder
+certificaat;</al>
+            </li>
+            <li>
+              <li.nr>k.</li.nr>
+              <al>een
+aanduiding of het certificaat een gekwalificeerd certificaat is of een
+andersoortig
+certificaat;</al>
+            </li>
+            <li>
+              <li.nr>l.</li.nr>
+              <al>een
+aanduiding of de handtekening door een veilig middel is
+aangemaakt.</al>
+            </li>
+          </lijst>
+        </li>
+        <li>
+          <li.nr>B.</li.nr>
+          <al>Gegevens
+omtrent het certificaat dat gebruikt is voor het plaatsen van de
+elektronische dagtekening, behorende bij een elektronische
+handtekening:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>het
+publieke certificaat van de elektronische
+dagtekening;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de
+identificerende gegevens van het
+certificaat;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>alle
+certificaten, tot en met het stamcertificaat, waaruit de geldigheid van
+het certificaat blijkt dat gebruikt is voor het plaatsen van de
+dagtekening;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>de
+antwoorden van de certificatiedienstverlener(s) waaruit de geldigheid
+blijkt van alle certificaten zoals die gebruikt zijn op het moment van
+de dagtekening, overeenkomstig de geldende normen en standaarden,
+rekening houdend met de door een certificatiedienstverlener bekend
+gestelde tijdsduur tussen een verzoek tot intrekking van een
+gekwalificeerd certificaat tot een publicatie van die
+intrekking;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>gegevens
+over de gehanteerde certificaat versie, het gehanteerde hash algoritme
+en het gehanteerde encryptie algoritme van ieder
+certificaat;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>een
+aanduiding of het certificaat een gekwalificeerd certificaat is of een
+andersoortig
+certificaat;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>een
+aanduiding of het certificaat door een veilig middel is
+aangemaakt.</al>
+            </li>
+          </lijst>
+        </li>
+        <li>
+          <li.nr>C.</li.nr>
+          <al>Gegevens
+omtrent de ondertekening van het
+document:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>voor
+zover beschikbaar de gegevens omtrent de plaats van de ondertekening,
+de rol van de ondertekenaar en de reden van de
+ondertekening;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>voor
+zover beschikbaar overige informatie voor een eenduidige interpretatie
+op basis waarvan een elektronische handtekening is geplaatst en
+naderhand is
+gevalideerd;</al>
+            </li>
+          </lijst>
+        </li>
+        <li>
+          <li.nr>D.</li.nr>
+          <al>Gegevens
+omtrent het moment waarop de validatie werd
+uitgevoerd:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>het
+tijdstip, op basis van een vertrouwd tijdstempel, waarop de verificatie
+heeft plaatsgevonden, tot op de minuut
+nauwkeurig;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>voor
+zover beschikbaar gegevens over de persoon of instantie die de
+verificatie
+uitvoert;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>voor zover
+beschikbaar de rol van de persoon of instantie die de verificatie
+uitvoert;</al>
+            </li>
+          </lijst>
+        </li>
+        <li>
+          <li.nr>E.</li.nr>
+          <al>Gegevens
+omtrent de waarborgen van de integriteit van de validatie gegevens (A
+tot en met D) en het elektronisch
+proces-verbaal:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>een
+verifieerbaar tijdstip waarop de gegevens beschermd zijn tegen
+wijzigingen;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de
+gehanteerde algoritmen waarmee de gegevens beschermd zijn tegen
+wijzigingen;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>een
+aanduiding voor de methodiek die gehanteerd is; deze methodiek zal
+elders moeten zijn
+gedocumenteerd;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>gegevens
+waarmee de integriteit geverifieerd kan
+worden.</al>
+            </li>
+          </lijst>
+        </li>
+      </lijst>
+    </bijlage>
+  </wet-besluit>
+</wetgeving>
+  	

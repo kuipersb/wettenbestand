@@ -1,0 +1,541 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0026017" dtdversie="2.0" id="418649" soort="ministeriele-regeling">
+  
+  <intitule>Regeling van de Minister van Sociale Zaken en Werkgelegenheid van
+    23&#xA0;juni 2009, nr. IVV/I/2009/13367, houdende regels omtrent tenuitvoerlegging
+    van bestuurlijke boeten en terugvordering van onverschuldigde betalingen op
+    grond van een aantal socialezekerheidswetten (Regeling tenuitvoerlegging
+    bestuurlijke boeten en terugvordering onverschuldigde betalingen)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Minister van Sociale Zaken en Werkgelegenheid,</wie>
+      <considerans>
+        <considerans.al>Handelende in overeenstemming met de Minister voor
+          Jeugd en Gezin en de Staatssecretaris van Sociale Zaken en
+          Werkgelegenheid;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op de <extref status="actief" doc="1.0:v:BWBR0002368&amp;artikel=17c" compleet="nee">artikelen 17c</extref> en <extref status="actief" doc="1.0:v:BWBR0002368&amp;artikel=24b" compleet="nee">24b van
+          de Algemene Kinderbijslagwet</extref>, <extref status="actief" doc="1.0:v:BWBR0007795&amp;artikel=41" compleet="nee">41</extref> en <extref status="actief" doc="1.0:v:BWBR0007795&amp;artikel=55" compleet="nee">55 van de Algemene nabestaandenwet</extref>,<extref status="actief" doc="1.0:v:BWBR0002221&amp;artikel=17e" compleet="nee">17e</extref> en
+          <extref status="actief" doc="1.0:v:BWBR0002221&amp;artikel=24b" compleet="nee">24b van de Algemene Ouderdomswet</extref>, <extref status="actief" doc="1.0:v:BWBR0004043&amp;artikel=14c" compleet="nee">14c</extref> en <extref status="actief" doc="1.0:v:BWBR0004043&amp;artikel=20b" compleet="nee">20b van de Toeslagenwet</extref>, <extref status="actief" doc="1.0:v:BWBR0004045&amp;artikel=27c" compleet="nee">27c</extref> en <extref status="actief" doc="1.0:v:BWBR0004045&amp;artikel=36b" compleet="nee">36b
+          van de Werkloosheidswet</extref>, <extref status="actief" doc="1.0:v:BWBR0008657&amp;artikel=42" compleet="nee">42</extref> en <extref status="actief" doc="1.0:v:BWBR0008657&amp;artikel=57" compleet="nee">57 van de Wet arbeidsongeschiktheidsvoorziening
+          jonggehandicapten</extref>, <extref status="actief" doc="1.0:v:BWBR0008656&amp;artikel=50" compleet="nee">50</extref> en <extref status="actief" doc="1.0:v:BWBR0008656&amp;artikel=65" compleet="nee">65 van de Wet arbeidsongeschiktheidsverzekering
+          zelfstandigen</extref>, <extref status="actief" doc="1.0:v:BWBR0002524&amp;artikel=29c" compleet="nee">29c</extref> en <extref status="actief" doc="1.0:v:BWBR0002524&amp;artikel=57b" compleet="nee">57b van de Wet op de arbeidsongeschiktheidsverzekering</extref>,
+          <extref status="actief" doc="1.0:v:BWBR0019057&amp;artikel=79" compleet="nee">79</extref> en <extref status="actief" doc="1.0:v:BWBR0019057&amp;artikel=93" compleet="nee">93 van de Wet werk en inkomen naar arbeidsvermogen</extref> en <extref status="actief" doc="1.0:v:BWBR0001888&amp;artikel=33b" compleet="nee">33b</extref> en <extref status="actief" doc="1.0:v:BWBR0001888&amp;artikel=45c" compleet="nee">45c van de
+          Ziektewet</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Definities</titel>
+        </kop>
+        <al>In deze regeling wordt verstaan onder:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>
+              <nadruk type="cur">AKW:</nadruk> <extref status="actief" doc="1.0:v:BWBR0002368" compleet="nee">Algemene Kinderbijslagwet</extref>;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>
+              <nadruk type="cur">Anw:</nadruk> <extref status="actief" doc="1.0:v:BWBR0007795" compleet="nee">Algemene nabestaandenwet</extref>;</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>
+              <nadruk type="cur">AOW:</nadruk> <extref status="actief" doc="1.0:v:BWBR0002221" compleet="nee">Algemene Ouderdomswet</extref>;</al>
+          </li>
+          <li>
+                           <li.nr>d.</li.nr>
+                           <al>IOW:
+<extref status="actief" doc="1.0:v:BWBR0024394" compleet="nee">Wet inkomensvoorziening oudere
+werklozen</extref>;</al>
+                        </li><li>
+            <li.nr>e.</li.nr>
+            <al>
+              <nadruk type="cur">TW:</nadruk> <extref status="actief" doc="1.0:v:BWBR0004043" compleet="nee">Toeslagenwet</extref>;</al>
+          </li>
+          <li>
+            <li.nr>f.</li.nr>
+            <al>
+              <nadruk type="cur">WW:</nadruk> <extref status="actief" doc="1.0:v:BWBR0004045" compleet="nee">Werkloosheidswet</extref>;</al>
+          </li>
+          <li>
+            <li.nr>g.</li.nr>
+            <al>
+              <nadruk type="cur">WAZO:</nadruk> <extref status="actief" doc="1.0:v:BWBR0013008" compleet="nee">Wet arbeid en zorg</extref>;</al>
+          </li>
+          <li>
+                           <li.nr>h.</li.nr>
+                           <al>
+                              <nadruk type="cur">Wet
+Wajong:</nadruk> <extref status="actief" doc="1.0:v:BWBR0008657" compleet="nee">Wet werk en arbeidsondersteuning
+jonggehandicapten</extref>;</al>
+                        </li>
+          <li>
+            <li.nr>i.</li.nr>
+            <al>
+              <nadruk type="cur">WAZ:</nadruk> <extref status="actief" doc="1.0:v:BWBR0008656" compleet="nee">Wet arbeidsongeschiktheidsverzekering zelfstandigen</extref>;</al>
+          </li>
+          <li>
+            <li.nr>j.</li.nr>
+            <al>
+              <nadruk type="cur">WAO:</nadruk> <extref status="actief" doc="1.0:v:BWBR0002524" compleet="nee">Wet op de arbeidsongeschiktheidsverzekering</extref>;</al>
+          </li>
+          <li>
+            <li.nr>k.</li.nr>
+            <al>
+              <nadruk type="cur">Wet WIA:</nadruk> <extref status="actief" doc="1.0:v:BWBR0019057" compleet="nee">Wet werk en inkomen naar arbeidsvermogen</extref>;</al>
+          </li>
+          <li>
+            <li.nr>l.</li.nr>
+            <al>
+              <nadruk type="cur">ZW:</nadruk> <extref status="actief" doc="1.0:v:BWBR0001888" compleet="nee">Ziektewet</extref>;</al>
+          </li>
+          <li>
+            <li.nr>m.</li.nr>
+            <al>
+              <nadruk type="cur">schuldenaar:</nadruk> degene aan wie een bestuurlijke boete is opgelegd of van wie
+                een bedrag wordt teruggevorderd;</al>
+          </li>
+          <li>
+            <li.nr>n.</li.nr>
+            <al>
+              <nadruk type="cur">werkgever:</nadruk> de schuldenaar die tevens werkgever of eigenrisicodrager
+                is;</al>
+          </li>
+          <li>
+            <li.nr>o.</li.nr>
+            <al>
+              <nadruk type="cur">bestuurlijke boete:</nadruk> een bestuurlijke boete als bedoeld in het eerste lid van de
+                <extref status="actief" doc="1.0:v:BWBR0002368&amp;artikel=17a" compleet="nee">artikelen 17a van de AKW</extref>, <extref status="actief" doc="1.0:v:BWBR0007795&amp;artikel=39" compleet="nee">39 van de Anw</extref>, <extref status="actief" doc="1.0:v:BWBR0002221&amp;artikel=17c" compleet="nee">17c van de AOW</extref>, <extref status="actief" doc="1.0:v:BWBR0024394&amp;artikel=21" compleet="nee">21 van de IOW</extref>, <extref status="actief" doc="1.0:v:BWBR0004043&amp;artikel=14a" compleet="nee">14a van de TW</extref>, <extref status="actief" doc="1.0:v:BWBR0004045&amp;artikel=27a" compleet="nee">27a van
+                de WW</extref>, <extref status="actief" doc="1.0:v:BWBR0013008&amp;artikel=3%3A16" compleet="nee">3:16</extref> en <extref status="actief" doc="1.0:v:BWBR0013008&amp;artikel=3%3A27" compleet="nee">3:27 van de WAZO</extref>, <extref status="actief" doc="1.0:v:BWBR0008657&amp;artikel=2%3A69" compleet="nee">2:69</extref>
+en <extref status="actief" doc="1.0:v:BWBR0008657&amp;artikel=3%3A40" compleet="nee">3:40 van de Wet
+Wajong</extref>, <extref status="actief" doc="1.0:v:BWBR0008656&amp;artikel=48" compleet="nee">48 van de WAZ</extref>, <extref status="actief" doc="1.0:v:BWBR0002524&amp;artikel=29a" compleet="nee">29a van de
+                WAO</extref>, <extref status="actief" doc="1.0:v:BWBR0019057&amp;artikel=91" compleet="nee">91 van de Wet WIA</extref>, en in de <extref status="actief" doc="1.0:v:BWBR0001888&amp;artikel=38" compleet="nee">artikelen 38, vierde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0001888&amp;artikel=38a" compleet="nee">38a, zevende lid</extref>,
+                <extref status="actief" doc="1.0:v:BWBR0001888&amp;artikel=45a" compleet="nee">45a, eerste lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0001888&amp;artikel=63c" compleet="nee">63c van de ZW</extref>;</al>
+          </li>
+          <li><li.nr>p.</li.nr>
+            <al><nadruk type="cur">vordering:</nadruk></al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het bedrag dat wordt teruggevorderd op grond van de
+                    <extref status="actief" doc="1.0:v:BWBR0002368&amp;artikel=24" compleet="nee">artikelen 24 van de AKW</extref>, <extref status="actief" doc="1.0:v:BWBR0007795&amp;artikel=53" compleet="nee">53 van de Anw</extref>, <extref status="actief" doc="1.0:v:BWBR0002221&amp;artikel=24" compleet="nee">24 van de AOW</extref>, <extref status="actief" doc="1.0:v:BWBR0024394&amp;artikel=34" compleet="nee">34 van de
+IOW</extref>, <extref status="actief" doc="1.0:v:BWBR0004043&amp;artikel=20" compleet="nee">20 van de TW</extref>, <extref status="actief" doc="1.0:v:BWBR0004045&amp;artikel=36" compleet="nee">36 van de
+                    WW</extref>, <extref status="actief" doc="1.0:v:BWBR0013008&amp;artikel=3%3A16" compleet="nee">3:16</extref> en <extref status="actief" doc="1.0:v:BWBR0013008&amp;artikel=3%3A27" compleet="nee">3:27 van de WAZO</extref>, <extref status="actief" doc="1.0:v:BWBR0008657&amp;artikel=2%3A59" compleet="nee">2:59</extref> of
+<extref status="actief" doc="1.0:v:BWBR0008657&amp;artikel=3%3A56" compleet="nee">3:56 van de Wet Wajong</extref>, <extref status="actief" doc="1.0:v:BWBR0008656&amp;artikel=63" compleet="nee">63 van de WAZ</extref>, <extref status="actief" doc="1.0:v:BWBR0002524&amp;artikel=57" compleet="nee">57 van de WAO</extref>,
+                    <extref status="actief" doc="1.0:v:BWBR0019057&amp;artikel=77" compleet="nee">77 van de Wet WIA</extref>, of <extref status="actief" doc="1.0:v:BWBR0001888&amp;artikel=33" compleet="nee">33 van de ZW</extref>; ;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het bedrag dat als bestuurlijke boete is opgelegd;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>het bedrag dat het UWV op de werkgever verhaalt op grond
+                    van de <extref status="actief" doc="1.0:v:BWBR0002524&amp;artikel=71" compleet="nee">artikelen 71, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0002524&amp;artikel=75a" compleet="nee">75a, vierde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0002524&amp;artikel=75b" compleet="nee">75b, zevende lid</extref>, <extref status="actief" doc="1.0:v:BWBR0002524&amp;artikel=75f" compleet="nee">75f, eerste
+                    lid, van de WAO</extref>, <extref status="actief" doc="1.0:v:BWBR0019057&amp;artikel=72" compleet="nee">72, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0019057&amp;artikel=83" compleet="nee">83, derde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0019057&amp;artikel=84" compleet="nee">84, tweede of vierde lid, van
+                    de Wet WIA</extref>, <extref status="actief" doc="1.0:v:BWBR0001888&amp;artikel=39a" compleet="nee">39a, eerste lid</extref>, of <extref status="actief" doc="1.0:v:BWBR0001888&amp;artikel=63a" compleet="nee">63a, derde, vierde of vijfde lid, van de ZW</extref>
+                    of</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>het bedrag van een aan een werkgever verstrekt
+                    re-integratie-instrument dat wordt teruggevorderd op grond van <extref status="actief" doc="1.0:v:BWBR0019057&amp;artikel=77" compleet="nee">artikel 77 van
+                    de Wet WIA</extref>;</al>
+              </li>
+            </lijst></li>
+          <li>
+            <li.nr>q.</li.nr>
+            <al>
+              <nadruk type="cur">aflossingscapaciteit:</nadruk> het deel van het inkomen van de schuldenaar dat met
+                inachtneming van de beslagvrije voet, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0001827&amp;artikel=475c" compleet="nee">artikelen 475c tot en met
+                475e van het Wetboek van Burgerlijke Rechtsvordering</extref>, kan worden aangewend voor
+                betaling of verrekening van de vordering;</al>
+          </li>
+          <li>
+            <li.nr>r.</li.nr>
+            <al>
+              <nadruk type="cur">vermogen:</nadruk> vermogensrechten, onroerende en roerende zaken, niet zijnde
+                gebruikelijke huisraad, waarvan de dagwaarde per zaak &#x20AC;&#xA0;1 134 of meer
+                bedraagt;</al>
+          </li>
+          <li>
+            <li.nr>s.</li.nr>
+            <al>
+              <nadruk type="cur">inlichtingenverplichting:</nadruk> de verplichting, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0002368&amp;artikel=15" compleet="nee">artikelen 15 van de AKW</extref>, <extref status="actief" doc="1.0:v:BWBR0007795&amp;artikel=35" compleet="nee">35
+                van de Anw</extref>, <extref status="actief" doc="1.0:v:BWBR0002221&amp;artikel=49" compleet="nee">49 van de AOW</extref>, <extref status="actief" doc="1.0:v:BWBR0024394&amp;artikel=12" compleet="nee">12, eerste
+lid, van de
+IOW</extref>, <extref status="actief" doc="1.0:v:BWBR0004043&amp;artikel=12" compleet="nee">12 van de TW</extref>, <extref status="actief" doc="1.0:v:BWBR0004045&amp;artikel=25" compleet="nee">25 van de WW</extref>, <extref status="actief" doc="1.0:v:BWBR0013008&amp;artikel=3%3A16" compleet="nee">3:16</extref> en <extref status="actief" doc="1.0:v:BWBR0013008&amp;artikel=3%3A27" compleet="nee">3:27 van de
+                WAZO</extref>, <extref status="actief" doc="1.0:v:BWBR0008657&amp;artikel=2%3A7" compleet="nee">2:7</extref>
+en <extref status="actief" doc="1.0:v:BWBR0008657&amp;artikel=3%3A74" compleet="nee">3:74 van de Wet
+Wajong</extref>, <extref status="actief" doc="1.0:v:BWBR0008656&amp;artikel=70" compleet="nee">70 van de WAZ</extref>, <extref status="actief" doc="1.0:v:BWBR0002524&amp;artikel=80" compleet="nee">80 van de WAO</extref>, <extref status="actief" doc="1.0:v:BWBR0019057&amp;artikel=27" compleet="nee">27, eerste lid, van de
+                Wet WIA</extref> en <extref status="actief" doc="1.0:v:BWBR0001888&amp;artikel=31" compleet="nee">31, eerste lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0001888&amp;artikel=49" compleet="nee">49 van de ZW</extref>;</al>
+          </li>
+          <li>
+            <li.nr>t.</li.nr>
+            <al>
+              <nadruk type="cur">bijstandsnorm:</nadruk> de voor de schuldenaar op grond van <extref status="actief" doc="1.0:v:BWBR0015703&amp;paragraaf=3.2" compleet="nee">hoofdstuk 3, paragraaf
+                3.2</extref> en <extref status="actief" doc="1.0:v:BWBR0015703&amp;paragraaf=3.3" compleet="nee">paragraaf 3.3, van de Wet werk en bijstand</extref> geldende bijstandsnorm;</al>
+          </li>
+          <li>
+            <li.nr>u.</li.nr>
+            <al>
+              <nadruk type="cur">UWV:</nadruk> Uitvoeringsinstituut werknemersverzekeringen, genoemd in
+                <extref status="actief" doc="1.0:v:BWBR0013060&amp;hoofdstuk=5" compleet="nee">hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen</extref>;</al>
+          </li>
+          <li>
+            <li.nr>v.</li.nr>
+            <al>
+              <nadruk type="cur">SVB:</nadruk> de Sociale verzekeringsbank, genoemd in <extref status="actief" doc="1.0:v:BWBR0013060&amp;hoofdstuk=6" compleet="nee">hoofdstuk 6 van de
+                Wet structuur uitvoeringsorganisatie werk en inkomen</extref>.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">1a</nr>
+                     </kop>
+                     <al>Deze
+regeling berust mede op de <extref status="actief" doc="1.0:v:BWBR0024394&amp;artikel=22" compleet="nee">artikelen 22</extref>, <extref status="actief" doc="1.0:v:BWBR0024394&amp;artikel=24" compleet="nee">24, vijfde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0024394&amp;artikel=35" compleet="nee">35, vierde
+lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0024394&amp;artikel=37" compleet="nee">37 van de
+IOW</extref>.</al>
+                  </artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Bevoegdheid verrekening met werkgever</titel>
+        </kop>
+        <al>Het UWV is, naast de in <intref status="actief" doc="1.0:v:BWBR0026017&amp;artikel=1">artikel 1, onderdelen a tot en met
+l</intref>,
+          genoemde wetten opgenomen bevoegdheden tot verrekening van vorderingen op
+          werknemers, tevens bevoegd tot verrekening van een vordering op de werkgever
+          met een aan de werkgever te betalen bedrag.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Standaard regeling voor uitstel van betaling</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Het UWV en de SVB stellen de termijn waarvoor uitstel van
+            betaling wordt verleend, alsmede de daaraan verbonden periodieke betalingen of
+            verrekeningen, vast na overleg met de schuldenaar en met inachtneming van dit
+            artikel, tenzij:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de vordering een bestuurlijke boete betreft;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de onverschuldigde betaling het gevolg is van een gedraging
+                waarvoor aan de schuldenaar een bestuurlijke boete is opgelegd;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de onverschuldigde betaling het gevolg is van een gedraging
+                waarvan het UWV of de SVB aangifte heeft gedaan of waarvan proces-verbaal is
+                opgemaakt en ingezonden; of</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>de vordering het gevolg is van het niet nakomen van de
+                inlichtingenverplichting.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Het UWV en de SVB verlenen uitstel van betaling voor ten hoogste
+            36 maanden. De geldschuld wordt gedurende die periode in termijnen ter hoogte
+            van de volledige aflossingscapaciteit betaald of verrekend.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>In afwijking van het tweede lid, tweede zin, wordt op verzoek van
+            de schuldenaar ten minste de halve aflossingscapaciteit toegepast onder de
+            voorwaarde dat de vordering geheel wordt voldaan binnen de in het tweede lid
+            genoemde termijn van 36 maanden. De schuldenaar wordt erop gewezen dat
+            kwijtschelding als bedoeld in de <extref status="actief" doc="1.0:v:BWBR0002368&amp;artikel=24" compleet="nee">artikelen 24, derde lid, van de AKW</extref>, <extref status="actief" doc="1.0:v:BWBR0007795&amp;artikel=53" compleet="nee">53, derde
+            lid, van de Anw</extref>, <extref status="actief" doc="1.0:v:BWBR0002221&amp;artikel=24" compleet="nee">24, derde lid, van de AOW</extref>, <extref status="actief" doc="1.0:v:BWBR0024394&amp;artikel=35" compleet="nee">35, tweede lid, van de
+IOW</extref>, <extref status="actief" doc="1.0:v:BWBR0004043&amp;artikel=20" compleet="nee">20, derde lid, van de TW</extref>, <extref status="actief" doc="1.0:v:BWBR0004045&amp;artikel=36" compleet="nee">36, derde
+            lid, van de WW</extref>, <extref status="actief" doc="1.0:v:BWBR0013008&amp;artikel=3%3A16" compleet="nee">3:16</extref> en <extref status="actief" doc="1.0:v:BWBR0013008&amp;artikel=3%3A27" compleet="nee">3:27 van de WAZO</extref>, <extref status="actief" doc="1.0:v:BWBR0008657&amp;artikel=2%3A59" compleet="nee">2:59, derde lid</extref>, of <extref status="actief" doc="1.0:v:BWBR0008657&amp;artikel=3%3A56" compleet="nee">3:56, derde lid, van de Wet
+Wajong</extref>, <extref status="actief" doc="1.0:v:BWBR0008656&amp;artikel=63" compleet="nee">63,
+            derde lid, van de WAZ</extref>, <extref status="actief" doc="1.0:v:BWBR0002524&amp;artikel=57" compleet="nee">57, derde lid, van de WAO</extref>, <extref status="actief" doc="1.0:v:BWBR0019057&amp;artikel=77" compleet="nee">77, derde lid, van de Wet WIA</extref>
+            of <extref status="actief" doc="1.0:v:BWBR0001888&amp;artikel=33" compleet="nee">33, derde lid, van de ZW</extref> niet mogelijk is.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Indien de schuldenaar hogere periodieke betalingen of
+            verrekeningen voorstelt dan het bedrag, bedoeld in het tweede lid, stelt het
+            UWV of de SVB de termijnen conform dit voorstel vast.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>De periodieke betaling of verrekening wordt gesteld op de
+            volledige aflossingscapaciteit verminderd met 5% van de bijstandsnorm
+            indien:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de schuldenaar met aanwending van zijn volledige
+                aflossingscapaciteit en vermogen niet in staat is de vordering binnen 36
+                maanden te voldoen; en</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>periodieke betaling of verrekening gedurende 60 maanden van
+                het aldus verkregen bedrag leidt tot een grotere voldoening van de vordering
+                dan betaling of verrekening gedurende 36 maanden van het op grond van het
+                tweede en derde lid verkregen bedrag.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">6</lidnr>
+          <al>Indien de schuldenaar, bij aanwending van zijn volledige
+            aflossingscapaciteit, de vordering niet binnen 36 maanden of bij aanwending van
+            de volledige aflossingscapaciteit verminderd met 5% van de bijstandsnorm, niet
+            binnen 60 maanden volledig zal kunnen voldoen, wendt hij zijn vermogen aan
+            zodat een zodanig gedeelte van de vordering binnen zes weken, nadat het UWV of
+            de SVB aan de schuldenaar uitstel van betaling heeft verleend, wordt voldaan
+            dat hij het resterende deel van de geldschuld binnen 36 maanden, dan wel 60
+            maanden, kan voldoen.</al>
+          <al>Indien echter de schuldenaar ten genoegen van het UWV of de SVB
+            zekerheid stelt voor voldoening van de gehele vordering binnen 36 maanden, dan
+            wel 60 maanden, nadat uitstel van betaling is verleend, behoeft de schuldenaar
+            zijn vermogen niet aan te wenden.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">7</lidnr>
+          <al>Indien toepassing van dit artikel tot een kennelijk onredelijk
+            resultaat leidt kan het UWV of de SVB van het eerste tot en met zesde lid
+            afwijken.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Regeling voor uitstel van betaling bij schending
+            inlichtingenplicht</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Het UWV en de SVB stellen in de uitzonderingsgevallen genoemd in
+            artikel 3, eerste lid, onderdelen a tot en met d, de termijn waarvoor uitstel
+            van betaling wordt verleend, alsmede de daaraan verbonden periodieke betalingen
+            of verrekeningen, vast na overleg met de schuldenaar en met inachtneming van
+            dit artikel.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De periodieke betalingen of verrekeningen worden door het UWV en
+            de SVB zodanig vastgesteld dat gebruik wordt gemaakt van de volledige
+            aflossingscapaciteit van de schuldenaar.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Indien de schuldenaar hogere periodieke betalingen of
+            verrekeningen voorstelt dan het bedrag, bedoeld in het tweede lid, dan stelt
+            het UWV of de SVB het bedrag conform dit voorstel vast.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Indien de schuldenaar de vordering niet binnen 12 maanden
+            volledig zal kunnen voldoen, wendt hij zijn vermogen aan zodat een zodanig
+            gedeelte van de vordering binnen zes weken, nadat het UWV of de SVB aan de
+            schuldenaar uitstel van betaling heeft verleend, wordt voldaan dat hij de
+            resterende vordering binnen 12 maanden kan voldoen. Indien echter de
+            schuldenaar ten genoegen van het UWV of de SVB zekerheid stelt voor voldoening
+            van de gehele vordering binnen 12 maanden, nadat uitstel van betaling is
+            verleend, behoeft de schuldenaar zijn vermogen niet aan te wenden.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>Onverminderd het bepaalde in artikel 8 stelt het UWV of de SVB de
+            termijnen waarbinnen wordt verrekend of moet worden betaald vast over een
+            periode van meer dan 12 maanden indien de schuldenaar, ook na aanwending van
+            zijn vermogen, niet in staat is de vordering binnen 12 maanden te voldoen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">6</lidnr>
+          <al>Artikel 3, zevende lid, is van overeenkomstige toepassing op dit
+            artikel.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Voldoening vordering tot en met &#x20AC;&#xA0;300,&#x2013;</titel>
+        </kop>
+        <al>Indien de vordering op de schuldenaar niet meer bedraagt dan
+          &#x20AC;&#xA0;300,&#x2013; stelt het UWV of de SVB, in afwijking van de artikelen 3 en 4, de wijze
+          waarop deze vordering moet worden voldaan vast zonder de schuldenaar in de
+          gelegenheid te stellen een voorstel te doen met betrekking tot de wijze van
+          voldoening van de vordering, met dien verstande dat per periode van een maand
+          de aflossing op niet meer dan &#x20AC;&#xA0;52,&#x2013; kan worden vastgesteld.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Uitstel van betaling op voorstel schuldenaar</titel>
+        </kop>
+        <al>Het UWV en de SVB kunnen, in afwijking van de artikelen 3 en 4,
+          uitstel van betaling verlenen conform een voorstel van de schuldenaar
+          indien:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>de schuldenaar hierom gemotiveerd verzoekt tot uiterlijk zes
+              weken na bekendmaking van een beschikking tot betaling van een geldschuld;
+              en</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>het voorstel inhoudt dat de gehele vordering binnen 12 maanden,
+              eventueel door middel van periodieke betalingen of verrekeningen, wordt
+              voldaan.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Voorschriften uitstel van betaling</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Het UWV en de SVB verbinden aan een beschikking tot uitstel van
+            betaling in ieder geval de voorschriften dat:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de vordering gedurende de periode waarover uitstel van
+                betaling is verleend door middel van betalingen of verrekeningen, in
+                periodieken of ineens, wordt voldaan; en</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de beschikking tot uitstel van betaling kan worden
+                ingetrokken of gewijzigd indien wijziging plaatsvindt in de hoogte van de
+                inkomsten van de schuldenaar.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Het UWV en de SVB bepalen in de beschikking tot uitstel van
+            betaling dat slechts wettelijke rente als bedoeld in artikel 4:98 van de
+            Algemene wet bestuursrecht is verschuldigd vanaf het tijdstip dat de termijn is
+            verstreken waarbinnen volgens die beschikking de betaling had moeten
+            plaatsvinden of had moeten worden verrekend en dat deze rente slechts
+            verschuldigd is over de resterende vordering.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Versoepeling betalingsregeling na vijf jaar</titel>
+        </kop>
+        <al>Indien de schuldenaar de vordering na vijf jaren, waarin hij zich
+          heeft gehouden aan de vastgestelde periodieke betalingen of verrekeningen, nog
+          niet volledig heeft voldaan wordt de periodieke betaling of verrekening gesteld
+          op de volledige aflossingscapaciteit verminderd met 5% van de
+          bijstandsnorm.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">9</nr>
+          <titel status="officieel">Toerekening van betalingen</titel>
+        </kop>
+        <al>Tenzij de schuldenaar een andere vordering aanwijst wordt een
+          betaling, die zou kunnen worden toegerekend aan meerdere vorderingen, eerst
+          toegerekend aan een verschuldigde bestuurlijke boete.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">10</nr>
+          <titel status="officieel">Toepasselijkheid op de werkgever</titel>
+        </kop>
+        <al>De artikelen 3, 4 en 8 zijn niet van toepassing op de
+          werkgever.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">11</nr>
+          <titel status="officieel">Intrekken andere regelingen en overgangsrecht</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De Regeling betaling, terugvordering en tenuitvoerlegging van
+            boeten en onverschuldigde betalingen, het Besluit incasso boeten en
+            onverschuldigde betalingen werkgevers en het Besluit invordering boeten en
+            onverschuldigd betaalde bedragen AOW, Anw en AKW worden ingetrokken.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Een regeling als bedoeld in het eerste lid blijft van toepassing
+            ten aanzien van een verplichting tot betaling van een geldsom die is
+            vastgesteld voor het tijdstip waarop deze regeling in werking treedt.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">12</nr>
+          <titel status="officieel">Inwerkingtreding</titel>
+        </kop>
+        <al>Deze regeling treedt in werking op het tijdstip waarop de Vierde
+          tranche Algemene wet bestuursrecht in werking treedt.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">13</nr>
+          <titel status="officieel">Citeertitel</titel>
+        </kop>
+        <al>Deze regeling wordt aangehaald als: Regeling tenuitvoerlegging
+          bestuurlijke boeten en terugvordering onverschuldigde betalingen.</al>
+      </artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling zal met de toelichting in de Staatscourant worden
+          geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Den Haag</plaats>
+          <datum isodatum="2009-06-23">23 juni 2009</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>De <functie>Minister</functie> van
+        <organisatie afkorting="SZW">Sociale Zaken en Werkgelegenheid</organisatie>,
+        <naam>
+          <voornaam>J.P.H.</voornaam>
+          <achternaam>Donner</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

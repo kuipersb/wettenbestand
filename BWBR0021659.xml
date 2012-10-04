@@ -1,0 +1,333 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0021659" dtdversie="2.0" id="375069" soort="zbo">
+  
+  <intitule>Regeling van De Nederlandsche Bank N.V. van 30&#xA0;maart 2007, nr.&#xA0;Juza/2007/00014/CLR, houdende regels met betrekking tot het rapportagekader als bedoeld in artikel 32 van het Besluit financieel toetsingskader pensioenfondsen (Regeling informatieverstrekking pensioenfondsen)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Nederlandsche Bank N.V.,</wie>
+      <considerans>
+        <considerans.al>Na overleg met de representatieve organisaties;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=32" compleet="nee">artikel 32 van het Besluit financieel toetsingskader pensioenfondsen</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Inleidende Bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1.1</nr>
+            <titel status="officieel">Definities</titel>
+          </kop>
+          <al>In deze regeling wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>Besluit: <extref status="actief" doc="1.0:v:BWBR0020871" compleet="nee">Besluit financieel toetsingskader pensioenfondsen</extref>;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>DNB: De Nederlandsche Bank N.V.; en</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>fonds: pensioenfonds als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020809&amp;artikel=1" compleet="nee">artikel 1 van de Pensioenwet</extref> respectievelijk beroepspensioenfonds als bedoeld in <extref status="actief" doc="1.0:v:BWBR0018831&amp;artikel=1" compleet="nee">artikel 1 van de Wet verplichte beroepspensioenregeling</extref>.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1.2</nr>
+            <titel status="officieel">Reikwijdte</titel>
+          </kop>
+          <al>Deze regeling is van toepassing op fondsen.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Kwartaalstaten</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2.1</nr>
+            <titel status="officieel">Modellen</titel>
+          </kop>
+          <al>De gegevens, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdelen c, onder 5&#xB0;., f, h, onder 3&#xB0;., j, onder 1&#xB0;., k p en q, en tweede lid, onderdelen a en c, van het Besluit</extref>, worden als volgt in de volgende modellen van <intref status="actief" doc="1.0:v:BWBR0021659&amp;bijlage=1">bijlage 1</intref> bij deze regeling aan DNB verstrekt:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>in het model van staat K101: gegevens betreffende de dekkingsgraad als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel f, van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>in het model van staten K201 tot en met K205: specificatie van de beleggingen met betrekking tot de valuta, de risicoklassen, derivatenposities en beleggingsrendementen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel c, onder 5&#xB0;., van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>in het model van staat K301: specificatie van de beleggingen met betrekking tot de z-score als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel c, onder 5&#xB0;., van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>in het model van staat K401: premiegegevens over het nieuwe jaar, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel k, van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>in het model van staat K501: gegevens betreffende de toepassing van een herstelplan als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel p, van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>in het model van staat K601: gegevens betreffende de toeslagverlening als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel h, onder 3&#xB0;., van het Besluit</extref>; en</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>in het model van staat K602: de kenmerken van uitgevoerde pensioenregelingen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdelen j, onder 1&#xB0;., en q</extref>, en <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, tweede lid, onderdelen a en c, van het Besluit</extref>.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2.2</nr>
+            <titel status="officieel">Eisen aan de gegevensverstrekking</titel>
+          </kop>
+          <al>De regels, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=32" compleet="nee">artikel 32, aanhef en onderdelen b tot en met e, van het Besluit</extref>, zijn, voor wat betreft de kwartaalstaten, gesteld in de in <intref status="actief" doc="1.0:v:BWBR0021659&amp;bijlage=1">bijlage 1</intref> bij deze regeling opgenomen modellen van de kwartaalstaten en de daarbij behorende toelichting.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2.3</nr>
+            <titel status="officieel">Indieningstermijn en -frequentie</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De in <intref status="actief" doc="1.0:v:BWBR0021659&amp;artikel=2.1">artikel 2:1</intref> bedoelde gegevens worden met de volgende frequentie aan DNB verstrekt:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de dekkingsgraad: elk kalenderkwartaal;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de specificatie van de beleggingen: elk kalenderkwartaal;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de z-score: elk eerste kalenderkwartaal;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de premiegegevens: elk vierde kalenderkwartaal;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>gegevens over toepassing van een herstelplan: elk vierde kalenderkwartaal;</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>gegevens betreffende de gevolgen van de wijziging van de pensioenregeling voor de toeslagverlening: elk vierde kalenderkwartaal; en</al>
+              </li>
+              <li>
+                <li.nr>g.</li.nr>
+                <al>de kenmerken van uitgevoerde pensioenregelingen: elk vierde kalenderkwartaal en, voor zover dit een ander kwartaal betreft, elk kalenderkwartaal waarin een bestuursbesluit tot wijziging van &#xE9;&#xE9;n of meer pensioenregelingen is genomen.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het fonds waarborgt dat de in <intref status="actief" doc="1.0:v:BWBR0021659&amp;artikel=2.1">artikel 2:1</intref> bedoelde gegevens uiterlijk dertig werkdagen na afloop van het toepasselijke kalenderkwartaal in het bezit van DNB zijn.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Jaarstaten</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3.1</nr>
+            <titel status="officieel">Modellen</titel>
+          </kop>
+          <al>De gegevens, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdelen a tot en met e, g tot en met i, j, onder 2&#xB0;., en l tot en met o, van het Besluit</extref>, worden als volgt in de volgende modellen van <intref status="actief" doc="1.0:v:BWBR0021659&amp;bijlage=2">bijlage 2</intref> bij deze regeling aan DNB verstrekt:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>in het model van staten J101 tot en met J103: gegevens betreffende het fonds en zijn organisatie als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel a, van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>in het model van staat J201: een bestuursverslag als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel b, van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>in het model van staten J301 en J302: gegevens betreffende de enkelvoudige balans en indien van toepassing, de geconsolideerde balans als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel c, aanhef, van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>in het model van staten J303 tot en met J305: een specificatie van de activa als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel c, onder 1&#xB0;., van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>in het model van staat J306: een specificatie van de passiva als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel c, onder 2&#xB0;., van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>in het model van staat J307: informatie over ontvangen en gestelde zekerheden en garanties als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel c, onder 3&#xB0;., van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>in het model van staat J308: een toelichting op de balans als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel c, aanhef, van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>in het model van staten J309 en J310: de financi&#xEB;le relaties en transacties van het fonds als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel d, van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>in het model van staten J311 en J312: informatie over grote posten binnen de beleggingen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel c, onder 4&#xB0;., van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>in het model van staten J313 en J314: specificatie van de beleggingen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel c, onder 5&#xB0;., van het Besluit</extref>, voor zover er verschillen te rapporteren zijn ten opzichte van de rapportage ingevolge <intref status="actief" doc="1.0:v:BWBR0021659&amp;artikel=2.1">artikel 2:1, onderdelen b en c</intref>;</al>
+            </li>
+            <li>
+              <li.nr>k.</li.nr>
+              <al>in het model van staten J401 en J402: een rekening van baten en lasten met specificatie van de posten als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel e, van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>l.</li.nr>
+              <al>in het model van staten J501 tot en met J505: toetsing van het eigen vermogen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel g, van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>m.</li.nr>
+              <al>in het model van staten J601 tot en met J606: actuari&#xEB;le staten als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel h, van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>n.</li.nr>
+              <al>in het model van staat J701: gegevens betreffende het deelnemersbestand als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel i, van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>o.</li.nr>
+              <al>in het model van staat J702: het aantal deelnemers aan een pensioenregeling als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel j, onder 2&#xB0;., van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>p.</li.nr>
+              <al>in het model van staten J801 en J802: gegevens betreffende herverzekering als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel l, van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>q.</li.nr>
+              <al>in het model van staat J901: verplichtingen van het fonds voor risico van de deelnemers als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel m, van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>r.</li.nr>
+              <al>in het model van staat J902: uitvoering van een VUT-regeling als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel n, van het Besluit</extref>; en</al>
+            </li>
+            <li>
+              <li.nr>s.</li.nr>
+              <al>in het model van staat J903: uitvoering van een inkoopregeling als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=30" compleet="nee">artikel 30, eerste lid, onderdeel o, van het Besluit</extref>.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3.2</nr>
+            <titel status="officieel">Eisen aan de gegevensverstrekking</titel>
+          </kop>
+          <lid><lidnr status="redactioneel">1</lidnr><al>De regels, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=32" compleet="nee">artikel 32, aanhef en onderdelen b tot en met e, van het Besluit</extref>, zijn, voor wat betreft de jaarstaten, gesteld in de in <intref status="actief" doc="1.0:v:BWBR0021659&amp;bijlage=2">bijlage 2</intref> bij deze regeling opgenomen modellen van de jaarstaten en de daarbij behorende toelichting.</al></lid>
+        <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De schriftelijke verzending van de controleverklaring, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=33" compleet="nee">artikel 33, tweede lid, van het Besluit</extref> geschiedt door het, door de accountant, ter beschikking stellen aan DNB van een afdruk van de ingevulde staat J103 van <intref status="actief" doc="1.0:v:BWBR0021659&amp;bijlage=2">bijlage 2</intref> bij deze regeling, voorzien van een handgeschreven handtekening van die accountant.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De schriftelijke verzending van de controleverklaring, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=33" compleet="nee">artikel 33, derde lid, van het Besluit</extref> geschiedt door het, door de actuaris, ter beschikking stellen aan DNB van een afdruk van de ingevulde staat J606 van <intref status="actief" doc="1.0:v:BWBR0021659&amp;bijlage=2">bijlage 2</intref> bij deze regeling, voorzien van een handgeschreven handtekening van die actuaris.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>De schriftelijke verzending van de controleverklaring, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020871&amp;artikel=33" compleet="nee">artikel 33, vierde lid, van het Besluit</extref> geschiedt door het, door het bestuur, ter beschikking stellen aan DNB van een afdruk van de ingevulde staat J104 van <intref status="actief" doc="1.0:v:BWBR0021659&amp;bijlage=2">bijlage 2</intref> bij deze regeling, voorzien van een handgeschreven handtekening van het bestuur.</al>
+            </lid></artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3.3</nr>
+            <titel status="officieel">Indieningstermijn en -frequentie</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De in <intref status="actief" doc="1.0:v:BWBR0021659&amp;artikel=3.1">artikel 3:1</intref> bedoelde gegevens worden eenmaal per kalenderjaar aan DNB verstrekt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het fonds waarborgt dat de in <intref status="actief" doc="1.0:v:BWBR0021659&amp;artikel=3.1">artikel 3:1</intref> bedoelde gegevens uiterlijk 30&#xA0;juni, na afloop van het kalenderjaar waarop de rapportage betrekking heeft, in het bezit van DNB zijn.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4.1</nr>
+            <titel status="officieel">Overgangsrecht</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De op grond van deze regeling te verstrekken gegevens worden voor de eerste maal verstrekt over het boekjaar dat aanvangt op of na 1&#xA0;januari 2007.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Ten aanzien van boekjaar 2006 worden de gegevens verstrekt overeenkomstig het <extref status="actief" doc="1.0:v:BWBR0009874" compleet="nee">Besluit staten pensioenfondsen</extref> respectievelijk de <extref status="actief" doc="1.0:v:BWBR0019290&amp;artikel=22" compleet="nee">artikelen 22 tot en met 26 van het Besluit verplichte beroepspensioenregeling</extref> zoals deze luidden op 31&#xA0;december 2006.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4.2</nr>
+            <titel status="officieel">Inwerkingtreding</titel>
+          </kop>
+          <al>Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2007.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4.3</nr>
+            <titel status="officieel">Citeertitel</titel>
+          </kop>
+          <al>Deze regeling wordt aangehaald als: Regeling informatieverstrekking pensioenfondsen.</al>
+        </artikel>
+      </hoofdstuk>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de <intref status="actief" doc="1.0:v:BWBR0021659&amp;bijlage=1">bijlagen 1</intref> en <intref status="actief" doc="1.0:v:BWBR0021659&amp;bijlage=2">2</intref>, die ter inzage worden gelegd bij DNB.</al>
+      </slotformulering>
+      <ondertekening>
+        <organisatie>De Nederlandsche Bank N.V.</organisatie>, de <functie>directeur</functie>,<naam>
+          <voornaam>D.E.</voornaam>
+          <achternaam>Witteveen</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  <bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">1</nr></kop><al><redactie type="extra">Gepubliceerd op www.dnb.nl.</redactie></al></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">2</nr></kop><al><redactie type="extra">Ligt ter inzage bij De Nederlandsche Bank N.V.</redactie></al></bijlage></regeling>
+</wetgeving>
+  	

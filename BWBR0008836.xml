@@ -1,0 +1,252 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0008836" dtdversie="2.0" id="218859" soort="ministeriele-regeling" xml:lang="nl">            <intitule>Nummerplan internationale signaleringspuntcodes</intitule>        <regeling>       <aanhef>          <wie>De Minister van Verkeer en Waterstaat,</wie>          <considerans>             <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="" compleet="nee">artikel 40d, eerste lid, onder a, van de Wet op de telecommunicatievoorzieningen</extref>;</considerans.al>             <considerans.al bevat="gezien">Gezien Aanbeveling Q.708 van de Telecommunication Standardization Sector van de International Telecommunication Union (ITU-T).</considerans.al>          </considerans>          <afkondiging>             <al>Besluit:</al>          </afkondiging>                 </aanhef>       <regeling-tekst>                    <artikel status="goed">             <kop>                <label>Artikel</label><nr>1</nr>             </kop>             <lid>                <lidnr>1</lidnr>                <al>Een nummer als bedoeld in dit besluit bestaat uitsluitend uit cijfers.</al>             </lid>             <lid>                <lidnr>2</lidnr>                <al>De lengte van een nummer bedraagt vijf cijfers.</al>             </lid>             <lid>                <lidnr>3</lidnr>                <al>De in dit besluit bedoelde nummers die beschikbaar zijn voor toekenning of reservering bevinden zich uitsluitend in de nummerblokken die zijn aangegeven in de bij dit besluit behorende <intref status="actief" doc="1.0:v:BWBR0008836&amp;bijlage=">bijlage</intref>. </al>             </lid>                       </artikel>          <artikel status="goed">             <kop>                <label>Artikel</label><nr>2</nr>             </kop>             <al>Een nummer dat is toegekend of gereserveerd, kan niet nogmaals worden toegekend of gereserveerd. </al>                       </artikel>          <artikel status="goed">             <kop>                <label>Artikel</label><nr>3</nr>             </kop>             <al>Aan de toekenning van een nummer worden de volgende voorschriften verbonden:</al>             <lijst nr-sluiting=""><li><li.nr>a.</li.nr>                   <al> de nummerhouder neemt het bij dit besluit bepaalde alsmede de geldende ITU-T aanbevelingen in acht;</al>                </li><li><li.nr>b.</li.nr>                   <al> de nummerhouder is verplicht  het nummer te gebruiken voor een directe en internationale signaleringskoppeling ten behoeve van grensoverschrijdende openbare elektronische communicatiediensten tussen het netwerkpunt in Nederland waarvoor het nummer is aangevraagd en minimaal &#xE9;&#xE9;n ander buitenlands netwerkpunt;</al>                </li><li><li.nr>c.</li.nr>                   <al> de nummerhouder die een nummer heeft toegekend gekregen waarmee hij de in onder b bedoelde koppeling kan realiseren en daarmee in zijn behoefte kan voorzien, kan niet nog een ander nummer aanvragen voor deze koppeling. </al>                </li></lijst>                       </artikel>                              <artikel status="goed">             <kop>                <label>Artikel</label><nr>6</nr>             </kop>             <al>Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. </al>                       </artikel>          <artikel status="goed">             <kop>                <label>Artikel</label><nr>7</nr>             </kop>             <al>Dit besluit wordt aangehaald als: Nummerplan internationale signaleringspuntcodes.</al>             <al>Dit besluit met bijbehorende <intref status="actief" doc="1.0:v:BWBR0008836&amp;bijlage=">bijlage</intref> en toelichting wordt ter inzage gelegd bij de Onafhankelijke Post en Telecommuncatie Autoriteit.</al>                       </artikel>       </regeling-tekst>       <regeling-sluiting status="goed">          <slotformulering>             <al>Dit besluit zal in de Staatscourant worden geplaatst.</al>          </slotformulering>          <ondertekenaar>             <ondertekening>De <functie>Minister</functie> van <organisatie>Verkeer en Waterstaat</organisatie>,</ondertekening><ondertekening>                                <naam>                   <voornaam>A.</voornaam>                   <achternaam>Jorritsma-Lebbink</achternaam>                </naam>             </ondertekening>          </ondertekenaar>                 </regeling-sluiting>    <bijlage status="goed">
+  <kop> 
+	 <label>Bijlage</label> 
+	 <titel status="officieel">,
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0008836&amp;artikel=1">artikel 1, derde lid</intref>, van het Nummerplan internationale
+signaleringspuntcodes</titel>
+  </kop> 
+  
+<table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="zebra1">
+               <title>Relatie
+tussen nummers en hun
+bestemmingen</title>
+               <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="zebra1">
+                  <colspec colname="col1" colnum="1" colwidth="53.5*"/>
+                  <colspec colname="col2" colnum="2" colwidth="43*"/>
+                  <colspec colname="col3" colnum="3" colwidth="33*"/>
+                  <thead valign="bottom">
+                     <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>Beschikbaar
+voor toekenning of
+reservering</al>
+                        </entry>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>Bestemming
+van de
+nummers</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>Lengte
+van de
+nummers</al>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody valign="top">
+                     <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>2-002-0
+tot en met
+2-002-7</al>
+                        </entry>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>internationaal
+netwerkpunt</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>5</al>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>2-006-0
+tot en met
+2-006-7</al>
+                        </entry>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>internationaal
+netwerkpunt</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>5</al>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>2-007-0
+tot en met
+2-007-7</al>
+                        </entry>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>internationaal
+netwerkpunt</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>5</al>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>2-008-0
+tot en met
+2-008-7</al>
+                        </entry>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>internationaal
+netwerkpunt</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>5</al>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>2-009-0
+tot en met
+2-009-7</al>
+                        </entry>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>internationaal
+netwerkpunt</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>5</al>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>2-010-0
+tot en met
+2-010-7</al>
+                        </entry>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>internationaal
+netwerkpunt</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>5</al>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>2-011-0
+tot en met
+2-011-7</al>
+                        </entry>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>internationaal
+netwerkpunt</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>5</al>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>2-142-0
+tot en met
+2-142-7</al>
+                        </entry>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>internationaal
+netwerkpunt</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>5</al>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>2-143-0
+tot en met
+2-143-7</al>
+                        </entry>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>internationaal
+netwerkpunt</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>5</al>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>2-198-0
+tot en met
+2-198-7</al>
+                        </entry>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>internationaal
+netwerkpunt</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>5</al>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>2-253-0
+tot en met
+2-253-7</al>
+                        </entry>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>internationaal
+netwerkpunt</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>5</al>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>4-230-0
+tot en met
+4-230-7</al>
+                        </entry>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>Internationaal
+netwerkpunt</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>5</al>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>4-238-0
+tot en met
+4-238-7</al>
+                        </entry>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>internationaal
+netwerkpunt</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>5</al>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>5-239-0
+tot en met
+5-239-7</al>
+                        </entry>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>internationaal
+netwerkpunt</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>5</al>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>6-249-0
+tot en met
+6-249-7</al>
+                        </entry>
+                        <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>internationaal
+netwerkpunt</al>
+                        </entry>
+                        <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top">
+                           <al>5</al>
+                        </entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table></bijlage></regeling> </wetgeving>
+  	

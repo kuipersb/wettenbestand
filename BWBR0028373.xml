@@ -1,0 +1,499 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0028373" dtdversie="2.0" id="442209" soort="AMvB-BES">
+  
+  <intitule>Besluit
+elektronische handtekeningen, certificaten en
+certificatiedienstverleners
+BES</intitule>
+  
+  <wet-besluit>
+    
+    <wettekst>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Elektronische
+handtekening</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>Aan een elektronische handtekening worden de
+volgende eisen
+gesteld:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>zij
+is uniek en met uitsluiting van anderen verbonden aan de persoon die
+zich ervan
+bedient;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>zij kan te
+allen tijde worden
+geverifieerd;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>zeggenschap
+erover berust met uitsluiting van anderen bij de persoon die zich ervan
+bedient;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>zij is
+zodanig aan elektronische gegevens gekoppeld dat indien deze gegevens
+worden gewijzigd, de elektronische handtekening ongeldig
+wordt.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Voor het
+aanmaken van elektronische handtekeningen worden de volgende veilige
+middelen
+ge&#xEB;ist:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>Gewaarborgd
+is ten minste dat via passende technieken en
+procedures:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;</li.nr>
+                    <al>de
+gegevens voor het aanmaken van handtekeningen in de praktijk slechts
+&#xE9;&#xE9;n keer kunnen voorkomen en de vertrouwelijkheid daarvan
+redelijkerwijs gegarandeerd
+is;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;</li.nr>
+                    <al>de gegevens
+voor het aanmaken van handtekeningen, met redelijke zekerheid, niet
+kunnen worden afgeleid en dat de handtekening beschermd is tegen
+vervalsing met de thans beschikbare
+technieken;</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;</li.nr>
+                    <al>de
+gegevens voor het aanmaken van handtekeningen door de legitieme
+ondertekenaar op betrouwbare wijze kunnen worden beschermd tegen
+gebruik door
+anderen.</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>De
+te ondertekenen gegevens mogen niet worden gewijzigd en niet mag worden
+belet dat deze gegevens v&#xF3;&#xF3;r de ondertekening aan de
+ondertekenaar worden voorgelegd.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Voordat
+tot de aanmaak van een elektronische handtekening wordt overgegaan,
+wordt de ondertekenaar adequaat voorgelicht over de risico&#x2019;s die
+aan de gekozen techniek zijn verbonden, zulks mede in vergelijking tot
+andere technieken.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <al>Tijdens het proces voor het verifi&#xEB;ren van
+elektronische handtekeningen worden met het oog op de veiligheid met
+redelijke zekerheid gewaarborgd
+dat:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de
+voor het verifi&#xEB;ren van een handtekening gebruikte gegevens
+overeenstemmen met de gegevens die de verifieerde te zien
+krijgt;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de
+handtekening op betrouwbare wijze wordt geverifieerd en het resultaat
+daarvan correct wordt
+weergegeven;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de
+verifieerder, zo nodig, op betrouwbare wijze de inhoud van de
+ondertekende gegevens kan
+vaststellen;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>de
+authenticiteit en geldigheid van het certificaat dat bij het
+verifi&#xEB;ren van de handtekening vereist is, op betrouwbare wijze
+worden
+gecontroleerd;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>het
+resultaat van de verificatie en de identiteit van de ondertekenaar
+correct worden
+weergegeven;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>het
+gebruik van een pseudoniem duidelijk wordt
+aangegeven;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>elke
+wijziging die invloed heeft op de beveiliging kan worden
+opgespoord.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Certificatiedienstverleners</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Onverminderd
+eisen ter zake van vestiging en uitoefening van een bedrijf in de
+openbare lichamen Bonaire, Sint Eustatius en Saba mogen
+certificatiedienstverleners in de openbare lichamen Bonaire, Sint
+Eustatius en Saba hun diensten slechts aanbieden indien zij als zodanig
+zijn erkend.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+erkenning, bedoeld in het eerste lid, geschiedt door Onze Minister van
+Economische Zaken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De
+erkenning wordt verleend indien wordt voldaan aan de in <intref status="actief" doc="1.0:v:BWBR0028373&amp;artikel=5">artikel 5</intref>
+opgenomen eisen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Een
+erkenning kan worden doorgehaald op verzoek van de erkende dan wel
+indien niet lager wordt voldaan aan de in <intref status="actief" doc="1.0:v:BWBR0028373&amp;artikel=5">artikel 5</intref> gestelde
+eisen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Een
+erkenning wordt niet eerder doorgehaald dan na de erkende gedurende een
+periode van ten hoogste twee weken in staat te hebben gesteld alsnog
+aan de in <intref status="actief" doc="1.0:v:BWBR0028373&amp;artikel=5">artikel 5</intref> gestelde eisen te voldoen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>Onze
+Minister van Economische Zaken houdt een register bij waarin alle
+erkenningen en doorhalingen van erkenningen zijn opgenomen. Een ieder
+heeft kosteloos inzage in het
+register.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <al>Aan certificatiedienstverleners worden de
+navolgende eisen
+gesteld:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>zij
+kunnen aantonen te voldoen aan eisen van betrouwbaarheid ter zake van
+het aanbieden van
+certificatiediensten;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>zij
+dragen zorg voor een snelle en veilige dienstverlening zowel bij het
+afgeven van een certificaat als bij intrekking
+daarvan;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>zij dragen
+zorg voor de naleving van het in <intref status="actief" doc="1.0:v:BWBR0028373&amp;artikel=6">artikel 6</intref>
+bepaalde;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>zij dragen
+ervoor zorg dat datum en tijdstip van afgifte of intrekking van een
+certificaat precies kunnen worden
+vastgesteld;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>zij
+verifi&#xEB;ren met daartoe geschikte middelen en overeenkomstig de
+wetgeving van het land waar de certificaatdienstverlener is gevestigd,
+de identiteit en in voorkomend geval de specifieke attributen van de
+persoon aan wie een certificaat wordt
+afgegeven;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>zij
+hebben personeel in dienst dat beschikt over deskundige kennis,
+ervaring en kwalificaties die noodzakelijk zijn voor de aangeboden
+diensten, met name competentie op het gebied van beheer, alsmede over
+expertise inzake technologie voor elektronische handtekeningen, en dat
+bekend is met goede
+beveiligingsprocedures;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>zij
+passen adequate procedures en processen op het gebied van administratie
+en beheer toe die voldoen aan algemeen erkende
+normen;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>zij maken
+gebruik van betrouwbare systemen en producten die beschermd zijn tegen
+wijziging en die de technische en cryptografische veiligheid garanderen
+van de processen die zij
+ondersteunen;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>zij
+nemen maatregelen tegen het vervalsen van certificaten, wanneer de
+certificatiedienstverlener gegevens voor het aanmaken van
+handtekeningen genereert, die de vertrouwelijkheid van dat proces
+garanderen;</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>zij
+houden voldoende financi&#xEB;le middelen tot hun beschikking om in
+overeenstemming met de eisen van het bij of krachtens de Wet
+overeenkomsten langs elektronische weg BES te kunnen functioneren, met
+name met oog op de gevolgen van aansprakelijkheid wegens
+schade;</al>
+            </li>
+            <li>
+              <li.nr>k.</li.nr>
+              <al>zij leggen
+al dan niet op elektronische wijze gedurende een gepaste periode alle
+relevante informatie met betrekking tot een certificaat vast, met name
+om ten behoeve van gerechtelijke procedures de certificatie te kunnen
+bewijzen;</al>
+            </li>
+            <li>
+              <li.nr>l.</li.nr>
+              <al>zij zien
+af van het opslaan of kopi&#xEB;ren van gegevens voor het aanmaken van
+elektronische handtekeningen van de personen aan wie de
+certificatiedienstverlener sleutelbeheersdiensten heeft
+aangeboden;</al>
+            </li>
+            <li>
+              <li.nr>m.</li.nr>
+              <al>zij
+brengen, alvorens een contractuele verbintenis aan te gaan met een
+persoon die een certificaat ter ondersteuning van zijn elektronische
+handtekening wenst, deze met behulp van een duurzaam communicatiemiddel
+op de hoogte van de exacte voorwaarden voor het gebruik van het
+certificaat, met inbegrip van eventuele beperkingen inzake dit gebruik,
+het bestaan van een vrijwillige accreditatie en de procedures voor
+klachtenbehandeling en geschillenbeslechting. Deze informatie moet
+schriftelijk en in gemakkelijk te begrijpen taal worden opgesteld;
+eventueel kan zij langs elektronische weg worden toegezonden. Relevante
+delen van die informatie dienen op verzoek eveneens te worden
+meegedeeld aan derden die op het certificaat
+vertrouwen;</al>
+            </li>
+            <li>
+              <li.nr>n.</li.nr>
+              <al>zij
+maken gebruik van betrouwbare systemen voor de opslag van certificaten
+in verifieerbare vorm,
+zodat:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;</li.nr>
+                  <al>alleen
+bevoegde personen gegevens kunnen invoeren en
+wijzigen;</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;</li.nr>
+                  <al>de
+authenticiteit van de informatie kan worden
+gecontroleerd;</al>
+                </li>
+                <li>
+                  <li.nr>3&#xB0;</li.nr>
+                  <al>de
+certificaten uitsluitend publiekelijk beschikbaar zijn in die gevallen
+waarvoor de certificaathouder toestemming heeft gegeven;
+en</al>
+                </li>
+                <li>
+                  <li.nr>4&#xB0;</li.nr>
+                  <al>elke
+technische wijziging die de bovengenoemde beveiligingsvoorschriften in
+gevaar kan brengen, voor de gebruiker duidelijk
+is.</al>
+                </li>
+              </lijst>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5a</nr>
+          </kop>
+          <al>Dit besluit berust op <extref status="actief" doc="1.0:v:BWBR0028237&amp;artikel=7" compleet="nee">artikel 7, derde lid, Wet
+overeenkomsten langs elektronische weg
+BES</extref>.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Certificaten</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Door
+certificaatdienstverleners af te geven certificaten bevatten de
+navolgende
+gegevens:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de
+identificatie en het land van vestiging van de afgevende
+certificatiedienstverlener;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de
+naam van de ondertekenaar of een als zodanig ge&#xEF;dentificeerd
+pseudoniem;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>ruimte
+voor een specifiek attribuut van de ondertekenaar, dat indien nodig
+afhankelijk van het doel van het certificaat, kan worden
+vermeld;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>gegevens
+voor het verifi&#xEB;ren van de handtekening die overeenstemmen met de
+gegevens voor het aanmaken van de handtekening die onder controle van
+de houder staan;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>het
+begin en einde van de geldigheidsduur van het
+certificaat;</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>de
+identiteitscode van het
+certificaat;</al>
+              </li>
+              <li>
+                <li.nr>g.</li.nr>
+                <al>de
+geavanceerde elektronische handtekening van de afgevende
+certificatie-dienstverlener;</al>
+              </li>
+              <li>
+                <li.nr>h.</li.nr>
+                <al>voor
+zover van toepassing: beperkingen betreffende het gebruik van het
+certificaat, waaronder mogelijke begrenzing van de waarde die is
+gemoeid met de overeenkomsten waarvoor het certificaat kan worden
+gebruikt.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Op een
+gemotiveerd verzoek van een certificatiedienstverlener kan Onze
+Minister van Economische Zaken hem ter zake van &#xE9;&#xE9;n of meer
+van de in het eerste lid voorgeschreven vermeldingen ontheffing
+verlenen. Aan een dergelijke ontheffing kunnen voorwaarden worden
+verbonden en een zodanig ontheffing kan onder beperkingen worden
+verleend.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <al>Dit besluit wordt aangehaald als: Besluit
+elektronische handtekeningen, certificaten en
+certificatiedienstverleners
+BES.</al>
+        </artikel>
+      </paragraaf>
+    </wettekst>
+    
+  </wet-besluit>
+</wetgeving>
+  	

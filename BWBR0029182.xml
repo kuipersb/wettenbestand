@@ -1,0 +1,576 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0029182" dtdversie="2.0" id="450299" soort="ministeriele-regeling-BES">
+  
+  <intitule>Ministeri&#xEB;le
+regeling van de 13de maart 2008 ter uitvoering van artikel&#xA0;6 van
+het Archiefbesluit
+BES</intitule>
+  
+  <circulaire>
+    <circulaire-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+        </kop>
+        <al>In
+deze regeling wordt verstaan
+onder:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+          <li>
+            <al>
+              <nadruk type="cur">archiefbescheiden:</nadruk> archiefbescheiden
+die ingevolge een selectielijst voor bewaring in aanmerking
+komen;</al>
+          </li>
+          <li>
+            <al>
+              <nadruk type="cur">bestand:</nadruk> een
+geheel van gegevens in een zelfde
+opslagformaat;</al>
+          </li>
+          <li>
+            <al>
+              <nadruk type="cur">besturingsprogrammatuur:</nadruk> de
+programmatuur die bestemd is ter besturing van een
+informatie-systeem;</al>
+          </li>
+          <li>
+            <al>
+              <nadruk type="cur">conversie:</nadruk> het
+omzetten in of het overzetten van gegevens in een ander
+opslagformaat;</al>
+          </li>
+          <li>
+            <al>
+              <nadruk type="cur">digitale
+archiefbescheiden:</nadruk> archiefbescheiden op optische
+of elektromagnetische informatie-dragers en toegankelijk door middel
+van besturingsapparatuur en
+toepassingsprogrammatuur;</al>
+          </li>
+          <li>
+            <al>
+              <nadruk type="cur">documentair
+structuurplan:</nadruk> een plan waarin zijn vastgelegd de
+archieforganisatie, de indeling van het archief en de manier waarop de
+bestanddelen daarbinnen dienen te worden
+gerangschikt;</al>
+          </li>
+          <li>
+            <al>
+              <nadruk type="cur">handeling:</nadruk> een
+complex van activiteiten ter vervulling van een taak of op grond van
+een
+bevoegdheid;</al>
+          </li>
+          <li>
+            <al>
+              <nadruk type="cur">archiefbeheerssysteem:</nadruk> een
+geheel van mensen, methoden, procedures, gegevens verzamelingen,
+opslag-, verwerkings- en communicatieapparatuur en andere middelen,
+bestemd tot het beheer van
+archiefbescheiden;</al>
+          </li>
+          <li>
+            <al>
+              <nadruk type="cur">ontstaan:</nadruk> het
+moment dat archiefbescheiden door een overheidsorgaan worden ontvangen
+of opgemaakt als naar hun aard bestemd om daaronder te
+berusten;</al>
+          </li>
+          <li>
+            <al>
+              <nadruk type="cur">migratie:</nadruk> het
+overzetten van gegevens naar een ander
+platform;</al>
+          </li>
+          <li>
+            <al>
+              <nadruk type="cur">opslagformaat:</nadruk> de
+code waarin archiefbescheiden op een gegevensdrager zijn
+opgeslagen;</al>
+          </li>
+          <li>
+            <al>
+              <nadruk type="cur">platform:</nadruk> geheel
+van apparatuur en besturingsprogrammatuur waarop de
+toepassingsprogrammatuur
+werkt;</al>
+          </li>
+          <li>
+            <al>
+              <nadruk type="cur">structuur:</nadruk> het
+logische verband tussen de elementen van een document of van een
+archief;</al>
+          </li>
+          <li>
+            <al>
+              <nadruk type="cur">toepassingsprogrammatuur:</nadruk> de
+programmatuur die bestemd is ter ondersteuning van de uitvoering van
+een
+werkproces;</al>
+          </li>
+          <li>
+            <al>
+              <nadruk type="cur">vorm:</nadruk> de
+uiterlijke verschijning waarin de structuur zichtbaar
+is;</al>
+          </li>
+          <li>
+            <al>
+              <nadruk type="cur">werkproces:</nadruk> de
+uitvoering van de taak of handeling uit hoofde waarvan
+archiefbescheiden door een overheidsorgaan worden ontvangen of
+opgemaakt als naar hun aard bestemd om daaronder te
+berusten.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+        </kop>
+        <al>Deze
+regeling is op de in de archiefbewaarplaats berustende
+archiefbescheiden slechts van toepassing indien daaraan voldaan was op
+het tijdstip van de overbrenging, bedoeld in <extref status="actief" doc="1.0:v:BWBR0028369&amp;artikel=17" compleet="nee">artikel 17 van de
+Archiefwet
+BES</extref>.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+        </kop>
+        <al>De
+zorgdrager draagt zorg dat elk onder hem ressorterend overheidsorgaan
+beschikt over een documentair
+structuurplan.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+        </kop>
+        <al>Van
+elk van de archiefbescheiden dient te allen tijde te kunnen worden
+vastgesteld:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>a.
+inhoud, structuur en vorm bij het ontstaan, een en ander zover de
+inhoud, structuur en vorm kenbaar moesten zijn voor de uitvoering van
+het bepaalde werkproces;</al>
+          </li>
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>b. op
+welk tijdstip en uit hoofde van welke taak of handeling het door het
+overheidsorgaan werd ontvangen of
+opgemaakt;</al>
+          </li>
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>c. de samenhang met
+de andere door het overheidsorgaan ontvangen en opgemaakte
+archiefbescheiden.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+        </kop>
+        <al>De
+zorgdrager draagt zorg dat elk onder hem ressorterend overheidsorgaan
+beschikt over een compleet en logisch samenhangend overzicht van de bij
+dat overheidsorgaan berustende archiefbescheiden (geordend
+overeenkomstig het ten tijde van de vorming van het archief daarvoor
+geldende documentair structuurplan) en de bestanden waarin deze bewaard
+worden, met daarin ten minste de gegevens, bedoeld in <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=11">artikel 11,
+eerste lid, onderdeel e</intref>, alsmede de verblijfplaats van de
+archiefbescheiden.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+        </kop>
+        <al>De
+zorgdrager draagt zorg dat het archiefbeheerssysteem de toegankelijke
+staat van archiefbescheiden waarborgt zodanig
+dat:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>a.
+elk van de archiefbescheiden kan worden gevonden, waarvan slechts
+bekend is hetzij enig onderwerp dat in het stuk behandeld is, hetzij
+het werkproces uit hoofde waarvan het stuk is ontvangen of opgemaakt,
+hetzij wie de afzender is, zomede de datum en het nummer door de
+afzender aan het stuk gegeven, hetzij het nummer waaronder het stuk bij
+het ontstaan is
+geregistreerd;</al>
+          </li>
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>b. elk van de
+archiefbescheiden binnen redelijke tijd leesbaar of waarneembaar te
+maken is. Daartoe verleent degene die met het beheer is belast de
+benodigde medewerking met inbegrip van het verschaffen van het
+benodigde inzicht in de opzet en de werking van het
+archiefbeheerssysteem.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+        </kop>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>1.
+Indien een gerede kans bestaat dat, als gevolg van wijziging van
+besturingsprogrammatuur, toepassingsprogrammatuur of apparatuur niet
+langer voldaan kan worden aan het in de <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=4">artikelen 4</intref>, <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=5">5</intref> en <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=6">6</intref> bepaalde,
+draagt de zorgdrager zorg voor conversie dan wel migratie van de
+archiefbescheiden.</al>
+          </li>
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>2. Iedere
+conversie of migratie die niet geschiedt met inachtneming van het in de
+<intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=4">artikelen 4</intref>, <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=5">5</intref> en <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=6">6</intref> bepaalde, is een vervanging in de zin van <extref status="actief" doc="1.0:v:BWBR0028369&amp;artikel=8" compleet="nee">artikel 8
+van de Archiefwet BES</extref>.</al>
+          </li>
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>3. De
+zorgdrager maakt van de conversie of migratie een verklaring op, die
+ten minste een specificatie van de geconverteerde of gemigreerde
+archiefbescheiden bevat, alsmede aangeeft op welke wijze en met welk
+resultaat getoetst is of aan het in de <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=4">artikelen 4</intref>, <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=5">5</intref> en <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=6">6</intref> bepaalde
+voldaan kan worden na de conversie of
+migratie.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">8</nr>
+        </kop>
+        <al>Digitale
+archiefbescheiden dienen, uiterlijk op het tijdstip van overbrenging
+naar de archiefbewaarplaats, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0028369&amp;artikel=17" compleet="nee">artikelen 17</extref> en <extref status="actief" doc="1.0:v:BWBR0028369&amp;artikel=18" compleet="nee">18 van de
+Archiefwet BES</extref>, te worden opgeslagen volgens de standaard, vermeld in
+<intref status="actief" doc="1.0:v:BWBR0029182&amp;bijlage=1">bijlage&#xA0;1</intref>.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">9</nr>
+        </kop>
+        <al>De
+ordening en toegankelijkheid van de archiefbescheiden, zoals
+gerealiseerd door middel van toepassingsprogrammatuur, maken
+onverbrekelijk onderdeel uit van de archiefbescheiden waarop ze
+betrekking
+hebben.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">10</nr>
+        </kop>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>1.
+De zorgdrager draagt zorg voor het vastleggen van de functionele eisen
+ten aanzien van de inhoud, structuur en vorm, bedoeld in <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=4">artikel
+4</intref>.</al>
+          </li>
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>2. De zorgdrager draagt,
+teneinde aan het in de <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=4">artikelen 4</intref>, <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=5">5</intref>, <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=6">6</intref> en <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=9">9</intref> bepaalde te voldoen, zorg
+voor de bewaring van de toepassingsprogrammatuur, met inbegrip van de
+nieuwere versies, overeenkomstig het bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0028369" compleet="nee">Archiefwet BES</extref>
+voor archiefbescheiden bepaalde. In voorkomende gevallen draagt de
+zorgdrager zorg voor de daartoe noodzakelijke regeling van licenties
+inzake
+toepassingsprogrammatuur.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">11</nr>
+        </kop>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>1.
+De zorgdrager draagt zorg voor het vastleggen en de bewaring van
+tenminste de volgende
+gegevens:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>a.
+de benaming van de toepassingsprogrammatuur waarmee de
+archiefbescheiden zijn ontvangen en opgemaakt, inclusief het
+versienummer;</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>b. de
+beschrijving van het platform, met naam en versie van de
+besturingsprogrammatuur en naam en type van de
+apparatuur;</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>c. de documentatie
+die aangeeft hoe de toepassingsprogrammatuur heeft gewerkt met inbegrip
+van de nieuwere versies;</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>d. een
+beschrijving van de opgeslagen bestanden, omvattende tenminste de
+volgende gegevens:</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>e. de naam
+van het overheidsorgaan dat, en de benaming van het werkproces binnen
+hetwelk de archiefbescheiden zijn ontvangen of
+opgemaakt;</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>f. de benaming en
+omvang van elk opgeslagen
+bestand;</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>g. een specificatie
+van de archiefbescheiden, met begin- en
+einddatum;</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>h. de relatie met
+andere bestanden;</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>i. het
+opslagformaat;</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>j. in
+voorkomende gevallen de toegepaste
+compressiemethode;</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>k. de datum
+en het tijdstip van de opslag van het bestand op de
+gegevensdrager;</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>l. in geval van
+een database: de documentatie over de structuur, tenminste omvattende
+een compleet logisch datamodel met beschrijving van de
+entiteiten.</al>
+              </li>
+            </lijst>
+          </li>
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>2. Op
+de vastlegging en bewaring, bedoeld in het eerste lid, zijn de voor
+archiefbescheiden ingevolge <extref status="actief" doc="1.0:v:BWBR0028369&amp;artikel=12" compleet="nee">artikel 12 van de Archiefwet BES</extref> geldende
+regels van overeenkomstige
+toepassing.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">12</nr>
+        </kop>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>1.
+Onverminderd het in <extref status="actief" doc="1.0:v:BWBR0028369&amp;artikel=3" compleet="nee">artikel 3 van de Archiefwet BES</extref> bepaalde blijven de
+<intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=4">artikelen 4</intref>, <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=6">6</intref>, <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=8">8</intref> en <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=10">10</intref> buiten toepassing ten aanzien van digitale
+archiefbescheiden en bestanden waaraan sedert 1&#xA0;januari 2006 geen
+gegevens zijn toegevoegd of waarin sedert 1&#xA0;januari 2006 geen
+gegevens zijn gewijzigd.</al>
+          </li>
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>2.
+Onverminderd het in <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=7">artikel 7</intref> bepaalde worden de archiefbescheiden,
+bedoeld in het eerste lid, in hun oorspronkelijke opslagformaat
+bewaard.</al>
+          </li>
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>3. Met toestemming van
+de minister blijven de <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=4">artikelen 4</intref>, <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=6">6</intref>, <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=8">8</intref> en <intref status="actief" doc="1.0:v:BWBR0029182&amp;artikel=10">10</intref> buiten toepassing ten
+aanzien van sedert 1&#xA0;januari 2006 ontvangen en opgemaakte digitale
+archiefbescheiden in bestanden waaraan sedert 1&#xA0;januari 2007 geen
+gegevens zijn toegevoegd of waarin sedert die datum geen gegevens zijn
+gewijzigd. Aan deze toestemming kunnen voorwaarden worden
+verbonden.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">13</nr>
+        </kop>
+        <al>Vervallen</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">14</nr>
+        </kop>
+        <al>Vervallen</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">15</nr>
+        </kop>
+        <al>Vervallen</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">16</nr>
+        </kop>
+        <al>Vervallen</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">17</nr>
+        </kop>
+        <al>Deze
+regeling wordt aangehaald als: Regeling digitaal beheer
+BES.</al>
+      </artikel>
+    </circulaire-tekst>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">1</nr><titel status="officieel">behorende bij de Regeling digitaal beheer
+BES</titel>
+      </kop>
+      <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml1">
+        <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+          <colspec colname="col1" colnum="1" colwidth="83*"/>
+          <colspec colname="col2" colnum="2" colwidth="280*"/>
+          <tbody valign="top">
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Character
+sets</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>ASCII
+(ISO/IEC 8859-1) of Unicode (ISO/IEC
+10646-1)</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Tekstbestanden</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Portable
+document format (PDF) of SGML dan wel XML vergezeld van een stylesheet
+(XSL, CSS) dan wel TIFF of PDF met metadatain een
+XML-wrapper;</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>CAD/CAM</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Portable
+document format (PDF) en STEP (Standard for the exchange of product
+data) als metadata standaard (ISO
+10303)</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Images/beelden
+(bitmapped)</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Portable
+document format (PDF) en indien gebruik gemaakt wordt van compressie:
+ITU T4 of ITU
+T6</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Databases</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Het
+oorspronkelijke opslagformaat of ASCII (flatfile, met
+veldscheidingstekens) vergezeld van documentatie bij voorkeur in
+XML-DTD over de structuur van de database (tenminste omvattende een
+compleet logisch datamodel met beschrijving van de entiteiten); queries
+dienen in de vraagtaal SQL (SQL2) te worden
+vastgelegd.</al>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </bijlage>
+  </circulaire>
+</wetgeving>
+  	

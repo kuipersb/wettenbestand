@@ -1,0 +1,532 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0029242" dtdversie="2.0" id="450899" soort="ministeriele-regeling">
+  
+  
+  <intitule>Regeling
+investeringsverzekeringen</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De
+Minister van
+Financi&#xEB;n,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet
+op <extref status="actief" doc="1.0:v:BWBR0007886&amp;artikel=3" compleet="nee">artikel 3, tweede en vijfde lid, van de Kaderwet financi&#xEB;le
+verstrekkingen
+Financi&#xEB;n</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Definities</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>In
+deze regeling wordt verstaan
+onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>
+                <nadruk type="cur">Kaderwet:</nadruk> de
+<extref status="actief" doc="1.0:v:BWBR0007886" compleet="nee">Kaderwet financi&#xEB;le verstrekkingen
+Financi&#xEB;n</extref>;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>
+                <nadruk type="cur">investeringsland:</nadruk> een
+land buiten
+Nederland;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>
+                <nadruk type="cur">investering:</nadruk> de
+inbreng door een ondernemer van middelen in geld of in natura in een
+onderneming in een investeringsland, teneinde met die onderneming
+duurzaam verbonden te zijn ten dienste van de eigen werkzaamheid, voor
+een duur van tenminste drie jaren of indien het een geldlening betreft
+voor de duur van tenminste vier jaren; onder investering wordt mede
+begrepen de garantie die een ondernemer in aanvulling op de inbreng
+geeft, onder welke naam dan ook, tot betaling van hetgeen uit hoofde
+van een lening is verschuldigd in het geval dat de met de ondernemer
+duurzaam verbonden onderneming in een investeringsland in gebreke
+blijft;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>
+                <nadruk type="cur">lening:</nadruk> een
+door een geldgever, niet zijnde de onder c bedoelde ondernemer, in
+samenhang met een investering aan een onderneming in een
+investeringsland verstrekte lening, voor een duur van tenminste vier
+jaren en die, indien die geldgever in hoofdzaak op de financi&#xEB;le
+markten werkzaam is, tot doel heeft aan de onderneming duurzaam
+vermogen te
+verschaffen;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al><nadruk type="cur">geldgever:</nadruk></al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>i.</li.nr>
+                  <al>een
+bank als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=1%3A1" compleet="nee">artikel&#xA0;1:1 Wet op het financieel
+toezicht</extref>;</al>
+                </li>
+                <li>
+                  <li.nr>ii.</li.nr>
+                  <al>een onderneming als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=3%3A2" compleet="nee">artikel&#xA0;3:2 van de Wet op het financieel toezicht</extref> die
+volgens haar statuten in Nederland haar zetel heeft en die deel
+uitmaakt van de groep waartoe die onderneming
+behoort;</al>
+                </li>
+                <li>
+                  <li.nr>iii.</li.nr>
+                  <al>een ondernemer die haar
+bedrijf maakt van het ter beschikking verkrijgen van opvorderbare
+gelden van professionele marktpartijen of binnen besloten kring, en van
+het voor eigen rekening verrichten van kredietuitzettingen die volgens
+haar statuten in Nederland haar zetel heeft en die deel uitmaakt van de
+groep waartoe die ondernemer behoort;
+of</al>
+                </li>
+                <li>
+                  <li.nr>iv.</li.nr>
+                  <al>een multilaterale instelling die
+wordt genoemd in de <intref status="actief" doc="1.0:v:BWBR0029242&amp;bijlage=1">bijlage</intref> bij deze
+regeling;</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>
+                <nadruk type="cur">uitvoerder:</nadruk> uitvoerder
+als bedoeld in <extref status="actief" doc="1.0:v:BWBR0027082&amp;artikel=1" compleet="nee">artikel&#xA0;1 van Regeling uitvoering
+EKI</extref>;</al>
+            </li>
+            <li>
+              <li.nr>g
+.</li.nr>
+              <al>
+                <nadruk type="cur">verzekerde: </nadruk> degene die voor een
+niet-commercieel risico, dat is verbonden aan een door hem gedane
+investering of een door hem verstrekte lening is verzekerd op grond van
+deze
+regeling;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>
+                <nadruk type="cur">aanvangswaarde:</nadruk> 
+de waarde van de investering die tot uitdrukking wordt gebracht in de
+som van het door de verzekerde ingebrachte geld, de tegenwaarde van de
+door verzekerde ingebrachte middelen in natura en het bedrag van de
+garantie, dan wel in de hoofdsom van de door de verzekerde betaalde
+lening;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>
+                <nadruk type="cur">opbrengst:</nadruk> 
+rente, dividend, royalty&#x2019;s en andere gelden die door de
+onderneming in het investeringsland ter beschikking van de verzekerde
+zijn gesteld, anders dan als aflossing van een lening of als
+terugbetaling van een
+investering.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Deze regeling is niet van
+toepassing op een ondernemer of onderneming, bedoeld in <intref status="actief" doc="1.0:v:BWBR0029242&amp;artikel=1">artikel&#xA0;1,
+eerste lid, onderdeel e onder ii of iii</intref>, voor zover die behoort tot een
+groep waarvan de rechtspersoon die, alleen of samen met een andere
+groepsmaatschappij, aan het hoofd staat van die groep volgens zijn
+statuten buiten Nederland zijn zetel
+heeft.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Deze
+regeling is niet van toepassing op een ondernemer die geen economische
+activiteiten verricht van industri&#xEB;le of commerci&#xEB;le aard,
+bestaande in het aanbieden vangoederen of diensten op de markt en die
+behoort tot een groep waarvan de rechtspersoon die, alleen of samen met
+een andere groepsmaatschappij, aan het hoofd staat van die groep
+volgens zijn statuten buiten Nederland zijn zetel
+heeft.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Niet-commercieel
+risico</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Met
+inachtneming van deze regeling kan de Staat het niet-commercieel risico
+van een ondernemer dat is verbonden aan een investering of een lening
+in verzekering
+nemen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Onder een
+niet-commercieel risico als bedoeld in het eerste lid wordt in ieder
+geval
+verstaan:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>een
+betalingsverbod, een moratorium, een verhindering van repatri&#xEB;ring
+van geld en een
+transferverbod;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>oorlogsrisico, in het
+bijzonder het risico van lokale oorlog, burgeroorlog, revolutie,
+opstand en burgerlijke onlusten buiten
+Nederland;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>nationalisatie,
+onteigening, confiscatie en elk ander handelen en nalaten van de zijde
+van de autoriteiten in het betrokken investeringsland dat met
+nationalisatie, onteigening of confiscatie gelijk gesteld kan
+worden;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>niet-nakoming of
+niet-erkenning van een aan de investering ten grondslag liggende
+overeenkomst door de autoriteiten van het investeringsland waarmee die
+overeenkomst is gesloten, voor zover dit bij een onherroepelijke
+uitspraak van een terzake bevoegde rechter of van een door partijen
+aangewezen arbiter is vastgesteld en die uitspraak niet door de
+autoriteiten van het investeringsland wordt
+opgevolgd.</al>
+            </li>
+          </lijst>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Aan
+de investering en de lening gestelde
+eisen</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Voor
+verzekering komt alleen in aanmerking het niet-commercieel
+risico:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>van
+een investering die op het moment, waarop een verzekering wordt
+gevraagd, nog niet is gedaan, of van een lening die op dat moment nog
+niet is betaald;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>van een reeds gedane
+investering of betaalde lening, mits het voornemen tot het verzekeren
+van een met de investering of de lening verbonden niet-commercieel
+risico niet meer dan twaalf maanden voor het tijdstip waarop de
+investering is gedaan of de lening is betaald aan de verzekeraar
+schriftelijk is gemeld, en vervolgens binnen drie maanden na het doen
+van de investering of het betalen van de lening de aanvraag tot
+verzekering wordt ingediend; of</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>van
+een bestaande investering of lening, indien die investering of die
+lening wordt uitgebreid met een investering of lening als bedoeld onder
+a of b, de waarde van de investering of het bedrag van de lening
+waarmee wordt uitgebreid ten minste gelijk is aan de waarde van de
+bestaande investering of het bedrag van de bestaande lening, en het
+niet-commerci&#xEB;le risico van de investering of de lening
+voorafgaand aan de uitbreiding niet is toegenomen ten opzichte van het
+tijdstip, waarop de bestaande investering of lening wordt
+verzekerd.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>In
+alle gevallen komt voor verzekering alleen het niet-commercieel
+risico:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>van
+een investering die de economische banden tussen Nederland en het
+betrokken investeringsland duurzaam uitbreidt dan wel versterkt;
+of</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>van een lening die wordt verstrekt
+in samenhang met een investering als bedoeld onder
+a.</al>
+            </li>
+          </lijst>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Aan
+de verzekering te stellen
+eisen</titel>
+        </kop>
+        <al>De Staat
+kan alleen een verzekering sluiten onder de volgende
+voorwaarden:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>de
+duur van de verzekering is ten hoogste twintig jaren, met dien
+verstande dat de duur niet langer is dan vijftien jaren, te rekenen
+vanaf het tijdstip waarop de investering volledig is gedaan of de
+lening volledig is betaald;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>de
+verzekerde heeft een eigen risico van een bedrag ter grootte van
+tenminste tien procent van de geleden
+schade;</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>de vergoeding die aan de
+verzekerde ten hoogste wordt
+betaald:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>i.</li.nr>
+                <al>gaat
+een bedrag ter grootte van tweehonderd procent van de aanvangswaarde
+van de investering of van de lening niet te
+boven;</al>
+              </li>
+              <li>
+                <li.nr>ii.</li.nr>
+                <al>bedraagt, voor zover een
+opbrengst onder de verzekering valt, ter vergoeding van deze opbrengst,
+onverminderd onderdeel i, niet meer dan twaalf procent, berekend per
+jaar waarin de opbrengst opeisbaar wordt, van de verzekerde waarde van
+de investering of de lening; geen opbrengst wordt vergoed die niet
+opeisbaar is;</al>
+              </li>
+              <li>
+                <li.nr>iii.</li.nr>
+                <al>bedraagt in geen
+geval meer dan &#x20AC;&#xA0;100 miljoen per in een investeringsland
+gevestigde onderneming, waarbij aan die onderneming betaalde leningen
+voor niet meer dan &#x20AC;&#xA0;75 miljoen worden vergoed; is bij een
+in een investeringsland gevestigde onderneming meer dan een verzekerde
+betrokken, dan wordt een uit deze bepaling voortvloeiende beperking van
+de vergoeding naar rato van inbreng verdeeld over de
+verzekerden;</al>
+              </li>
+            </lijst>
+          </li>
+          <li>
+            <li.nr>d.</li.nr>
+            <al>de
+verzekering vervalt indien niet langer wordt voldaan aan de criteria om
+te kunnen spreken van een investering of een
+lening.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Het
+sluiten van de
+verzekering</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De
+Staat kan, alvorens hij een verzekering sluit, advies inwinnen bij
+derden.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Ondernemers,
+die verzekeringen bij de Staat wensen af te sluiten, wenden zich
+daartoe tot de uitvoerder. De verzekeringen zullen tussen de
+ondernemers en de Staat worden afgesloten en vastgelegd in door de
+uitvoerder in naam en voor rekening en risico van de Staat uitgereikte
+polissen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De
+behandeling van een verzekeringsaanvraag en van een eventuele
+schadeclaim geschieden uitsluitend via de
+uitvoerder.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Gevallen,
+waarin geen verzekering wordt
+gesloten</titel>
+        </kop>
+        <al>De
+Staat sluit in ieder geval geen verzekering,
+indien:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>het
+sluiten van de verzekering zou leiden tot overschrijding van het
+bedrag, tot welke krachtens <extref status="actief" doc="1.0:v:BWBR0007886&amp;artikel=6" compleet="nee">artikel 6 van de Kaderwet</extref> in het betrokken
+kalenderjaar ten hoogste verplichtingen kunnen worden aangegaan op
+grond van het bepaalde in <extref status="actief" doc="1.0:v:BWBR0007886&amp;artikel=3" compleet="nee">artikel 3 van de
+Kaderwet</extref>;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>er nadat de verzekering is
+gevraagd, maar voordat zij wordt gesloten in het investeringsland
+maatregelen worden getroffen of zich omstandigheden voordoen waardoor
+er een gerede kans is dat de verzekering zal leiden tot een
+schade-uitkering;</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>het sluiten van de
+verzekering tot gevolg heeft dat het totaal uit hoofde van deze
+regeling te verzekeren bedrag voor enig investeringsland dat de
+Minister kan vaststellen te boven
+gaat.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Slotbepaling</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De
+Tijdelijke Regeling herverzekering investeringen wordt
+ingetrokken.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Verplichtingen
+uit verzekeringen, die door de Staat zijn herverzekerd voor de dag,
+waarop deze regeling in werking treedt, worden door de Staat
+nagekomen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Deze
+regeling treedt in werking met ingang van de dag na de dagtekening van
+de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met
+1&#xA0;januari
+2010.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Deze
+regeling wordt aangehaald als: <nadruk type="cur">Regeling
+investeringsverzekeringen</nadruk>.</al>
+        </lid>
+      </artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze
+regeling zal met de toelichting in de Staatscourant worden
+geplaatst.</al>
+      </slotformulering>
+      <ondertekening>De
+<functie>Minister</functie> van
+<organisatie afkorting="FIN">Financi&#xEB;n,</organisatie>
+        <naam>
+          <voornaam>J.C.
+de</voornaam>
+          <achternaam>Jager</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label>
+        <nr status="officieel">1</nr>
+        <titel status="officieel">Lijst van multilaterale instellingen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0029242&amp;artikel=1">artikel
+1e, sub iv</intref></titel>
+      </kop>
+      <al>In
+<intref status="actief" doc="1.0:v:BWBR0029242&amp;artikel=1">artikel 1e, sub iv</intref> van de Regeling investeringsverzekeringen, wordt
+bepaald dat een geldgever een multilaterale instelling kan betreffen.
+De volgende multilaterale instellingen komen hiervoor in
+aanmerking:</al>
+      <al>Asian Development
+Bank</al>
+      <al>European Bank for Reconstruction and
+Development</al>
+      <al>European Development Fund</al>
+      <al>European
+Investment Bank</al>
+      <al>International Bank for Reconstruction and
+Development</al>
+      <al>International Development
+Association</al>
+      <al>Inter-American Development
+Bank</al>
+      <al>International Fund for Agricultural
+Development</al>
+      <al>International Finance
+Corporation</al>
+      <al>Inter-American Investment
+Corporation</al>
+      <al>Multilateral Investment Guarantee
+Agency</al>
+      <al>Nordic Development Fund</al>
+      <al>Nordic Investment
+Bank</al>
+    </bijlage>
+  </regeling>
+</wetgeving>
+  	

@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0024926" dtdversie="2.0" id="407739" soort="ministeriele-regeling">
+  
+  <intitule>Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8&#xA0;december 2008, nr. MC-U-2898120, houdende aanwijzing categorie&#xEB;n van persoonsgegevens voor de uitvoering door de zorgautoriteit van de WMG (Regeling categorie&#xEB;n persoonsgegevens WMG)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Minister van Volksgezondheid, Welzijn en Sport,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=65" compleet="nee">artikel 65 van de Wet marktordening gezondheidszorg</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">definities</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>In deze regeling wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>
+                <nadruk type="cur">bestuurder:</nadruk> lid van raad van bestuur, raad van toezicht, eigenaar;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>
+                <nadruk type="cur">medewerker:</nadruk> natuurlijk persoon, werkzaam ten behoeve van een zorgaanbieder of een ziektekostenverzekeraar;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>
+                <nadruk type="cur">wet:</nadruk> <extref status="actief" doc="1.0:v:BWBR0020078" compleet="nee">Wet marktordening gezondheidszorg</extref>;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>
+                <nadruk type="cur">zorgautoriteit:</nadruk> de Nederlandse Zorgautoriteit, genoemd in <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=3" compleet="nee">artikel 3 van de wet</extref>;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>
+                <nadruk type="cur">categorie van persoonsgegevens:</nadruk> een categorie als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=60" compleet="nee">artikel 60 van de wet</extref>, onderscheiden in identificerende persoonsgegevens, medische persoonsgegevens en strafrechtelijke persoonsgegevens;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>
+                <nadruk type="cur">verwerking van persoonsgegevens:</nadruk> elke handeling of elk geheel van handelingen met betrekking tot persoonsgegevens, waaronder in ieder geval het verzamelen, vastleggen, ordenen, bewaren, bijwerken, wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiding of enige andere vorm van terbeschikkingstelling, samenbrengen, met elkaar in verband brengen, alsmede het afschermen, uitwissen of vernietigen van gegevens;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>
+                <nadruk type="cur">verstrekken van persoonsgegevens:</nadruk> het bekend maken of ter beschikking stellen van persoonsgegevens;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>
+                <nadruk type="cur">verzamelen van persoonsgegevens:</nadruk> het verkrijgen van persoonsgegevens.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>In deze regeling wordt onder zorgaanbieder of ziektekostenverzekeraar mede verstaan degene bedoeld in <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=44" compleet="nee">artikel 44 van de wet</extref>.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+        </kop>
+        <al>Voor de uitvoering van de hieronder aangegeven artikelen uit <extref status="actief" doc="1.0:v:BWBR0020078&amp;hoofdstuk=3" compleet="nee">hoofdstuk 3</extref> en <extref status="actief" doc="1.0:v:BWBR0020078&amp;hoofdstuk=4" compleet="nee">4 van de wet</extref> worden persoonsgegevens verwerkt indien en voor zover zij naar het oordeel van de zorgautoriteit voor die uitvoering noodzakelijk zijn en voor zover zij behoren tot de hieronder bij die artikelen vermelde categorie&#xEB;n van persoonsgegevens:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>1.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=16" compleet="nee">artikel 16</extref>: persoonsgegevens behorend tot de categorie&#xEB;n identificerende en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders en AWBZ-verzekeraars en rechtspersonen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002614&amp;artikel=40" compleet="nee">artikel 40 Algemene Wet Bijzondere Ziektekosten</extref> en persoonsgegevens behorend tot de categorie&#xEB;n identificerende- en medische persoonsgegevens van consumenten;</al>
+          </li>
+          <li>
+            <li.nr>2.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=18" compleet="nee">artikel 18</extref>: persoonsgegevens behorend tot de categorie identificerende persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders en ziektekostenverzekeraars;</al>
+          </li>
+          <li>
+            <li.nr>3.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=19" compleet="nee">artikel 19</extref>: persoonsgegevens behorend tot de categorie identificerende persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders;</al>
+          </li>
+          <li>
+            <li.nr>4.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=20" compleet="nee">artikel 20</extref>: persoonsgegevens behorend tot de categorie identificerende persoonsgegevens betreffende consumenten, zorgaanbieders en bestuurders of medewerkers van zorgaanbieders en ziektekostenverzekeraars;</al>
+          </li>
+          <li>
+            <li.nr>5.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=21" compleet="nee">artikelen 21</extref> en <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=22" compleet="nee">22</extref>: persoonsgegevens behorend tot de categorie identificerende persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders en ziektekostenverzekeraars;</al>
+          </li>
+          <li>
+            <li.nr>6.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=23" compleet="nee">artikel 23</extref>: persoonsgegevens behorend tot de categorie identificerende persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders en ziektekostenverzekeraars en persoonsgegevens behorend tot de categorie&#xEB;n identificerende- en medische persoonsgegevens van consumenten;</al>
+          </li>
+          <li>
+            <li.nr>7.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=24" compleet="nee">artikel 24</extref>: persoonsgegevens behorend tot de categorie identificerende persoonsgegevens betreffende bestuurders of medewerkers van zorgverzekeraars;</al>
+          </li>
+          <li>
+            <li.nr>8.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=26" compleet="nee">artikel 26</extref>: persoonsgegevens behorend tot de categorie&#xEB;n identificerende- en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders en zorgverzekeraars en persoonsgegevens behorend tot de categorie&#xEB;n identificerende- en medische persoonsgegevens van consumenten;</al>
+          </li>
+          <li>
+            <li.nr>9.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=28" compleet="nee">artikel 28</extref>: persoonsgegevens behorend tot de categorie identificerende persoonsgegevens betreffende bestuurders of medewerkers van AWBZ-verzekeraars en rechtspersonen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002614&amp;artikel=40" compleet="nee">artikel 40 Algemene Wet Bijzondere Ziektekosten</extref>;</al>
+          </li>
+          <li>
+            <li.nr>10.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=30" compleet="nee">artikel 30</extref>: persoonsgegevens behorend tot de categorie&#xEB;n identificerende- en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders en AWBZ-verzekeraars en rechtspersonen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002614&amp;artikel=40" compleet="nee">artikel 40 Algemene Wet Bijzondere Ziektekosten</extref> en persoonsgegevens behorend tot de categorie&#xEB;n identificerende- en medische persoonsgegevens van consumenten;</al>
+          </li>
+          <li>
+            <li.nr>11.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=32" compleet="nee">artikelen 32</extref>, <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=33" compleet="nee">33</extref>, <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=38" compleet="nee">38</extref>, <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=40" compleet="nee">40</extref>, <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=44" compleet="nee">44</extref>, <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=48" compleet="nee">48</extref> en <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=49" compleet="nee">49</extref>: persoonsgegevens behorend tot de categorie identificerende persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders, ziektekostenverzekeraars en rechtspersonen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002614&amp;artikel=40" compleet="nee">artikel 40 Algemene Wet Bijzondere Ziektekosten</extref>;</al>
+          </li>
+          <li>
+            <li.nr>12.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=50" compleet="nee">artikelen 50 tot en met 56</extref>: persoonsgegevens behorend tot de categorie identificerende persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders en ziektekostenverzekeraars en persoonsgegevens behorend tot de categorie&#xEB;n identiferende en medische persoonsgegevens van consumenten;</al>
+          </li>
+          <li>
+            <li.nr>13.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=58" compleet="nee">artikel 58</extref>: persoonsgegevens behorend tot de categorie identificerende persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van ziektekostenverzekeraars, rechtspersonen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002614&amp;artikel=40" compleet="nee">artikel 40 Algemene Wet Bijzondere Ziektekosten</extref> en persoonsgegevens behorend tot de categorie&#xEB;n identiferende en medische persoonsgegevens van consumenten;</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+        </kop>
+        <al>Voor de uitvoering van de hieronder aangegeven artikelen uit <extref status="actief" doc="1.0:v:BWBR0020078&amp;hoofdstuk=5" compleet="nee">hoofdstuk 5 van de wet</extref> worden persoonsgegevens verwerkt indien en voor zover zij naar het oordeel van de zorgautoriteit voor die uitvoering noodzakelijk zijn en voor zover zij behoren tot de hieronder bij die artikelen vermelde categorie&#xEB;n van persoonsgegevens:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>1.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=61" compleet="nee">artikel 61</extref>: persoonsgegevens behorend tot de categorie&#xEB;n identificerende, medische en strafrechtelijke persoonsgegevens ter uitvoering van de onder <intref status="actief" doc="1.0:v:BWBR0024926&amp;artikel=2">artikel 2</intref> en <intref status="actief" doc="1.0:v:BWBR0024926&amp;artikel=3">3</intref> vermelde artikelen en voor zover de categorie van persoonsgegevens daarbij is vermeld;</al>
+          </li>
+          <li>
+            <li.nr>2.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=61" compleet="nee">artikel 61</extref>: persoonsgegevens behorend tot de categorie&#xEB;n identificerende, medische en strafrechtelijke persoonsgegevens die noodzakelijk zijn voor de interne en externe controle van de naleving van een door de zorgautoriteit vastgestelde regeling door een op grond van <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=61" compleet="nee">artikel 61 van de wet</extref> door de zorgautoriteit aangewezen persoon en voor zover de categorie van persoonsgegevens daarbij is vermeld;</al>
+          </li>
+          <li>
+            <li.nr>3.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=62" compleet="nee">artikel 62</extref>: persoonsgegevens behorend tot de categorie identificerende persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders, ziektekostenverzekeraars, rechtspersonen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002614&amp;artikel=40" compleet="nee">artikel 40 Algemene Wet Bijzondere Ziektekosten</extref> en in combinatie met <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=58" compleet="nee">artikel 58</extref> persoonsgegevens behorend tot de categorie&#xEB;n identificerende en medische persoonsgegevens van consumenten;</al>
+          </li>
+          <li>
+            <li.nr>4.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=66" compleet="nee">artikelen 66</extref>, <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=67" compleet="nee">67</extref> en <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=69" compleet="nee">69</extref>: persoonsgegevens behorend tot de categorie&#xEB;n identificerende- en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders en ziektekostenverzekeraars en persoonsgegevens behorend tot de categorie&#xEB;n identificerende en medische persoonsgegevens van consumenten;.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+        </kop>
+        <al>De zorgautoriteit verstrekt aan de in <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=70" compleet="nee">artikel 70 van de wet</extref> genoemde instanties persoonsgegevens indien en voor zover verwerking van die gegevens voor de uitoefening van hun taken en bevoegdheden noodzakelijk is en voor zover die gegevens behoren tot de hieronder bij die instanties vermelde categorie&#xEB;n van persoonsgegevens:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>1.</li.nr>
+            <al>het College zorgverzekeringen: persoonsgegevens behorend tot de categorie identificerende persoonsgegevens betreffende consumenten, zorgaanbieders en bestuurders of medewerkers van zorgaanbieders, ziektekostenverzekeraars en rechtspersonen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002614&amp;artikel=40" compleet="nee">artikel 40 Algemene Wet Bijzondere Ziektekosten</extref>;</al>
+          </li>
+          <li>
+            <li.nr>2.</li.nr>
+            <al>het College bouw en het College sanering: persoonsgegevens behorend tot de categorie identificerende persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders, ziektekostenverzekeraars en rechtspersonen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002614&amp;artikel=40" compleet="nee">artikel 40 Algemene Wet Bijzondere Ziektekosten</extref>;</al>
+          </li>
+          <li>
+            <li.nr>3.</li.nr>
+            <al>het Staatstoezicht op de volksgezondheid: persoonsgegevens behorend tot de categorie&#xEB;n identificerende - en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders, ziektekostenverzekeraars, rechtspersonen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002614&amp;artikel=40" compleet="nee">artikel 40 Algemene Wet Bijzondere Ziektekosten</extref> en identiferende en medische persoonsgegevens van consumenten;</al>
+          </li>
+          <li>
+            <li.nr>4.</li.nr>
+            <al>de Nederlandse Mededingingsautoriteit en de Consumentenautoriteit: persoonsgegevens behorend tot de categorie identificerende en strafrechtelijke persoonsgegevens betreffende consumenten, zorgaanbieders en bestuurders of medewerkers van zorgaanbieders, ziektekostenverzekeraars en rechtspersonen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002614&amp;artikel=40" compleet="nee">artikel 40 Algemene Wet Bijzondere Ziektekosten</extref>;</al>
+          </li>
+          <li>
+            <li.nr>5.</li.nr>
+            <al>De Nederlandsche Bank en de Stichting Autoriteit Financi&#xEB;le Markten: persoonsgegevens behorend tot de categorie&#xEB;n identificerende- en strafrechtelijke persoonsgegevens betreffende bestuurders of medewerkers van ziektekostenverzekeraars, rechtspersonen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002614&amp;artikel=40" compleet="nee">artikel 40 Algemene Wet Bijzondere Ziektekosten</extref> en verzekeraars als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=35" compleet="nee">artikel 35, vijfde lid, van de wet</extref>;</al>
+          </li>
+          <li>
+            <li.nr>6.</li.nr>
+            <al>het College bescherming persoonsgegevens en de FIOD-ECD: persoonsgegevens behorend tot de categorie&#xEB;n identificerende en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders, ziektekostenverzekeraars, rechtspersonen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002614&amp;artikel=40" compleet="nee">artikel 40 Algemene Wet Bijzondere Ziektekosten</extref> en verzekeraars als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=35" compleet="nee">artikel 35, vijfde lid, van de wet</extref> en persoonsgegevens behorend tot de categorie&#xEB;n identificerende en medische persoonsgegevens van consumenten;</al>
+          </li>
+          <li>
+            <li.nr>7.</li.nr>
+            <al>de Gezondheidsraad, het Rijksinstituut voor de volksgezondheid en milieu, de Raad voor de Volksgezondheid en Zorg, de Raad voor gezondheidsonderzoek, het Centraal Planbureau, het Centraal Bureau voor de Statistiek en het Sociaal Cultureel Planbureau: persoonsgegevens behorend tot de categorie identificerende persoonsgegevens betreffende zorgaanbieders.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+        </kop>
+        <al>Voor de uitvoering van de hieronder aangegeven artikelen uit <extref status="actief" doc="1.0:v:BWBR0020078&amp;hoofdstuk=6" compleet="nee">hoofdstuk 6 van de wet</extref> worden persoonsgegevens verwerkt indien en voor zover zij naar het oordeel van de zorgautoriteit voor die uitvoering noodzakelijk zijn en voor zover zij behoren tot de hieronder bij die artikelen vermelde categorie&#xEB;n van persoonsgegevens:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>1.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=74" compleet="nee">artikelen 74</extref> en <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=76" compleet="nee">76</extref>: persoonsgegevens behorend tot de categorie&#xEB;n identificerende en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders, ziektekostenverzekeraars en rechtspersonen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002614&amp;artikel=40" compleet="nee">artikel 40 Algemene Wet Bijzondere Ziektekosten</extref>, en persoonsgegevens behorend tot de categorie&#xEB;n identificerende, strafrechtelijke en medische persoonsgegevens van consumenten;</al>
+          </li>
+          <li>
+            <li.nr>2.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=77" compleet="nee">artikel 77</extref>: persoonsgegevens behorend tot de categorie&#xEB;n identificerende en strafrechtelijke persoonsgegevens betreffende bestuurders of medewerkers van een zorgverzekeraar, dan wel een verzekeraar die verzekeringen als zorgverzekering aanbiedt of uitvoert die niet aan het bepaalde bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0018450" compleet="nee">Zorgverzekeringswet</extref> voldoen;</al>
+          </li>
+          <li>
+            <li.nr>3.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=78" compleet="nee">artikel 78</extref>: persoonsgegevens behorend tot de categorie&#xEB;n identificerende en strafrechtelijke persoonsgegevens betreffende bestuurders of medewerkers van een AWBZ-verzekeraar of en rechtspersonen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002614&amp;artikel=40" compleet="nee">artikel 40 Algemene Wet Bijzondere Ziektekosten</extref>;</al>
+          </li>
+          <li>
+            <li.nr>4.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=80" compleet="nee">artikel 80</extref>: persoonsgegevens behorend tot de categorie&#xEB;n identificerende en strafrechtelijke persoonsgegevens betreffende bestuurders of medewerkers van een zorgverzekeraar, een verzekeraar die verzekeringen als zorgverzekering aanbiedt of uitvoert die niet aan het bepaalde bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0018450" compleet="nee">Zorgverzekeringswet</extref> voldoen, dan wel een AWBZ-verzekeraar;</al>
+          </li>
+          <li>
+            <li.nr>5.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=81" compleet="nee">artikel 81</extref>: persoonsgegevens behorend tot de categorie&#xEB;n identificerende en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders en van ziektekostenverzekeraars, niet zijnde een zorgverzekeraar of een verzekeraar die verzekeringen als zorgverzekering aanbiedt of uitvoert die niet aan het bepaalde bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0018450" compleet="nee">Zorgverzekeringswet</extref> voldoen, dan wel een AWBZ-verzekeraar:</al>
+          </li>
+          <li>
+            <li.nr>6.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=82" compleet="nee">artikel 82</extref>: persoonsgegevens behorend tot de categorie&#xEB;n identificerende en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders, ziektekostenverzekeraars en rechtspersonen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002614&amp;artikel=40" compleet="nee">artikel 40 Algemene Wet Bijzondere Ziektekosten</extref>, en persoonsgegevens behorend tot de categorie&#xEB;n identificerende, strafrechtelijke en medische persoonsgegevens van consumenten;</al>
+          </li>
+          <li>
+            <li.nr>7.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=83" compleet="nee">artikel 83</extref>: persoonsgegevens behorend tot de categorie&#xEB;n identificerende en strafrechtelijke persoonsgegevens betreffende bestuurders of medewerkers van een zorgverzekeraar, een rechtspersoon als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=83" compleet="nee">artikel 83, tweede lid</extref>, dan wel een verzekeraar die verzekeringen als zorgverzekering aanbiedt of uitvoert die niet aan het bepaalde bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0018450" compleet="nee">Zorgverzekeringswet</extref> voldoen en persoonsgegevens behorend tot de categorie&#xEB;n identificerende, strafrechtelijke en medische persoonsgegevens van consumenten;</al>
+          </li>
+          <li>
+            <li.nr>8.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=84" compleet="nee">artikel 84</extref>: persoonsgegevens behorend tot de categorie&#xEB;n identificerende- en strafrechtelijke persoonsgegevens betreffende bestuurders of medewerkers van AWBZ-verzekeraars en rechtspersonen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002614&amp;artikel=40" compleet="nee">artikel 40 Algemene Wet Bijzondere Ziektekosten</extref>, en persoonsgegevens behorend tot de categorie&#xEB;n identificerende, strafrechtelijke en medische persoonsgegevens van consumenten;</al>
+          </li>
+          <li>
+            <li.nr>9.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=85" compleet="nee">artikel 85</extref>: persoonsgegevens behorend tot de categorie&#xEB;n identificerende- en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders, ziektekostenverzekeraars en rechtspersonen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002614&amp;artikel=40" compleet="nee">artikel 40 Algemene Wet Bijzondere Ziektekosten</extref>, en persoonsgegevens behorend tot de categorie&#xEB;n identificerende, strafrechtelijke en medische persoonsgegevens van consumenten;</al>
+          </li>
+          <li>
+            <li.nr>10.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=86" compleet="nee">artikelen 86</extref> : persoonsgegevens behorend tot de categorie&#xEB;n identificerende en strafrechtelijke persoonsgegevens betreffende bestuurders of medewerkers van een zorgverzekeraar dan wel een rechtspersoon als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=86" compleet="nee">artikel 86, tweede lid</extref>;</al>
+          </li>
+          <li>
+            <li.nr>11.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=87" compleet="nee">artikel 87</extref> en <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=88" compleet="nee">88</extref>: persoonsgegevens behorend tot de categorie&#xEB;n identificerende en strafrechtelijke persoonsgegevens betreffende bestuurders of medewerkers van een zorgverzekeraar;</al>
+          </li>
+          <li>
+            <li.nr>12.</li.nr>
+            <al><extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=89" compleet="nee">artikel 89</extref>: persoonsgegevens behorend tot de categorie&#xEB;n identificerende en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders, ziektekostenverzekeraars en persoonsgegevens behorend tot de categorie&#xEB;n identificerende, strafrechtelijke en medische persoonsgegevens van consumenten.</al>
+          </li>
+          
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">inwerkingtreding</titel>
+        </kop>
+        <al>Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1&#xA0;november 2008.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">citeertitel</titel>
+        </kop>
+        <al>Deze regeling wordt aangehaald als Regeling categorie&#xEB;n persoonsgegevens WMG.</al>
+      </artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <ondertekening>De <functie>Minister</functie> van <organisatie afkorting="VWS">Volksgezondheid, Welzijn en Sport</organisatie>,
+        <naam>
+          <voornaam>A.</voornaam>
+          <achternaam>Klink</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

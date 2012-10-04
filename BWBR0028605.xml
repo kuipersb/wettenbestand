@@ -1,0 +1,802 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0028605" dtdversie="2.0" id="444529" soort="ministeriele-regeling">
+  
+  <intitule>Regeling
+van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties
+van 16&#xA0;september 2010, nr.&#xA0;2010-0000605688, houdende regels
+ter uitvoering van de Wet basisadministraties persoonsgegevens BES en
+het Besluit basisadministraties persoonsgegevens BES (Regeling
+basisadministraties persoonsgegevens
+BES)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De
+Staatssecretaris van Binnenlandse Zaken en
+Koninkrijksrelaties,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet
+op de <extref status="actief" doc="1.0:v:BWBR0028208&amp;artikel=3" compleet="nee">artikelen 3, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0028208&amp;artikel=3a" compleet="nee">3a, derde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0028208&amp;artikel=4c" compleet="nee">4c, tweede en derde lid</extref>,
+<extref status="actief" doc="1.0:v:BWBR0028208&amp;artikel=10" compleet="nee">10, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0028208&amp;artikel=11" compleet="nee">11, derde lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0028208&amp;artikel=30" compleet="nee">30, tweede lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0028208&amp;artikel=37" compleet="nee">37 van de Wet
+basisadministraties persoonsgegevens BES</extref> en de <extref status="actief" doc="1.0:v:BWBR0028622&amp;artikel=30" compleet="nee">artikelen 30, tweede
+lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0028622&amp;artikel=31" compleet="nee">31, eerste lid, van het Besluit basisadministraties
+persoonsgegevens
+BES</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Algemene
+bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>In
+deze regeling wordt verstaan
+onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>
+                <nadruk type="cur">de
+minister:</nadruk> de Minister van Binnenlandse Zaken en
+Koninkrijksrelaties;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>
+                <nadruk type="cur">de
+wet:</nadruk> de <extref status="actief" doc="1.0:v:BWBR0028208" compleet="nee">Wet basisadministraties persoonsgegevens
+BES</extref>;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>
+                <nadruk type="cur">het
+besluit:</nadruk> het <extref status="actief" doc="1.0:v:BWBR0028622" compleet="nee">Besluit basisadministraties
+persoonsgegevens
+BES</extref>;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>
+                <nadruk type="cur">de
+systeembeschrijving basisadministraties BES:</nadruk> de
+systeembeschrijving basisadministraties BES, bedoeld in <intref status="actief" doc="1.0:v:BWBR0028605&amp;artikel=3">artikel 3,
+eerste
+lid</intref>;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>
+                <nadruk type="cur">de
+systeembeschrijving verstrekkingenvoorziening
+BES:</nadruk> de systeembeschrijving
+verstrekkingenvoorziening BES, bedoeld in <intref status="actief" doc="1.0:v:BWBR0028605&amp;artikel=6">artikel 6, eerste
+lid</intref>;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>
+                <nadruk type="cur">het
+geautomatiseerde systeem van het openbaar
+lichaam:</nadruk> het geautomatiseerde systeem waarmee het
+bestuurscollege uitvoering geeft aan de regels, bedoeld in <extref status="actief" doc="1.0:v:BWBR0028208&amp;artikel=3" compleet="nee">artikel 3,
+tweede lid, van de
+wet</extref>;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>
+                <nadruk type="cur">het
+geautomatiseerde systeem van het overheidsorgaan of de
+derde:</nadruk> het geautomatiseerde systeem waarmee het
+overheidsorgaan of de derde uitvoering geeft aan de regels, bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0028208&amp;artikel=3a" compleet="nee">artikel 3a, derde lid, van de
+wet</extref>;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>
+                <nadruk type="cur">autorisatiebesluit:</nadruk> een
+besluit als bedoeld in <extref status="actief" doc="1.0:v:BWBR0028208&amp;artikel=20" compleet="nee">artikel 20, derde lid, van de
+wet</extref>.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Het
+beheer, de technische en administratieve inrichting en werking en de
+beveiliging van de
+basisadministraties</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het
+bestuurscollege legt de hoofdlijnen van het beheer van de
+basisadministratie vast in een regeling die voor een ieder ter inzage
+wordt
+gelegd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het
+bestuurscollege en al degenen die verder bij het beheer van de
+basisadministratie zijn betrokken, zijn verplicht de in het eerste lid
+bedoelde regeling na te
+leven.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Er
+is een systeembeschrijving basisadministraties BES, waarin zijn
+opgenomen:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de
+regels omtrent de technische en administratieve inrichting en werking
+van de basisadministraties, bedoeld in <extref status="actief" doc="1.0:v:BWBR0028208&amp;artikel=3" compleet="nee">artikel 3, tweede lid, van de
+wet</extref>;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de regels met betrekking tot de
+verwijdering en de vernietiging van algemene gegevens, bijzondere
+gegevens, verwijsgegevens, administratieve gegevens en administratieve
+gegevens in verband met de verwijsgegevens, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0028208&amp;artikel=10" compleet="nee">artikelen 10,
+tweede lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0028208&amp;artikel=11" compleet="nee">11, derde lid, van de
+wet</extref>;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de regels omtrent de verzending
+en de ontvangst van berichten door de basisadministraties in verband
+met de uitvoering van <extref status="actief" doc="1.0:v:BWBR0028208&amp;artikel=3a" compleet="nee">artikel 3a, derde lid, onder b, van de
+wet</extref>.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+systeembeschrijving basisadministraties BES wordt gevormd door de op de
+onderwerpen, genoemd in het eerste lid, betrekking hebbende en als
+zodanig gemarkeerde hoofdstukken en bijlagen, of onderdelen daarvan,
+van het Logisch Ontwerp BES, versie 1.0, dat als <intref status="actief" doc="1.0:v:BWBR0028605&amp;bijlage=">bijlage</intref> bij deze
+regeling is
+gevoegd.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <al>De
+minister stelt de inhoud vast van de in de systeembeschrijving
+basisadministraties BES beschreven tabellen ten behoeve van de ordening
+en de codering van de gegevens in de
+basisadministraties.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <al>Er
+zijn de nodige voorzieningen van technische en organisatorische aard
+ter beveiliging van de in de basisadministratie opgenomen gegevens
+tegen verlies of aantasting van deze gegevens en tegen onbevoegde
+kennisneming, wijziging of verstrekking van deze gegevens. Deze
+voorzieningen omvatten ten minste de volgende
+onderwerpen:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>maatregelen
+gericht op personen die werkzaam zijn voor de
+verantwoordelijke;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>maatregelen
+gericht op de toegang tot gebouwen en ruimten waar in de
+basisadministratie opgenomen gegevens aanwezig
+zijn;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>maatregelen gericht op een
+deugdelijke werking en beveiliging van de apparatuur en programmatuur
+die het geautomatiseerde systeem van het openbaar lichaam
+vormen;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>maatregelen gericht op het
+beheer van de gegevens die in de basisadministratie zijn
+opgenomen;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>maatregelen voor het geval
+de geheimhouding van in de basisadministratie opgenomen gegevens is
+geschaad;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>maatregelen bij
+calamiteiten.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">De
+systematische verstrekking van gegevens uit de
+basisadministraties</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">De
+technische en administratieve inrichting en werking en de beveiliging
+van de
+verstrekkingenvoorziening</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">6</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Er
+is een systeembeschrijving verstrekkingenvoorziening BES, waarin zijn
+opgenomen:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de
+regels omtrent de technische en administratieve inrichting en werking
+van de verstrekkingenvoorziening, bedoeld in <extref status="actief" doc="1.0:v:BWBR0028208&amp;artikel=3a" compleet="nee">artikel 3a, derde lid,
+onder a, van de wet</extref>;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de beschrijving
+van de volgende wijzen van systematisch verstrekken van gegevens aan
+overheidsorganen en derden op grond van de desbetreffende
+autorisatiebesluiten:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                      <li.nr>1&#xB0;.</li.nr>
+                      <al>de verstrekking op verzoek van het
+overheidsorgaan of de derde, van gegevens welke deel uitmaken van de in
+een autorisatiebesluit vermelde gegevens over, per verzoek, ten hoogste
+tien personen die deel uitmaken van de in het autorisatiebesluit
+bepaalde categorie van personen en van wie de gegevens of een deel van
+de gegevens voldoen aan de gegevens die in het verzoek zijn vermeld
+(verstrekkingen ad-hoc op basis van een
+zoekvraag);</al>
+                    </li>
+                    <li>
+                      <li.nr>2&#xB0;.</li.nr>
+                      <al>de verstrekking van
+de in een autorisatiebesluit vermelde gegevens over personen waarvan de
+in de basisadministratie vermelde gegevens voldoen aan de in het
+autorisatiebesluit genoemde voorwaarden
+(selectieverstrekkingen);</al>
+                    </li>
+                  </lijst>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de
+regels omtrent de verzending en de ontvangst van berichten door de
+verstrekkingenvoorziening in verband met de uitvoering van <extref status="actief" doc="1.0:v:BWBR0028208&amp;artikel=3a" compleet="nee">artikel 3a,
+derde lid, onder b, van de wet</extref>.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De systeembeschrijving
+verstrekkingenvoorziening BES wordt gevormd door de op de onderwerpen,
+genoemd in het eerste lid, betrekking hebbende en als zodanig
+gemarkeerde hoofdstukken en bijlagen, of onderdelen daarvan, van het
+Logisch Ontwerp BES, versie 1.0, dat als <intref status="actief" doc="1.0:v:BWBR0028605&amp;bijlage=">bijlage</intref> bij deze regeling is
+gevoegd.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">7</nr>
+            </kop>
+            <al>De
+minister stelt de inhoud vast van de in de systeembeschrijving
+verstrekkingenvoorziening BES beschreven tabellen ten behoeve van de
+ordening en de codering van de gegevens in de verstrekkingenvoorziening
+en de verstrekking van gegevens uit de
+verstrekkingenvoorziening.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">8</nr>
+            </kop>
+            <al>Er
+zijn de nodige voorzieningen van technische en organisatorische aard
+ter beveiliging van de in de verstrekkingenvoorziening opgenomen
+gegevens tegen verlies of aantasting van deze gegevens en tegen
+onbevoegde kennisneming, wijziging of verstrekking van deze gegevens.
+Deze voorzieningen omvatten ten minste de volgende
+onderwerpen:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>maatregelen
+gericht op personen die werkzaam zijn voor de
+verantwoordelijke;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>maatregelen
+gericht op de toegang tot gebouwen en ruimten waar in de
+verstrekkingenvoorziening opgenomen gegevens aanwezig
+zijn;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>maatregelen gericht op een
+deugdelijke werking en beveiliging van de apparatuur en programmatuur
+die de verstrekkingenvoorziening
+vormen;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>maatregelen gericht op het
+beheer van de gegevens die in de verstrekkingenvoorziening zijn
+opgenomen;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>maatregelen voor het geval
+de geheimhouding van in de verstrekkingenvoorziening opgenomen gegevens
+is geschaad;</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>maatregelen bij
+calamiteiten.</al>
+              </li>
+            </lijst>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">De
+systematische wijzen van
+verstrekking</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">9</nr>
+            </kop>
+            <al>De
+systematische wijzen van verstrekking van gegevens, bedoeld in <extref status="actief" doc="1.0:v:BWBR0028622&amp;artikel=31" compleet="nee">artikel
+31, eerste lid, van het besluit</extref>, zijn de wijzen die overeenkomstig
+<intref status="actief" doc="1.0:v:BWBR0028605&amp;artikel=6">artikel 6, eerste lid, onder b</intref>, zijn beschreven in de
+systeembeschrijving verstrekkingenvoorziening
+BES.</al>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">De
+uitwisseling van berichten met de
+verstrekkingenvoorziening</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">10</nr>
+            </kop>
+            <al>De
+uitwisseling van berichten tussen de basisadministraties enerzijds en
+de verstrekkingenvoorziening anderzijds geschiedt overeenkomstig de
+systeembeschrijving basisadministraties BES en de systeembeschrijving
+verstrekkingenvoorziening
+BES.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">11</nr>
+            </kop>
+            <al>De
+uitwisseling van berichten tussen de verstrekkingenvoorziening
+enerzijds en overheidsorganen en derden anderzijds geschiedt
+overeenkomstig de systeembeschrijving verstrekkingenvoorziening
+BES.</al>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">4</nr>
+            <titel status="officieel">De
+indiening van het verzoek tot het nemen van een
+autorisatiebesluit</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">12</nr>
+            </kop>
+            <al>Bij
+de indiening van een verzoek tot het nemen van een autorisatiebesluit
+maakt het overheidsorgaan of de derde gebruik van een door de minister
+vastgesteld
+formulier.</al>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">De
+bijdragen in de kosten in verband met de uitvoering van de wet en het
+besluit</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">13</nr>
+          </kop>
+          <al>In
+dit hoofdstuk wordt verstaan
+onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>
+                <nadruk type="cur">betrokkene:</nadruk> de
+betrokkene, bedoeld in <extref status="actief" doc="1.0:v:BWBR0028208&amp;artikel=4c" compleet="nee">artikel 4c van de
+wet</extref>.</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>
+                <nadruk type="cur">bijdrage:</nadruk> de
+bijdrage, bedoeld in <extref status="actief" doc="1.0:v:BWBR0028208&amp;artikel=4c" compleet="nee">artikel 4c van de
+wet</extref>.</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>
+                <nadruk type="cur">jaar:</nadruk> kalenderjaar;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>
+                <nadruk type="cur">bericht:</nadruk> een
+bericht als bedoeld in <extref status="actief" doc="1.0:v:BWBR0028208&amp;artikel=3a" compleet="nee">artikel 3a, derde lid, onder b, van de
+wet</extref>.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">14</nr>
+          </kop>
+          <al>De
+categorie&#xEB;n van kosten, bedoeld in <extref status="actief" doc="1.0:v:BWBR0028208&amp;artikel=4c" compleet="nee">artikel 4c, tweede lid, van de
+wet</extref>,
+zijn:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>kosten
+in verband met het beheer en het gebruik van de
+verstrekkingenvoorziening;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>kosten in
+verband met de uitwisseling van berichten tussen de basisadministraties
+van de openbare lichamen en de
+verstrekkingenvoorziening;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>kosten in
+verband met de verzending door de verstrekkingenvoorziening van
+berichten aan overheidsorganen en derden, en de ontvangst door de
+verstrekkingenvoorziening van berichten van overheidsorganen en
+derden;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>kosten in verband met de
+verzending van berichten met behulp van optische schijf of
+magneetschijf.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">15</nr>
+          </kop>
+          <al>Berichten
+aan of van een betrokkene komen ten laste van die
+betrokkene.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">16</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De
+minister stelt elk jaar het bedrag per bericht vast, dat hij in het
+volgende jaar zal
+hanteren.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De
+minister bepaalt dit bedrag, gelet
+op:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de
+voor het lopende jaar te verwachten kosten als bedoeld in <intref status="actief" doc="1.0:v:BWBR0028605&amp;artikel=14">artikel 14,
+onder a, b en c</intref>, verminderd met het saldo over het vorige
+jaar;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het voor het volgende jaar te
+verwachten aantal berichten dat op grond van artikel 15 ten laste komt
+van de
+betrokkenen.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Het
+saldo over het vorige jaar wordt gevonden door het aantal gerealiseerde
+berichten dat ten laste komt van de betrokkenen te vermenigvuldigen met
+het bedrag per bericht voor dat jaar en dit product te verminderen met
+de kosten, bedoeld in <intref status="actief" doc="1.0:v:BWBR0028605&amp;artikel=14">artikel 14, onder a, b en c</intref>, in dat
+jaar.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De
+minister deelt het bedrag, bedoeld in het eerste lid, in september van
+elk jaar mede aan de
+betrokkenen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Indien
+de berichten met behulp van optische schijf of magneetschijf worden
+verzonden, wordt de prijs van een verstrekking als bedoeld in <intref status="actief" doc="1.0:v:BWBR0028605&amp;artikel=6">artikel
+6, eerste lid, onderdeel b, onder 2&#xB0;</intref>, verhoogd met
+&#x20AC;&#xA0;400 per verstrekking in verband met de kosten, bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0028605&amp;artikel=14">artikel 14, onder
+d</intref>.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">17</nr>
+          </kop>
+          <al>In
+afwijking van <intref status="actief" doc="1.0:v:BWBR0028605&amp;artikel=16">artikel 16, eerste tot en met vierde lid</intref>, worden de
+bedragen voor de jaren 2010 tot en met 2012 als volgt
+vastgesteld:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>De
+prijs voor een verstrekking als bedoeld in <intref status="actief" doc="1.0:v:BWBR0028605&amp;artikel=6">artikel 6, eerste lid,
+onderdeel b, onder 1&#xB0;</intref>, bedraagt &#x20AC;&#xA0;0,15 per
+bericht.</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>De prijs voor een
+verstrekking als bedoeld in <intref status="actief" doc="1.0:v:BWBR0028605&amp;artikel=6">artikel 6, eerste lid, onderdeel b, onder
+2&#xB0;</intref>, bedraagt voor de eerste verstrekking:
+&#x20AC;&#xA0;3.500.</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>De prijs voor
+iedere volgende verstrekking als bedoeld in <intref status="actief" doc="1.0:v:BWBR0028605&amp;artikel=6">artikel 6, eerste lid,
+onderdeel b, onder 2&#xB0;</intref>, die aan dezelfde voorwaarden voldoet als de
+eerste verstrekking en periodiek plaatsvindt,
+bedraagt:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;.</li.nr>
+                  <al>voor
+een dagelijkse verstrekking:
+&#x20AC;&#xA0;50;</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;.</li.nr>
+                  <al>voor een
+wekelijkse verstrekking;
+&#x20AC;&#xA0;100;</al>
+                </li>
+                <li>
+                  <li.nr>3&#xB0;.</li.nr>
+                  <al>voor een
+maandelijkse verstrekking:
+&#x20AC;&#xA0;500;</al>
+                </li>
+                <li>
+                  <li.nr>4&#xB0;.</li.nr>
+                  <al>voor een
+verstrekking per kwartaal:
+&#x20AC;&#xA0;1.250;</al>
+                </li>
+                <li>
+                  <li.nr>5&#xB0;.</li.nr>
+                  <al>voor een
+verstrekking per half jaar:
+&#x20AC;&#xA0;2.000;</al>
+                </li>
+                <li>
+                  <li.nr>6&#xB0;.</li.nr>
+                  <al>voor een
+jaarlijkse verstrekking:
+&#x20AC;&#xA0;3.000.</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>De
+prijs voor iedere volgende verstrekking als bedoeld in <intref status="actief" doc="1.0:v:BWBR0028605&amp;artikel=6">artikel 6,
+eerste lid, onderdeel b, onder 2&#xB0;</intref>, die aan dezelfde voorwaarden
+voldoet als de eerste verstrekking en niet periodiek plaatsvindt,
+bedraagt:
+&#x20AC;&#xA0;3.000.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">18</nr>
+          </kop>
+          <al>De
+bijdrage van een betrokkene bestaat uit maandelijkse betalingen.
+Hiertoe stelt de minister maandelijks het bedrag vast, dat aan de
+betrokkene in rekening wordt gebracht. De vaststelling geschiedt op
+basis
+van:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>het
+op grond van <intref status="actief" doc="1.0:v:BWBR0028605&amp;artikel=16">artikel 16, eerste lid</intref>, vastgestelde, dan wel in <intref status="actief" doc="1.0:v:BWBR0028605&amp;artikel=17">artikel
+17, eerste lid, onder a</intref>, genoemde bedrag per bericht voor het lopende
+jaar;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>het aantal berichten dat
+gedurende de desbetreffende maand op grond van <intref status="actief" doc="1.0:v:BWBR0028605&amp;artikel=15">artikel 15</intref> ten laste van
+de betrokkene komt;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de bedragen die
+gedurende de desbetreffende maand op grond van <intref status="actief" doc="1.0:v:BWBR0028605&amp;artikel=16">artikel 16, vijfde lid</intref>,
+en <intref status="actief" doc="1.0:v:BWBR0028605&amp;artikel=17">artikel 17, eerste lid, onder b, c en d</intref>, ten laste van de betrokkene
+kunnen worden
+gebracht.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">19</nr>
+          </kop>
+          <al>Deze
+regeling treedt in werking op het tijdstip waarop de <extref status="actief" doc="1.0:v:BWBR0028208" compleet="nee">Wet
+basisadministraties persoonsgegevens BES</extref> in werking
+treedt.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">20</nr>
+          </kop>
+          <al>Deze
+regeling wordt aangehaald als: Regeling basisadministraties
+persoonsgegevens
+BES.</al>
+        </artikel>
+      </hoofdstuk>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze
+regeling zal met de toelichting in de Staatscourant worden geplaatst,
+met uitzondering van de <intref status="actief" doc="1.0:v:BWBR0028605&amp;bijlage=">bijlage</intref>, die ter inzage wordt gelegd bij het
+agentschap Basisadministratie Persoonsgegevens en Reisdocumenten, Lange
+Vijverberg 11 te
+&#x2019;s-Gravenhage.</al>
+      </slotformulering>
+      <ondertekening>De
+<functie>Staatssecretaris</functie> van
+<organisatie afkorting="BZK">Binnenlandse Zaken en Koninkrijksrelaties</organisatie>,<naam>
+          <voornaam>A.Th.B.</voornaam>
+          <achternaam>Bijleveld-Schouten</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  <bijlage status="goed"><kop><label>Bijlage</label></kop><al><redactie type="vervanging">Ligt ter inzage bij het
+agentschap Basisadministratie Persoonsgegevens en Reisdocumenten, Lange
+Vijverberg 11 te
+&#x2019;s-Gravenhage.</redactie></al></bijlage></regeling>
+</wetgeving>
+  	

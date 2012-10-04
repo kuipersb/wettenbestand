@@ -1,0 +1,2295 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0025247" dtdversie="2.0" id="410949" soort="zbo">
+  
+  
+  <intitule>Beleidsregels gevoelige gegevens kentekenregister</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De directie van de RDW (Dienst Wegverkeer),</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=42a" compleet="nee">artikel 42a, vierde lid van de Wegenverkeerswet 1994</extref> en <extref status="actief" doc="1.0:v:BWBR0006951&amp;artikel=7" compleet="nee">artikel 7, tweede lid, van het Kentekenreglement</extref> en <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=4%3A81" compleet="nee">artikel 4:81 van de Algemene wet bestuursrecht</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+        </kop>
+        <al>Als gevoelige gegevens, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=42a" compleet="nee">artikel 42a, eerste lid, onderdeel b, van de Wegenverkeerswet 1994</extref> en <extref status="actief" doc="1.0:v:BWBR0006951&amp;artikel=7" compleet="nee">artikel 7, tweede lid, van het Kentekenreglement</extref>, worden de in de <intref status="actief" doc="1.0:v:BWBR0025247&amp;bijlage=">bijlage</intref> bij dit besluit genoemde gegevens uit het kentekenregister aangewezen.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+        </kop>
+        <al>Deze beleidsregels treden in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij worden geplaatst.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+        </kop>
+        <al>Deze beleidsregels worden aangehaald als: Beleidsregels gevoelige gegevens kentekenregister.</al>
+      </artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <ondertekening>De <functie>directie van de RDW</functie>,</ondertekening><ondertekening>
+        <deze>namens deze:</deze>
+        <functie>Algemeen directeur</functie>,
+        <naam>
+          <voornaam>J.G.</voornaam>
+          <achternaam>Hakkenberg</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label>
+        <titel status="officieel">: Gevoelige- en niet-gevoelige gegevens kentekenregister</titel>
+      </kop>
+      <al>Als gevoelige gegevens conform het bepaalde in de <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=42a" compleet="nee">Wegenverkeerswet 1994, artikel 42a, vierde lid</extref>, en het <extref status="actief" doc="1.0:v:BWBR0006951&amp;artikel=7" compleet="nee">Kentekenreglement (KR), artikel 7, tweede lid, onderdeel a</extref>, zijn aangewezen:</al>
+      <al>persoonsgegevens als bedoeld in <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=1" compleet="nee">artikel 1, onderdeel a, van de Wet bescherming persoonsgegevens</extref> (Wbp);</al>
+      <al>(<extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=1" compleet="nee">Wbp, art.1, a</extref>: Elk gegeven betreffende een ge&#xEF;dentificeerde of identificeerbare natuurlijke persoon)</al>
+      <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml1">
+        <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="xml1">
+          <colspec colname="col1" colnum="1" colwidth="48*"/>
+          <colspec colname="col2" colnum="2" colwidth="81.5*"/>
+          <tbody valign="top">
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>NAAM</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>NAAM AANVRAGER INFOVERSTREKKING</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>NAAM CONTACTPERSOON STATUS VOERTUIG</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>AANDUIDING NAAMGEBRUIK GBA</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>AANDUIDING NAAMGEBRUIK NATUURLYKE PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>NAAMGEBRUIKEN NATUURLYKE PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>NAAMGEBRUIK KENTEKENBEWIJS</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>NAAM PERSOON, MET DIAKRIETEN</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>NAAM STATUS VOERTUIG</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>NAAM VERANTWOORDELYKE</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>NAAMZOEKARGUMENT AANVRAAG INFORMATIE</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>NAAMZOEKARGUMENT</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>ACHTERNAAMSLEUTELGEGEVEN</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>NAAMSLEUTELGEGEVEN</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>NAAM MEDEWERKER KEURING VEEVERVOER</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>VOORVOEGSELS</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>VOORVOEGSELS AANVRAGER INFOVERSTREKKING</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>VOORVOEGSELS NATUURLYKE PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>VOORVOEGSELS NATUURLYKE PERS. MET DIAKRIETEN</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>VOORVOEGSEL STATUS VOERTUIG</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>VOORLETTERS</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>VOORLETTER AANVRAGER INFOVERSTREKKING</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>VOORLETTERS NATUURLYKE PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>VOORLETTERS NATUURLYKE PERS. MET DIAKRIETEN</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>VOORLETTERS REGISTRATIE INDICATOR</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>VOORLETTERS STATUS VOERTUIG</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1e VOORNAAM</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1E VOORNAAM NATUURLYKE PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1E VOORNAAM NATUURLYKE PERS MET DIAKRIETEN</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>STRAAT</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>STRAAT</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>STRAAT AANVRAGER INFOVERSTREKKING</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>STRAATNAAM</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>STRAATNAAM VAN ADRES</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>STRAATNAAM AFWYKEND ADRES</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>STRAATNAAM MET DIAKRITISCHE TEKENS</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>STRAATREGEL</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>STRAAT STATUS VOERTUIG</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>STRAATNAAM VOLUIT MET DIAKRIETEN</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>STRAATNAAM VOLUIT</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>EXTRACT-STRAAT</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>EXTRACT STRAAT VANUIT NEN-SCHRYFWYZE</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>HUISNUMMER</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>HUISNUMMER AANVRAGER INFOVERSTREKKING</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>HUISNUMMER VAN ADRES</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>HUISNUMMER AFWYKEND ADRES</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>HUISNUMMER BEGIN</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>HUISNUMMER EIND</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>HUISNUMMER PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>HUISNUMMER CORRESPONDENTIEADRES PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>HUISNRTOEVOEGING AANVRAGER INFOVERSTREKKING</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>HUISNUMMERTOEVOEGING ADRES</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>HUISNUMMERTOEVOEGING AFWYKEND ADRES</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>HUISNUMMERTOEVOEGING PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>HUISNRTOEVOEGING CORRESPONDENTIEADRES PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>ADRESAANDUIDING</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>WOONWAGEN/AAN BOORD VERWYZING ADRES</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>ADRES-DIAKRIETEN INDICATOR</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>ADRES FORMAATCODE</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>AFWYKEND ADRES INDICATOR</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>EINDDATUM ADRES</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>SOORT ADRES</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>POSTCODE ALFABETISCH</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>POSTCODE ALFABETISCH AANVRAGER INFOVERSTR</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>POSTCODE ALFABETISCH VAN ADRES</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>POSTCODE ALFABETISCH AFWYKEND ADRES</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>POSTCODE ALFABETISCHE DEEL</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>POSTCODE ALFABETISCH PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>POSTCODE ALFABETISCH CORRESP.ADRES PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>POSTCODE ALFABETISCH STATUS VOERTUIG</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>POSTCODE NUMERIEK</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>POSTCODE NUMERIEK AANVRAGER INFOVERSTR</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>POSTCODE NUMERIEK VAN ADRES</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>POSTCODE NUMERIEK AFWYKEND ADRES</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>POSTCODE NUMERIEK PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>POSTCODE NUMERIEK CORRESP.ADRES PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>POSTCODE NUMERIEK STATUS VOERTUIG</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>POSTCODE NUMERIEKE DEEL</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>WOONPLAATS</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>WOONPLAATS AANVRAGER INFOVERSTREKKING</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>WOONPLAATS</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>WOONPLAATSNAAM</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>WOONPLAATSNAAM VAN ADRES</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>WOONPLAATSNAAM AFWYKEND ADRES</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>WOONPLAATSNAAM MET DIAKRITISCHE TEKENS</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>WOONPLAATSREGEL</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>WOONPLAATS STATUS VOERTUIG</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>WOONPLAATSREGEL VAN ADRES</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>WOONPLAATSREGEL MET DIAKRITISCHE TEKENS</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GEMEENTECODE WOONPLAATS</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GEMEENTECODE PERSOONSLYST</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GEMEENTECODE</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>EXTRACT WOONPLAATSNAAM</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>EXTRACT WOONPLAATS VANUIT NEN-SCHRYFWYZE</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>PROVINCIE</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>PROVINCIECODE</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>PROVINCIECODE BY GEMEENTE</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>PROVINCIECODE BY WOONPLAATS</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>LAND</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>LANDCODE VAN ADRES</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>LANDREGEL</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GEBOORTEDATUM</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GEBOORTEDATUM NATUURLYKE PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GEBOORTEDATUM NATUURLYKE PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GEBOORTEDATUM NATUURLYKE PERSOON IN SLEUTEL</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GEBOORTEJAAR</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>DEELGEGEVEN UIT GEBOORTEDATUM</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GEBOORTEPLAATS</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GEBOORTEPLAATS BUITENLAND DIAKRIETEN</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GEBOORTEPLAATS BUITENLAND/COORDINATEN</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GESLACHT</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GESLACHTSAANDUIDING NATUURLYKE PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GESLACHTSNAAM AANVRAGER INFOVERSTREKKING</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GESLACHTSNAAM NATUURLYKE PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GESLACHTSNAAM NATUURLYKE PERSOON DIAKRIETEN</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>ADELLIJKE TITEL</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>ADELLYKE TITEL/PREDICAAT ECHTGENOOT</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>ADELLYKE TITEL/PREDICAAT NATUURLYKE PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>BURGERLIJKE STAAT</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>BURGERLYKE STAAT NATUURLYKE PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>ECHTGENOOT</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GESLACHTSNAAM ECHTGENOOT</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GESLACHTSNAAM ECHTGENOOT MET DIAKRIETEN</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>VOORVOEGSELS NAAM ECHTGENOOT</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>VOORVOEGSELS ECHTGENOOT MET DIAKRIETEN</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>OVERLIJDEN</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>EINDDATUM NATUURLYKE PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>REDEN MUTATIE NATUURLYKE PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>REDEN BEEINDIGING NATUURLYKE PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>STATUS PERSOON</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>STATUS PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>BEGINDATUM STATUS PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>BEGINDATUM ENTITEIT STATUS PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>BEGINTYD ENTITEIT STATUS PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>EINDDATUM STATUS PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>EINDDATUM ENTITEIT STATUS PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>EINDTYD ENTITEIT STATUS PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>AANSPRAKELYKE REFERENTIE</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>AANSPRAKELYKE REFERENTIE IN AANVRAAG</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>AANSPRAKELYKE REFER. AANSPRAAK TOEVOEGING</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>INFORMATIE TOESTEMMINGSCODE</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>WET OPENBAAR BESTUUR BLOKKADE DATUM</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>MAATREGEL INDICATOR</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>VERIFICATIE OMSTREDEN TENAAMSTELLING</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>VERIFICATIE TENAAMSTELLING GEGEVENS</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>BANKNUMMER</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>BANK- OF GIRONUMMER PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>BANKNUMMER PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>BURGERSERVICENUMMER</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>FISCAAL NUMMER</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>FISCAAL NUMMER NATUURLYKE PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>FISCAAL NUMMER NATUURLYKE PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>FISCALE TOEVOEGING DATUM</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>SOORT FISCALE TOEVOEGING</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GBA NUMMER</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GEMEENT BEVOLKINGSADMIN NUMMER</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GBA-NUMMER VAN EEN NATUURLYKE PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>GBA ONDERHOUD CODE</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>RDW NUMMER</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>NATUURLYKE PERSOONSSLEUTEL</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>NATUURLYKE PERSOON DIAKRIET INDICATOR</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>NATUURLYKE PERSOONSSLEUTEL AANSPR TOEV</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>NATUURLYKE PERSOONSSLEUTEL GEREGISTRATIE</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>PERSOONSLEUTEL IVM STATUS</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>PERSOONSVOLGNUMMER NATUURLYKE PERSOON</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>TELEFOONNUMMER</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>TELEFOONNR CONTACTPERSOON STATUS VOERTUIG</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>LEGITIMATIEMIDDEL</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>SOORT LEGITIMATIE AANVRAGER</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>SOORT LEGITIMATIE BY STATUS VOERTUIG</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>HERKOMST LEGITIMATIEBEWYS AANVRAGER</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>HERKOMST LEGITIMATIEBEWIJS BY STATUS VOERTUIG</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>HERKOMST AFWYKING</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>LEGITIMATIENUMMER AANVRAGER</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>LEGITIMATIENUMMER BY STATUS VOERTUIG</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>NATIONALITEIT</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>NATIONALITEIT NATUURLYKE PERSOON</al>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <al><extref status="actief" doc="1.0:v:BWBR0006951&amp;artikel=7" compleet="nee">Kentekenreglement, artikel 7, tweede lid, onderdeel b</extref>:</al>
+      <al>Gegevens waarvan de verstrekking een nadelig effect kan hebben op de concurrentiepositie van een onderneming, waaronder in elk geval worden verstaan voertuigidentificerende gegevens in combinatie met gegevens ten aanzien van rechtspersoon omtrent:</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+          <li.nr>1&#xB0;.</li.nr>
+          <al>naam, adres en vestigingsplaats;</al>
+          <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+              <colspec colname="col1" colnum="1" colwidth="48*"/>
+              <colspec colname="col2" colnum="2" colwidth="81.5*"/>
+              <tbody valign="top">
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>NAAM</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>NAAM HANDELAAR</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>NAAM IMPORTEUR</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>NAAM INGESCHREVENE KVK</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>NAAM RECHTSPERSOON/ORGANISATIE</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>NAAM RECHTSPERSOON</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>NAAM VERPLICHTINGENNEMER</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>VENNOOTSCHAPSNAAM VERKORT</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>VENNOOTSCHAPSNAAM VOLLEDIG</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>STRAAT</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>STRAATNAAM INGESCHREVENE KVK</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>STRAATNAAM ADRES RECHTSPERSOON</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>HUISNUMMER</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>HUISNUMMER CORRESPONDENTIE-ADRES BEDRYF</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>HUISNUMMER IMPORTEUR</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>HUISNUMMER CORRESPONDENTIE-ADRES IMPORTEUR</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>HUISNUMMER INGESCHREVENE KVK</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>HUISNUMMER ADRES RECHTSPERSOON</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>HUISNUMMER VERPLICHTINGENNEMER CORR ADRES</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>HUISNUMMERTOEVOEGING CORRESP.-ADRES BEDRYF</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>HUISNUMMERTOEVOEGING HANDELAAR</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>HUISNUMMERTOEVOEGING IMPORTEUR</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>HUISNUMMERTOEVOEGING CORRESP.ADRES IMPORT</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>HUISNUMMERTOEVOEGING INGESCHREVENE KVK</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>HUISNUMMERTOEVOEGING ADRES RECHTSPERSOON</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>HUISNUMMERTOEVOEGING ADR.VERPLICHTINGENNEMER</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>HUISNUMMERTOEVOEGING VERPL.NEMER CORR.-ADR</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>ADRESAANDUIDING</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>SOORT ADRES RECHTSPERSOON</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>SOORT ADRES VERPLICHTINGENNEMER</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>WOONWAGEN/AAN-BOORD VERWYZING ADRES RECHTSP.</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>WW/AB VERWYZING ADRES VERPLICHTINGENNEMER</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>AFWYKEND ADRES INDICATOR BEDRYF</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>AFWYKEND ADRES INDICATOR VERPLICHTINGENNEMER</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE ALFABETISCH</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE ALFABETISCH CORRESP BEDRYF</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE ALFABETISCH HANDELAAR</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE ALFABETISCH IMPORTEUR</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE ALFABETISCH CORRESP.-ADRES IMPORTEUR</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE ALFABETISCH INGESCHREVENE KVK</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE ALFABETISCH ADRES RECHTSPERSOON</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE ALFABETISCH ADRES VERPLICHTINGENNEMER</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE ALFABETISCH VERPL NEMER CORR.-ADRES</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE NUMERIEK</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE NUMERIEK CORRESP.-ADRES BEDRYF</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE NUMERIEK INGESCHREVENE KVK</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE NUMERIEK ADRES RECHTSPERSOON</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE NUMERIEK HANDELAAR</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE NUMERIEK IMPORTEUR</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE NUMERIEK CORRESP.-ADRES IMPORTEUR</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE NUMERIEK VERPLICHTINGENNEMER</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE NUMERIEK VERPL. NEMER CORR.- ADRES</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>WOONPLAATS</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>WOONPLAATSNAAM INGESCHREVENE KVK</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>WOONPLAATSNAAM ADRES RECHTSPERSOON</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>LAND</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>LANDCODE ADRES RECHTSPERSOON</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </li>
+        <li>
+          <li.nr>2&#xB0;:</li.nr>
+          <al>datum van oprichting en opheffing van een rechtspersoon;</al>
+          <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+              <colspec colname="col1" colnum="1" colwidth="48*"/>
+              <colspec colname="col2" colnum="2" colwidth="81.5*"/>
+              <tbody valign="top">
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>START RECHTSPERSOON</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>STARTDATUM BEDRYF</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>PERIODE AANDUIDING KENTEKEN HANDELAAR</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>EINDE RECHTSPERSOON</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>EINDDATUM VERPLICHTINGENNEMER</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>EINDDATUM VERZEKERING HANDELAARSKENTEKEN</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>REDEN EINDE INSCHRYVING VERPLICHTINGENNEMER</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </li>
+        <li>
+          <li.nr>3&#xB0;.</li.nr>
+          <al>aan de rechtspersoon gerelateerde nummers en coderingen,</al>
+          <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+              <colspec colname="col1" colnum="1" colwidth="48*"/>
+              <colspec colname="col2" colnum="2" colwidth="81.5*"/>
+              <tbody valign="top">
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>KVK-NUMMER</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>KAMER VAN KOOPHANDELNUMMER</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>KAMER VAN KOOPHANDELNUMMER BEDRYF</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>KAMER VAN KOOPHANDELNUMMER NA FUSIE</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>KAMER VAN KOOPHANDELNUMMER RECHTSPERSOON</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>KAMER VAN KOOPHANDELNUMMER VERWYZING</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>KAMER VAN KOOPHANDELNUMMER VERPL.NEMER</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>KVK-NR ERKEND BEDRIJF</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>DEELGEGEVEN UIT KVK-NUMMER RECHTSPOON</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>FISCAAL NUMMER</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>FISCAAL NUMMER BEDRYF</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>FISCAAL NUMMER RECHTSPERSOON</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>FISCAAL NUMMER VERPLICHTINGENNEMER</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>RDW NUMMER</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>RECHTSPERSOONSNUMMER</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>RECHTSPERSOONSNUMMER GEREGISTREERDE</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>VERPLICHTINGNEMER NUMMER</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>VERPLICHTINGENNEMER NUMMER VERPLICHTINGEN</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>BEDRIJFSCODERING</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>FABRIKANTCODE</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>FABRIKANTCODE VOERTUIG</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>FABRIKANTCODE</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>FABRIKANT ZOEKARGUMENT</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>IMPORTEURSCODE IVM AANSPRAKELYKHEID</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>IMPORTEURSCODE</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>SLEUTEL VOERTUIG REFERENTIE</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>GEBRUIKERSCODE VERPLICHTINGEN NEMER</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>TENAAMSTELLINGBLOKKADE INGEVAL KVK</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>TOESTEMMINGS CODES BEDRYF</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>BEVOEGDHEIDCODE BEDRYF BY VRTG VERPL</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>STARTDATUM BEVOEGDHEID BY VRTG VERPL</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>TELEFOONNUMMER</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>TELEFOONNUMMER BEDRYF</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>TELEFOONNUMMER IMPORTEUR</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>TELEFOONNUMMER VERPLICHTINGENNEMER</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </li>
+        <li>
+          <li.nr>4&#xB0;.</li.nr>
+          <al>Rechtspersoonsstatus.</al>
+          <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+              <colspec colname="col1" colnum="1" colwidth="48*"/>
+              <colspec colname="col2" colnum="2" colwidth="81.5*"/>
+              <tbody valign="top">
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>STATUS RECHTSPERSOON</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>SOORT VOERTUIG VERPLICHTINGEN</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>STANDAARD VERPLICHTINGEN</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>VERZAMELSTAATNUMMER BFV (F&amp;C-RDW)</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>AANTAL VERSTREKKINGEN BETAALD</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>BETALINGSFREQUENTIE KENTEKEN HANDLAAR</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>STATUS IMPORTEUR</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </li>
+      </lijst>
+      <al><extref status="actief" doc="1.0:v:BWBR0006951&amp;artikel=7" compleet="nee">Kentekenreglement, artikel 7, tweede lid, onderdeel c</extref>:</al>
+      <al>gegevens waarvan de verstrekking het risico van handelen in strijd met een wettelijk voorschrift met zich brengt waaronder in elk geval worden verstaan gegevens omtrent:</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+          <li.nr>1&#xB0;.</li.nr>
+          <al>identificatie en registratie van een voertuig;</al>
+          <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+              <colspec colname="col1" colnum="1" colwidth="48*"/>
+              <colspec colname="col2" colnum="2" colwidth="81.5*"/>
+              <tbody valign="top">
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>REGISTRATIECODES</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>AANTAL KENTEKENBEWIJS DUPLICATEN</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>DUPLICAATCODE KENTEKENBEWYS</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>AANTAL KENTEKENPLAAT DUPLICATEN</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>KENTEKEN CODES</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>MELDCODE VOERTUIG</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>TRANSACTIECODE BEDRYFSVOORRAAD</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>TRANSACTIECODE STATUS VOERTUIG</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>TRANSACTIECODE</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>VOERTUIGCODE</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>IDENTIFICATIE VOERTUIG</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>VOERTUIG IDENTIFICATIENUMMER EXTRACT</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>VOERTUIG IDENTIFICATIENUMMER</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>WORLD MANUFACTURER IDENT CODE</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>MONTAGEDATUM</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </li>
+        <li>
+          <li.nr>2&#xB0;.</li.nr>
+          <al>diefstal van een voertuig;</al>
+          <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+              <colspec colname="col1" colnum="1" colwidth="48*"/>
+              <colspec colname="col2" colnum="2" colwidth="81.5*"/>
+              <tbody valign="top">
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>DIEFSTALGEGEVENS</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>AANGIFTEDATUM STATUS VOERTUIG TOEVOEGING</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>AANGIFTEPLAATS STATUS VOERTUIG TOEVOEGING</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>DIEFSTAL BEGINDATUM</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>DIEFSTAL EINDDATUM</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>LANDCODE DIEFSTAL</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>MELDENDE INSTANTIE BEGIN STATUS</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>MELDENDE INSTANTIE EINDE STATUS</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>MODUS OPERANDI CODE</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE ALFABETISCH DIEFSTAL</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE ALFABETISCH TERUGVINDEN</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE NUMERIEK DIEFSTAL</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE NUMERIEK TERUGVINDEN</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>SOORT MELDENDE INSTANTIE BEGIN STATUS</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>SOORT MELDENDE INSTANTIE EIND STATUS</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>TERUGVINDDATUM</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>SCHADEFOTO AANWEZIG INDICATOR</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </li>
+        <li>
+          <li.nr>3&#xB0;.</li.nr>
+          <al>aansprakelijkheden met betrekking tot het voertuig;</al>
+          <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+              <colspec colname="col1" colnum="1" colwidth="48*"/>
+              <colspec colname="col2" colnum="2" colwidth="81.5*"/>
+              <tbody valign="top">
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>ERKEND BEDRIJF</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>BEDRYFSNUMMER</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>BEDRYFSNUMMER HANDELAAR</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>BEDRYFSNUMMER HOOFDVESTIGING</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>BEDRYFSNUMMER BY KENTEKEN</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>BEDRYFSNUMMER VOLMACHT</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>BEDRYFSNUMMER VOORRAAD</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>BEDRYFNUMMER VOERTUIGVERPLICHTING</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>VERZEKERING</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>DEKKINGSVOLGNUMMER</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>DEKKINGSVOLGNUMMER HANDELAARSKENTEKEN</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>EINDDATUM VERZEKERING</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>GEVOLMACHTIGDECODE DEKKING</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>GEVOLMACHTIGDE CODE DEKKING HANDELAARSKENT</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POLISNUMMER</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POLISNUMMER HANDELAARSKENTEKEN</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>VERZEKERINGSMAATSCHAPPY CODE DEKKING</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>VERZ MY CODE DEKKING HANDELAARSKENTEKEN</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>VERZEKERINGSMAATSCHAPPYCODE</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>VESTIGINGSDATUM INGESCHREVEN KVK</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>WAM-MUTATIEDATUM VOERTUIGKENTEKEN</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>ONTVANGSTDATUM VERZEKERINGSMUTATIE</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>ONTVANGSTDATUM VERZEKERING HANDELAARSKENT</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>TRANSACTIECODES</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>BKR-GEBRUIK INDICATOR</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>GEOGRAFISCH ZOEKARGUMENT</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>LOCATIEREGEL</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>LOCATIE FORMULIER AANSPRAKELYKHEID</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>LOCATIE FORMULIER STATUS BEGIN</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>LOCATIE FORMULIER STATUS EINDE</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>LOCATIEREGEL VAN ADRES</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>LOCATIEREGEL MET DIAKRITISCHE TEKENS</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>OPMERKING AFHANDELING AFWYKING</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>OPNAMEDATUM AFWYKEND ADRES</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>REDEN AANVRAAG INFOVERSTREKKING</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>REDEN AFWYKEND ADRES</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>REDEN MUTATIE ADRES</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>REEKS INDICATIE</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>REFERENTIENUMMER AANVRAGER INFOVERSTR</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>TYDSTEMPEL</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>UID LAATSTE MUTATIE</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </li>
+        <li>
+          <li.nr>4&#xB0;.</li.nr>
+          <al>kentekenbewijsstatus</al>
+          <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+              <colspec colname="col1" colnum="1" colwidth="48*"/>
+              <colspec colname="col2" colnum="2" colwidth="81.5*"/>
+              <tbody valign="top">
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>ONGELDIG KENTEKENBEWIJS WEGENS:</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; SCHORSING</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>DEELGEGEVEN UIT STATUS IVM VRTG</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; BUITEN REGISTRATIE</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>DEELGEGEVEN UIT STATUS IVM VRTG</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; TOTAL LOSS</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>DEELGEGEVEN UIT STATUS IVM VRTG</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; DIEFSTAL</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>DEELGEGEVEN UIT STATUS IVM VRTG</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>&#x2013; VERVANGEND KENTEKEN</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>DEELGEGEVEN UIT STATUS IVM VRTG</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </li>
+        <li>
+          <li.nr>5&#xB0;.</li.nr>
+          <al>voertuigstatus.</al>
+          <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+              <colspec colname="col1" colnum="1" colwidth="48*"/>
+              <colspec colname="col2" colnum="2" colwidth="81.5*"/>
+              <tbody valign="top">
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>STATUS VOERTUIG</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>STATUS IVM VOERTUIG</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>STATUS VOERTUIG BEGINDATUM</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>STATUS VOERTUIG BEGINTYD</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>STATUS VOERTUIG EINDDATUM</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>STATUS VOERTUIGKERN</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>STATUS VOERTUIG TEKST</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>STATUS BESCHRYVING</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>REFERENTIE MELDENDE INSTANTIE BY BEGIN STATUS</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>TELEFOONNUMMER STATUS VOERTUIG</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>REDEN CODE STATUS VOERTUIG TOEVOEGING</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>HUISNUMMER STATUS VOERTUIG</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>HUISNUMMER TOEVOEGING STATUS VOERTUIG</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>POSTCODE STATUS VOERTUIG</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>DEMONTAGE DATUM</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>AUTORISATIE CODE GEBOORTEPLAATS</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>BEGINDATUM IN ONDERZOEK</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>EINDDATUM IN ONDERZOEK</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>IN ONDERZOEK</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>DEELGEGEVEN UIT STATUS IVM VOERTUIG</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>VERMIST</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>DEELGEGEVEN UIT STATUS IVM VOERTUIG</al>
+                  </entry>
+                </row>
+                <row rowsep="0">
+                  <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>KILOMETERSTAND BIJ KEURING</al>
+                  </entry>
+                  <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                    <al>KILOMETERSTAND BIJ KEURING</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </li>
+      </lijst>
+    </bijlage>
+  </regeling>
+</wetgeving>
+  	

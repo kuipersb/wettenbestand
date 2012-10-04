@@ -1,0 +1,536 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0014846" id="289279" soort="pbo"><intitule>Verordening van het Hoofdproductschap Akkerbouw van 20 maart 2003
+    houdende regels over de registratie en verstrekking van gegevens van de
+    onder het hoofdproductschap ressorterende ondernemers  (verordening HPA
+    registratie en verstrekking van gegevens 2003)</intitule><regeling><aanhef><wie>Het bestuur van het Hoofdproductschap Akkerbouw;</wie><considerans><considerans.al bevat="grondslag">Gelet op de <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=93" compleet="nee">artikelen 93</extref>, <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=95" compleet="nee">95</extref>, <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=104" compleet="nee">104,
+          eerste en derde lid</extref> en <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=106" compleet="nee">106 van de Wet op de bedrijfsorganisatie</extref> en op
+          de <extref status="slapend" doc="" compleet="nee">artikelen 2</extref>, <extref status="slapend" doc="" compleet="nee">4</extref>, <extref status="slapend" doc="" compleet="nee">15</extref>, <extref status="slapend" doc="" compleet="nee">16</extref>, <extref status="slapend" doc="" compleet="nee">18</extref> en <extref status="slapend" doc="" compleet="nee">25 van de Instellingsverordening
+          akkerbouwproductschappen 1997</extref>;</considerans.al><considerans.al bevat="gehoord">Gehoord de Commissie Aardappelen en de
+          Commissie Teeltaangelegenheden;</considerans.al></considerans><afkondiging><al>Besluit:</al></afkondiging></aanhef><regeling-tekst><paragraaf><kop><label>&#xA7;</label><nr>1</nr><titel>Begripsbepalingen</titel></kop><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>Deze verordening verstaat onder:</al>
+          <table frame="none" tabstyle="stcrt1">
+            <tgroup align="left" char="" charoff="50" cols="9" colsep="0" rowsep="0">
+              <colspec colname="Col1" colnum="1" colwidth="5.50*"/>
+              <colspec colname="Col2" colnum="2" colwidth="18.67*"/>
+              <colspec colname="col03" colnum="3" colwidth="4.33*"/><colspec colname="Col3" colnum="4" colwidth="1.00*"/>
+              <colspec colname="col5" colnum="5" colwidth="15.17*"/><colspec colname="col6" colnum="6" colwidth="13.83*"/><colspec colname="col7" colnum="7" colwidth="13.83*"/><colspec colname="col8" colnum="8" colwidth="13.83*"/><colspec colname="Col4" colnum="9" colwidth="35.33*"/>
+              <tbody valign="top">
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0" valign="top">
+                    <al>a.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0" valign="top">
+                    <al>hoofdproductschap</al>
+                  </entry><entry colname="col03" morerows="0" rotate="0"><al>:</al></entry>
+                  <entry morerows="0" nameend="Col4" namest="Col3" rotate="0">
+                    <al>Hoofdproductschap Akkerbouw;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0" valign="top">
+                    <al>b.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0" valign="top">
+                    <al>bestuur</al>
+                  </entry><entry colname="col03" morerows="0" rotate="0"><al>:</al></entry>
+                  <entry morerows="0" nameend="Col4" namest="Col3" rotate="0">
+                    <al>bestuur van het hoofdproductschap;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0" valign="top">
+                    <al>c.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0" valign="top">
+                    <al>dagelijks bestuur</al>
+                  </entry><entry colname="col03" morerows="0" rotate="0"><al>:</al></entry>
+                  <entry morerows="0" nameend="Col4" namest="Col3" rotate="0">
+                    <al>dagelijks bestuur van het hoofdproductschap;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0" valign="top">
+                    <al>d.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0" valign="top">
+                    <al>voorzitter</al>
+                  </entry><entry colname="col03" morerows="0" rotate="0"><al>:</al></entry>
+                  <entry morerows="0" nameend="Col4" namest="Col3" rotate="0">
+                    <al>voorzitter van bet hoofdproductschap;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0" valign="top">
+                    <al>e.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0" valign="top">
+                    <al>secretaris</al>
+                  </entry><entry colname="col03" morerows="0" rotate="0"><al>:</al></entry>
+                  <entry morerows="0" nameend="Col4" namest="Col3" rotate="0">
+                    <al>secretaris van het hoofdproductschap;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0" valign="top">
+                    <al>f.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0" valign="top">
+                    <al>commissie</al>
+                  </entry><entry colname="col03" morerows="0" rotate="0"><al>:</al></entry>
+                  <entry morerows="0" nameend="Col4" namest="Col3" rotate="0">
+                    <al>Commissie Aardappelen onderscheidenlijk de Commissie
+                      Teeltaangelegenheden van het hoofdproductschap;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0" valign="top">
+                    <al>g.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0" valign="top">
+                    <al>onderneming</al>
+                  </entry><entry colname="col03" morerows="0" rotate="0"><al>:</al></entry>
+                  <entry morerows="0" nameend="Col4" namest="Col3" rotate="0">
+                    <al>onderneming waarvoor het hoofd productschap is ingesteld;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0" valign="top">
+                    <al>h.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0" valign="top">
+                    <al>ondernemer</al>
+                  </entry><entry colname="col03" morerows="0" rotate="0"><al>:</al></entry>
+                  <entry morerows="0" nameend="Col4" namest="Col3" rotate="0">
+                    <al>de natuurlijke of rechtspersoon die een onderneming
+                      drijft waarvoor het hoofdproductschap is ingesteld;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0" valign="top">
+                    <al>i.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0" valign="top">
+                    <al>consumptieaardappelen </al>
+                  </entry><entry colname="col03" morerows="0" rotate="0"><al>:</al></entry>
+                  <entry morerows="0" nameend="Col4" namest="Col3" rotate="0">
+                    <al>Verse of gekoelde aardappelen, geschild en ongeschild,
+                      welke al dan niet na verdere be- of verwerking bestemd
+                      zijn voor menselijke consumptie;</al>
+                  </entry>
+                </row>
+                
+                
+                
+                
+                
+                
+                
+                
+                <row><entry colname="Col1" morerows="0" rotate="0" valign="top"><al>j.</al></entry><entry colname="Col2" morerows="0" rotate="0" valign="top"><al>aardappelproducten </al>
+                  </entry><entry colname="col03" morerows="0" rotate="0"><al>:</al></entry><entry morerows="0" nameend="col7" namest="Col3" rotate="0"/><entry colname="col8" morerows="0" rotate="0"><al>1</al></entry><entry colname="Col4" morerows="0" rotate="0"><al>voorgebakken aardappelproducten (producten ex GN- code
+                      2004 10 10 onderscheidenlijk 2005 20 80</al></entry></row><row>
+                  <entry colname="Col1" morerows="0" rotate="0" valign="top"/>
+                  <entry colname="Col2" morerows="0" rotate="0" valign="top"/><entry colname="col03" morerows="0" rotate="0"/>
+                  <entry morerows="0" nameend="col7" namest="Col3" rotate="0">
+                    
+                  </entry>
+                  <entry colname="col8" morerows="0" rotate="0"><al>2</al></entry><entry colname="Col4" morerows="0" rotate="0">
+                    <al>afgebakken aardappelproducten (producten ex GN- code
+                      2005 20 20)</al>
+                  </entry>
+                </row><row>
+                  <entry colname="Col1" morerows="0" rotate="0" valign="top"/>
+                  <entry colname="Col2" morerows="0" rotate="0" valign="top"/><entry colname="col03" morerows="0" rotate="0"/>
+                  <entry morerows="0" nameend="col7" namest="Col3" rotate="0">
+                    
+                  </entry>
+                  <entry colname="col8" morerows="0" rotate="0"><al>3</al></entry><entry colname="Col4" morerows="0" rotate="0">
+                    <al>gedroogde aardappelproducten (producten ex GN- code 1105
+                      10 00 onderscheidenlijk 1105 20 00 onderscheidenlijk 0712
+                      90 05 onderscheidenlijk 2004 10 91 onderscheidenlijk 2005
+                      20 10)</al>
+                  </entry>
+                </row><row>
+                  <entry colname="Col1" morerows="0" rotate="0" valign="top"/>
+                  <entry colname="Col2" morerows="0" rotate="0" valign="top"/><entry colname="col03" morerows="0" rotate="0"/>
+                  <entry morerows="0" nameend="col7" namest="Col3" rotate="0">
+                    
+                  </entry>
+                  <entry colname="col8" morerows="0" rotate="0"><al>4</al></entry><entry colname="Col4" morerows="0" rotate="0">
+                    <al>overige aardappelproducten (producten ex GN-code 2004 10
+                      99 onderscheidenlijk 0710 10 00 onderscheidenlijk 0711 90
+                      80) ;                               </al>
+                  </entry>
+                </row><row>
+                  <entry colname="Col1" morerows="0" rotate="0" valign="top">
+                    <al>k.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0" valign="top">
+                    <al>Nederlandse grootte- Eenheid</al>
+                  </entry><entry colname="col03" morerows="0" rotate="0"><al>:</al></entry>
+                  <entry morerows="0" nameend="Col4" namest="Col3" rotate="0">
+                    <al>een eenheid berekend op basis van de
+                      brutostandaardsaldi, zoals deze bij de laatste in de
+                      Nederlandse Staatscourant gepubliceerde Regeling
+                      Landbouwtelling ingevolge de <extref status="actief" doc="1.0:v:BWBR0002252&amp;artikel=24" compleet="nee">artikelen 24</extref> en <extref status="actief" doc="1.0:v:BWBR0002252&amp;artikel=25" compleet="nee">25 van de
+                      Landbouwwet</extref> worden toegepast;</al>
+                  </entry>
+                </row><row>
+                  <entry colname="Col1" morerows="0" rotate="0" valign="top">
+                    <al>l.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0" valign="top">
+                    
+                  <al>gecombineerde opgave</al></entry><entry colname="col03" morerows="0" rotate="0"><al>:</al></entry>
+                  <entry morerows="0" nameend="Col4" namest="Col3" rotate="0">
+                    <al>een opgaveset waarmee door de ondernemer opgave wordt gedaan voor landbouwtelling, gebruik gewaspercelen en verzamelaanvraag, bedoeld in <extref status="actief" doc="1.0:v:BWBR0002252&amp;artikel=25" compleet="nee">artikel 25 van de Landbouwwet</extref>;</al>
+                     </entry>
+                </row><row>
+                  <entry colname="Col1" morerows="0" rotate="0" valign="top">
+                    <al>m</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0" valign="top">
+                    
+                  <al>bedrijfskaart(en)</al></entry><entry colname="col03" morerows="0" rotate="0"><al>:</al></entry>
+                  <entry morerows="0" nameend="Col4" namest="Col3" rotate="0">
+                    <al>een kaart waarop de door de ondernemer gebruikte gewaspercelen staan aangegeven, alsmede de daarop geteelde of te telen gewassen;</al></entry>
+                </row><row>
+                  <entry colname="Col1" morerows="0" rotate="0" valign="top">
+                    <al>n</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0" valign="top">
+                    
+                  <al>Dienst Regelingen</al></entry><entry colname="col03" morerows="0" rotate="0"><al>:</al></entry>
+                  <entry morerows="0" nameend="Col4" namest="Col3" rotate="0">
+                    
+                  <al>dienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.</al></entry>
+                </row>
+                
+              </tbody>
+            </tgroup>
+          </table>
+        </artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr>2</nr><titel>Het register en de opgave van gegevens</titel></kop><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>2</nr>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>Het hoofdproductschap houdt een register van ondernemingen, waarin:</al>
+            <lijst level="single" nr-sluiting="" start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>werkzaamheden worden verrichten met betrekking tot:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="ndash">
+                  <li>
+                    <li.nr/><al>de be- en verwerking van consumptieaardappelen</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>akkerbouw wordt uitgeoefend en waarvan de bedrijfsomvang ten
+                  minste gelijk is aan drie Nederlandse grootte-eenheden.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>Van de registratie zijn uitgesloten ondernemingen die zich bezig
+              houden met:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="ndash">
+              <li>
+                <li.nr/><al>de be- en verwerking van aardappelen ten behoeve van de zetmeelproductie.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr>3</lidnr>
+            <al>Aan de ingeschreven ondernemingen wordt een registratienummer toegekend.</al>
+          </lid>
+          <lid>
+            <lidnr>4</lidnr>
+            <al>Het doel van het register is het leveren van een bijdrage aan de
+              uitvoering van de aan het hoofdproductschap opgedragen
+              publiekrechtelijke taak.</al>
+            <al>Het register is mede bestemd voor de vervulling van de taken van
+              de productschappen waarvoor mede het hoofdproductschap is ingesteld.</al>
+          </lid>
+        </artikel><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>3</nr>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>Dienst Regelingen wordt aangewezen als instantie, aan wie een mededeling als
+              bedoeld in <intref status="actief" doc="1.0:v:BWBR0014846&amp;artikel=4">artikel 4, tweede en derde lid,</intref> dient te worden verstrekt.</al>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>Dienst Regelingen is bevoegd de conform het eerste lid verkregen gegevens
+              aan te wenden ten behoeve van het bepaalde in <extref status="actief" doc="1.0:v:BWBR0002252&amp;artikel=24" compleet="nee">artikel 24 van de Landbouwwet</extref>.</al>
+          </lid>
+        </artikel><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>4</nr>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>Degene die een onderneming drijft als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014846&amp;artikel=2">artikel 2,
+              eerste lid, onderdeel a</intref>, is verplicht binnen 1 maand na aanvang
+              van de onderneming hiervan schriftelijk mededeling te doen aan het hoofdproductschap.</al>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>Degene die een onderneming drijft als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014846&amp;artikel=2">artikel 2,
+              eerste lid, onderdeel b</intref>, is verplicht binnen 1 maand na aanvang
+              van de onderneming hiervan schriftelijk mededeling te doen aan
+              Dienst Regelingen ten behoeve van het hoofdproductschap.</al>
+          </lid>
+          <lid>
+            <lidnr>3</lidnr>
+            <al>Een mededeling als bedoeld in het tweede lid, dient door een
+              ondernemer eveneens te worden gedaan binnen 1 maand nadat de
+              bedrijfsomvang van zijn onderneming is gaan voldoen aan de norm,
+              vermeld in <intref status="actief" doc="1.0:v:BWBR0014846&amp;artikel=2">artikel 2, eerste lid, onderdeel b</intref>.</al>
+          </lid>
+        </artikel><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>5</nr>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>De ondernemer, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014846&amp;artikel=2">artikel 2, eerste lid, onderdeel a</intref>, is
+              verplicht aan de secretaris gegevens te verstrekken op een bij
+              het hoofdproductschap te verkrijgen formulier.</al>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>De te verstrekken gegevens betreffen ten minste:</al>
+            <lijst level="single" nr-sluiting="" start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>naam, handelsnaam en rechtsvorm van de onderneming;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>naam van de ondernemer;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>plaats van vestiging van de (hoofd)zetel van de onderneming;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>functies die de onderneming in de consumptieaardappelsector uitoefent;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>overige aangelegenheden van belang voor een doelmatige registratie.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr>3</lidnr>
+            <al>Indien de ondernemer een opgave als bedoeld in de voorgaande
+              leden heeft ingediend en g&#xE9;&#xE9;n registratie, dan wel een afwijkende
+              registratie, van die opgave plaatsvindt, doet de secretaris,
+              namens het bestuur, hem dit schriftelijk en gemotiveerd mede.</al>
+          </lid>
+        </artikel><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>6</nr>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>De ondernemer, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014846&amp;artikel=2">artikel 2, eerste lid, onderdeel b</intref>, is
+              verplicht desgevraagd gegevens aan het hoofdproductschap te
+              verstrekken met betrekking tot:</al>
+            <lijst level="single" nr-sluiting="" start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>naam, voornamen, geboortedatum en adres, dan wel wanneer de
+                  onderneming door een rechtspersoon wordt gedreven: de naam en
+                  het adres van de onderneming;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de oppervlakte van de bij de desbetreffende onderneming in
+                  gebruik zijnde grond, daaronder begrepen landbouwgrond als
+                  omschreven in <extref status="actief" doc="1.0:v:BWBR0004054&amp;artikel=1" compleet="nee">artikel 1 van de Meststoffenwet</extref>, &#xE9;&#xE9;n en ander
+                  overeenkomstig de <intref status="actief" doc="1.0:v:BWBR0014846&amp;bijlage=">bijlage</intref>;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de rechtsvorm van het grondgebruik;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de gewassen voor de teelt waarvan de sub b bedoelde grond in
+                  gebruik is, en de oppervlakte, die door ieder gewas wordt ingenomen;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>het aantal personen, dat afgezien van de ondernemer, in de
+                  desbetreffende onderneming werkzaam is, en hun
+                  rechtsbetrekking tot de ondernemer;</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>de giro- of bankrekening;</al>
+              </li>
+              <li>
+                <li.nr>g.</li.nr>
+                <al>de locatie van tot het bedrijf behorende percelen en de
+                  daarop geteelde gewassen (bouwplan).</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>De gegevens, bedoeld in het eerste lid, dienen aan het
+              hoofdproductschap te worden verstrekt door middel van de
+              gecombineerde opgave.</al>
+          </lid>
+          <lid>
+            <lidnr>3</lidnr>
+            <al>De in het tweede lid bedoelde formulieren en bedrijfskaarten worden door Dienst Regelingen aan
+              de ondernemer verstrekt en dienen na invulling en ondertekening
+              door de ondernemer bij Dienst Regelingen te worden ingediend.</al>
+            </lid>
+          <lid>
+            <lidnr>4</lidnr>
+            <al>In afwijking van het bepaalde in het tweede en derde lid dient
+              de ondernemer die in enig kalenderjaar aanvangt een onderneming te
+              drijven, dan wel de exploitatie van de onderneming be&#xEB;indigt, dit
+              te melden bij Dienst Regelingen op een door Dienst Regelingen verstrekt formulier.</al>
+          </lid>
+        </artikel><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>7</nr>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>De ondernemer is verplicht wijziging van de gegevens die op
+              grond van <intref status="actief" doc="1.0:v:BWBR0014846&amp;artikel=5">artikel 5</intref> zijn verstrekt, schriftelijk aan de
+              sectormanager mede te delen.</al>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>De ondernemer is verplicht wijziging van de gegevens die op
+              grond van <intref status="actief" doc="1.0:v:BWBR0014846&amp;artikel=6">artikel 6</intref> zijn verstrekt, schriftelijk aan Dienst Regelingen mede te delen.</al>
+          </lid>
+          <lid>
+            <lidnr>3</lidnr>
+            <al>Deze gegevens moeten worden verstrekt binnen 1 maand nadat de
+              wijziging heeft plaatsgevonden.</al>
+          </lid>
+        </artikel><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>8</nr>
+          </kop>
+          <al>Indien de secretaris, op een andere wijze dan ingevolge het
+            bepaalde in <intref status="actief" doc="1.0:v:BWBR0014846&amp;artikel=7">artikel 7</intref>, kennis draagt van een wijziging van de
+            gegevens, die op grond van <intref status="actief" doc="1.0:v:BWBR0014846&amp;artikel=5">artikel 5</intref> zijn verstrekt, is hij namens
+            het bestuur bevoegd een wijziging in het register aan te brengen. De
+            ondernemer wordt hiervan vooraf schriftelijk op de hoogte gesteld.</al>
+        </artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr>3</nr><titel>Overige bepalingen</titel></kop><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>9</nr>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>Het bestuur kan bij besluit, gehoord de commissie, vrijstelling
+              verlenen van een of meer bepalingen uit deze verordening en
+              daarbij nadere voorschriften vaststellen.</al>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>De voorzitter is namens het bestuur bevoegd bij besluit, gehoord
+              de commissie, andere dan de in de <intref status="actief" doc="1.0:v:BWBR0014846&amp;bijlage=">bijlage</intref> bedoelde gegevens te
+              vragen, een en ander totdat bij verordening tot wijziging van de
+              bijlage daarin is voorzien. Alsdan wordt het betreffende besluit
+              geacht te zijn ingetrokken.</al>
+          </lid>
+          <lid>
+            <lidnr>3</lidnr>
+            <al>De secretaris is namens het bestuur bevoegd op schriftelijk
+              verzoek van de ondernemer ontheffing te verlenen van het bepaalde
+              in de <intref status="actief" doc="1.0:v:BWBR0014846&amp;artikel=3">artikelen 3</intref>, <intref status="actief" doc="1.0:v:BWBR0014846&amp;artikel=4">4</intref>, <intref status="actief" doc="1.0:v:BWBR0014846&amp;artikel=5">5</intref>, <intref status="actief" doc="1.0:v:BWBR0014846&amp;artikel=6">6</intref> en <intref status="actief" doc="1.0:v:BWBR0014846&amp;artikel=7">7</intref> en kan daarbij nadere
+              voorschriften vaststellen.</al>
+          </lid>
+        </artikel><artikel status="goed"><kop><label>Artikel</label><nr>10</nr></kop><al>Besluiten als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014846&amp;artikel=9">artikel 9, eerste en tweede lid</intref> worden
+            bekend gemaakt in het Verordeningenblad Bedrijfsorganisatie en
+            treden in werking met ingang van de tweede dag na die van hun
+            bekendmaking, tenzij het betreffende besluit anders bepaalt.</al></artikel><artikel status="goed"><kop><label>Artikel</label><nr>11</nr></kop><al>De <extref status="actief" doc="1.0:v:BWBR0014834" compleet="nee">Verordening HPA algemene bepalingen 2003</extref> is van toepassing.</al></artikel><artikel status="goed"><kop><label>Artikel</label><nr>12</nr></kop><al>Op overtreding van het bepaalde bij of krachtens deze verordening
+            worden tuchtrechtelijke maatregelen gesteld. Een door het bevoegde
+            tuchtgerecht op te leggen geldboete mag niet hoger zijn dan &#x20AC; 450,--
+            per overtreding, totdat het op 24 februari 2000 ingediende voorstel
+            van wet "<extref status="actief" doc="1.0:v:BWBR0016341" compleet="nee">Nieuwe regelen inzake tuchtrechtspraak in de
+            publiekrechtelijke bedrijfsorganisatie (Wet tuchtrechtspraak
+            bedrijfsorganisatie 2002)</extref>", Kamerstukken II nr. 27025
+            (1999-2000), tot wet wordt verheven en in werking treedt.</al></artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr>4</nr><titel>Slotbepalingen</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>13</nr></kop><al>De verordening HPA registratie en verstrekking van gegevens 1997
+            wordt ingetrokken.</al></artikel><artikel status="goed"><kop><label>Artikel</label><nr>14</nr></kop><al>Deze verordening treedt in werking met ingang van 1 juli 2003.</al><al>Indien het Verordeningenblad Bedrijfsorganisatie waarin deze
+            verordening wordt geplaatst, wordt uitgegeven na 30 juni 2003,
+            treedt zij in werking de tweede dag na publicatie in het
+            Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met
+            1 juli 2003, met uitzondering van het in <intref status="actief" doc="1.0:v:BWBR0014846&amp;artikel=12">artikel 12</intref> bepaalde.</al></artikel><artikel status="goed"><kop><label>Artikel</label><nr>15</nr></kop><al>Deze verordening wordt aangehaald als Verordening HPA registratie
+            en verstrekking van gegevens 2003.</al></artikel></paragraaf></regeling-tekst><regeling-sluiting status="goed"><gegeven><dagtekening><plaats>Den Haag</plaats><datum isodatum="20030320">20 maart 2003</datum></dagtekening></gegeven><ondertekenaar><ondertekening><naam><voornaam>J.H.M.</voornaam><achternaam>Kienhuis</achternaam></naam><functie>voorzitter</functie></ondertekening><ondertekening><naam><voornaam>R.J.M. ten</voornaam><achternaam>Berge</achternaam></naam><functie>secretaris</functie></ondertekening></ondertekenaar><goedkeuring><al>Goedgekeurd door de Bestuurskamer van de Sociaal-Economische Raad
+          bij besluit van 22 mei 2003.</al></goedkeuring></regeling-sluiting><bijlage status="goed"><kop><label>Bijlage</label></kop><lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>A.</li.nr><al>Ten behoeve van de vaststelling en berekening van de door het
+            hoofdproductschap op te leggen financierings- en fondsheffingen over
+            teeltgewassen, naar de grondslag grondgebruik, worden de volgende
+            gegevens gevraagd:</al><lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>1.</li.nr><al>De oppervlakte grond, in gebruik voor de teelt in de open
+                grond van wintertarwe;</al></li><li><li.nr>2.</li.nr><al>De oppervlakte grond, in gebruik voor de teelt in de open
+                grond van zomertarwe;</al></li><li><li.nr>3.</li.nr><al>De oppervlakte grond, in gebruik voor de teelt in de open
+                grond van wintergerst;</al></li><li><li.nr>4.</li.nr><al>De oppervlakte grond, in gebruik voor de teelt in de open
+                grond van zomergerst;</al></li><li><li.nr>5.</li.nr><al>De oppervlakte grond, in gebruik voor de teelt in de open
+                grond van rogge - geen snijrogge - ;</al></li><li><li.nr>6.</li.nr><al>De oppervlakte grond, in gebruik voor de teelt in de open
+                grond van haver;</al></li><li><li.nr>7.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van triticale;</al></li><li><li.nr>8.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van groene erwten (droog te oogsten) en schokkers;</al></li><li><li.nr>9.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van kapucijners en grauwe erwten;</al></li><li><li.nr>10.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van bruine bonen;</al></li><li><li.nr>11.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van veldbonen;</al></li><li><li.nr>12.</li.nr><al>vervallen;</al></li><li><li.nr>13.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van koolzaad;</al></li><li><li.nr>14.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van karwijzaad;</al></li><li><li.nr>15.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van blauwmaanzaad;</al></li><li><li.nr>16.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van vlas, inclusief de oppervlakte grond zaaiklaar
+                verhuurd voor de teelt van vlas doch exclusief de gehuurde grond
+                waarop vlas geteeld wordt;</al></li><li><li.nr>17.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van graszaad;</al></li><li><li.nr>18.</li.nr><al>de oppervlakte zand- of veengrond. in gebruik voor de teelt in
+                de open grond van pootaardappelen (N.A.K. aangegeven);</al></li><li><li.nr>19.</li.nr><al>de oppervlakte kleigrond, in gebruik voor de teelt in de open
+                grond van pootaardappelen (N.A.K. aangegeven);</al></li><li><li.nr>20.</li.nr><al>de oppervlakte zand- of veengrond, in gebruik voor de teelt in
+                de open grond van consumptie- aardappelen;</al></li><li><li.nr>21.</li.nr><al>de oppervlakte kleigrond, in gebruik voor de teelt in de open
+                grond van consumptie-aardappelen;</al></li><li><li.nr>22.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van zetmeelaardappelen;</al></li><li><li.nr>23.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van suikerbieten;</al></li><li><li.nr>24.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van voederbieten;</al></li><li><li.nr>25.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van luzerne;</al></li><li><li.nr>26.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van snijma&#xEF;s;</al></li><li><li.nr>27.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van korrelma&#xEF;s;</al></li><li><li.nr>28.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van corn cob mix;</al></li><li><li.nr>29.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van groenbemestingsgewassen;</al></li><li><li.nr>30.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van cichorei;</al></li><li><li.nr>31.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van hennep;</al></li><li><li.nr>32.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in de open
+                grond van andere dan in de hiervoor genoemde akkerbouwgewassen;</al></li><li><li.nr>33.</li.nr><al>de oppervlakte braakland;</al></li><li><li.nr>34.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in open grond
+                van zaaiuien;</al></li><li><li.nr>35.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in open grond
+                van poot- en plantuien;</al></li><li><li.nr>36.</li.nr><al>de oppervlakte grond, in gebruik voor de teelt in open grond
+                van zilveruien.</al></li></lijst></li><li><li.nr>B.</li.nr><al>Voor de toepassing van het onder A bepaalde, wordt onder grond, in
+            gebruik voor de in deze onderdelen genoemde teelt, mede verstaan
+            grond die nog niet voor deze teelt in gebruik is, maar hiervoor wel
+            kennelijk bestemd is.</al></li><li><li.nr>C.</li.nr><al>Voor de toepassing van het onder A bepaalde wordt onder grond mede
+            verstaan elk ander groeimedium met behulp waarvan de in deze
+            onderdelen genoemde gewassen worden geteeld.</al></li></lijst></bijlage></regeling></wetgeving>
+  	

@@ -1,0 +1,538 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0018201" id="328739" soort="pbo"><intitule>Verordening van het Productschap Pluimvee en Eieren van 14 april
+    2005 houdende regels ter zake van de monitoring op Aviaire influenza
+    (Verordening monitoring Aviaire influenza (PPE) 2005)</intitule><regeling><aanhef><wie>Het bestuur van het Productschap Pluimvee en Eieren;</wie><considerans><considerans.al bevat="grondslag">Gelet op beschikking (EG) nr. 2004/111
+          van de Commissie van de Europese Gemeenschappen van 29 januari 2004
+          betreffende het in 2004 uit te voeren onderzoek naar aviaire influenza
+          bij pluimvee en bij in het wild levende vogels in de lidstaten (PbEU L
+          32) en beschikking (EG) nr. 2004/615 van de Commissie van de Europese
+          Gemeenschappen van 23 juli 2004 (PbEU L 278) tot wijziging van
+          beschikking nr. 2004/111/EG betreffende het in 2004 uit te voeren
+          onderzoek naar aviaire influenza bij pluimvee en bij in het wild
+          levende vogels in de lidstaten, alsmede <extref status="actief" doc="1.0:v:BWBR0014789&amp;artikel=3a" compleet="nee">artikel 3a, eerste en tweede
+          lid, van de Regeling monitoring Aviaire Influenza 2003</extref> en de <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=96" compleet="nee">artikelen
+          96</extref>, <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=97" compleet="nee">97</extref>, en <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=100" compleet="nee">100, derde lid, van de Wet op de bedrijfsorganisatie</extref>;</considerans.al></considerans><afkondiging><al>Besluit:</al></afkondiging></aanhef><regeling-tekst><paragraaf><kop><label>Paragraaf</label><nr>1</nr><titel>Begripsbepalingen</titel></kop><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>1</nr>
+          </kop>
+          <al>Voor de toepassing van deze verordening wordt verstaan onder:</al>
+          <table tabstyle="stcrt1">
+            <tgroup align="left" char="" charoff="50" cols="5">
+              <colspec colname="Col1" colwidth="1.00*"/>
+              <colspec colname="Col2" colwidth="2.30*"/>
+              <colspec colname="Col3" colwidth="1.62*"/>
+              <colspec colname="Col4" colwidth="4.24*"/>
+              <tbody valign="top">
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>a.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>productschap</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>Productschap Pluimvee en Eieren;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>b.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>bestuur</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>bestuur van het productschap;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>c.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>voorzitter</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>voorzitter van het productschap;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>d.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>Aviaire influenza</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>Aviaire influenza voor zover het de subtypen H5 en H7 betreft;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>e.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>vleeskuikens</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>kippen, waarvan de punt van het borstbeen nog niet is
+                      verbeend, die worden gehouden voor de vleesproductie;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>f.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>vleeseenden</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>eenden die worden gehouden voor de vleesproductie;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>g.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>vleeskalkoenen</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>kalkoenen die worden gehouden voor de vleesproductie;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>h.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>hanen</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>vleeskalkoenen van het mannelijke geslacht;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>i.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>hennen</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>vleeskalkoenen van het vrouwelijke geslacht;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>j.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>ganzen</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>ganzen (anas domestica) die worden gehouden voor de
+                      productie van vlees of broedeieren;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>k.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>kwartels</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>kwartels (cortunix) die worden gehouden voor de
+                      productie van vlees of broedeieren;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>i.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>parelhoenders</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>parelhoenders (numida) die worden gehouden voor de
+                      productie van vlees of broedeieren;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>m.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>loopvogels</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>loopvogels (ratites) die worden gehouden voor de
+                      productie van vlees of broedeieren;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>n.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>vermeerderingsdieren</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>kippen, eenden of kalkoenen die worden gehouden voor de
+                      productie van broedeieren;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>o.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>opfokvermeerderingsdieren</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>kippen, eenden of kalkoenen die tot vermeerderingsdieren
+                      worden opgefokt;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>P.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>leghennen</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>kippen die worden gehouden voor de productie van andere
+                      eieren dan broedeieren;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>q.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>opfokleghennen</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>kippen die tot leghennen worden opgefokt;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>r.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>pluimvee</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>vleeskuikens, vleeseenden, vleeskalkoenen, ganzen,
+                      kwartels, parelhoenders, loopvogels, vermeerderingsdieren
+                      of leghennen die in gevangenschap worden opgefokt of
+                      gehouden voor de fokkerij, voor de productie van vlees of
+                      voor de productie van eieren;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>s.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>pluimveebedrijf</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>voorziening - die een inrichting kan omvatten - die
+                      wordt gebruikt voor het op een locatie (op)fokken of
+                      houden van pluimvee en die als zodanig bij het
+                      productschap is geregistreerd, dan wel geregistreerd had
+                      moeten zijn;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>t.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>koppel</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>groep pluimvee met dezelfde gezondheidsstatus en van
+                      dezelfde leeftijd, die een epidemiologische eenheid vormt;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>u.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>productieronde</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>periode waarbinnen vleeskalkoenen vanaf de geboorte
+                      worden opgefokt totdat zij slachtrijp zijn;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>v.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>ondernemer</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>een natuurlijk persoon of rechtspersoon die een
+                      pluimveebedrijf uitoefent;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>w.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>Elisa-test</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>Enzym gekoppelde immuun absorberende test voor Aviaire influenza;</al>
+                    </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>x.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al/>
+                    <al>Agp-test</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>Agargelprecipitatietest voor Aviaire influenza;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="Col1" morerows="0" rotate="0">
+                    <al>y.</al>
+                  </entry>
+                  <entry colname="Col2" morerows="0" rotate="0">
+                    <al>dierenarts</al>
+                  </entry>
+                  <entry colname="Col3" morerows="0" rotate="0">
+                    <al>:</al>
+                  </entry>
+                  <entry colname="Col4" morerows="0" rotate="0">
+                    <al>diegene die is ingeschreven in het register van
+                      praktiserende dierenartsen, bedoeld in <extref status="actief" doc="1.0:v:BWBR0004730&amp;artikel=10" compleet="nee">artikel 10, eerste
+                      lid, van de Wet op de uitoefening van de diergeneeskunde 1990</extref>.</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </artikel></paragraaf><paragraaf><kop><label>Paragraaf</label><nr>2</nr><titel>Onderzoek op Aviaire influenza</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>2</nr></kop><lid><lidnr>1</lidnr><al>De ondernemer zorgt ervoor dat overeenkomstig de <intref status="actief" doc="1.0:v:BWBR0018201&amp;artikel=3">artikelen 3</intref> en
+              <intref status="actief" doc="1.0:v:BWBR0018201&amp;artikel=4">4</intref>, op zijn kosten bloedmonsters worden genomen van het op zijn
+              pluimveebedrijf aanwezige pluimvee en zorgt ervoor dat deze
+              bloedmonsters op zijn kosten worden onderzocht op de aanwezigheid
+              van antistoffen tegen Aviaire influenza.</al></lid><lid><lidnr>2</lidnr><al>Het in het eerste lid bedoelde onderzoek van bloedmonsters wordt
+              uitgevoerd door een laboratorium dat is erkend door de voorzitter.</al></lid><lid><lidnr>3</lidnr><al>Het bestuur stelt bij besluit voorwaarden vast op grond waarvan
+              een erkenning als bedoeld in het tweede lid wordt verleend.</al></lid><lid><lidnr>4</lidnr><al>De voorzitter kan de in het tweede lid bedoelde erkenning
+              intrekken indien het laboratorium niet of niet meer voldoet aan de erkenningsvoorwaarden.</al></lid><lid><lidnr>5</lidnr><al>Het in het derde lid bedoelde besluit wordt gepubliceerd in het
+              Verordeningenblad Bedrijfsorganisatie.</al></lid></artikel></paragraaf><paragraaf><kop><label>Paragraaf</label><nr>3</nr><titel>Monitoringsprogramma</titel></kop><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Ter uitvoering van het in <intref status="actief" doc="1.0:v:BWBR0018201&amp;artikel=2">artikel 2, eerste lid</intref>, bedoelde
+              onderzoek, zorgt de ondernemer ervoor dat, indien de ondernemer :</al>
+            <lijst level="single" nr-sluiting="" start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>vleeskuikens, parelhoenders, loopvogels of kwartels houdt,
+                  jaarlijks bloed wordt afgenomen van 30 vleeskuikens,
+                  parelhoenders, loopvogels of kwartels met een leeftijd van
+                  tenminste 4 weken;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>vleeseenden of ganzen houdt, jaarlijks bloed wordt afgenomen
+                  van 40 vleeseenden of ganzen met een leeftijd van tenminste 4 weken;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>vleeskalkoenen houdt, bij elke productieronde bloed wordt
+                  afgenomen van 30 hanen met een leeftijd van tenminste 18 weken;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>geen andere vleeskalkoenen dan hennen houdt, bij elke
+                  productieronde bloed wordt afgenomen van 30 hennen met een
+                  leeftijd van tenminste 13 weken;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>opfokvermeerderingsdieren houdt, jaarlijks bloed wordt
+                  afgenomen van tenminste 30 opfokvermeerderingsdieren met een
+                  leeftijd van tenminste 15 weken;</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>vermeerderingsdieren houdt, jaarlijks bloed wordt afgenomen
+                  van tenminste 30 vermeerderingsdieren met een leeftijd van
+                  tenminste 45 weken;</al>
+              </li>
+              <li>
+                <li.nr>g.</li.nr>
+                <al>opfokleghennen houdt, jaarlijks bloed wordt afgenomen van
+                  tenminste 30 opfokleghennen met een leeftijd van tenminste 8
+                  weken; en</al>
+              </li>
+              <li>
+                <li.nr>h.</li.nr>
+                <al>leghennen houdt, jaarlijks bloed wordt afgenomen van
+                  tenminste 30 leghennen met een leeftijd van tenminste 45 weken.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien de ondernemer conform <extref status="actief" doc="1.0:v:BWBR0019280&amp;artikel=2" compleet="nee">artikel 2 van de Verordening identificatie en registratie van pluimveebedrijven, broedeieren en levend pluimvee (PPE) 2005</extref> geregistreerd is met een houderijsysteem met vrije uitloop, zorgt de ondernemer er voor dat de in het eerste lid, onder a. tot en met h. bedoelde monstername, in afwijking van het bepaalde in het eerste lid, onder a. tot en met h., per kalenderkwartaal wordt uitgevoerd, ongeacht de leeftijd van het pluimvee.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Indien van het pluimvee, bedoeld in het eerste lid, onder a tot
+              en met h, koppels worden verplaatst naar een ander
+              pluimveebedrijf, zorgt de ondernemer ervoor dat de in het eerste
+              lid, onder a tot en met h bedoelde monsterneming, in afwijking van
+              het eerste lid, onder a tot en met h, v&#xF3;&#xF3;r elke verplaatsing wordt
+              uitgevoerd bij het betreffende koppel, ongeacht de leeftijd van
+              het pluimvee, en dat de uitslag van het onderzoek bekend is voordat de verplaatsing van het pluimvee plaatsvindt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Onverminderd het eerste, tweede en derde lid, zorgt de
+              ondernemer ervoor dat, indien het pluimvee, bedoeld in het eerste
+              lid onder a tot en met h, in meerdere stallen op het
+              pluimveebedrijf is gehuisvest, uit elke stal naar evenredigheid
+              van het aantal dat in die stallen wordt gehouden, bloedmonsters
+              worden genomen van het aldaar gehouden pluimvee, met een minimum
+              van 5 bloedmonsters per stal.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>
+
+              De
+              voorzitter kan bepalen in welke periode de in het eerste, tweede
+              en vierde lid bedoelde bloedmonsters moeten worden genomen.</al>
+          </lid>
+        </artikel><artikel status="goed"><kop><label>Artikel</label><nr>4</nr></kop><lid><lidnr>1</lidnr><al>De bloedmonsters, bedoeld in <intref status="actief" doc="1.0:v:BWBR0018201&amp;artikel=3">artikel 3, eerste tot en met vierde
+              lid</intref>, worden genomen op het pluimveebedrijf waar het betreffende
+              pluimvee is gehuisvest.</al></lid><lid><lidnr>2</lidnr><al>Het afnemen van bloed als bedoeld in <intref status="actief" doc="1.0:v:BWBR0018201&amp;artikel=3">artikel 3, eerste tot en
+              met vierde lid</intref>, geschiedt door een dierenarts dan wel door een op
+              aanwijzing van en onder controle van een dierenarts handelende
+              dierenartsassistent als bedoeld in <extref status="actief" doc="1.0:v:BWBR0005210&amp;artikel=9" compleet="nee">artikel 9 van het Besluit
+              paraveterinairen</extref> (Stb. 526).</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>5</nr></kop><lid><lidnr>1</lidnr><al>De ondernemer levert de in <intref status="actief" doc="1.0:v:BWBR0018201&amp;artikel=3">artikel 3, eerste tot en met vierde
+              lid</intref> bedoelde bloedmonsters, overeenkomstig de door het bestuur bij
+              besluit vastgestelde voorschriften, aan bij een erkend
+              laboratorium als bedoeld in <intref status="actief" doc="1.0:v:BWBR0018201&amp;artikel=2">artikel 2, tweede lid</intref>.</al></lid><lid><lidnr>2</lidnr><al>Het in het eerste lid bedoelde besluit wordt gepubliceerd in het
+              Verordeningenblad Bedrijfsorganisatie.</al></lid></artikel></paragraaf><paragraaf><kop><label>Paragraaf</label><nr>4</nr><titel>Administratie</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>6</nr></kop><al>De ondernemer bewaart de resultaten van het in <intref status="actief" doc="1.0:v:BWBR0018201&amp;artikel=2">artikel 2, eerste
+            lid</intref> bedoelde onderzoek, gedurende een periode van tenminste twee
+            jaren in zijn bedrijfsadministratie.</al></artikel></paragraaf><paragraaf>
+        <kop>
+          <label>Paragraaf</label><nr status="officieel">5</nr>
+          <titel status="officieel">Bijzondere bepalingen</titel>
+        </kop>
+        <artikel status="goed"><kop><label>Artikel</label><nr>7</nr></kop><lid><lidnr>1</lidnr><al>De voorzitter kan de in <intref status="actief" doc="1.0:v:BWBR0018201&amp;artikel=2">artikel 2, eerste lid</intref> bedoelde
+              ondernemer(s), namens het bestuur, in uitzonderlijke gevallen en
+              voor zover het belang van de bestrijding van dierziekten zich
+              daartegen niet verzet, vrijstelling of op aanvraag ontheffing
+              verlenen van de verplichtingen bedoeld in <intref status="actief" doc="1.0:v:BWBR0018201&amp;artikel=2">artikel 2, eerste lid</intref>,
+              <intref status="actief" doc="1.0:v:BWBR0018201&amp;artikel=3">artikel 3, eerste, tweede, derde en vierde lid</intref> en <intref status="actief" doc="1.0:v:BWBR0018201&amp;artikel=5">artikel 5,
+              eerste lid</intref>.</al></lid><lid><lidnr>2</lidnr><al>Aan een vrijstelling of ontheffing als bedoeld in het eerste
+              lid, kunnen voorschriften of voorwaarden worden verbonden.</al></lid><lid><lidnr>3</lidnr><al>Een verleende ontheffing als bedoeld in het eerste lid, kan te
+              allen tijde worden ingetrokken.</al></lid></artikel>
+        <artikel status="goed"><kop><label>Artikel</label><nr>8</nr></kop><al>Het <extref status="actief" doc="1.0:v:BWBR0016062" compleet="nee">Interim-Besluit monitoring Aviaire influenza (PPE) 2003</extref> wordt ingetrokken.</al></artikel>
+      <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">8a</nr></kop><al>Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de <extref status="actief" doc="1.0:v:BWBR0016341" compleet="nee">Wet tuchtrechtspraak bedrijfsorganisatie 2004</extref>.</al></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">8b</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Het toezicht op de naleving van de bij of krachtens deze verordening gestelde voorschriften wordt namens het productschap uitgeoefend door een door het bestuur bij besluit aangewezen dienst en door het bestuur aangewezen personen.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Ondernemers zijn verplicht:</al>
+<lijst level="single" nr-sluiting="." start="1" type="expliciet">
+<li><li.nr>a.</li.nr><al>aan de door het bestuur aangewezen dienst en personen al die gegevens te verstrekken of te doen verstrekken, die nodig zijn voor de vervulling van hun taak;</al></li>
+<li><li.nr>b.</li.nr><al>aan de door het bestuur aangewezen dienst en personen inzage te geven of te doen geven in die boeken en bescheiden, die nodig zijn voor de vervulling van hun taak;</al></li>
+<li><li.nr>c.</li.nr><al>aan de door het bestuur aangewezen dienst en personen te allen tijde toegang te geven of te doen geven tot hun bedrijfsruimten en tot die plaatsen of vervoermiddelen, waar dan wel waarin voorraden (waaronder begrepen pluimvee, karkassen, monsters en verpakkingsmateriaal), tot het bedrijf van de ondernemer behorende, zijn opgeslagen dan wel worden vervoerd;</al></li>
+<li><li.nr>d.</li.nr><al>te gedogen dat de door het bestuur aangewezen dienst en personen monsters nemen uit de voorraden van het bedrijf van de ondernemer (waaronder begrepen pluimvee, karkassen, monsters en verpakkingsmateriaal), ongeacht de plaats waar of waarin zich die voorraden bevinden en de ondernemer zal alsdan de van hem gevorderde medewerking verlenen overeenkomstig de aanwijzingen van de door het bestuur aangewezen dienst en personen.</al></li></lijst></lid><lid><lidnr status="officieel">3</lidnr><al>De in het eerste lid bedoelde personen zijn bevoegd berechtingsrapporten ten behoeve van tuchtrechtelijke afhandeling van overtredingen op te maken.</al></lid></artikel></paragraaf><paragraaf><kop><label>Paragraaf</label><nr>6</nr><titel>Slotbepalingen</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>9</nr></kop><lid><lidnr>1</lidnr><al>Deze verordening wordt aangehaald als Verordening monitoring
+              Aviaire influenza (PPE) 2005.</al></lid><lid><lidnr>2</lidnr><al>Deze verordening treedt in werking met ingang van de tweede dag
+              na de dag van dagtekening van het Verordeningenblad
+              Bedrijfsorganisatie waarin zij wordt geplaatst.</al></lid></artikel></paragraaf></regeling-tekst><regeling-sluiting status="goed"><gegeven><dagtekening><plaats>Zoetermeer</plaats><datum isodatum="20050414">14 april 2005</datum></dagtekening></gegeven><ondertekenaar><ondertekening><naam><voornaam>J.J.</voornaam><achternaam>Ramekers</achternaam></naam><functie>voorzitter</functie></ondertekening><ondertekening><naam><voornaam>S.B.M.</voornaam><achternaam>Jongerius</achternaam></naam><functie>secretaris</functie></ondertekening></ondertekenaar><goedkeuring><al>Goedgekeurd door de Minister van Landbouw, Natuur en
+          Voedselkwaliteit bij beschikking van 8 juni 2005 nr. TRCJZ/2005/1286.</al></goedkeuring></regeling-sluiting></regeling></wetgeving>
+  	

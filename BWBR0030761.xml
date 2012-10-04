@@ -1,0 +1,666 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0030761" dtdversie="2.0" id="466089" soort="zbo">
+  
+  <intitule>Regeling
+verplichte aanlevering minimale dataset medisch specialistische zorg
+(MDS)</intitule>
+  
+  <circulaire>
+    <circulaire-tekst>
+      <tekst status="goed">
+        <al>Ingevolge
+<extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=62" compleet="nee">artikel 62</extref> juncto <extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=68" compleet="nee">68 van de Wet marktordening gezondheidszorg (Wmg)</extref>, is
+de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels
+op het gebied van het verstrekken van gegevens en inlichtingen door
+zorgaanbieders.</al>
+      </tekst>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Reikwijdte</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Deze
+regeling is van toepassing op instellingen voor medisch specialistische
+zorg, audiologische centra en centra voor erfelijkheidsonderzoekdie
+medisch specialistische zorgleveren als omschreven bij of krachtens de
+<extref status="actief" doc="1.0:v:BWBR0018450" compleet="nee">Zorgverzekeringswet (Zvw)</extref>. Deze regeling is niet van toepassing op
+sanatoria, abortusklinieken en instellingen voor curatieve geestelijke
+gezondheidszorg.</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Doel
+van de
+regeling</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Deze
+regeling beoogt informatie te verkrijgen die de NZa gebruikt
+voor:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de
+uitvoering van de wettelijke taken met betrekking tot het onderhoud van
+de tot het DBC-systeem deeluitmakende prestatiebeschrijvingen en
+tarieven, teneinde de publieke belangen van de zorg te borgen.
+Hieronder medebegrepen de Wmg-taken op het gebied van tarifering en
+budgettering.</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>het verstrekken van
+informatie aan het Ministerie van VWS over de ontwikkeling van de
+bekostiging en financiering van de medisch specialistische
+zorg.</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>het monitoren en analyseren van
+marktontwikkelingen en zo nodig ingrijpen op grond van wettelijke taken
+of de Minister van VWS adviseren nadere maatregelen te treffen in die
+deelsectoren van de medisch specialistische
+zorg.</al>
+            </li>
+          </lijst>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <tekst status="goed">
+          <al>In
+deze regeling wordt verstaan
+onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+            <li>
+              <li.nr>2.1</li.nr>
+              <al>
+                <nadruk type="cur">
+Add-on</nadruk>
+              </al>
+              <al>Add-ons zijn overige zorgproducten,
+uitgedrukt in zorgactiviteiten, behorend bij een DBC-zorgproduct.
+Alleen zorg op de Intensive Care (IC) alsmede een limitatief aantal
+dure en weesgeneesmiddelen zijn gedefinieerd als een
+add-on.</al>
+            </li>
+            <li>
+              <li.nr>2.2</li.nr>
+              <al>
+                <nadruk type="cur">
+DBC</nadruk>
+              </al>
+              <al>Een Diagnose Behandeling Combinatie is een
+declarabele prestatie, die de resultante is van het totale traject van
+de diagnose die de zorgverlener stelt tot en met de (eventuele)
+behandeling die hieruit volgt. Vanaf 1 januari 2012 worden nieuwe
+zorgprestaties uitgedrukt in
+DBC-zorgproducten.</al>
+            </li>
+            <li>
+              <li.nr>2.3
+</li.nr>
+              <al>
+                <nadruk type="cur">DBC-zorgproduct</nadruk>
+              </al>
+              <al>Een DBC-zorgproduct
+is een declarabele prestatie die is afgeleid uit subtrajecten en
+zorgactiviteiten via door de NZa vastgestelde
+beslisbomen.</al>
+            </li>
+            <li>
+              <li.nr>2.4</li.nr>
+              <al>
+                <nadruk type="cur">
+DBC-zorgproductcode</nadruk>
+              </al>
+              <al>Het unieke nummer van een
+DBC-zorgproduct dat bestaat uit negen posities, te weten
+DBC-zorgproductgroepcode (zes posities) en een code voor het specifieke
+DBC-zorgproduct binnen de DBC-zorgproductgroep (drie
+posities).</al>
+            </li>
+            <li>
+              <li.nr>2.5</li.nr>
+              <al>
+                <nadruk type="cur">Declaratieset</nadruk>
+              </al>
+              <al>De
+voor afleiding aan een grouper aangeboden verzameling van gegevens
+omtrent de door een zorgaanbieder aan een pati&#xEB;nt geleverde
+zorg.</al>
+            </li>
+            <li>
+              <li.nr>2.6</li.nr>
+              <al>
+                <nadruk type="cur">
+DIS (DBC Informatiesysteem)</nadruk>
+              </al>
+              <al>DIS is een
+onafhankelijke organisatie maar bestuurlijk en facilitair ondergebracht
+bij DBC-Onderhoud. DIS biedt diensten aan om aanlevering door de onder
+deze regeling vallende zorgaanbieders van de MDS (zie 2.11) aan de NZa
+mogelijk te maken. Deze diensten bestaan uit verzameling, opslag en
+uitlevering van
+gegevens.</al>
+            </li>
+            <li>
+              <li.nr>2.7</li.nr>
+              <al>
+                <nadruk type="cur">
+Honorariumbedrag (of honorariumcomponent)</nadruk>
+              </al>
+              <al>Het
+maximum bedrag (per zorgproduct) dat in rekening gebracht kan worden
+ter vergoeding van de diensten van een medisch specialist. Al dan niet
+in combinatie met het kostenbedrag vormt dit het tarief per
+zorgproduct.</al>
+            </li><li>
+              <li.nr>2.8
+</li.nr>
+              <al>
+                <nadruk type="cur">Hoofdbehandelaar</nadruk>
+              </al>
+              <al>Zorgaanbieder die,
+in reactie op de zorgvraag van een pati&#xEB;nt, bij die pati&#xEB;nt
+de diagnose stelt en die verantwoordelijk is voor de
+behandeling.</al>
+            </li>
+            <li>
+              <li.nr>2.9
+</li.nr>
+              <al>
+                <nadruk type="cur">Kostenbedrag (of
+kostencomponent)</nadruk>
+              </al>
+              <al>Het bedrag (per gereguleerd
+zorgproduct) dat in rekening gebracht mag worden ter vergoeding van de
+instellingskosten. Al dan niet in combinatie met het honorariumbedrag
+vormt dit het tarief per
+zorgproduct.</al>
+            </li>
+            <li>
+              <li.nr>2.10
+</li.nr>
+              <al>
+                <nadruk type="cur">Locatiecode</nadruk>
+              </al>
+              <al>Wanneer binnen een
+instelling voor medisch specialistische zorg vanuit meerdere locaties
+zorg wordt verleend, wordt per locatie een unieke locatiecode gebruikt.
+De locatiecode is een volgnummer binnen de zorginstelling welke
+aangeeft waar de hoofdbehandelaar de pati&#xEB;nt onder behandeling
+heeft. Dit zal veelal de locatie zijn waar het DBC-zorgproduct wordt
+geopend.</al>
+            </li>
+            <li>
+              <li.nr>2.11</li.nr>
+              <al>
+                <nadruk type="cur">
+MDS (Minimale Dataset)</nadruk>
+              </al>
+              <al>Dataset van gegevens als
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0030761&amp;circulaire.divisie=4">artikel 4</intref> van deze
+regeling.</al>
+            </li>
+            <li>
+              <li.nr>2.12
+</li.nr>
+              <al>
+                <nadruk type="cur">Ondersteunend product (OP)</nadruk>
+              </al>
+              <al>Een
+ondersteunend product (OP) valt onder de categorie &#x2018;overige
+zorgproducten&#x2019;. Een OP wordt uitgedrukt in een zorgactiviteit en
+wordt geleverd door een niet-poortspecialisme op verzoek van de
+eerstelijn of een ander specialisme binnen dezelfde instelling waarvoor
+de DBC-systematiek niet geldt of voor verpleging in de thuissituatie in
+het kader van medisch specialistisch
+zorg.</al>
+            </li>
+            <li>
+              <li.nr>2.13</li.nr>
+              <al>
+                <nadruk type="cur">
+Overig product (OVP)</nadruk>
+              </al>
+              <al>Een overig product (OVP) valt
+onder de categorie &#x2018;overige zorgproducten&#x2019;. Een OVP wordt
+uitgedrukt in een zorgactiviteit en wordt geleverd door een
+poortspecialisme (zie 2.17) op verzoek van de eerstelijn of een ander
+specialisme binnen dezelfde instelling waarvoor de DBC-systematiek niet
+geldt.</al>
+            </li>
+            <li>
+              <li.nr>2.14
+</li.nr>
+              <al>
+                <nadruk type="cur">Overig traject</nadruk>
+              </al>
+              <al>Een overig traject
+valt onder de categorie &#x2018;overige zorgproducten&#x2019;. Een
+overig traject is een prestatie die een aaneengesloten traject betreft,
+waarvoor de declaratie-eenheid een dag is zoals gezonde zuigelingen en
+verkeerde-beddagen.</al>
+            </li>
+            <li>
+              <li.nr>2.15</li.nr>
+              <al>
+                <nadruk type="cur">
+Overige verrichting</nadruk>
+              </al>
+              <al>Een overige verrichting valt
+onder de categorie &#x2018;overige zorgproducten&#x2019;. Onder overige
+verrichtingen wordt verstaan; losse declarabele verrichtingen die niet
+te defini&#xEB;ren zijn als OVP, OP of overige
+traject.</al>
+              <al>Voorbeelden hiervan zijn bijzondere tandheelkunde en
+kaakchirurgie.</al>
+            </li>
+            <li>
+              <li.nr>2.16</li.nr>
+              <al>
+                <nadruk type="cur">
+Overige zorgproducten</nadruk>
+              </al>
+              <al>De prestaties binnen de
+medisch specialistische zorg, niet zijnde DBC-zorgproducten. Overige
+zorgproducten bestaan uit een vijftal soorten prestaties, te weten
+add-ons, ondersteunende producten, overige producten, overige trajecten
+en overige
+verrichtingen.</al>
+            </li>
+            <li>
+              <li.nr>2.17</li.nr>
+              <al>
+                <nadruk type="cur">
+Poortspecialist</nadruk>
+              </al>
+
+              <al>Een poortspecialist is de medisch
+specialist naar welke een pati&#xEB;nt wordt verwezen voor medisch
+specialistische zorg. Als poortspecialismen worden de volgende
+specialismen onderscheiden: Oogheelkunde (0301), KNO (0302),
+Heelkunde/Chirurgie (0303), Plastische chirurgie (0304), Orthopedie
+(0305), Urologie (0306), Gynaecologie (0307), Neurochirurgie (0308),
+Dermatologie (0310), Inwendige Geneeskunde (0313),
+Kindergeneeskunde/Neonatologie (0316), Gastro-enterologie/MDL (0318),
+Cardiologie (0320), Longgeneeskunde (0322), Reumatologie (0324),
+Allergologie (0326). Revalidatie (0327), Cardio-Pulmonale Chirurgie
+(0328), Consultatieve psychiatrie (0329), Neurologie (0330), Klinische
+Geriatrie (0335), Radiotherapie
+(0361).<noot id="n1e11499054" type="voet">
+                  <noot.nr>1</noot.nr>
+                  <noot.al>tandarts-specialisten
+voor mondziekten en kaakchirurgie hebben vaak ook een poortfunctie,
+maar declareren in overige zorgproducten.</noot.al>
+                </noot>
+              </al>
+              <al>De poortspecialist is verantwoordelijk voor een juiste typering
+van een zorgtraject/subtraject bij de geleverde zorg. De poortfunctie
+kan ook door een ondersteunend specialisme worden ingenomen welke
+hiervoor een door de NZa vastgestelde typeringslijst heeft, zoals
+radiologie (0362), anesthesiologie (0389) en klinische genetica (0390).
+Daarnaast kent de audiologie (1900) ook een eigen
+typeringslijst.</al>
+            </li>
+            <li>
+              <li.nr>2.18</li.nr>
+              <al>
+                <nadruk type="cur">
+Uitvoerende instelling</nadruk>
+              </al>
+              <al>De instelling die een
+declarabele prestatie
+uitvoert.</al>
+            </li>
+            <li>
+              <li.nr>2.19</li.nr>
+              <al>
+                <nadruk type="cur">
+Zorgactiviteit</nadruk>
+              </al>
+              <al>De gestandaardiseerde
+onderverdeling in zorgactiviteiten. De zorgactiviteiten zijn de
+bouwstenen van het DBC-zorgproduct en vormen gezamenlijk het profiel
+van een DBC-zorgproduct. Ze bepalen in combinatie met het
+geregistreerde subtraject welke prestatie is geleverd en welke
+DBC-zorgproduct kan worden gedeclareerd.</al>
+              <al>Daarnaast vormt de
+onderverdeling in zorgactiviteiten de basis voor overige
+zorgproducten.</al>
+            </li>
+            <li>
+              <li.nr>2.20</li.nr>
+              <al>
+                <nadruk type="cur">
+Zorgprofiel</nadruk>
+              </al>
+              <al>Alle geregistreerde zorgactiviteiten
+binnen een
+DBC-zorgproduct.</al>
+            </li>
+          </lijst>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Gegevensverstrekking</titel>
+        </kop>
+        <tekst status="goed">
+          <al>De
+zorgaanbieders zoals genoemd in <intref status="actief" doc="1.0:v:BWBR0030761&amp;circulaire.divisie=1">artikel 1</intref> van deze regeling verstrekken
+maandelijks onderstaande gegevens (MDS) over alle in de voorafgaande
+maand gedeclareerde prestaties aan het DIS.</al>
+          <al>De gegevens dienen
+volledig en naar waarheid te worden
+verstrekt.</al>
+          <al>
+            <nadruk type="vet">Identificatie
+zorgaanbieder</nadruk>
+          </al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2212;</li.nr>
+              <al>Unieke
+identificatie
+zorgaanbieder</al>
+            </li>
+            <li>
+              <li.nr>&#x2212;</li.nr>
+              <al>Locatiecode
+(AGB-code)</al>
+            </li>
+          </lijst>
+          <al>
+            <nadruk type="vet">Identificatie
+pati&#xEB;nt</nadruk>
+          </al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2212;</li.nr>
+              <al>Pseudo-identiteit
+pati&#xEB;nt</al>
+            </li>
+            <li>
+              <li.nr>&#x2212;</li.nr>
+              <al>Postcode
+(4-cijferig)</al>
+            </li>
+            <li>
+              <li.nr>&#x2212;</li.nr>
+              <al>Geboortejaar</al>
+            </li>
+            <li>
+              <li.nr>&#x2212;</li.nr>
+              <al>Geslacht</al>
+            </li>
+            <li>
+              <li.nr>&#x2212;</li.nr>
+              <al>Unieke
+identificatie ziektekostenverzekeraar (conform
+UZOVI-register)</al>
+            </li>
+          </lijst>
+          <al>
+            <nadruk type="vet">Productie
+per
+pati&#xEB;nt</nadruk>
+          </al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>A.</li.nr>
+              <al>DBC-zorgproduct:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>DBC-zorgproductcode
+(9 posities)</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>DBC-declaratiecode
+(6 posities)</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>Uitvoerend
+specialismecode (4
+posities)</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>Zorgtypecode (2
+posities)</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>Zorgvraagcode (indien
+van toepassing: 2
+posities)</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>(typerende)
+Diagnosecode (4
+posities)</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>Begindatum</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>Einddatum</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>Uitvoerende
+instelling (praktijk of
+instellingscode)</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>Gedeclareerd
+bedrag
+DBC-zorgproduct:</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>Gedeclareerd
+kostenbedrag</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>Gedeclareerd
+honorariumbedrag</al>
+                </li>
+              </lijst>
+              <al>Geleverd zorgprofiel
+DBC-zorgproduct:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>Zorgactiviteitcode
+(6 posities)</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>Uitvoerdatum
+zorgactiviteit</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>Uitvoerend
+specialismecode</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>Uitvoerende
+instelling (praktijk of
+instellingscode)</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>B.</li.nr>
+              <al>Overige
+zorgproducten:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>Declaratiecode
+(is zorgactiviteitcode: 6
+posities)</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>Uitvoerdatum overig
+zorgproduct</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>Behandeld
+specialismecode (4
+posities)</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>Aanvragend
+specialismecode (4
+posities)</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>Uitvoerende
+instelling (praktijk of
+instellingscode)</al>
+                </li>
+              </lijst>
+              <al>Gedeclareerde bedrag overig
+zorgproduct:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>Gedeclareerd
+kostenbedrag (indien van
+toepassing)</al>
+                </li>
+                <li>
+                  <li.nr>&#x2212;</li.nr>
+                  <al>Gedeclareerd
+honorariumbedrag (indien van
+toepassing)</al>
+                </li>
+              </lijst>
+            </li>
+          </lijst>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Wijze
+van
+gegevensverstrekking</titel>
+        </kop>
+        <tekst status="goed">
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>5.1</li.nr>
+              <al>Zorgaanbieders
+als genoemd in <intref status="actief" doc="1.0:v:BWBR0030761&amp;circulaire.divisie=1">artikel 1</intref> van deze regeling zijn verplicht eenmaal per
+maand de MDS zoals genoemd in <intref status="actief" doc="1.0:v:BWBR0030761&amp;circulaire.divisie=1">artikel 4</intref>, elektronisch aan het DIS aan
+te leveren. Deze verplichting geldt alleen indien in de voorafgaande
+maand gedeclareerd is. Deze maandelijkse levering dient plaats te
+vinden voor het einde van de opvolgende
+maand.</al>
+            </li>
+            <li>
+              <li.nr>5.2</li.nr>
+              <al>Voor aanlevering aan DIS
+dient gebruik gemaakt te worden van de meest recente aanleverstandaard
+die de technische vereisten specificeert. Deze aanleverstandaard ligt
+vanaf de datum van inwerkingtreding van deze regeling bij de NZa ter
+inzage. Op verzoek van een belanghebbende wordt dit format toegezonden.
+Het format kan tevens worden geraadpleegd op
+www.dbcinformatiesysteem.nl.</al>
+            </li>
+            <li>
+              <li.nr>5.3</li.nr>
+              <al>Gegevenslevering bij DIS kan uitsluitend via de door DIS
+gespecificeerde methode en wordt na technische controle door DIS
+voorzien van een ontvangstbevestiging. Deze ontvangstbevestiging volgt
+uit een technische toetsing en is daarmee geen inhoudelijke
+goedkeuring.</al>
+            </li>
+            <li>
+              <li.nr>5.4</li.nr>
+              <al>Mutaties en
+aanvullingen op de MDS-informatie van productie afgesloten in enig jaar
+(T) moeten uiterlijk voor 1 oktober van het daaropvolgende jaar (T+1)
+aangeleverd worden bij DIS als onderdeel van de reguliere maandelijkse
+gegevenslevering. Per 1 oktober van dit opvolgende jaar (T+1) maakt DIS
+een jaarafsluiting van het voorafgaande jaar (T). Na deze datum is het
+niet meer mogelijk MDS-informatie van het afgesloten jaar (T) aan te
+leveren.</al>
+            </li>
+          </lijst>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Intrekking
+oude
+regel(s)</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Gelijktijdig
+met de inwerkingtreding van deze regeling wordt de regeling
+&#x2018;verplichte aanlevering minimale dataset somatische
+zorg&#x2019;, met kenmerk<extref status="actief" doc="1.0:v:BWBR0025113" compleet="nee"> CI/NR100.083</extref>,
+ingetrokken.</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Inwerkingtreding
+en
+citeerregel</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Deze
+regeling treedt in werking met ingang van 1&#xA0;januari 2012.Ingevolge
+artikel&#xA0;<extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=20" compleet="nee">20, tweede lid, onderdeel a, van de Wet marktordening
+gezondheidszorg (Wmg)</extref> zal deze regeling in de Staatscourant worden
+geplaatst.</al>
+          <al>Deze regeling kan worden aangehaald als:
+&#x2018;Regeling verplichte aanlevering minimale dataset medisch
+specialistische zorg
+(MDS)&#x2019;.</al>
+        </tekst>
+      </circulaire.divisie>
+    </circulaire-tekst>
+    <circulaire-sluiting status="goed">
+      <ondertekening>
+        <functie>De Raad van Bestuur van de Nederlandse Zorgautoriteit,</functie>
+        <naam>
+          <voornaam>T.W.</voornaam>
+          <achternaam>Langejan,</achternaam>
+        </naam>
+        <functie>voorzitter.</functie>
+      </ondertekening>
+    </circulaire-sluiting>
+  </circulaire>
+</wetgeving>
+  	

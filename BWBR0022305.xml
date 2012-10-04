@@ -1,0 +1,1019 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0022305" dtdversie="2.0" id="381529" soort="pbo">
+  
+  <intitule> 
+    Verordening van het Hoofdproductschap Akkerbouw van 9 november 2006 houdende regels over maatregelen ter voorkoming van wratziekte bij aardappelen (verordening HPA wratziekte 2006)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>Het bestuur van het Hoofdproductschap Akkerbouw;</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op de <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=93" compleet="nee">artikelen 93</extref>, <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=95" compleet="nee">95</extref>, <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=104" compleet="nee">104, eerste en derde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=106" compleet="nee">106</extref> en <extref status="actief" doc="1.0:v:BWBR0002058&amp;artikel=126" compleet="nee">126, tweede lid, van de Wet op de bedrijfsorganisatie</extref> en op de <extref status="actief" doc="1.0:v:BWBR0016234&amp;artikel=3" compleet="nee">artikelen 3</extref>, <extref status="actief" doc="1.0:v:BWBR0016234&amp;artikel=5" compleet="nee">5</extref>, <extref status="actief" doc="1.0:v:BWBR0016234&amp;artikel=17" compleet="nee">17</extref> en <extref status="actief" doc="1.0:v:BWBR0016234&amp;artikel=18" compleet="nee">18 van het Instellingsbesluit akkerbouwproductschappen</extref>;</considerans.al>
+        <considerans.al bevat="gehoord">Gehoord de Commissie Aardappelen;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>Deze verordening verstaat onder:</al>
+          <table frame="none" tabstyle="stcrt2">
+            <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="stcrt2">
+              <colspec colname="col1" colnum="1" colwidth="5*"/>
+              <colspec colname="col2" colnum="2" colwidth="35*"/>
+              <colspec colname="col3" colnum="3" colwidth="63*"/>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>a.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>hoofdproductschap</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Hoofdproductschap Akkerbouw;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>b.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>bestuur</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>bestuur van het hoofdproductschap;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>c.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>dagelijks bestuur</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>dagelijks bestuur van het hoofdproductschap;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>d.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>voorzitter</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>voorzitter van het hoofdproductschap;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>e.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>secretaris</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>secretaris van het hoofdproductschap die belast is met teeltaangelegenheden;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>f.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>commissie</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Commissie Aardappelen;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>g.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>ondernemer</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>natuurlijke of rechtspersoon die een onderneming drijft waarvoor het hoofdproductschap is ingesteld;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>h.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>aardappelen</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>planten van de soort Solanum Tuberosum;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>i.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>zetmeelaardappelen</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>aardappelen bestemd om te worden verwerkt tot zetmeel;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>j.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>pootaardappelen</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>aardappelen kennelijk bestemd voor wederuitplant;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>k.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>perceel</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>een ononderbroken oppervlakte grond, in eigendom of in gebruik bij een onderneming, waarop &#xE9;&#xE9;n soort gewas geteeld wordt;</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>l.</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>wratziekte</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>de aantasting van aardappelen door de schimmel Synchytrium endobioticum.</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Verbodsbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het is de ondernemer met ingang van 1 januari 2008 verboden op een perceel, in daartoe in <intref status="actief" doc="1.0:v:BWBR0022305&amp;bijlage=1">bijlage 1 onder A</intref> aangewezen gebieden, zetmeelaardappelen, als opgenomen in de <extref status="actief" doc="1.0:v:BWBR0014840&amp;bijlage=" compleet="nee">bijlage onder A van de Verordening HPA aardappelteelt 2003</extref>, te telen, tenzij zij behoren tot een ras, zoals genoemd in <intref status="actief" doc="1.0:v:BWBR0022305&amp;bijlage=1">bijlage 1 onder B</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>Het is de ondernemer verboden op een perceel, in een daartoe in <intref status="actief" doc="1.0:v:BWBR0022305&amp;bijlage=2">bijlage 2 onder A</intref> aangewezen gebied, aardappelplanten te telen, tenzij zij behoren tot een ras, als genoemd in <intref status="actief" doc="1.0:v:BWBR0022305&amp;bijlage=2">bijlage 2 onder C1</intref>. Voor de teelt van pootaardappelen geldt dat tevens het telen van de in <intref status="actief" doc="1.0:v:BWBR0022305&amp;bijlage=2">bijlage 2 onder C2</intref> vermelde rassen toegestaan is;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>Het is de ondernemer verboden op een perceel, in een daartoe in <intref status="actief" doc="1.0:v:BWBR0022305&amp;bijlage=2">bijlage 2 onder B</intref> aangewezen gebied, zetmeelaardappelen, als opgenomen in de <extref status="actief" doc="1.0:v:BWBR0014840&amp;bijlage=" compleet="nee">bijlage onder A van de Verordening HPA aardappelteelt 2003</extref>, te telen, tenzij zij behoren tot een ras als genoemd in <intref status="actief" doc="1.0:v:BWBR0022305&amp;bijlage=2">bijlage 2 onder C 1</intref>.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Het is de ondernemer verboden op een perceel, in een daartoe in <intref status="actief" doc="1.0:v:BWBR0022305&amp;bijlage=3">bijlage 3 onder A</intref> aangewezen gebied, aardappelplanten te telen, tenzij zij behoren tot een ras, zoals genoemd in <intref status="actief" doc="1.0:v:BWBR0022305&amp;bijlage=3">bijlage 3 onder B</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De in het eerste, tweede en derde lid bedoelde gebieden betreffen niet de door de Minister van Landbouw, Natuur en Voedselkwaliteit op basis van het Besluit bestrijding wratziekte aangewezen terreinen, waarbinnen of waarop de aanwezigheid van de wratziekte of de schimmel is aangetoond of de wratziekte dreigt op te treden.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Overige bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De voorzitter is, namens het bestuur, bevoegd bij besluit, gehoord de commissie, andere dan de in de <intref status="actief" doc="1.0:v:BWBR0022305&amp;bijlage=1">bijlagen 1</intref>, <intref status="actief" doc="1.0:v:BWBR0022305&amp;bijlage=2">2</intref> en <intref status="actief" doc="1.0:v:BWBR0022305&amp;bijlage=3">3 onder A en B</intref> genoemde gebieden onderscheidenlijk de in de <intref status="actief" doc="1.0:v:BWBR0022305&amp;bijlage=1">bijlagen 1</intref>, <intref status="actief" doc="1.0:v:BWBR0022305&amp;bijlage=2">2</intref> en <intref status="actief" doc="1.0:v:BWBR0022305&amp;bijlage=3">3 onder B en C</intref> genoemde rassen, vanwege te nemen preventieve maatregelen teneinde uitbreiding van wratziekte te voorkomen, aan te wijzen, totdat bij verordening tot wijziging van de betreffende bijlage daarin is voorzien. Als dan wordt het betreffende besluit geacht te zijn ingetrokken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het bestuur kan bij besluit, gehoord de commissie, vrijstelling verlenen van een of meer bepalingen uit deze verordening en daarbij nadere voorschriften vaststellen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Een besluit als bedoeld in het eerste en tweede lid wordt bekendgemaakt in het Verordeningenblad Bedrijfsorganisatie en treedt in werking met ingang van de tweede dag na die van haar bekendmaking, tenzij het betreffende besluit anders bepaalt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De secretaris kan, namens het bestuur, op schriftelijk verzoek van de ondernemer ontheffing verlenen van het bepaalde in <intref status="actief" doc="1.0:v:BWBR0022305&amp;artikel=2">artikel 2, eerste, tweede of derde lid</intref>, en kan daarbij nadere voorschriften vaststellen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <al>Het bepaalde bij of krachtens deze verordening, waarbij aan ondernemers verplichtingen worden opgelegd, is mede bindend voor andere natuurlijke en rechtspersonen, voor zover deze handelingen verrichten die bedrijfsmatig in ondernemingen waarvoor het hoofdproductschap is ingesteld, plegen te worden verricht.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <al>Overtredingen van het bepaalde bij of krachtens deze verordening worden aangewezen als feiten waarvoor een tuchtrechtelijke maatregel kan worden opgelegd.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <al>De <extref status="actief" doc="1.0:v:BWBR0014836" compleet="nee">verordening HPA wratziekte 2003</extref> wordt ingetrokken.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <al>Deze verordening treedt in werking met ingang van 1&#xA0;januari 2007, met uitzondering van het in <intref status="actief" doc="1.0:v:BWBR0022305&amp;artikel=2">artikel 2, eerste lid</intref> bepaalde, dat met ingang van 1 januari 2008 in werking treedt. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31&#xA0;december 2006, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1&#xA0;januari 2007, met uitzondering van het in <intref status="actief" doc="1.0:v:BWBR0022305&amp;artikel=2">artikel 2, eerste lid</intref> en <intref status="actief" doc="1.0:v:BWBR0022305&amp;artikel=5">artikel 5</intref> bepaalde.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+          </kop>
+          <al>Deze verordening wordt aangehaald als Verordening HPA wratziekte 2006.</al>
+        </artikel>
+      </paragraaf>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <gegeven>
+        <dagtekening>
+          <plaats>Den Haag</plaats>
+          <datum isodatum="2006-11-09">9 november 2006</datum>
+        </dagtekening>
+      </gegeven>
+      <gegeven>
+        <dagtekening>
+          <datum isodatum="eijer-Th.A.M. Meijer -Th.A.M.">Th.A.M. Meijer</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>
+        <functie>voorzitter</functie>
+      </ondertekening>
+      <ondertekening>
+        <naam>
+          <voornaam>P.</voornaam>
+          <achternaam>Hijma</achternaam>
+        </naam>
+        <functie>secretaris</functie>
+      </ondertekening>
+      <goedkeuring>
+        <al>Goedgekeurd door de Bestuurskamer van de Sociaal-Economische Raad bij besluit van 28 juni 2007.</al>
+        <al>De verordening is op 20&#xA0;februari 2007 ingevolge artikel 8, eerste lid, van de richtlijn nr.&#xA0;98/34/EG van het Europees Parlement en de Raad van 22&#xA0;juni 1998 betreffende een informatieprocedure op het gebied van normen en technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEG L 204), zoals gewijzigd bij richtlijn nr.&#xA0;98/48/EG van 20&#xA0;juli 1998 (PbEG L 217), voorgelegd aan de Commissie van de Europese Gemeenschappen.</al>
+      </goedkeuring>
+    </regeling-sluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">1</nr>
+      </kop>
+      <al>A. Als gebieden, als bedoeld in <intref status="actief" doc="1.0:v:BWBR0022305&amp;artikel=2">artikel 2, eerste lid</intref>, worden aangewezen:</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+          <li.nr>1.</li.nr>
+          <al>Het gebied ten oosten van Veendam, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart &#x2018;Kerngebied Veendam&#x2018;)</al>
+          <al>Provinciale weg N963 (A), Borgercompagnieweg (B), (zand)weg (C), watergang (D), Westerbrink (E), Beneden Westerdiep (F), Prins Hendrikplein (G), Sorgvlietlaan (H), Woortmanslaan (l), Borgercompagnieweg (J), perceelsscheiding (K), Kielsterachterweg (L), Wildervanksterweg (M) en Zwarteweg (N).</al>
+        </li>
+        <li>
+          <li.nr>2.</li.nr>
+          <al>Het gebied ten zuidoosten van Ter Apel, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart &#x2018;Kerngebied Ter Apel&#x2019;)</al>
+          <al>Markeweg (A), Hoofdkade (B), Moersloot (C), Zanddijk (D), Roswinkelerstraat (E) en Ertsstraat (F).</al>
+        </li>
+        <li>
+          <li.nr>3.</li.nr>
+          <al>Het gebied rondom Foxel, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart &#x2018;Kerngebied Foxel&#x2018;)</al>
+          <al>Westelijke Doorsnee (A), Oosterdiep W.Z. (B), watergang (C), Berkenrode (D) en Verlengde Scholtenskanaal O.Z. (E).</al>
+        </li>
+        <li>
+          <li.nr>4.</li.nr>
+          <al>Het gebied ten noordoosten van Barger Compascuum, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart &#x2018;Kerngebied Barger Compascuum&#x2018;) Watergang (A), Limietweg (B), Limietweg-Oost (C), watergang (D), BRD-grens (E), (zand)weg (F), Limietweg (G), Postweg (H) en Oosterdiep O.Z. (I)</al>
+        </li>
+        <li>
+          <li.nr>5.</li.nr>
+          <al>Het gebied ten zuidoosten van Mantinge, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart Kerngebied Mantinge&#x2018;)</al>
+          <al>Schiphorsten (A), Heirweg (B), (zand)weg (C), K. Brokweg (D), mr. J.B. Kanweg (E), Mantingerdijk (F), heide/bos (G), perceelsscheiding (H), Steendervalsweg (I) en Wijsterseweg (J).</al>
+        </li>
+      </lijst>
+    <divisie opmaak="default"><kop><label>Bijlage</label><nr status="officieel">1</nr><titel status="officieel">, onder A1:</titel></kop><al>Het gebied ten oosten van Veendam, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart Kerngebied Veendam&#x2018;)</al>
+      <al>Provinciale weg N963 (A), Borgercompagnieweg (B), (zand)weg (C), watergang (D), Westerbrink (E), Beneden Westerdiep (F), Prins Hendrikplein (G), Sorgvlietlaan (H), Woortmanslaan (l), Borgercompagnieweg (J), perceelsscheiding (K), Kielsterachterweg (L), Wildervanksterweg (M) en Zwarteweg (N).</al>
+      <plaatje>
+        <illustratie bin-id="242586" formaat="png" kleur="nee" type="lijn" uitlijning="start" url="http://wetten.overheid.nl/Illustration/242586"/>
+      </plaatje></divisie><divisie opmaak="default">
+        <kop>
+          <label>Bijlage</label><nr status="officieel">1</nr><titel status="officieel"> , onder A2:</titel>
+        </kop>
+        <al>Het gebied ten zuidoosten van Ter Apel, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart &#x2018;Kerngebied Ter Apel&#x2018;)</al>
+        <al>Markeweg (A), Hoofdkade (B), Moersloot (C), Zanddijk (D), Roswinkelerstraat (E) en Ertsstraat (F).</al>
+        <plaatje>
+          <illustratie bin-id="242587" formaat="png" kleur="nee" type="lijn" uitlijning="start" url="http://wetten.overheid.nl/Illustration/242587"/>
+        </plaatje>
+      </divisie><divisie opmaak="default">
+        <kop>
+          <label>Bijlage</label><nr status="officieel">1</nr><titel status="officieel">, onder A3:</titel>
+        </kop>
+        <al>Het gebied rondom Foxel, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart &#x2018;Kerngebied Foxel&#x2019;)</al>
+        <al>Westelijke Doorsnee (A), Oosterdiep W.Z. (B), watergang (C), Berkenrode (D) en Verlengde Scholtenskanaal O.Z. (E).</al>
+        <plaatje>
+          <illustratie bin-id="242588" formaat="png" kleur="nee" type="lijn" uitlijning="start" url="http://wetten.overheid.nl/Illustration/242588"/>
+        </plaatje>
+      </divisie><divisie opmaak="default">
+        <kop>
+          <label>Bijlage</label><nr status="officieel">1</nr><titel status="officieel">, onder A4:</titel>
+        </kop>
+        <al>Het gebied ten noordoosten van Barger Compascuum, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart &#x2018;Kerngebied Barger Compascuum&#x2018;) Watergang (A), Limietweg (B), Limietweg-Oost (C), watergang (D), BRD-grens (E), (zand)weg (F), Limietweg (G), Postweg (H) en Oosterdiep O.Z. (l)</al>
+        <plaatje>
+          <illustratie bin-id="242589" formaat="png" kleur="nee" type="lijn" uitlijning="start" url="http://wetten.overheid.nl/Illustration/242589"/>
+        </plaatje>
+      </divisie><divisie opmaak="default">
+        <kop>
+          <label>Bijlage</label><nr status="officieel">1</nr><titel status="officieel">, onder A5:</titel>
+        </kop>
+        <al>Het gebied ten zuidoosten van Mantinge, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart &#x2018;Kerngebied Mantinge&#x2019;)</al>
+        <al>Schiphorsten (A), Heirweg (B), (zand)weg (C), K. Brokweg (D), mr. J.B. Kanweg (E), Mantingerdijk (F), heide/bos (G), perceelsscheiding (H), Steendervalsweg (I) en Wijsterseweg (J).</al>
+        <plaatje>
+          <illustratie bin-id="242590" formaat="png" kleur="nee" type="lijn" uitlijning="start" url="http://wetten.overheid.nl/Illustration/242590"/>
+        </plaatje>
+        <tussenkop>
+          <nadruk type="rom">B. Als rassen, als bedoeld in artikel 2, eerste lid, worden aangewezen:</nadruk>
+        </tussenkop>
+        <table frame="topbot" tabstyle="stcrt2">
+          <tgroup align="left" char="" charoff="50" cols="5" tgroupstyle="stcrt2">
+            <colspec colname="col1" colnum="1" colwidth="21*"/>
+            <colspec colname="col2" colnum="2" colwidth="21*"/>
+            <colspec colname="col3" colnum="3" colwidth="21*"/>
+            <colspec colname="col4" colnum="4" colwidth="20*"/>
+            <colspec colname="col5" colnum="5" colwidth="20*"/>
+            <thead valign="bottom">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>10</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>9</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>8</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>7</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>6</al>
+                </entry>
+              </row>
+            </thead>
+            <tbody valign="top">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Avama</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  
+                <al>Aventra</al></entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  
+                <al>Festien</al></entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Aurora</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  
+                <al>Allure</al></entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Belita</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  
+                <al>Averia</al></entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  
+                <al>Karakter</al></entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Mantra</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  
+                <al>Starga</al></entry>
+              </row>
+              <row><entry align="left" colname="col1" morerows="0" rotate="0" valign="top"><al>Edelstein</al></entry><entry align="left" colname="col2" morerows="0" rotate="0" valign="top"><al>Katinka</al></entry><entry align="left" colname="col3" morerows="0" rotate="0" valign="top"/><entry align="left" colname="col4" morerows="0" rotate="0" valign="top"><al>Sofista</al></entry><entry align="left" colname="col5" morerows="0" rotate="0" valign="top"/></row><row><entry align="left" colname="col1" morerows="0" rotate="0" valign="top"><al>Gunda</al></entry><entry align="left" colname="col2" morerows="0" rotate="0" valign="top"><al>Meran</al></entry><entry align="left" colname="col3" morerows="0" rotate="0" valign="top"/><entry align="left" colname="col4" morerows="0" rotate="0" valign="top"><al>Stefano</al></entry><entry align="left" colname="col5" morerows="0" rotate="0" valign="top"/></row><row><entry align="left" colname="col1" morerows="0" rotate="0" valign="top"><al>Juliane</al></entry><entry align="left" colname="col2" morerows="0" rotate="0" valign="top"><al>Plasinka</al></entry><entry align="left" colname="col3" morerows="0" rotate="0" valign="top"/><entry align="left" colname="col4" morerows="0" rotate="0" valign="top"><al>Valiant</al></entry><entry align="left" colname="col5" morerows="0" rotate="0" valign="top"/></row><row><entry align="left" colname="col1" morerows="0" rotate="0" valign="top"><al>Kuba</al></entry><entry align="left" colname="col2" morerows="0" rotate="0" valign="top"><al>Plasst&#xE4;rke</al></entry><entry align="left" colname="col3" morerows="0" rotate="0" valign="top"/><entry align="left" colname="col4" morerows="0" rotate="0" valign="top"/><entry align="left" colname="col5" morerows="0" rotate="0" valign="top"/></row><row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Pallina</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  
+                <al>Plasuno</al></entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Panda</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  
+                <al>Rob&#xE9;ny</al></entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Seresta</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  
+                <al>Signum</al></entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>Ulme</al>
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  
+                <al>Vebeca</al></entry>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  
+                </entry>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+                <entry align="left" morerows="0" rotate="0" valign="top"/>
+              </row><row><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"><al>Vebesta</al></entry><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/><entry align="left" morerows="0" rotate="0" valign="top"/></row>
+              
+              
+            </tbody>
+          </tgroup>
+        </table>
+      </divisie></bijlage>
+    
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">2</nr>
+      </kop>
+      <tussenkop>
+        <nadruk type="rom">A. Als gebieden als bedoeld in artikel 2, tweede lid onderdeel a worden aangewezen:</nadruk>
+      </tussenkop>
+      <al>Alle gemeenten in de provincie Drenthe.</al>
+      <al>In de provincie Groningen de volgende gemeenten of gedeelten daarvan: Bellingwedde, Groningen voorzover gelegen ten zuiden van het Eemskanaal, Grootegast, Haren, Hoogezand-Sappemeer, Leek, Marum, Menterwolde, Pekela, Reiderland voorzover gelegen ten westen van de Ulsderweg en C.G. Wiegersweg en ten zuiden van de Hoofdweg en Goldhoorn te Finsterwolde, Scheemda voorzover gelegen ten zuiden van de Goldhoom te Oostwold en ten westen van de Noorderstraat, ten noorden van de Polderweg, ten westen van de Langeweg, ten zuiden van Hoofdweg-Oost, Hoofdstraat en Hoofdweg-west te Nieuwolda, ten zuiden van de Hoofdweg &#x2019;t Waar, ten zuiden van de Rechte Walsterweg, Slochteren, Stadskanaal, Veendam, Vlagtwedde, Winschoten</al>
+      <al>In de provincie Friesland: Oost-Stellingwerf voorzover gelegen ten noorden van de Verwersweg, Zorgvlied vanaf de provinciegrens tot het driegemeentepunt Diever-Weststellingwerf-Ooststellingwerf, ten oosten van de weg Zuid en Hoofdweg tot Kloosterweg, ten zuiden van de wegen Kloosterweg, Terwisscha, Westeres en Bruggelaan tot de Compagnonsvaart, ten oosten van de wegen Zuideinde Fochteloo, Noordeinde, de Knolle tot kruising met de weg Weper, en ten zuiden van de wegen Weper, Weperpolder tot provinciegrens.</al>
+      <al>In de provincie Overijssel de volgende gemeenten of gedeelten daarvan: Brederwiede voorzover gelegen ten zuiden en ten oosten van de Kanaalweg, Hardenberg, Twenterand, Hellendoorn, Ommen, Steenwijk, IJsselham voorzover gelegen ten noorden en ten oosten van de Punterweg (vanaf Kuinderweg), Hammerdijk, Kerkbuurt, Blokzijlerdijk en Kuinderdijk.</al>
+      <tussenkop>
+        <nadruk type="rom">B. Als gebieden als bedoeld in artikel 2, tweede lid, onderdeel b worden aangewezen:</nadruk>
+      </tussenkop>
+      <al>De gemeenten in de provincie Overijssel voorzover niet gelegen in gebied A.</al>
+      <al>De gemeenten in de provincie Gelderland tot de Nederrijn.</al>
+      <al>In de provincie Friesland de gemeenten Ooststellingwerf voorzover niet gelegen in gebied A,</al>
+      <al>Weststellingwerf en Opsterland.</al>
+      <tussenkop>
+        <nadruk type="rom">C. Als rassen als bedoeld in artikel 2, tweede lid, worden aangewezen:</nadruk>
+      </tussenkop>
+      <al>C1.</al>
+      <al>10 Avaya</al><al>10 Averia</al><al>10 Aventra</al>
+      <al>10 Belita</al>
+      <al>10 Delcora</al><al>10 Edelstein</al><al>10 Gunda</al><al>10 Juliane</al>
+      <al>10 Karakter</al>
+      <al>10 Karolin</al>
+      <al>10 Katinka</al><al>10 Kuba</al>
+      <al>10 Miriam</al>
+      <al>10 Pallina</al>
+      <al>10 Panda</al>
+      <al>10 Plasinka</al>
+      <al>10 Provento</al><al>10 Scarlet</al><al>10 Signum</al>
+      <al>10 Seresta</al>
+      <al>10 Stemster</al>
+      <al>10 Ulme</al>
+      <al>10 Vebeca</al><al>9 Achilles</al><al>9 Aurora</al><al>9 Avarna</al>
+      <al>9 Aviala</al><al>9 Cecile</al><al>9 Certo</al>
+      <al>9 Cleopatra</al>
+      <al>9 Desiree</al>
+      <al>9 Hansa</al>
+      <al>9 Irene</al>
+      <al>9 Kanjer</al>
+      <al>9 Kantara</al>
+      <al>9 Ampera</al>
+      <al>9 Festien</al>
+      <al>9 Jupiter</al>
+      <al>9 Kuroda</al>
+      <al>9 Mantra</al>
+      <al>9 Marlen</al><al>9 Plasandes</al><al>9 Plasent</al>
+      <al>9 Progress</al><al>9 Rob&#xE9;ny</al><al>9 Romano</al>
+      <al>9 Smaragd</al>
+      <al>9 Sofista</al>
+      <al>9 Starga</al>
+      <al>9 Valiant</al>
+      <al>8 Allure</al>
+      <al>8 Amadeus</al>
+      
+      <al>8 Aveka</al>
+      <al>8 Colmo</al>
+      <al>8 Courage</al><al>8 Dinky</al>
+      <al>8 Evita</al>
+      <al>8 Escort</al><al>8 Fontane</al>
+      <al>8 Kaliber</al>
+      <al>8 Karuva</al>
+      <al>8 Kondor</al>
+      <al>8 Melanie</al>
+      <al>8 Mercury</al>
+      <al>8 Nicola</al>
+      <al>8 Nomade</al>
+      
+      <al>8 Saturna</al>
+      <al>8 Sophytra</al>
+      <al>8 Timate</al>
+      <al>8 Ukama</al>
+      <al>8 Vebebe</al>
+      <al>8 Vebesta</al>
+      <al>8 Yvonne</al>
+      <al>7 Albas</al>
+      <al>7 Annabelle</al>
+      <al>7 Apriori</al>
+      <al>7 Apropos</al>
+      <al>7 Astarte</al>
+      <al>7 Asterix</al>
+      
+      <al>7 Baraka</al>
+      <al>7 Benno Vrizo</al>
+      <al>7 Burren</al>
+      <al>7 Donald</al>
+      <al>7 Ehud</al>
+      <al>7 Element</al>
+      
+      <al>7 Fresco</al>
+      <al>7 Hommage</al>
+      <al>7 Karnico</al>
+      <al>7 Markant</al>
+      <al>7 Menco</al>
+      <al>7 Mercator</al>
+      <al>7 Mirakel</al>
+      <al>7 Origo</al>
+      <al>7 Parel</al>
+      <al>7 Shannon</al>
+      <al>7 Stefano</al>
+      <al>6 Agria</al>
+      <al>6 Amora</al>
+      <al>6 Ballys</al>
+      <al>6 Bintje</al>
+      <al>6 Cardinal</al>
+      <al>6 Diamant</al>
+      <al>6 Eba</al>
+      <al>6 Florijn</al>
+      <al>6 Krostar</al>
+      <al>6 Ostara</al>
+      <al>6 Raja</al>
+      <al>6 Realist</al>
+      <al>Eigenheimer<sup>*</sup></al>
+      <al>Gloria<sup>*</sup>
+      </al>
+      <al>Marijke<sup>*</sup>
+      </al>
+      <al><sup>*</sup>Van deze rassen is bekend dat de veldresistentie minimaal 6 bedraagt. Een exact cijfer ontbreekt.</al><al>C 2.</al>
+      <al>5 Elkana</al>
+      <al>5 Estima</al>
+      <al>5 Karida</al>
+      <al>5 Kartel</al>
+      <al>5 Kuras</al>
+      <al>5 Markies</al>
+      <al>5 Obelix</al>
+      <al>5 Ottena</al>
+      <al>5 Picasso</al>
+      <al>5 Prior</al>
+      <al>5 Sirco</al>
+      <al>5 Sjamero</al>
+      <al>5 Victoria</al>
+    </bijlage>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">3</nr>
+      </kop>
+      <tussenkop>
+        <nadruk type="rom">A. Als gebied als bedoeld in artikel 2, derde lid, wordt aangewezen:</nadruk>
+      </tussenkop>
+      <al>De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de Zuid Willemsvaart. De Zuid Wiltemsvaart in noordelijke richting tot de kruising met de N 265 in Veghel. De N 265 in noordelijke richting tot Uden. De N 603 in noordelijke richting tot de A 50 in Heesch. De A 50 in noordelijke richting tot de kruising met de Maas. De Maas in oostelijke richting tot de kruising met de spoorbrug in Mook. Vanaf de spoorbrug de N 271 in zuidelijke richting tot de Schildersweg in Plasmolen. De Schildersweg in noordelijke richting tot de Bosweg langs Sint Jansberg. De Bosweg langs Sint Jansberg tot aan de grens met Duitsland. De grens met Duitsland in zuidelijke richting tot aan de A 67 in Venlo.</al>
+      <tussenkop>
+        <nadruk type="rom">B. Als rassen, als bedoeld in artikel 2, derde lid, worden aangewezen:</nadruk>
+      </tussenkop>
+      <al>ACCENT</al>
+      <al>ACRONET</al>
+      <al>ACTIVA</al>
+      <al>AGATA</al>
+      <al>AGRIA</al>
+      <al>AGRINOVA</al>
+      <al>AIKO</al><al>AJAX</al>
+      <al>AJIBA</al>
+      <al>AKIRA</al><al>ALBAS</al>
+      <al>ALBINO</al>
+      <al>ALCMARIA</al>
+      <al>ALDO</al><al>ALKON</al>
+      <al>ALLARD</al>
+      <al>ALLURE</al>
+      <al>ALPHA</al>
+      <al>ALWARA</al><al>AMADEUS</al>
+      <al>AMALIA</al><al>AMATI</al>
+      <al>AMAZONE</al>
+      <al>AMBRA</al>
+      <al>AMERA</al>
+      <al>AMIGO</al>
+      <al>AMINCA</al>
+      <al>AMORA</al>
+      <al>AMOROSA</al><al>AMYLA</al>
+      <al>ANDANTE</al><al>ANNABELLE</al><al>ANOSTA</al>
+      <al>APOLLONIA</al>
+      <al>APPASSIONATO</al>
+      <al>APRILIA</al><al>APRIORI</al>
+      <al>APROPOS</al>
+      <al>ARANKA</al>
+      <al>ARCADE</al>
+      <al>ARIELLE</al><al>ARISTO</al><al>ARKA</al>
+      <al>ARKULA</al>
+      <al>ARNO</al>
+      <al>ARRAN BANNER</al><al>ARROW</al><al>ARTEMIS</al>
+      <al>ASTARTE</al>
+      <al>ASTERIX</al>
+      <al>ATICA</al>
+      <al>ATILLO</al>
+      <al>ATRELA</al>
+      <al>ATSONA</al>
+      <al>AULA</al>
+      <al>AURORA</al>
+      <al>AVANTI</al>
+      <al>AVARNA</al><al>AVAYA</al><al>AVEKA</al><al>AVENANCE</al>
+              <al>AVERIA</al>
+              <al>AVIALA</al><al>BALDER</al>
+      <al>BALLADE</al>
+      <al>BALLYS</al>
+      <al>BARIMA</al>
+      <al>BARTINA</al>
+      <al>BEDALIN</al>
+      <al>BELITA</al>
+      <al>BELLEZA</al><al>BELLINDA</al><al>BELLINI</al>
+      <al>BENNO VRIZO</al>
+      <al>BERBER</al><al>BEVELANDER</al>
+      <al>BILDTSTAR</al>
+      <al>BIMONDA</al>
+      <al>BINELLA</al>
+      <al>BINGO</al>
+      <al>BIOGOLD</al><al>BLANKA</al>
+      <al>BOLERO</al>
+      <al>BOLESTA</al>
+      <al>BONELL</al>
+      <al>BONITA</al>
+      <al>BRIGHT</al>
+      <al>BRILJANT</al>
+      <al>BURMANIA</al>
+      <al>CAESAR</al>
+      <al>CALGARY</al>
+      <al>CALLA</al>
+      <al>CANTATE</al>
+      <al>CARDINAL</al>
+      <al>CARLITA</al>
+      <al>CAROLA</al>
+      <al>CECILE</al>
+      <al>CELINE</al><al>CERTO</al>
+      <al>CHARISMA</al>
+      <al>CHARMANTE</al>
+      <al>CHRISTA</al>
+      <al>CIVA</al>
+      <al>CLAUDIA</al>
+      <al>CLAUSTAR</al><al>CLEOPATRA</al><al>CLIMAX</al>
+      <al>CLIVIA</al>
+      <al>COLUMBUS</al>
+      <al>COMBI</al>
+      <al>CONCORDE</al>
+      <al>CONCURRENT</al>
+      <al>CORNADO</al>
+      <al>COSMOS</al>
+      <al>COSTELLA</al>
+      <al>COURAGE</al>
+      <al>CYCLOON</al>
+      <al>CYRANO</al><al>DAISY</al>
+      <al>DANI&#xCB;LLE</al>
+      <al>DANVA</al>
+      <al>DARWINA</al>
+      <al>DELCORA</al>
+      <al>DELIANNE</al><al>DELISTA</al>
+      <al>DERBY</al><al>D&#xC9;SIR&#xC9;E</al>
+      <al>DIAMANT</al>
+      <al>DIANA</al>
+      <al>DIDO</al><al>DINAMO</al>
+      <al>DINKY</al><al>DISCO</al>
+      <al>DITTA</al>
+      <al>DONALD</al>
+      <al>DONNA</al><al>DORADO</al>
+      <al>DOR&#xC9;</al>
+      <al>DRAGA</al>
+      <al>DROP</al>
+      <al>EBA</al>
+      <al>EDELSTEIN</al><al>EDZINA</al>
+      <al>EHUD</al>
+      <al>ELEMENT</al>
+      <al>ELKANA</al>
+      <al>ELLES</al>
+      <al>ELVIRA</al>
+      <al>EMPIRE</al>
+      <al>EOS</al><al>ERASMUS</al>
+      <al>ERNTESTOLZ</al>
+      <al>ESCORT</al>
+      <al>ESTIMA</al>
+      <al>EVELIN</al><al>EVITA</al><al>EXCELLENT</al>
+      <al>EXODUS</al>
+      <al>EXQUISA</al>
+      <al>FABULA</al>
+      <al>FAMBO</al>
+      <al>FAMOSA</al>
+      <al>FARMER</al>
+      <al>FAVORITA</al>
+      <al>FELSINA</al>
+      <al>FESKA</al>
+      <al>FESTIEN</al>
+      <al>FIANNA</al>
+      <al>FLAMENCO</al>
+      <al>FLOKY</al><al>FLORIDA</al><al>FLORIJN</al>
+      <al>FLORISSANT</al>
+      <al>FONTANE</al>
+      <al>FORELLE</al>
+      <al>FRANCA</al>
+      <al>FRESCO</al>
+      <al>FRIESLANDER</al>
+      <al>FURORE</al>
+      <al>GARANT</al><al>GIGANT</al>
+      <al>GLORIA</al>
+      <al>GOLDIKA</al>
+      <al>GOYA</al>
+      <al>GRATA</al>
+      <al>GUNDA</al><al>HANSA</al>
+      <al>HELA</al>
+      <al>HERCULES</al>
+      <al>HEROS</al><al>HERTHA</al>
+      <al>HOLDE</al>
+      <al>HOMMAGE</al><al>HORIZON</al><al>IDOLE</al>
+      <al>IMPALA</al>
+      <al>INDIRA</al>
+      <al>INKA</al>
+      <al>INNOVATOR</al>
+      <al>INOVA</al>
+      <al>IRENE</al>
+      <al>IRIDA</al><al>ISABEL</al><al>ISNA</al>
+      <al>JADY</al>
+      <al>JAERLA</al>
+      <al>JANINE</al><al>JANKE</al><al>JESSICA</al>
+      <al>JULIANE</al><al>JULIVER</al>
+      <al>JUNIOR</al>
+      <al>JUPITER</al><al>KALIBER</al>
+      <al>KANTARA</al>
+      <al>KARAKTER</al>
+      <al>KARDAL</al>
+      <al>KARDENT</al>
+      <al>KARIDA</al>
+      <al>KARNICO</al>
+      <al>KARTEL</al>
+      <al>KARUVA</al>
+      <al>KATINKA</al>
+      <al>KATJA</al>
+      <al>KONDOR</al>
+      <al>KOOPMANS BLAUWE</al>
+      <al>KRISTALLA</al>
+      <al>KROMETA</al>
+      <al>KROSTAR</al>
+      <al>KUBA</al><al>KURAS</al>
+      <al>KURODA</al>
+      <al>KUROLA</al>
+      <al>LABADIA</al><al>LADY CHRISTL</al>
+      <al>LADY CLAIRE</al>
+      <al>LADY FLORINA</al><al>LADY JO</al>
+      <al>LADY OLYMPIA</al>
+      <al>LADY ROSETTA</al>
+      <al>LAMIA</al>
+      <al>LANORMA</al><al>LARGA</al>
+      <al>LATONA</al>
+      <al>LEKKERLANDER</al>
+      <al>LEYLA</al>
+      <al>LIBERTAS</al>
+      <al>LIDO</al>
+      <al>LINNEA</al>
+      <al>LINZER DELIKATESS</al>
+      <al>LINZER GELBE</al>
+      <al>LINZER ROSE</al>
+      <al>LOGITA</al>
+      <al>LOLA</al>
+      <al>LOUISE</al>
+      <al>LUTETIA</al>
+      <al>LUXOR</al>
+      <al>LYDIA</al>
+      <al>LYRA</al>
+      <al>MADELEINE</al><al>MAJA</al>
+      <al>MAJESTIC</al>
+      <al>MANNA</al>
+      <al>MANSOUR</al>
+      <al>MARADONNA</al>
+      <al>MARANCA</al>
+      <al>MARCO POLO</al>
+      <al>MARFONA</al>
+      <al>MARGARITA</al><al>MARIJKE</al>
+      <al>MARLEN</al>
+      <al>MARKANT</al>
+      <al>MASCOTTE</al>
+      <al>MEERLANDER</al>
+      <al>MELANIE</al>
+      <al>MELODY</al>
+      <al>MENCO</al><al>MENTOR</al>
+      <al>MEPHYTHO</al>
+      <al>MERCATOR</al>
+      <al>MERCURY</al>
+      <al>MINERVA</al>
+      <al>MIRAKEL</al>
+      <al>MIRANDA</al><al>MIRIAM</al>
+      <al>MIRKA</al>
+      <al>MONALISA</al>
+      <al>MONDIAL</al>
+      <al>MONITOR</al>
+      <al>MONTANA</al>
+      <al>MOZART</al><al>MULTA</al>
+      <al>MURILLO</al>
+      <al>MUSTANG</al><al>NELSON</al><al>NEWTARZAN</al>
+      <al>NICOLA</al>
+      <al>NIKA</al>
+      <al>NIKITA</al>
+      <al>NO&#xCB;LLA</al>
+      <al>NOMADE</al>
+      <al>NOORDELING</al>
+      <al>NOVELLA</al><al>NOVITA</al><al>OBELIX</al>
+      <al>OCTAVIA</al><al>OLEVA</al>
+      <al>OLINDA</al>
+      <al>OMEGA</al><al>ORIGO</al>
+      <al>ORION</al><al>OSCAR</al>
+      <al>OSEKA</al>
+      <al>OSTARA</al>
+      <al>OTTENA</al>
+      <al>OVATIO</al>
+      <al>PALLAS</al>
+      <al>PALLINA</al><al>PALMA</al>
+      <al>PANDA</al><al>PANDORA</al>
+      <al>PAOLA</al>
+      <al>PAREL</al>
+      <al>PATRONES</al>
+      <al>PASHA</al><al>PENTA</al>
+      <al>PENTLAND DELL</al><al>PICASSO</al>
+      <al>PICCOLO</al><al>PIMPERNEL</al>
+      <al>PIROL</al><al>PLANTA</al>
+      <al>PLASINKA</al><al>PLATINA</al>
+      <al>PLENTY</al>
+      <al>PONTO</al>
+      <al>PREFECT</al>
+      <al>PREMIERE</al>
+      <al>PREMIUM</al><al>PRIMURA</al>
+      <al>PRIOR</al>
+      <al>PROBAAT</al>
+      <al>PROCURA</al>
+      <al>PRODUCENT</al>
+      <al>PROMESSE</al>
+      <al>PROMINENT</al>
+      <al>PROVENTO</al>
+      <al>PROVITA</al>
+      <al>PRUDENTA</al>
+      <al>QUARTA</al>
+      <al>QUINCY</al>
+      <al>RADOSA</al>
+      <al>RAISA</al>
+      <al>RAJA</al>
+      <al>RAMOS</al>
+      <al>RAPIDO</al>
+      <al>REALIST</al>
+      <al>REBECCA</al>
+      <al>RED FANTASY</al><al>RED ONE</al><al>RED SCARLETT</al><al>REDSTAR</al>
+      <al>REMARKA</al>
+      <al>REMBRANDT</al><al>RESONANT</al>
+      <al>RESY</al>
+      <al>REVELINO</al>
+      <al>REX</al>
+      <al>RIKEA</al>
+      <al>ROBINTA</al>
+      <al>RODEO</al>
+      <al>RODE PIPO</al>
+      <al>ROMANO</al>
+      <al>ROMINA</al>
+      <al>ROMULA</al>
+      <al>ROSANNA</al><al>ROSARA</al><al>ROSELLA</al>
+      <al>ROSITA</al><al>ROXY</al>
+      <al>RUBINIA</al>
+      <al>RUSSET BURBANK</al>
+      <al>RUSTICA</al>
+      <al>SALINE</al><al>SALOME</al>
+      <al>SANTANA</al>
+      <al>SANTE</al>
+      <al>SAPHIRE</al><al>SASKIA</al>
+      <al>SASSY</al><al>SATURNA</al>
+      <al>SAVA</al>
+      <al>SCARLET</al><al>SECURA</al>
+      <al>SEMENA</al>
+      <al>SENARIA</al>
+      <al>SENATOR</al>
+      <al>SENSOR</al>
+      <al>SERENADE</al><al>SERESTA</al>
+      <al>SHEIDA</al>
+      <al>SIEGLINDE</al>
+      <al>SIENTJE</al>
+      <al>SIGNAL</al>
+      <al>SIGNUM</al><al>SILVERSTER</al>
+      <al>SIMONE</al>
+      <al>SIMPLY RED</al><al>SIRCO</al>
+      <al>SIRIUS</al>
+      <al>SIROCCO</al>
+      <al>SIRTEMA</al>
+      <al>SJAMERO</al>
+      <al>SOFIA</al><al>SOLANDA</al>
+      <al>SOLARA</al>
+      <al>SOLIST</al><al>SOLTANA</al>
+      <al>SOMMERGOLD</al>
+      <al>SONATE</al>
+      <al>SOPHYTRA</al>
+      <al>SPARTAAN</al>
+      <al>SPIRIT</al><al>SPRINT</al><al>SPUNTA</al>
+      <al>STABILO</al>
+      <al>STARTER</al>
+      <al>STEFANO</al>
+      <al>STEMSTER</al>
+      <al>SURPRISE</al>
+      <al>TELLA</al>
+      <al>TEMPORA</al>
+      <al>TEXLA</al>
+      <al>THOMANA</al>
+      <al>TIMATE</al>
+      <al>TRIPLO</al><al>TRIUMPF</al><al>TURBO</al>
+      <al>UKAMA</al>
+      <al>ULME</al><al>ULSTER SCEPTRE</al><al>VALENTINA</al>
+      <al>VALETTA</al><al>VAN GOGH</al>
+      <al>VANESSA</al><al>VASKO</al><al>VEBEBE</al>
+      <al>VEBECA</al>
+      <al>VEBESTA</al>
+      <al>VECTRA</al><al>VELOKA</al>
+      <al>VENOUSKA</al>
+      <al>VERDI</al><al>VERONICA</al>
+      <al>VICTORIA</al>
+      <al>VIRGO</al><al>VISION</al><al>VITAL</al>
+      <al>VITESSE</al><al>VIVAKS</al>
+      <al>VULKANO</al>
+      <al>WILJA</al>
+      <al>WISENT</al><al>WOUDSTER</al>
+      <al>YVONNE</al>
+    <al>XANTIA</al></bijlage>
+  </regeling>
+</wetgeving>
+  	

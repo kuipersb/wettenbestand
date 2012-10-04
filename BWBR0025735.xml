@@ -1,0 +1,2230 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0025735" dtdversie="2.0" id="415829" soort="ministeriele-regeling">
+  
+  <intitule>Regeling houdende regels met betrekking tot een erkenning voor en
+    een keuringsbevoegdheid tot het uitvoeren van een algemene periodieke keuring
+    (Regeling erkenning en keuringsbevoegdheid APK)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Minister van Verkeer en Waterstaat,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op de <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=21" compleet="nee">artikelen 21</extref>, <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=22" compleet="nee">22</extref>, <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=83" compleet="nee">83,
+          vierde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=84" compleet="nee">84, eerste en tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=85a" compleet="nee">85a, vierde en vijfde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=86" compleet="nee">86, zesde en
+          zevende lid</extref>, <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=86a" compleet="nee">86a</extref>, <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=87a" compleet="nee">87a</extref>, <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=88" compleet="nee">88, tweede lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=111" compleet="nee">111, vierde lid, van de
+          Wegenverkeerswet 1994</extref> en <extref status="actief" doc="1.0:v:BWBR0004825&amp;artikel=60" compleet="nee">artikel 60, tweede lid, onderdeel c, van het RVV
+          1990</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Algemeen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>In deze regeling wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+            <li>
+              <al>
+                <nadruk type="cur">adviespunt:</nadruk> in het kader van een keuring geconstateerd te verwachten
+                  gebrek;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">afkeurpunt:</nadruk> in het kader van een keuring geconstateerd gebrek;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">anonieme keuring:</nadruk> keuring als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=86a" compleet="nee">artikel 86a van de wet</extref>;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">bevoegdheidspas:</nadruk> pas als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=85a" compleet="nee">artikel 85a van de wet</extref>;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">boekwerk &#x2018;Regelgeving APK&#x2019;:</nadruk> editie van het boekwerk &#x2018;Regelgeving Algemene Periodieke
+                  Keuring&#x2019; of de via de website van de
+Dienst Wegverkeer
+bekendgemaakte &#x2018;Regelgeving Algemene Periodieke Keuring&#x2019; die door de
+                  Dienst Wegverkeer is vastgesteld en geldig is op het moment van de
+                  keuring;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">controleapparaat:</nadruk> analoog of digitaal controleapparaat als bedoeld in bijlage
+                  Ia respectievelijk bijlage Ib van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening (EEG) nr. 3821/85</extref> van de Raad van
+                  20 december 1985 betreffende het controleapparaat in het wegvervoer (PbEG L
+                  370);</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">erkenning APK:</nadruk> een erkenning om keuringsrapporten af te geven voor
+                  motorrijtuigen en aanhangwagens, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=83" compleet="nee">artikel 83 van de wet</extref>;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">erkenninghouder:</nadruk> houder van een erkenning als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=83" compleet="nee">artikel 83 van de
+                  wet</extref>;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">inrichting:</nadruk> een bedrijf of bedrijven waarin een mobiele keuringseenheid
+                  gerechtigd is keuringen uit te voeren;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">kalibreren:</nadruk> verrichten van handelingen die nodig zijn voor het bepalen
+                  van de waarden van de afwijking van een meetmiddel ten opzichte van een
+                  overeengekomen standaard, alsmede justeren indien de afwijking groter is dan is
+                  toegestaan;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">keuring:</nadruk> periodieke keuring als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=75" compleet="nee">artikel 75 van de
+                  wet</extref>;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">keuringseisen:</nadruk> op de desbetreffende voertuigcategorie toepasselijke
+                  permanente eisen in de <extref status="actief" doc="1.0:v:BWBR0025798" compleet="nee">Regeling voertuigen</extref>;</al>
+            </li>
+            <li>
+                           <al>
+                              <nadruk type="cur">keuringsinstelling:</nadruk> keuringsinstelling
+als bedoeld in <extref status="actief" doc="1.0:v:BWBR0025798&amp;artikel=8.1.1" compleet="nee">artikel 8.1.1 van de Regeling
+voertuigen</extref>;</al>
+                        </li><li>
+              <al>
+                <nadruk type="cur">keuringsplaats:</nadruk> een perceel of enkele kadastraal aangrenzende percelen
+                  waarop een erkenninghouder als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=83" compleet="nee">artikel 83 van de wet</extref> de keuring
+                  verricht en waarbij de keuringsruimte kan bestaan uit &#xE9;&#xE9;n of meer besloten
+                  ruimten gelegen in &#xE9;&#xE9;n gebouw, dan wel in verscheidene belendende of nagenoeg
+                  belendende gebouwen, bedoeld om deel uit te maken van een keuringsplaats;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">keurmeester:</nadruk> degene aan wie de bevoegdheid is verleend voertuigen aan
+                  een keuring te onderwerpen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=85a" compleet="nee">artikel 85a van de wet</extref>;</al>
+            </li>
+            
+            <li>
+              <al>
+                <nadruk type="cur">mobiele keuringseenheid:</nadruk> een keuringseenheid waarmee een erkenninghouder niet steeds
+                  in dezelfde inrichting, maar afwisselend in ten minste drie verschillende
+                  inrichtingen handelingen in het kader van periodieke keuringen mag
+                  verrichten;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">onderzoeksgerechtigde:</nadruk> erkende onderneming of instelling als bedoeld in <extref status="actief" doc="1.0:v:BWBR0025798&amp;artikel=8.1.1" compleet="nee">artikel
+                  8.1.1 van de Regeling voertuigen</extref>;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">reparatiepunt:</nadruk> in het kader van een keuring gerepareerd gebrek;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">reparatieadviespunt:</nadruk> in het kader van een keuring geconstateerd gebrek ten
+                  aanzien van de controlepunten opgenomen in <intref status="actief" doc="1.0:v:BWBR0025735&amp;bijlage=1">bijlage 1</intref>;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">steekproef:</nadruk> de steekproefsgewijze herkeuring als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=86" compleet="nee">artikel 86
+                  van de wet</extref>;</al>
+            </li>
+            <li>
+              <al>
+                <nadruk type="cur">wet:</nadruk> <extref status="actief" doc="1.0:v:BWBR0006622" compleet="nee">Wegenverkeerswet 1994</extref>.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <al>De eisen en voorschriften genoemd in deze regeling zijn van
+            toepassing op een vaste keuringsplaats dan wel een mobiele keuringseenheid,
+            tenzij anders bepaald.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Aanvraag erkenning</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <al>De aanvraag van een erkenning wordt met inachtneming van de door
+            de Dienst Wegverkeer vastgestelde voorschriften ingediend bij de Dienst
+            Wegverkeer.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een erkenning APK kan worden verleend aan een natuurlijk
+              persoon of rechtspersoon voor:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>&#xE9;&#xE9;n of meer in Nederland gevestigde keuringsplaatsen;
+                  of</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>&#xE9;&#xE9;n of meer in Nederland op naam van de aanvrager
+                  geregistreerde mobiele keuringseenheden.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een erkenning APK kan op aanvraag worden verleend indien wordt
+              voldaan aan de in <intref status="actief" doc="1.0:v:BWBR0025735&amp;hoofdstuk=3">hoofdstuk 3</intref> gestelde erkenningseisen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <al>Indien aan de aanvrager van een erkenning APK, al eerder een
+            erkenning is verleend, doch deze op grond van <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=87" compleet="nee">artikel 87 van de wet</extref> is
+            ingetrokken, kan, onverminderd het bepaalde in <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=84" compleet="nee">artikel 84, derde lid, van de
+            wet</extref>, door de Dienst Wegverkeer worden bepaald dat van onderdelen van aanvraag
+            voorschriften als bedoeld in <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=3">artikel 3</intref> kan worden afgeweken.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Indien de aanvrager van een erkenning APK exploitant is van een
+              keurings- of onderhoudsdienst voor het eigen wagenpark, kan de erkenning op
+              verzoek van de aanvrager worden beperkt tot dat eigen wagenpark.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien de erkenning wordt verleend voor het eigen wagenpark en
+              een andere rechtspersoon of andere rechtspersonen in een zodanig verband tot de
+              erkenninghouder staan dat er sprake is van &#xE9;&#xE9;n economische eenheid, kunnen alle
+              voertuigen van de desbetreffende economische eenheid worden beschouwd als
+              voertuigen van het eigen wagenpark.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Indien de erkenning wordt verleend voor het eigen wagenpark en
+              een andere rechtspersoon of andere rechtspersonen in een zodanig verband tot de
+              erkenninghouder staat of staan dat er sprake is van &#xE9;&#xE9;n economische eenheid,
+              doet de exploitant onder opgave van de naam en het adres van die rechtspersoon
+              of rechtspersonen, terstond na de verlening van de erkenning schriftelijk
+              opgave hiervan aan de Dienst Wegverkeer. Het verband moet ten genoege van de
+              Dienst Wegverkeer worden aangetoond door middel van een uittreksel uit het
+              register van de Kamer van Koophandel of een accountantsverklaring.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Gezamenlijk gebruik van een keuringsplaats, een mobiele keuringseenheid of een inrichting door meerdere erkenninghouders is niet toegestaan.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <al>Indien de erkenning voor de betrokken keuringsplaats wordt
+            aangevraagd, is in deze keuringsplaats tenminste &#xE9;&#xE9;n keurmeester werkzaam die
+            bevoegd is de voertuigen aan een keuring te onderwerpen.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Erkenningseisen</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Gebouw en uitrusting</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">8</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De keuringsruimte is overdekt, behoorlijk af te sluiten, goed
+                verlicht en voorzien van verwarming.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De keuringsruimte heeft zodanige afmetingen en is zodanig
+                ingericht dat de voertuigen die behoren tot de groep waarvoor de erkenning voor
+                de betrokken keuringsplaats wordt aangevraagd, in deze ruimte zodanig kunnen
+                worden opgesteld dat zij van alle zijden goed toegankelijk zijn.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>In de keuringsruimte:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>bestemd voor het keuren van motorrijtuigen met een
+                    verbrandingsmotor met een elektrische ontsteking, is een voorziening aanwezig
+                    waarmee uitlaatgassen direct door een daartoe bestemde opening naar buiten
+                    kunnen worden gevoerd;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>bestemd voor het keuren van motorrijtuigen met een
+                    verbrandingsmotor met compressie-ontsteking, is een voorziening aanwezig die
+                    bestaat uit:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                      <li.nr>1&#xB0;.</li.nr>
+                      <al>een afzuigventilator met voldoende capaciteit voor de
+                        te keuren voertuigen;</al>
+                    </li>
+                    <li>
+                      <li.nr>2&#xB0;.</li.nr>
+                      <al>een afvoersysteem dat voorkomt dat uitlaatgassen in
+                        de werkplaats terecht kunnen komen;</al>
+                    </li>
+                    <li>
+                      <li.nr>3&#xB0;.</li.nr>
+                      <al>een systeem dat ervoor zorgt dat de uitlaatgassen die
+                        door de roetmeter gaan eveneens worden afgevoerd, en</al>
+                    </li>
+                    <li>
+                      <li.nr>4&#xB0;.</li.nr>
+                      <al>afvoerkanalen die bovenstaande onderdelen met elkaar
+                        verbinden waardoor de uitlaatgassen direct naar buiten worden afgevoerd.</al>
+                    </li>
+                  </lijst>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>In de keuringsruimte kan de administratie van de keuringen
+                behoorlijk worden uitgevoerd. Tevens is er een afsluitbare kast of bureaulade
+                dan wel een gelijkwaardige voorziening aanwezig, waarin de bescheiden, bedoeld
+                in <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=18">artikel 18</intref> en de documentatie kunnen worden opgeborgen.</al>
+            </lid>
+            <lid>
+                        <lidnr status="officieel">5</lidnr>
+                        <al>In
+de keuringsruimte is een voorziening aanwezig, geschikt voor het
+gebruik van datacommunicatie. Deze voorziening bestaat uit een computer
+of terminal met een modem, geschikt voor de toegangsstructuur van door
+de Dienst Wegverkeer geaccepteerde netwerken. Tevens is een voorziening
+aanwezig, geschikt voor aansluiting op de datacommunicatie, ten behoeve
+van het afdrukken van
+keuringsrapporten.</al>
+                     </lid>
+            
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">9</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>In de keuringsruimte is een doelmatige inspectieput of
+                hefinrichting aanwezig die geschikt is voor de groep voertuigen waarvoor de
+                erkenning voor de betrokken keuringsplaats wordt aangevraagd en die is voorzien
+                van een doelmatige verlichting. Wanneer niet duidelijk blijkt wat het
+                draagvermogen van een hefinrichting is, wordt hiervoor door de fabrikant of een
+                onafhankelijk instituut een verklaring overgelegd. Het draagvermogen wordt
+                zichtbaar op de hefinrichting aangebracht.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De inspectieput en de hefinrichting zijn zodanig uitgevoerd
+                dat de keurmeester in staat is de onderkant van een voertuig nagenoeg over de
+                hele lengte rechtopstaand te inspecteren, hetgeen betekent dat wanneer de
+                erkenning wordt aangevraagd voor:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>voertuigen waarvan de toegestane maximummassa meer
+                    bedraagt dan 3500&#xA0;kg, de hefinrichting een hefhoogte heeft van ten minste
+                    1,35&#xA0;m;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>voertuigen waarvan de toegestane maximummassa meer
+                    bedraagt dan 3500&#xA0;kg, de inspectieput een diepte heeft van ten minste
+                    1,35&#xA0;m;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>voertuigen waarvan de toegestane maximummassa niet meer
+                    bedraagt dan 3500&#xA0;kg, de hefinrichting een hefhoogte heeft van ten minste
+                    1,65&#xA0;m;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>voertuigen waarvan de toegestane maximummassa niet meer
+                    bedraagt dan 3500&#xA0;kg, de inspectieput een diepte heeft van ten minste
+                    1,55&#xA0;m.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De hefinrichting kan ten minste vier wielen van het voertuig
+                ondersteunen. Een met steunpoten gecombineerde hefinrichting voldoet niet aan
+                deze eis.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>In geval van een aanvraag van een erkenning voor de keuring
+                van motorrijtuigen is ten behoeve van de controle van de afstelling van de
+                koplampen met behulp van een koplamptestapparaat een voorziening aanwezig die
+                bestaat uit:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>een vlakke vloer van voldoende afmetingen of een
+                    hefinrichting, waarop gelijktijdig zowel het te keuren voertuig als het
+                    koplamptestapparaat kan worden geplaatst, of</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>een vlakke vloer of rails, gelegen voor de hefinrichting,
+                    waarop het koplamptestapparaat kan worden geplaatst, waarbij deze vloer of
+                    rails in een vlak moet zijn gelegen gelijk of evenwijdig aan de rijplaten van
+                    de hefinrichting.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>De hefinrichting moet deugdelijk zijn en in een goede staat
+                van onderhoud verkeren.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">10</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Met de mobiele keuringseenheden mogen keuringen worden
+                verricht in erkende keuringsplaatsen waarvan de erkenning niet is ingetrokken
+                of in afzonderlijke inrichtingen, indien die aan de desbetreffende eisen van de
+                <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=8">artikelen 8</intref> en <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=9">9</intref> voldoen en mits deze op het erkenningsbesluit van de betrokken
+                mobiele keuringseenheid zijn vermeld.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Indien de ruimte, bedoeld in <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=8">artikel 8, vierde lid</intref>, niet
+                aanwezig is, mag de administratie van de keuringen in de mobiele
+                keuringseenheid worden uitgevoerd. Tevens is er in de mobiele keuringseenheid
+                een afsluitbare kast of bureaulade dan wel een gelijkwaardige voorziening
+                aanwezig, waarin de bescheiden, bedoeld in <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=18">artikel 18</intref> en de documentatie kunnen
+                worden opgeborgen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>In de mobiele keuringseenheid is de voorziening voor het
+                afvoeren van uitlaatgassen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=8">artikel 8, derde lid</intref>, aanwezig, wanneer
+                deze in de in het eerste lid bedoelde keuringsplaats of inrichting niet
+                beschikbaar is.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Apparatuur keuringsruimte</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">11</nr>
+            </kop>
+            <al>In de keuringsruimte is de volgende apparatuur aanwezig:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>een doelmatige krik die voldoende draagvermogen heeft om
+                  van de voertuigen van de groep waarvoor de erkenning voor de betrokken
+                  keuringsplaats wordt aangevraagd, de wielen van de voorste as gelijktijdig en
+                  de wielen van de achterste as afzonderlijk op zodanige wijze te kunnen heffen,
+                  dat deze vrij kunnen draaien;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>een dubbel ge&#xEF;soleerde veiligheidslooplamp dan wel een
+                  zaklantaarn, al dan niet voorzien van een oplaadbare accu, die enerzijds een
+                  zodanige lichtsterkte heeft dat ook moeilijk bereikbare onderdelen van een
+                  voertuig voldoende helder kunnen worden verlicht om een nauwkeurige inspectie
+                  van een voertuig mogelijk te maken en die anderzijds zodanig is afgeschermd dat
+                  degene die de keuring uitvoert niet door het uitgestraalde licht wordt
+                  verblind;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>een meetband met een minimale nauwkeurigheidsklasse III van
+                  ten minste 12,00 m, indien de erkenning wordt aangevraagd voor voertuigen
+                  waarvan de toegestane maximummassa niet meer bedraagt dan 3500&#xA0;kg. Indien het
+                  een erkenning betreft voor voertuigen waarvan de toegestane maximummassa meer
+                  bedraagt dan 3500&#xA0;kg is de meetband ten minste 20,00&#xA0;m. Bij erkenningen met een
+                  beperking voor de voertuiglengte heeft de meetband tenminste dezelfde lengte
+                  als de toegestane voertuiglengte;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>een doelmatige schuifmaat die is voorzien van een meetstift
+                  voor dieptemeting;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>basisgereedschap voor de controle op het vastzitten van
+                  nagels en bouten en andere verbindingen, te weten een set steek- en
+                  ringsleutels, schroevendraaiers en een hamer, alsmede een bolkophamertje voor
+                  de controle op corrosie;</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>een doelmatige bandenspanningsmeter en een doelmatige
+                  bandenpomp;</al>
+              </li>
+              <li>
+                <li.nr>g.</li.nr>
+                <al>hulpmiddelen om speling in voertuigonderdelen zichtbaar te
+                  maken, zoals een bandijzer, wielbewegingsapparaat of een koevoet;</al>
+              </li>
+              <li>
+                <li.nr>h.</li.nr>
+                <al>een rollenremtestbank,
+platenremtestbank of remvertragingsmeter, die
+                  voldoet aan de in <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=13">artikel 13</intref> gestelde eisen. Indien een erkenning wordt
+                  aangevraagd voor voertuigen met een toegestane maximummassa van meer dan 3500
+                  kg is in elk geval een rollenremtestbank aanwezig. Het draagvermogen van een
+                  rollenremtestbank of platenremtestbank is voldoende voor de groep voertuigen
+                  waarvoor de erkenning voor de betrokken keuringsplaats wordt aangevraagd;</al>
+              </li>
+            <li>
+                           <li.nr>i.</li.nr>
+                           <al>een
+doelmatige bandenprofieldieptemeter, met verende meetstift en een
+meetnauwkeurigheid van 0,1
+mm.</al>
+                        </li></lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">12</nr>
+            </kop>
+            <al>Naast de in <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=11">artikel 11</intref> genoemde apparatuur is, afhankelijk van
+              de groep voertuigen waarvoor de erkenning voor de betrokken keuringsplaats
+              wordt aangevraagd, tevens de volgende apparatuur aanwezig die voldoet aan de in
+              <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=13">artikel 13</intref> gestelde eisen:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>in geval van een aanvraag voor een erkenning voor
+                  motorrijtuigen:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;</li.nr>
+                    <al>een koplamptestapparaat;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;</li.nr>
+                    <al>een pedaalkrachtmeter; deze is niet verplicht in geval
+                      van een v&#xF3;&#xF3;r 1&#xA0;maart 2000 afgegeven erkenning voor het eigen wagenpark en in geval van een
+erkenning die uitsluitend geldt voor
+                      het keuren van voertuigen die zijn voorzien van een druklucht-remsysteem;</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;</li.nr>
+                    <al>een universele toerenteller;</al>
+                  </li>
+                  <li>
+                    <li.nr>4&#xB0;</li.nr>
+                    <al>een hulpstuk waarmee de speling op de sluiting van 2
+                      inch koppelingsschotels meetbaar gemaakt kan worden;</al>
+                  </li>
+                </lijst>
+              </li>
+              
+              <li>
+                <li.nr>b.</li.nr>
+                <al>in geval van een aanvraag voor een erkenning voor
+                  voertuigen waarvan de toegestane maximummassa meer bedraagt dan 3500&#xA0;kg:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>twee manometers met slangen en aansluitstukken voor
+                      drukmeetpunten alsmede aansluitkoppen voor aanhangwagenremsystemen, waarmee de
+                      druk in drukluchtremsystemen en in gasveersystemen kan worden gemeten;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>een stalen rei met een lengte van ten minste
+                      0,90&#xA0;m;</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>in geval van een aanvraag voor een erkenning voor
+                  motorrijtuigen met een verbrandingsmotor met compressie-ontsteking: een
+                  roetmeter en olietemperatuurmeter;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>in geval van een aanvraag voor een erkenning voor
+                  motorrijtuigen die
+                  zijn voorzien van een verbrandingsmotor met elektrische ontsteking: een
+                  uitlaatgastester met lambda-bepaling;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>in
+geval van een aanvraag voor een erkenning voor motorrijtuigen waarvan
+de toegestane maximummassa niet meer bedraagt dan 3500 kg: een
+uitleesapparaat ten behoeve van het uitlezen van het emissiegerelateerd
+diagnostisch
+boordsysteem.</al>
+              </li>
+            </lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">13</nr>
+            </kop>
+            <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Ten
+aanzien van roetmeters, manometers, pedaalkrachtmeters,
+remvertragingsmeters, rollenremtestbanken, platenremtestbanken en
+uitlaatgastesters met lambda-bepaling, beschikt de aanvrager van een
+erkenning
+over:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>een
+geldig certificaat van eerste keuring als bedoeld in <extref status="actief" doc="1.0:v:BWBR0025798&amp;artikel=8.1.1" compleet="nee">artikel 8.1.1 van
+de Regeling voertuigen</extref> dan wel, in geval van uitlaatgasters met
+lambda-bepaling, de documenten als bedoeld in <extref status="actief" doc="1.0:v:BWBR0025798&amp;artikel=8.1.4" compleet="nee">artikel 8.1.4, onder b,
+van de Regeling voertuigen</extref>; of</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>een
+geldig certificaat van herkeuring als bedoeld in <extref status="actief" doc="1.0:v:BWBR0025798&amp;artikel=8.1.1" compleet="nee">artikel 8.1.1 van de
+Regeling voertuigen</extref> dan wel, in geval van uitlaatgasters met
+lambda-bepaling, een geldig certificaat van herkeuring als bedoeld in
+artikel 8.1.1 van de Regeling voertuigen indien de documenten als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0025798&amp;artikel=8.1.4" compleet="nee">artikel 8.1.4, onder b, van de Regeling voertuigen</extref> langer
+dan twaalf maanden geleden zijn
+afgegeven.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+            <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Het
+certificaat van eerste keuring en het certificaat van herkeuring zijn
+afgegeven door een keuringsinstelling dan wel een
+onderzoeksgerechtigde.</al>
+                     </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Ten aanzien van de in het eerste lid genoemde meetmiddelen
+                beschikt de aanvrager van een erkenning over een handleiding in de Nederlandse
+                taal als bedoeld in <extref status="actief" doc="1.0:v:BWBR0025798&amp;artikel=8.3.6" compleet="nee">artikel 8.3.6 van de Regeling voertuigen</extref>.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Een koplamptestapparaat voldoet aan artikel <extref status="actief" doc="1.0:v:BWBR0025798&amp;artikel=8.4.110" compleet="nee">8.4.110 van de
+                Regeling voertuigen</extref> en is voorzien
+van een handleiding in de Nederlandse taal, waarin ten minste vermeld
+is een procedure voor het gebruik van het
+koplamptestapparaat.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>De in <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=8">artikel 8, derde lid, onderdeel a</intref>, bedoelde
+                afzuiginstallatie ten behoeve van de roetmeting is voorzien van een
+                goedkeuring, afgegeven door een keuringsinstelling.</al>
+            </lid>
+          <lid>
+                        <lidnr status="officieel">6</lidnr>
+                        <al>Een
+niet in de roetmeter ge&#xEF;ntegreerde toerenteller voldoet aan
+<extref status="actief" doc="1.0:v:BWBR0025798&amp;artikel=8.4.15" compleet="nee">artikelen 8.4.15</extref> en <extref status="actief" doc="1.0:v:BWBR0025798&amp;artikel=8.4.16" compleet="nee">8.4.16 van de Regeling voertuigen</extref> en is voorzien
+van:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>een
+CE-markering met een aanvullende metrologische markering,
+en</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>een handleiding in de Nederlandse
+taal, waarin tenminste vermeld is een procedure voor het gebruik van de
+toerenteller.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">7</lidnr>
+                        <al>Een
+olietemperatuurmeter voldoet aan <extref status="actief" doc="1.0:v:BWBR0025798&amp;artikel=8.4.20" compleet="nee">artikelen 8.4.20</extref>, <extref status="actief" doc="1.0:v:BWBR0025798&amp;artikel=8.4.21" compleet="nee">8.4.21</extref> en <extref status="actief" doc="1.0:v:BWBR0025798&amp;artikel=8.4.22" compleet="nee">8.4.22 van
+de Regeling voertuigen</extref> en is voorzien
+van:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>een
+CE-markering met een aanvullende metrologische markering, voor zover
+het een elektronische olietemperatuurmeter betreft,
+en</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>een handleiding in de Nederlandse
+taal, waarin tenminste vermeld is een procedure voor het gebruik van de
+olietemperatuurmeter.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">8</lidnr>
+                        <al>Een
+uitleesapparaat ten behoeve van het uitlezen van het emissiegerelateerd
+diagnostisch boordsysteem
+moet:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>over
+een ISO-15031-3 connector (16-polige stekker)
+beschikken;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>kunnen communiceren met
+het in het voertuig aanwezige emissiegerelateerd diagnostisch
+boordsysteem en minimaal de modus 03
+ondersteunen;</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>de volgende protocollen
+ondersteunen:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>&#x2013;</li.nr>
+                                    <al>ISO
+9141-2,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>&#x2013;</li.nr>
+                                    <al>ISO/DIS 11519-4 PWM dan
+wel SAE J1850 PWM,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>&#x2013;</li.nr>
+                                    <al>ISO/DIS
+11519-4 VPW dan wel SAE J1850
+VPW,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>&#x2013;</li.nr>
+                                    <al>ISO/DIS 14230-4,
+en</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>&#x2013;</li.nr>
+                                    <al>ISO/DIS
+15765-4;</al>
+                                 </li>
+                              </lijst>
+                           </li>
+                           <li>
+                              <li.nr>d.</li.nr>
+                              <al>de status van
+de in het voertuig aanwezige waarschuwingsinrichting (MIL) kunnen
+weergeven;</al>
+                           </li>
+                           <li>
+                              <li.nr>e.</li.nr>
+                              <al>de status van de
+readiness-test kunnen weergeven;</al>
+                           </li>
+                           <li>
+                              <li.nr>f.</li.nr>
+                              <al>de
+aanwezige fouten in de in ISO 15031-6 vastgestelde codering kunnen
+weergeven;</al>
+                           </li>
+                           <li>
+                              <li.nr>g.</li.nr>
+                              <al>voorzien zijn van
+CE-markering;</al>
+                           </li>
+                           <li>
+                              <li.nr>h.</li.nr>
+                              <al>voorzien zijn van een
+handleiding in de Nederlandse taal waarin ook de ondersteunde
+communicatieprotocollen zijn beschreven. Indien de
+communicatieprotocollen niet zijn beschreven in de handleiding mogen
+deze zijn beschreven in een bij het uitleesapparaat behorende
+fabrikantenverklaring.</al>
+                           </li>
+                        </lijst>
+                     </lid></artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">14</nr>
+            </kop>
+            <al>De apparatuur, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=11">artikelen 11</intref> en <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=12">12</intref>, is deugdelijk
+              en verkeert in een goede staat van onderhoud.</al>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Algemene erkenningsvoorschriften</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Inrichting</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">15</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Vanaf de buitenkant van elke keuringsplaats waarvoor de
+                erkenning geldt, is op een door de Dienst Wegverkeer vastgestelde en in de
+                Staatscourant bekendgemaakte wijze zichtbaar dat de erkenning is verleend. Deze
+                eis geldt niet voor keuringsplaatsen waarvan in het erkenningsbesluit is
+                vastgelegd dat de erkenning alleen geldt voor voertuigen die behoren tot het
+                eigen wagenpark.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>In elke keuringsplaats waarvoor de erkenning geldt, is het
+                door de Dienst Wegverkeer afgegeven bewijs aanwezig waaruit blijkt dat voor de
+                keuringsplaats een erkenning is verleend en voor welke groep voertuigen de
+                erkenning voor de keuringsplaats geldt.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Bij elke mobiele keuringseenheid waarvoor de erkenning geldt,
+                is het door de Dienst Wegverkeer afgegeven bewijs aanwezig waaruit blijkt dat
+                voor de eenheid een erkenning is verleend, voor welke groep voertuigen de
+                erkenning voor de eenheid geldt en in welke inrichtingen de keuringen mogen
+                plaatsvinden.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Op verzoek van de aanvrager van een keuringsrapport wordt het
+                in het tweede en derde lid bedoelde bewijs ter inzage gegeven.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">16</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De keuringsplaatsen blijven voortdurend voldoen aan de eisen,
+                gesteld in de artikelen <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=8">artikel 8</intref>, <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=9">9</intref>, <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=11">11</intref>, <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=12">12</intref>, <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=13">13</intref> en <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=14">14</intref>.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De mobiele keuringseenheden, alsmede de inrichtingen of
+                keuringsplaatsen waarin met een mobiele keuringseenheid keuringen mogen worden
+                verricht blijven voortdurend voldoen aan de eisen, gesteld in de <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=9">artikelen 9</intref>, <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=10">10</intref>, <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=11">11</intref>, <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=12">12</intref>, <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=13">13</intref> en <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=14">14</intref>.</al>
+            </lid>
+            
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>In afwijking van het eerste en tweede lid geldt voor
+                erkenningen verleend voor 1&#xA0;mei 2010 dat tot 1&#xA0;mei 2014 voor het meten van de
+                remvertraging van een voertuig gebruik kan worden gemaakt van een
+                remvertragingsmeter die voldoet aan de in <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=17">artikel 17</intref> gestelde eisen. Indien een
+                erkenning wordt aangevraagd voor voertuigen met een toegestane maximummassa van
+                meer dan 3500&#xA0;kg is in elk geval een rollenremtestbank aanwezig. Het
+                draagvermogen van een rollenremtestbank of platenremtestbank is voldoende voor
+                de groep voertuigen waarvoor de erkenning voor de betrokken keuringsplaats
+                wordt aangevraagd.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">17</nr>
+            </kop>
+            <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Ten
+aanzien van roetmeters, toerentellers, olietemperatuurmeters,
+manometers, pedaalkrachtmeters, remvertragingsmeters,
+rollenremtestbanken, platenremtestbanken, uitlaatgastesters met
+lambda-bepaling en uitleesapparaten ten behoeve van het uitlezen van
+het emissiegerelateerd diagnostisch boordsysteem zijn steeds aanwezig
+de documenten en markeringen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=13">artikel 13</intref> van deze
+regeling.</al>
+                     </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Ten aanzien van de in <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=8">artikel 8, derde lid, onderdeel a</intref>,
+                bedoelde afzuiginstallatie ten behoeve van de roetmeting is steeds een geldig
+                certificaat van goedkeuring aanwezig.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Na verwijdering van de rollenremtestbank of de
+                platenremtestbank van zijn fundering waaraan hij was bevestigd teneinde te
+                worden herplaatst op dezelfde plaats of een andere plaats, wordt wederom een
+                certificaat van eerste keuring dan wel herkeuring afgegeven en is de
+                verzegeling aan de fundering aangebracht.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Na verplaatsing van de nulemissie-eenheid naar een andere
+                keuringsplaats, moet wederom een certificaat van eerste keuring, dan wel
+                herkeuring worden afgegeven.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>Wijzigingen ten aanzien van de in het eerste en tweede lid
+                genoemde apparatuur en ten aanzien van de afgifte van een certificaat van
+                herkeuring of goedkeuring worden via de datacommunicatie terstond gemeld aan de
+                Dienst Wegverkeer.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Voorschriften administratie en bescheiden</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">18</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De volgende bescheiden worden goed geordend ten minste 2
+jaar bewaard:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>foutief ingevulde of onbruikbaar geworden
+                    keuringsrapporten;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de doorslag van het steekproefcontrolerapport.</al>
+                </li>
+              </lijst>
+              <al>Op de onder a en
+b genoemde bescheiden worden geen
+                wijzigingen aangebracht.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Gedurende de in het eerste lid bedoelde termijn worden de
+                genoemde bescheiden en de controlelijsten desgevraagd onverwijld aan een
+                functionaris van de Dienst Wegverkeer ter inzage gegeven of ter inzage
+                opgestuurd.</al>
+            </lid>
+            
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De erkenninghouder draagt er zorg voor dat de aan hem ten
+                behoeve van datacommunicatie verstrekte code niet toegankelijk is voor
+                onbevoegden.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Het boekwerk &#x2018;Regelgeving APK&#x2019; alsmede de vereiste
+                certificaten en handleidingen zijn goed geordend aanwezig.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>De erkenninghouder vermeldt op de factuur bij afgifte van een
+                keuringsrapport het door hem in gevolge van <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=86" compleet="nee">artikel 86, zesde lid, van de wet</extref>
+                aan de Dienst Wegverkeer verschuldigde tarief.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">Wijzigingen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">19</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Indien zich wijzigingen voordoen in de samenstelling van de
+                economische eenheid als bedoeld in <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=6">artikel 6</intref> worden deze door de
+                erkenninghouder schriftelijk aan de Dienst Wegverkeer gemeld.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Indien zich een wijziging voordoet van de natuurlijke
+                persoon, de rechtspersoon of de rechtsvorm, zijn zowel de natuurlijke persoon
+                of rechtspersoon aan wie de erkenning oorspronkelijk was verleend, als degene
+                die de bedrijfsvoering voortzet, verplicht de Dienst Wegverkeer hiervan zo
+                spoedig mogelijk schriftelijk in kennis te stellen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Indien als gevolg van een wijziging als bedoeld in het
+                voorgaande lid de bedrijfsvoering van de natuurlijke persoon, de rechtspersoon
+                of de rechtsvorm waaraan een erkenning APK, is verleend, wordt voortgezet door
+                een andere natuurlijke persoon of rechtspersoon, worden de toegekende bonus- en
+                strafpunten van het systeem als bedoeld in <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=37">artikel 37</intref> beschouwd als te zijn
+                toegekend aan deze natuurlijke persoon of rechtspersoon.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Indien als gevolg van een wijziging als bedoeld in het tweede
+                lid de bedrijfsvoering van de natuurlijke persoon, de rechtspersoon of de
+                rechtsvorm waaraan een erkenning APK is verleend, wordt voortgezet door een
+                andere natuurlijke persoon of rechtspersoon, worden de opgelegde sancties
+                beschouwd als te zijn toegekend aan deze natuurlijke persoon of
+                rechtspersoon.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Keuringsbevoegdheden</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Keuringsbevoegdheden en aanvraag keuringsbevoegdheid</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">20</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De bevoegdheid voertuigen met een toegestane maximummassa
+                hoger dan 3.500&#xA0;kg dan wel voertuigen met een toegestane maximummassa niet
+                hoger dan 3.500&#xA0;kg aan een keuring te onderwerpen kan worden verleend aan een
+                natuurlijk persoon die in het bezit is van een, mede door een door de Dienst
+                Wegverkeer aangewezen gecommitteerde ondertekend, diploma keurmeester
+                periodieke keuring zware (bedrijfs)voertuigen respectievelijk diploma
+                keurmeester periodieke keuring lichte voertuigen dat is afgegeven door de Stichting
+VAM, nadat het examen met goed gevolg
+                bij deze instelling is afgelegd.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De Dienst Wegverkeer bepaalt aan welke voorwaarden wordt
+                voldaan alvorens deelgenomen kan worden aan het examen keurmeester periodieke
+                keuring zware (bedrijfs)voertuigen of examen keurmeester periodieke keuring
+                lichte voertuigen. Deze voorwaarden worden in de Staatscourant
+                bekendgemaakt.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Het examen wordt afgenomen overeenkomstig een door de Stichting
+VAM vastgesteld en door de Dienst
+                Wegverkeer goedgekeurd reglement.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">21</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Ten bewijze van de bevoegdheid voertuigen aan een keuring te
+                onderwerpen wordt aan de keurmeester een bevoegdheidspas overeenkomstig een
+                door de Dienst Wegverkeer vastgesteld model verstrekt. Op de bevoegdheidspas
+                worden ten minste het pasnummer, het diplomanummer en de groep van voertuigen
+                genoemd waarvoor de bevoegdheid voertuigen aan een keuring te onderwerpen geldt
+                alsmede de geldigheidsduur van de pas.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Ten behoeve van het afmelden van een voertuig als bedoeld in
+                <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=30">artikel 30</intref> door middel van datacommunicatie, wordt aan de keurmeester een
+                pincode verstrekt. Deze pincode is strikt persoonlijk.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">22</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Nadat de bevoegdheid voertuigen aan een keuring te
+                onderwerpen is verleend, wordt onverminderd het bepaalde in het derde lid en in
+                de <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=43">artikelen 43 tot en met 46</intref> door de keurmeester iedere twee jaar een toets
+                bij de in <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=20">artikel 20</intref> genoemde instelling afgelegd.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De toets wordt afgenomen overeenkomstig een door de in het
+                eerste lid bedoelde instelling vastgesteld en een door de Dienst Wegverkeer
+                goedgekeurd reglement.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Afhankelijk van het resultaat van de toets bedoeld in het
+                eerste lid, wordt de bevoegdheid voertuigen aan een keuring te onderwerpen met
+                twee jaar, twee maanden of niet verlengd.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">23</nr>
+            </kop>
+            <al>De aanvrager van de bevoegdheid voertuigen aan een keuring te
+              onderwerpen overlegt de volgende bescheiden:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>een afschrift van de in de <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=20">artikel 20</intref> genoemde
+                  diploma&#x2019;s;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>indien van toepassing een afschrift van het resultaat van
+                  de toets als bedoeld in <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=22">artikel 22</intref>.</al>
+              </li>
+            </lijst>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Voorschriften keuringen</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Algemeen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">24</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De erkenninghouder neemt in verband met de periodieke keuring
+                van motorrijtuigen en aanhangwagens het bij en krachtens de <extref status="actief" doc="1.0:v:BWBR0006622" compleet="nee">wet</extref> bepaalde in
+                acht.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Keuringen worden slechts verricht in een keuringsplaats
+                waarvoor de erkenning geldt.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>In de keuringsplaats worden slechts keuringen verricht van
+                voertuigen waarvoor de erkenning voor de betrokken keuringsplaats geldt.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Met de mobiele keuringseenheid worden in een keuringsplaats
+                of inrichting slechts keuringen verricht van voertuigen waarvoor de erkenning
+                voor de betrokken keuringseenheid geldt.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>Het boekwerk &#x2018;Regelgeving APK&#x2019; wordt door de erkenninghouder
+                beschikbaar gesteld aan de keurmeester; de erkenninghouder draagt er tevens
+                zorg voor dat de voorgeschreven boekwerken tot en met de laatste wijziging zijn
+                bijgewerkt.</al>
+            </lid>
+          <lid>
+                        <lidnr status="officieel">6</lidnr>
+                        <al>Aan een bevoegdheid voertuigen aan een keuring te onderwerpen worden de in de <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=25">artikelen 25 tot en met 32</intref> opgenomen voorschriften verbonden.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">7</lidnr>
+                        <al>Aan een erkenning worden de in de <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=15">artikelen 15 tot en met 19</intref> en <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=24">24 tot en met 33</intref> opgenomen voorschriften verbonden.</al>
+                     </lid></artikel>
+        <artikel status="goed">
+                  <kop>
+                     <label>Artikel</label>
+                     <nr status="officieel">24a</nr>
+                  </kop>
+                  <lid>
+                     <lidnr status="officieel">1</lidnr>
+                     <al>Indien
+het te keuren motorrijtuig blijkt te zijn voorzien van een alcoholslot
+als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=132e" compleet="nee">artikel 132e, eerste lid, van de wet</extref>, kan de keurmeester
+gebruik maken van de overbruggingsfunctie, bedoeld in artikel 4 van
+<extref status="actief" doc="1.0:v:BWBR0025798&amp;bijlage=XII" compleet="nee">bijlage XXII bij de Regeling
+voertuigen</extref>.</al>
+                  </lid>
+                  <lid>
+                     <lidnr status="officieel">2</lidnr>
+                     <al>In
+het in het eerste lid bedoelde geval wordt door of namens de deelnemer
+aan het alcoholslotprogramma aan de erkenninghouder, bedoeld in <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=132f" compleet="nee">artikel
+132f, eerste lid, van de wet</extref> daartoe de in artikel 4 van <extref status="actief" doc="1.0:v:BWBR0025798&amp;bijlage=XII" compleet="nee">bijlage XXII
+bij de Regeling voertuigen</extref> bedoelde code
+aangevraagd.</al>
+                  </lid>
+                  <lid>
+                     <lidnr status="officieel">3</lidnr>
+                     <al>Nadat
+het motorrijtuig is gekeurd, wordt de overbruggingsfunctie door de
+keurmeester
+be&#xEB;indigd.</al>
+                  </lid>
+               </artikel></paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Keuringbevoegdheidsvoorschriften</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">25</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De keurmeester neemt in verband met de periodieke keuring van
+                motorrijtuigen en aanhangwagens het bij en krachtens de <extref status="actief" doc="1.0:v:BWBR0006622" compleet="nee">wet</extref> bepaalde in
+                acht.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De keurmeester controleert of hij de beschikking heeft over
+                het boekwerk &#x2018;Regelgeving APK&#x2019; voordat hij een keuring gaat verrichten.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">26</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Op verzoek van de aanvrager van een keuringsrapport wordt de
+                bevoegdheidspas ter inzage gegeven.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De keurmeester draagt er zorg voor dat de aan hem ten behoeve
+                van datacommunicatie verstrekte pincode niet toegankelijk is voor anderen.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">Voorschriften keuring, steekproef en anonieme
+              keuring</titel>
+          </kop>
+          <artikel status="goed">                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">27</nr>
+                     </kop>
+                     <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Indien
+bij de erkenninghouder een keuringsrapport wordt aangevraagd, stelt
+deze, na overleg met de aanvrager, onverwijld het tijdstip voor de
+keuring vast. De keuring vindt zo spoedig mogelijk na de aanvraag
+plaats.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Er wordt
+geen keuring verricht dan nadat door de aanvrager de bijlage bij het
+deel I A dan wel deel I van het kentekenbewijs is overgelegd, indien in
+het kentekenregister of op het kentekenbewijs bij bijzonderheden is
+vermeld &#x2018;Taxi, zie bijlage&#x2019; of &#x2018;OV-auto, zie
+bijlage&#x2019;.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Er
+wordt geen keuring verricht dan nadat het kentekenregister is
+geraadpleegd ten aanzien
+van:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>het
+voor het voertuig opgegeven
+kenteken;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>het identificatienummer
+van het ter keuring
+aangeboden voertuig, en</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>de datum
+eerste toelating van het
+voertuig.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Er
+wordt geen keuring verricht en de aanvrager van een keuringsrapport
+wordt naar de Dienst Wegverkeer doorverwezen
+indien:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>het
+raadplegen van het kentekenregister niet mogelijk is door een onjuiste
+combinatie van het kenteken en de laatste vier posities van het
+voertuigidentificatienummer of indien de laatste vier posities van het
+voertuigidentificatienummer niet bekend
+zijn;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>het voertuigidentificatienummer
+van het voertuig niet in overeenstemming is met het
+kentekenregister;</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>blijkens het
+kentekenregister de beperkte geldigheidsduur van het kentekenbewijs
+verstreken is, waardoor het kentekenbewijs ingevolge <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=56" compleet="nee">artikel 56, eerste
+lid, onderdeel a, van de wet</extref>, zijn geldigheid heeft
+verloren.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                  </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">28</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De keuring wordt verricht in een keuringsruimte met
+                apparatuur die aan de in de <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=7">artikelen 7</intref>, <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=9">9</intref>, <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=11">11</intref>, <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=12">12</intref> en <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=13">13</intref> gestelde eisen
+                voldoet. Van deze eis kan worden afgeweken indien volgens de wijze van keuren
+                zoals vermeld in <extref status="actief" doc="1.0:v:BWBR0025798&amp;hoofdstuk=5" compleet="nee">hoofdstuk 5 van de Regeling voertuigen</extref> een rij- of remproef
+                buiten de keuringsruimte wordt uitgevoerd, mits de buitentemperatuur binnen het
+                temperatuurgebied van de verplichte apparatuur ligt.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Bij de keuring wordt het voertuig tevens gecontroleerd aan de
+                hand van de in <intref status="actief" doc="1.0:v:BWBR0025735&amp;bijlage=1">bijlage 1</intref> opgenomen reparatieadviespunten.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De keuring wordt verricht door een keurmeester.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">29</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Het resultaat van elke keuring wordt door de keurmeester
+                schriftelijk vastgelegd op het keuringsrapport.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Voor dit keuringsrapport wordt gebruikgemaakt van het door de
+                Dienst Wegverkeer vastgestelde model keuringsrapport, dat bekend is gemaakt in
+                de Staatscourant.</al>
+            </lid>
+            
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">30</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Na afloop van elke keuring wordt het bepaalde in het tweede
+                lid tot en met het vijfde lid in acht genomen alvorens het keuringsrapport af
+                te geven aan de aanvrager.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Alvorens tot het afmelden van een voertuig als bedoeld in het
+                derde lid wordt overgegaan, wordt door de keurmeester die het voertuig afmeldt
+                aan de hand van het kentekenregister nagegaan of de keuring van dat voertuig
+                heeft plaatsgevonden.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Het voertuig wordt door middel van datacommunicatie bij de
+                Dienst Wegverkeer afgemeld onder verstrekking van de volgende gegevens:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>het pasnummer en de pincode van de keurmeester;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>het kenteken van het voertuig;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de meldcode, gevormd door de laatste vier cijfers van het
+                    voertuigidentificatienummer, letters en leestekens buiten beschouwing
+                    gelaten;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>indien het een voertuig
+                    betreft dat is voorzien van een kilometerteller, de afgelezen kilometerstand
+                    van het voertuig;</al>
+                </li>
+                <li>
+                  <li.nr>e.</li.nr>
+                  <al>indien het voertuig is goedgekeurd:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    
+                    <li>
+                      <li.nr>1&#xB0;</li.nr>
+                      <al>indien van toepassing de adviespunten, en</al>
+                    </li>
+                    <li>
+                      <li.nr>2&#xB0;.</li.nr>
+                      <al>indien van toepassing de reparatieadviespunten;</al>
+                    </li>
+                  </lijst>
+                </li>
+                <li>
+                  <li.nr>f.</li.nr>
+                  <al>indien het voertuig is afgekeurd, de afkeurpunten;</al>
+                </li>
+                <li>
+                  <li.nr>g.</li.nr>
+                  <al>indien het voertuig is goedgekeurd na reparatie:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                      <li.nr>1&#xB0;.</li.nr>
+                      <al>de reparatiepunten;</al>
+                    </li>
+                    <li>
+                      <li.nr>2&#xB0;</li.nr>
+                      <al>indien van toepassing de adviespunten, en</al>
+                    </li>
+                    <li>
+                      <li.nr>3&#xB0;.</li.nr>
+                      <al>indien van toepassing de reparatieadviespunten;</al>
+                    </li>
+                  </lijst>
+                </li>
+                <li>
+                  <li.nr>h.</li.nr>
+                  <al>de bevestiging dat de in het tweede lid voorgeschreven
+                    controleverplichting is nagekomen, waarna acceptatie van de afmelding wordt
+                    weergegeven:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                      <li.nr>1&#xB0;.</li.nr>
+                      <al>de transactiecode en het tijdstip van de
+                        afmelding;</al>
+                    </li>
+                    <li>
+                      <li.nr>2&#xB0;.</li.nr>
+                      <al>indien het voertuig is goedgekeurd: tevens een nieuwe
+                        vervaldatum;</al>
+                    </li>
+                    <li>
+                      <li.nr>3&#xB0;.</li.nr>
+                      <al>indien het voertuig aan een steekproef moet worden
+                        onderworpen: tevens de einde wachttijd van de steekproef.</al>
+                    </li>
+                  </lijst>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Op het keuringsrapport moet schriftelijk worden vermeld:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>het pasnummer als bedoeld in het derde lid, onderdeel a,
+                    en het bepaalde in de onderdelen b en c;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de afgelezen kilometerstand indien het voertuig is
+                    voorzien van een kilometerteller;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>dat het voertuig is goedgekeurd indien het aan de
+                    keuringseisen blijkt te voldoen en indien van toepassing:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                      <li.nr>1&#xB0;.</li.nr>
+                      <al>de adviespunten, en</al>
+                    </li>
+                    <li>
+                      <li.nr>2&#xB0;.</li.nr>
+                      <al>reparatieadviespunten;</al>
+                    </li>
+                  </lijst>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>indien een voertuig niet aan de keuringseisen blijkt te
+                    voldoen dat het voertuig is afgekeurd en de afkeurpunten;</al>
+                </li>
+                <li>
+                  <li.nr>e.</li.nr>
+                  <al>indien er ten behoeve van de goedkeuring reparaties aan
+                    het voertuig zijn verricht:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                      <li.nr>1&#xB0;.</li.nr>
+                      <al>de reparatiepunten;</al>
+                    </li>
+                    <li>
+                      <li.nr>2&#xB0;</li.nr>
+                      <al>indien van toepassing de adviespunten, en</al>
+                    </li>
+                    <li>
+                      <li.nr>3&#xB0;.</li.nr>
+                      <al>indien van toepassing de reparatieadviespunten;</al>
+                    </li>
+                  </lijst>
+                </li>
+                <li>
+                  <li.nr>f.</li.nr>
+                  <al>de transactiecode, en uitsluitend indien de schriftelijke
+                    invulling rechtstreeks plaatsvindt uit het door de Dienst Wegverkeer
+                    bijgehouden kentekenregister de tekst &#x2018;afdruk RDW&#x2019;;</al>
+                </li>
+                <li>
+                  <li.nr>g.</li.nr>
+                  <al>indien het voertuig is goedgekeurd de vervaldatum,
+                    waarbij de maand van de vervaldatum voluit in letters is geschreven;</al>
+                </li>
+                <li>
+                  <li.nr>h.</li.nr>
+                  <al>indien het voertuig aan een steekproef wordt onderworpen
+                    de einde wachttijd van de steekproef;</al>
+                </li>
+                <li>
+                  <li.nr>i.</li.nr>
+                  <al>de naam, adresgegevens en het keuringsinstantienummer van
+                    de erkenninghouder.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>Alvorens het keuringsrapport wordt ondertekend, wordt door de
+                keurmeester nagegaan of het rapport volledig is ingevuld.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">6</lidnr>
+              <al>Door een keurmeester worden niet meer dan vier voertuigen per zestig
+                minuten afgemeld.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">7</lidnr>
+              <al>Het keuringsrapport wordt onverwijld aan de aanvrager
+                afgegeven indien het voertuig niet aan een steekproef wordt onderworpen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">8</lidnr>
+              <al>Indien het voertuig aan een steekproef wordt onderworpen,
+                deelt de erkenninghouder dit aan de aanvrager mede en houdt de erkenninghouder
+                het keuringsrapport onder zich voor een periode van ten hoogste negentig
+                minuten, vanaf het tijdstip van afmelding.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">31</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Indien het voertuig blijkens mededeling van de Dienst
+                Wegverkeer aan een steekproef wordt onderworpen, gelden de in het tweede tot en
+                met zesde lid genoemde verplichtingen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>In de staat van het voertuig dat aan een steekproef wordt
+                onderworpen, worden gedurende negentig minuten na het tijdstip van afmelding
+                geen wijzigingen aangebracht en worden geen metingen met betrekking tot het
+                voertuig verricht.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De erkenninghouder wijst de eigenaar of houder van het
+                voertuig dat aan een steekproef wordt onderworpen er op dat deze verplicht is
+                het voertuig voor de uitvoering van de steekproef beschikbaar te houden.</al>
+            </lid>
+            <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Voorafgaande
+aan de steekproefherkeuring wordt het keuringsrapport door de
+erkenninghouder of de keurmeester aan de daartoe aangewezen
+functionaris van de Dienst Wegverkeer overhandigd. Door de
+erkenninghouder of de keurmeester wordt indien <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=27">artikel 27, tweede lid</intref>,
+van toepassing is, tevens de in dat artikel bedoelde bijlage
+overhandigd.</al>
+                     </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>Aan een steekproef wordt alle medewerking verleend en de
+                terzake door de Dienst Wegverkeer gegeven aanwijzingen worden in acht genomen.
+                Onder alle medewerking wordt in ieder geval verstaan dat:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>bij uitsluiting de keurmeester die het voertuig aan een
+                    keuring heeft onderworpen, gedurende de gehele steekproef aanwezig is en zelf
+                    feitelijke assistentie verleent bij het uitvoeren van de steekproef;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>indien de keuring verricht is door een mobiele
+                    keuringseenheid tevens het voertuig, van waaruit door de mobiele
+                    keuringseenheid de keuringen zijn verricht, bij de steekproef aanwezig is;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>het voertuig, ongeacht het tijdstip van aanvang van de
+                    steekproef, niet uit de keuringsplaats wordt verwijderd gedurende de
+                    steekproef;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>de desbetreffende ruimte en apparatuur gedurende de
+                    steekproef beschikbaar worden gesteld.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">6</lidnr>
+              <al>Indien bij de steekproef wordt vastgesteld dat het voertuig
+                niet voldoet aan de keuringseisen, het voertuig onterecht is af- of
+                goedgekeurd, het keuringsrapport onjuist of onvolledig is ingevuld of indien
+                wordt geconstateerd dat de voorschriften met betrekking tot de steekproef niet
+                in acht zijn genomen, wordt door de daartoe aangewezen functionaris van de
+                Dienst Wegverkeer een steekproefcontrolerapport opgemaakt dat door deze wordt
+                ondertekend alsmede door de keurmeester.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">32</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Indien de eigenaar of houder van het voertuig dat aan een
+                steekproef wordt onderworpen met het voertuig wegrijdt, wordt dit onverwijld
+                door de keurmeester aan de Dienst Wegverkeer gemeld. De eventuele goedkeuring
+                wordt door de Dienst Wegverkeer ingetrokken en het voertuig kan niet meer
+                worden afgemeld.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De erkenninghouder draagt er zorg voor dat de eigenaar of
+                houder van een weggereden voertuig op de hoogte is gesteld van de verplichting
+                om een nieuwe aanvraag van een keuringsrapport bij de Dienst Wegverkeer in te
+                dienen.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">33</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De Dienst Wegverkeer voert steekproefsgewijs anonieme
+                keuringen uit door middel van het ter keuring aanbieden van een voertuig in het
+                kader van het toezicht op de erkenning en het verrichten van keuringen. Wanneer
+                blijkt dat:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de keuring niet in de keuringsplaats wordt
+                    uitgevoerd;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de mobiele keuringseenheid niet aanwezig is;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de keuring niet met de vereiste apparatuur wordt
+                    uitgevoerd;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>de keuring niet door een persoon die bevoegd is
+                    voertuigen aan een keuring te onderwerpen wordt uitgevoerd, of</al>
+                </li>
+                <li>
+                  <li.nr>e.</li.nr>
+                  <al>het resultaat van de keuring niet aan de Dienst
+                    Wegverkeer wordt gemeld;</al>
+                </li>
+              </lijst>
+              <al>wordt terstond begonnen met een procedure tot intrekking van
+                de erkenning en keuringsbevoegdheid.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Toezicht</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">algemeen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">34</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Het in <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=86" compleet="nee">artikel 86 van de wet</extref> bedoelde toezicht geschiedt met
+                inachtneming van de in <intref status="actief" doc="1.0:v:BWBR0025735&amp;paragraaf=2">paragraaf 2</intref> daaromtrent gegeven voorschriften.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Het in <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=86a" compleet="nee">artikel 86a van de wet</extref> bedoelde toezicht geschiedt met
+                inachtneming van de in <intref status="actief" doc="1.0:v:BWBR0025735&amp;paragraaf=3">paragraaf 3</intref> daaromtrent gegeven voorschriften.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">35</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Nadat een erkenning is verleend, wordt ten minste &#xE9;&#xE9;n maal
+                per twee jaar door middel van een herschouwing onderzocht of de erkenninghouder
+                en de keuringsplaats nog voldoen aan de erkenningseisen en of de
+                erkenningsvoorschriften worden nageleefd. </al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De in het eerste lid bedoelde controle kan tevens
+                plaatsvinden in het kader van een steekproef van het voertuig.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">36</nr>
+            </kop>
+            <al>Onverminderd het bepaalde in <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=31">artikel
+31</intref>, wordt in het kader
+              van het toezicht alle medewerking aan de daartoe aangewezen functionarissen van
+              de Dienst Wegverkeer verleend. Hieronder wordt in ieder geval verstaan:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het verlenen van toegang tot de keuringsplaats, inrichting
+                  of mobiele keuringseenheid;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het verstrekken van inlichtingen;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>het overleggen van bescheiden;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>het gebruik maken van de benodigde apparatuur;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>het in acht nemen van door de betreffende functionaris van
+                  de Dienst Wegverkeer aangegeven aanwijzingen.</al>
+              </li>
+            </lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">37</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De Dienst Wegverkeer kan in het kader van het toezicht op de
+                erkenninghouder of de keurmeester een systeem van bonus- en strafpunten
+                vaststellen, dat wordt bekendgemaakt in de Staatscourant. Dit systeem heeft
+                tevens betrekking op <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=28">artikel 28, tweede lid</intref>.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Indien een systeem als bedoeld in het eerste lid is
+                vastgesteld, wordt aan de hand daarvan, afhankelijk van de resultaten van het
+                uitgeoefende toezicht, beoordeeld of het toezicht wordt verminderd of
+                verscherpt dan wel of een erkenning wordt gewijzigd of ingetrokken.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Toezicht erkenning APK</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">38</nr>
+            </kop>
+            <al>De in deze paragraaf bepaalde eisen zijn, voor zover niet
+              anders bepaald, tevens van toepassing op het toezicht op mobiele
+              keuringseenheden en de inrichtingen waar met behulp van deze mobiele
+              keuringseenheden keuringen worden verricht.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">39</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Deze paragraaf laat onverlet de bevoegdheid tot wijziging,
+                schorsing of intrekking van de erkenning als omschreven in <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=87" compleet="nee">artikel 87, van de
+                wet</extref>, in andere gevallen dan die in deze paragraaf zijn beschreven. </al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Een wijziging, schorsing of intrekking van een erkenning als
+                bedoeld in <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=87" compleet="nee">artikel 87, tweede lid, van de wet</extref>, geldt in beginsel uitsluitend
+                voor de betrokken keuringsplaats.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>In afwijking van het tweede lid kan de Dienst Wegverkeer, als
+                omstandigheden daartoe aanleiding geven, bepalen dat een wijziging, schorsing
+                of intrekking alle keuringsplaatsen of mobiele eenheden betreft waarvoor de
+                erkenning geldt.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">40</nr>
+            </kop>
+            <al>Bij schorsing van een erkenning kan worden bepaald dat, indien
+              niet binnen een termijn van ten hoogste 12 weken wordt aangetoond dat weer aan
+              de erkenningseisen of erkenningsvoorschriften wordt voldaan, alsnog wijziging
+              of intrekking van de erkenning volgt.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">41</nr>
+            </kop>
+            <al>Indien de in de <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=25">artikelen 25 tot en met 32</intref> neergelegde verplichtingen of voorschriften niet worden nageleefd, wordt terstond begonnen met een procedure voor intrekking van de erkenning.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">42</nr>
+            </kop>
+            <al>De in <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=87" compleet="nee">artikel 87 van de wet</extref>, bedoelde wijziging, schorsing of
+              intrekking van de erkenning kan, indien de erkenningseis of het
+              erkenningsvoorschrift waaraan niet wordt voldaan slechts betrekking heeft op
+              het keuren van een bepaalde groep voertuigen, beperkt blijven tot het keuren
+              van die desbetreffende groep voertuigen.</al>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">Toezicht bevoegdheid APK</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">43</nr>
+            </kop>
+            <al>Afhankelijk van het resultaat van de toets, bedoeld in <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=22">artikel
+              22</intref>, wordt de bevoegdheid voertuigen aan een keuring te onderwerpen met twee
+              jaar, met twee maanden of niet verlengd.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">44</nr>
+            </kop>
+            <al>De in <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=87a" compleet="nee">artikel 87a van de wet</extref> bedoelde intrekking van de
+              bevoegdheid voertuigen aan een keuring te onderwerpen kan, indien de
+              keuringsbevoegdheidseis, het keuringsbevoegdheidsvoorschrift of het
+              keuringsvoorschrift waaraan niet wordt voldaan slechts betrekking heeft op het
+              keuren van een bepaalde groep voertuigen, beperkt worden tot het keuren van die
+              desbetreffende groep voertuigen.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">45</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Indien er sprake is van een situatie waarin aan een of meer
+                keuringsbevoegdheidseisen, keuringsbevoegdheidsvoorschriften of
+                keuringsvoorschriften niet wordt voldaan, terwijl die situatie op korte termijn
+                kan worden hersteld, kan, in plaats van intrekking van de bevoegdheid
+                voertuigen aan een keuring te onderwerpen, overgegaan worden tot schorsing van
+                de bevoegdheid voertuigen aan een keuring te onderwerpen voor een termijn van
+                ten hoogste twaalf weken.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Wordt binnen de in het eerste lid genoemde termijn niet
+                aangetoond dat wederom aan de keuringsbevoegdheidseisen,
+                keuringsbevoegdheidsvoorschriften of keuringsvoorschriften wordt voldaan, dan
+                volgt alsnog intrekking van de bevoegdheid voertuigen aan een keuring te
+                onderwerpen.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">46</nr>
+            </kop>
+            <al>Indien door de keurmeester de in de <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=25">artikelen 25 tot en met 32</intref>
+              neergelegde verplichtingen of voorschriften niet worden nageleefd, wordt
+              terstond begonnen met een procedure voor intrekking van de bevoegdheid
+              voertuigen aan een keuring te onderwerpen.</al>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Overgangs en slotbepalingen</titel>
+        </kop>
+        
+        
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">47</nr>
+          </kop>
+          <al>Erkenningen en bevoegdheden die zijn verleend krachtens de
+            <extref status="actief" doc="1.0:v:BWBR0011158" compleet="nee">Erkenningsregeling APK</extref>, zoals die regeling luidde voor de inwerkingtreding van
+            deze regeling, worden gelijkgesteld met erkenningen en bevoegdheden die zijn
+            verleend krachtens deze regeling.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">48</nr>
+          </kop>
+          <al>Deze regeling treedt in werking op het tijdstip dat het <extref status="actief" doc="1.0:v:BWBR0025554" compleet="nee">Besluit
+            voertuigen</extref> in werking treedt, met uitzondering van <intref status="actief" doc="1.0:v:BWBR0025735&amp;artikel=30">artikel 30, derde lid,
+            onderdeel e, onder 3, derde lid, onderdeel g, onder 3, vierde lid, onderdeel c,
+            onder 2, en vierde lid, onderdeel e, onder 3</intref>, dat in werking treedt op
+            1&#xA0;januari 2010.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">49</nr>
+          </kop>
+          <al>Deze regeling wordt aangehaald als: Regeling erkenning en
+            keuringsbevoegdheid APK.</al>
+        </artikel>
+      
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </hoofdstuk>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling zal met de toelichting in de Staatscourant worden
+          geplaatst. </al>
+      </slotformulering>
+      <ondertekening>De <functie>Minister</functie> van
+        <organisatie afkorting="VW">Verkeer en Waterstaat</organisatie>,
+        <naam>
+          <voornaam>C.M.P.S.</voornaam>
+          <achternaam>Eurlings</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label>
+        <nr status="officieel">1</nr>
+      </kop>
+      <table colsep="0" frame="topbot" pgwide="2" rowsep="0" tabstyle="zebra1">
+        <title>Reparatieadviespunten</title>
+        <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="zebra1">
+          <colspec colname="col1" colnum="1" colwidth="8*"/>
+          <colspec colname="col2" colnum="2" colwidth="127*"/>
+          <colspec colname="col3" colnum="3" colwidth="127*"/>
+          <thead valign="bottom">
+            <row rowsep="1">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Adviespunt</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Wijze van keuren</al>
+              </entry>
+            </row>
+          </thead>
+          <tbody valign="top">
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">Artikel 1</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1.</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Bij personenauto&#x2019;s, in gebruik genomen na 31&#xA0;december 2003,
+                waarbij van fabriekswege airbags gemonteerd zijn, moet het airbagsysteem goed
+                functioneren.</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Visuele controle. Op plaatsen waar het beeldmerk &#x2018;AIRBAG&#x2019;in
+                de personenauto wordt aangetroffen moet een airbag aanwezig zijn. Indien het
+                duidelijk is dat een airbag is verwijderd op de plaats waar het beeldmerk is
+                aangetroffen, wordt dit vermeld op het keuringsrapport.</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2.</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Bij personenauto&#x2019;s, in gebruik genomen na 31&#xA0;december 2003,
+                en die beschikken over een airbagsysteem dat is voorzien van een
+                waarschuwingsinrichting die in werking treedt zodra het systeem faalt, moet de
+                waarschuwingsinrichting goed functioneren.</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Leden 2 en 3: visuele controle. Indien een airbagsysteem of
+                een gordelspansysteem is voorzien van een waarschuwingslampje, moet het
+                waarschuwingslampje gaan branden als het contact wordt ingeschakeld. Vervolgens
+                dient het waarschuwingslampje te doven, eventueel na het starten van de motor.
+                Wanneer het waarschuwingslampje uitgaat, mag er vanuit worden gegaan dat het
+                systeem functioneert. Indien het waarschuwingslampje blijft branden, wordt dit
+                vermeld op het keuringsrapport.</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>3.</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Bij personenauto&#x2019;s, in gebruik genomen na 31&#xA0;december 2003,
+                en die beschikken over een gordelspansysteem dat is voorzien van een
+                waarschuwingsinrichting die in werking treedt zodra het systeem faalt, moet de
+                waarschuwingsinrichting goed functioneren.</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row><row rowsep="0"><entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>4.</al></entry><entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>Onderdelen
+van personenauto&#x2019;s, niet zijnde onderdelen van het
+brandstofsysteem, het remsysteem, de stuurbekrachtiging of het
+veersysteem, mogen geen overmatige olielekkage
+vertonen.</al></entry><entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>Visuele
+controle, terwijl het voertuig zich boven een inspectieput of op een
+hefinrichting
+bevindt.</al></entry></row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>
+                  <nadruk type="vet">Artikel 2</nadruk>
+                </al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>1.</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Bij bedrijfsauto&#x2019;s, in gebruik genomen na 31&#xA0;december 2003,
+                waarbij van fabriekswege airbags gemonteerd zijn, moet het airbagsysteem goed
+                functioneren.</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Visuele controle. Op plaatsen waar het beeldmerk &#x2018;AIRBAG&#x2019; in
+                de bedrijfsauto wordt aangetroffen moet een airbag aanwezig zijn. Indien het
+                duidelijk is dat een airbag is verwijderd op de plaats waar het beeldmerk is
+                aangetroffen, wordt dit vermeld op het keuringsrapport.</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>2.</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Bij bedrijfsauto&#x2019;s, in gebruik genomen na 31&#xA0;december 2003,
+                en die beschikken over een airbagsysteem dat is voorzien van een
+                waarschuwingsinrichting die in werking treedt zodra het systeem faalt, moet de
+                waarschuwingsinrichting goed functioneren.</al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Leden 2 en 3: visuele controle. Indien een airbagsysteem of
+                een gordelspansysteem is voorzien van een waarschuwingslampje, moet het
+                waarschuwingslampje gaan branden als het contact wordt ingeschakeld. Vervolgens
+                dient het waarschuwingslampje te doven, eventueel na het starten van de motor.
+                Wanneer het waarschuwingslampje uitgaat, mag er vanuit worden gegaan dat het
+                systeem functioneert. Indien het waarschuwingslampje blijft branden, wordt dit
+                vermeld op het keuringsrapport.</al>
+              </entry>
+            </row>
+            <row rowsep="0">
+              <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>3.</al>
+              </entry>
+              <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+                <al>Bij bedrijfsauto&#x2019;s, in gebruik genomen na 31&#xA0;december 2003,
+                en die beschikken over een gordelspansysteem dat is voorzien van een
+                waarschuwingsinrichting die in werking treedt zodra het systeem faalt, moet de
+                waarschuwingsinrichting goed functioneren. </al>
+              </entry>
+              <entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/>
+            </row><row rowsep="0"><entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"><al>4.</al></entry><entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>Onderdelen
+van bedrijfsauto&#x2019;s, niet zijnde onderdelen van het
+brandstofsysteem, het remsysteem, de stuurbekrachtiging of het
+veersysteem, mogen geen overmatige olielekkage
+vertonen.</al></entry><entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>Visuele
+controle, terwijl het voertuig zich boven een inspectieput of op een
+hefinrichting
+bevindt.</al></entry></row><row rowsep="0"><entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/><entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al><nadruk type="vet">Artikel 3</nadruk></al></entry><entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/></row><row rowsep="0"><entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/><entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>Onderdelen
+van driewielige motorrijtuigen, niet zijnde onderdelen van het
+brandstofsysteem, het remsysteem, de stuurbekrachtiging of het
+veersysteem, mogen geen overmatige olielekkage
+vertonen</al></entry><entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>Visuele
+controle.</al></entry></row><row rowsep="0"><entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/><entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al><nadruk type="vet">Artikel 4</nadruk></al></entry><entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"/></row><row rowsep="0"><entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/><entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"><al>Onderdelen
+van aanhangwagens, niet zijnde onderdelen van het brandstofsysteem, het
+remsysteem, de stuurinrichting of het veersysteem, mogen geen
+overmatige olielekkage
+vertonen.</al></entry><entry align="left" colname="col3" colsep="0" morerows="0" rotate="0" valign="top"><al>Visuele
+controle, terwijl het voertuig zich boven een inspectieput of op een
+hefinrichting
+bevindt.</al></entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+    </bijlage>
+  </regeling>
+</wetgeving>
+  	

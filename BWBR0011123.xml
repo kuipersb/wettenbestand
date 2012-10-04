@@ -1,0 +1,673 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0011123" dtdversie="2.0" id="40219" soort="AMvB" xml:lang="nl">
+    
+    <intitule>Besluit van 26 januari 2000, houdende regels voor de
+    verstrekking van gegevens door aanbieders van openbare
+    telecommunicatienetwerken en -diensten met het oog op het onderzoek
+    van telecommunicatie (Besluit verstrekking gegevens telecommunicatie)</intitule>
+    
+    <wet-besluit>
+        <aanhef>
+    <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden,
+        Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+    <considerans>
+        <considerans.al>Op de voordracht van Onze Minister van Verkeer
+            en Waterstaat van</considerans.al>
+        <considerans.al> 20 mei 1998, nr. HDTP/98/1553/HW, Hoofddirectie
+            Telecommunicatie en Post in overeenstemming met Onze
+            Ministers van Justitie en van Binnenlandse Zaken en Koninkrijksrelaties;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op de <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.1" compleet="nee">artikelen 13.1, tweede
+            lid</extref>, <intref status="slapend" verwijzing-id="381746">13.2, derde lid</intref>,
+                <intref status="slapend" verwijzing-id="381749">13.4,  derde
+            lid</intref>, en <intref status="slapend" verwijzing-id="381751">20.18 van de Telecommunicatiewet</intref>;</considerans.al>
+        <considerans.al>De Raad van State gehoord (advies van 19
+            augustus 1998, nr. W09.98.0215);</considerans.al>
+        <considerans.al>Gezien het nader rapport van Onze Minister van
+            Verkeer en Waterstaat van 19 januari 2000, nr.
+            DGTP/99/3602/JdJ, Directoraat-Generaal Telecommunicatie en
+            Post uitgebracht in overeenstemming met Onze Ministers van
+            Justitie en van Binnenlandse Zaken en Koninkrijksrelaties;</considerans.al>
+    </considerans>
+    <afkondiging>
+        <al>Hebben goedgevonden en verstaan:</al>
+    </afkondiging>
+</aanhef>
+        <wettekst>
+            <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr>1</nr> 
+  </kop> 
+  <al>In dit besluit wordt verstaan onder:</al> 
+  <lijst> 
+	 <li> 
+		<li.nr>a.</li.nr> 
+		<al>wet:
+		  <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Telecommunicatiewet</extref>;</al>
+		
+	 </li> 
+	 <li> 
+		<li.nr>b.</li.nr> 
+		<al>informatiepunt: het Centraal informatiepunt onderzoek
+		  telecommunicatie, bedoeld in
+		  <intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=2">artikel 2</intref>;</al> 
+	 </li> 
+	 <li> 
+		<li.nr>c.</li.nr> 
+		<al>aanbieder: de aanbieder van een openbaar telecommunicatienetwerk of
+		  een openbare telecommunicatiedienst;</al> 
+	 </li> 
+	 <li> 
+		<li.nr>d.</li.nr> 
+		<al>bevoegde autoriteit:</al> 
+		<lijst> 
+		  <li> 
+			 <li.nr>1&#xB0;.</li.nr> 
+			 <al>de rechter-commissaris in strafzaken, de officier van justitie,
+				de beheerder van een politiekorps of het hoofd van een opsporingsdienst, dan
+				wel de door de beheerder voor zijn korps of door het hoofd voor zijn dienst
+				aangewezen opsporingsambtenaar,</al> 
+		  </li> 
+		  <li> 
+			 <li.nr>2&#xB0;.</li.nr> 
+			 <al>het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst, of
+				de door hem aangewezen ambtenaar,</al> 
+		  </li> 
+		  <li> 
+			 <li.nr>3&#xB0;.</li.nr> 
+			 <al>het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst, of
+				de door hem aangewezen ambtenaar;</al> 
+		  </li> 
+		</lijst> 
+	 </li> 
+	 <li> 
+		<li.nr>e.</li.nr> 
+		<al>informatie: de informatie, bedoeld in
+		  <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4" compleet="nee">artikel 13.4, eerste lid, van de
+		  wet</extref>, voor zover deze informatie geen betrekking heeft op een
+		  ander nummer dan het aansluitnummer voor vaste of mobiele openbare
+		  telefoonnetwerken, en geen betrekking heeft op een ander nummer dan de
+		  inlognaam of gebruikersnaam, een e-mail adres, identificatienummers van
+		  randapparaten of een toegewezen Internet-protocol-nummer voor openbare
+		  telecommunicatienetwerken en openbare telecommunicatiediensten die uitsluitend
+		  bestaan in de verlening van toegang tot Internet of de door middel van Internet
+		  te leveren of te verrichten diensten;</al> 
+	 </li> 
+	 <li> 
+		<li.nr>f.</li.nr> 
+		<al>gebruiker: de natuurlijke of rechtspersoon die met de aanbieder een
+		  overeenkomst is aangegaan met betrekking tot het gebruik van een netwerk of de
+		  levering van een openbare telecommunicatiedienst, alsmede de natuurlijke of
+		  rechtspersoon die daadwerkelijk gebruik maakt van een openbaar
+		  telecommunicatienetwerk of een openbare telecommunicatiedienst;</al> 
+	 </li> 
+	 <li> 
+		<li.nr>g.</li.nr> 
+		<al>aansluitnummer:</al> 
+		<lijst> 
+		  <li> 
+			 <li.nr>1&#xB0;.</li.nr> 
+			 <al>bij vaste openbare telefoonnetwerken, onderscheidenlijk vaste
+				openbare telefoondiensten: het bij een netwerkaansluitpunt behorende
+				nummer;</al> 
+		  </li> 
+		  <li> 
+			 <li.nr>2&#xB0;.</li.nr> 
+			 <al>bij mobiele openbare telefoonnetwerken, onderscheidenlijk,
+				openbare mobiele telefoondiensten: het Mobile Station Integrated Systems
+				Digital Network Number.</al> 
+		  </li> 
+		</lijst> 
+	 </li> 
+  </lijst>
+</artikel>
+            <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>2</nr>
+    </kop>
+    <al>Onze Minister van Justitie is belast met het langs
+        geautomatiseerde weg doorgeleiden van verzoeken om en
+        verstrekkingen van informatie. Hij voert deze taak uit door
+        middel van het Centraal informatiepunt onderzoek telecommunicatie.</al>
+</artikel>
+            <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr status="officieel">3</nr> 
+  </kop> 
+  <lid> 
+	 <lidnr status="officieel">1</lidnr> 
+	 <al>Het informatiepunt, de bevoegde autoriteit en de aanbieder treffen
+		ieder de technische voorzieningen die nodig zijn teneinde uitvoering te geven
+		aan het tweede, derde en vierde lid. De technische voorzieningen voldoen aan de
+		voorwaarden bedoeld in de
+		<intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=4">artikelen 4</intref> en
+		<intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=5">5</intref> en aan de
+		specificaties die zijn opgenomen in de <intref status="actief" doc="1.0:v:BWBR0011123&amp;bijlage=">bijlage</intref> bij dit besluit.</al> 
+  </lid> 
+  <lid> 
+	 <lidnr status="officieel">2</lidnr> 
+	 <al>De bevoegde autoriteit verzoekt om verstrekking van informatie die is
+		opgenomen in het bestand, bedoeld in <intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=4">artikel
+		4</intref>, door tussenkomst van het informatiepunt. De bevoegde
+		autoriteit doet het verzoek langs geautomatiseerde weg.</al> 
+  </lid> 
+  <lid> 
+	 <lidnr status="officieel">3</lidnr> 
+	 <al>De aanbieder verstrekt de informatie door tussenkomst van het
+		informatiepunt. Daartoe verleent de aanbieder het informatiepunt langs
+		geautomatiseerde weg gedurende 24 uur per dag rechtstreekse toegang tot een
+		bestand als bedoeld in
+		<intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=4">artikel 4, eerste
+		lid</intref>.</al> 
+  </lid> 
+  <lid> 
+	 <lidnr status="officieel">4</lidnr> 
+	 <al>Het informatiepunt vergelijkt langs geautomatiseerde weg de gegevens
+		waarop het verzoek betrekking heeft met de gegevens in het bestand, bedoeld in
+		<intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=4">artikel 4, eerste
+		lid</intref>. Wanneer de gegevens waarop het verzoek betrekking heeft
+		aanwezig zijn in het bestand, worden deze langs geautomatiseerde weg door het
+		informatiepunt doorgeleid aan de bevoegde autoriteit.</al> 
+  </lid> 
+  <lid> 
+	 <lidnr status="officieel">5</lidnr> 
+	 <al>Op verzoek van de bevoegde autoriteit voorziet de aanbieder zonder
+		tussenkomst van het informatiepunt in correctie van of toelichting op de
+		gegevens, bedoeld in het vierde lid, tweede volzin.</al> 
+  </lid>
+  <lid> 
+	 <lidnr status="officieel">6</lidnr>
+	 <al>Een aanbieder en het informatiepunt komen overeen dat het
+		informatiepunt optreedt als bewerker van het bestand, bedoeld in
+		<intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=4">artikel 4</intref>, indien de apparatuur
+		waarin het bestand is opgeslagen in beheer is bij het informatiepunt.</al>
+  </lid>
+</artikel>
+            <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr>4</nr> 
+  </kop> 
+  <lid> 
+	 <lidnr>1</lidnr> 
+	 <al>De aanbieder van vaste openbare telefoonnetwerken of vaste openbare
+		telefoondiensten, dan wel van mobiele openbare telefoonnetwerken of mobiele
+		openbare telefoondiensten, beschikt over een bestand waarin de volgende
+		gegevens zijn opgenomen van de personen die gebruik maken van een dienst of
+		netwerk van de aanbieder:</al> 
+	 <lijst> 
+		<li> 
+		  <li.nr>a.</li.nr> 
+		  <al>de naam, het adres met nummer en eventuele toevoegingen, de
+			 postcode en de woonplaats;</al> 
+		</li> 
+		<li> 
+		  <li.nr>b.</li.nr> 
+		  <al>de telecommunicatiedienst die wordt afgenomen en,</al> 
+		</li> 
+		<li> 
+		  <li.nr>c.</li.nr> 
+		  <al>het aansluitnummer dat, onderscheidenlijk de aansluitnummers die,
+			 aan een gebruiker zijn verleend;</al> 
+		</li> 
+		<li><li.nr>d.</li.nr>
+		  <al>de naam van de aanbieder van het vaste openbare telefoonnetwerk of
+			 het mobiele openbare telefoonnetwerk met behulp waarvan de aanbieder van vaste
+			 openbare telefoondiensten of mobiele openbare telefoondiensten de diensten aan
+			 de gebruiker heeft verleend.</al>
+		</li>
+	 </lijst> 
+  </lid> 
+  <lid> 
+	 <lidnr>2</lidnr>
+	 <al>De aanbieder van openbare telecommunicatienetwerken of van openbare
+		telecommunicatiediensten die uitsluitend bestaan in de verlening van toegang
+		tot Internet en de door middel van Internet te leveren of te verrichten
+		diensten beschikt over een bestand waarin de volgende gegevens zijn opgenomen
+		van de gebruikers van een netwerk of dienst van de aanbieder:</al>
+	 <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+		<li>
+		  <li.nr>a.</li.nr>
+		  <al>de naam, het adres met nummer en eventuele toevoegingen, de
+			 postcode en de woonplaats,</al>
+		</li>
+		<li>
+		  <li.nr>b.</li.nr>
+		  <al>de telecommunicatiedienst die wordt afgenomen, waaronder mede wordt
+			 verstaan de soort verbinding,</al>
+		</li>
+		<li>
+		  <li.nr>c.</li.nr>
+		  <al>de gebruikersnaam, de inlognaam en de e-mail adressen van een
+			 gebruiker, de identificatienummers van randapparaten van een gebruiker, en de
+			 Internet-protocol-nummers die op het tijdstip, waarop de gegevens van het
+			 bestand worden geactualiseerd, aan een gebruiker zijn toegekend voor de
+			 verlening van toegang tot Internet of de door middel van Internet te leveren of
+			 te verrichten diensten, en</al>
+		</li>
+		<li> 
+		  <li.nr>d.</li.nr>
+		  <al>de naam van de aanbieder van het openbare telecommunicatienetwerk
+			 met behulp waarvan de aanbieder van de openbare telecommunicatiedienst de
+			 diensten aan de gebruiker heeft verleend.</al>
+		</li>
+	 </lijst>
+  </lid>
+  <lid> 
+	 <lidnr>3</lidnr> 
+	 <al>De aanbieder actualiseert de gegevens in het bestand, bedoeld in het
+		eerste respectievelijk het tweede lid, ten minste iedere 24 uur, door een
+		aanpassing van de gegevens aan de meest actuele gegevens die hij gebruikt voor
+		zijn bedrijfsvoering. </al> 
+  </lid>
+</artikel>
+            <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr>5</nr> 
+  </kop> 
+  <lid> 
+	 <lidnr>1</lidnr> 
+	 <al>Een verzoek van de bevoegde autoriteit, bedoeld in
+		<intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=3">artikel 3, tweede
+		lid</intref>, kan slechts in het systeem worden ingevoerd door een door
+		Onze Minister van Justitie geautoriseerde ambtenaar die daartoe gebruik maakt
+		van een hem toegekende toegangscode.</al> 
+  </lid> 
+  <lid> 
+	 <lidnr>2</lidnr> 
+	 <al>De technische voorzieningen, bedoeld in
+		<intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=3">artikel 3, eerste
+		lid</intref>, zijn alleen toegankelijk voor personen die door Onze
+		Minister van Justitie zijn geautoriseerd.</al> 
+  </lid> 
+  <lid> 
+	 <lidnr>3</lidnr> 
+	 <al>De vergelijking en doorgeleiding, bedoeld in
+		<intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=3">artikel 3, vierde
+		lid</intref>, kan 24 uur per dag plaatsvinden.</al> 
+  </lid> 
+  <lid> 
+	 <lidnr>4</lidnr> 
+	 <al>Bij de toegang, bedoeld in
+		<intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=3">artikel 3, derde
+		lid</intref>, tot het bestand, bedoeld in
+		<intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=4">artikel 4, eerste
+		lid</intref>, en de vergelijking en doorgeleiding, bedoeld in
+		<intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=3">artikel 3, vierde
+		lid</intref>, worden:</al> 
+	 <lijst> 
+		<li> 
+		  <li.nr>a.</li.nr> 
+		  <al>geen gegevens betreffende de bevoegde autoriteit, de inhoud van het
+			 verzoek en de beantwoording van het verzoek aan de aanbieder bekend,</al> 
+		</li> 
+		<li> 
+		  <li.nr>b.</li.nr> 
+		  <al>geen gegevens van de aanbieder bekend aan anderen dan het
+			 informatiepunt of de bevoegde autoriteit,</al> 
+		</li> 
+		<li> 
+		  <li.nr>c.</li.nr> 
+		  <al>aan het informatiepunt of de bevoegde autoriteit geen andere
+			 gegevens bekend dan die welke ingevolge
+			 <intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=4">artikel 4, eerste
+			 lid</intref>, zijn opgenomen in het in dat artikellid bedoelde
+			 bestand.</al> 
+		</li> 
+	 </lijst> 
+  </lid> 
+  <lid> 
+	 <lidnr>5</lidnr> 
+	 <al>De vergelijking, bedoeld in
+		<intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=3">artikel 3, vierde
+		lid</intref>, vindt slechts plaats aan de hand van een in het verzoek
+		opgenomen gegeven betreffende naam, adres, postcode, huisnummer,
+		nummertoevoeging of nummer.</al> 
+  </lid> 
+  <lid> 
+	 <lidnr>6</lidnr> 
+	 <al>De doorgeleiding, bedoeld in
+		<intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=3">artikel 3, vierde
+		lid</intref>, betreft slechts de gegevens waarop het verzoek zich
+		richt.</al> 
+  </lid>
+</artikel>
+            <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>6</nr>
+    </kop>
+    <al>Bij regeling van Onze Minister van Justitie kunnen regels worden
+        gesteld met betrekking tot de werkwijze van het informatiepunt.</al>
+</artikel>
+            <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr>7</nr> 
+  </kop> 
+  <lid> 
+	 <lidnr>1</lidnr> 
+	 <al>Onze Minister van Justitie draagt er zorg voor dat het informatiepunt
+		voor elke informatieverstrekking een kenmerk vastlegt aan de hand waarvan kan
+		worden herleid door welke aanbieder, aan welke bevoegde autoriteit en op welke
+		rechtsgrondslag informatie is verstrekt. De vastlegging wordt gedurende drie
+		jaren bewaard.</al> 
+  </lid> 
+  <lid> 
+	 <lidnr>2</lidnr> 
+	 <al>Onze Minister van Justitie draagt er zorg voor dat het informatiepunt
+		geen gegevens opslaat als bedoeld in
+		<intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=4">artikel 4, eerste
+		lid</intref>, tenzij de gegevens worden opgeslagen onder
+		verantwoordelijkheid van de aanbieder op basis van een overeenkomst als bedoeld
+		in <intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=3">artikel 3, zesde lid</intref>. De
+		vastlegging, bedoeld in het eerste lid, vindt op zodanige wijze plaats dat
+		daarin geen gegevens worden opgenomen die herleidbaar zijn tot personen op wie
+		een verzoek om informatie betrekking heeft.</al> 
+  </lid>
+</artikel>
+            <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr>8</nr> 
+  </kop> 
+  <lid><lidnr>1</lidnr>
+	 <al>Onze Minister van Justitie stelt jaarlijks een verslag op waarin voor
+		wat betreft de opsporing van strafbare feiten melding wordt gemaakt van het
+		aantal malen waarin door tussenkomst van het informatiepunt aan een bevoegde
+		autoriteit informatie is verstrekt. Deze vermelding is in ieder geval
+		uitgesplitst naar:</al> 
+	 <lijst> 
+		<li> 
+		  <li.nr>a.</li.nr> 
+		  <al>de rechtsgrondslag van het verzoek van de bevoegde autoriteit,</al>
+		  
+		</li> 
+		<li> 
+		  <li.nr>b.</li.nr> 
+		  <al>de arrondissementsparketten en de politiekorpsen, of andere
+			 opsporingsdiensten. </al> 
+		</li> 
+	 </lijst>
+  </lid>
+  <lid>
+	 <lidnr>2</lidnr>
+	 <al>Onze Minister van Justitie stelt jaarlijks een verslag op van een audit
+		naar de goede uitvoering van dit besluit door de aanbieders van openbare
+		telecommunicatiediensten of van openbare telecommunicatienetwerken, het
+		informatiepunt, de arrondissementsparketten en de politiekorpsen, of andere
+		opsporingsdiensten.</al> 
+	 <al>Daarbij worden ten minste de volgende onderwerpen behandeld:</al>
+	 <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+		<li>
+		  <li.nr>a.</li.nr>
+		  <al>de werking van het systeem;</al>
+		</li>
+		<li>
+		  <li.nr>b.</li.nr>
+		  <al>de kwaliteit van de verstrekking van gegevens;</al>
+		</li>
+		<li> 
+		  <li.nr>c.</li.nr>
+		  <al>de bevraging van gegevens.</al>
+		</li>
+	 </lijst>
+  </lid>
+</artikel>
+            <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>9</nr>
+    </kop>
+    <al>Met de in <intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=3">artikel 3, eerste lid</intref>, bedoelde technische
+        voorzieningen worden gelijkgesteld technische voorzieningen die
+        rechtmatig zijn geproduceerd of in de handel zijn gebracht in
+        een andere lid-staat van de Europese Unie dan wel rechtmatig
+        zijn geproduceerd in een staat die partij is bij de Overeenkomst
+        betreffende de Europese Economische Ruimte, en die ten minste
+        aan gelijkwaardige eisen voldoen.</al>
+</artikel>
+            <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>10</nr>
+    </kop>
+    <al>
+        <redactie type="vervanging">Wijzigt het Besluit aftappen
+            openbare telecommunicatienetwerken en -diensten.</redactie>
+    </al>
+</artikel>
+            <artikel status="goed">
+		  <kop><label>Artikel</label><nr>11</nr>
+		  </kop>
+		  <lid><lidnr>1</lidnr>
+			 <al>De <intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=2">artikelen 2 tot en met
+				7</intref> zijn tot 1 september 2007 niet van toepassing op verzoeken
+				om informatie gericht tot of verstrekkingen van informatie afkomstig van de
+				aanbieder van een openbare telecommunicatiedienst die uitsluitend bestaat in de
+				verlening van toegang tot Internet en de door middel van Internet te leveren of
+				te verrichten diensten.</al>
+		  </lid>
+		  <lid> 
+			 <lidnr>2</lidnr>
+			 <al>Onze Minister van Justitie, een aanbieder als bedoeld in het
+				eerste lid en iedere bevoegde autoriteit kunnen gezamenlijk beslissen bij de
+				verzoeken en de verstrekkingen, bedoeld in het eerste lid, gebruik te maken van
+				het informatiepunt en de en daarbij toepassing te geven aan de
+				<intref status="actief" doc="1.0:v:BWBR0011123&amp;artikel=2">artikelen 2 tot en met
+				7</intref>.</al>
+		  </lid>
+		</artikel>
+            
+            <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>13</nr>
+    </kop>
+    <al>Dit besluit wordt aangehaald als: Besluit verstrekking gegevens telecommunicatie.</al>
+</artikel>
+        </wettekst>
+        <wetsluiting status="goed">
+    <slotformulering>
+        <al>Lasten en bevelen dat dit besluit met de daarbij behorende
+            nota van toelichting in het Staatsblad zal worden geplaatst.</al>
+    </slotformulering>
+    <gegeven>
+        <dagtekening>
+            <plaats>'s-Gravenhage</plaats>
+            <datum isodatum="">26 januari 2000</datum>
+        </dagtekening>
+        <koning>Beatrix </koning>
+    </gegeven>
+    <ondertekening>
+        <functie>De Minister van Verkeer en Waterstaat,</functie>
+        <naam>
+            <achternaam>T. Netelenbos </achternaam>
+        </naam>
+    </ondertekening>
+    <ondertekening>
+        <functie>De Minister van Justitie,</functie>
+        <naam>
+            <achternaam>A. H. Korthals </achternaam>
+        </naam>
+    </ondertekening>
+    <ondertekening>
+        <functie>De Minister van Binnenlandse Zaken en Koninkrijksrelaties,</functie>
+        <naam>
+            <achternaam>A. Peper</achternaam>
+        </naam>
+    </ondertekening>
+    <uitgifte>
+        <datum isodatum="">de <nadruk type="cur">vijftiende</nadruk> februari 2000</datum>
+        <ondertekening>
+            <functie>De Minister van Justitie,</functie>
+            <naam>
+                <achternaam>A. H. Korthals </achternaam>
+            </naam>
+        </ondertekening>
+    </uitgifte>
+</wetsluiting>
+        <bijlage status="goed"> 
+  <kop> 
+	 <label>Bijlage</label> 
+	 <titel status="officieel">bij het Besluit van 26 januari 2000, houdende
+		regels voor de verstrekking van gegevens door aanbieders van openbare
+		telecommunicatienetwerken en -diensten met het oog op het onderzoek van
+		telecommunicatie (Besluit verstrekking gegevens telecommunicatie) </titel> 
+  </kop> 
+  <divisie> 
+	 <kop> 
+		<titel status="officieel">Specificatie interface voor aanlevering
+		  gegevens aan het informatiepunt </titel> 
+	 </kop> 
+	 <divisie> 
+		<kop> 
+		  <nr>1</nr> 
+		  <titel status="officieel"> Gegevensverstekking</titel> 
+		</kop> 
+		<al>1. De aanbieder verstrekt de navolgende op de gebruiker betrekking
+		  hebbende gegevens:</al> 
+		<lijst> 
+		  <li> 
+			 <li.nr>a.</li.nr> 
+			 <al>naam;</al> 
+		  </li> 
+		  <li> 
+			 <li.nr>b.</li.nr> 
+			 <al>adres;</al> 
+		  </li> 
+		  <li> 
+			 <li.nr>c.</li.nr> 
+			 <al>woonplaats;</al> 
+		  </li> 
+		  <li> 
+			 <li.nr>d.</li.nr> 
+			 <al>postcode;</al> 
+		  </li> 
+		  <li> 
+			 <li.nr>e.</li.nr> 
+			 <al>aansluitnummer voor vaste of mobiele openbare telefoonnetwerken,
+				en de inlognaam, de gebruikersnaam en de e-mail adressen van een gebruiker, de
+				identificatienummers van randapparaten, en de Internet-protocol-nummers die op
+				het tijdstip, waarop de gegevens van het bestand worden geactualiseerd, aan een
+				gebruiker zijn toegekend, voor openbare telecommunicatienetwerken en openbare
+				telecommunicatiediensten die uitsluitend bestaan in de verlening van toegang
+				tot Internet en de door middel van Internet te leveren of te verrichten
+				diensten;</al> 
+		  </li> 
+		  <li> 
+			 <li.nr>f.</li.nr> 
+			 <al>soort telecommunicatiedienst, waaronder mede wordt verstaan de
+				soort verbinding (zoals kabel, ADSL, inbelverbinding);</al> 
+		  </li> 
+		  <li> 
+			 <li.nr>g.</li.nr> 
+			 <al>de identiteit van de telecommunicatie-aanbieder.</al> 
+		  </li> 
+		</lijst> 
+		<al>2. Onder nummers worden mede begrepen: afgeschermde en geheime
+		  nummers. </al> 
+	 </divisie> 
+	 <divisie> 
+		<kop> 
+		  <nr>2</nr> 
+		  <titel status="officieel">Standaard voor verstrekking van de
+			 gegevens</titel> 
+		</kop> 
+		<al>De aanbieder verstrekt de gegevens die in de bedrijfsvoering zijn
+		  opgenomen. De verstrekking geschiedt zo veel mogelijk overeenkomstig de
+		  standaarden NEN 1888 (persoonsgegevens) en NEN 5825 (adressen). Indien deze
+		  standaarden niet worden gehanteerd, worden door de aanbieder niet gebruikte
+		  velden in het bestand&#xAB; leeg&#xBB; opgenomen. </al> 
+	 </divisie> 
+	 <divisie> 
+		<kop> 
+		  <nr>3</nr> 
+		  <titel status="officieel">Standaard voor de tekenset</titel> 
+		</kop> 
+		<al>De aanbieder maakt gebruik van de tekenset &#xAB;Extended ASCII&#xBB; in een
+		  XML-indeling volgens een door het informatiepunt aangeleverd schema.De
+		  aanbieder draagt zorg voor goed leesbare gegevens. </al> 
+	 </divisie> 
+	 <divisie> 
+		<kop> 
+		  <nr>4</nr> 
+		  <titel status="officieel">Informatiedrager</titel> 
+		</kop> 
+		<al>De aanbieder maakt gebruik van een informatiedrager die functioneel
+		  is voor de interface. Bij voorkeur wordt gebruik gemaakt van een beveiligde
+		  netwerkverbinding. </al> 
+	 </divisie> 
+	 <divisie> 
+		<kop> 
+		  <nr>5</nr> 
+		  <titel status="officieel">Veiligheidseisen</titel> 
+		</kop> 
+		<al>De gegevens worden zodanig verstrekt dat:</al> 
+		<lijst> 
+		  <li> 
+			 <li.nr>a.</li.nr> 
+			 <al>ongeautoriseerde toegang tot het bestand niet mogelijk is;</al> 
+		  </li> 
+		  <li> 
+			 <li.nr>b.</li.nr> 
+			 <al>de integriteit en de onaantastbaarheid van het bestand verzekerd
+				is;</al> 
+		  </li> 
+		  <li> 
+			 <li.nr>c.</li.nr> 
+			 <al>verstoring van de communicatie met het systeem niet mogelijk is,
+				waarbij als maatstaf geldt de hoogste mate van beveiliging die in dit opzicht
+				vrij op de markt verkrijgbaar is. </al> 
+		  </li> 
+		</lijst> 
+	 </divisie> 
+	 <divisie> 
+		<kop> 
+		  <nr>6</nr> 
+		  <titel status="officieel">Anonimiteit van de gegevens</titel> 
+		</kop> 
+		<al>De doorgeleiding van gevraagde gegevens geschiedt anoniem. Deze
+		  anonimiteit dient technisch gewaarborgd te zijn. Met uitzondering van de
+		  periode gedurende welke de gegevens worden ingevoerd of worden geactualiseerd
+		  is het bestand niet toegankelijk voor de desbetreffende aanbieder.</al> 
+	 </divisie> 
+	 <divisie> 
+		<kop> 
+		  <nr>7</nr> 
+		  <titel status="officieel">Onbeperkte toegankelijkheid voor het
+			 informatiepunt</titel> 
+		</kop> 
+		<al>Het bestand en de bijbehorende lokale configuratie zijn permanent
+		  voor het informatiepunt toegankelijk, behoudens de perioden waarin de gegevens
+		  worden ingevoerd, onderscheidenlijk worden geactualiseerd, en in situaties van
+		  overmacht. </al> 
+	 </divisie> 
+	 <divisie> 
+		<kop> 
+		  <nr>8</nr> 
+		  <titel status="officieel">Actualiteit van de gegevens</titel> 
+		</kop> 
+		<al>Het bestand wordt eenmaal per etmaal geactualiseerd aan de laatste
+		  stand van de gegevens, zoals deze voorkomen in de bedrijfsvoering van de
+		  aanbieder. </al> 
+	 </divisie> 
+	 <divisie> 
+		<kop> 
+		  <nr>9</nr> 
+		  <titel status="officieel">Responstijd</titel> 
+		</kop> 
+		<al>Het bestand dient met een adequate snelheid bevraagd te kunnen
+		  worden. De gevraagde gegevens dienen binnen een gering aantal minuten te kunnen
+		  worden aangeleverd. Volstaan kan worden met het verstrekken van een zogenaamde
+		  platte tabel. </al> 
+	 </divisie> 
+  </divisie>
+</bijlage>
+    </wet-besluit>
+</wetgeving>
+  	

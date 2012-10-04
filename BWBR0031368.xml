@@ -1,0 +1,698 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0031368" dtdversie="2.0" id="472159" soort="beleidsregel">
+  
+  <intitule>Beleidsregels van de Minister van Veiligheid en Justitie van 11&#xA0;januari 2012, nr&#xA0;DGP/DPV/VIT, over de beveiliging van het radiocommunicatienetwerk C2000</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Minister van Veiligheid en Justitie,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0020268&amp;artikel=2" compleet="nee">artikel&#xA0;2 Regeling C2000 en GMS</extref>;</considerans.al>
+        <considerans.al>Vanwege het belang van het C2000-netwerk voor de handhaving van de openbare orde, veiligheid en hulpverlening worden er regels gesteld aan de informatiebeveiliging daarvan;</considerans.al>
+        <considerans.al bevat="gehoord">Gehoord het advies van het Veiligheidsberaad;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Begrippen</titel>
+        </kop>
+        <al>In deze regeling wordt verstaan onder:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a)</li.nr>
+            <al>
+              <nadruk type="cur">het C2000-netwerk:</nadruk> het communicatienetwerk ten behoeve van de Openbare Orde en Veiligheid(OOV) diensten binnen Nederland, zoals bedoeld in <extref status="actief" doc="1.0:v:BWBR0020268&amp;artikel=1" compleet="nee">artikel&#xA0;1 van de Regeling C2000 en GMS</extref>;</al>
+          </li>
+          <li>
+            <li.nr>b)</li.nr>
+            <al>
+              <nadruk type="cur">de eigenaar van het C2000-netwerk:</nadruk>  de staat der Nederlanden, de minister van Veiligheid en Justitie. De eigenaar van het C2000-netwerk vertegenwoordigt mede namens de Minister Defensie en de Minister van Volksgezondheid, Welzijn en Sport de staat der Nederlanden;</al>
+          </li>
+          <li>
+            <li.nr>c)</li.nr>
+            <al>
+              <nadruk type="cur">strategisch beheerder:</nadruk> 
+                     de minister van Veiligheid en Justitie</al>
+          </li>
+          <li>
+            <li.nr>d)</li.nr>
+            <al>
+              <nadruk type="cur">tactisch en operationeel beheerder:</nadruk> 
+                     de beheerorganisatie van C2000, Voorziening tot samenwerking Politie Nederland/Unit Meldkamer Systemen;</al>
+          </li>
+          <li>
+            <li.nr>e)</li.nr>
+            <al>
+              <nadruk type="cur">gebruikers:</nadruk> 
+                      een organisatie die voor OOV-taken gebruik maakt van het C2000- communicatienetwerk. Dit kan een aangewezen gebruiker, een gelieerde of een bijzondere gebruiker zijn;</al>
+          </li>
+          <li>
+            <li.nr>f)</li.nr>
+            <al>
+              <nadruk type="cur">aangewezen gebruiker:</nadruk> 
+                     een organisatie die op het terrein van openbare orde, veiligheid en hulpverlening een wettelijk opgedragen taak heeft en ten behoeve van haar operationele processen gebruik maakt van C2000;</al>
+          </li>
+          <li>
+            <li.nr>g)</li.nr>
+            <al>
+              <nadruk type="cur">gelieerde:</nadruk>  een organisatie die de aangewezen gebruiker ondersteunt bij de uitvoering van zijn taken op het terrein van openbare orde, veiligheid en hulpverlening en die daarbij met behulp van mobiele communicatie door de aangewezen gebruiker wordt aangestuurd.</al>
+          </li>
+          <li>
+            <li.nr>h)</li.nr>
+            <al>
+              <nadruk type="cur">adviesorgaan C2000:</nadruk> :et overleg van gebruikers dat de strategisch beheerder adviseert over C2000. De adviestaak met betrekking tot C2000 wordt ingevuld door de Bestuurscommissie Informatievoorziening van het Veiligheidsberaad. Ten aanzien van C2000 wordt dit gedaan in afstemming met het korpsbeheerdersberaad;</al>
+          </li>
+          <li>
+            <li.nr>i)</li.nr>
+            <al>
+              <nadruk type="cur">een bijzondere gebruiker:</nadruk> 
+                           een organisatie die naar het oordeel van de Minister van Veiligheid en Justitie uit het oogpunt van openbare orde, veiligheid en hulpverlening onder reguliere omstandigheden en bij crisis en rampen in contact moeten kunnen treden met een of meer aangewezen gebruikers en daartoe gebruik maakt van C2000.</al>
+          </li>
+          <li>
+            <li.nr>j)</li.nr>
+            <al>
+              <nadruk type="cur">C2000-randapparatuur:</nadruk> 
+                      een apparaat dat via de air-interface met het C2000-netwerk is verbonden. Dit zijn T2000 handsets, P2000 handsets of mobiele data terminals;</al>
+          </li>
+          <li>
+            <li.nr>k)</li.nr>
+            <al>
+              <nadruk type="cur">beschikbaarheid:</nadruk> 
+                     de mate waarin (gegevens in) een informatiesysteem beschikbaar is voor een eindgebruiker;</al>
+          </li>
+          <li>
+            <li.nr>l)</li.nr>
+            <al>
+              <nadruk type="cur">beveiligingsincident:</nadruk> 
+                      een gebeurtenis die opgetreden is, of die kan optreden en die negatieve effecten heeft op de informatiebeveiliging van het C2000-communicatienetwerk of in de controleerbaarheid van deze eigenschappen;</al>
+          </li>
+          <li>
+            <li.nr>m)</li.nr>
+            <al>
+              <nadruk type="cur">integriteit:</nadruk> 
+                     de mate waarin (gegevens in) een informatiesysteem foutenvrij is;</al>
+          </li>
+          <li>
+            <li.nr>n)</li.nr>
+            <al>
+              <nadruk type="cur">vertrouwelijkheid:</nadruk> 
+               de mate waarin de gegevens ineen informatiesysteem slechts toegankelijk is voor geautoriseerde personen;</al>
+          </li>
+          <li>
+            <li.nr>o)</li.nr>
+            <al>
+              <nadruk type="cur">(C2000-) Infrastructuur:</nadruk> 
+                      alle middelen die binnen het verantwoordelijkheidsgebied van de eigenaar van het C2000-communicatienetwerk vallen en fysiek zijn verbonden met het C2000- communicatienetwerk. Hieronder vallen schakelpunten, paging routers, netwerkinfrastructuur, opstelpunten, vitale SCL's, C2000-meldkamerapparatuur, netwerkmanagement systeem en diverse gateways. </al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Doelstelling en reikwijdte</titel>
+        </kop>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>De informatiebeveiliging van het C2000-netwerk wordt gedefinieerd in termen van beschikbaarheid, integriteit en vertrouwelijkheid.</al>
+          </li>
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>De doelstelling van het informatiebeveiligingsbeleid is de realisatie en het behoud van informatiebeveiliging van het C2000-netwerk. Dit informatiebeveiligingsbeleid stelt de grondslagen en richtlijnen vast voor de informatiebeveiliging van het C2000 communicatienetwerk en de taken, verantwoordelijkheden en bevoegdheden van de daarbij betrokken partijen.</al>
+          </li>
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>De reikwijdte van dit beleid is gelimiteerd tot aspecten die gerelateerd zijn aan de</al>
+          </li>
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>Informatiebeveiliging van het C2000 communicatienetwerk. Het Informatiebeveiligingsbeleid is van toepassing op alle personen en organisaties die het C2000 communicatienetwerk gebruiken, beheren of onderhouden in dienst van, gelieerd aan, of werkend in opdracht van &#xE9;&#xE9;n van de OOV-diensten, de beheerders of de eigenaar.</al>
+          </li>
+          <li>
+            <li.nr>&#x2022;</li.nr>
+            <al>Taken kunnen worden uitbesteed aan leveranciers of een andere partij, echter de verantwoordelijkheden van partijen, zoals deze in dit beleid zijn belegd, zijn niet overdraagbaar. Daarnaast is het de verantwoordelijkheid van de uitbestedende partij dat de leverancier formeel is geaccrediteerd en alle uit dit beleid voortvloeiende maatregelen, behorend bij de uitbestede taak, heeft ge&#xEF;mplementeerd.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Implementatie en beveiligingsincidenten</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De implementatie en naleving van de beveiligingsmaatregelen bij de gebruikers worden jaarlijks getoetst door de eigenaar.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De gebruiker implementeert in beginsel de maatregelen (zie <intref status="actief" doc="1.0:v:BWBR0031368&amp;bijlage=2">Bijlage 2</intref>). De gebruiker mag alleen hiervan afwijken indien hij voldoende kan motiveren dat een vergelijkbaar basis beveiligingsniveau wordt gerealiseerd.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De beheerder gebruikt de vastgelegde beveiligingseisen als richtsnoer voor zijn eigen risicobeheersingproces om zo te waarborgen dat aan de eisen wordt voldaan.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>Door te voldoen aan de beveiligingseisen, zijn de gebruikers en de beheerder in overeenstemming met dit beleid.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">5</lidnr>
+          <al>Partijen zijn verplicht jaarlijks te rapporteren aan de beheerder over de status van de implementatie van de voor hen verplichte beveiligingsmaatregelen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">6</lidnr>
+          <al>Alle C2000 eindgebruikers en personen werkzaam voor het C2000 communicatienetwerk of binnen een betrokken partij worden op de hoogte gebracht over hun verantwoordelijkheden rond informatiebeveiliging en hebben daarvoor training gekregen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">7</lidnr>
+          <al>Door middel van formele afspraken met partijen betrokken bij het C2000 communicatienetwerk is geborgd dat dit informatiebeveiligingsbeleid en de daaruit voorvloeiende beheersmaatregelen van toepassing zijn op de medewerkers werkzaam binnen deze partijen.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">8</lidnr>
+          <al>Het gebruik van leveranciers of het overdragen van taken aan overige partijen ontslaat de partij niet van de bij hem belegde verantwoordelijkheid: In het geval dat een leverancier een verplichte beveiligingsmaatregel niet implementeert, is de partij die gebruik maakt van de leverancier hier direct verantwoordelijk voor.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">9</lidnr>
+          <al>Alle personen die het C2000 communicatienetwerk gebruiken, beheren of onderhouden (waaronder leveranciers), melden via de binnen de eigen organisatie aangewezen beveiligingsfunctionaris, de beveiligingsincidenten bij het operationeel-beveiligingsbeheer.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Gebruik en beheer door aangewezen gebruikers</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De aangewezen gebruiker is verantwoordelijk voor beveiligd gebruik van C2000-netwerk.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De aangewezen gebruiker is verantwoordelijk voor de implementatie van de beveiligingsmaatregelen (<intref status="actief" doc="1.0:v:BWBR0031368&amp;bijlage=2">Bijlage 2</intref>).</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Verantwoordelijkheid aangewezen gebruiker voor gelieerde en leverancier</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De aangewezen gebruiker is verantwoordelijk voor het voldoen van haar gelieerden aan dit informatiebeveiligingsbeleid.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De aangewezen gebruiker legt met de gelieerde contractueel vast dat de gelieerde de set maatregelen in <intref status="actief" doc="1.0:v:BWBR0031368&amp;bijlage=2">Bijlage 2</intref> implementeert. Hierbij is de aangewezen gebruiker ervoor verantwoordelijk dat de gelieerde deze maatregelen daadwerkelijk implementeert en rapporteert de aangewezen gebruiker over de status van implementatie aan de beheerder.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De aangewezen gebruiker voert de taken en voortvloeiende verantwoordelijkheden beheer C2000 randapparatuur en gebruik C2000 beheer- en meldkamersystemen voor de gelieerde uit. Het is de gelieerde niet toegestaan deze taken zelfstandig uit te voeren.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>De aangewezen gebruiker mag twee C2000 beveiligingsgerelateerde taken uitbesteden aan leveranciers.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Gebruik en beheer bijzondere gebruikers</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Zoals alle partijen binnen het C2000-communicatienetwerk implementeert de bijzondere gebruiker de algemene maatregelen uit <intref status="actief" doc="1.0:v:BWBR0031368&amp;bijlage=2">Bijlage 2</intref>.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Om te worden toegelaten als bijzondere gebruiker tot het C2000-communicatienetwerk, is de bijzondere gebruiker geaccrediteerd door de eigenaar.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Gebruik en beheer randapparatuur door tactisch en operationeel beheerder</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De beheerder is verantwoordelijk voor beveiligd gebruik van C2000-randapparatuur.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De beheerder is verantwoordelijk voor de implementatie van de beveiligingsmaatregelen (<intref status="actief" doc="1.0:v:BWBR0031368&amp;bijlage=2">Bijlage 2</intref>).</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Gebruik en beheer C2000 meldkamer -en beheersystemen door tactisch en operationeel beheerder</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>De eigenaar is verantwoordelijk voor het formeel vaststellen van de accreditatiecriteria en de uiteindelijke accreditatiebeslissing. Hiernaast is de beheerder verantwoordelijk voor het laden en verwijderen van cryptografische sleutels in randapparatuur van bijzondere gebruikers.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De beheerder is verantwoordelijk voor het onderhouden van de accreditatiecriteria aan de hand van voortschrijdend inzicht en het uitvoeren van toetsingen bij gebruikers en leveranciers en op externe koppelingen, SCL's en randapparatuur.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">9</nr>
+          <titel status="officieel">Operationeel beveiligingsbeheer</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Het operationeel beveiligingsbeheer is verantwoordelijk voor het beperken van de impact van beveiligingsincidenten.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Het operationeel beveiligingsbeheer is verantwoordelijk voor het signaleren van ontwikkelingen aan strategisch beveiligingsbeheer.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Het operationeel beveiligingsbeheer is belegd bij de tactisch en operationeel beheerder.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">10</nr>
+          <titel status="officieel">Strategisch beveiligingsbeheer</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Het strategisch beveiligingsbeheer wordt ondersteund door en ziet toe op het operationeel beveiligingsbeheer. Daarnaast is strategisch beveiligingsbeheer verantwoordelijk voor de toetsing op naleving door middel van periodieke audits. De rol van het strategisch beveiligingsbeheer is belegd bij de eigenaar.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">11</nr>
+          <titel status="officieel">Toezicht en controle</titel>
+        </kop>
+        <lid><lidnr status="officieel">1</lidnr><al>De verantwoordelijkheid voor uitvoering van toezicht, controle en herziening is belegd bij de eigenaar.</al></lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">12</nr>
+          <titel status="officieel">Controle en audits</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Controle heeft als doel vast te stellen of de beveiligingsmaatregelen ge&#xEF;mplementeerd zijn en of zij het gewenste effect bereiken (namelijk een C2000 communicatienetwerk met voldoende beschikbaarheid, integriteit en vertrouwelijkheid).</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De controles vinden plaats in de vorm van audits.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">13</nr>
+          <titel status="officieel">Herziening</titel>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>ln de Herziening (van het informatiebeveiligingsbeleid) wordt de informatiebeveiliging van het C2000-communicatienetwerk ge&#xEB;valueerd door strategisch beveiligingsbeheer.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>De herziening vindt jaarlijks plaats door strategisch beveiligingsbeheer.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Indien de herziening hier aanleiding toe geeft, wordt dit informatiebeveiligingsbeleid aangepast en opnieuw vastgesteld.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>In het geval van ernstige incidenten kan strategisch beveiligingsbeheer deze herziening vervroegd plaats laten vinden.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">14</nr>
+          <titel status="officieel">Naleving</titel>
+        </kop>
+        <lid><lidnr status="officieel">1</lidnr><al>De effectiviteit van het beveiligingsbeleid wordt bepaald door de mate waarin betrokken partijen de beveiligingsmaatregelen naleven.</al></lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">15</nr>
+          <titel status="officieel">Inwerkingtreding</titel>
+        </kop>
+        <al>Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">16</nr>
+        </kop>
+        <al>Deze beleidsregels worden aangehaald als: Beleidsregels Informatiebeveiligingsbeleid C2000</al>
+      </artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <gegeven>
+        <dagtekening>
+          <plaats>Den Haag</plaats>
+          <datum isodatum="2012-01-11">11 januari 2012</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>De <functie>Minister</functie> van <organisatie afkorting="VJ">Veiligheid en Justitie,</organisatie>
+        <naam>
+          <voornaam>I.W.</voornaam>
+          <achternaam>Opstelten</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label>
+        <nr status="officieel">1</nr>
+        <titel status="officieel">: Toetsingsoverzicht</titel>
+      </kop>
+      <al>In de onderstaande label is de periodiciteit van de in dit beleid genoemde toetsingsmomenten kort weergegeven:</al>
+      <al>Audit strategisch beveiligingsbeheer</al>
+      <al>Jaarlijkse stelselevaluatie met betrekking tot informatiebeveiliging voor het C2000- communicatienetwerk.</al>
+      <al>Deze evaluatie is de input voor wijzigingen in dit beleid. De eigenaar in overleg met strategisch beveiligingsbeheer plant om de twee jaar de stelselevaluatie.</al>
+      <al>Audit beheerder</al>
+       <al>Jaarlijks</al>
+      <al>Hoewel dit jaarlijks plaatsvindt, zal per jaar een aandachtsgebied (bijvoorbeeld &#xE9;&#xE9;n taak) worden gekozen. Strategisch beveiligingsbeheer stelt jaarlijks deze aandachtsgebieden vast.</al>
+      <al>Audit gebruiker</al>
+      <al>Jaarlijks.</al>
+      <al>Deze audit zal niet jaarlijks voor alle gebruikers plaatsvinden, maar slechts voor zes (6) gebruikers per jaar. Strategisch beveiligingsbeheer stelt jaarlijks vast welke gebruikers worden geaudit en kan daarbij ook aandachtspunten aangeven.</al>
+      <al>Herhalingsaccreditatie Steekproefsgewijs.</al>
+      <al>Jaarlijks vastgesteld.</al>
+      <al>Dit omvat herhalingsonderzoeken bij reeds geaccrediteerde partijen, apparaten of koppelingen.</al>
+      <al>Dit vindt steekproefsgewijs plaats, in het bijzonder bij een directe aanleiding. Bijvoorbeeld: beveiligingsincidenten en (grote) veranderingen. Strategisch beveiligingsbeheer stelt jaarlijks vast welke herhalingsaccreditaties worden uitgevoerd. De herhalingsonderzoeken voor gebruikers vinden plaats door middel van de gebruiker audits.</al>
+    </bijlage>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label>
+        <nr status="officieel">2</nr>
+        <titel status="officieel">: Beveiligingsmaatregelen gebruikers</titel>
+      </kop>
+      <al>Deze bijlagebevat de beveiligingsmaatregelen per rol, welke zijn gerelateerd aan de NEN-ISO/IEC 27002:2007. De partijen waarbij de rol is belegd zijn verantwoordelijk voor de implementatie van de beveiligingsmaatregelen.</al>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">2.0</nr>
+          <titel status="officieel">Algemene beveiligingsmaatregelen</titel>
+        </kop>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>2.0.1</li.nr>
+            <al>De gebruiker richt een documentatiesysteem in voor het centrale beheer van</al>
+            <al>documentatie relevant voor de informatiebeveiliging van het C2000-communicatienetwerk.</al>
+            <al>Onderdeel van het documentatiesysteem moet ten minste zijn: versiebeheer en traceerbaarheid.</al>
+            <al>Dit systeem is onderdeel van het kwaliteitssysteem van de gebruiker.</al>
+            <al>Indien in deze bijlage gedocumenteerd staat dan is het betreffende gedeelte in dit documentatiesysteem zijn opgenomen.</al>
+          </li>
+          <li>
+            <li.nr>2.0.2</li.nr>
+            <al>De taken, verantwoordelijkheden en bevoegdheden van werknemers, ingehuurd personeel en externe eindgebruikers ten aanzien van de informatiebeveiliging van C2000 moeten worden vastgesteld en gedocumenteerd.</al>
+          </li>
+          <li>
+            <li.nr>2.0.3</li.nr>
+            <al>Elke gebruiker stelt een C2000-beveiligingsfunctionaris aan, die als centraal aanspreekpunt voor en naar de beheerder en eigenaar fungeert op het gebied van informatiebeveiliging. Deze functionaris geeft tevens uitvoering aan de beveiligingsincidenten- en implementatierapportage naar de beheerder.</al>
+          </li>
+          <li>
+            <li.nr>2.0.4</li.nr>
+            <al>De toegangsrechten (zowel logisch als fysiek) van alle werknemers, ingehuurd personeel en externe eindgebruikers tot C2000-voorzieningen worden geblokkeerd bij be&#xEB;indiging van het dienstverband, het contract of de overeenkomst, of wordt na wijziging van zijn/haar taak aangepast.</al>
+          </li>
+          <li>
+            <li.nr>2.0.5</li.nr>
+            <al>De toegangsrechten (zowel logisch als fysiek) van alle werknemers, ingehuurd personeel en eindgebruikers tot C2000-voorzieningen worden minimaal halfjaarlijks door of in opdracht van het lijnmanagement gecontroleerd. Het resultaat van deze controle wordt gedocumenteerd.</al>
+          </li>
+          <li>
+            <li.nr>2.0.6</li.nr>
+            <al>Er is een procedure vastgesteld en beschikbaar voor alle werknemers, ingehuurd personeel en externe eindgebruikers om beveiligingsincidenten onverwijld bij operationeel beveiligingsbeheer te melden.</al>
+          </li>
+          <li>
+            <li.nr>2.0.7</li.nr>
+            <al>Beveiligingsincidenten en reacties hierop dienen te worden geregistreerd, daarnaast dient een procedure tot onverwijlde opvolging door de beveiligingsfunctionaris te zijn vastgesteld.</al>
+          </li>
+          <li>
+            <li.nr>2.0.8</li.nr>
+            <al>Er is een disciplinair proces van toepassing op werknemers, ingehuurd personeel en eindgebruikers die inbreuk op de informatiebeveiliging van het C2000-communicatienetwerk hebben gepleegd.</al>
+          </li>
+          <li>
+            <li.nr>2.0.9</li.nr>
+            <al>Relevante handboeken, werkinstructies en gedragscodes rond informatiebeveiliging zijn voor elke eindgebruiker en beheerder beschikbaar.</al>
+          </li>
+          <li>
+            <li.nr>2.0.10</li.nr>
+            <al>Elke gebruiker controleert de implementatie van de voor hem en zijn gelieerden verplichte beveiligingsmaatregelen en rapporteert hierover jaarlijks aan operationeel beveiligingsbeheer volgens een format vastgesteld door operationeel beveiligingsbeheer.</al>
+          </li>
+          <li>
+            <li.nr>2.0.11</li.nr>
+            <al>Elke gebruiker controleert de implementatie van de voor zijn leveranciers verplichte beveiligingsmaatregelen en rapporteert hierover jaarlijks aan operationeel beveiligingsbeheer volgens een format vastgesteld door operationeel beveiligingsbeheer.</al>
+            <al>Leveranciers die crypto gerelateerde handelingen uitvoeren (zogenaamd type 2 leveranciers) dienen te zijn geaccrediteerd door de eigenaar. De implementatie van de verplichte beveiligingsmaatregelen en volledige medewerking van de leverancier bij een controle op deze implementatie dient in het contract met de leverancier te worden opgenomen.</al>
+          </li>
+          <li>
+            <li.nr>2.0.12</li.nr>
+            <al>Alle logische en fysieke koppelingen tussen de C2000-infrastructuur en andere componenten die niet onderdeel zijn van de standaard C2000 dienstverlening (dit ter beoordeling van de beheerder) zijn geaccrediteerd door de eigenaar.</al>
+          </li>
+          <li>
+            <li.nr>2.0.13</li.nr>
+            <al>De locatie(s) waar C2000 middelen staan opgesteld zijn beveiligd. Het totaal aan inbraakwerende en vertragende maatregelen dient te voldoen aan de maatregelen behorend bij het risiconiveau 3 volgens de verbeterde risicoklasse indeling (VRKl) van het Nationaal Centrum voor Preventie.</al>
+          </li>
+        </lijst>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">2.1</nr>
+          <titel status="officieel">Gebruik C2000 randapparatuur</titel>
+        </kop>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>2.1.1</li.nr>
+            <al>Alle C2000-randapparatuur wordt geregistreerd in een actuele inventaris. Hierin is te allen tijde inzichtelijk aan welke functionaris en aan welk voertuig het randapparaat is toegewezen.</al>
+          </li>
+          <li>
+            <li.nr>2.1.2</li.nr>
+            <al>De C2000-randapparatuur wordt tenminste &#xE9;&#xE9;n keer per week gecontroleerd op juistheid en volledigheid. Ontbrekende randapparaten dienen onverwijld aan operationeel beveiligingsbeheer te worden gemeld.</al>
+          </li>
+          <li>
+            <li.nr>2.1.3</li.nr>
+            <al>Er behoren regels te worden vastgesteld voor aanvaardbaar gebruik van C2000- randapparatuur.</al>
+            <al>Deze gedragsregels bevatten ten minste dat:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2212;</li.nr>
+                <al>C2000-randapparatuur is bestemd voor persoonlijk gebruik.</al>
+              </li>
+              <li>
+                <li.nr>&#x2212;</li.nr>
+                <al>C2000-randapparatuur niet onnodig onbeheerd wordt achtergelaten.</al>
+              </li>
+              <li>
+                <li.nr>&#x2212;</li.nr>
+                <al>De C2000-randapparatuur voor zakelijk gebruik is en niet bestemd is voor priv&#xE9; doeleinden.</al>
+              </li>
+              <li>
+                <li.nr>&#x2212;</li.nr>
+                <al>Alle pogingen tot het misbruik van de apparatuur, zoals het (trachten van) herprogrammeren, openbreken en anderszins manipuleren van het apparaat of de (cryptografische) informatie hierin, strikt verboden is.</al>
+              </li>
+              <li>
+                <li.nr>&#x2212;</li.nr>
+                <al>De instructies van de fabrikant ter bescherming van de apparatuur worden opgevolgd (bijvoorbeeld bescherming legen het blootstellen aan elektromagnetische velden).</al>
+              </li>
+              <li>
+                <li.nr>&#x2212;</li.nr>
+                <al>De instructies van de beheerder die betrekking hebben op de beveiliging van het C2000- netwerk worden opgevolgd.</al>
+              </li>
+            </lijst>
+            <al>Verder bevatten de gedragsregels instructies voor eindgebruikers hoe te handelen in het geval van vermissing van C2000-randapparatuur alsmede de regels voortkomend uit het Landelijk Kader Fleetmap.</al>
+          </li>
+          <li>
+            <li.nr>2.1.4</li.nr>
+            <al>De bovenstaande gedragsregels zijn gecommuniceerd naar en voor akkoord verklaard door personen bij eerste ontvangst van C2000-randapparatuur. Daarna zijn zij eenvoudig voor deze personen beschikbaar.</al>
+          </li>
+          <li>
+            <li.nr>2.1.5</li.nr>
+            <al>Er is een procedure ingericht die het melden van vermissing, verlies en diefstal van randapparatuur beschrijft. Hierin zijn de contactpersonen en escalatiepaden uitgeschreven. De procedure voorziet in het uitschakelen door de beheerder van vermiste, verloren en gestolen randapparatuur.</al>
+          </li>
+          <li>
+            <li.nr>2.1.6</li.nr>
+            <al>Alle personen die C2000-randapparatuur gebruiken krijgen geschikte training en regelmatige bijscholing met betrekking tot informatiebeveiliging en procedures van de organisatie.</al>
+          </li>
+          <li>
+            <li.nr>2.1.7</li.nr>
+            <al>De (tijdelijk) niet in gebruik zijnde C2000-randapparatuur (i.e. voorraad, defect) is ondergebracht in afgesloten kasten in een beveiligde ruimte(n). Toegang tot deze ruimte is beperkt tot hiervoor bevoegde personen.</al>
+          </li>
+        </lijst>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">2.2</nr>
+          <titel status="officieel">Beheer C2000 randapparatuur (lokaal beheer)</titel>
+        </kop>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>2.2.1.</li.nr>
+            <al>Alle beheerde C2000-randapparatuur wordt geregistreerd in een actuele inventaris. Hieruit is inzichtelijk welke randapparaten aan welke functionaris en aan welk voertuig is uitgegeven en in welke gespreksgroepen het randapparaat actief kan zijn.</al>
+          </li>
+          <li>
+            <li.nr>2.2.2</li.nr>
+            <al>Er wordt geregistreerd welke randapparatuur zich buiten de directe controle van de gebruiker (bijvoorbeeld in het geval van onderhoud, inbouw en reparatie) bevindt.</al>
+          </li>
+          <li>
+            <li.nr>2.2.3</li.nr>
+            <al>Wijzigingen in de configuratie (template) van de randapparatuur worden geregistreerd.</al>
+          </li>
+          <li>
+            <li.nr>2.2.4</li.nr>
+            <al>Alleen gespreksgroepen waarvoor de gebruiker geautoriseerd is middels het Landelijk Kader Fleetmap of schriftelijke toestemming heeft van de gespreksgroepeigenaar, mogen in een randapparaat van de gebruiker worden geprogrammeerd.</al>
+          </li>
+          <li>
+            <li.nr>2.2.5</li.nr>
+            <al>Alle C2000-randapparatuur heeft binnen de organisatie een formele eigenaar die managementverantwoordelijkheid heeft voor het gebruik en informatiebeveiliging van de randapparatuur en die optreedt als centraal aanspreekpunt voor de C2000-apparatuur.</al>
+          </li>
+          <li>
+            <li.nr>2.2.6</li.nr>
+            <al>De (tijdelijk) niet in gebruik zijnde C2000-randapparatuur (i.e. voorraad, defect) is ondergebracht in afgesloten kasten in een beveiligde ruimte(n). Toegang tot deze ruimte is beperkt tot hiervoor bevoegde personen.</al>
+          </li>
+          <li>
+            <li.nr>2.2.7</li.nr>
+            <al>De toegang tot de beveiligde ruimte(n) wordt geregistreerd.</al>
+          </li>
+          <li>
+            <li.nr>2.2.8</li.nr>
+            <al>Datum en tijdstip van aankomst en vertrek van bezoekers worden geregistreerd en bezoekers van de beveiligde ruimte(n) behoren gedurende de gehele periode waarin zij zich in deze ruimte(n) bevinden te worden begeleid en er wordt toezicht gehouden op de uitvoer van werkzaamheden. Aan hen mag alleen toegang worden verleend voor geautoriseerde doeleinden zoals reparatie en onderhoud.</al>
+          </li>
+          <li>
+            <li.nr>2.2.9</li.nr>
+            <al>Toegangsrechten tot de beveiligde ruimte(n) worden halfjaarlijks beoordeeld, geactualiseerd en wanneer nodig ingetrokken. Het resultaat van deze controle wordt gedocumenteerd.</al>
+          </li>
+          <li>
+            <li.nr>2.2.10</li.nr>
+            <al>De achtergrond van alle lokale beheerders is geverifieerd via een screening equivalent met die voor een Vertrouwensfunctie niveau C, in de zin van de wet Veiligheidsonderzoeken van 10&#xA0;oktober 1996.</al>
+          </li>
+          <li>
+            <li.nr>2.2.11</li.nr>
+            <al>Alle personen die C2000-randapparatuur beheren krijgen geschikte training en regelmatige bijscholing met betrekking tot informatiebeveiliging en procedures van de organisatie, relevant voor hun werkgebied.</al>
+          </li>
+          <li>
+            <li.nr>2.2.12</li.nr>
+            <al>Slechts C2000 geaccrediteerde randapparatuur mag worden gebruikt. Randapparatuur mag alleen worden aangeschaft van een geaccrediteerde leverancier, met een TEA2 supplier licentie.</al>
+          </li>
+          <li>
+            <li.nr>2.2.13</li.nr>
+            <al>Er is een procedure aanwezig voor de in- en uitbouw van randapparatuur uit voer-, vaar- en vliegtuigen. In- en uitbouw geschiedt enkel bij geaccrediteerde bedrijven.</al>
+          </li>
+          <li>
+            <li.nr>2.2.14</li.nr>
+            <al>Randapparaten die aan een organisatie of persoon worden verstrekt die niet geautoriseerd is voor het gebruik van C2000, zijn uitgeschakeld in het netwerk of bevatten geen geldige cryptosleutel.</al>
+          </li>
+          <li>
+            <li.nr>2.2.15</li.nr>
+            <al>Het (tijdelijk) blokkeren van het C200- randapparaat vindt volgens de door de beheerder gespecificeerde procedure plaats te vinden.</al>
+          </li>
+          <li>
+            <li.nr>2.2.16</li.nr>
+            <al>Het uitvoeren van cryptografische handelingen aan C2000-randapparatuur (laden/verwijderen van sleutels en het programmeren van C2000-randapparatuur) is in overeenstemming met de instructies, in de Documentatieset Lokaal Cryptomanagement.</al>
+          </li>
+          <li>
+            <li.nr>2.2.17</li.nr>
+            <al>Programmeermiddelen voor het laden van sleutels in C2000 randapparatuur worden dagelijks, wanneer deze niet direct in gebruik zijn, opgeborgen in kluizen.</al>
+          </li>
+        </lijst>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">2.3</nr>
+          <titel status="officieel">Gebruik C2000 meldkamer- en beheersystemen (lokaal beheer)</titel>
+        </kop>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>2.3.1</li.nr>
+            <al>De achtergrond van alle lokale beheerders is geverifieerd via een screening equivalent met die voor een Vertrouwensfunctie niveau C, in de zin van de wet Veiligheidsonderzoeken van 10&#xA0;oktober 1996.</al>
+          </li>
+          <li>
+            <li.nr>2.3.2</li.nr>
+            <al>Alle personen die C2000-apparatuur gebruiken en beheren krijgen geschikte training en regelmatige bijscholing met betrekking tot de beveiliging en procedures van het C2000- communicatienetwerk.</al>
+          </li>
+          <li>
+            <li.nr>2.3.3</li.nr>
+            <al>De apparatuurruimte(n) waarin C2000-systeemapparatuur is ondergebracht (exclusief de radio bedienterminals en -werkplekken) dienen te voldoen aan de eisen gesteld in het document Programma van eisen apparatuurruimtes t.b.v. C2000 radiobediensystemen.</al>
+          </li>
+          <li>
+            <li.nr>2.3.4</li.nr>
+            <al>De toegang tot de beveiligde ruimte(n) wordt geregistreerd.</al>
+          </li>
+          <li>
+            <li.nr>2.3.5</li.nr>
+            <al>Er is een bezoekersregeling waarin datum en tijdstip van aankomst en vertrek van bezoekers worden geregistreerd. Bezoekers van de meldkamer en apparatuurruimte(n) behoren gedurende de gehele periode waarin zij zich in deze ruimte(n) bevinden te worden begeleid.</al>
+          </li>
+          <li>
+            <li.nr>2.3.6</li.nr>
+            <al>Toegangsrechten tot de beveiligde ruimte(n) worden halfjaarlijks beoordeeld, geactualiseerd en als nodig ingetrokken. Het resultaat van deze controle wordt gedocumenteerd.</al>
+          </li>
+          <li>
+            <li.nr>2.3.7</li.nr>
+            <al>De meldkamer- en apparatuurruimte(n) zijn 7 dagen per week, 24 uur per dag voor de beheerder toegankelijk conform de bezoekersregeling van de aangewezen gebruiker.</al>
+          </li>
+          <li>
+            <li.nr>2.3.8</li.nr>
+            <al>Het radiobediensysteem en de hierbij behorende servers en netwerkcomponenten zijn aangesloten op een UPS en noodstroomgenerator met een autonomietijd van 8 uur om de C2000-functionaliteiten te beschermen tegen storingen ten gevolge van uitval van de stroomvoorziening.</al>
+          </li>
+          <li>
+            <li.nr>2.3.9</li.nr>
+            <al>De C2000 apparatuur is beveiligd tegen blikseminslag en spanningspieken.</al>
+          </li>
+          <li>
+            <li.nr>2.3.10</li.nr>
+            <al>Op de beheersystemen wordt gebruik gemaakt van unieke identificaties (ID) zodat lokale beheerders kunnen worden gekoppeld aan en verantwoordelijk kunnen worden gesteld voor hun handelingen. Lokale beheerders dienen te allen tijde gebruik te maken van hun eigen identificatie.</al>
+          </li>
+          <li>
+            <li.nr>2.3.11</li.nr>
+            <al>Wireless Dispatch Systemen die ook gekoppeld zijn aan het C2000 communicatienetwerk anders dan via de TETRA air-interface mogen slechts in ruimten worden opgesteld die voldoen aan de eisen voor apparatuurruimten (zie punt 2.3.3).</al>
+          </li>
+          <li>
+            <li.nr>2.3.12</li.nr>
+            <al>Wireless Dispatch Systemen die alleen gekoppeld zijn aan hel C2000 communicatienetwerk via de TETRA air-interface dienen te worden behandeld als C2000 randapparatuur.</al>
+          </li>
+        </lijst>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <nr status="officieel">2.4</nr>
+          <titel status="officieel">Algemene maatregelen voor leveranciers van gebruikers (Type I)</titel>
+        </kop>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>2.4.1</li.nr>
+            <al>Indien de leverancier een private rechtspersoon is, dan toont deze zijn integriteit aan  door de overhandiging van een geldige Verklaring Omtrent het Gedrag Rechtspersonen (VOGR) aan de gebruiker. Als de geldigheid van de VOGR verloopt, is de leverancier verplicht een nieuwe te overhandigen aan de gebruiker. Deze verplichting wordt contractueel geborgd.</al>
+          </li>
+          <li>
+            <li.nr>2.4.2</li.nr>
+            <al>De locatie(s) waar C2000 middelen (al dan niet in een voertuig) worden opgeslagen zijn beveiligd.</al>
+            <al>Het totaal aan inbraakwerende en vertragende maatregelen dient te voldoen aan de maatregelen behorend bij het risiconiveau 3 volgens de verbeterde risicoklasse indeling (VRKl) van hel Nationaal Centrum voor Preventie.</al>
+          </li>
+          <li>
+            <li.nr>2.4.3</li.nr>
+            <al>De leverancier overlegt op verzoek van de gebruiker een actuele lijst  die de namen bevat van alle medewerkers die door de leverancier geautoriseerd zijn werkzaamheden in het kader van het afgesloten onderhoudscontract uit te voeren. Hieronder vallen ook tijdelijke medewerkers en medewerkers van onderaannemers.</al>
+          </li>
+        </lijst>
+      </divisie>
+    </bijlage>
+  </regeling>
+</wetgeving>
+  	

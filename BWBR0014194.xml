@@ -1,0 +1,2716 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0014194" dtdversie="2.0" id="98839" soort="wet" xml:lang="nl">
+    
+    
+    <intitule>Wet van 7 november 2002 tot wijziging van de regels
+        betreffende de verwerking van justiti&#xEB;le gegevens en het stellen
+        van regels met betrekking tot de verwerking van persoonsgegevens
+        in persoonsdossiers (Wet justiti&#xEB;le gegevens)</intitule>
+    
+    <wet-besluit>
+        <aanhef>
+            <wij>Wij Beatrix, bij de gratie Gods, Koningin der
+                Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+            <considerans>
+                <considerans.al>Allen, die deze zullen zien of horen
+                    lezen, saluut! doen te weten:</considerans.al>
+                <considerans.al>Alzo Wij in overweging genomen hebben,
+                    dat het noodzakelijk is nieuwe regels met betrekking
+                    tot het verwerken van justiti&#xEB;le gegevens en het
+                    stellen van regels met betrekking tot de verwerking
+                    van justiti&#xEB;le gegevens in persoonsdossiers en de
+                    verklaring omtrent het gedrag vast te stellen;</considerans.al>
+            </considerans>
+            <afkondiging>
+                <al>Zo is het, dat Wij, de Raad van State gehoord, en
+                    met gemeen overleg der Staten-Generaal, hebben
+                    goedgevonden en verstaan, gelijk Wij goedvinden en
+                    verstaan bij deze:</al>
+            </afkondiging>
+            
+        </aanhef>
+        <wettekst>
+            <titeldeel>
+                <kop>
+                    <label>Titel</label>
+                    <nr>1</nr>
+                    <titel status="officieel">Definities</titel>
+                </kop>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">1</nr>
+                    </kop>
+                    <al>In deze wet en de daarop rustende bepalingen
+                        wordt verstaan onder:</al>
+                    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                        <li>
+                           <li.nr>a.</li.nr>
+                           <al>justiti&#xEB;le
+gegevens: bij algemene maatregel
+van bestuur te omschrijven persoonsgegevens of gegevens over een
+rechtspersoon inzake de toepassing van het strafrecht of de
+strafvordering;</al>
+                        </li><li><li.nr>b.</li.nr><al>strafvorderlijke
+gegevens: persoonsgegevens of
+gegevens over een rechtspersoon die zijn verkregen in het kader van een
+strafvorderlijk onderzoek en die het openbaar ministerie in een
+strafdossier of langs geautomatiseerde wet
+verwerkt;</al>
+                        </li>
+                        <li>
+                            <li.nr>c.</li.nr>
+                            <al>persoonsdossier: een dossier waarin zijn
+                                opgenomen de aan rechterlijke
+                                autoriteiten uitgebrachte rapporten over
+                                onderzoeken naar het gedrag of de
+                                levensomstandigheden van een natuurlijk
+                                persoon in verband met tegen hem
+                                aanhangige strafzaken, de
+                                tenuitvoerlegging van aan hem opgelegde
+                                straffen of maatregelen of zijn reclassering;</al>
+                        </li>
+                        <li>
+                            <li.nr>d.</li.nr>
+                            <al>rechtspersoon: een rechtspersoon als
+                                bedoeld in <extref status="actief" doc="1.0:v:BWBR0003045" compleet="nee">boek 2 van
+                                    het Burgerlijk
+                                Wetboek</extref>, alsmede de
+                                daarmee gelijkgestelde organisaties als
+                                bedoeld in <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=51" compleet="nee">artikel 51,
+                                    derde lid, van het Wetboek van Strafrecht</extref>;</al>
+                        </li>
+                        <li>
+                            <li.nr>e.</li.nr>
+                            <al>justiti&#xEB;le documentatie: een
+                                samenhangende verzameling van op
+                                verschillende personen betrekking
+                                hebbende justiti&#xEB;le gegevens die langs
+                                geautomatiseerde weg wordt gevoerd;</al>
+                        </li>
+                        <li>
+                            <li.nr>f.</li.nr>
+                            <al>documentatie persoonsdossiers: een
+                                samenhangende verzameling van op
+                                verschillende personen betrekking
+                                hebbende persoonsdossiers die langs
+                                geautomatiseerde weg wordt gevoerd of
+                                met het oog op een doeltreffende
+                                raadpleging van die gegevens
+                                systematisch is aangelegd;</al>
+                        </li>
+                        <li>
+                            <li.nr>g.</li.nr>
+                            <al>persoonsgegeven, verwerken van
+persoonsgegevens, verantwoordelijke, betrokkene, bewerker, ontvanger,
+het verstrekken van persoonsgegevens en toestemming van de
+betrokkene: hetgeen daaronder
+wordt verstaan in de <extref status="actief" doc="1.0:v:BWBR0011468" compleet="nee">Wet bescherming
+persoonsgegevens</extref>;</al>
+                        </li>
+                        <li>
+                           <li.nr>h.</li.nr>
+                           <al>kenmerken: het
+markeren van opgeslagen justiti&#xEB;le, strafvorderlijke of
+persoonsgegevens, zonder dat de mogelijkheid tot verwerking van die
+gegevens wordt
+beperkt;</al>
+                        </li>
+                        <li>
+                           <li.nr>i.</li.nr>
+                           <al>markeren: het
+voorzien van een kenmerk aan justiti&#xEB;le, strafvorderlijke of
+persoonsgegevens, zonder dat de mogelijkheid tot verwerking van die
+gegevens wordt
+beperkt;</al>
+                        </li><li>
+                            <li.nr>j.</li.nr>
+                            <al>Onze Minister: Onze Minister van Justitie;</al>
+                        </li>
+                    <li>
+                           <li.nr>k.</li.nr>
+                           <al>College bescherming
+persoonsgegevens: het College,
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=51" compleet="nee">artikel 51 van de Wet bescherming
+persoonsgegevens</extref>.</al>
+                        </li></lijst>
+                    
+                </artikel>
+            </titeldeel>
+            <titeldeel>
+                <kop>
+                    <label>Titel</label>
+                    <nr>2</nr>
+                    <titel status="officieel">De verwerking van
+                        justiti&#xEB;le gegevens</titel>
+                </kop>
+                <afdeling>
+                    <kop>
+                        <label>Afdeling</label>
+                        <nr>1</nr>
+                        <titel status="officieel">Algemene bepalingen</titel>
+                    </kop>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr>2</nr>
+                        </kop>
+                        <lid>
+                            <lidnr>1</lidnr>
+                            <al>Onze Minister verwerkt in de justiti&#xEB;le
+                                documentatie justiti&#xEB;le gegevens ten
+                                behoeve van een goede strafrechtspleging.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>2</lidnr>
+                            <al>Bij algemene maatregel van bestuur
+                                worden de gegevens aangewezen die als
+                                justiti&#xEB;le gegevens worden aangemerkt.</al>
+                        </lid>
+                        
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr status="officieel">3</nr>
+                        </kop>
+                        <lid><lidnr status="officieel">1</lidnr><al>Onze Minister treft de nodige maatregelen
+                            opdat de justiti&#xEB;le gegevens, gelet op de
+                            doeleinden waarvoor zij worden verwerkt,
+                            juist en nauwkeurig zijn. Hij verbetert of verwijdert de gegevens dan wel vult deze aan of schermt deze
+af indien hem blijkt dat deze onjuist
+                            of onvolledig zijn.</al></lid>
+                        
+                    <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Justiti&#xEB;le
+gegevens worden slechts verwerkt voor zover dit noodzakelijk is voor de
+bij of krachtens deze wet geformuleerde
+doeleinden.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Justiti&#xEB;le
+gegevens worden uitsluitend voor een ander doel verwerkt dan waarvoor
+zij zijn verkregen voor zover deze verwerking niet onverenigbaar is met
+het doel waarvoor deze gegevens zijn verkregen en de verwerking voor
+dat andere doel overigens noodzakelijk is en in verhouding staat tot
+dat doel. De verdere verwerking is alleen mogelijk door personen en
+instanties die bij of krachtens de wet met het oog op een zwaarwegend
+algemeen belang zijn
+aangewezen.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Onze
+Minister treft de nodige maatregelen opdat justiti&#xEB;le gegevens
+worden verwijderd of vernietigd zodra zij niet langer noodzakelijk zijn
+voor het doel waarvoor ze zijn verwerkt of dit door enige wettelijke
+bepaling wordt
+vereist.</al>
+                     </lid></artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr status="officieel">4</nr>
+                        </kop>
+                        <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Justiti&#xEB;le
+gegevens van verdachten en veroordeelden wegens misdrijven worden
+vernietigd:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>dertig
+jaar nadat een beslissing om
+niet te vervolgen is genomen, nadat een einduitspraak als bedoeld in de <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=351" compleet="nee">artikelen 351</extref> en <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=352" compleet="nee">352 van
+het Wetboek van Strafvordering</extref> is gedaan in verband met een misdrijf
+waarop naar de wettelijke omschrijving een gevangenisstraf van zes jaar
+of meer is gesteld, en in het kader van het misdrijf de justiti&#xEB;le
+gegevens zijn verwerkt of nadat een strafbeschikking wegens het
+misdrijf volledig ten uitvoer is gelegd, dan wel twintig jaar na het
+overlijden van
+betrokkene,</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>twintig
+jaar nadat een beslissing om niet te vervolgen is
+genomen, nadat een einduitspraak als bedoeld in de <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=351" compleet="nee">artikelen 351</extref> en <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=352" compleet="nee">352 van
+het Wetboek van Strafvordering</extref> is gedaan in verband met een misdrijf
+waarop naar de wettelijke omschrijving een gevangenisstraf van minder
+dan zes jaar is gesteld, en in het kader van het misdrijf de
+justiti&#xEB;le gegevens zijn verwerkt of nadat een strafbeschikking
+wegens het misdrijf volledig ten uitvoer is gelegd, dan wel twaalf jaar
+na het overlijden van betrokkene,
+of</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>na het vervallen
+van het recht tot strafvordering door
+verjaring.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De
+termijn van dertig en twintig jaar, genoemd in het eerste lid, wordt
+verlengd indien tegen de betrokkene een einduitspraak als bedoeld in de
+<extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=351" compleet="nee">artikelen 351</extref> en <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=352" compleet="nee">352 van het Wetboek van Strafvordering</extref> in verband met
+een ander misdrijf is gedaan. In dat geval worden de justiti&#xEB;le
+gegevens vernietigd twintig dan wel dertig jaar nadat het vonnis is
+uitgesproken of de strafbeschikking volledig ten uitvoer is gelegd, al
+naar gelang op het misdrijf naar de wettelijke omschrijving minder dan
+zes jaar of zes jaar of meer gevangenisstraf is gesteld.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>De
+termijn van dertig jaar, genoemd in het eerste lid, wordt met twintig
+jaar verlengd indien de duur van de gevangenisstraf of
+vrijheidsbenemende maatregel langer is dan twintig jaar. Indien de
+gevangenisstraf levenslang is of de vrijheidsbenemende maatregel de
+duur van veertig jaar overstijgt, worden de justiti&#xEB;le gegevens na
+tachtig jaar vernietigd.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>In
+afwijking van het eerste tot en met derde lid worden justiti&#xEB;le
+gegevens van verdachten en veroordeelden wegens misdrijven als bedoeld
+in de <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b" compleet="nee">artikelen 240b tot en met 250 van het Wetboek van Strafrecht</extref> na
+tachtig jaar
+vernietigd.</al>
+                     </lid>
+                        
+                    </artikel>
+                    
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr status="officieel">6</nr>
+                        </kop>
+                        <al>Justiti&#xEB;le gegevens van verdachten en
+veroordeelden wegens overtredingen worden
+vernietigd:</al>
+                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                        <li>
+                           <li.nr>a.</li.nr>
+                           <al>vijf
+jaar nadat een beslissing om niet
+te vervolgen is genomen, nadat een einduitspraak als bedoeld in de <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=351" compleet="nee">artikelen 351</extref> en <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=352" compleet="nee">352 van
+het Wetboek van Strafvordering</extref> is gedaan in verband met een overtreding
+en in het kader van de overtreding de justiti&#xEB;le gegevens zijn
+verwerkt of een strafbeschikking wegens een overtreding volledig ten
+uitvoer is
+gelegd,</al>
+                        </li>
+                        <li>
+                           <li.nr>b.</li.nr>
+                           <al>tien jaar
+nadat een beslissing om niet
+te vervolgen is genomen, nadat een einduitspraak als bedoeld in de <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=351" compleet="nee">artikelen 351</extref> en <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=352" compleet="nee">352 van het
+Wetboek van Strafvordering</extref> is gedaan in verband met een overtreding en
+in het kader van de overtreding de justiti&#xEB;le gegevens zijn
+verwerkt of een strafbeschikking wegens een overtreding volledig ten
+uitvoer is gelegd, en daarbij een vrijheidsstraf, vervangende hechtenis
+daaronder niet begrepen, of een taakstraf is opgelegd, dan wel aan een
+rechtspersoon een geldboete van de derde categorie of hoger is
+opgelegd,</al>
+                        </li>
+                        <li>
+                           <li.nr>c.</li.nr>
+                           <al>twee jaar
+na het overlijden van betrokkene,
+of</al>
+                        </li>
+                        <li>
+                           <li.nr>d.</li.nr>
+                           <al>na het vervallen
+van het recht tot strafvordering door
+verjaring.</al>
+                        </li>
+                     </lijst>
+                        
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr status="officieel">7</nr>
+                        </kop>
+                        <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>De
+verantwoordelijke treft passende technische en organisatorische
+maatregelen om justiti&#xEB;le gegevens te beveiligen tegen onbedoelde
+of onrechtmatige vernietiging, tegen wijziging, ongeoorloofde
+mededeling of toegang, met name indien de verwerking verzending van
+gegevens via een netwerk of beschikbaarstelling via directe
+geautomatiseerde toegang omvat, en tegen alle andere vormen van
+onrechtmatige verwerking, waarbij met name rekening wordt gehouden met
+de risico&#x2019;s van de verwerking en de aard van de te beschermen
+gegevens. Deze maatregelen garanderen, rekening houdend met de stand
+van de techniek en de kosten van de tenuitvoerlegging, een passend
+beveiligingsniveau, gelet op de risico&#x2019;s van de verwerking en de
+aard van de justiti&#xEB;le gegevens.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Toegang
+tot justiti&#xEB;le gegevens is uitsluitend voorbehouden aan personen
+die onder het beheer van de Onze Minister ressorteren of op grond van
+zijn instructie, behoudens een bij of krachtens de wet gegeven
+voorschrift.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>De
+<extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=14" compleet="nee">artikelen 14, eerste, tweede, derde en vijfde lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=49" compleet="nee">49</extref> en <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=50" compleet="nee">50 van de
+Wet bescherming persoonsgegevens</extref> zijn van overeenkomstige
+toepassing.</al>
+                     </lid></artikel>
+                </afdeling>
+                <afdeling>
+                    <kop>
+                        <label>Afdeling</label>
+                        <nr>2</nr>
+                        <titel status="officieel">Het verstrekken van
+                            justiti&#xEB;le gegevens</titel>
+                    </kop>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr status="officieel">8</nr>
+                        </kop>
+                        <lid>
+                            <lidnr status="officieel">1</lidnr>
+                            <al>Ten behoeve van de rechtspleging worden
+                                justiti&#xEB;le gegevens verstrekt aan
+                                Nederlandse rechterlijke ambtenaren en
+                                rechterlijke ambtenaren van Aruba en de
+                                Nederlandse Antillen.</al>
+                        </lid>
+                        <lid>
+                            <lidnr status="officieel">2</lidnr>
+                            <al>Ten behoeve van de strafrechtspleging
+                                worden justiti&#xEB;le gegevens verstrekt aan
+                                Onze Minister.</al>
+                        </lid>
+                        <lid> <lidnr status="officieel">3</lidnr><al>Aan lichamen
+of personen aan wie krachtens <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=257ba" compleet="nee">artikel 257ba van het Wetboek van
+Strafvordering</extref> de bevoegdheid is toegekend een strafbeschikking uit te
+vaardigen, worden ten behoeve van de uitoefening van die bevoegdheid
+justiti&#xEB;le gegevens verstrekt met betrekking tot de delicten
+waarop hun bevoegdheid betrekking
+heeft.</al></lid>
+                        <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Justiti&#xEB;le
+gegevens kunnen worden verstrekt aan een internationaal orgaan of aan
+een internationaal strafgerecht voor zover dit voortvloeit uit een
+verdrag.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">5</lidnr>
+                        <al>Justiti&#xEB;le
+gegevens kunnen ten behoeve van de strafrechtspleging worden verstrekt
+aan rechterlijke ambtenaren dan wel aan andere autoriteiten in het
+buitenland.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">6</lidnr>
+                        <al>Justiti&#xEB;le
+gegevens kunnen worden verstrekt of doorgegeven aan de bevoegde
+autoriteit van een andere lidstaat van de Europese Unie of aan een
+orgaan van de Europese Unie dat is belast met de ondersteuning en
+versterking van de wetshandhavingsdiensten van de lidstaten bij de
+voorkoming, bestrijding, onderzoek en vervolging van zware
+criminaliteit en dat bij algemene maatregel van bestuur is
+aangewezen.</al>
+                     </lid>
+                        
+                    <lid>
+                        <lidnr status="officieel">7</lidnr>
+                        <al>Justiti&#xEB;le
+gegevens worden alleen ingevolge het vierde of vijfde lid verstrekt
+indien het ontvangende land of internationaal orgaan een toereikend
+beschermingsniveau voor de voorgenomen gegevensverwerking garandeert.
+Of het beschermingsniveau toereikend is wordt beoordeeld met
+inachtneming van alle omstandigheden die op de doorgifte van gegevens
+of op een groep van gegevensverstrekkingen van invloed zijn. In het
+bijzonder wordt rekening gehouden met de aard van de gegevens, met het
+doel en de duur van de voorgenomen verwerking en verwerkingen, het land
+van herkomst en het land of internationale orgaan van eindbestemming
+van de gegevens, de algemene en sectorale rechtsregels die in het derde
+land of het internationale orgaan gelden, alsmede de beroepscodes en de
+veiligheidsmaatregelen die in het land of het orgaan van toepassing
+zijn.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">8</lidnr>
+                        <al>In
+afwijking van het zevende lid kunnen justiti&#xEB;le gegevens worden
+verstrekt of doorgegeven
+indien:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>dit
+noodzakelijk is ten behoeve van specifieke belangen van de betrokkene
+of een dringend zwaarwegend algemeen belang;
+of</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>het betreffende
+land of het ontvangende internationale orgaan passende garanties biedt
+voor een zorgvuldige gegevensverwerking in het concrete
+geval.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">9</lidnr>
+                        <al>Bij
+algemene maatregel van bestuur worden nadere regels gesteld over de
+verstrekking of doorgifte van justiti&#xEB;le gegevens, bedoeld in het
+eerste, tweede, derde, vierde, vijfde en zesde lid, alsmede over de
+daarbij te stellen voorwaarden aan het gebruik daarvan door
+ontvangstgerechtigde autoriteiten of internationale organen en over de
+ontvangst van justiti&#xEB;le gegevens vanuit het
+buitenland.</al>
+                     </lid></artikel>
+                    <artikel status="goed"><kop><label>Artikel</label><nr>8a</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Voorzover dit noodzakelijk is met het oog op een zwaarwegend algemeen
+belang, kan het College van procureurs-generaal in de gevallen waarin
+het ingevolge <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39e">artikel 39e</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39f">39f</intref> bevoegd is strafvorderlijke gegevens
+te verstrekken, justiti&#xEB;le gegevens verstrekken.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39e">artikelen 39e, derde lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39f">39f, tweede lid, onder a, en derde lid</intref>,
+zijn van overeenkomstige toepassing.</al></lid></artikel><artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr status="officieel">9</nr>
+                        </kop>
+                        <lid>
+                            <lidnr status="officieel">1</lidnr>
+                            <al>Voorzover dit noodzakelijk is met het
+oog op een zwaarwegend algemeen belang en voor een goede taakuitoefening van
+degene aan wie justiti&#xEB;le gegevens worden verstrekt, kunnen bij algemene
+                                maatregel van bestuur personen of
+                                instanties die met een publieke taak
+                                zijn belast, worden aangewezen aan wie
+                                justiti&#xEB;le gegevens kunnen worden
+                                verstrekt. Daarbij kunnen nadere
+                                voorschriften worden gegeven in verband
+                                met de verwerking en verdere verwerking.</al>
+                        </lid>
+                        <lid><lidnr status="officieel">2</lidnr><al><intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=8">Artikel
+8, vierde lid</intref>, is van
+toepassing.</al></lid>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr>10</nr>
+                        </kop>
+                        <lid>
+                            <lidnr>1</lidnr>
+                            <al>Behoudens het bepaalde in
+                                    <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=12">artikel
+                                12</intref> worden aan de in
+                                    <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=9">artikel
+                                9</intref> bedoelde personen of
+                                instanties slechts gegevens verstrekt
+                                betreffende onherroepelijke
+                                veroordelingen wegens misdrijf waarbij
+                                een straf, al dan niet tezamen met een
+                                maatregel, is opgelegd, en wegens
+                                overtreding indien daarbij
+                                vrijheidsstraf &#x2013; anders dan vervangende
+                                &#x2013; of een taakstraf is opgelegd. Met een veroordeling
+                                worden
+gelijkgesteld een rechterlijke
+                                beslissing waarbij een maatregel als
+                                bedoeld in <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=37a" compleet="nee">artikel 37a
+                                    van het Wetboek van
+                                Strafrecht</extref> is opgelegd en een strafbeschikking.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>2</lidnr>
+                            <al>Geen gegevens worden verstrekt indien:</al>
+                            <lijst>
+                                <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>na het gegrond bevinden van de
+                                    aanvraag tot herziening van een
+                                    in kracht van gewijsde gegane
+                                    einduitspraak deze wordt
+                                    vernietigd en geen straf of
+                                    maatregel is opgelegd,</al>
+                                </li>
+                                <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>na het onherroepelijk worden van
+                                    de uitspraak of
+strafbeschikking vier jaren zijn
+                                    verstreken, of</al>
+                                </li>
+                                <li>
+                                    <li.nr>c.</li.nr>
+                                    <al>de veroordeling door een andere
+                                    dan een Nederlandse rechter is
+                                    gewezen wegens een feit dat naar
+                                    Nederlands recht geen misdrijf
+                                    oplevert, tenzij ingevolge deze
+                                    veroordeling in Nederland
+                                    vrijheidsstraf &#x2013; anders dan
+                                    vervangende &#x2013; of een taakstraf moet worden ondergaan.</al>
+                                </li>
+                            </lijst>
+                        </lid>
+                        <lid>
+                            <lidnr>3</lidnr>
+                            <al>De termijn bedoeld in het tweede lid,
+                                onder b, beloopt acht jaren indien bij
+                                de veroordeling een onvoorwaardelijke
+                                vrijheidsstraf dan wel een
+                                voorwaardelijke vrijheidsstraf waarvan
+                                later de gehele of gedeeltelijke
+                                tenuitvoerlegging is bevolen, is opgelegd. Hetzelfde geldt indien bij de veroordeling een taakstraf is
+opgelegd, dan wel de tenuitvoerlegging van een bij de taakstraf opgelegde vervangende hechtenis is bevolen.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>4</lidnr>
+                            <al>De termijn wordt verlengd met de bij de
+                                uitspraak bepaalde duur van de opgelegde
+                                vrijheidsstraf met uitzondering van de
+                                straf of het gedeelte daarvan dat
+                                voorwaardelijk is opgelegd en ten
+                                aanzien waarvan de gehele of
+                                gedeeltelijke tenuitvoerlegging later
+                                niet is bevolen. De termijn wordt met zes maanden
+verlengd indien een taakstraf is opgelegd.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>5</lidnr>
+                            <al>De termijn wordt mede verlengd met de
+                                duur van de verlenging van de proeftijd
+                                van een voorwaardelijke veroordeling en
+                                met de termijn van de verlenging van de terbeschikkingstelling.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>6</lidnr>
+                            <al>De termijnen eindigen niet zolang de
+                                termijn met betrekking tot enige andere
+                                onherroepelijke veroordeling als bedoeld
+                                in het eerste lid, niet is ge&#xEB;indigd.</al>
+                        </lid>
+                        
+                        <lid>
+                            <lidnr>7</lidnr>
+                            <al>Ingeval van tenuitvoerlegging in
+                                Nederland van een veroordeling door een
+                                andere dan de Nederlandse rechter
+                                gewezen vangt de in het tweede lid,
+                                onder b, en het derde lid, bedoelde
+                                termijn aan op de dag na die, waarop die
+                                veroordeling onherroepelijk is geworden.
+                                De duur van de termijn wordt bepaald aan
+                                de hand van de bij de uitspraak of
+                                beslissing, krachtens welke de
+                                bovenbedoelde veroordeling in Nederland
+                                kan worden ten uitvoer gelegd, opgelegde
+                                of uitvoerbaar geworden straf of maatregel.</al>
+                        </lid>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr>11</nr>
+                        </kop>
+                        <lid>
+                            <lidnr>1</lidnr>
+                            <al>Aan de in <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=9">artikel
+                                9</intref> bedoelde personen of
+                                instanties worden gegevens verstrekt
+                                betreffende onherroepelijke
+                                veroordelingen van rechtspersonen wegens
+                                enige overtreding, indien daarbij een
+                                geldboete is opgelegd van de derde of
+                                een hogere categorie. Met een veroordeling wordt gelijkgesteld een
+strafbeschikking.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>2</lidnr>
+                            <al>Geen gegevens worden verstrekt indien:</al>
+                            <lijst>
+                                <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>na het gegrond bevinden van de
+                                    aanvraag tot herziening van een
+                                    in kracht van gewijsde gegane
+                                    einduitspraak deze wordt
+                                    vernietigd en geen straf of
+                                    maatregel is opgelegd, of </al>
+                                </li>
+                                <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>na het onherroepelijk worden van
+                                    de uitspraak of
+strafbeschikking vier jaren zijn verstreken.</al>
+                                </li>
+                            </lijst>
+                        </lid>
+                        <lid>
+                            <lidnr>3</lidnr>
+                            <al>De termijn bedoeld in het tweede lid,
+                                onder b, beloopt acht jaren indien is
+                                veroordeeld tot onvoorwaardelijke
+                                betaling van een geldboete dan wel tot
+                                voorwaardelijke betaling van een
+                                geldboete waarvan later de gehele of
+                                gedeeltelijke tenuitvoerlegging is bevolen.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>4</lidnr>
+                            <al>De termijn wordt mede verlengd met de
+                                duur van de verlenging van de proeftijd
+                                van een voorwaardelijke veroordeling.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>5</lidnr>
+                            <al>De termijnen eindigen niet zolang de
+                                termijn met betrekking tot enige andere
+                                onherroepelijke veroordeling als bedoeld
+                                in het <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=10">eerste lid
+                                    van artikel 10</intref> en
+                                het <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=11">eerste lid van 11</intref> niet is ge&#xEB;indigd.</al>
+                        </lid>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr status="officieel">12</nr>
+                        </kop>
+                        <lid>
+                            <lidnr status="officieel">1</lidnr>
+                            <al>Met betrekking tot personen ten aanzien
+                                van wie recht is gedaan overeenkomstig
+                                de <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77g" compleet="nee">artikelen
+                                    77g tot en met 77gg van het Wetboek
+                                    van Strafrecht</extref>,
+                                worden aan de in <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=9">artikel
+                                9</intref> bedoelde personen of
+                                instanties slechts gegevens verstrekt,
+                                indien de veroordeelde tijdens het
+                                begaan van het strafbare feit de
+                                leeftijd van zestien jaren had bereikt,
+                                de veroordeling onherroepelijk is en is
+                                gewezen wegens een misdrijf en daarbij,
+                                al dan niet tezamen met andere straffen
+                                of maatregelen, is opgelegd:</al>
+                            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>jeugddetentie, anders dan vervangende;</al>
+                                </li>
+                                <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>geldboete van meer dan
+                                    &#x20AC;&#xA0;113;</al>
+                                </li>
+                                <li>
+                                    <li.nr>c.</li.nr>
+                                    <al>een taakstraf met een
+                                    duur van meer dan veertig uren of</al>
+                                </li>
+                                <li>
+                                    <li.nr>d.</li.nr>
+                                    <al>plaatsing in een inrichting voor jeugdigen.</al>
+                                </li>
+                            </lijst>
+                        <al>Met deze personen worden gelijkgesteld minderjarigen tegen wie
+een strafbeschikking is uitgevaardigd.</al></lid>
+                        <lid>
+                            <lidnr status="officieel">2</lidnr>
+                            <al>Geen gegevens worden verstrekt indien:</al>
+                            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>na het gegrond bevinden van de
+                                    aanvraag tot herziening van een
+                                    in kracht van gewijsde gegane
+                                    einduitspraak deze wordt
+                                    vernietigd en geen straf of
+                                    maatregel is opgelegd,</al>
+                                </li>
+                                <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>de veroordeling door een andere
+                                    dan een Nederlandse rechter is
+                                    gewezen wegens een feit dat naar
+                                    Nederlands recht geen misdrijf
+                                    oplevert, tenzij ingevolge deze
+                                    veroordeling in Nederland de in
+                                    het eerste lid genoemde straffen
+                                    of maatregelen moeten worden
+                                    ondergaan, of</al>
+                                </li>
+                                <li>
+                                    <li.nr>c.</li.nr>
+                                    <al>de rechter met toepassing van
+                                    <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77x" compleet="nee">artikel
+                                    77x, eerste lid, van het
+                                    Wetboek van
+                                    Strafrecht</extref>
+                                    heeft bepaald, dat de straf of
+                                    maatregel geheel niet zal worden
+                                    tenuitvoergelegd en de
+                                    tenuitvoerlegging later niet
+                                    alsnog voor het geheel of een
+                                    deel is bevolen.</al>
+                                </li>
+                            </lijst>
+                        </lid>
+                        <lid>
+                            <lidnr status="officieel">3</lidnr>
+                            <al>Geen gegevens worden verstrekt indien na
+                                het onherroepelijk worden van de
+                                veroordeling of
+strafbeschikking twee jaren zijn verstreken
+                                tenzij jeugddetentie, anders dan
+                                vervangende, of plaatsing in een
+                                inrichting voor jeugdigen is opgelegd.
+                                In dat geval bedraagt de termijn vier jaren.</al>
+                        </lid>
+                        <lid>
+                            <lidnr status="officieel">4</lidnr>
+                            <al>De termijn bedoeld in het derde lid,
+                                wordt verlengd met de bij de uitspraak
+                                bepaalde duur van de opgelegde
+                                jeugddetentie met uitzondering van de
+                                straf of het gedeelte daarvan dat
+                                voorwaardelijk is opgelegd en ten
+                                aanzien waarvan de gehele of
+                                gedeeltelijke tenuitvoerlegging later
+                                niet is bevolen.</al>
+                        </lid>
+                        <lid>
+                            <lidnr status="officieel">5</lidnr>
+                            <al>De termijn wordt mede verlengd met de
+                                duur van de verlenging van de proeftijd
+                                van een voorwaardelijke veroordeling.</al>
+                        </lid>
+                        <lid>
+                            <lidnr status="officieel">6</lidnr>
+                            <al>Onverminderd het bepaalde in het derde
+                                lid kunnen over een veroordeling waarbij
+                                de maatregel van plaatsing in een
+                                inrichting voor jeugdigen is opgelegd
+                                gegevens worden verstrekt zolang de
+                                plaatsing niet onvoorwaardelijk is be&#xEB;indigd.</al>
+                        </lid>
+                        <lid>
+                            <lidnr status="officieel">7</lidnr>
+                            <al>De termijnen eindigen niet zolang de
+                                termijn met betrekking tot enige andere
+                                onherroepelijke veroordeling of
+strafbeschikking als bedoeld
+                                in het eerste lid, niet is ge&#xEB;indigd.</al>
+                        </lid>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr status="officieel">13</nr>
+                        </kop>
+                        <lid>
+                            <lidnr status="officieel">1</lidnr>
+                            <al>Voorzover dit noodzakelijk is met het
+oog op een zwaarwegend algemeen belang en voor een goede taakuitoefening van
+degene aan wie justiti&#xEB;le gegevens worden verstrekt, kunnen bij algemene
+                                maatregel van bestuur personen of
+                                instanties als bedoeld in
+                                    <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=9">artikel
+                                9</intref> worden aangewezen aan
+                                wie meer gegevens kunnen worden
+                                verstrekt dan genoemd in de
+                                    <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=10">artikelen
+                                10</intref>, <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=11">11</intref>
+                                en <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=12">12</intref>.
+                                Daarbij wordt tevens bepaald welke
+                                gegevens worden verstrekt. Tevens kunnen
+                                nadere voorschriften worden gegeven in
+                                verband met de verwerking en verdere verwerking.</al>
+                        </lid>
+                        <lid><lidnr status="officieel">2</lidnr><al><intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=8">Artikel
+8, vierde lid</intref>, is van
+toepassing.</al></lid>
+                        
+                    </artikel>
+                    <artikel status="goed"><kop><label>Artikel</label><nr>14</nr></kop><lid><lidnr>1</lidnr><al>Voorzover dit noodzakelijk is met het oog op een zwaarwegend
+algemeen belang en voor bijzondere doeleinden,
+                                kan Onze Minister in bijzondere gevallen
+                                toestemming geven tot het verstrekken
+                                van daartoe omschreven justiti&#xEB;le
+                                gegevens overeenkomstig door hem te
+                                geven voorschriften en onder door hem te
+                                stellen voorwaarden. Van zijn
+                                desbetreffend besluit zendt hij een
+                                afschrift aan het College bescherming persoonsgegevens.</al></lid><lid><lidnr>2</lidnr><al>Tenzij Onze Minister anders bepaalt,
+                                worden de justiti&#xEB;le gegevens die zijn
+                                verstrekt niet voor een ander doel
+                                gebruikt dan waarvoor zij zijn verstrekt.</al></lid><lid><lidnr>3</lidnr><al>Onze Minister kan voorschriften geven in
+                                verband met de verwerking en verdere verwerking.</al></lid></artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr status="officieel">15</nr>
+                        </kop>
+                        <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Justiti&#xEB;le
+gegevens kunnen worden verstrekt ten behoeve van beleidsinformatie en
+wetenschappelijk onderzoek en statistiek, onder de voorwaarde dat de
+resultaten daarvan geen persoonsgegevens mogen bevatten.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Bij
+algemene maatregel van bestuur worden nadere regels gesteld over de
+verstrekking van justiti&#xEB;le gegevens, bedoeld in het eerste
+lid.</al>
+                     </lid>
+                        
+                    </artikel>
+                    
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr>17</nr>
+                        </kop>
+                        <al>Voor het verstrekken van justiti&#xEB;le
+                            gegevens, als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=9">artikelen
+                            9</intref>, <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=13">13</intref>,
+                                <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=14">14</intref>
+                            en <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=15">15</intref>,
+                            kan een kostenvergoeding worden verlangd die
+                            niet hoger mag zijn dan een bij of krachtens
+                            algemene maatregel van bestuur vast te
+                            stellen bedrag. </al>
+                        
+                    </artikel>
+                </afdeling>
+                <afdeling>
+                    <kop>
+                        <label>Afdeling</label>
+                        <nr>3</nr>
+                        <titel status="officieel">Rechten van de
+                            betrokkene op kennisneming en verbetering</titel>
+                    </kop>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr status="officieel">18</nr>
+                        </kop>
+                        <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Onze
+Minister deelt een ieder op diens schriftelijke verzoek binnen vier
+weken mede of, en zo ja welke, deze persoon betreffende justiti&#xEB;le
+gegevens verwerking
+ondergaan.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Hij
+doet daarbij geen mededelingen in schriftelijke vorm, tenzij hij
+weigert een mededeling te doen. Een gehele of gedeeltelijke afwijzing
+vindt schriftelijk
+plaats.</al>
+                     </lid>
+                        <lid>
+                            <lidnr status="officieel">3</lidnr>
+                            <al>Bij ministeri&#xEB;le regeling kunnen nadere
+                                regels worden gesteld omtrent het
+                                verzoek en de wijze van kennisneming</al>
+                        </lid>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr status="officieel">19</nr>
+                        </kop>
+                        <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Elke
+verstrekking van justiti&#xEB;le gegevens overeenkomstig de bepalingen
+van deze Afdeling wordt vastgelegd en ten minste vier jaar
+bewaard.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Onze
+Minister deelt een ieder op diens schriftelijk verzoek binnen vier
+weken mede of hem betreffende gegevens gedurende een periode van vier
+jaar voorafgaande aan het verzoek overeenkomstig de bepalingen van deze
+Afdeling zijn verstrekt en over de ontvangers of categorie&#xEB;n van
+ontvangers aan wie de gegevens zijn
+verstrekt.</al>
+                     </lid>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr>20</nr>
+                        </kop>
+                        <lid>
+                            <lidnr>1</lidnr>
+                            <al>Bij de behandeling van verzoeken als
+                                bedoeld in de <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=18">artikelen
+                                18</intref> en <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=19">19</intref>
+                                draagt Onze Minister zorg voor een
+                                deugdelijke vaststelling van de
+                                identiteit van de verzoeker.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>2</lidnr>
+                            <al>De verzoeken worden ten aanzien van
+                                minderjarigen die de leeftijd van
+                                zestien jaren nog niet hebben bereikt,
+                                en ten aanzien van onder curatele
+                                gestelden gedaan door hun wettelijke
+                                vertegenwoordigers. De betrokken
+                                mededeling geschiedt eveneens aan de
+                                wettelijke vertegenwoordigers.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>3</lidnr>
+                            <al>Verzoeken ten aanzien van rechtspersonen
+                                worden gedaan door een vertegenwoordiger
+                                van de rechtspersoon.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>4</lidnr>
+                            <al>De verzoeken kunnen tevens worden gedaan
+                                door een advocaat aan wie de betrokkene
+                                een bijzondere machtiging heeft verleend
+                                met het oog op de uitoefening van zijn
+                                rechten krachtens deze wet en die het
+                                verzoek uitsluitend doet met de
+                                bedoeling de belangen van zijn cli&#xEB;nt te
+                                behartigen. De betrokken mededeling
+                                geschiedt aan de advocaat. Bij
+                                ministeri&#xEB;le regeling kunnen aan de
+                                bijzondere machtiging nadere eisen
+                                worden gesteld.</al>
+                        </lid>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr>21</nr>
+                        </kop>
+                        <al>Een mededeling als bedoeld in
+                                <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=18">artikel 18,
+                                eerste lid</intref>, en
+                                <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=19">artikel 19,
+                                tweede lid</intref>, blijft
+                            achterwege voorzover dit noodzakelijk is in
+                            het belang van de veiligheid van de staat.</al>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr status="officieel">22</nr>
+                        </kop>
+                        <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Een ieder
+over wiens persoon justiti&#xEB;le gegevens worden verwerkt kan de
+verantwoordelijke schriftelijk verzoeken deze te verbeteren, aan te
+vullen, te verwijderen of af te schermen indien deze feitelijk onjuist,
+voor het doel van de verwerking onvolledig of niet ter zake dienend
+zijn, dan wel in strijd met een wettelijk voorschrift worden verwerkt.
+Het verzoek bevat de aan te brengen
+wijzigingen.</al>
+                     </lid>
+                        <lid>
+                            <lidnr status="officieel">2</lidnr>
+                            <al>Onze Minister bericht de verzoeker
+                                binnen vier weken na ontvangst van het
+                                verzoek schriftelijk of, dan wel in
+                                hoeverre, hij daaraan voldoet. Het
+                                    <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=37" compleet="nee">eerste lid
+                                    van artikel 37 Wet bescherming
+                                persoonsgegevens</extref> is van
+                                overeenkomstige toepassing. </al>
+                        </lid>
+                        <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>De
+verantwoordelijke draagt zorg dat een beslissing tot verbetering,
+aanvulling, verwijdering of afscherming zo spoedig mogelijk wordt
+uitgevoerd. Hij draagt zorg voor het kenmerken van een gegeven als de
+juistheid daarvan door de betrokkene wordt betwist en niet kan worden
+vastgesteld of het gegeven al dan niet juist
+is.</al>
+                     </lid>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr status="officieel">23</nr>
+                        </kop>
+                        <lid>
+                            <lidnr status="officieel">1</lidnr>
+                            <al>Een beslissing op een verzoek als
+                                bedoeld in <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=18">artikel
+                                18</intref>, <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=19">19</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=22">22</intref> geldt als een
+                                beschikking in de zin van
+                                    <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=1%3A3" compleet="nee">artikel 1:3,
+                                    tweede lid, van de Algemene wet bestuursrecht</extref>.</al>
+                        </lid>
+                        <lid>
+                            <lidnr status="officieel">2</lidnr>
+                            <al>De <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=47" compleet="nee">artikelen
+                                47</extref> en <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=48" compleet="nee">48 van de
+                                    Wet bescherming
+                                persoonsgegevens</extref> zijn
+                                van overeenkomstige toepassing.</al>
+                        </lid>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr>24</nr>
+                        </kop>
+                        <lid>
+                            <lidnr>1</lidnr>
+                            <al>Indien Onze Minister justiti&#xEB;le gegevens
+                                heeft verbeterd, aangevuld, verwijderd
+                                of afgeschermd doet hij aan de in
+                                    <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=8">artikel 8,
+                                    vijfde lid</intref>,
+                                    <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=9">9</intref>,
+                                    <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=13">13</intref>
+                                en <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=14">14</intref>
+                                bedoelde personen of instanties aan wie
+                                in het jaar voorafgaand aan het verzoek
+                                en in de sinds dat verzoek verstreken
+                                periode de betrokken gegevens zijn
+                                verstrekt, zo spoedig mogelijk
+                                mededeling van deze verbetering,
+                                aanvulling, verwijdering of afscherming,
+                                tenzij dit onmogelijk blijkt of een
+                                onevenredige inspanning kost.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>2</lidnr>
+                            <al>Onze Minister deelt aan de verzoeker en
+                                voorzover van toepassing aan de
+                                wettelijk vertegenwoordiger, desgevraagd
+                                mede aan wie hij de mededeling heeft gedaan.</al>
+                        </lid>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr>25</nr>
+                        </kop>
+                        <lid>
+                            <lidnr>1</lidnr>
+                            <al>Onze Minister kan voor een mededeling
+                                als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=18">artikel
+                                18</intref> of <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=19">19</intref>
+                                een vergoeding van kosten verlangen die
+                                niet hoger is dan een bij of krachtens
+                                algemene maatregel van bestuur vast te
+                                stellen bedrag. Daarbij wordt tevens de
+                                wijze van betaling bepaald.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>2</lidnr>
+                            <al>De vergoeding wordt teruggegeven ingeval
+                                Onze Minister op verzoek van de
+                                betrokkene, op aanbeveling van het
+                                College bescherming persoonsgegevens of
+                                op bevel van de rechter tot verbetering,
+                                aanvulling, verwijdering of afscherming
+                                is overgegaan of wanneer het verzoek
+                                moet worden geweigerd ingevolge
+                                    <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=21">artikel 21</intref>.</al>
+                        </lid>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr>26</nr>
+                        </kop>
+                        <lid>
+                            <lidnr>1</lidnr>
+                            <al>Betrokkene kan bij Onze
+                                Minister verzet aantekenen
+                                wegens bijzondere persoonlijke omstandigheden.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>2</lidnr>
+                            <al>Onze Minister beoordeelt, gehoord het
+                                openbaar ministerie, binnen vier weken
+                                na ontvangst van het verzet of het
+                                verzet gerechtvaardigd is. Indien het
+                                verzet gerechtvaardigd is, be&#xEB;indigt hij
+                                terstond de verwerking.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>3</lidnr>
+                            <al>
+                                De
+<intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=23">artikelen 23</intref> en <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=25">25</intref> zijn van
+                                overeenkomstige toepassing.</al>
+                        </lid>
+                        
+                    </artikel>
+                </afdeling>
+                <afdeling>
+                    <kop>
+                        <label>Afdeling</label>
+                        <nr>4</nr>
+                        <titel status="officieel">Bepalingen betreffende
+                            het toezicht</titel>
+                    </kop>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr status="officieel">27</nr>
+                        </kop>
+                        <lid>
+                            <lidnr status="officieel">1</lidnr>
+                            <al>Het College bescherming persoonsgegevens
+                                ziet toe op de verwerking van justiti&#xEB;le
+                                gegevens overeenkomstig het bij en
+                                krachtens deze wet bepaalde.</al>
+                        </lid>
+                        <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De
+<extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=51" compleet="nee">artikelen 51, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=60" compleet="nee">60</extref>, <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=61" compleet="nee">61</extref> en <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=65" compleet="nee">65 van de Wet bescherming
+persoonsgegevens</extref> zijn van overeenkomstige
+toepassing.</al>
+                     </lid>
+                        
+                    <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Het
+College bescherming persoonsgegevens wordt gehoord over de voorgenomen
+verwerking van justiti&#xEB;le gegevens die in een nieuw bestand zullen
+worden opgenomen, wanneer de aard van de verwerking specifieke
+risico&#x2019;s met zich meebrengt voor de fundamentele rechten van de
+betrokkene, in het bijzonder het recht op bescherming van de
+persoonlijke
+levenssfeer.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Indien
+de verantwoordelijke handelt in strijd met hetgeen is bepaald bij of
+krachtens <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=19">artikel 19, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39j">artikel 39j, eerste lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=44">artikel
+44, eerste lid</intref>, kan het College hem een bestuurlijke boete opleggen. De
+<extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=66" compleet="nee">artikelen 66 tot en met 74 van de Wet bescherming persoonsgegevens</extref> zijn
+van overeenkomstige
+toepassing.</al>
+                     </lid></artikel>
+                </afdeling>
+                <afdeling>
+                    <kop>
+                        <label>Afdeling</label>
+                        <nr>5</nr>
+                        <titel status="officieel">De verklaring omtrent
+                            het gedrag</titel>
+                    </kop>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr status="officieel">28</nr>
+                        </kop>
+                        <al>Een verklaring omtrent het gedrag is een
+                            verklaring van Onze Minister dat uit een
+                            onderzoek met betrekking tot het gedrag van
+                            de betrokken natuurlijke persoon of
+                            rechtspersoon ingesteld, gelet op het risico
+                            voor de samenleving in verband met het doel
+                            waarvoor de afgifte is gevraagd en na
+                            afweging van het belang van betrokkene, niet
+                            is gebleken van bezwaren tegen die
+                            natuurlijke persoon of rechtspersoon.</al>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr>29</nr>
+                        </kop>
+                        <al>De beslissing omtrent de afgifte van de
+                            verklaring omtrent het gedrag geldt als een
+                            beschikking in de zin van <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=1%3A3" compleet="nee">artikel 1:3,
+                                tweede lid, van de Algemene wet bestuursrecht</extref>.</al>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr>30</nr>
+                        </kop>
+                        <lid>
+                            <lidnr>1</lidnr>
+                            <al>De aanvraag om afgifte van de verklaring
+                                omtrent het gedrag van een natuurlijk
+                                persoon wordt ingediend bij de
+                                burgemeester van de gemeente, waar de
+                                aanvrager op het tijdstip van de
+                                aanvraag als ingezetene is ingeschreven
+                                in de basisadministratie
+                                persoonsgegevens. In alle andere
+                                gevallen wordt de aanvraag ingediend bij
+                                Onze Minister.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>2</lidnr>
+                            <al>De burgemeester en Onze Minister
+                                onderzoeken de volledigheid van de bij
+                                de aanvraag verstrekte gegevens en
+                                verschaffen zich de nodige zekerheid
+                                over de identiteit van de aanvrager.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>3</lidnr>
+                            <al>Bij ministeri&#xEB;le regeling kunnen nadere
+                                eisen worden gesteld ter uitvoering van
+                                het tweede lid.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>4</lidnr>
+                            <al>De burgemeester zendt de aanvraag
+                                terstond door aan Onze Minister.</al>
+                        </lid>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr status="officieel">31</nr>
+                        </kop>
+                        <al>In afwijking van <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=30">artikel 30</intref> kan een aanvraag om
+afgifte van de verklaring omtrent het gedrag van een natuurlijk persoon
+desgewenst rechtstreeks elektronisch worden ingediend bij Onze
+Minister. <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=30">Artikel 30, tweede en derde lid</intref>, is van overeenkomstige
+toepassing. <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=34">Artikel 34, tweede lid</intref>, is niet van
+toepassing.</al>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr status="officieel">32</nr>
+                        </kop>
+                        <lid>
+                            <lidnr status="officieel">1</lidnr>
+                            <al>De aanvraag tot het afgeven van een
+                                verklaring omtrent het gedrag van een
+                                natuurlijk persoon bevat de voornamen en
+                                de geboortedatum van de aanvrager,
+                                alsmede een omschrijving van het doel,
+                                waarvoor de afgifte van de verklaring
+                                wordt gevraagd.</al>
+                        </lid>
+                        <lid>
+                            <lidnr status="officieel">2</lidnr>
+                            <al>Indien de aanvraag betrekking heeft op
+                                een rechtspersoon, bevat zij de naam van
+                                de rechtspersoon en het
+                                inschrijvingsnummer van de Kamers van
+                                Koophandel, of, indien geen inschrijving
+                                heeft plaatsgevonden in het
+                                handelsregister, de naam, de rechtsvorm
+                                en de statutaire, of bij ontstentenis
+                                daarvan, de feitelijke vestigingsplaats
+                                van deze rechtspersoon alsmede de naam,
+                                het adres en de geboortedatum van ieder
+                                van de bestuurders, vennoten, maten of
+                                beheerders en de naam van degene die de
+                                aanvraag doet.</al>
+                        </lid>
+                        <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Bij
+de aanvraag doet degene te wiens behoeve de verklaring wordt verzocht
+opgave van het risico voor de samenleving dat in het geding
+is.</al>
+                     </lid>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr>33</nr>
+                        </kop>
+                        <al>De aanvraag wordt ingediend door degene
+                            omtrent wiens gedrag een verklaring wordt
+                            gevraagd of door een vertegenwoordiger van
+                            de rechtspersoon omtrent wiens gedrag een
+                            verklaring wordt gevraagd.</al>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr>34</nr>
+                        </kop>
+                        <lid>
+                            <lidnr>1</lidnr>
+                            <al>Onze Minister neemt de aanvraag niet in
+                                behandeling, indien een onderzoek naar
+                                het gedrag van de aanvrager kennelijk
+                                niet noodzakelijk is om, gelet op het
+                                doel van de aanvraag, een risico voor de
+                                samenleving te beperken.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>2</lidnr>
+                            <al>Onze Minister stelt de burgemeester,
+                                bedoeld in <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=30">artikel 30,
+                                    eerste lid</intref>,
+                                terstond in kennis van de beslissing tot
+                                het niet in behandeling nemen van de aanvraag.</al>
+                        </lid>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr status="officieel">35</nr>
+                        </kop>
+                        <lid>
+                            <lidnr status="officieel">1</lidnr>
+                            <al>Onze Minister weigert de afgifte van een
+                                verklaring omtrent het gedrag, indien in
+                                de justiti&#xEB;le documentatie met
+                                betrekking tot de aanvrager een
+                                strafbaar feit is vermeld, dat, indien
+                                herhaald, gelet op het risico voor de
+                                samenleving en de overige omstandigheden
+                                van het geval, aan het doel
+                                waarvoor de verklaring omtrent het
+                                gedrag wordt gevraagd, in de weg zal staan.</al>
+                        </lid>
+                        <lid>
+                            <lidnr status="officieel">2</lidnr>
+                            <al>Indien de aanvraag betrekking heeft op
+                                een rechtspersoon betrekt Onze Minister
+                                mede in zijn oordeel de justiti&#xEB;le
+                                gegevens met betrekking tot strafbare
+                                feiten op naam van de rechtspersoon en
+                                van ieder van de bestuurders, vennoten,
+                                maten of beheerders van die
+                                rechtspersoon alsmede de gegevens met
+                                betrekking tot strafbare feiten waaraan
+                                    <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=51" compleet="nee">artikel 51,
+                                    tweede lid, onder 2&#xB0;, van het
+                                    Wetboek van
+                                Strafrecht</extref> ten
+                                grondslag heeft gelegen.</al>
+                        </lid>
+                        <lid>
+                            <lidnr status="officieel">3</lidnr>
+                            <al>Onze Minister betrekt niet in zijn
+                                oordeel de justiti&#xEB;le gegevens met
+                                betrekking tot de strafbare feiten die
+                                zijn afgedaan met een onherroepelijke vrijspraak.</al>
+                        </lid>
+                        
+                    </artikel>
+                    <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr status="officieel">36</nr> 
+  </kop> 
+  <lid> 
+	 <lidnr status="officieel">1</lidnr> 
+	 <al>Onze Minister kan bij zijn onderzoek met betrekking tot de afgifte van
+		de verklaring omtrent het gedrag van een natuurlijk persoon kennis nemen van op de
+aanvrager betrekking hebbende justiti&#xEB;le gegevens alsmede van
+politiegegevens als bedoeld in <extref status="actief" doc="1.0:v:BWBR0022463&amp;artikel=1" compleet="nee">artikel 1, onder a, van de Wet
+politiegegevens</extref>, met uitzondering van de gegevens waarover op
+		grond van <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=21">artikel 21</intref> geen mededeling kan worden
+		gedaan aan de verzoeker, die gebruik maakt van zijn recht, als bedoeld in
+		<intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=18">artikel 18, eerste lid</intref>.</al> 
+  </lid> 
+  <lid> 
+	 <lidnr status="officieel">2</lidnr> 
+	 <al>Tenzij bij wettelijk voorschrift anders is bepaald, kan Onze Minister
+		bij zijn onderzoek met betrekking tot de afgifte van de verklaring omtrent het
+		gedrag van een rechtspersoon kennis
+nemen van op de betrokkenen, bedoeld in artikel 35, betrekking hebbende
+justiti&#xEB;le gegevens, politiegegevens, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0022463&amp;artikel=1" compleet="nee">artikel 1,
+onder a, van de Wet politiegegevens</extref>, alsmede gegevens uit de registratie, bedoeld in <extref status="actief" doc="1.0:v:BWBR0015049&amp;artikel=1" compleet="nee">artikel 1, onder b, van de Wet controle op
+rechtspersonen</extref>. De uitzondering, bedoeld in het
+		eerste lid, is van toepassing.</al> 
+  </lid> 
+  <lid> 
+	 <lidnr status="officieel">3</lidnr> 
+	 <al>Voorzover dat voor een goede oordeelsvorming noodzakelijk is, kan Onze
+		Minister inlichtingen omtrent betrokkene inwinnen bij het openbaar ministerie
+		en bij instellingen die op grond van
+		<extref status="actief" doc="1.0:v:BWBR0007120&amp;artikel=4" compleet="nee">artikel 4, eerste lid, van de Reclasseringsregeling
+		1995</extref> bevoegd zijn om reclasseringswerkzaamheden te
+		verrichten.</al> 
+  </lid> 
+  <lid> 
+	 <lidnr status="officieel">4</lidnr> 
+	 <al>De justiti&#xEB;le gegevens en de gegevens uit de politieregisters die zijn
+		verstrekt worden niet voor een ander doel gebruikt dan waarvoor zij zijn
+		verstrekt.</al> 
+  </lid> 
+</artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr status="officieel">37</nr>
+                        </kop>
+                        <lid>
+                            <lidnr status="officieel">1</lidnr>
+                            <al>Onze Minister beslist op de aanvraag met
+                                betrekking tot de afgifte van de
+                                verklaring omtrent het gedrag van een
+                                natuurlijk persoon binnen vier weken na
+                                ontvangst van de aanvraag.</al>
+                        </lid>
+                        <lid>
+                     <lidnr status="officieel">2</lidnr>
+                     <al>Indien
+Onze Minister voornemens is afwijzend te beslissen op de aanvraag,
+bedoeld in het eerste lid, beslist hij binnen acht weken na ontvangst
+van de aanvraag.</al>
+                  </lid><lid>
+                            <lidnr status="officieel">3</lidnr>
+                            <al>Indien de verklaring omtrent het gedrag
+                                wordt afgegeven, zijn de <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=3%3A8" compleet="nee">artikelen
+                                3:8</extref> en <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=3%3A50" compleet="nee">3:50 van de
+                                    Algemene wet
+                                bestuursrecht</extref> niet van toepassing.</al>
+                        </lid>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr status="officieel">38</nr>
+                        </kop>
+                        <lid>
+                            <lidnr status="officieel">1</lidnr>
+                            <al>Onze Minister beslist op de aanvraag met
+                                betrekking tot de afgifte van de
+                                verklaring omtrent het gedrag van een
+                                rechtspersoon binnen acht weken na
+                                ontvangst van de aanvraag.</al>
+                        </lid>
+                        <lid>
+                     <lidnr status="officieel">2</lidnr>
+                     <al>Indien
+Onze Minister voornemens is afwijzend te beslissen op de aanvraag,
+bedoeld in het eerste lid, beslist hij binnen twaalf weken na ontvangst
+van de
+aanvraag.</al>
+                  </lid><lid>
+                            <lidnr status="officieel">3</lidnr>
+                            <al>Alvorens te beslissen tot weigering van
+                                de afgifte, stelt Onze Minister degene
+                                van wie een of meer gegevens als bedoeld
+                                in het <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=36">tweede lid
+                                    van artikel 36</intref>, ten
+                                grondslag hebben gelegen aan de
+                                beslissing, in de gelegenheid om binnen
+                                twee weken een verzoek als bedoeld in
+                                    <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=22">artikel 22
+                                    van deze wet</intref> of
+                                    <extref status="actief" doc="1.0:v:BWBR0022463&amp;artikel=28" compleet="nee">artikel 28 van de Wet
+politiegegevens</extref> dan
+                                wel <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=36" compleet="nee">artikel 36
+                                    van de Wet bescherming
+                                persoonsgegevens</extref> te doen.</al>
+                        </lid>
+                        <lid>
+                            <lidnr status="officieel">4</lidnr>
+                            <al>De termijn voor het geven van de
+                                beschikking, bedoeld in het eerste lid,
+                                wordt opgeschort met ingang van de dag
+                                waarop Onze Minister de gelegenheid
+                                heeft geboden tot het doen van een
+                                verzoek en tot de dag waarop een
+                                schriftelijke mededeling is gedaan dat
+                                geen verzoek zal worden ingediend of
+                                twee weken zijn verstreken dan wel tot
+                                de dag waarop de procedure naar
+                                aanleiding van een verzoek is be&#xEB;indigd.</al>
+                        </lid>
+                        <lid>
+                            <lidnr status="officieel">5</lidnr>
+                            <al>De aanvrager van de verklaring wordt in
+                                kennis gesteld van de opschorting.</al>
+                        </lid>
+                        
+                    </artikel>
+                    <artikel status="goed">
+                        <kop>
+                            <label>Artikel</label>
+                            <nr>39</nr>
+                        </kop>
+                        <lid>
+                            <lidnr>1</lidnr>
+                            <al>Voor het in behandeling nemen van een
+                                aanvraag tot afgifte van een verklaring
+                                omtrent het gedrag kunnen de
+                                burgemeester en Onze Minister een
+                                vergoeding van kosten verlangen.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>2</lidnr>
+                            <al>De kostenvergoedingen zijn niet hoger
+                                dan een bij of krachtens algemene
+                                maatregel van bestuur vast te stellen bedrag.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>3</lidnr>
+                            <al>Voorzover de aanvragen zijn ingediend
+                                bij de burgemeester, zijn de gemeenten
+                                ter zake van de afgifte van de
+                                verklaring door Onze Minister een bij
+                                ministeri&#xEB;le regeling vastgestelde
+                                vergoeding verschuldigd aan Onze Minister.</al>
+                        </lid>
+                        <lid>
+                            <lidnr>4</lidnr>
+                            <al>Bij ministeri&#xEB;le regeling worden regels
+                                vastgesteld met betrekking tot de wijze
+                                van afdracht van de vergoeding, bedoeld
+                                in het derde lid.</al>
+                        </lid>
+                        
+                    </artikel>
+                </afdeling>
+            </titeldeel>
+            <titeldeel><kop><label>Titel</label><nr>2A</nr><titel>De verwerking van strafvorderlijke gegevens</titel></kop><afdeling><kop>
+                  <label>Afdeling</label>
+                  <nr>1</nr>
+                  <titel>Algemene bepalingen</titel>
+                </kop><artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">39a</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Het College van procureurs-generaal is verantwoordelijke voor het verwerken
+van strafvorderlijke gegevens.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>Het hoofd van een arrondissementsparket, het landelijk parket, het functioneel
+parket of een ressortsparket
+voert het beheer over de strafvorderlijke gegevens.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed"><kop><label>Artikel</label><nr>39b</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Het College van procureurs-generaal verwerkt slechts strafvorderlijke
+gegevens, indien dit noodzakelijk is voor een goede vervulling van de taak van het openbaar ministerie of het nakomen van een andere wettelijke
+verplichting.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Het College van procureurs-generaal verwerkt strafvorderlijke gegevens
+niet verder op een wijze die onverenigbaar is met de doeleinden, bedoeld in
+het eerste lid.</al></lid><lid><lidnr status="officieel">3</lidnr><al><extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=9" compleet="nee">Artikel 9, tweede en derde lid, van de Wet bescherming persoonsgegevens</extref>
+is van overeenkomstige toepassing.</al></lid></artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">39c</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>De <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=3">artikelen 3</intref> en <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=7">7</intref> zijn van overeenkomstige toepassing, met dien verstande
+dat daar waar in deze artikelen wordt gesproken over &#xAB;Onze Minister&#xBB;
+&#xAB;het College van procureurs-generaal&#xBB; wordt gelezen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>Het College van procureurs-generaal verwerkt slechts strafvorderlijke
+gegevens, voorzover het, gelet op de doeleinden waarvoor zij worden verwerkt,
+toereikend, ter zake dienend en niet bovenmatig zijn.</al>
+                  </lid>
+                <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>De
+verwerking van strafvorderlijke gegevens betreffende iemands godsdienst
+of levensovertuiging, ras, politieke gezindheid, gezondheid, seksuele
+leven, alsmede persoonsgegevens betreffende het lidmaatschap van een
+vakvereniging vindt slechts plaats in aanvulling op de verwerking van
+andere strafvorderlijke gegevens en voor zover dit voor het doel van de
+verwerking onvermijdelijk
+is.</al>
+                     </lid></artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">39d</nr>
+                  </kop>
+                  <al>Strafvorderlijke gegevens worden vernietigd
+overeenkomstig de termijnen, genoemd in de <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=4">artikelen 4</intref> en
+<intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=6">6</intref>.</al>
+                </artikel>
+              </afdeling><afdeling><kop>
+                  <label>Afdeling</label>
+                  <nr>2</nr>
+                  <titel>Het verstrekken van strafvorderlijke gegevens</titel>
+                </kop><artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">39e</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Voorzover dit noodzakelijk is met het oog op een zwaarwegend algemeen
+belang, kan het College van procureurs-generaal aan de volgende personen of
+instanties strafvorderlijke gegevens verstrekken:</al>
+                    <lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>Nederlandse
+rechterlijke ambtenaren en rechterlijke ambtenaren van Aruba en de
+Nederlandse Antillen;</al></li><li><li.nr>b.</li.nr><al>Onze Minister;</al></li><li><li.nr>c.</li.nr><al>lichamen of personen aan wie
+krachtens <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=257ba" compleet="nee">artikel 257ba van het Wetboek van Strafvordering</extref> de
+bevoegdheid is toegekend een strafbeschikking uit te
+vaardigen;</al></li><li><li.nr>d.</li.nr><al>ambtenaren van politie als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=3" compleet="nee">artikel 3, eerste lid, onder
+a en c, en tweede lid, van de Politiewet 1993</extref>;</al></li><li><li.nr>e.</li.nr><al>ambtenaren
+als bedoeld in <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=141" compleet="nee">artikel 141, onderdeel c en d, van het Wetboek van
+Strafvordering</extref>;</al></li><li><li.nr>f.</li.nr><al>buitengewone opsporingsambtenaren als bedoeld in <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=142" compleet="nee">artikel 142, eerste
+lid, van het Wetboek van Strafvordering</extref>;</al></li><li><li.nr>g.</li.nr><al>instanties die belast zijn met de tenuitvoerlegging van rechterlijke
+beslissingen of handelingen, beslissingen van de officier van justitie dan
+wel van vrijheidsbenemende straffen of maatregelen;</al></li><li><li.nr>h.</li.nr><al>verantwoordelijken
+voor de verwerking van politiegegevens als bedoeld in <extref status="actief" doc="1.0:v:BWBR0022463&amp;artikel=1" compleet="nee">artikel 1, eerste
+lid, onderdeel f, van de Wet
+politiegegevens</extref>;</al></li><li><li.nr>i.</li.nr><al>bewaarders als bedoeld in <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=118" compleet="nee">artikel 118, eerste en tweede lid, van het
+Wetboek van Strafvordering</extref>;</al></li><li><li.nr>j.</li.nr><al>andere autoriteiten in het buitenland als bedoeld in onderdeel a en
+instanties die ingevolge het internationaal recht een taak hebben in het kader
+van de strafrechtspleging.</al></li></lijst>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>Het College van procureurs-generaal verstrekt aan de ambtenaren die werkzaam
+zijn ten behoeve van de justiti&#xEB;le documentatie strafvorderlijke gegevens.</al>
+                  </lid>
+                  <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Het
+College van procureurs-generaal kan strafvorderlijke gegevens
+verstrekken aan een internationaal orgaan of aan een internationaal
+strafgerecht voorzover dit voortvloeit uit een
+Verdrag.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Het
+College van procureurs-generaal kan strafvorderlijke gegevens
+verstrekken aan rechterlijke ambtenaren in een ander land of aan een
+internationaal orgaan in het buitenland, ten behoeve van de
+strafrechtspleging.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">5</lidnr>
+                        <al>Strafvorderlijke
+gegevens kunnen worden verstrekt of doorgegeven aan de bevoegde
+autoriteit van een andere lidstaat van de Europese Unie of aan een
+orgaan van de Europese Unie dat is belast met de ondersteuning en
+versterking van de wetshandhavingsdiensten van de lidstaten bij de
+voorkoming, bestrijding, onderzoek en vervolging van zware
+criminaliteit en dat bij algemene maatregel van bestuur is
+aangewezen.</al>
+                     </lid><lid>
+                    <lidnr status="officieel">6</lidnr>
+                    <al><intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=8">Artikel
+8, zevende, achtste en negende lid</intref> en <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=9">artikel 9, eerste lid, tweede
+volzin</intref>, zijn van overeenkomstige
+toepassing.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">39f</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Voorzover dit noodzakelijk is met het oog op een zwaarwegend algemeen
+belang, kan het College van procureurs-generaal, onverminderd <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39e">artikel 39e</intref>,
+aan personen of instanties voor de volgende doeleinden strafvorderlijke gegevens
+verstrekken:</al>
+                    <lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>het voorkomen en opsporen van strafbare feiten,</al></li><li><li.nr>b.</li.nr><al>het handhaven van de orde en veiligheid,</al></li><li><li.nr>c.</li.nr><al>het uitoefenen van toezicht op het naleven van regelgeving,</al></li><li><li.nr>d.</li.nr><al>het nemen van een bestuursrechtelijke beslissing,</al></li><li><li.nr>e.</li.nr><al>het beoordelen van de noodzaak tot het treffen van een rechtspositionele
+of tuchtrechtelijke maatregel, of</al></li><li><li.nr>f.</li.nr><al>het verlenen van hulp aan slachtoffers en anderen die bij een strafbaar
+feit betrokken zijn.</al></li></lijst>
+                    
+                    
+                    
+                    
+                    
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>Het College van procureurs-generaal kan slechts strafvorderlijke gegevens
+aan personen of instanties als bedoeld in het eerste lid verstrekken, voorzover
+die gegevens voor die personen of instanties:</al>
+                    <lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>noodzakelijk zijn met het oog op een zwaarwegend algemeen belang of
+de vaststelling, de uitoefening of de verdediging van een recht in rechte,
+en</al></li><li><li.nr>b.</li.nr><al>in zodanige vorm worden verstrekt dat herleiding tot andere personen
+dan betrokkene, redelijkerwijs wordt voorkomen.</al></li></lijst>
+                    
+                  </lid>
+                  <lid><lidnr status="officieel">3</lidnr><al>De
+<intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=8">artikelen 8, vierde lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=9">9, eerste lid, tweede volzin</intref>, zijn van
+overeenkomstige
+toepassing.</al></lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr>39g</nr>
+                  </kop>
+                  <al>De <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=14">artikelen 14</intref> en <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=15">15</intref> zijn van overeenkomstige toepassing.</al>
+                </artikel>
+                <artikel status="goed"><kop><label>Artikel</label><nr>39h</nr></kop><al>Voor het verstrekken van strafvorderlijke gegevens als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39f">artikel
+39f</intref> kan een kostenvergoeding worden verlangd die niet hoger is dan een bij
+of krachtens algemene maatregel van bestuur vast te stellen bedrag.</al></artikel>
+              </afdeling><afdeling><kop>
+                  <label>Afdeling</label>
+                  <nr>3</nr>
+                  <titel>Rechten van de betrokkene op kennisneming en verbetering</titel>
+                </kop><artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">39i</nr>
+                  </kop>
+                  <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Het
+College van procureurs-generaal deelt een ieder op diens schriftelijke
+verzoek binnen zes weken mede of, en zo ja welke, deze persoon
+betreffende strafvorderlijke gegevens verwerking ondergaan. Het College
+van procureurs-generaal kan zijn beslissing voor ten hoogste vier weken
+verdagen. Van de verdaging wordt schriftelijk mededeling
+gedaan.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al><intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=18">Artikel
+18, tweede en derde lid</intref>, zijn van overeenkomstige
+toepassing.</al>
+                     </lid></artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">39j</nr>
+                  </kop>
+                  <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Elke
+verstrekking van strafvorderlijke gegevens overeenkomstig de <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39e">artikelen
+39e</intref> en <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39f">39f</intref> wordt vastgelegd en gedurende ten minste vier jaar
+bewaard.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Het
+College van procureurs-generaal deelt een ieder op diens verzoek
+schriftelijk binnen vier weken mede of hem betreffende strafvorderlijke
+gegevens gedurende een periode van vier jaar voorafgaande aan het
+verzoek overeenkomstig de <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39e">artikelen 39e</intref> en <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39f">39f</intref> zijn verstrekt en over
+de ontvangers of categorie&#xEB;n van ontvangers aan wie de gegevens
+zijn
+verstrekt.</al>
+                     </lid></artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr>39k</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Bij de behandeling van verzoeken als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39i">artikelen 39i, eerste
+lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39j">39j, tweede lid</intref>, draagt het College van procureurs-generaal zorg voor
+een deugdelijke vaststelling van de identiteit van de verzoeker.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al><intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=20">Artikel 20, tweede tot en met vierde lid</intref>, is van toepassing.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">39l</nr>
+                  </kop>
+                  <al>Een mededeling, als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39i">artikelen 39i,
+eerste lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39j">39j, tweede lid</intref>, blijft achterwege voor zover dit
+noodzakelijk is in het belang
+van:</al>
+                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                        <li>
+                           <li.nr>a.</li.nr>
+                           <al>de
+voorkoming van de belemmering van gerechtelijke
+procedures;</al>
+                        </li>
+                        <li>
+                           <li.nr>b.</li.nr>
+                           <al>het
+voorkomen, opsporen en vervolgen van strafbare
+feiten;</al>
+                        </li>
+                        <li>
+                           <li.nr>c.</li.nr>
+                           <al>de
+bescherming van de betrokkene of van de rechten en vrijheden van
+derden;</al>
+                        </li>
+                        <li>
+                           <li.nr>d.</li.nr>
+                           <al>de
+veiligheid van de
+staat.</al>
+                        </li>
+                     </lijst></artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">39m</nr>
+                  </kop>
+                  <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Een ieder
+over wiens persoon strafvorderlijke gegevens worden verwerkt kan de
+verantwoordelijke schriftelijk verzoeken deze te verbeteren, aan te
+vullen, te verwijderen of af te schermen indien deze feitelijk onjuist,
+voor het doel van de verwerking onvolledig of niet ter zake dienend
+zijn, dan wel in strijd met een wettelijk voorschrift worden verwerkt.
+Het verzoek bevat de aan te brengen
+wijzigingen.</al>
+                     </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al><intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=22">Artikel 22, tweede en derde lid</intref>, is van overeenkomstige toepassing, met
+dien verstande dat daar waar in dit artikel wordt gesproken over &#xAB;Onze
+Minister&#xBB; &#xAB;het College van procureurs-generaal&#xBB; wordt gelezen.</al>
+                  </lid>
+                <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>De
+verantwoordelijke draagt zorg dat een beslissing tot verbetering,
+aanvulling, verwijdering of afscherming zo spoedig mogelijk wordt
+uitgevoerd. Hij draagt zorg voor het kenmerken van een gegeven als de
+juistheid daarvan door de betrokkene wordt betwist en niet kan worden
+vastgesteld of het gegeven al dan niet juist
+is.</al>
+                     </lid></artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr>39n</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Een beslissing op een verzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39i">artikel 39i</intref>, <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39j">39j</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39m">39m</intref>
+geldt als een beschikking in de zin van <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=1%3A3" compleet="nee">artikel 1:3, tweede lid, van de Algemene
+wet bestuursrecht</extref>.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>De <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=47" compleet="nee">artikelen 47</extref> en <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=48" compleet="nee">48 van de Wet bescherming persoonsgegevens</extref> zijn van
+overeenkomstige toepassing.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr>39o</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Indien het College van procureurs-generaal strafvorderlijke gegevens heeft
+verbeterd, aangevuld, verwijderd of afgeschermd, doet het aan de personen
+of instanties, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39e">artikelen 39e, eerste lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39f">39f, eerste lid</intref>,
+aan wie in het jaar voorafgaand aan het verzoek en in de sinds dat verzoek
+verstreken periode de betrokken gegevens zijn verstrekt, zo spoedig mogelijk
+mededeling van deze verbetering, aanvulling, verwijdering of afscherming,
+tenzij dit onmogelijk blijkt of een onevenredige inspanning kost.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al><intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=24">Artikel 24, tweede lid</intref>, is van overeenkomstige toepassing, met dien verstande
+dat daar waar in dit artikel wordt gesproken over &#xAB;Onze Minister&#xBB;
+&#xAB;het College van procureurs-generaal&#xBB; wordt gelezen.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr>39p</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Het College van procureurs-generaal kan voor een mededeling als bedoeld
+in de <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39i">artikelen 39i, eerste lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39j">39j, tweede lid</intref>, een kostenvergoeding
+verlangen die niet hoger is dan een bij of krachtens algemene maatregel van
+bestuur vast te stellen bedrag. Daarbij wordt tevens de wijze van betaling
+bepaald.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>De vergoeding wordt teruggegeven ingeval het College van procureurs-generaal
+op verzoek van betrokkene, op aanbeveling van het College bescherming persoonsgegevens
+of op bevel van de rechter, tot verbetering, aanvulling, verwijdering of afscherming
+is overgegaan of het verzoek wordt geweigerd ingevolge <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39l">artikel 39l</intref>.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">39q</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Betrokkene kan bij het College van procureurs-generaal verzet aantekenen
+wegens bijzondere persoonlijke omstandigheden.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>Het College van procureurs-generaal beoordeelt, gehoord het hoofd van
+het arrondissementsparket, het landelijk parket, het functioneel
+parket of het ressortsparket, binnen
+vier weken na ontvangst van het verzet of het verzet gerechtvaardigd is. Indien
+het verzet gerechtvaardigd is, be&#xEB;indigt het terstond de verwerking.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3</lidnr>
+                    <al>De <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39n">artikelen 39n</intref> en <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39p">39p</intref> zijn van overeenkomstige toepassing.</al>
+                  </lid>
+                </artikel>
+              </afdeling><afdeling><kop>
+                  <label>Afdeling</label>
+                  <nr>4</nr>
+                  <titel>Bepalingen betreffende het toezicht</titel>
+                </kop><artikel status="goed"><kop><label>Artikel</label><nr>39r</nr></kop><al><intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=27">Artikel 27</intref> is van overeenkomstige toepassing.</al></artikel></afdeling></titeldeel><titeldeel>
+                <kop>
+                    <label>Titel</label>
+                    <nr>3</nr>
+                    <titel status="officieel">De persoonsdossiers</titel>
+                </kop>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">40</nr>
+                    </kop>
+                    <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Onze Minister verwerkt persoonsgegevens in
+                            persoonsdossiers in de documentatie
+                            persoonsdossiers met als doel de bevordering
+                            van een juiste toepassing van het strafrecht.</al>
+                    </lid>
+                    <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Bij of krachtens algemene maatregel van
+                            bestuur wordt de wijze bepaald waarop de
+                            rapporten die het persoonsdossier vormen
+                            worden verkregen.</al>
+                    </lid>
+                    <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>De
+<intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=3">artikelen 3</intref>, <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=7">7</intref> en <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=39c">39c, derde lid</intref>, zijn van overeenkomstige
+toepassing.</al>
+                     </lid>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">41</nr>
+                    </kop>
+                    <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Een rapport in een persoonsdossier wordt
+                            verwijderd na verloop van tien jaren. De
+                            termijn vangt aan op de dag van sluiting van
+                            het rapport.</al>
+                    </lid>
+                    <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Indien de straf of maatregel de duur van
+                            tien jaren te boven gaat, is de termijn,
+                            bedoeld in het eerste lid, gelijk aan de
+                            duur van de aan de betrokken persoon in de
+                            strafzaak waarop het rapport betrekking
+                            heeft, opgelegde vrijheidsstraf of
+                            vrijheidsbenemende maatregel krachtens het strafrecht.</al>
+                    </lid>
+                    
+                    
+                </artikel>
+                <artikel status="goed"><kop><label>Artikel</label><nr>42</nr></kop><lid><lidnr>1</lidnr><al>Onze Minister kan afschriften van de in een
+                            persoonsdossier opgenomen rapporten
+                            gebruiken ten behoeve van de behandeling van
+                            een gratieverzoek of met het oog op het
+                            onderzoek, bedoeld in <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=28">artikel 28</intref>.</al></lid><lid><lidnr>2</lidnr><al>Onze Minister verstrekt ten behoeve van een
+                            goede rechtspleging, de vervolging en
+                            berechting van strafbare feiten, de
+                            tenuitvoerlegging van straffen of
+                            maatregelen en het geven van advies over een
+                            gratieverzoek desgevraagd afschriften van de
+                            in een persoonsdossier opgenomen rapporten aan:</al><lijst><li><li.nr>a.</li.nr><al>Nederlandse rechterlijke ambtenaren;</al></li><li><li.nr>b.</li.nr><al>rechterlijke ambtenaren van Aruba en
+                                    de Nederlandse Antillen;</al></li><li><li.nr>c.</li.nr><al>andere dan de onder a en b genoemde
+                                    rechterlijke ambtenaren, voorzover
+                                    de Minister van Justitie dat bepaalt.</al></li></lijst></lid><lid><lidnr>3</lidnr><al>Onze Minister verstrekt ten behoeve van de
+                            selectie of bejegening desgevraagd
+                            afschriften van de in een persoonsdossier
+                            opgenomen rapporten aan de selectiefunctionarissen en de hoofden van de
+                            inrichtingen waar de aan een persoon
+                            opgelegde straf of maatregel wordt ten
+                            uitvoer gelegd.</al></lid><lid><lidnr>4</lidnr><al>Onze Minister verstrekt ten behoeve van het
+                            voorbereiden van enig rapport of het
+                            uitoefenen van enig toezicht desgevraagd
+                            afschriften van de in een persoonsdossier
+                            opgenomen rapporten aan:</al><lijst><li><li.nr>a.</li.nr><al>de directeuren van de stichting en
+                                    de reclasseringsinstellingen,
+                                    bedoeld in <extref status="actief" doc="1.0:v:BWBR0007120&amp;artikel=1" compleet="nee">artikel
+                                    1, onder b en c van de
+                                    Reclasseringsregeling 1995</extref>;</al></li><li><li.nr>b.</li.nr><al>de reclasseringswerkers, bedoeld in
+                                    <extref status="actief" doc="1.0:v:BWBR0007120&amp;artikel=6" compleet="nee">artikel
+                                    6, eerste lid, van de
+                                    Reclasseringsregeling 1995</extref>;</al></li><li><li.nr>c.</li.nr><al>de directeur of ressortsdirecteur
+                                    van de raad voor de kinderbescherming.</al></li></lijst></lid><lid><lidnr>5</lidnr><al>Bij algemene maatregel van bestuur kunnen
+                            andere personen of instanties worden
+                            aangewezen aan wie ten behoeve van een
+                            juiste toepassing van het strafrecht
+                            afschriften van rapporten uit een
+                            persoonsdossier kunnen worden verstrekt.
+                            Daarbij kan tevens worden bepaald van welke
+                            rapporten afschriften worden verstrekt.
+                            Tevens kunnen nadere voorschriften worden
+                            gegeven in verband met de verstrekking.</al></lid><lid><lidnr>6</lidnr><al>Behoudens ontheffing van Onze Minister,
+                            kunnen ten behoeve van wetenschappelijk
+                            onderzoek of statistiek desgevraagd
+                            afschriften uit rapporten uit een
+                            persoonsdossier worden verstrekt in zodanige
+                            vorm dat herleiding tot individuele
+                            natuurlijke personen redelijkerwijs wordt
+                            voorkomen. Onze Minister kan voorwaarden
+                            verbinden aan de verstrekking van deze gegevens.</al></lid></artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">43</nr>
+                    </kop>
+                    <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Onze Minister deelt een ieder op diens
+                            verzoek binnen vier weken mede of en zo ja
+                            welke deze persoon betreffende rapporten in
+                            de persoonsdossiers in de documentatie
+                            persoonsdossiers zijn opgenomen. </al>
+                    </lid>
+                    <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Hij
+doet daarbij geen mededelingen in schriftelijke vorm, tenzij hij
+weigert een mededeling te doen. Een gehele of gedeeltelijke afwijzing
+vindt schriftelijk
+plaats.</al>
+                     </lid>
+                    <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Bij ministeri&#xEB;le regeling kunnen nadere
+                            regels worden gesteld omtrent het verzoek en
+                            de wijze van kennisneming.</al>
+                    </lid>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">44</nr>
+                    </kop>
+                    <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Elke
+verstrekking van afschriften van rapporten uit persoonsdossiers,
+overeenkomstig <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=41">artikel 41</intref> wordt vastgelegd en tenminste vier jaar
+bewaard.</al>
+                     </lid>
+                    <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Onze Minister deelt een ieder op diens
+                            verzoek schriftelijk binnen vier weken mede
+                            of hem betreffende afschriften van rapporten
+                            uit de persoonsdossiers in het jaar
+                            voorafgaande aan het verzoek overeenkomstig
+                                <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=42">artikel
+                            42</intref> zijn verstrekt.</al>
+                    </lid>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>45</nr>
+                    </kop>
+                    <al>Op de behandeling van verzoeken als bedoeld in
+                        het <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=43">eerste lid van
+                            artikel 43</intref> en het
+                            <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=44">tweede lid van
+                            artikel 44</intref> is
+                            <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=20">artikel
+                        20</intref> van overeenkomstige toepassing.</al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>46</nr>
+                    </kop>
+                    <lid>
+                        <lidnr>1</lidnr>
+                        <al>Degene aan wie overeenkomstig
+                                <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=43">artikel
+                            43</intref> kennis is gegeven van
+                            hem betreffende rapporten, kan Onze Minister
+                            schriftelijk verzoeken de persoonsgegevens
+                            in deze rapporten te verbeteren, aan te
+                            vullen, te verwijderen of af te schermen,
+                            indien deze feitelijk onjuist, voor het doel
+                            van de verwerking onvolledig of niet ter
+                            zake dienend zijn dan wel in strijd met een
+                            wettelijk voorschrift worden verwerkt. Het
+                            verzoek bevat de aan te brengen wijzigingen.</al>
+                    </lid>
+                    <lid>
+                        <lidnr>2</lidnr>
+                        <al>Het <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=22">tweede en derde
+                                lid van artikel 22</intref> zijn
+                            van toepassing.</al>
+                    </lid>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>47</nr>
+                    </kop>
+                    <lid>
+                        <lidnr>1</lidnr>
+                        <al>Een beslissing op een verzoek als bedoeld in
+                                <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=44">artikel
+                            44</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=46">46</intref>
+                            geldt als een beschikking in de zin van
+                                <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=1%3A3" compleet="nee">artikel 1:3,
+                                tweede lid, van de Algemene wet bestuursrecht</extref>.</al>
+                    </lid>
+                    <lid>
+                        <lidnr>2</lidnr>
+                        <al>De <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=47" compleet="nee">artikelen
+                            47</extref> en <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=48" compleet="nee">48 van de Wet
+                                bescherming
+                            persoonsgegevens</extref> zijn van
+                            overeenkomstige toepassing.</al>
+                    </lid>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>48</nr>
+                    </kop>
+                    <lid>
+                        <lidnr>1</lidnr>
+                        <al>Indien Onze Minister persoonsgegevens in
+                            rapporten uit een persoonsdossier heeft
+                            verbeterd, aangevuld, verwijderd of
+                            afgeschermd doet hij aan de in
+                                <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=42">artikel
+                            42</intref> bedoelde personen of
+                            instanties aan wie in het jaar voorafgaand
+                            aan het verzoek en in de sinds dat verzoek
+                            verstreken periode de betrokken
+                            persoonsgegevens zijn verstrekt, zo spoedig
+                            mogelijk mededeling van deze verbetering,
+                            aanvulling, verwijdering of afscherming,
+                            tenzij dit onmogelijk blijkt of een
+                            onevenredige inspanning kost.</al>
+                    </lid>
+                    <lid>
+                        <lidnr>2</lidnr>
+                        <al>Het <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=24">tweede lid van
+                                artikel 24</intref> is van
+                            overeenkomstige toepassing.</al>
+                    </lid>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>49</nr>
+                    </kop>
+                    <lid>
+                        <lidnr>1</lidnr>
+                        <al>Onze Minister kan voor een mededeling als
+                            bedoeld in <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=43">artikel
+                            43</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=44">44</intref>
+                            een vergoeding van kosten verlangen die niet
+                            hoger is dan een bij of krachtens algemene
+                            maatregel van bestuur vast te stellen
+                            bedrag. Daarbij wordt tevens de wijze van
+                            betaling bepaald.</al>
+                    </lid>
+                    <lid>
+                        <lidnr>2</lidnr>
+                        <al>De vergoeding wordt teruggegeven ingeval
+                            Onze Minister op verzoek van de betrokkene,
+                            op aanbeveling van de College bescherming
+                            persoonsgegevens of op bevel van de rechter
+                            tot verbetering, aanvulling, verwijdering of
+                            afscherming is overgegaan.</al>
+                    </lid>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>50</nr>
+                    </kop>
+                    <lid>
+                        <lidnr>1</lidnr>
+                        <al>Degene over wie &#xE9;&#xE9;n of meer persoonsgegevens
+                            in persoonsdossiers zijn verwerkt kan bij
+                            Onze Minister verzet hiertegen aantekenen
+                            wegens bijzondere persoonlijke omstandigheden.</al>
+                    </lid>
+                    <lid>
+                        <lidnr>2</lidnr>
+                        <al>Onze Minister beoordeelt, gehoord het
+                            openbaar ministerie en de instelling die het
+                            rapport heeft opgemaakt, binnen vier weken
+                            na ontvangst van het verzet of het verzet
+                            gerechtvaardigd is. Indien het verzet
+                            gerechtvaardigd is, be&#xEB;indigt hij terstond
+                            de verwerking.</al>
+                    </lid>
+                    <lid>
+                        <lidnr>3</lidnr>
+                        <al>
+                            <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=49">Artikel
+                            49</intref> is van overeenkomstige toepassing.</al>
+                    </lid>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>51</nr>
+                    </kop>
+                    <al>
+                        <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=27">Artikel
+                        27</intref> is van overeenkomstige
+                        toepassing op de verwerking van persoonsgegevens
+                        in persoonsdossiers.</al>
+                    
+                </artikel>
+            </titeldeel>
+            <titeldeel>
+                <kop>
+                    <label>Titel</label>
+                    <nr>4</nr>
+                    <titel status="officieel">Slotbepalingen</titel>
+                </kop>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>52</nr>
+                    </kop>
+                    <lid>
+                        <lidnr>1</lidnr>
+                        <al>Een ieder die krachtens deze wet de
+                            beschikking krijgt over gegevens met
+                            betrekking tot een derde, is verplicht tot
+                            geheimhouding daarvan, behoudens voorzover
+                            een bij of krachtens deze wet gegeven
+                            voorschrift mededelingen toelaat, dan wel de
+                            uitvoering van de taak met het oog waarop de
+                            gegevens zijn verstrekt tot het ter kennis
+                            brengen daarvan noodzaakt.</al>
+                    </lid>
+                    <lid>
+                        <lidnr>2</lidnr>
+                        <al>
+                            <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=272" compleet="nee">Artikel 272,
+                                tweede lid, van het Wetboek van
+                            Strafrecht</extref> is niet van toepassing</al>
+                    </lid>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>53</nr>
+                    </kop>
+                    <al>De <extref status="slapend" doc="" compleet="nee">Wet op de justiti&#xEB;le
+                            documentatie en op de verklaringen omtrent
+                            het gedrag</extref> (Stb. 1955, 395)
+                        wordt ingetrokken.</al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>54</nr>
+                    </kop>
+                    <al>
+                        <redactie type="vervanging">Wijzigt de Wet op de
+                            inlichtingen- en veiligheidsdiensten.</redactie>
+                    </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>55</nr>
+                    </kop>
+                    <al>
+                        <redactie type="vervanging">Wijzigt de Advocatenwet.</redactie>
+                    </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>56</nr>
+                    </kop>
+                    <al>
+                        <redactie type="vervanging">Wijzigt de Wet
+                            tarieven in strafzaken.</redactie>
+                    </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>57</nr>
+                    </kop>
+                    <al>
+                        <redactie type="vervanging">Wijzigt de Wet op
+                            het voortgezet onderwijs.</redactie>
+                    </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>58</nr>
+                    </kop>
+                    <al>
+                        <redactie type="vervanging">Wijzigt de Wet op de expertisecentra.</redactie>
+                    </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>59</nr>
+                    </kop>
+                    <al>
+                        <redactie type="vervanging">Wijzigt de Wet op
+                            het primair onderwijs.</redactie>
+                    </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>60</nr>
+                    </kop>
+                    <al>
+                        <redactie type="vervanging">Wijzigt de Wet op de
+                            erkende onderwijsinstellingen.</redactie>
+                    </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>61</nr>
+                    </kop>
+                    <al>
+                        <redactie type="vervanging">Wijzigt de Wet
+                            educatie en beroepsonderwijs.</redactie>
+                    </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>62</nr>
+                    </kop>
+                    <al>
+                        <redactie type="vervanging">Wijzigt de Algemene
+                            wet erkenning EG-hoger-onderwijsdiploma's.</redactie>
+                    </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>63</nr>
+                    </kop>
+                    <al>
+                        <redactie type="vervanging">Wijzigt de Algemene
+                            wet erkenning EG-beroepsopleidingen.</redactie>
+                    </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>64</nr>
+                    </kop>
+                    <al>
+                        <redactie type="vervanging">Wijzigt de
+                            Interimwet zij-instroom leraren primair en
+                            voortgezet onderwijs.</redactie>
+                    </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>65</nr>
+                    </kop>
+                    <al>
+                        <redactie type="vervanging">Wijzigt de Gerechtsdeurwaarderswet.</redactie>
+                    </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>66</nr>
+                    </kop>
+                    <al>
+                        <redactie type="vervanging">Wijzigt de Wet be&#xEB;edigde vertalers.</redactie>
+                    </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>67</nr>
+                    </kop>
+                    <al>
+                        <redactie type="vervanging">Wijzigt de Wet gebruik Friese taal in het rechtsverkeer.</redactie>
+                    </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>68</nr>
+                    </kop>
+                    <al>
+                        <redactie type="vervanging">Wijzigt de Wet politieregisters.</redactie>
+                    </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>69</nr>
+                    </kop>
+                    <al>
+                        <redactie type="vervanging">Wijzigt de Wet veiligheidsonderzoeken.</redactie>
+                    </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>70</nr>
+                    </kop>
+                    <al>
+                        <redactie type="vervanging">Wijzigt de Spoorwegwet.</redactie>
+                    </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>71</nr>
+                    </kop>
+                    <al>
+                        <redactie type="vervanging">Wijzigt de Wet
+                            bescherming persoonsgegevens.</redactie>
+                    </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>72</nr>
+                    </kop>
+                    <al>
+                        <redactie type="vervanging">Wijzigt de Wet op
+                            het notarisambt.</redactie>
+                    </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>73</nr>
+                    </kop>
+                    <al><redactie type="vervanging">Wijzigt deze wet, de Wet politieregisters en de Luchtvaartwet.</redactie></al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>74</nr>
+                    </kop>
+                    <al>
+                        <redactie type="vervanging">Wijzigt deze wet.</redactie>
+                    </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>75</nr>
+                    </kop>
+                    <al>Aan de in <intref status="actief" doc="1.0:v:BWBR0014194&amp;artikel=9">artikel
+                        9</intref> bedoelde personen of
+                        instanties worden tevens de justiti&#xEB;le gegevens
+                        over minderjarigen verstrekt die overeenkomstig
+                        de <extref status="slapend" doc="" compleet="nee">Wet op de justiti&#xEB;le
+                            documentatie en op de verklaringen omtrent
+                            het gedrag</extref> zoals die luidde
+                        voor de inwerkingtreding van de<extref status="actief" doc="1.0:v:BWBR0006797" compleet="nee"> Wet van 7 juli 1994
+                            tot wijziging van het Wetboek van
+                            Strafrecht, het Wetboek van Strafvordering
+                            en andere wetten in verband met de
+                            herziening van het strafrecht voor
+                        jeugdigen</extref> (Stb. 528) waren
+                        opgenomen in het strafregister.</al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>76</nr>
+                    </kop>
+                    <al>Onze Minister zendt binnen vijf jaar na
+                        inwerkingtreding van deze wet aan de
+                        Staten-Generaal een verslag over de
+                        doeltreffendheid en de effecten van deze wet in
+                        de praktijk.</al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>77</nr>
+                    </kop>
+                    <al>Indien voor het moment van inwerkingtreding van
+                        deze wet een aanvraag om afgifte van een
+                        verklaring omtrent het gedrag van een natuurlijk
+                        persoon is gedaan, zijn op de behandeling van de
+                        aanvraag en de daaruit voortvloeiende procedures
+                        de bepalingen van toepassing zoals die luiden
+                        voor inwerkingtreding van deze wet.</al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>78</nr>
+                    </kop>
+                    <al>Deze wet treedt in werking op een bij koninklijk
+                        besluit te bepalen tijdstip. </al>
+                    
+                </artikel>
+                <artikel status="goed">
+                    <kop>
+                        <label>Artikel</label>
+                        <nr>79</nr>
+                    </kop>
+                    <al>Deze wet wordt aangehaald als: Wet justiti&#xEB;le en strafvorderlijke gegevens.</al>
+                    
+                </artikel>
+            </titeldeel>
+        </wettekst>
+        <wetsluiting status="goed">
+            <slotformulering>
+                <al>Lasten en bevelen dat deze in het Staatsblad zal
+                    worden geplaatst en dat alle ministeries,
+                    autoriteiten, colleges en ambtenaren wie zulks
+                    aangaat, aan de nauwkeurige uitvoering de hand
+                    zullen houden.</al>
+            </slotformulering>
+            <gegeven>
+                <dagtekening>
+                    <plaats>Gegeven te 's-Gravenhage</plaats>
+                    <datum isodatum="">7 november 2002</datum>
+                </dagtekening>
+                <koning>Beatrix</koning>
+            </gegeven>
+            <ondertekening>
+                <functie>De Minister van Justitie,</functie>
+                <naam>
+                    <achternaam>J. P. H. Donner</achternaam>
+                </naam>
+            </ondertekening>
+            <uitgifte>
+                <datum isodatum="">de negentiende november 2002</datum>
+                <ondertekening>
+                    <functie>De Minister van Justitie,</functie>
+                    <naam>
+                        <achternaam>J. P. H. Donner</achternaam>
+                    </naam>
+                </ondertekening>
+            </uitgifte>
+            
+        </wetsluiting>
+    </wet-besluit>
+</wetgeving>
+  	

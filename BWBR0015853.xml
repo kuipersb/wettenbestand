@@ -1,0 +1,1202 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0015853" id="268639" soort="ministeriele-regeling">
+  
+  
+  <intitule>Regeling bescherming persoonsgegevens in personeelsdossiers en
+    Emplaza BZK</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Minister van Binnenlandse Zaken en Koninkrijksrelaties,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op de <extref status="actief" doc="1.0:v:BWBR0011468" compleet="nee">Wet bescherming persoonsgegevens</extref>;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op de <extref status="actief" doc="1.0:v:BWBR0007376" compleet="nee">Archiefwet</extref>;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op de instemming van de
+          Groepsondernemingsraad van het Ministerie van Binnenlandse Zaken en
+          Koninkrijksrelaties d.d. 30 oktober 2003;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr>1</nr>
+          <titel>Algemene bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>1</nr>
+            <titel>Begripsbepalingen</titel>
+          </kop>
+          <al>In dit besluit en de daarop berustende bepalingen wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>BZK: Het Ministerie van Binnenlandse Zaken en Koninkrijkrelaties;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>persoonsgegeven: elk gegeven betreffende een ge&#xEF;dentificeerde
+                of identificeerbare natuurlijke persoon;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>verwerking van persoonsgegevens: elke handeling of elk geheel
+                van handelingen met betrekking tot persoonsgegevens waaronder in
+                ieder geval het verzamelen, vastleggen, ordenen, bewaren,
+                bijwerken, wijzigen, opvragen, raadplegen, gebruiken,
+                verstrekken door middel van doorzending, verspreiding of enige
+                andere vorm van terbeschikkingstelling, samenbrengen, met elkaar
+                in verband brengen, alsmede het afschermen, uitwissen of
+                vernietigen van persoonsgegevens;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>medewerker: degene die is aangesteld of is tewerkgesteld bij
+                BZK en op wie een persoonsgegeven betrekking heeft;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>beheerder: het diensthoofd als bedoeld in <extref status="actief" doc="1.0:v:BWBR0013169&amp;artikel=1" compleet="nee">artikel 1 van het
+                Mandaat- en volmachtbesluit diensthoofden BZK</extref>;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>derde: ieder, niet zijnde de medewerker, de Minister van
+                Binnenlandse Zaken en Koninkrijksrelaties of enig persoon die
+                onder zijn rechtstreeks gezag gemachtigd is persoonsgegevens te verwerken;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>ontvanger: degene aan wie de persoonsgegevens worden verstrekt;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>personeelsdossier: de fysieke eenheid waarin rechtmatig
+                verkregen en opgestelde gegevens van een medewerker in
+                schriftelijke vorm zijn vastgelegd;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>Emplaza: het geautomatiseerde personeelsinformatiesysteem van BZK;</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>managementgegevens: de gegevens die in Emplaza, in de vorm van
+                statistische en gepersonificeerde rapporten en signalen, worden
+                verwerkt met betrekking tot formatie en bezetting,
+                ziekteverzuim, functioneringsgesprekken, mobiliteit,
+                taakstelling en realisatie, demografie, bijzondere beloning
+                alsmede overzichten van overige gegevens die relevant zijn voor
+                voeren van personeelsbeleid;</al>
+            </li>
+            <li>
+              <li.nr>k.</li.nr>
+              <al>vertrouwelijke gegevens:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;.</li.nr>
+                  <al>gegevens betreffende personeelsbeoordelingen, verslagen
+                    van functioneringsgesprekken en andere gesprekken met de
+                    medewerker over de wijze waarop hij zijn werkzaamheden heeft
+                    uitgevoerd en andere gegevens over de wijze waarop de
+                    medewerker zijn werkzaamheden uitvoert en of heeft uitgevoerd;</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;.</li.nr>
+                  <al>ingevulde schouwformulieren, schouwverslagen alsmede
+                    andere gegevens, niet zijnde uitslagen van psychologische
+                    testen of assessments, die betrekking hebben op de
+                    loopbaanvorming van de medewerker.</al>
+                </li>
+              </lijst>
+            </li>
+          </lijst>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr>2</nr>
+          <titel>Doel en werkingssfeer</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>2</nr>
+            <titel>Doelstelling van de verwerking van persoonsgegevens</titel>
+          </kop>
+          <al>De verwerking van persoonsgegevens van medewerkers van BZK in
+            personeelsdossiers en Emplaza heeft ten doel een effectief,
+            effici&#xEB;nt en sociaal verantwoord personeelsbeleid en -beheer te
+            kunnen voeren, alsmede om te kunnen voldoen aan wettelijke verplichtingen.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>3</nr>
+            <titel>Werkingssfeer</titel>
+          </kop>
+          <al>Dit besluit is van kracht ten aanzien van de verwerking van
+            persoonsgegevens in personeels-dossiers en Emplaza ten behoeve van
+            alle onderdelen van dienst van BZK, met uitzondering van het Korps
+            Landelijke Politiediensten en de Informatie- en
+            Communicatietechnologie Organisatie.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr>3</nr>
+          <titel>Verantwoordelijkheden en bevoegdheden</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>4</nr>
+            <titel>Verantwoordelijkheden en Beheer</titel>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>De Minister van Binnenlandse Zaken en Koninkrijksrelaties is de
+              verantwoordelijke voor de verwerking van persoonsgegevens als
+              bedoeld in deze regeling.</al>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>De beheerders zijn namens de verantwoordelijke belast met de
+              organisatie, uitvoering, controle en beveiliging van de verwerking
+              van persoonsgegevens overeenkomstig de <extref status="actief" doc="1.0:v:BWBR0011468" compleet="nee">Wet bescherming
+              persoonsgegevens</extref> voor zover de personeelsdossiers en de gegevens
+              in Emplaza betrekking hebben op de medewerkers die binnen hun
+              dienst werkzaam zijn.</al>
+          </lid>
+          <lid>
+            <lidnr>3</lidnr>
+            <al>De beheerder draagt zorg voor een juiste en nauwkeurige
+              verwerking van de persoonsgegevens en draagt zorg voor technische
+              en organisatorische maatregelen om persoonsgegevens te beveiligen
+              tegen verlies of tegen enige vorm van onrechtmatige verwerking.</al>
+          </lid>
+          <lid>
+            <lidnr>4</lidnr>
+            <al>De beheerder is bevoegd te beslissen op een verzoek van de
+              medewerker persoonsgegevens te verbeteren, aan te vullen, te
+              verwijderen of af te schermen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=36" compleet="nee">artikel 36, eerste
+              lid van de Wet bescherming persoonsgegevens</extref>.</al>
+          </lid>
+          <lid>
+            <lidnr>5</lidnr>
+            <al>De beheerder is bevoegd zijn taken en bevoegdheden als bedoeld
+              in deze regeling te mandateren.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>5</nr>
+            <titel>Inzagebevoegdheid van gegevens in personeelsdossiers en Emplaza</titel>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>De volgende personen kunnen de persoonsgegevens raadplegen, voor
+              zover dit noodzakelijk is voor de goede uitoefening van hun functie:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de verantwoordelijke;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de secretaris-generaal;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de beheerder;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>de directeur van de medewerker;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>de betrokken personeelsadviseur;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>het hoofd van de afdeling Documentaire Informatievoorziening;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>leidinggevenden, voor zover het een medewerker betreft die
+                onder zijn directe verantwoordelijkheid valt.</al>
+            </li>
+          </lijst></lid>
+          
+          <lid>
+            <lidnr>2</lidnr>
+            <al>In afwijking van het eerste lid kunnen uitsluitend de volgende
+              personen vertrouwelijke gegevens raadplegen, voor zover dit
+              noodzakelijk is voor een goede uitoefening van hun functie:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de direct leidinggevende van de medewerker;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de naasthogere leidinggevende van de medewerker, waaronder in
+                ieder geval de directeur wordt verstaan;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de betrokken personeelsadviseur;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>indien de medewerker is aangewezen als herplaatsingkandidaat:
+                de herplaatsingsadviseur, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0011154" compleet="nee">Regeling
+                herplaatsingsprocedure BZK 2000</extref>;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>de medewerker.</al>
+            </li>
+          </lijst></lid>
+          
+          <lid>
+            <lidnr>3</lidnr>
+            <al>Het raadplegen van de personeelsdossiers geschiedt door
+              tussenkomst van de betrokken personeelsadviseur.</al>
+          </lid>
+          <lid>
+            <lidnr>4</lidnr>
+            <al>Onverminderd het bepaalde in <intref status="actief" doc="1.0:v:BWBR0015853&amp;artikel=12">artikel 12, vijfde lid</intref>, mogen van
+              de vertrouwelijke persoonsgegevens geen reproducties worden
+              gemaakt zonder toestemming van de medewerker.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>6</nr>
+            <titel>Inzagebevoegdheid van managementgegevens</titel>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>Managementgegevens die betrekking hebben op directieniveau of
+              hoger kunnen door alle medewerkers worden ingezien.</al>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>Managementgegevens in de vorm van gepersonificeerde rapporten en
+              de signaleringsgegevens kunnen uitsluitend worden geraadplaagd
+              door leidinggevenden voor zover deze gegevens hun eigen
+              organisatie-onderdeel betreffen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>7</nr>
+            <titel>Inzagebevoegdheid van de medewerker zelf</titel>
+          </kop>
+          <al>Ten aanzien van de uitoefening door de medewerkers van de hen
+            toegekende rechten is hetgeen bepaald is in <extref status="actief" doc="1.0:v:BWBR0011468&amp;hoofdstuk=6" compleet="nee">hoofdstuk 6 van de Wet
+            bescherming persoonsgegevens</extref> van toepassing met dien verstande dat:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de medewerker slechts kennis kan krijgen of om wijziging van
+                de persoonsgegevens kan vragen die op hemzelf betrekking hebben
+                alsmede de persoonsgegevens van zijn (gewezen) levenspartner en kinderen;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de levenspartner en kinderen van de (gewezen) medewerker
+                alleen kennis kunnen krijgen van de persoonsgegevens die op
+                henzelf betrekking hebben;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>inzage in het personeelsdossier slechts plaatsvindt op
+                afspraak, in aanwezigheid van de betreffende personeelsadviseur.
+                Degene die om inzage verzoekt kan gevraagd worden zich te legitimeren.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>8</nr>
+            <titel>Bevoegdheid tot het verwerken van gegevens in
+              personeelsdossiers en Emplaza</titel>
+          </kop>
+          <al>De verantwoordelijke en de beheerder kunnen functionarissen
+            aanwijzen die uit hoofde van hun functie bevoegd zijn tot het
+            raadplegen, gebruiken of anderszins verwerken van persoonsgegevens
+            in personeelsdossiers en in Emplaza. De bevoegdheid tot het
+            verwerken van gegevens wordt beperkt tot die handelingen, die
+            redelijkerwijs noodzakelijk zijn voor een goede functie-uitoefening
+            van de aangewezen functionaris.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>9</nr>
+            <titel>Verstrekking van gegevens aan derden</titel>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>Verstrekking van gegevens aan derden is slechts toegestaan voor
+              zover dat voortvloeit uit het doel van de verwerking van
+              persoonsgegevens of uit een wettelijke verplichting.</al>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>In <intref status="actief" doc="1.0:v:BWBR0015853&amp;bijlage=2">bijlage 2</intref> van deze regeling worden personen en instellingen
+              genoemd waaraan in ieder geval uit hoofde van een wettelijke
+              verplichting persoonsgegevens worden verstrekt. Verstrekking van
+              persoonsgegevens op grond van dit artikellid gaat niet verder dan
+              vereist is op grond van de wettelijke verplichtingen.</al>
+          </lid>
+          <lid>
+            <lidnr>3</lidnr>
+            <al>Onverminderd het bepaalde in <extref status="actief" doc="1.0:v:BWBR0002747&amp;artikel=27" compleet="nee">artikel 27, eerste lid onder k, van
+              de Wet op de ondernemingsraden</extref> is de directeur Personeel en
+              Organisatie bevoegd om de personen en instaties genoemd in <intref status="actief" doc="1.0:v:BWBR0015853&amp;bijlage=2">bijlage
+              2</intref> van deze regeling te wijzigen, aan te vullen of te verwijderen.</al>
+          </lid>
+          <lid>
+            <lidnr>4</lidnr>
+            <al>Wanneer een medewerker, bij een andere werkgever in de sector
+              Rijk wordt tewerkgesteld of daar in dienst treedt vindt geen
+              overdracht plaats van vertrouwelijke gegevens.</al>
+          </lid>
+          <lid>
+            <lidnr>5</lidnr>
+            <al>Indien buiten de kaders genoemd in de twee voorafgaande leden
+              gegevens aan derden worden verstrekt, dan is daaraan voorafgaand
+              schriftelijk toestemming van de medewerker vereist.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr>4</nr>
+          <titel>Gegevens</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>10</nr>
+            <titel>Te verwerken gegevens</titel>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>De verwerking van persoonsgegevens in personeelsdossiers en
+              Emplaza kan enkel gegevens omvatten die betrekking hebben op
+              medewerkers en voormalige medewerkers.</al>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>In de personeelsdossiers en in Emplaza worden geen andere
+              persoonsgegevens verwerkt dan genoemd in <intref status="actief" doc="1.0:v:BWBR0015853&amp;bijlage=1">bijlage 1</intref> van deze
+              regeling en in het tweede lid van dit artikel.</al>
+          </lid>
+          <lid>
+            <lidnr>3</lidnr>
+            <al>Naast de in het eerste lid genoemde gegevens worden in Emplaza
+              de volgende gegevens verwerkt:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>werkgeverskosten;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>managementgegevens.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr>4</lidnr>
+            <al>Onverminderd het bepaalde in <extref status="actief" doc="1.0:v:BWBR0002747&amp;artikel=27" compleet="nee">artikel 27, eerste lid onder k, van
+              de Wet op de ondernemingsraden</extref> is de directeur Personeel en
+              Organisatie bevoegd om de gegevens genoemd in <intref status="actief" doc="1.0:v:BWBR0015853&amp;bijlage=1">bijlage 1</intref> van deze
+              regeling te wijzigen, aan te vullen of te verwijderen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>11</nr>
+            <titel>Herkomst persoonsgegevens</titel>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>De in de personeelsdossiers en Emplaza opgenomen gegevens worden verkregen:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>van de medewerker;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>van de direct-leidinggevende;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>van personen en instanties die aan de medewerker
+                  redelijkerwijs bekend kunnen zijn;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>vanuit de automatiseringssystemen Pegasus, PerCC en CAFAS.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>In de personeelsdossiers en in Emplaza worden voorts gegevens
+              verwerkt die zijn samengesteld uit of afgeleid van gegevens,
+              verkregen van bovengenoemde personen en instanties.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr>5</nr>
+          <titel>Personeelsdossiers</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>12</nr>
+            <titel>Opbouw en inrichting personeelsdossiers</titel>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>De beheerder zorgt ervoor dat de personeelsdossiers worden
+              opgebouwd volgens de indeling zoals die in <intref status="actief" doc="1.0:v:BWBR0015853&amp;bijlage=3">bijlage 3</intref> van deze
+              regeling is weergegeven.</al>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>Vertrouwelijke gegevens worden opgeborgen in een afgescheiden
+              onderdeel van het personeelsdossier.</al>
+          </lid>
+          <lid>
+            <lidnr>3</lidnr>
+            <al>De personeelsdossiers zijn geordend op alfabetisch-lexografische volgorde.</al>
+          </lid>
+          <lid>
+            <lidnr>4</lidnr>
+            <al>In afwijking van het derde lid zijn de personeelsdossiers die
+              betrekking hebben op personeel dat niet meer is aangesteld of
+              tewerkgesteld bij BZK geordend op datum van uitdiensttreding.</al>
+          </lid>
+          <lid>
+            <lidnr>5</lidnr>
+            <al>In het kader van bezwaar- en beroepsprocedures zijn de betrokken
+              medewerkers van de afdeling Juridische Managementondersteuning en
+              Overlegzaken van de directie Personeel en Organisatie bevoegd
+              reproducties van de personeelsdossiers te maken ten behoeve van de
+              bij de procedures betrokken personen en instanties.</al>
+          </lid>
+          <lid>
+            <lidnr>6</lidnr>
+            <al>Voor zover de reproducties van de personeelsdossiers als bedoeld
+              in het vijfde lid zijn gemaakt ten behoeve van de betrokken
+              medewerker van de afdeling Juridische Managementondersteuning en
+              Overlegzaken, worden de reproducties binnen de afdeling bewaard.</al>
+          </lid>
+          <lid>
+            <lidnr>7</lidnr>
+            <al>De afdeling Documentaire Informatievoorziening van het
+              stafbureau Centrale Stafdiensten is belast met het beheer van de
+              in het vijfde lid bedoelde reproducties.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>13</nr>
+            <titel>Overdracht persoonsgegevens</titel>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>Wanneer de medewerker wordt tewerkgesteld bij een andere
+              beheerder of in dienst treedt bij een andere beheerder wordt zijn
+              personeelsdossier uiterlijk op de dag van overgang in goede,
+              geordende en toegankelijke staat, overgedragen aan de andere beheerder.</al>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>Wanneer een de medewerker, bij een andere werkgever in de sector
+              Rijk wordt tewerkgesteld of daar in dienst treedt, wordt zijn
+              personeelsdossier niet overgedragen aan die andere werkgever. Aan
+              die andere werkgever worden slechts de noodzakelijke gegevens
+              verstrekt conform de circulaire &#x2018;aanstelling in algemene dienst
+              van het rijk' (9 juni 1993, Stcrt. 118).</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>14</nr>
+            <titel>Verwijderen van gegevens in personeelsdossiers</titel>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>Behoudens een wettelijke bewaarplicht draagt de
+              verantwoordelijke zorg voor tijdige verwijdering van de in het
+              personeelsdossier verwerkte persoonsgegevens.</al>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>De verwijdering geschiedt door het personeelsdossier binnen
+              negen maanden over te dragen aan de afdeling Bibliotheek en
+              Archief, nadat het dienstverband of de werkzaamheden van de
+              medewerker ten behoeve van de verantwoordelijke zijn be&#xEB;indigd.</al>
+          </lid>
+          <lid>
+            <lidnr>3</lidnr>
+            <al>Indien de be&#xEB;indiging van de werkzaamheden van de medewerker ten
+              behoeve van de verantwoordelijke een tijdelijke of voorwaardelijke
+              basis heeft, vindt verwijdering als bedoeld in het het tweede lid
+              plaats, nadat is komen vast te staan dat de tijdelijke of
+              voorwaardelijke basis waarop de werkzaamheden worden verricht, is
+              gewijzigd in een definitieve be&#xEB;indiging van de werkzaamheden.</al>
+          </lid>
+          <lid>
+            <lidnr>4</lidnr>
+            <al>Tot het moment van vernietiging is ten aanzien van het onderdeel
+              van het dossier met vertrouwelijke gegevens dat op grond van het
+              tweede lid is overgebracht naar het semi-statisch archief, toegang
+              als bedoeld in <intref status="actief" doc="1.0:v:BWBR0015853&amp;artikel=5">artikel 5, eerste lid</intref>, niet toegestaan, tenzij de
+              directeur Personeel &amp; Organisatie schriftelijk ontheffing
+              verleent in het kader van een bezwaar- of beroepsprocedure.
+              Ontheffing is niet mogelijk indien betreffende bescheiden ouder
+              zijn dan 5 jaar.</al>
+          </lid>
+          <lid>
+            <lidnr>5</lidnr>
+            <al>Vertrouwelijke gegevens worden 5 jaar na het opmaken verwijderd.</al>
+          </lid>
+          <lid>
+            <lidnr>6</lidnr>
+            <al>Na verwijdering van de vertrouwelijke gegevens op grond van het
+              bepaalde in het vijfde lid, worden de betreffende gegevens uit het
+              personeelsdossier overgebracht naar de afdeling Bibliotheek en
+              Archief om daar tot vernietiging te worden bewaard. Tot het moment
+              van vernietiging is toegang niet mogelijk. Ontheffing, bedoeld in
+              het vierde lid, is niet mogelijk.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>15</nr>
+            <titel>Vernietiging</titel>
+          </kop>
+          <al>De persoonsgegevens in de personeelsdossiers worden vernietigd
+            overeenkomstig het bepaalde in het Basisselectiedocument
+            Overheidspersoneel, Deelbeleidsterrein Arbeidsvoorwaarden
+            Rijkspersoneel, BSD, april 2000.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr>6</nr>
+          <titel>Emplaza</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>16</nr>
+            <titel>Overdracht persoonsgegevens</titel>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>Wanneer de medewerker wordt tewerkgesteld bij een andere
+              beheerder of in dienst treedt bij een andere beheerder vindt
+              overdracht plaats van de verwerking van zijn gegevens door de
+              nieuwe beheerder te autoriseren om deze gegevens te verwerken en
+              door de autorisatie van de overdragende beheerder te be&#xEB;indigen.</al>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>Wanneer de medewerker, bij een andere werkgever in de sector
+              Rijk wordt tewerkgesteld of daar in dienst treedt, vindt geen
+              overdracht naar de nieuwe werkgever plaats van gegevens van de
+              medewerker die worden verwerkt in Emplaza.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>17</nr>
+            <titel>Verwijderen van gegevens in Emplaza</titel>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>Behoudens een wettelijke bewaarplicht draagt de
+              verantwoordelijke zorg voor tijdige verwijdering van de in Emplaza
+              verwerkte persoonsgegevens.</al>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>Persoonsgegevens die worden verwerkt in Emplaza worden
+              vernietigd vijf jaar na ontslag van de betrokken medewerker</al>
+          </lid>
+          <lid>
+            <lidnr>3</lidnr>
+            <al>Vertrouwelijke gegevens die worden verwerkt in Emplaza worden
+              vernietigd vijf jaar nadat ze voor het eerst zijn aangemaakt.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr>7</nr>
+          <titel>Overige bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>18</nr>
+            <titel>Intrekking Kaderregeling</titel>
+          </kop>
+          <al>De Kaderregeling P-dossiers Binnenlandse Zaken van 31 mei 1995, de
+            Wijziging van de Kaderregeling P-dossiers Binnenlandse Zaken van 27
+            juni 2000 en de bijbehorende bijlagen worden ingetrokken met ingang
+            van de datum van inwerkingtreding van dit besluit.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>19</nr>
+            <titel>Kennisname van dit besluit</titel>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>Deze regeling, alsmede de daarbij behorende bijlagen, worden ter
+              inzage gelegd bij de directie Personeelszaken, de
+              registratiebeheerder alsmede de bibliotheek van BZK.</al>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>Deze regeling, alsmede de daarbij behorende bijlagen, worden
+              opgenomen in:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het Handboek Documentaire Informatievoorziening van de
+                  afdeling Documentair Management en Ondersteuning van de
+                  Directie Informatievoorziening;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het BZK-Intranet.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>20</nr>
+            <titel>Inwerkingtreding</titel>
+          </kop>
+          <al>Deze regeling treedt in werking op de eerste dag na de dagtekening
+            van de Staatscourant waarin zij wordt geplaatst.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr>21</nr>
+            <titel>Citeertitel</titel>
+          </kop>
+          <al>Deze regeling wordt aangehaald als: Regeling bescherming
+            persoonsgegevens in personeelsdossiers en Emplaza BZK.</al>
+        </artikel>
+      </hoofdstuk>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling zal in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <ondertekenaar>
+        <ondertekening>De <functie>Minister</functie> van <organisatie afkorting="BZK">Binnenlandse Zaken en Koninkrijksrelaties</organisatie>,
+          <naam>
+            <voornaam>J.W.</voornaam>
+            <achternaam>Remkes</achternaam>
+          </naam>
+        </ondertekening>
+      </ondertekenaar>
+    </regeling-sluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">1</nr><titel status="officieel">, behorende bij <intref status="actief" doc="1.0:v:BWBR0015853&amp;artikel=10">artikel 10</intref></titel>
+      </kop>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Gegevens te verwerken in personeelsdossiers</nadruk>
+          </titel>
+        </kop>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>naam, voornamen, voorletters, titulatuur, geslacht,
+              geboortedatum, adres, postcode, woonplaats, burgerlijke staat,
+              burgerservicenummer, of bij het ontbreken daarvan, het sociaal-fiscaalnummer, telefoonnummer en bank- en girorekeningnummer;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>een administratienummer dat geen andere informatie bevat dan
+              bedoeld onder a;</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>nationaliteit en geboorteplaats;</al>
+          </li>
+          <li>
+            <li.nr>d.</li.nr>
+            <al>naam, voorletters, adres, postcode, woonplaats, telefoonnummer,
+              bank&#x2013; en girorekeningnummer van de ouders, voogden of verzorgers
+              van minderjarige werknemers;</al>
+          </li>
+          <li>
+            <li.nr>e.</li.nr>
+            <al>gegevens betreffende gevolgde en te volgen opleidingen,
+              cursussen en stages;</al>
+          </li>
+          <li>
+            <li.nr>f.</li.nr>
+            <al>gegevens, niet zijnde uitslagen van psychologische testen of
+              assessments, die in het kader van de sollicitatie van de
+              medewerker zijn verstrekt;</al>
+          </li>
+          <li>
+            <li.nr>g.</li.nr>
+            <al>gegevens betreffende de functie, alsmede betreffende de aard,
+              inhoud en be&#xEB;indiging van het dienstverband;</al>
+          </li>
+          <li>
+            <li.nr>h.</li.nr>
+            <al>getroffen disciplinaire maatregelen;</al>
+          </li>
+          <li>
+            <li.nr>i.</li.nr>
+            <al>gegevens betreffende de werkervaring;</al>
+          </li>
+          <li>
+            <li.nr>j.</li.nr>
+            <al>gegevens, niet zijnde medische gegevens, die noodzakelijk zijn
+              voor de administratie van de aanwezigheid van de medewerker op de
+              plaats waar de arbeid wordt verricht en hun afwezigheid in verband
+              met ziekte, verlof of arbeidsduurverkorting;</al>
+          </li>
+          <li>
+            <li.nr>k.</li.nr>
+            <al>gegevens die betrekking hebben op de arbeids(on)geschiktheid;</al>
+          </li>
+          <li>
+            <li.nr>l.</li.nr>
+            <al>gegevens die in het belang van de medewerker worden opgenomen en
+              die redelijkerwijs noodzakelijk zijn met het oog op hun arbeidsomstandigheden;</al>
+          </li>
+          <li>
+            <li.nr>m.</li.nr>
+            <al>gegevens, waaronder begrepen gegevens betreffende gezinsleden en
+              voormalige gezinsleden van de medewerker, voor zover die
+              noodzakelijk zijn met het oog op de op de medewerker van
+              toepassing zijnde arbeidsvoorwaarden;</al>
+          </li>
+          <li>
+            <li.nr>n.</li.nr>
+            <al>gegevens betreffende personeelsbeoordelingen van de medewerker,
+              verslagen van functioneringsgesprekken en andere gesprekken met de
+              medewerker over de wijze waarop hij zijn werkzaamheden uitoefent
+              en andere gegevens over de wijze waarop de medewerker zijn
+              werkzaamheden uitoefent;</al>
+          </li>
+          <li>
+            <li.nr>o.</li.nr>
+            <al>schouwverslagen, alsmede andere gegevens, niet zijnde uitslagen
+              van psychologische testen of assessments, die betrekking hebben op
+              de loopbaanvorming van de medewerker;</al>
+          </li>
+          <li>
+            <li.nr>p.</li.nr>
+            <al>gegevens met betrekking tot nevenwerkzaamheden en lidmaatschap
+              van commissies van de medewerker;</al>
+          </li>
+          <li>
+            <li.nr>q.</li.nr>
+            <al>gegevens omtrent het gebruik dat de medewerker van de
+              <extref status="actief" doc="1.0:v:BWBR0015799" compleet="nee">IKAP-regeling</extref> maakt of heeft gemaakt;</al>
+          </li>
+          <li>
+            <li.nr>r.</li.nr>
+            <al>andere dan de onder a. tot en met q. bedoelde gegevens, waarvan
+              de opneming wordt vereist ingevolge of noodzakelijk is met het oog
+              op de toepassing van een wettelijk voorschrift.</al>
+          </li>
+        </lijst>
+        
+      </divisie>
+    <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">
+              <nadruk type="cur">Gegevens te verwerken in Emplaza</nadruk>
+            </titel>
+          </kop>
+          <al>De hierboven genoemde gegevens onder a t/m r alsmede:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>s.</li.nr>
+              <al>een foto van de medewerker;</al>
+            </li>
+            <li>
+              <li.nr>t.</li.nr>
+              <al>email-adres van de medewerker;</al>
+            </li>
+            <li>
+              <li.nr>u.</li.nr>
+              <al>ingevulde schouwformulieren en ingevulde formulieren t.b.v. functioneringsgesprekken.</al>
+            </li>
+          </lijst>
+        </divisie></bijlage>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr>2</nr><titel>, behorende bij <intref status="actief" doc="1.0:v:BWBR0015853&amp;artikel=9">artikel 9</intref></titel>
+      </kop>
+      <divisie>
+        <kop>
+          <titel>
+            <nadruk type="cur">Personen aan wie en Instanties waaraan in ieder
+              geval uit hoofde van wettelijke verplichtingen persoonsgegevens
+              worden verstrekt</nadruk>
+          </titel>
+        </kop>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>de Departementale auditdienst;</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>de, op voordracht van de President van de Algemene Rekenkamer,
+              door de verantwoordelijke aangewezen medewerkers van die
+              instantie, die blijkens haar opdracht is belast met de controle op
+              de personele uitgaven van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>het Uitvoeringsinstituut Werknemersverzekeringen</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>de Stichting Pensioenfonds ABP</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>de Belastingdienst</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>de Nationale ombudsman</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>de Bedrijfsgeneeskundige dienst</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>overige personen of instellingen aan wie uit hoofde van
+              wettelijke verplichtingen persoonsgegevens mogen worden verstrekt</al>
+          </li>
+        </lijst>
+      </divisie>
+    </bijlage>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr>3</nr><titel>, behorende bij <intref status="actief" doc="1.0:v:BWBR0015853&amp;artikel=12">artikel 12</intref></titel>
+      </kop>
+      <tussenkop>
+        <nadruk type="cur">Opbouw personeelsdossiers</nadruk>
+      </tussenkop>
+      <divisie><kop><nr>1</nr><titel>Inleiding</titel></kop><al>Onder een personeelsdossier (P-dossier) wordt verstaan de eenheid
+        waarin rechtmatig verkregen en opgestelde gegevens van een medewerker
+        zijn vastgelegd. Het P-dossier geeft naast het inzicht in de afspraken
+        die tussen Binnenlandse Zaken en Koninkrijksrelaties en de medewerker
+        zijn gemaakt, ook het overzicht van de arbeidshistorie van de betrokken ambtenaar.</al></divisie>
+      
+      <divisie><kop><nr>2</nr><titel>Indeling van de P-dossiers</titel></kop><al>De indeling van de P-dossiers is zodanig gekozen dat het meest actuele
+        besluit snel en goed te vinden is. Voorwaarde hiervoor is wel dat zo min
+        mogelijk tabjes onder de rubrieken worden gebruikt. De rubrieken
+        (hieronder aangeduid met de letters a t/m i) zelf worden wel van elkaar
+        gescheiden door middel van tabstroken.</al>
+      <al>Binnen de rubrieken worden de stukken chronologisch geborgen van het
+        oudste naar het jongste stuk.</al>
+      <al>De hieronder volgende indeling is voor wat betreft de rubrieken
+        volledig. De opsomming van stukken en onderwerpen, die onder rubrieken
+        worden genoemd, is echter niet limitatief.</al>
+      <al>In elk P-dossier komen in ieder geval de categorie&#xEB;n A (sollicitatie)
+        en B (dienstverband) voor.</al>
+      <al>De overige categorie&#xEB;n kunnen voorkomen, maar dat is niet noodzakelijk.</al><tussenkop>
+        <nadruk type="cur">Indeling van de P-dossiers</nadruk>
+      </tussenkop>
+      <tussenkop>
+        A. Sollicitatie
+      </tussenkop>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>sollicitatieformulier/sollicitatiebrief</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>aanstellingskeuring</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>antecedentenonderzoek/vertrouwensonderzoek</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>persoonsformulier</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>formulier persoonsgegevens selectiegesprek</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>verklaring omtrent het gedrag</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>verificatie diensttijd</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>getuigschriften/diploma&#x2019;s</al>
+        </li>
+      </lijst><tussenkop>
+        B. Dienstverband
+      </tussenkop>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>aanstellingsbrief</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>aanstellingsbesluit</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>wijziging dienstverband</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>salariswijziging</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>wijziging werktijd</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al><extref status="actief" doc="1.0:v:BWBR0003630&amp;artikel=22a" compleet="nee">art. 22a BBRA</extref></al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>overige toelagen/uitkeringen</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al><extref status="actief" doc="1.0:v:BWBR0003630&amp;artikel=5" compleet="nee">art. 5, tweede lid BBRA</extref></al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>detachering</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>overplaatsing</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>functiewijziging</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>be&#xEB;indiging dienstverband</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>overlijdensbericht</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>vergoeding na overlijden</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>vut</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>wachtgeld</al>
+        </li>
+      </lijst><tussenkop>
+        C. Arbeids(on)geschiktheid
+      </tussenkop>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>dienstongevallen</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>beschikking ABP</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>herplaatsing op medische gronden</al>
+        </li>
+      </lijst>
+      <tussenkop>
+        D. Verlof
+      </tussenkop>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>zwangerschapsverlof</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>ouderschapsverlof</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>buitengewoon verlof</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>uitbetaling verlofuren</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>studieverlof</al>
+        </li>
+      </lijst>
+      <tussenkop>
+        E. Salarisinhouding
+      </tussenkop>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>spaarloonregeling</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>loonbeslag</al>
+        </li>
+      </lijst><tussenkop>
+        F. Onkostenvergoedingen
+      </tussenkop>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>studiefaciliteiten/vergoeding</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>verhuiskostenvergoeding</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>pensionkostenvergoeding</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>reiskostenvergoeding woon&#x2013;werkverkeer</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>representatiekostenvergoeding</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>brilvergoeding</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>vergoeding bedrijfshulpverlening</al>
+        </li>
+      </lijst>
+      <tussenkop>
+        G. Disciplinaire Maatregelen
+      </tussenkop>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>maatregelen</al>
+        </li>
+      </lijst>
+      <tussenkop>
+        H. Nevenwerkzaamheden/Commissies
+      </tussenkop>
+      <tussenkop>
+        I. Overig
+      </tussenkop>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>samenlevingscontract</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>ABP-aangelegenheden</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>in/uittreebericht</al>
+        </li>
+      </lijst></divisie>
+      
+      
+      
+      
+      
+      <divisie><kop><nr>3</nr><titel>Functioneringsgesprekken/beoordelingen</titel></kop><al>Gegevens met betrekking tot de personeelsbeoordeling,
+        functioneringsgesprekken, de personeelsschouw en andere gesprekken met
+        de medewerker over de wijze waarop hij zijn werkzaamheden uitoefent,
+        worden opgenomen in een vertrouwelijk dossieronderdeel, speciaal bedoeld
+        voor de gegevens genoemd in artikel 6, derde lid van de Regeling
+        bescherming persoonsgegevens in personeelsdossiers en Emplaza.</al></divisie>
+      
+      <divisie><kop><nr>4</nr><titel>Vernietiging</titel></kop><al>Vernietiging van P-dossiers of bescheiden daaruit vindt plaats
+        overeenkomstig het bepaalde in het Basisselectiedocument
+        Overheidspersoneel, Deelbeleidsterrein Arbeidsvoorwaarden
+        Rijkspersoneel, BSD, april 2000.</al></divisie>
+      
+    </bijlage>
+  </regeling>
+</wetgeving>
+  	

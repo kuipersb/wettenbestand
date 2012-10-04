@@ -1,0 +1,940 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0017707" dtdversie="2.0" id="308329" soort="ministeriele-regeling">
+  
+  
+  <intitule>Regeling ter uitvoering van de artikelen 1, onderdeel e, 2, 9, 20,
+    26 en 38 van het Besluit spoorverkeer (Regeling spoorverkeer)</intitule>
+  
+  <regeling>
+    <aanhef><wie>De Minister van Verkeer en Waterstaat,</wie><considerans><considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0017624&amp;artikel=1" compleet="nee">artikelen 1, onderdeel
+            e</extref>, <extref status="actief" doc="1.0:v:BWBR0017624&amp;artikel=2" compleet="nee">2</extref>, <extref status="actief" doc="1.0:v:BWBR0017624&amp;artikel=9" compleet="nee">9</extref>, <extref status="actief" doc="1.0:v:BWBR0017624&amp;artikel=20" compleet="nee">20</extref>, <extref status="actief" doc="1.0:v:BWBR0017624&amp;artikel=26" compleet="nee">26</extref> en <extref status="actief" doc="1.0:v:BWBR0017624&amp;artikel=38" compleet="nee">38 van het Besluit spoorverkeer</extref>;</considerans.al></considerans><afkondiging><al>Besluit:</al></afkondiging></aanhef>
+    <regeling-tekst>
+      <hoofdstuk><kop><label>Hoofdstuk</label><nr>1</nr><titel>Algemene bepalingen</titel></kop><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>In deze regeling wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>krachtvoertuig: spoorvoertuig met eigen voortbewegingsinrichting;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>rijtuig: spoorvoertuig hoofdzakelijk bestemd voor het vervoer
+                van personen, zonder eigen voortbewegingsinrichting;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>wagen: spoorvoertuig zonder eigen voortbewegingsinrichting,
+                bestemd voor het vervoer van goederen;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>het remgewicht van de trein: de som van de remgewichten van de spoorvoertuigen;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>het totale gewicht: de som van het eigen gewicht van het
+                spoorvoertuig en het gewicht van de reizigers of van de lading;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>het treingewicht: de som van de totale gewichten van de spoorvoertuigen;</al>
+            </li><li><li.nr>g.</li.nr><al>ETCS: European Train Control System;</al></li><li>
+                           <li.nr>h.</li.nr>
+                           <al>ETCS-cabinesein:
+sein, getoond op de ETCS-bestuurdersinterface, bedoeld in
+paragraaf&#xA0;4.3 van de bijlage behorende bij beschikking
+nr.&#xA0;2006/679/EG van de Commissie van de Europese Gemeenschappen
+van 28&#xA0;maart 2006 betreffende de technische specificaties inzake
+interoperabiliteit van het subsysteem &#x2018;Besturing en
+Seingeving&#x2019; van het conventionele trans-Europese spoorwegsysteem
+(PbEU&#xA0;L&#xA0;284) dan wel op de bestuurdersinterface, bedoeld in
+paragraaf&#xA0;4.3 van de bijlage behorende bij beschikking
+nr.&#xA0;2006/860/EG van de Commissie van de Europese Gemeenschappen
+van 7&#xA0;november 2006 betreffende de technische specificaties inzake
+interoperabiliteit van het subsysteem &#x2018;Besturing en
+Seingeving&#x2019; van het trans-Europees hogesnelheidsspoorwegsysteem
+en tot wijziging van bijlage A bij Beschikking 2006/679/EG betreffende
+de technische specificaties inzake interoperabiliteit van het
+subsysteem &#x2018;Besturing en Seingeving&#x2019; van het
+conventionele trans-Europese spoorwegsysteem
+(PbEU&#xA0;L&#xA0;342);</al>
+                        </li>
+            <li>
+                           <li.nr>i.</li.nr>
+                           <al>bijlage
+A: bijlage A van de bijlage behorende bij beschikking nr. 2008/231/EG
+van de Commissie van de Europese Gemeenschappen van 1&#xA0;februari
+2008 betreffende de technische specificatie inzake interoperabiliteit
+van het subsysteem &#x2018;Exploitatie&#x2019; van het trans-Europese
+hogesnelheidsspoorwegsysteem overeenkomstig artikel 6, lid, 1, van
+richtlijn 96/48/EG van de Raad en houdende intrekking van Beschikking
+nr.&#xA0;2002/734/EG van de Commissie van de Europese Gemeenschappen
+van 30&#xA0;mei 2002
+(PbEU&#xA0;L&#xA0;84);</al>
+                        </li><li>
+              <li.nr>j.</li.nr>
+              <al>vast sein: niet verplaatsbaar sein;</al>
+            </li>
+            <li>
+              <li.nr>k.</li.nr>
+              <al>lichtsein: vast sein dat groen, geel, rood of wit licht kan uitstralen;</al>
+            </li>
+            <li>
+              <li.nr>l.</li.nr>
+              <al>hoofdsein: lichtsein dat rood licht kan uitstralen;</al>
+            </li>
+            <li>
+              <li.nr>m.</li.nr>
+              <al>voorsein: lichtsein dat aan een hoofdsein voorafgaat en geen
+                rood licht kan uitstralen;</al>
+            </li>
+            <li>
+              <li.nr>n.</li.nr>
+              <al>P-sein: lichtsein voorzien van een onderbord met het opschrift &#x2018;P&#x2019;;</al>
+            </li>
+            <li>
+              <li.nr>o.</li.nr>
+              <al>AKI: automatische knipperlichtinstallatie;</al>
+            </li>
+            <li>
+              <li.nr>p.</li.nr>
+              <al>AHOB: automatische halve overwegbomen;</al>
+            </li>
+            <li>
+              <li.nr>q.</li.nr>
+              <al>AOB: automatische overpadbomen.</al>
+            </li>
+          </lijst>
+        </artikel></hoofdstuk>
+      <hoofdstuk><kop><label>Hoofdstuk</label><nr>2</nr><titel>Onderzoek treinen</titel></kop><paragraaf><kop><label>&#xA7;</label><nr>1</nr><titel>Algemene bepalingen</titel></kop><artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr>2</nr>
+            </kop>
+            <lid>
+              <lidnr>1</lidnr>
+              <al>Het onderzoek, bedoeld in <extref status="actief" doc="1.0:v:BWBR0017624&amp;artikel=2" compleet="nee">artikel 2 van het Besluit
+                spoorverkeer</extref>, wordt met betrekking tot voor treinen bestemde
+                krachtvoertuigen en rijtuigen als een periodieke controle uitgevoerd.</al>
+            </lid>
+            <lid>
+              <lidnr>2</lidnr>
+              <al>De periodieke controle omvat in elk geval:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>een controle van de inventaris die voor de veiligheid van
+                    belang is;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>een functietest van apparatuur in de cabine;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>een controle van de verzegelingen van apparatuur in de
+                    cabine en in de technische ruimten; en</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>een visuele inspectie aan de buitenzijde van het
+                    spoorvoertuig van de mechanische onderdelen en de deuren.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr>3</lidnr>
+              <al>De spoorwegonderneming stelt voor ieder type krachtvoertuig en
+                rijtuig een plan op waarin de inhoud, de plaats, alsmede de
+                frequentie van de periodieke controle worden vastgelegd.</al>
+            </lid>
+            <lid>
+              <lidnr>4</lidnr>
+              <al>De spoorwegonderneming draagt zorg voor de administratie van
+                de uitgevoerde periodieke controles.</al>
+            </lid>
+          </artikel><artikel status="goed"><kop><label>Artikel</label><nr>3</nr></kop><lid><lidnr>1</lidnr><al>Het onderzoek, bedoeld in <extref status="actief" doc="1.0:v:BWBR0017624&amp;artikel=2" compleet="nee">artikel 2 van het Besluit
+                spoorverkeer</extref>, wordt met betrekking tot voor treinen bestemde
+                wagens en hun eventuele lading als een technische controle uitgevoerd.</al></lid><lid><lidnr>2</lidnr><al>De technische controle omvat een controle:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>op kenbare technische gebreken;</al></li><li><li.nr>b.</li.nr><al>van aan slijtage onderhevige onderdelen;</al></li><li><li.nr>c.</li.nr><al>op kenbare gebreken in de wijze van belading;</al></li><li><li.nr>d.</li.nr><al>van de stand van kranen en krukken; en</al></li><li><li.nr>e.</li.nr><al>van de revisiedatum.</al></li></lijst></lid><lid><lidnr>3</lidnr><al>De spoorwegonderneming stelt vast waar en wanneer de
+                technische controle zal plaatsvinden en draagt zorg voor de
+                administratie van de uitgevoerde technische controles.</al></lid></artikel><artikel status="goed">                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">5</nr>
+                     </kop>
+                     <al>De
+in <intref status="actief" doc="1.0:v:BWBR0017707&amp;artikel=3">artikel 3</intref> bedoelde technische controle wordt uitgevoerd aan de hand
+van de gebrekencatalogus van bijlage&#xA0;9, annex&#xA0;1, van het
+General Contract of Use for
+Wagons.</al>
+          </artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr>2</nr><titel>Rembeproeving</titel></kop><artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">6</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Onverminderd de <intref status="actief" doc="1.0:v:BWBR0017707&amp;artikel=2">artikelen&#xA0;2</intref> en
+<intref status="actief" doc="1.0:v:BWBR0017707&amp;artikel=3">3</intref> worden treinen
+                onderworpen aan een rembeproeving.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De spoorwegondernemer stelt voor iedere soort of type trein
+                een plan op waarin de inhoud, de plaats en het tijdstip van de
+                rembeproeving worden vastgelegd.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>In het plan van rembeproeving wordt tenminste rekening
+                gehouden met de volgende omstandigheden:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de samenstelling van treinen;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de verandering van rijrichting;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>het splitsen dan wel het koppelen van treinen;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>het bij- of uitplaatsen van spoorvoertuigen;</al>
+                </li>
+                <li>
+                  <li.nr>e.</li.nr>
+                  <al>het bijplaatsen of afrangeren van een extra locomotief of
+                    een treinstel, en</al>
+                </li>
+                <li>
+                  <li.nr>f.</li.nr>
+                  <al>de stilstand van treinen gedurende langere duur nadat de
+                    laatste rembeproeving heeft plaatsgevonden.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>De spoorwegonderneming draagt zorg voor de administratie van
+                de uitgevoerde rembeproevingen.</al>
+            </lid>
+          </artikel></paragraaf></hoofdstuk>
+      <hoofdstuk><kop><label>Hoofdstuk</label><nr>3</nr><titel>Maximumsnelheid treinen</titel></kop><paragraaf><kop><label>&#xA7;</label><nr>1</nr><titel>Algemene bepalingen</titel></kop><artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">7</nr>
+            </kop>
+            <al>Onverminderd
+<extref status="actief" doc="1.0:v:BWBR0017624&amp;artikel=8a" compleet="nee">artikel&#xA0;8a van het Besluit spoorverkeer</extref> is de maximumsnelheid,
+waarmee treinen vervoerd mogen
+worden,
+              de laagste snelheid die door de beremming van de trein, de
+              technische eigenschappen van een in een trein opgenomen
+              spoorvoertuig, de samenstelling van de trein en de belasting van
+              de trein wordt bepaald.</al>
+          </artikel><artikel status="goed"><kop><label>Artikel</label><nr>8</nr></kop><lid><lidnr>1</lidnr><al>Treinen worden tenminste beremd overeenkomstig de
+                rempercentages die zijn opgenomen in de tabellen in <intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=2">bijlage 2</intref>.
+                In deze tabellen zijn de rempercentages een functie van de
+                snelheid en komen zij overeen met de van toepassing zijnde maximumsnelheid.</al></lid><lid><lidnr>2</lidnr><al>De rempercentages zijn zodanig, dat treinen op een dalende
+                helling van 5&#x2030; tot stilstand kunnen worden gebracht binnen de
+                hierna genoemde afstanden:</al><table frame="topbot" tabstyle="stcrt1"><tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="stcrt1"><colspec colname="col1" colnum="1" colwidth="30*"/><colspec colname="col2" colnum="2" colwidth="20*"/><thead valign="bottom"><row><entry morerows="0" rotate="0" valign="top"><al>Treinsnelheid</al></entry><entry morerows="0" rotate="0" valign="top"><al>Maximum remweg</al></entry></row></thead><tbody valign="top"><row><entry morerows="0" rotate="0" valign="top"><al>Vmax &#x2264; 40 km/u</al></entry><entry morerows="0" rotate="0" valign="top"><al>400 m</al></entry></row><row><entry morerows="0" rotate="0" valign="top"><al>40 &lt; Vmax &#x2264; 60 km/u</al></entry><entry morerows="0" rotate="0" valign="top"><al>500 m</al></entry></row><row><entry morerows="0" rotate="0" valign="top"><al>60 &lt; Vmax &#x2264; 80 km/u</al></entry><entry morerows="0" rotate="0" valign="top"><al>800 m</al></entry></row><row><entry morerows="0" rotate="0" valign="top"><al>80 &lt; Vmax &#x2264; 130 km/u</al></entry><entry morerows="0" rotate="0" valign="top"><al>1000 m</al></entry></row><row><entry morerows="0" rotate="0" valign="top"><al>130 &lt; Vmax &#x2264; 160 km/u</al></entry><entry morerows="0" rotate="0" valign="top"><al>1150 m</al></entry></row></tbody></tgroup></table></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>9</nr></kop><lid><lidnr>1</lidnr><al>Het berekenen van het in <intref status="actief" doc="1.0:v:BWBR0017707&amp;artikel=8">artikel 8</intref> bedoelde rempercentage
+                geschiedt overeenkomstig de volgende formule:</al><al>(Remgewicht van de trein / Treingewicht)&#xA0;&#xD7;&#xA0;100%.</al></lid><lid><lidnr>2</lidnr><al>Het op grond van het eerste lid berekende percentage wordt
+                naar beneden afgerond op hele procenten.</al></lid></artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr>2</nr><titel>Remgewicht</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>10</nr></kop><lid><lidnr>1</lidnr><al>Voor het berekenen van het remgewicht van de trein wordt
+                uitgegaan van de op de spoorvoertuigen vermelde remgewichten,
+                waarbij remgewichten van spoorvoertuigen, waarvan de remmen
+                buitenwerking of afgesloten dan wel niet aangesloten zijn op de
+                luchtleiding, buiten beschouwing worden gelaten.</al></lid><lid><lidnr>2</lidnr><al>Indien van een spoorvoertuig het remgewicht niet duidelijk
+                leesbaar is vermeld, wordt als remgewicht van dat spoorvoertuig
+                uitgegaan van:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>het eigen gewicht van het spoorvoertuig; of</al></li><li><li.nr>b.</li.nr><al>het remgewicht bekend bij de ingebruikneming van het
+                    spoorvoertuig door de spoorwegonderneming.</al></li></lijst></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>11</nr></kop><lid><lidnr>1</lidnr><al>Indien van een rijtuig of een wagen de rem van slechts &#xE9;&#xE9;n
+                draaistel buiten werking is, wordt in afwijking van <intref status="actief" doc="1.0:v:BWBR0017707&amp;artikel=10">artikel 10</intref>
+                als remgewicht van dat spoorvoertuig uitgegaan van:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>de helft van het op het rijtuig of de wagen aangegeven
+                    remgewicht, of</al></li><li><li.nr>b.</li.nr><al>het op het draaistel, waarvan de rem nog wel in werking
+                    is, aangegeven remgewicht.</al></li></lijst></lid><lid><lidnr>2</lidnr><al>Indien van een rijtuig de hogedrukrem van slechts &#xE9;&#xE9;n
+                draaistel is afgesloten en deze is voorzien van een verstelkruk
+                R-P, wordt in afwijking van <intref status="actief" doc="1.0:v:BWBR0017707&amp;artikel=10">artikel 10</intref> als remgewicht van dat
+                rijtuig uitgegaan van het totaal van:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>het remgewicht, vermeld achter P bij het afgesloten
+                    draaistel, en</al></li><li><li.nr>b.</li.nr><al>het remgewicht, vermeld achter R bij het andere draaistel,</al></li></lijst></lid><lid><lidnr>3</lidnr><al>Indien van een rijtuig de hogedrukrem is uitgevallen en deze
+                niet is voorzien van een verstelkruk R-P, wordt in afwijking van
+                <intref status="actief" doc="1.0:v:BWBR0017707&amp;artikel=10">artikel 10</intref> als remgewicht van dat rijtuig uitgegaan van het
+                eigen gewicht.</al></lid><lid><lidnr>4</lidnr><al>Indien van een locomotief, van een treinstel of van andere
+                spoorvoertuigen die in vaste samenstelling worden vervoerd, de
+                remmen gedeeltelijk zijn afgesloten, stelt de
+                spoorwegonderneming in afwijking van <intref status="actief" doc="1.0:v:BWBR0017707&amp;artikel=10">artikel 10</intref> vast met welke
+                vermindering van het remgewicht van dat betreffende
+                spoorvoertuig of van die betreffende spoorvoertuigen rekening
+                moet worden gehouden.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>12</nr></kop><al>In afwijking van <intref status="actief" doc="1.0:v:BWBR0017707&amp;artikel=10">artikel 10</intref> wordt bij een rijtuig voorzien van
+              een magneetrem en rijdend met de verstelkruk in de stand R+Mg, als
+              remgewicht van dat rijtuig uitgegaan van het remgewicht in de
+              stand R.</al></artikel><artikel status="goed"><kop><label>Artikel</label><nr>13</nr></kop><lid><lidnr>1</lidnr><al>Indien van een rijtuig met automatische lastafremming de
+                automatische lastafremming defect is en dit rijtuig voor
+                reizigers toegankelijk is, wordt in afwijking van <intref status="actief" doc="1.0:v:BWBR0017707&amp;artikel=10">artikel 10</intref> als
+                remgewicht van dat rijtuig uitgegaan van het eigen gewicht.</al></lid><lid><lidnr>2</lidnr><al>Een rijtuig met automatische lastafremming waarvan de
+                automatische lastafremming van slechts &#xE9;&#xE9;n draaistel defect is
+                of de luchttoevoer naar &#xE9;&#xE9;n van de veren afgesloten is, wordt
+                voor de vaststelling van het remgewicht gelijkgesteld met het in
+                het eerste lid bedoelde rijtuig.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>14</nr></kop><al>Bij wagens met automatische lastafremming wordt in afwijking van
+              <intref status="actief" doc="1.0:v:BWBR0017707&amp;artikel=10">artikel 10</intref> als remgewicht uitgegaan van het eigen gewicht van die
+              wagen vermeerderd met het gewicht van de lading, met dien
+              verstande dat de som hiervan het op de wagen vermelde maximum
+              remgewicht niet kan overstijgen.</al></artikel><artikel status="goed"><kop><label>Artikel</label><nr>15</nr></kop><lid><lidnr>1</lidnr><al>Indien in een trein, bestaande uit spoorvoertuigen met
+                uitzondering van het krachtvoertuig met ten hoogste 32 assen,
+                &#xE9;&#xE9;n of meer rijtuigen zijn opgenomen waarop het remgewicht
+                behalve in witte of zwarte cijfers ook in rode cijfers is
+                vermeld, wordt het in rode cijfers vermelde remgewicht als
+                remgewicht aangehouden, ongeacht of de
+                snelremversnellingsinrichting functioneert.</al></lid><lid><lidnr>2</lidnr><al>Indien in een trein, bestaande uit spoorvoertuigen met
+                uitzondering van het krachtvoertuig met meer dan 32 assen, twee
+                of meer rijtuigen zijn opgenomen die niet voorzien zijn van een
+                snelremversnellingsinrichting of waarvan de
+                snelremversnellingsinrichting niet functioneert, wordt voor alle
+                rijtuigen in die trein het in witte of zwarte cijfers vermelde
+                remgewicht aangehouden.</al></lid></artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr>3</nr><titel>Treingewicht</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>16</nr></kop><lid><lidnr>1</lidnr><al>Voor het berekenen van het treingewicht wordt bij treinen
+                bestemd voor het vervoer van reizigers uitgegaan van de op de
+                rijtuigen vermelde totale gewichten</al></lid><lid><lidnr>2</lidnr><al>Indien het totale gewicht niet op het rijtuig is vermeld,
+                wordt het totale gewicht van dat rijtuig berekend door het eigen
+                gewicht te vermeerderen met:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>0 ton bij een restauratierijtuig;</al></li><li><li.nr>b.</li.nr><al>2 ton bij een slaaprijtuig;</al></li><li><li.nr>c.</li.nr><al>2 ton bij een rijtuig met restauratie-afdeling (type RD,
+                    AR of BR);</al></li><li><li.nr>d.</li.nr><al>4 ton bij een zitrijtuig eerste klasse;</al></li><li><li.nr>e.</li.nr><al>4 ton bij een ligrijtuig eerste klasse;</al></li><li><li.nr>f.</li.nr><al>6 ton bij een rijtuig tweede klasse met 80 of meer zitplaatsen;</al></li><li><li.nr>g.</li.nr><al>5 ton bij overige rijtuigen; of</al></li><li><li.nr>h.</li.nr><al>1 ton per auto (inclusief eventuele aanhanger) bij
+                    dubbeldek-autowagens beladen met &#xE9;&#xE9;n of meer auto&#x2019;s en
+                    rijdend in een autoslaaptrein.</al></li></lijst></lid><lid><lidnr>3</lidnr><al>In afwijking van het eerste lid wordt het eigen gewicht van
+                een rijtuig als het totale gewicht aangemerkt, indien het
+                betreffende rijtuig:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>leeg en afgesloten wordt vervoerd; of</al></li><li><li.nr>b.</li.nr><al>voorzien is van een automatische lastafremming en leeg en
+                    afgesloten wordt vervoerd.</al></li></lijst></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>17</nr></kop><lid><lidnr>1</lidnr><al>Voor het berekenen van het treingewicht wordt bij treinen
+                bestemd voor het vervoer van goederen uitgegaan van het eigen
+                gewicht van de wagens vermeerderd met het gewicht van de
+                aanwezige lading. De uitkomst hiervan wordt als volgt afgerond:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>naar boven bij 0,5 ton of meer; of</al></li><li><li.nr>b.</li.nr><al>naar beneden bij minder dan 0,5 ton.</al></li></lijst></lid><lid><lidnr>2</lidnr><al>Indien het gewicht van de lading niet kan worden vastgesteld,
+                wordt het maximum draagvermogen van het spoorvoertuig als het
+                gewicht van de lading aangemerkt.</al></lid></artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr>4</nr><titel>Bijzondere beremmingsvoorschriften</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>18</nr></kop><lid><lidnr>1</lidnr><al>Treinen bestemd voor het vervoer van goederen zijn voor het
+                rijden in de Hemtunnel, de Velsertunnel dan wel de Willemstunnel
+                zodanig samengesteld dat deze een rempercentage van ten minste
+                54% hebben, tenzij op grond van de tabellen van <intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=2">bijlage 2</intref> een
+                hoger rempercentage van toepassing is.</al></lid><lid><lidnr>2</lidnr><al>Op treinen bestemd voor werkzaamheden aan op buiten dienst
+                gestelde sporen is voor het rijden in de in het eerste lid
+                genoemde tunnels kolom 2.4 van de tabellen van <intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=2">bijlage 2</intref> van toepassing.</al></lid></artikel><artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">19</nr>
+            </kop>
+            <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Op
+treinen bestemd voor het vervoer van goederen is een maximum remweg van
+100&#xA0;m van toepassing voor het rijden over hoofdspoorwegen als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0017794&amp;bijlage=2" compleet="nee">bijlage&#xA0;2 bij het Besluit aanwijzing hoofdspoorwegen</extref>,
+die gelegen zijn in een kruising of een samenloop met een voor het
+openbaar verkeer openstaande weg als bedoeld in de <extref status="actief" doc="1.0:v:BWBR0006622" compleet="nee">Wegenverkeerswet
+1994</extref> en die niet worden aangeduid als een overweg door middel van de
+borden J12 en J13 van <extref status="actief" doc="1.0:v:BWBR0004825&amp;bijlage=1" compleet="nee">bijlage 1 bij het Reglement verkeersregels en
+verkeerstekens
+1990</extref>.</al>
+                     </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De in het eerste lid bedoelde remweg is ook van toepassing op
+                treinen die over hoofdspoorwegen met een plaatselijk toegestane
+                snelheid van ten hoogste 10 km/u rijden.</al>
+            </lid>
+          </artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr>5</nr><titel>Kranen en krukken</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>20</nr></kop><lid><lidnr>1</lidnr><al>Bij treinen bestemd voor het vervoer van reizigers en losse
+                locomotieven wordt de P/G-kraan in de stand &#x2018;P&#x2019; gesteld.</al></lid><lid><lidnr>2</lidnr><al>Bij treinen bestemd voor het vervoer van goederen wordt de
+                P/G-kraan volgens de tabellen A of B opgenomen in <intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=3">bijlage 3</intref> ingesteld.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>21</nr></kop><lid><lidnr>1</lidnr><al>In afwijking van <intref status="actief" doc="1.0:v:BWBR0017707&amp;artikel=20">artikel 20</intref> kunnen in treinen, bestemd voor
+                het vervoer van goederen en met de P/G-kraan in de stand &#x2018;P&#x2019;,
+                maximaal vijf wagens met de P/G-kraan in de stand &#x2018;G&#x2019; achter de
+                locomotief worden opgenomen, indien het totaal van de op deze
+                wagens vermelde remgewichten met 20% wordt verminderd, waarbij
+                de uitkomst naar beneden wordt afgerond.</al></lid><lid><lidnr>2</lidnr><al>Indien in treinen, bestemd voor het vervoer van goederen en
+                met de P/G-kraan in de stand &#x2018;G&#x2019;, wagens worden opgenomen
+                waarvan de P/G-kraan niet in de stand &#x2018;G&#x2019; kan worden gesteld,
+                worden de remmen van deze wagens afgesloten.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>22</nr></kop><al>De verstelkruk leeg/beladen wordt op &#x2018;leeg&#x2019;gesteld, indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>het totaal van het gewicht van de wagen en van de lading
+                  minder is dan het verstelgewicht; of</al></li><li><li.nr>b.</li.nr><al>het totaal van het gewicht van de wagen en van de lading
+                  onbekend is.</al></li></lijst></artikel></paragraaf></hoofdstuk>
+      <hoofdstuk><kop><label>Hoofdstuk</label><nr>4</nr><titel>Seinen</titel></kop><paragraaf><kop><label>&#xA7;</label><nr>1</nr><titel>Algemene bepalingen</titel></kop><artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">23</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De beheerder draagt zorg voor de plaatsing en de bediening van
+                de vaste seinen in en nabij hoofdspoorwegen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De seinen worden op een zodanige wijze geplaatst en bediend
+                dat op veilige wijze van de hoofdspoorweg gebruik kan worden gemaakt.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De beheerder, gehoord de spoorwegondernemingen en de Minister,
+                stelt interne richtlijnen vast voor de veiligheidskritische
+                handelingen van de treindienstleider bij de bediening van seinen
+                die de handelwijze van de bestuurder raken.</al>
+            </lid><lid><lidnr status="officieel">4</lidnr><al>Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op de bediening van ETCS-cabineseinen, met dien verstande dat ETCS-cabineseinen door de beheerder worden bediend door het versturen van informatie.</al></lid>
+          </artikel><artikel status="goed">                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">24</nr>
+                     </kop>
+                     <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>De
+aard, uitvoering en betekenis van de seinen anders dan
+ETCS-cabineseinen zijn opgenomen in
+<intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=4">bijlage&#xA0;4</intref>.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De
+aard, uitvoering en betekenis van ETCS-cabineseinen zijn opgenomen in
+bijlage&#xA0;A.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>In
+aanvulling op bijlage A geldt
+dat:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>het
+in de punten 5.1.5, 5.2.1, 6.8.2.3.3, 6.8.2.3.5, en 6.18.2.2, van die
+bijlage met betrekking tot het ETCS level&#xA0;1 met seinen bepaalde,
+van overeenkomstige toepassing op het ETCS level&#xA0;2 met seinen,
+en</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>punt 6.11.2.1.4 van die bijlage
+van overeenkomstige toepassing is op de delen van een hoofdspoorweg
+waarop punt&#xA0;6.3.2.1.3 van die bijlage betrekking
+heeft.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>De
+bestuurder mag indien het spoorvoertuig stilstaat, het eerstvolgende te
+passeren lichtsein het voorbijrijden toestaat en geen bedienbare
+inrichtingen in de tussenliggende rijweg liggen, in afwijking van het
+tweede lid in verbinding met onderdeel a2 van punt&#xA0;6.11.2.1.4 van
+bijlage&#xA0;A, naar en voorbij dat lichtsein
+rijden.</al>
+                     </lid>
+                  </artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr>2</nr><titel>Plaatsing van seinen</titel></kop><artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">25</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Op hoofdspoorwegen waar de ter plaatse toegestane snelheid
+                hoger is dan 40 km/u worden in ieder geval:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>wissels;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>gelijkvloerse kruisingen van sporen;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>spooraansluitingen; en</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>beweegbare bruggen</al>
+                </li>
+              </lijst>
+              <al>beveiligd door seinen die tenminste rood licht kunnen uitstralen of door ETCS.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Op sporen waar de in het eerste lid bedoelde plaatsen met een
+                snelheid van ten hoogste 40 km/u worden genaderd, mag de
+                beveiliging ook bestaan uit een daarvoor geplaatst vast sein,
+                dat de bestuurder gebiedt te stoppen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De Minister kan ontheffing verlenen van het bepaalde in het
+                eerste lid.</al>
+            </lid>
+          </artikel><artikel status="goed"><kop><label>Artikel</label><nr>26</nr></kop><lid><lidnr>1</lidnr><al>Seinen worden geplaatst rechts naast of boven het spoor
+                waarvoor zij zijn bestemd.</al></lid><lid><lidnr>2</lidnr><al>In afwijking van het eerste lid mogen seinen links naast het
+                spoor worden geplaatst, indien de situatie ter plaatse dit
+                noodzakelijk maakt en dit geen nadelige invloed heeft op de
+                veiligheid van het spoorverkeer.</al></lid><lid><lidnr>3</lidnr><al>Seinen worden zodanig geplaatst of van zodanige aanduidingen
+                voorzien, dat het voor de bestuurder duidelijk is welke seinen
+                voor het door hem bereden spoor bestemd zijn.</al></lid></artikel><artikel status="goed">                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">27</nr>
+                     </kop>
+                     <al>Seinen
+zijn voor de bestuurder zodanig zichtbaar dat hij afhankelijk van de
+plaatselijk toegestane maximumsnelheid in staat is die tijdig waar te
+nemen en daarop op passende wijze te
+reageren.</al>
+                  </artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr>3</nr><titel>Onderling verband</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>28</nr></kop><lid><lidnr>1</lidnr><al>Tussen een wissel en een daarvoor ingevolge <intref status="actief" doc="1.0:v:BWBR0017707&amp;artikel=25">artikel 25</intref>, eerste
+                lid, geplaatst sein bestaat een zodanig verband dat als dit sein
+                voorbijrijden toestaat, het wissel niet kan worden omgelegd en
+                de juiste stand van de tongen verzekerd is.</al></lid><lid><lidnr>2</lidnr><al>Tussen een beweegbare brug en een daarvoor ingevolge <intref status="actief" doc="1.0:v:BWBR0017707&amp;artikel=25">artikel
+                25</intref>, eerste lid, geplaatst sein bestaat een zodanig verband dat
+                als dit sein voorbijrijden toestaat, de brug in de juiste stand
+                is vastgelegd.</al></lid><lid><lidnr>3</lidnr><al>De Minister kan ontheffing verlenen van het bepaalde in het
+                eerste lid.</al></lid></artikel><artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">29</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Indien op hoofdspoorwegen, waar de ten hoogste toegelaten
+                snelheid meer dan 40 km/u bedraagt, en op door de Minister
+                aangewezen sporen een vast sein of ETCS-cabinesein de bestuurder opdraagt te
+                stoppen, leggen de voorafgaande seinen een zodanige
+                snelheidsvermindering op dat de bestuurder de trein voor dit
+                sein tot stilstand kan brengen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Indien een vast sein de bestuurder een beperkte snelheid
+                opdraagt, leggen de voorafgaande seinen een zodanige
+                snelheidsvermindering op dat de beperkte snelheid bij dit sein
+                bereikt kan worden.</al>
+            </lid>
+          </artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr>4</nr><titel>Het opvolgen van seinen</titel></kop><artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">30</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De bestuurder zet een door een sein opgedragen
+                snelheidsverlaging in, wanneer het eerste spoorvoertuig van de
+                trein dit sein bereikt heeft.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De bestuurder mag een door een sein toegestane
+                snelheidsverhoging eerst uitvoeren, nadat het laatste
+                spoorvoertuig van de trein dit sein of het punt van toegestane snelheidsverhoging gepasseerd is.</al>
+            </lid>
+          </artikel><artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">31</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Een door een lichtsein of een ETCS-cabinesein gegeven gebod of toestemming geldt vanaf dit sein totdat de trein het volgende sein heeft bereikt of tot een ander ETCS-cabinesein wordt getoond.
+                De bestuurder neemt hierbij geboden of toestemmingen van
+                specifieke snelheidsborden, zoals opgenomen in <intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=4">bijlage 4</intref>, in acht.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Een door lichtsein nr. 214 of bord nr. 317, zoals opgenomen in
+                <intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=4">bijlage 4</intref>, gegeven toestemming geldt tot aan het eerstvolgende hoofdsein.</al>
+            </lid>
+            <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Bij
+gebruik van een hoofdspoorweg, met een spoorvoertuig waarvan het
+inzetcertificaat, bedoeld in <extref status="actief" doc="1.0:v:BWBR0015007&amp;artikel=36" compleet="nee">artikel&#xA0;36, vierde lid, van de wet</extref>,
+die hoofdspoorweg voor dat voertuig vermeldt als te berijden met het
+ETCS, geldt in afwijking van het tweede lid, een in dat lid bedoelde
+toestemming tot het tijdstip waarop een ETCS-cabinesein wordt getoond
+indien dat tijdstip voor het tijdstip van het passeren van het
+eerstvolgende hoofdsein is
+gelegen.</al>
+                     </lid><lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Onverminderd het tweede lid mag de bestuurder, met
+                inachtneming van geboden of toestemmingen van specifieke
+                snelheidsborden, bedoeld in het eerste lid, de snelheid direct
+                verhogen, indien:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>hij overdag en bij goed zicht ziet dat het eerste
+                    hoofdsein dat hij zal voorbijrijden, toestaat om te rijden
+                    met een hogere snelheid dan de trein rijdt;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>er zich tussen de trein en dit hoofdsein geen wissels
+                    bevinden;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de trein de wisselbogen in zijn geheel is gepasseerd; en</al>
+                </li>
+              <li><li.nr>d.</li.nr><al>het punt van toegestane snelheidsverhoging volledig is gepasseerd.</al></li></lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>Onverminderd het tweede lid mag een bestuurder de snelheid
+                verhogen, indien hij een specifiek snelheidsbord, bedoeld in het
+                eerste lid, voorbijrijdt, dat een hogere snelheid toestaat dan
+                de trein rijdt, en het voorafgaande lichtsein groen licht uitstraalde.</al>
+            </lid>
+          <lid>
+                        <lidnr status="officieel">6</lidnr>
+                        <al>De
+door een ETCS-cabinesein aangegeven toegestane snelheid treedt, bij
+gebruik van een hoofdspoorweg met een spoorvoertuig als bedoeld in het
+derde lid, indien in de ETCS FS-modus wordt gereden, in de plaats van
+de aangegeven toegestane snelheden door de in <intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=4">bijlage&#xA0;4</intref> opgenomen
+seinen nrs. 201 tot en met 212 a/b, nrs.&#xA0;217 tot en met 219 en
+nrs.&#xA0;313 tot en met
+316.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">7</lidnr>
+                        <al>De op basis
+van het zesde lid geldende toegestane snelheid, geldt tot het tijdstip
+waarop het in punt&#xA0;6.8.2.1.2.4 van bijlage&#xA0;A bedoelde signaal
+is getoond of een daarmee overkomend bericht is ontvangen en
+&#xE9;&#xE9;n of meer van de in het zesde lid genoemde seinen wordt
+gepasseerd.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">8</lidnr>
+                        <al>Het
+derde, zesde en zevende lid is niet van toepassing bij gebruik van de
+hoofdspoorweg, bedoeld in <extref status="actief" doc="1.0:v:BWBR0017794&amp;bijlage=1" compleet="nee">bijlage&#xA0;1, punt&#xA0;15, van het Besluit
+aanwijzing
+hoofdspoorwegen</extref>.</al>
+                     </lid></artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr>5</nr><titel>Gedoofde en onjuiste seinen</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>32</nr></kop><lid><lidnr>1</lidnr><al>Wanneer de bestuurder in een hoofdsein, met uitzondering van
+                een P-sein, gedoofd of onjuist licht waarneemt, stopt de
+                bestuurder direct, indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>hij in het bezit is van een aanwijzing Stoptonend sein;</al></li><li><li.nr>b.</li.nr><al>het voorafgaande sein lichtsein nr. 212 a/b, zoals
+                    opgenomen in <intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=4">bijlage 4</intref>, dat geel licht uitstraalde, was;</al></li><li><li.nr>c.</li.nr><al>het voorafgaande lichtsein een gedoofd sein was;</al></li><li><li.nr>d.</li.nr><al>het voorafgaande sein baken nr. 249a, zoals opgenomen in
+                    <intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=4">bijlage 4</intref>, was; of</al></li><li><li.nr>e.</li.nr><al>het voorafgaande sein lichtsein nr. 214, zoals opgenomen
+                    in <intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=4">bijlage 4</intref>, dat geel licht uitstraalde, of bord nr. 317,
+                    zoals opgenomen in <intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=4">bijlage 4</intref>, was.</al></li></lijst><al>In andere dan de onder a tot en met e genoemde gevallen
+                begrenst de bestuurder de snelheid tot 40 km/u om op elke plaats
+                achter dit sein waar een belemmering voor het verder rijden
+                aanwezig is te kunnen stoppen.</al></lid><lid><lidnr>2</lidnr><al>Indien de bestuurder in een P-sein gedoofd of onjuist licht
+                waarneemt, begrenst hij de snelheid tot 40 km/u om op elke
+                plaats achter dit sein waar een belemmering voor het verder
+                rijden aanwezig is te kunnen stoppen.</al></lid><lid><lidnr>3</lidnr><al>Indien de bestuurder in een voorsein gedoofd of onjuist licht
+                waarneemt, dan handelt de bestuurder alsof dit sein
+                overeenkomstig voorsein nr. 219 a/b, zoals opgenomen in <intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=4">bijlage 4</intref>, geel licht uitstraalt.</al></lid></artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr>6</nr><titel>Het passeren van rode seinen</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>33</nr></kop><lid><lidnr>1</lidnr><al>Lichtseinen die rood licht uitstralen mogen alleen
+                voorbijgereden worden, indien de bestuurder van de
+                treindienstleider een aanwijzing Stoptonend sein heeft gekregen.</al></lid><lid><lidnr>2</lidnr><al>In afwijking van het eerste lid mag een P-sein dat rood licht
+                uitstraalt worden voorbijgereden, indien de treindienstleider
+                dit heeft toegestaan. Indien de bestuurder geen spreekverbinding
+                met de treindienstleider tot stand kan brengen, dan mag dit
+                P-sein voorbij worden gereden.</al></lid><lid><lidnr>3</lidnr><al>Indien het P-sein, bedoeld in het tweede lid, voorbijgereden
+                mag worden, mag de bestuurder ook daaropvolgende P-seinen die
+                rood licht uitstralen voorbijrijden.</al></lid><lid><lidnr>4</lidnr><al>Na het voorbijrijden van een P-sein dat rood licht uitstraalt
+                is de bestuurder verplicht:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>met een zodanige snelheid te rijden dat hij in staat is om
+                    te kunnen stoppen binnen de afstand waarover de spoorweg is
+                    te overzien en deze vrij is; en</al></li><li><li.nr>b.</li.nr><al>rekening te houden met het niet goed functioneren van een
+                    AKI, AHOB of AOB.</al></li></lijst></lid><lid><lidnr>5</lidnr><al>De treindienstleider geeft geen toestemming tot het
+                voorbijrijden van het P-sein dat rood licht uitstraalt, bedoeld
+                in het tweede lid, indien hij op de hoogte is van gevaar achter
+                dit sein.</al></lid></artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr>7</nr><titel>Overige bepalingen</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>34</nr></kop><al>Aanwijzingen van de beheerder, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0017624&amp;artikel=4" compleet="nee">artikelen 4, derde
+              lid</extref>, <extref status="actief" doc="1.0:v:BWBR0017624&amp;artikel=12" compleet="nee">12, tweede lid, onderdeel c</extref>, <extref status="actief" doc="1.0:v:BWBR0017624&amp;artikel=13" compleet="nee">13, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0017624&amp;artikel=15" compleet="nee">15, tweede lid</extref>,
+              <extref status="actief" doc="1.0:v:BWBR0017624&amp;artikel=18" compleet="nee">18, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0017624&amp;artikel=22" compleet="nee">22, tweede lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0017624&amp;artikel=23" compleet="nee">23, tweede lid, van het Besluit
+              spoorverkeer</extref>, gaan boven seinen.</al></artikel></paragraaf></hoofdstuk>
+      <hoofdstuk><kop><label>Hoofdstuk</label><nr>5</nr><titel>Sluitseinbord</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>35</nr></kop><al>Het model, de afmetingen, het reflecterend vermogen en de
+            plaatsing van het schild aan de achterzijde van treinen worden
+            vastgesteld en vervaardigd overeenkomstig het model en de
+            voorschriften opgenomen in <intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=5">bijlage 5</intref>.</al></artikel></hoofdstuk>
+      <hoofdstuk><kop><label>Hoofdstuk</label><nr>6</nr><titel>Standaardaanwijzingen</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>36</nr></kop><al>De treindienstleider kan aan de bestuurder in ieder geval de
+            volgende gestandaardiseerde aanwijzingen geven:</al><lid><lidnr>1</lidnr><al>Stoptonend sein (STS)</al><al>Aanwijzing om door te rijden en voorbij het aangegeven sein dat
+              rood licht uitstraalt:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>met een zodanige snelheid, die niet hoger is dan 40 km/u, te
+                  rijden dat de bestuurder in staat is om te kunnen stoppen
+                  binnen de afstand waarover de spoorweg is te overzien en deze
+                  vrij is;</al></li><li><li.nr>b.</li.nr><al>de wissels voorzichtig te berijden met een snelheid van ten
+                  hoogste 10 km/u en voor een wissel te stoppen, indien de
+                  wissel niet in de aangegeven stand ligt of uiterlijk
+                  beschadigd is; en</al></li><li><li.nr>c.</li.nr><al>rekening te houden met het niet goed functioneren van een
+                  AKI, AHOB dan wel een AOB.</al></li></lijst></lid><lid><lidnr>2</lidnr><al>Stoptonend sein met normale snelheid (STS-A)</al><al>Aanwijzing om door te rijden en voorbij het aangegeven sein dat
+              rood licht uitstraalt:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>de wissels voorzichtig te berijden met een snelheid van ten
+                  hoogste 10 km/u en voor een wissel te stoppen, indien de
+                  wissel niet in de aangegeven stand ligt of uiterlijk
+                  beschadigd is;</al></li><li><li.nr>b.</li.nr><al>rekening te houden met het niet goed functioneren van een
+                  aangegeven AKI, AHOB dan wel een AOB;</al></li><li><li.nr>c.</li.nr><al>de aangegeven brug slechts te berijden, indien sein nr. 244
+                  a of b voorbijrijden toestaat; of</al></li><li><li.nr>d.</li.nr><al>in andere gevallen te mogen rijden met de normale snelheid.</al></li></lijst></lid><lid><lidnr>3</lidnr><al>Voorzichtig rijden (VR)</al><al>Aanwijzing om voorzichtig te rijden met een snelheid van ten
+              hoogste 40 km/u dan wel met een door de treindienstleider
+              aangegeven lagere snelheid vanwege een door hem aangegeven reden.
+              De bestuurder brengt de trein tot stilstand, indien de veiligheid
+              dit vordert.</al></lid><lid><lidnr>4</lidnr><al>AKI, AHOB of AOB</al><al>Aanwijzing om bij nadering van de aangegeven overweg of overpad:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>tijdig de snelheid te verminderen tot ten hoogste 10 km/u; en</al></li><li><li.nr>b.</li.nr><al>herhaaldelijk een fluitsignaal te geven en te stoppen,
+                  indien de veiligheid van het wegverkeer dit vordert.</al></li></lijst></lid><lid><lidnr>5</lidnr><al>Snelheid begrenzen (SB)</al><al>Aanwijzing om de snelheid te begrenzen tot de door de
+              treindienstleider aangegeven snelheid vanwege de toestand van de spoorweg.</al></lid><lid><lidnr>6</lidnr><al>Verkeerd spoor (VS)</al><al>Aanwijzing om de hoofdspoorweg in een andere richting te mogen
+              berijden dan waarvoor de beveiliging is ingericht.</al></lid><lid><lidnr>7</lidnr><al>Telefonische toestemming vragen voor vertrek (TTV)</al><al>Aanwijzing om voor vertrek telefonisch aan de treindienstleider
+              toestemming te vragen om te mogen vertrekken.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>37</nr></kop><lid><lidnr>1</lidnr><al>De aanwijzingen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0017707&amp;artikel=36">artikel 36</intref>, worden schriftelijk dan
+              wel per spreekverbinding gegeven.</al></lid><lid><lidnr>2</lidnr><al>Indien de aanwijzingen per spreekverbinding worden gegeven,
+              noteert de bestuurder de gegevens en herhaalt hij de inhoud van de aanwijzing.</al></lid><lid><lidnr>3</lidnr><al>Bij de aanwijzing AKI, AHOB of AOB kan de snelheid eerst dan
+              worden hernomen, indien de voorzijde van de trein de overweg of
+              het overpad is gepasseerd.</al></lid><lid><lidnr>4</lidnr><al>Bij de aanwijzing Verkeerd Spoor wordt tevens aan de bestuurder
+              een beeldinstructie verstrekt.</al></lid></artikel></hoofdstuk>
+      <hoofdstuk><kop><label>Hoofdstuk</label><nr>7</nr><titel>Spoorwegemplacementen</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>38</nr></kop><al>Als spoorwegemplacementen bedoeld in <extref status="actief" doc="1.0:v:BWBR0017624&amp;artikel=1" compleet="nee">artikel 1, onderdeel e, van
+            het Besluit spoorverkeer</extref> worden aangewezen de spoorwegemplacementen,
+            bedoeld in <intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=6">bijlage 6</intref>.</al></artikel><artikel status="goed"><kop><label>Artikel</label><nr>39</nr></kop><lid><lidnr>1</lidnr><al>Tot een spoorwegemplacement behoren:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>alle sporen, aangeduid met een cijfer;</al></li><li><li.nr>b.</li.nr><al>de spoorgedeeltes van het wisselcomplex; en</al></li><li><li.nr>c.</li.nr><al>alle aan de sporen als bedoeld in onderdeel a en b grenzende
+                  sporen tot een maximale afstand van 200 m voor het toeleidende
+                  sein van het bedoelde emplacement.</al></li></lijst></lid><lid><lidnr>2</lidnr><al>In afwijking van het eerste lid, onderdeel c, zijn de locaties
+              waar een grotere afstand dan 200 m benodigd is, weergegeven in
+              <intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=7">bijlage 7</intref>.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>40</nr></kop><al>In afwijking van <intref status="actief" doc="1.0:v:BWBR0017707&amp;artikel=39">artikel 39 eerste lid, onderdeel c, en het tweede
+            lid</intref>, wordt door de beheerder, indien dit voor het veilige gebruik
+            van de spoorweg vereist is, door middel van het bord nr. 302 uit
+            <intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=4">bijlage 4</intref> aangegeven dat op dit spoor niet gerangeerd kan worden of
+            dat beperkingen gelden ten aanzien van het rangeren.</al></artikel></hoofdstuk>
+      <hoofdstuk><kop><label>Hoofdstuk</label><nr>7a</nr><titel>Afmeting van de lading</titel></kop><artikel status="goed"> 
+                <kop> 
+                  <label>Artikel</label><nr>40a</nr> 
+                </kop> 
+                <al>Het profiel, bedoeld in <extref status="actief" doc="1.0:v:BWBR0017624&amp;artikel=12" compleet="nee">artikel 12, tweede lid, onderdeel a, van het Besluit Spoorverkeer</extref>, is opgenomen in <intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=8">bijlage 8</intref>.</al> 
+              </artikel></hoofdstuk><hoofdstuk><kop><label>Hoofdstuk</label><nr>8</nr><titel>Slotbepalingen</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>41</nr></kop><al>Deze regeling treedt in werking op het tijdstip waarop het <extref status="actief" doc="1.0:v:BWBR0017624" compleet="nee">Besluit
+            spoorverkeer</extref> in werking treedt.</al></artikel><artikel status="goed"><kop><label>Artikel</label><nr>42</nr></kop><al>Deze regeling wordt aangehaald als: Regeling spoorverkeer.</al></artikel></hoofdstuk>
+    </regeling-tekst>
+    <regeling-sluiting status="goed"><slotformulering><al>Deze regeling zal met de toelichting in de Staatscourant worden
+          geplaatst met uitzondering van de bijlagen, die ter inzage worden
+          gelegd bij het Ministerie van Verkeer en Waterstaat.</al></slotformulering><ondertekenaar><ondertekening>De <functie>Minister</functie> van <organisatie afkorting="VW">Verkeer en Waterstaat</organisatie>, 
+          <naam><voornaam>K.M.H.</voornaam><achternaam>Peijs</achternaam></naam></ondertekening></ondertekenaar></regeling-sluiting>
+  <bijlage status="goed"><kop><label>Bijlage</label><nr>2</nr></kop><al><redactie type="vervanging">Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.</redactie></al></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">3</nr><titel status="officieel">, behorende bij <intref status="actief" doc="1.0:v:BWBR0017707&amp;artikel=20">artikel 20, tweede lid</intref>, van de Regeling
+spoorverkeer
+</titel></kop><table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="xml1">
+                        <tgroup align="left" char="" charoff="50" cols="6" tgroupstyle="xml1">
+                           <colspec colname="col1" colnum="1" colwidth="25*"/>
+                           <colspec colname="col2" colnum="2" colwidth="15*"/>
+                           <colspec colname="col3" colnum="3" colwidth="15*"/>
+                           <colspec colname="col4" colnum="4" colwidth="15*"/>
+                           <colspec colname="col5" colnum="5" colwidth="15*"/>
+                           <colspec colname="col6" colnum="6" colwidth="44.5*"/>
+                           <thead valign="bottom">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Treingewicht</al>
+                                    <al>exclusief
+locomotieven</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" nameend="col5" namest="col2" rotate="0" valign="top">
+                                    <al>Toelaatbare
+standen
+P/G-kranen</al>
+                                 </entry>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Voorwaarden</al>
+                                 </entry>
+                              </row>
+                           </thead>
+                           <tbody valign="top">
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>&#x2264;
+800
+ton<sup>1</sup>
+                                    </al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="4" rotate="0" valign="top">
+                                    <al>GG</al>
+                                 </entry>
+                                 <entry align="left" colname="col3" colsep="1" morerows="4" rotate="0" valign="top">
+                                    <al>LL<sup>5</sup>
+                                    </al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="1" rotate="0" valign="middle">
+                                    <al>
+                                       <nadruk type="vet">GP</nadruk>
+                                    </al>
+                                 </entry>
+                                 <entry align="left" colname="col5" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>PP</al>
+                                 </entry>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>&#x2264;
+1600
+ton<sup>2</sup>
+                                    </al>
+                                 </entry>
+                                 <entry align="left" colname="col5" colsep="1" morerows="3" rotate="0" valign="middle">
+                                    <al>Niet</al>
+                                    <al>toegestaan</al>
+                                 </entry>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>&#x2264;
+2500
+ton<sup>3</sup>
+                                    </al>
+                                 </entry>
+                                 <entry align="left" colname="col4" colsep="1" morerows="2" rotate="0" valign="middle">
+                                    <al>Niet</al>
+                                    <al>toegestaan</al>
+                                 </entry>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Voor
+LL: &gt; 1600 ton, alle wagens in de trein:</al>
+                                    <al>massa/wagen
+&#x2265; 32
+ton</al>
+                                 </entry>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>&#x2264;
+4000
+ton</al>
+                                 </entry>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Voor
+LL: &gt; 2500 ton, alle wagens in de trein:</al>
+                                    <al>massa/wagen
+&#x2265; 40
+ton</al>
+                                 </entry>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>&gt;
+4000
+ton<sup>4</sup>
+                                    </al>
+                                 </entry>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Automatische
+koppeling conform 69e voorschrift van de Internationale Spoorweg Unie
+verplicht</al>
+                                 </entry>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Treinlengte</al>
+                                    <al>incl.
+loc&#x2019;n</al>
+                                 </entry>
+                                 <entry align="center" colname="col2" colsep="1" morerows="0" nameend="col5" namest="col2" rotate="0" valign="top">
+                                    <al>Toelaatbare
+standen
+P/G-kranen</al>
+                                 </entry>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Voorwaarden</al>
+                                 </entry>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>&gt;
+700
+meter</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>GG</al>
+                                 </entry>
+                                 <entry align="center" colname="col3" colsep="1" morerows="0" nameend="col5" namest="col3" rotate="0" valign="top">
+                                    <al>Niet
+toegestaan</al>
+                                 </entry>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top"/>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Treinsnelheid</al>
+                                 </entry>
+                                 <entry align="center" colsep="1" morerows="0" nameend="col5" namest="col2" rotate="0" valign="top">
+                                    <al>Maximaal
+toegelaten
+treinsnelheid</al>
+                                 </entry>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Voorwaarden</al>
+                                 </entry>
+                              </row>
+                              <row rowsep="1">
+                                 <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Treinsnelheid</al>
+                                 </entry>
+                                 <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>90/95</al>
+                                 </entry>
+                                 <entry align="center" colname="col3" colsep="1" morerows="0" nameend="col5" namest="col3" rotate="0" valign="top">
+                                    <al>120</al>
+                                 </entry>
+                                 <entry align="left" colname="col6" colsep="1" morerows="0" rotate="0" valign="top">
+                                    <al>Voor
+minimaal benodigd rempercentage &#x3BB;</al>
+                                    <al>zie Bijlage
+2</al>
+                                 </entry>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                     <al><sup>1</sup> 600
+ton maximaal treingewicht voor Belgi&#xEB; in stand
+PP</al><al><sup>5</sup> gelede
+wagens gelden als meerdere wagens; bij een treingewicht
+&gt;&#xA0;1600&#xA0;ton dient elk deel van de gelede wagen een massa te
+hebben &#x2265;&#xA0;32&#xA0;ton en bij een treingewicht &gt;
+2500&#xA0;ton een massa &#x2265;&#xA0;40&#xA0;ton, alle P/G-kranen van
+de gelede wagen moeten in &#xE9;&#xE9;nzelfde stand
+staan.</al><al><sup>2</sup> 1200
+ton maximaal treingewicht voor Belgi&#xEB; en Duitsland in stand
+GP</al><al><sup>3</sup> 1800
+ton maximaal treingewicht voor Belgi&#xEB; in stand
+LL</al><al><sup>4</sup> 4500
+ton maximaal treingewicht voor Belgi&#xEB; met
+AK</al><al>
+                        <nadruk type="vet">PP:</nadruk>
+                     </al>
+                     <al>Vooroplopende
+locomotie(f)(ven) en alle wagens in de stand P;</al>
+                     <al>Minimum
+rempercentage &#x3BB; volgens de P-remtabellen in
+<intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=2">Bijlage&#xA0;2</intref>;</al>
+                     <al>Data invoer ETCS:
+P.</al>
+                     <al>
+                        <nadruk type="vet">GP:</nadruk>
+                     </al>
+                     <al>Vooroplopende
+locomotie(f)(ven) in de stand G en de wagens in de
+stand&#xA0;P;</al>
+                     <al>Remgewicht vooroplopende locomotie(f)(ven) het
+G-remgewicht aanhouden;</al>
+                     <al>Minimum rempercentage &#x3BB; volgens
+de P-remtabellen in <intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=2">Bijlage&#xA0;2</intref>;</al>
+                     <al>Data invoer ETCS:
+P.</al>
+                     <al>
+                        <nadruk type="vet">LL:</nadruk>
+                     </al>
+                     <al>Vooroplopende
+locomotie(f)(ven) en de vijf volgende wagens in de stand&#xA0;G en de
+overige wagens in de stand&#xA0;P;</al>
+                     <al>Remgewicht vooroplopende
+locomtie(f)(ven) het G-remgewicht aanhouden, remgewicht van de eerste
+vijf wagens met 20% verlagen, rest van de wagens het P-remgewicht
+aanhouden;</al>
+                     <al>Minimum rempercentage &#x3BB; volgens de
+P-remtabellen in <intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=2">Bijlage&#xA0;2</intref>;</al>
+                     <al>Data invoer ETCS:
+P.</al>
+                     <al>
+                        <nadruk type="vet">GG:</nadruk>
+                     </al>
+                     <al>Vooroplopende
+locomotie(f)(ven) en alle overige wagens in de stand G;</al>
+                     <al>Minimum
+rempercentage &#x3BB; volgens de G-remtabellen in
+<intref status="actief" doc="1.0:v:BWBR0017707&amp;bijlage=2">Bijlage&#xA0;2</intref>;</al>
+                     <al>Data invoer ETCS:
+G.</al></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr>4</nr></kop><al><redactie type="vervanging">Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.</redactie></al></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr>5</nr></kop><al><redactie type="vervanging">Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.</redactie></al></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr>6</nr></kop><al><redactie type="vervanging">Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.</redactie></al></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr>7</nr></kop><al><redactie type="vervanging">Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.</redactie></al></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">8</nr></kop><al><redactie type="vervanging">Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat en bij de Inspectie van Verkeer en Waterstaat.</redactie></al></bijlage></regeling>
+</wetgeving>
+  	

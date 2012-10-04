@@ -1,0 +1,1997 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBV0003238" dtdversie="2.0" id="10000027129" verdragnummer="001688" soort="verdrag"><alias-titels><alias-titel>Convention on the International Maritime Satellite Organization (INMARSAT)</alias-titel></alias-titels><intitule>Verdrag inzake de Internationale Organisatie voor Mobiele Satellieten</intitule><verdrag tekst="authentiek" xml:lang="en"><verdragtekst>
+					<kop>
+						<titel status="officieel">Convention on the International Mobile Satellite Organization</titel>
+					</kop>
+					<aanhef>
+						<preambule>
+							<al>The States Parties to this Convention:</al>
+							<al>Considering the principle set forth in Resolution 1721 (XVI) of the General Assembly of the United Nations that communication by means of satellites should be available to the nations of the world as soon as practicable on a global and non-discriminatory basis,</al>
+							<al>Considering also the relevant provisions of the
+<extref status="actief" doc="1.0:v:BWBV0004403" compleet="nee">Treaty on Principles Governing the Activities of States in the
+Exploration and Use of Outer Space, Including the Moon and Other
+Celestial Bodies</extref>, concluded on 27&#xA0;January 1967, and in particular
+<extref status="actief" doc="1.0:v:BWBV0004403&amp;artikel=I" compleet="nee">Article 1</extref>, which states that outer space shall be used for the benefit
+and in the interests of all countries,</al>
+							
+							<al>Determined, to this end, to continue to make provision for the benefit
+of telecommunications users of all nations through the most advanced suitable
+space technology available, for the most efficient and economic facilities
+possible consistent with the most efficient and equitable use of the radio
+frequency spectrum and of satellite orbits,</al>
+							<al>Bearing in mind that the International
+Maritime Satellite Organization (INMARSAT) has, in accordance with its
+original purpose, established a global mobile satellite communications
+system for maritime communications, including distress and safety
+communications capabilities which are specified in the <extref status="actief" doc="1.0:v:BWBV0003264" compleet="nee">International
+Convention for the Safety of Life at Sea, 1974</extref>, as amended from time to
+time, and the Radio Regulations specified in the Constitution and the
+Convention of the International Telecommunication Union, as amended
+from time to time, as meeting certain radiocommunications requirements
+of the Global Maritime Distress and Safety System
+(GMDSS),</al><al>Recalling that Inmarsat has extended its original
+purpose by providing aeronautical and land mobile satellite
+communications, including aeronautical satellite communications for air
+traffic management and aircraft operational control (aeronautical
+safety services), and is also providing radiodetermination
+services,</al>
+                     <al>Recalling further that in December 1994 the
+Assembly decided to replace the name &#x201C;International Maritime
+Satellite Organization (INMARSAT)&#x201D; with &#x201C;International
+Mobile Satellite Organization (INMARSAT)&#x201D;, and that, although
+these amendments did not enter formally into force, the name
+International Mobile Satellite Organization (Inmarsat) was used
+thereafter, including in the restructuring
+documentation,</al><al>Recognizing that, in the restructuring of the
+International Mobile Satellite Organization, its assets, commercial
+operations and interests were transferred without restriction to a new
+commercial company, Inmarsat Ltd., while the continued provision of the
+GMDSS and adherence to the other public interests by the company have
+been secured by a mechanism for intergovernmental oversight by the
+International Mobile Satellite Organization
+(IMSO),</al><al>Acknowledging that, by adopting IMO Assembly Resolution
+A.888(21), &#x201C;Criteria for the Provision of Mobile-Satellite
+Communication Systems in the Global Maritime Distress and Safety System
+(GMDSS),&#x201D; the International Maritime Organization (IMO) has
+recognized the need for IMO to have in place criteria against which to
+evaluate the capabilities and performance of mobile satellite
+communication systems, as may be notified to IMO by Governments for
+possible recognition for use in the GMDSS,</al><al>Acknowledging
+further that IMO has developed a &#x201C;Procedure for the Evaluation
+and Possible Recognition of Mobile-Satellite Systems Notified for Use
+in the GMDSS&#x201D;,</al><al>Acknowledging also the desire of Parties
+to promote the growth of a pro-competitive market environment in the
+current and future provision of mobile satellite communications systems
+services for the GMDSS,</al>
+                     <al>Affirming that, under such circumstances,
+there is a need to ensure continuity in the provision of the GMDSS
+through intergovernmental oversight,</al><al>Acknowledging that IMO,
+through the Maritime Safety Committee (MSC) at its eighty-first
+session, adopted amendments to <extref status="actief" doc="1.0:v:BWBV0003264&amp;hoofdstuk=V" compleet="nee">Chapter V of the International
+Convention for the Safety of Life at Sea, 1974</extref> relating to the
+long-range identification and tracking of ships (LRIT), adopted
+performance standards and functional requirements for LRIT, and adopted
+arrangements for the timely establishment of the LRIT
+system,</al><al>Affirming the willingness of Parties that IMSO may
+assume the functions and duties of the LRIT Co-ordinator, at no cost to
+Parties, in accordance with decisions of IMO, subject to the terms of
+this Convention,</al><al>Acknowledging that the MSC, at its
+eighty-second session, decided to appoint IMSO as the LRIT Co-ordinator
+and invited IMSO to take whatever action it could in order to ensure
+the timely implementation of the LRIT system,</al></preambule>
+					<afkondiging><al>Agree as follows:</al></afkondiging></aanhef>
+					<wettekst>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">1</nr>
+								<titel status="officieel">Definitions</titel>
+							</kop>
+							<al>For the purposes of this Convention:</al>
+							<lijst type="expliciet">
+                           <li>
+                              <li.nr>a)</li.nr>
+                              <al>&#x201C;The Organization&#x201D; means the intergovernmental
+organization established pursuant to Article 2.</al>
+                           </li>
+                           <li>
+                              <li.nr>b)</li.nr>
+                              <al>&#x201C;GMDSS&#x201D; means the Global Maritime
+Distress and Safety System as established by
+IMO.</al>
+                           </li><li>
+                              <li.nr>c)</li.nr>
+                              <al>&#x201C;Provider&#x201D; means any entity or
+entities, which, through a mobile satellite communications system
+recognized by IMO, provides services for the GMDSS.</al>
+                           </li>
+                           <li>
+                              <li.nr>d)</li.nr>
+                              <al>&#x201C;Party&#x201D; means a State for which this Convention
+has entered into force.</al>
+                           </li>
+                           <li>
+                              <li.nr>e)</li.nr>
+                              <al>&#x201C;Public Services Agreement&#x201D; means an
+Agreement executed by the Organization and a Provider, as referred to
+in Article 5(1).</al>
+                           </li>
+                           
+                        <li><li.nr>f)</li.nr><al>&#x201C;IMO&#x201D;
+means the International Maritime
+Organization.</al></li><li><li.nr>g)</li.nr><al>&#x201C;MSC&#x201D;
+means the Maritime Safety Committee of
+IMO.</al></li><li><li.nr>h)</li.nr><al>&#x201C;LRIT&#x201D; means the
+long-range identification and tracking of ships as established by
+IMO.</al></li><li><li.nr>i)</li.nr><al>&#x201C;LRIT Services
+Agreement&#x201D; means an Agreement executed by the Organization and
+either an LRIT Data Centre or an LRIT Data Exchange, or other relevant
+entities, as referred to in Article
+7.</al></li><li><li.nr>j)</li.nr><al>&#x201C;LRIT Data Centre&#x201D;
+means a national, regional, co-operative or international data centre
+operating in conformity with requirements adopted by IMO in relation to
+LRIT.</al></li><li><li.nr>k)</li.nr><al>&#x201C;LRIT Data
+Exchange&#x201D; means a data exchange operating in conformity with
+requirements adopted by IMO in relation to
+LRIT.</al></li><li><li.nr>l)</li.nr><al>&#x201C;LRIT
+Co-ordinator&#x201D; means the Co-ordinator for the LRIT system
+appointed by the MSC.</al></li></lijst>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">2</nr>
+								<titel>Establishment of the Organization</titel>
+							</kop>
+							<al>The International Mobile Satellite
+Organization (IMSO), herein referred to as &#x201C;the
+Organization&#x201D;, is hereby
+established.</al></artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">3</nr>
+								<titel status="officieel">Primary
+Purpose</titel>
+							</kop>
+							<lid>
+                  <lidnr>1</lidnr>
+                  <al>The
+Primary Purpose of the Organization is to ensure the provision, by each
+Provider, of maritime mobile satellite communications services for the
+GMDSS according to the legal framework set up by
+IMO.</al>
+               </lid>
+               <lid>
+                  <lidnr>2</lidnr>
+                  <al>In
+implementing the Primary Purpose set out in paragraph (1), the
+Organization
+shall:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a)</li.nr>
+                <al>act
+exclusively for peaceful purposes; and</al>
+              </li>
+              <li>
+                <li.nr>b)</li.nr>
+                <al>perform the oversight functions in a fair and
+consistent manner among
+Providers.</al>
+              </li>
+            </lijst>
+               </lid></artikel>
+						<artikel status="goed">
+          <kop>
+            <label>Article</label>
+            <nr status="officieel">4</nr>
+            <titel>Other
+Functions</titel>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>Subject
+to the decision of the Assembly, the Organization may assume functions
+and/or duties of LRIT Co-ordinator, at no cost to Parties, in
+accordance with the decisions of
+IMO.</al>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>The
+Organization shall continue to perform the functions and/or duties of
+LRIT Co-ordinator, subject to the decision of the Assembly. In
+performing such functions and/or duties, the Organization shall act in
+a fair and consistent
+manner.</al>
+          </lid>
+        </artikel><artikel status="goed">
+          <kop>
+            <label>Article</label>
+            <nr status="officieel">5</nr>
+            <titel>Oversight
+of the
+GMDSS</titel>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>The
+Organization shall execute a Public Services Agreement with each
+Provider, and shall conclude such other arrangements as may be
+necessary to enable the Organization to perform its oversight
+functions, and to report as well as make recommendations, as
+appropriate.</al>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>Oversight
+of Providers by the Organization shall be based
+on:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a)</li.nr>
+                <al>any
+specific conditions or obligations imposed by IMO during, or at any
+stage after, the recognition and authorization of the
+Provider;</al>
+              </li>
+              <li>
+                <li.nr>b)</li.nr>
+                <al>relevant international
+regulations, standards, recommendations, resolutions and procedures
+relating to the GMDSS;</al>
+              </li>
+              <li>
+                <li.nr>c)</li.nr>
+                <al>the relevant
+Public Services Agreement and any other related arrangements concluded
+between the Organization and the Provider.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr>3</lidnr>
+            <al>Each Public Services
+Agreement shall include, <nadruk type="cur">inter alia,
+</nadruk>general provisions, common principles and appropriate
+obligations for the Provider in accordance with a Reference Public
+Services Agreement and guidelines developed by the Assembly, including
+arrangements for the provision of all the information necessary for the
+Organization to fulfil its purpose, functions and duties, consistent
+with Article
+3.</al>
+          </lid>
+          <lid>
+            <lidnr>4</lidnr>
+            <al>All Providers
+shall execute Public Services Agreements which shall also be executed
+by the Director General on behalf of the Organization. Public Services
+Agreements shall be approved by the Assembly. The Director General
+shall circulate the Public Services Agreements to all Parties. Such
+Agreements shall be considered approved by the Assembly unless more
+than one-third of the Parties submit written objections to the Director
+General within three months from the date of
+circulation.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Article</label>
+            <nr status="officieel">6</nr>
+            <titel>Facilitation</titel>
+          </kop>
+          <lid>
+            <lidnr>1</lidnr>
+            <al>Parties
+shall take appropriate measures, in accordance with national laws, to
+enable Providers to provide GMDSS
+services.</al>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>The
+Organization, through existing international and national mechanisms
+dealing with technical assistance, should seek to assist Providers in
+their effort to ensure that all areas, where there is a need, are
+provided with mobile satellite communications services, giving due
+consideration to the rural and remote
+areas.</al>
+          </lid>
+        </artikel>
+						<artikel status="goed">
+          <kop>
+            <label>Article</label>
+            <nr status="officieel">7</nr>
+            <titel>LRIT Services Agreements</titel>
+          </kop>
+          <al>In order to perform its LRIT
+Co-ordinator functions and duties, including recovery of the costs
+incurred, the Organization may enter into contractual relationships,
+including LRIT Services Agreements, with LRIT Data Centres, LRIT Data
+Exchanges, or other relevant entities, on such terms and conditions as
+may be negotiated by the Director General, subject to oversight by the
+Assembly.</al>
+        </artikel><artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">8</nr>
+								<titel status="officieel">Structure</titel>
+							</kop>
+							<al>The organs of the Organization shall be:</al>
+							<lijst level="single" nr-sluiting="." start="1" type="expliciet">
+								<li>
+									<li.nr>(a)</li.nr>
+									<al>The Assembly.</al>
+								</li>
+								<li>
+									<li.nr>(b)</li.nr>
+									<al>A Directorate, headed by a Director
+General.</al>
+								</li>
+								
+							</lijst>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">9</nr>
+								<titel status="officieel">Assembly &#x2013; Composition and Meetings</titel>
+							</kop>
+							<lid>
+								<lidnr status="officieel">1</lidnr>
+								<al>The Assembly shall be composed of all the Parties.</al>
+							</lid>
+							<lid>
+                           <lidnr>2</lidnr>
+                           <al>Regular sessions of the Assembly shall be held
+once every two years. Extraordinary sessions shall be convened upon the
+request of one-third of the Parties or upon the request of the Director
+General, or as may be provided for in the Rules of Procedure for the
+Assembly.</al>
+                        </lid>
+                        <lid>
+                           <lidnr>3</lidnr>
+                           <al> All Parties are entitled to attend and participate at meetings of the
+Assembly, regardless of where the meeting may take place. The arrangements
+made with any host country shall be consistent with these obligations.</al>
+                        </lid>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">10</nr>
+								<titel status="officieel">Assembly &#x2013; Procedure</titel>
+							</kop>
+							<lid>
+								<lidnr status="officieel">(1)</lidnr>
+								<al>Each Party shall have one vote in the Assembly.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">(2)</lidnr>
+								<al>Decisions on matters of substance shall be taken by a two-thirds majority, and on procedural matters by a simple majority, of the Parties present and voting. Parties which abstain from voting shall be considered as not voting.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">(3)</lidnr>
+								<al>Decisions whether a question is procedural or substantive shall be taken by the Chairman. Such decisions may be overruled by a two-thirds majority of the Parties present and voting.</al>
+								
+								
+							</lid>
+							<lid>
+								<lidnr status="officieel">(4)</lidnr>
+								<al>A quorum for any meeting of the Assembly shall
+consist of a simple majority of the
+Parties.</al>
+							</lid>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">11</nr>
+								<titel status="officieel">Assembly &#x2013; Functions</titel>
+							</kop>
+							<al>The functions of the Assembly shall be:</al>
+                        <lijst type="expliciet">
+                           <li>
+                              <li.nr>a)</li.nr>
+                              <al>to
+consider and review the purposes, general policy and long term
+objectives of the Organization and the activities of the Providers
+which relate to the primary purpose;</al>
+                           </li>
+                           <li>
+                              <li.nr>b)</li.nr>
+                              <al>to take any steps or procedures necessary to
+ensure that each Provider carries out its obligation of providing
+maritime mobile satellite communications services for the GMDSS,
+including approval of the conclusion, modification and termination of
+Public Services Agreements;</al>
+                           </li>
+                           <li>
+                              <li.nr>c)</li.nr>
+                              <al>to decide upon questions concerning formal
+relationships between the Organization and States, whether Parties or not,
+and international organizations;</al>
+                           </li>
+                           <li>
+                              <li.nr>d)</li.nr>
+                              <al>to
+decide upon any amendment to this Convention pursuant to Article 20
+thereof;</al>
+                           </li>
+                           <li>
+                              <li.nr>e)</li.nr>
+                              <al>to appoint a Director
+General under Article 12 and to remove the Director
+General;</al>
+                           </li>
+                           <li>
+              <li.nr>f)</li.nr>
+              <al>to endorse the budget proposals of the Director
+General, and to establish procedures for the review and approval of the
+budget;</al>
+            </li>
+            <li>
+              <li.nr>g)</li.nr>
+              <al>to consider and review the
+purposes, general policy and long term objectives of the Organization
+in the performance of the Organization&#x2019;s role as LRIT
+Co-ordinator, and to take appropriate steps necessary to ensure that
+the Organization performs its role as LRIT
+Co-ordinator;</al>
+            </li>
+            <li>
+              <li.nr>h)</li.nr>
+              <al>to take any steps or
+procedures necessary in the negotiation and execution of LRIT Services
+Agreements and/or contracts, including approval of the conclusion,
+modification and termination of such Agreements and/or contracts;
+and</al>
+            </li><li>
+                              <li.nr>i)</li.nr>
+                              <al>to exercise any other function conferred
+upon it under any other Article of this Convention.</al>
+                           </li>
+                        </lijst>
+						</artikel>
+						<artikel status="goed">
+                        <kop>
+                           <label>Article</label>
+                           <nr>12</nr>
+                           <titel>Directorate</titel>
+          
+                        </kop>
+                        <lid>
+            <lidnr>1</lidnr>
+            <al>The
+term of appointment of the Director General shall be for four years or
+such other term as the Assembly
+decides.</al>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>The
+Director General shall serve for a maximum of two consecutive terms,
+unless the Assembly decides
+otherwise.</al>
+          </lid>
+          <lid>
+            <lidnr>3</lidnr>
+            <al>The
+Director General shall be the legal representative of the Organization
+and Chief Executive Officer of the Directorate, and shall be
+responsible to and under the direction of the
+Assembly.</al>
+          </lid>
+          <lid>
+            <lidnr>4</lidnr>
+            <al>The
+Director General shall, subject to the guidance and instructions of the
+Assembly, determine the structure, staff levels and standard terms of
+employment of officials and employees, and consultants and other
+advisers to the Directorate, and shall appoint the personnel of the
+Directorate.</al>
+          </lid>
+          <lid>
+            <lidnr>5</lidnr>
+            <al>The
+paramount consideration in the appointment of the Director General and
+other personnel of the Directorate shall be the necessity of ensuring
+the highest standards of integrity, competency and
+efficiency.</al>
+          </lid>
+          <lid>
+            <lidnr>6</lidnr>
+            <al>The
+Organization shall conclude, with any Party in whose territory the
+Organization establishes the Directorate, an agreement, to be approved
+by the Assembly, relating to any facilities, privileges and immunities
+of the Organization, its Director General, other officers, and
+representatives of Parties whilst in the territory of the host
+Government, for the purpose of exercising their functions. The
+agreement shall terminate if the Directorate is moved from the
+territory of the host
+Government.</al>
+          </lid>
+          <lid>
+            <lidnr>7</lidnr>
+            <al>All
+Parties, other than a Party which has concluded an agreement referred
+to in paragraph (6), shall conclude a Protocol on the privileges and
+immunities of the Organization, its Director General, its staff, of
+experts performing missions for the Organization and representatives of
+Parties whilst in the territory of Parties for the purposes of
+exercising their functions. The Protocol shall be independent of this
+Convention and shall prescribe the conditions for its
+termination.</al>
+          </lid></artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">13</nr>
+								<titel status="officieel">Costs</titel>
+							</kop>
+							<lid>
+            <lidnr>1</lidnr>
+            <al>The
+Organization shall keep separate accounts of costs incurred for GMDSS
+oversight and LRIT Co-ordinator services. The Organization shall, in
+the Public Services Agreements, and in the LRIT Services Agreements
+and/or contracts, as appropriate, arrange for the costs associated with
+the following to be paid by the Providers and by entities with which
+the Organization has entered into LRIT Services Agreements and/or
+contracts:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a)</li.nr>
+                <al>the
+operation of the Directorate;</al>
+              </li>
+              <li>
+                <li.nr>b)</li.nr>
+                <al>the
+holding of Assembly sessions and meetings of its subsidiary
+bodies;</al>
+              </li>
+              <li>
+                <li.nr>c)</li.nr>
+                <al>the implementation of
+measures taken by the Organization in accordance with Article 5 to
+ensure that the Provider carries out its obligation of providing
+maritime mobile satellite communications services for the GMDSS;
+and</al>
+              </li>
+              <li>
+                <li.nr>d)</li.nr>
+                <al>the implementation of measures
+taken by the Organization in accordance with Article 4 in its role as
+LRIT Co-ordinator.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>The costs defined in
+paragraph (1) shall be apportioned between all Providers and among
+entities with which the Organization has entered into LRIT Services
+Agreements and/or contracts, as appropriate, according to rules set up
+by the
+Assembly.</al>
+          </lid>
+          <lid>
+            <lidnr>3</lidnr>
+            <al>No
+Party shall be obligated to pay for any costs associated with the
+performance by the Organization of the functions and duties of LRIT
+Co-ordinator by reason of its status as a Party to this
+Convention.</al>
+          </lid>
+          <lid>
+            <lidnr>4</lidnr>
+            <al>Each
+Party shall meet its own costs of representation at Assembly sessions
+and meetings of its subsidiary
+bodies.</al>
+          </lid>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">14</nr>
+								<titel status="officieel">Liability</titel>
+							</kop>
+							<al>Parties
+are not, in their capacity as such, liable for the acts and obligations
+of the Organization or the Providers, except in relation to non-Parties
+or natural or juridical persons they might represent in so far as such
+liability may follow from treaties in force between the Party and the
+non-Party concerned. However, the foregoing does not preclude a Party
+which has been required to pay compensation under such a treaty to a
+non-Party or to a natural or juridical person it might represent from
+invoking any rights it may have under that treaty against any other
+Party.</al>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">15</nr>
+								<titel status="officieel">Legal Personality</titel>
+							</kop>
+							<al>The Organization shall have legal personality. For the purpose of its
+proper functioning, it shall, in particular, have the capacity to contract,
+to acquire, lease, hold and dispose of movable and immovable property, to
+be a party to legal proceedings and to conclude agreements with States or
+international organizations.</al>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">16</nr>
+								<titel>Relationship with other International Organizations</titel>
+							</kop>
+							<al>The Organization shall co-operate with the United Nations and its bodies
+dealing with the Peaceful Uses of Outer Space and Ocean Area, its Specialized
+Agencies, as well as other international organizations, on matters of common
+interest.</al>
+							
+							
+						</artikel>
+						
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">17</nr>
+								<titel status="officieel">Settlement of Disputes</titel>
+							</kop>
+							<al>Disputes between Parties, or between Parties and the Organization, relating
+to any matter arising under this Convention, should be settled by negotiation
+between the parties concerned. If within one year of the time any party has
+requested settlement, a settlement has not been reached and if the parties
+to the dispute have not agreed either (a) in the case of disputes between
+Parties, to submit it to the International Court of Justice; or (b) in the
+case of other disputes, to some other procedure for settling disputes, the
+dispute may, if the parties to the dispute consent, be submitted to arbitration
+in accordance with the Annex to this Convention.</al>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">18</nr>
+								<titel status="officieel">Consent to be Bound</titel>
+							</kop>
+							<lid>
+								<lidnr status="officieel">(1)</lidnr>
+								<al> This Convention shall remain open for signature in London until entry into force and shall thereafter remain open for accession. All States may become Parties to the Convention by:</al>
+								<lijst level="single" nr-sluiting="." start="1" type="expliciet">
+									<li>
+										<li.nr>(a)</li.nr>
+										<al>Signature not subject to ratification, acceptance or approval, or</al>
+									</li>
+									<li>
+										<li.nr>(b)</li.nr>
+										<al>Signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval, or</al>
+									</li>
+									<li>
+										<li.nr>(c)</li.nr>
+										<al>Accession.</al>
+									</li>
+								</lijst>
+							</lid>
+							<lid>
+								<lidnr status="officieel">(2)</lidnr>
+								<al>Ratification, acceptance, approval or accession shall be effected by the deposit of the appropriate instrument with the Depositary.</al>
+							</lid>
+							
+							<lid><lidnr>(3)</lidnr><al><redactie type="vervanging">Vervallen.</redactie></al></lid><lid><lidnr>(4)</lidnr><al><redactie type="vervanging">Vervallen.</redactie></al></lid><lid>
+								<lidnr status="officieel">(5)</lidnr>
+								<al>Reservations cannot be made to this Convention.</al>
+							</lid>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">19</nr>
+								<titel status="officieel">Entry into Force</titel>
+							</kop>
+							<lid>
+								<lidnr status="officieel">(1)</lidnr>
+								<al>This Convention shall enter into force sixty days
+after the date on which States representing 95 percent of the initial
+investment shares have become Parties to the
+Convention.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">(2)</lidnr>
+								<al>Notwithstanding paragraph (1), if the Convention has not entered into force within thirty-six months after the date it was opened for signature, it shall not enter into force.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">(3)</lidnr>
+								<al>For a State which deposits an instrument of ratification, acceptance, approval or accession after the date on which the Convention has entered into force, the ratification, acceptance, approval or accession shall take effect on the date of deposit.</al>
+							</lid>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">20</nr>
+								<titel status="officieel">Amendments</titel>
+							</kop>
+							<lid>
+                           <lidnr>1</lidnr>
+                           <al>An amendment to this Convention may be proposed by
+any Party. The proposed amendment shall be circulated by the Director
+General to all Parties and to Observers. The Assembly shall consider
+the proposed amendment not earlier than six months thereafter. This
+period may in any particular case be reduced by up to three months by a
+substantive decision of the Assembly. Providers and Observers shall
+have the right to provide comments and input to Parties concerning the
+proposed amendment.</al>
+                        </lid>
+                        <lid>
+                           <lidnr>2</lidnr>
+                           <al> If adopted by the Assembly, the amendment shall enter into force one
+hundred and twenty days after the Depositary has received notices of acceptance
+from two-thirds of those States which, at the time of adoption by the Assembly,
+were Parties. Upon entry into force, the amendment shall become binding upon
+those Parties that have accepted it. For any other State which was a Party
+at the time of adoption of the amendment by the Assembly, the amendment shall
+become binding on the day the Depositary receives its notice of acceptance.</al>
+                        </lid>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">21</nr>
+								<titel status="officieel">Withdrawal</titel>
+							</kop>
+							<al>Any Party may, by written notification to the Depositary, withdraw voluntarily
+from the Organization at any time, such withdrawal to be effective upon receipt
+by the Depositary of such notification. </al>
+						</artikel><artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">22</nr>
+								<titel status="officieel">Depositary</titel>
+							</kop>
+							<lid>
+								<lidnr status="officieel">1</lidnr>
+								<al>The Depositary of this Convention shall be the
+Secretary-General of IMO.</al>
+							</lid>
+							
+						<lid>
+                           <lidnr status="officieel">2</lidnr>
+                           <al> The Depositary shall promptly inform all Parties of:</al>
+                           <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                              <li>
+                                 <li.nr>a)</li.nr>
+                                 <al>Any signature of the Convention.</al>
+                              </li>
+                              <li>
+                                 <li.nr>b)</li.nr>
+                                 <al>The deposit of any instrument of ratification,
+acceptance, approval or accession.</al>
+                              </li>
+                              <li>
+                                 <li.nr>c)</li.nr>
+                                 <al>The entry into force of the Convention.</al>
+                              </li>
+                              <li>
+                                 <li.nr>d)</li.nr>
+                                 <al>The adoption of any amendment to the Convention
+and its entry into force.</al>
+                              </li>
+                              <li>
+                                 <li.nr>e)</li.nr>
+                                 <al>Any notification of withdrawal.</al>
+                              </li>
+                              <li>
+                                 <li.nr>f)</li.nr>
+                                 <al>Other notifications and communications relating
+to the Convention.</al>
+                              </li>
+                           </lijst>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">3</lidnr>
+                           <al> Upon entry into force of an amendment to the Convention, the Depositary
+shall transmit a certified copy to the Secretariat of the United Nations for
+registration and publication in accordance with <extref status="actief" doc="1.0:v:BWBV0004143&amp;artikel=102" compleet="nee">Article 102 of the Charter
+of the United Nations</extref>.</al>
+                        </lid></artikel>
+						</wettekst>
+					<wetsluiting status="goed">
+						<slotformulering>
+							<al>IN WITNESS WHEREOF the undersigned, duly authorized by their respective Governments, have signed this Convention.</al>
+							<al>DONE at London this third day of September one thousand nine hundred and seventy-six in the English, French, Russian and Spanish languages, all the texts being equally authentic, in a single original which shall be deposited with the Depositary, who shall send a certified copy to the Government of each of the States which were invited to attend the International Conference on the Establishment of an International Maritime Satellite System and to the Government of any other State which signs or accedes to this Convention.</al>
+						</slotformulering>
+					</wetsluiting>
+				</verdragtekst>
+				<verdragtekst>
+					<kop>
+						<label>Annex</label>
+						<titel>PROCEDURES FOR THE SETTLEMENT OF DISPUTES REFERRED TO
+IN ARTICLE 17 OF THE CONVENTION</titel>
+					</kop>
+					<wettekst>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">1</nr>
+							</kop>
+							<al>Disputes cognizable pursuant to Article 17 of the Convention shall be
+dealt with by an arbitral tribunal of three members.</al>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">2</nr>
+							</kop>
+							<al>Any petitioner or group of petitioners wishing to submit a dispute to
+arbitration shall provide each respondent and the Directorate with a document
+containing: </al>
+                        <lijst type="expliciet">
+                           <li>
+                              <li.nr>a)</li.nr>
+                              <al>A full description of the dispute, the reasons
+why each respondent is required to participate in the arbitration, and the
+measures being requested;</al>
+                           </li>
+                           <li>
+                              <li.nr>b)</li.nr>
+                              <al>The reasons why the subject matter of the
+dispute comes within the competence of a tribunal and why the measures requested
+can be granted if the tribunal finds in favour of the petitioner;</al>
+                           </li>
+                           <li>
+                              <li.nr>c)</li.nr>
+                              <al>An explanation why the petitioner has been
+unable to achieve a settlement of the dispute by negotiation or other means
+short of arbitration;</al>
+                           </li>
+                           <li>
+                              <li.nr>d)</li.nr>
+                              <al>Evidence of the agreement or consent of
+the disputants when this is a condition for arbitration;</al>
+                           </li>
+                           <li>
+                              <li.nr>e)</li.nr>
+                              <al>The name of the person designated by the
+petitioner to serve as a member of the tribunal.</al>
+                           </li>
+                        </lijst>                        <al>The Directorate shall promptly distribute a copy of the document to each
+Party.</al>
+                        </artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">3</nr>
+							</kop>
+							<lid>
+								<lidnr status="officieel">(1)</lidnr>
+								<al> Within sixty days from the date copies of the document described in
+Article 2 have been received by all the respondents, they shall collectively
+designate an individual to serve as a member of the tribunal. Within that
+period, the respondents may jointly or individually provide each disputant
+and the Directorate with a document stating their individual or collective
+responses to the document referred to in Article 2 and including any counter-claims
+arising out of the subject matter of the dispute.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">(2)</lidnr>
+								<al>Within thirty days after the designation of the two members of the tribunal, they shall agree on a third arbitrator. He shall not be of the same nationality as, or resident in the territory of, any disputant, or in its service.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">(3)</lidnr>
+								<al>If either side fails to nominate an arbitrator within the period specified or if the third arbitrator is not appointed within the period specified, the President of the International Court of Justice, or, if he is prevented from acting or is of the same nationality as a disputant, the Vice-President, or, if he is prevented from acting or is of the same nationality as a disputant, the senior judge who is not of the same nationality as any disputant, may at the request of either disputant, appoint an arbitrator or arbitrators as the case requires.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">(4)</lidnr>
+								<al>The third arbitrator shall act as president of the tribunal.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">(5)</lidnr>
+								<al>The tribunal is constituted as soon as the president is selected.</al>
+							</lid>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">4</nr>
+							</kop>
+							<lid>
+								<lidnr status="officieel">(1)</lidnr>
+								<al> If a vacancy occurs in the tribunal for any reason which the president or the remaining members of the tribunal decide is beyond the control of the disputants, or is compatible with the proper conduct of the arbitration proceedings, the vacancy shall be filled in accordance with the following provisions:</al>
+								<lijst level="single" nr-sluiting="." start="1" type="expliciet">
+									<li>
+										<li.nr>(a)</li.nr>
+										<al>If the vacancy occurs as a result of the withdrawal of a member appointed by a side to the dispute, then that side shall select a replacement within ten days after the vacancy occurs.</al>
+									</li>
+									<li>
+										<li.nr>(b)</li.nr>
+										<al>If the vacancy occurs as a result of the withdrawal of the president or of a member appointed pursuant to Article 3(3), a replacement shall be selected in the manner described in paragraph (2) or (3), respectively, of Article 3.</al>
+									</li>
+								</lijst>
+							</lid>
+							<lid>
+								<lidnr status="officieel">(2)</lidnr>
+								<al> If a vacancy occurs for any other reason, or if a vacancy occurring pursuant to paragraph (1) is not filled, the remainder of the tribunal shall have the power, notwithstanding Article 1, upon request of one side, to continue the proceedings and give the final decision of the tribunal.</al>
+							</lid>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">5</nr>
+							</kop>
+							<lid>
+								<lidnr status="officieel">(1)</lidnr>
+								<al>The tribunal shall decide the date and place of its meetings.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">(2)</lidnr>
+								<al> The proceedings shall be held in private and all material presented
+to the tribunal shall be confidential. However, the Organization shall have
+the right to be present and shall have access to the material presented. When
+the Organization is a disputant in the proceedings, all Parties shall have
+the right to be present and shall have access to the material presented.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">(3)</lidnr>
+								<al>In the event of a dispute over the competence of the tribunal, the tribunal shall deal with that question first.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">(4)</lidnr>
+								<al>The proceedings shall be conducted in writing, and each side shall have the right to submit written evidence in support of its allegations of fact and law. However, oral arguments and testimony may be given if the tribunal considers it appropriate.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">(5)</lidnr>
+								<al>The proceedings shall commence with the presentation of the case of the petitioner containing its arguments, related facts supported by evidence and the principles of law relied upon. The case of the petitioner shall be followed by the counter-case of the respondent. The petitioner may submit a reply to the counter-case of the respondent and the respondent may submit a rejoinder. Additional pleadings shall be submitted only if the tribunal determines they are necessary.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">(6)</lidnr>
+								<al> The tribunal shall hear and determine counter-claims arising directly
+out of the subject matter of the dispute, if the counter-claims are within
+its competence as defined in Article 17 of the Convention.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">(7)</lidnr>
+								<al>If the disputants reach an agreement during the proceedings, the agreement shall be recorded in the form of a decision of the tribunal given by consent of the disputants.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">(8)</lidnr>
+								<al> At any time during the proceedings, the tribunal may terminate the
+proceedings if it decides the dispute is beyond its competence as defined
+in Article 17 of the Convention.</al>
+							</lid>
+							<lid><lidnr status="officieel">(9)</lidnr><al>The deliberations of the tribunal shall be secret.</al></lid><lid><lidnr status="officieel">(10)</lidnr><al>The decisions of the tribunal shall be presented in writing and shall be supported by a written opinion. Its rulings and decisions must be supported by at least two members. A member dissenting from the decision may submit a separate written opinion.</al></lid><lid><lidnr status="officieel">(11)</lidnr><al> The tribunal shall forward its decision to the Directorate, which
+shall distribute it to all Parties. </al></lid><lid><lidnr status="officieel">(12)</lidnr><al>The tribunal may adopt additional rules of procedure, consistent with those established by this Annex, which are appropriate for the proceedings.</al></lid>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">6</nr>
+							</kop>
+							<al>If one side fails to present its case, the other side may call upon the tribunal to give a decision on the basis of its presentation. Before giving its decision, the tribunal shall satisfy itself that it has competence and that the case is well-founded in fact and in law.</al>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">7</nr>
+							</kop>
+							<al>Any Party or the Organization may apply to the tribunal for permission
+to intervene and become an additional disputant. The tribunal shall grant
+permission if it determines that the applicant has a substantial interest
+in the case.</al>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">8</nr>
+							</kop>
+							<al>The tribunal may appoint experts to assist it at the request of a disputant or on its own initiative.</al>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">9</nr>
+							</kop>
+							<al>Each Party and the Organization shall provide all information which the
+tribunal, at the request of a disputant or on its own initiative, determines
+to be required for the handling and determination of the dispute.</al>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">10</nr>
+							</kop>
+							<al>Pending the final decision, the tribunal may indicate any provisional measures which it considers ought to be taken to preserve the respective rights of the disputants.</al>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">11</nr>
+							</kop>
+							<lid>
+                           <lidnr>1</lidnr>
+                           <al> The decision of the tribunal shall be in accordance with international
+law and be based on:</al>
+                           <lijst type="expliciet">
+                              <li>
+                                 <li.nr>a)</li.nr>
+                                 <al>The Convention,</al>
+                              </li>
+                              <li>
+                                 <li.nr>b)</li.nr>
+                                 <al>Generally accepted principles of law.</al>
+                              </li>
+                           </lijst>
+                        </lid>
+                        <lid>
+                           <lidnr>2</lidnr>
+                           <al> The decision of the tribunal, including any reached by agreement of
+the disputant pursuant to Article 5(7), shall be binding on all the disputants,
+and shall be carried out by them in good faith. If the Organization is a disputant,
+and the tribunal decides that a decision of any organ of the Organization
+is null and void as not being authorized by or in compliance with the Convention,
+the decision of the tribunal shall be binding on all Parties.</al>
+                        </lid>
+                        <lid>
+                           <lidnr>3</lidnr>
+                           <al> If a dispute arises as to the meaning or scope of its decision, the
+tribunal shall construe it at the request of any disputant.</al>
+                        </lid>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Article</label>
+								<nr status="officieel">12</nr>
+							</kop>
+							
+						<al>Unless the tribunal determines otherwise because of the particular
+circumstances of the case, the expenses of the tribunal, including the
+remuneration of the members of the tribunal, shall be borne in equal
+shares by each side. Where a side consists of more than one disputant,
+the tribunal shall apportion the share of that side among the disputants
+on that side. Where the Organization is a disputant, its expenses
+associated with the arbitration shall be regarded as an administrative
+cost of the Organization.</al></artikel>
+					</wettekst>
+				</verdragtekst>
+			
+				<verdragtekst>
+					<kop>
+						<titel status="officieel">Operating Agreement on the International Maritime Satellite Organization (INMARSAT)</titel>
+					</kop>
+					
+					<wettekst>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+					</wettekst>
+					
+				</verdragtekst>
+				<verdragtekst>
+					<kop>
+						<label>Annex</label>
+					<titel status="officieel">Investment shares prior to the first determination on the basis of utilization</titel></kop>
+					<vrije-tekst>
+						
+					</vrije-tekst>
+				</verdragtekst></verdrag><verdrag tekst="vertaling" xml:lang="nl"><verdragtekst>
+					<kop>
+						<titel status="officieel">Verdrag inzake de Internationale Organisatie voor Mobiele Satellieten</titel>
+					</kop>
+					<aanhef>
+						<preambule>
+							<al>De Staten die Partij zijn bij dit Verdrag,</al>
+							<al>Gelet op het in Resolutie 1721 (XVI) van de Algemene Vergadering van de Verenigde Naties neergelegde beginsel, volgens hetwelk de berichtgeving door middel van telecommunicatiesatellieten beschikbaar dient te zijn voor alle landen ter wereld, zonder onderscheid, zodra zulks uitvoerbaar is,</al>
+							<al>Tevens gelet op de relevante bepalingen van het op 27 januari 1967 gesloten <extref status="actief" doc="1.0:v:BWBV0004403" compleet="nee">Verdrag inzake de beginselen waaraan de activiteiten van Staten zijn onderworpen bij het onderzoek en gebruik van de kosmische ruimte, met inbegrip van de maan en andere hemellichamen</extref>, en met name <extref status="actief" doc="1.0:v:BWBV0004403&amp;artikel=I" compleet="nee">artikel 1</extref> daarvan waarin staat vermeld dat het gebruik van de kosmische ruimte plaatsvindt ten voordele en in het belang van alle landen,</al>
+							
+							<al>Vastbesloten daartoe ten voordele van de telecommunicatiegebruikers van
+alle landen, met gebruikmaking van de nieuwste vindingen op het gebied van
+de ruimtetechniek, zo doeltreffend en economisch mogelijke voorzieningen in
+het leven te blijven roepen, verenigbaar zijnde met het doeltreffend en rechtvaardig
+gebruik van het radiofrequentiespectrum en van de satellietbanen,</al>
+							<al>Indachtig het feit dat de Internationale Organisatie voor Maritieme Satellieten (INMARSAT), overeenkomstig haar oorspronkelijke doelstelling, een wereldwijd mobiele-satellietcommunicatiesysteem voor maritieme communicatie heeft opgericht, met inbegrip van mogelijkheden voor de communicatie voor noodgevallen en veiligheid die worden gespecificeerd in het <extref status="actief" doc="1.0:v:BWBV0003264" compleet="nee">Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974</extref>, zoals van tijd tot tijd gewijzigd, en het Radioreglement als beschreven in het Statuut van en het Verdrag van de Internationale Telecommunicatie Unie, zoals van tijd tot tijd gewijzigd, en welke voldoen aan bepaalde radiocommunicatievereisten van het Wereldomvattend Maritieme Systeem voor Noodgevallen en Veiligheid (GMDSS),</al>
+          <al>In herinnering brengend dat INMARSAT haar oorspronkelijke doel heeft uitgebreid met het beschikbaar stellen van mobiele-satellietcommunicatie ten behoeve van het land- en luchtvaartverkeer, met inbegrip van satellietcommunicatie voor beheer van het luchtvaartverkeer en operationeel beheer van luchtvaartuigen (veiligheidsdiensten voor de luchtvaart), en tevens diensten verleent ten behoeve van radioplaatsbepaling,</al><al>Voorts in herinnering brengend dat de Assemblee in december 1994 heeft besloten de naam &#x201E;Internationale Organisatie voor Maritieme Satellieten (INMARSAT)&#x201D; te vervangen door &#x201E;Internationale Organisatie voor Mobiele Satellieten (Inmarsat)&#x201D; en dat, hoewel deze wijzigingen niet formeel in werking zijn getreden, sindsdien de naam Internationale Organisatie voor Mobiele Satellieten (Inmarsat) is gehanteerd, waaronder in de herstructureringsdocumentatie,</al>
+          <al>Erkennend dat, bij de herstructurering van de Internationale Organisatie voor Mobiele Satellieten, haar vermogensbestanddelen, commerci&#xEB;le operaties en belangen zonder beperkingen zijn overgedragen aan een nieuwe commerci&#xEB;le onderneming, Inmarsat Ltd., waarbij voortzetting van de levering van het GMDSS en steun voor andere publieke belangen door de onderneming worden gewaarborgd door een mechanisme voor intergouvernementeel toezicht door de Internationale Organisatie voor Mobiele Satellieten (IMSO),</al>
+          <al>Erkennend dat, door aanneming van Resolutie A.888(21) van de Assemblee van de IMO, &#x201E;Criteria voor het leveren van mobiele-satellietcommunicatiesystemen voor het Wereldomvattend Maritieme Systeem voor Noodgevallen en Veiligheid (GMDSS)&#x201D;, de Internationale Maritieme Organisatie (IMO) de noodzaak heeft onderkend dat zijzelf criteria beschikbaar moet hebben aan de hand waarvan de mogelijkheden en prestaties kunnen worden getoetst van mobiele-satellietcommunicatiesystemen, die door regeringen kunnen worden aangemeld bij de IMO ten behoeve van mogelijke erkenning voor gebruik in het GMDSS,</al>
+          <al>Voorts erkennend dat de IMO een &#x201E;Procedure voor het toetsen en mogelijk erkennen van mobiele-satellietsystemen aangemeld voor gebruik in het GMDSS&#x201D; heeft ontwikkeld,</al>
+          <al>Voorts de wens van de partijen ERKENNEND de ontwikkeling van een concurrerende marktomgeving te stimuleren voor de huidige en toekomstige levering van diensten voor mobiele-satellietcommunicatiesystemen voor het GMDSS,</al>
+                     <al>Bevestigend dat onder dergelijke omstandigheden de noodzaak bestaat de continu&#xEF;teit van de levering van diensten voor het GMDSS door middel van intergouvernementeel toezicht te waarborgen,</al><al>Erkennend dat de IMO, tijdens de eenentachtigste zitting van haar Maritieme Veiligheidscommissie (MSC), wijzigingen van <extref status="actief" doc="1.0:v:BWBV0003264&amp;hoofdstuk=V" compleet="nee">hoofdstuk V van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974</extref>, met betrekking tot de langeafstandsidentificatie en -tracking van schepen (LRIT), alsmede prestatienormen en functionele vereisten voor LRIT en regelingen voor de tijdige invoering van het LRIT-systeem heeft aangenomen,</al>
+          <al>Bevestigend dat de partijen wensen dat IMSO de functies en taken van de LRIT-co&#xF6;rdinator op zich neemt, zonder kosten voor de partijen, in overeenstemming met de besluiten van de IMO, met inachtneming van de bepalingen van dit Verdrag,</al>
+          <al>Erkennend dat de MSC, tijdens haar twee&#xEB;nentachtigste zitting, heeft besloten IMSO tot de LRIT-co&#xF6;rdinator te benoemen en IMSO heeft uitgenodigd alle mogelijke maatregelen te nemen om de tijdige invoering van het LRIT-systeem te waarborgen.</al></preambule>
+					<afkondiging><al>Zijn als volgt overeengekomen:</al></afkondiging></aanhef>
+					<wettekst>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">1</nr>
+								<titel status="officieel">Begripsomschrijvingen</titel>
+							</kop>
+							<al>In dit Verdrag wordt verstaan onder:</al>
+							<lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>&#x201E;De Organisatie&#x201D;: de intergouvernementele
+organisatie opgericht ingevolge <intref status="actief" doc="1.0:v:BWBV0003238&amp;artikel=2">artikel 2</intref>.</al>
+                           </li>
+                           <li>
+              <li.nr>b.</li.nr>
+              <al>&#x201E;GMDSS&#x201D;: het Wereldomvattend Maritieme Systeem voor Noodgevallen en Veiligheid<nadruk type="cur">, </nadruk>zoals ingesteld door de IMO.</al>
+              
+            </li><li>
+              <li.nr>c.</li.nr>
+              <al>&#x201E;Leverancier&#x201D;: een entiteit of entiteiten die, door middel van een door de IMO erkend mobiele-satellietcommunicatiesysteem, diensten levert voor het GMDSS.</al>
+              
+            </li>
+                           <li>
+                              <li.nr>d.</li.nr>
+                              <al>&#x201E;Partij&#x201D;: een Staat waarvoor het
+Verdrag in werking is getreden.</al>
+                           </li>
+                           <li>
+              <li.nr>e.</li.nr>
+              <al>&#x201E;Algemene-dienstenovereenkomst&#x201D;: een overeenkomst uitgevoerd door de Organisatie en een Leverancier, zoals bedoeld in <intref status="actief" doc="1.0:v:BWBV0003238&amp;artikel=5">artikel 5, eerste lid</intref>.</al>
+              
+            </li>
+                           
+                        <li>
+              <li.nr>f.</li.nr>
+              <al>&#x201E;IMO&#x201D;: de Internationale Maritieme Organisatie.
+              </al>
+              
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>&#x201E;MSC&#x201D;: de Maritieme Veiligheidscommissie van de IMO.</al>
+              
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>&#x201E;LRIT&#x201D;: de door de IMO ingestelde langeafstandsidentificatie en -tracking van schepen.</al>
+              
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>&#x201E;LRIT-dienstenovereenkomst&#x201D;:
+              een Overeenkomst uitgevoerd door de Organisatie en een LRIT-datacentrum ofwel een LRIT-data-uitwisselingssysteem, of andere relevante entiteiten, als bedoeld in <intref status="actief" doc="1.0:v:BWBV0003238&amp;artikel=7">artikel 7</intref>.</al>
+              
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>&#x201E;LRIT-datacentrum&#x201D;: een nationaal, regionaal, co&#xF6;peratief of internationaal datacentrum dat werkt in overeenstemming met de door de IMO aangenomen vereisten met betrekking tot LRIT.</al>
+              
+            </li>
+            <li>
+              <li.nr>k.</li.nr>
+              <al>&#x201E;LRIT-data-uitwisselingssysteem&#x201D;: een data-uitwisselingssysteem dat werkt in overeenstemming met de door de IMO aangenomen vereisten met betrekking tot LRIT.</al>
+              
+            </li>
+            <li>
+              <li.nr>l.</li.nr>
+              <al>&#x201E;LRIT-co&#xF6;rdinator: de door de MSC benoemde co&#xF6;rdinator voor het LRIT-systeem.</al>
+              
+            </li></lijst>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">2</nr>
+								<titel status="officieel">Oprichting van de Organisatie</titel>
+							</kop>
+							<al>De Internationale Organisatie voor Mobiele Satellieten (IMSO), hierna te noemen &#x201E;de Organisatie&#x201D;, wordt hierbij opgericht.</al>
+                     
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">3</nr>
+								<titel status="officieel">Primaire doel</titel>
+          </kop>
+							
+						<lid>
+            <lidnr>1</lidnr>
+            <al>Het primaire doel van de Organisatie is de levering door elke Leverancier te waarborgen van mobiele-satellietcommunicatiediensten op zee voor het GMDSS in overeenstemming met het juridisch kader ingesteld door de IMO.</al>
+          </lid>
+          <lid>
+            <lidnr>2</lidnr>
+            <al>Bij de implementatie van het in het eerste lid vervatte primaire doel:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>handelt de Organisatie uitsluitend voor vreedzame doeleinden; en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>oefent zij op eerlijke en consequente wijze toezicht uit op de Leveranciers.</al>
+              </li>
+            </lijst>
+          </lid></artikel>
+						<artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+            <titel status="officieel">Overige functies</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Met inachtneming van het besluit van de Assemblee kan de Organisatie functies en/of taken als LRIT-co&#xF6;rdinator vervullen, zonder kosten voor de partijen, in overeenstemming met de besluiten van de IMO.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De Organisatie blijft de functies en/of taken als LRIT-co&#xF6;rdinator vervullen, op voorwaarde dat de Assemblee hiermee instemt. Bij het vervullen van dergelijke functies en/of taken handelt de Organisatie op eerlijke en consequente wijze.</al>
+          </lid>
+        </artikel><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+            <titel status="officieel">Toezicht op het GMDSS</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De Organisatie voert met elke Leverancier een Algemene-dienstenovereenkomst uit, en treft zo nodig andere regelingen om de Organisatie in staat te stellen haar toezichtsfuncties uit te oefenen, alsmede verslag te doen en aanbevelingen te doen, al naargelang van toepassing.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het toezicht op Leveranciers door de Organisatie is gebaseerd op:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>specifieke voorwaarden of verplichtingen die door de IMO worden opgelegd tijdens, of in elk stadium na, de erkenning en goedkeuring van de Leverancier;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>relevante internationale regelgeving, normen, aanbevelingen, resoluties en procedures die op het GMDSS betrekking hebben;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de desbetreffende Algemene-dienstenovereenkomst en eventuele daarmee verband houdende regelingen tussen de Organisatie en de Leverancier.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Elke Algemene-dienstenovereenkomst omvat onder andere algemene bepalingen, gemeenschappelijke beginselen en toepasselijke verplichtingen voor de Leverancier in overeenstemming met een referentiemodel van een Algemene-dienstenovereenkomst en richtlijnen die door de Assemblee zijn ontwikkeld, met inbegrip van regelingen voor het leveren van alle informatie die de Organisatie nodig heeft om, in overeenstemming met <intref status="actief" doc="1.0:v:BWBV0003238&amp;artikel=3">artikel 3</intref>, haar doel, functies en taken te vervullen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Alle Leveranciers voeren Algemene-dienstenovereenkomsten uit die tevens worden uitgevoerd door de Directeur-Generaal namens de Organisatie. Algemene-dienstenovereenkomsten dienen door de Assemblee te worden goedgekeurd. De Algemene-dienstenovereenkomsten worden door de Directeur-Generaal toegezonden aan alle partijen. Dergelijke overeenkomsten worden geacht door de Assemblee te zijn goedgekeurd tenzij binnen drie maanden na de datum van verzending meer dan een derde van de partijen een schriftelijk bezwaar heeft ingediend bij de Directeur-Generaal.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+            <titel status="officieel">Facilitatie</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De partijen treffen passende maatregelen in overeenstemming met hun nationale wetgeving om Leveranciers in staat te stellen diensten voor het GMDSS te leveren.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De Organisatie dient ernaar te streven, met behulp van bestaande internationale en nationale mechanismen op het gebied van technische ondersteuning, Leveranciers te ondersteunen bij hun streven te waarborgen dat mobiele-satellietcommunicatiediensten worden geleverd aan alle gebieden waar hieraan behoefte bestaat, waarbij naar behoren rekening wordt gehouden met landelijke en afgelegen gebieden.</al>
+          </lid>
+        </artikel>
+						
+						<artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+            <titel status="officieel">LRIT-dienstenovereenkomsten</titel>
+          </kop>
+          <al>Om haar functies en taken als LRIT-co&#xF6;rdinator te vervullen, met inbegrip van het verhalen van de gemaakte kosten, mag de Organisatie contractuele verbintenissen aangaan, met inbegrip van LRIT-dienstenovereenkomsten, met LRIT-datacentra, LRIT-data-uitwisselingssystemen, of andere relevante entiteiten, op de voorwaarden die de Directeur-Generaal in onderhandelingen kan overeenkomen, onder toezicht van de Assemblee.</al>
+        </artikel><artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">8</nr>
+								<titel status="officieel">Structurele opzet</titel>
+							</kop>
+							<al>De Organisatie heeft de volgende organen:</al>
+							<lijst level="single" nr-sluiting="." start="1" type="expliciet">
+								<li>
+									<li.nr>a)</li.nr>
+									<al>de Assembl&#xE9;e,</al>
+								</li>
+								<li>
+									<li.nr>b)</li.nr>
+									<al>Een Directoraat onder leiding van een Directeur-Generaal.</al>
+								</li>
+								
+							</lijst>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">9</nr>
+								<titel status="officieel">Assembl&#xE9;e: samenstelling en bijeenkomsten</titel>
+							</kop>
+							<lid>
+								<lidnr status="officieel">1</lidnr>
+								<al>De Assembl&#xE9;e is samengesteld uit alle Partijen.</al>
+							</lid>
+							<lid>
+                           <lidnr status="officieel">2</lidnr>
+                           <al>Gewone zittingen van de Assemblee worden eenmaal in de twee jaar gehouden. Buitengewone zittingen worden belegd op verzoek van &#xE9;&#xE9;n derde van de partijen of op verzoek van de Directeur-Generaal, of op de tijdstippen waarin het Reglement van Orde voor de Assemblee eventueel voorziet.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">3</lidnr>
+                           <al> Alle Partijen zijn gerechtigd tot bijwoning van en deelneming aan bijeenkomsten
+van de Assembl&#xE9;e, ongeacht de plaats waar de bijeenkomst wordt gehouden.
+De regelingen die met een gastheerland worden getroffen, dienen verenigbaar
+te zijn met deze verplichtingen. </al>
+                        </lid>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">10</nr>
+								<titel status="officieel">Assembl&#xE9;e: procedure</titel>
+							</kop>
+							<lid>
+								<lidnr status="officieel">1</lidnr>
+								<al>Elke Partij brengt &#xE9;&#xE9;n stem uit in de Assembl&#xE9;e.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">2</lidnr>
+								<al>Beslissingen omtrent materi&#xEB;le zaken worden genomen met een twee derde meerderheid, en beslissingen in procedurele zaken met een gewone meerderheid, van de aanwezige en hun stem uitbrengende Partijen. De Partijen die zich van stemming onthouden, worden geacht niet aan de stemming te hebben deelgenomen.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">3</lidnr>
+								<al>Over de vraag of een bepaalde zaak van procedurele of materi&#xEB;le aard is, wordt door de Voorzitter beslist. Deze beslissingen kunnen ongedaan worden gemaakt door een twee derde meerderheid van de aanwezige en hun stem uitbrengende Partijen.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">4</lidnr>
+								<al>Het quorum voor een bijeenkomst van de Assemblee wordt gevormd door een gewone meerderheid van de partijen.</al>
+							</lid>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">11</nr>
+								<titel status="officieel">Assembl&#xE9;e: Functies</titel>
+							</kop>
+							<al>De Assembl&#xE9;e heeft de volgende functies:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+              <li.nr>a.</li.nr>
+              <al>het in overweging nemen en beoordelen van de doeleinden, het algemene beleid en de doelstellingen op de lange termijn van de Organisatie en de werkzaamheden van de Leveranciers die samenhangen met het primaire doel;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>het nemen van alle stappen of het volgen van procedures die noodzakelijk zijn om te waarborgen dat elke Leverancier zijn verplichting nakomt tot het leveren van mobiele-satellietcommunicatiediensten op zee voor het GMDSS, met inbegrip van goedkeuring van het sluiten, aanpassen en opzeggen van Algemene-dienstenovereenkomsten;</al>
+            </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>het beslissen over vraagstukken betreffende
+de formele betrekkingen tussen de Organisatie en al of niet Partij zijnde
+Staten en internationale organisaties;</al>
+                           </li>
+                           <li>
+              <li.nr>d.</li.nr>
+              <al>het beslissen over eventuele wijzigingen van dit Verdrag ingevolge <intref status="actief" doc="1.0:v:BWBV0003238&amp;artikel=20">artikel 20</intref>;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>het benoemen van een Directeur-Generaal krachtens <intref status="actief" doc="1.0:v:BWBV0003238&amp;artikel=12">artikel 12</intref> en het uit zijn ambt ontzetten van de Directeur-Generaal;</al>
+            </li>
+                           <li>
+              <li.nr>f.</li.nr>
+              <al>het goedkeuren van de begrotingsvoorstellen van de Directeur-Generaal en het vaststellen van procedures voor het toetsen en goedkeuren van de begroting;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>het in overweging nemen en beoordelen van de doeleinden, het algemene beleid en de doelstellingen op de lange termijn van de Organisatie bij het vervullen van de rol van de Organisatie als LRIT-co&#xF6;rdinator en het nemen van passende stappen om te waarborgen dat de Organisatie haar rol als LRIT-co&#xF6;rdinator vervult;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>het nemen van de stappen of het aannemen van de procedures die nodig zijn voor het onderhandelen over en uitvoeren van LRIT-dienstenovereenkomsten en/of contracten, met inbegrip van goedkeuring van het sluiten, wijzigen en be&#xEB;indigen van dergelijke Overeenkomsten en/of contracten; en</al>
+            </li><li>
+                              <li.nr>i.</li.nr>
+                              <al>het uitoefenen van alle andere functies
+die haar ingevolge enig ander artikel van dit Verdrag zijn verleend.</al>
+                           </li>
+                        </lijst>
+						</artikel>
+						
+						<artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">12</nr>
+                           <titel status="officieel">Directoraat</titel>
+                        </kop>
+                        <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De Directeur-Generaal wordt benoemd voor vier jaar of voor zolang als de Assemblee besluit.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De Directeur-Generaal wordt voor ten hoogste twee achtereenvolgende termijnen benoemd, tenzij de Assemblee anderszins besluit.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De Directeur-Generaal is de wettelijk vertegenwoordiger van de Organisatie en de hoogste functionaris van het Directoraat en legt verantwoording af aan en handelt volgens de aanwijzingen van de Assemblee.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Met inachtneming van de aanwijzingen en instructies van de Assemblee bepaalt de Directeur-Generaal de structuur, het aantal medewerkers, alsmede de standaardarbeidsvoorwaarden voor functionarissen en werknemers en voor deskundigen en andere adviseurs van het Directoraat en benoemt hij het personeel van het Directoraat.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Bij de benoeming van de Directeur-Generaal en het overige personeel van het Directoraat dient v&#xF3;&#xF3;r alles te worden gelet op de noodzaak van het waarborgen van de hoogste normen van integriteit, bekwaamheid en doelmatigheid.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>De Organisatie sluit met de partij op het grondgebied waarvan de Organisatie het Directoraat vestigt, een door de Assemblee goed te keuren overeenkomst inzake de faciliteiten, voorrechten en immuniteiten van de Organisatie, haar Directeur-Generaal, andere functionarissen en vertegenwoordigers van partijen, wanneer zij zich op het grondgebied van de regering van het gastland bevinden voor de uitoefening van hun functie. De overeenkomst eindigt indien het Directoraat wordt verplaatst buiten het grondgebied van de regering van het gastland.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>Alle partijen, met uitzondering van een partij die de in het zesde lid bedoelde overeenkomst heeft gesloten, sluiten een protocol ter regeling van de voorrechten en immuniteiten van de Organisatie, haar Directeur-Generaal, haar personeel, van deskundigen die opdrachten voor de Organisatie uitvoeren, en van vertegenwoordigers van partijen, die zich op het grondgebied van partijen bevinden voor de uitoefening van hun functie. Het protocol is onafhankelijk van dit Verdrag en legt de voorwaarden voor zijn be&#xEB;indiging vast.</al>
+          </lid>
+                     </artikel><artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">13</nr>
+								<titel status="officieel">Kosten</titel>
+							</kop>
+							<lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De Organisatie houdt een afzonderlijke boekhouding bij van de kosten gemaakt voor toezicht op het GMDSS en dienstverlening als LRIT-co&#xF6;rdinator. De Organisatie legt in de Algemene-dienstenovereenkomsten en in de LRIT-dienstenovereenkomsten en/of contracten, al naargelang van toepassing, een regeling vast voor de door de Leveranciers en de entiteiten waarmee de Organisatie een LRIT-dienstenovereenkomst en/of contract heeft gesloten te betalen kosten die verband houden met het volgende:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het functioneren van het Directoraat;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het houden van zittingen van de Assemblee en bijeenkomsten van haar hulporganen;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>het uitvoeren van door de Organisatie overeenkomstig <intref status="actief" doc="1.0:v:BWBV0003238&amp;artikel=5">artikel 5</intref> genomen maatregelen om te waarborgen dat de Leverancier zijn verplichting tot het leveren van mobiele-satellietcommunicatiediensten op zee voor het GMDSS nakomt; en</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>het uitvoeren van door de Organisatie in haar hoedanigheid van LRIT-co&#xF6;rdinator overeenkomstig <intref status="actief" doc="1.0:v:BWBV0003238&amp;artikel=4">artikel 4</intref> genomen maatregelen.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De in het eerste lid omschreven kosten worden over alle Leveranciers en entiteiten waarmee de Organisatie een LRIT-dienstenovereenkomst en/of contracten is aangegaan, al naargelang van toepassing, omgeslagen in overeenstemming met de door de Assemblee ingestelde regels.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Geen van de partijen is gehouden vanwege haar status als partij bij dit Verdrag kosten te betalen die verband houden met het uitvoeren door de Organisatie van de functies en taken van LRIT-co&#xF6;rdinator.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Elke partij draagt zelf de kosten van vertegenwoordiging bij zittingen van de Assemblee en bijeenkomsten van haar hulporganen.</al>
+          </lid>
+						</artikel>
+						
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">14</nr>
+								<titel status="officieel">Aansprakelijkheid</titel>
+							</kop>
+							<al>Partijen zijn in die hoedanigheid niet aansprakelijk voor de handelingen en verplichtingen van de Organisatie of de Leveranciers, behalve met betrekking tot Staten die geen partij zijn, of door hen vertegenwoordigde natuurlijke personen of rechtspersonen, voor zover deze aansprakelijkheid voortvloeit uit van kracht zijnde verdragen tussen de partij en de betrokken Staat die geen partij is. Het bovenstaande vormt echter geen beletsel voor een partij die ingevolge een dergelijke verdrag schadevergoeding heeft moeten betalen aan een Staat die geen partij is, of aan een door deze Staat vertegenwoordigde natuurlijke persoon of rechtspersoon, zich jegens elke andere partij te beroepen op de rechten die zij krachtens dat verdrag heeft.</al>
+						</artikel>
+						
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">15</nr>
+								<titel status="officieel">Rechtspersoonlijkheid</titel>
+							</kop>
+							<al>De Organisatie bezit rechtspersoonlijkheid. Teneinde haar functies naar
+behoren te kunnen uitoefenen heeft zij in het bijzonder de bevoegdheid contracten
+aan te gaan, roerende en onroerende zaken te kopen, te huren, te bezitten
+of te verkopen, zich partij te stellen in een geding en overeenkomsten te
+sluiten met Staten of internationale organisaties. </al>
+                        
+						</artikel>
+						
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">16</nr>
+								<titel>Betrekkingen met andere internationale organisaties</titel>
+							</kop>
+							<al>De Organisatie werkt samen met de Verenigde Naties en de daartoe behorende
+organen voor het vreedzaam gebruik van de ruimte en het oceaangebied, haar
+Gespecialiseerde Organisaties, alsmede met andere internationale organisaties,
+ter behartiging van zaken van gemeenschappelijk belang.</al>
+						</artikel>
+						
+						
+						
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">17</nr>
+								<titel status="officieel">Beslechting van geschillen</titel>
+							</kop>
+							<al>Geschillen die tussen Partijen of tussen Partijen en de Organisatie rijzen
+met betrekking tot een kwestie op grond van dit Verdrag, dienen door middel
+van onderhandelingen tussen de betrokken partijen te worden opgelost. Indien
+binnen een jaar na het tijdstip waarop een partij om regeling van een geschil
+heeft verzocht, geen overeenstemming is bereikt en indien de partijen bij
+het geschil er niet mee hebben ingestemd a) in geval van een geschil tussen
+Partijen het geschil voor te leggen aan het Internationaal Gerechtshof of
+b) in geval van andere geschillen te onderwerpen aan een andere procedure
+voor de beslechting van geschillen, kan, mits de partijen bij het geschil
+daarmee instemmen, het geschil aan arbitrage worden onderworpen overeenkomstig
+het bepaalde in de Bijlage bij dit Verdrag.</al>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">18</nr>
+								<titel status="officieel">Instemming gebonden te
+worden</titel>
+							</kop>
+							<lid>
+								<lidnr status="officieel">1</lidnr>
+								<al>Dit Verdrag staat voor ondertekening open te Londen tot het tijdstip waarop het in werking treedt, en staat daarna open voor toetreding. Alle Staten kunnen Partij bij het Verdrag worden door:</al>
+								<lijst level="single" nr-sluiting="." start="1" type="expliciet">
+									<li>
+										<li.nr>a.</li.nr>
+										<al>ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, of</al>
+									</li>
+									<li>
+										<li.nr>b.</li.nr>
+										<al>ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring, of</al>
+									</li>
+									<li>
+										<li.nr>c.</li.nr>
+										<al>toetreding.</al>
+									</li>
+								</lijst>
+							</lid>
+							<lid>
+								<lidnr status="officieel">2</lidnr>
+								<al>Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door middel van nederlegging van de desbetreffende akte bij de Depositaris.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">3</lidnr>
+								<al><redactie type="vervanging">Vervallen.</redactie></al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">4</lidnr>
+								<al><redactie type="vervanging">Vervallen.</redactie></al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">5</lidnr>
+								<al> Ten aanzien van dit Verdrag kan geen enkel voorbehoud worden gemaakt.</al>
+							</lid>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">19</nr>
+								<titel status="officieel">Inwerkingtreding</titel>
+							</kop>
+							<lid>
+								<lidnr status="officieel">1</lidnr>
+								<al>Dit Verdrag treedt in werking zestig dagen na de datum waarop Staten die gezamenlijk 95% van de aanvankelijke investeringsaandelen vertegenwoordigen partij bij het Verdrag zijn geworden.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">2</lidnr>
+								<al>Niettegenstaande het bepaalde in lid 1 treedt het Verdrag niet in werking, indien het niet binnen zesendertig maanden na de datum waarop het Verdrag werd opengesteld voor ondertekening, in werking is getreden.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">3</lidnr>
+								<al>Voor een Staat waarvan de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding is nedergelegd na de datum waarop het Verdrag in werking is getreden, wordt de bekrachtiging, de aanvaarding, de goedkeuring of de toetreding van kracht op de datum van de nederlegging.</al>
+							</lid>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">20</nr>
+								<titel status="officieel">Wijzigingen</titel>
+							</kop>
+							<lid>
+                           <lidnr status="officieel">1</lidnr>
+                           <al>Een wijziging van dit Verdrag kan door elke partij worden voorgesteld. De voorgestelde wijziging wordt door de Directeur-Generaal aan alle partijen en aan waarnemers toegezonden. De Assemblee neemt de voorgestelde wijziging niet eerder in overweging dan zes maanden daarna. De Assemblee kan deze termijn in bijzondere gevallen met ten hoogste drie maanden verkorten door middel van een besluit overeenkomstig de vastgestelde procedure voor materi&#xEB;le zaken. Leveranciers en waarnemers hebben het recht de partijen te voorzien van hun commentaar en inbreng met betrekking tot de voorgestelde wijziging.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2</lidnr>
+                           <al> Een door de Assembl&#xE9;e aangenomen wijziging wordt van kracht
+honderdtwintig dagen nadat de Depositaris kennisgevingen van aanvaarding heeft
+ontvangen van twee derde van de Staten die op het tijdstip van aanneming door
+de Assembl&#xE9;e Partij waren bij dit Verdrag. Zodra de wijziging van kracht
+wordt, wordt deze bindend voor alle Partijen die haar hebben aanvaard. Voor
+alle overige Staten die op het tijdstip van aanneming door de Assembl&#xE9;e
+Partij waren bij dit Verdrag wordt de wijziging bindend op de dag waarop de
+Depositaris hun kennisgeving van aanvaarding ontvangt. </al>
+                        </lid>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">21</nr>
+								<titel status="officieel">Terugtrekking</titel>
+							</kop>
+							<al>Een Partij kan zich op elk tijdstip vrijwillig uit de Organisatie terugtrekken
+door middel van een schriftelijke kennisgeving, welke terugtrekking van kracht
+wordt op de datum waarop de Depositaris de kennisgeving ontvangt.</al>
+						</artikel><artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">22</nr>
+								<titel status="officieel">Depositaris</titel>
+							</kop>
+							<lid>
+								<lidnr status="officieel">1</lidnr>
+								<al>De Secretaris-Generaal van de IMO is de Depositaris van dit Verdrag.</al>
+							</lid>
+							<lid>
+                           <lidnr status="officieel">2</lidnr>
+                           <al> De Depositaris stelt alle Partijen onverwijld in kennis van:</al>
+                           <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                              <li>
+                                 <li.nr>a.</li.nr>
+                                 <al>een ondertekening van het Verdrag</al>
+                              </li>
+                              <li>
+                                 <li.nr>b.</li.nr>
+                                 <al>de nederlegging van een akte van bekrachtiging,
+aanvaarding, goedkeuring of toetreding</al>
+                              </li>
+                              <li>
+                                 <li.nr>c.</li.nr>
+                                 <al>de inwerkingtreding van het Verdrag</al>
+                              </li>
+                              <li>
+                                 <li.nr>d.</li.nr>
+                                 <al>de aanneming van een wijziging in het Verdrag
+en het van kracht worden daarvan</al>
+                              </li>
+                              <li>
+                                 <li.nr>e.</li.nr>
+                                 <al>een kennisgeving van terugtrekking</al>
+                              </li>
+                              <li>
+                                 <li.nr>f.</li.nr>
+                                 <al>andere kennisgevingen en mededelingen met
+betrekking tot het Verdrag.</al>
+                              </li>
+                           </lijst>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">3</lidnr>
+                           <al> Op het tijdstip van inwerkingtreding van een wijziging van het Verdrag
+zendt de Depositaris een gewaarmerkt afschrift aan het Secretariaat van de
+Verenigde Naties voor registratie en publicatie overeenkomstig <extref status="actief" doc="1.0:v:BWBV0004143&amp;artikel=102" compleet="nee">artikel 102
+van het Handvest der Verenigde Naties</extref>.</al>
+                        </lid>
+						</artikel>
+					</wettekst>
+					<wetsluiting status="goed">
+						<slotformulering>
+							<al>TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun onderscheiden Regeringen, dit Verdrag hebben ondertekend.</al>
+							<al>GEDAAN te Londen, op de derde dag van september, negentienhonderd zesenzeventig, in de Engelse, de Franse, de Russische en de Spaanse taal, waarbij alle teksten gelijkelijk authentiek zijn, in &#xE9;&#xE9;n exemplaar dat bij de Depositaris wordt nedergelegd, die een gewaarmerkt afschrift doet toekomen aan de Regering van elk der Staten die een uitnodiging tot bijwoning van de Internationale Conferentie tot Oprichting van een Internationaal Maritiem Satellietsysteem hadden ontvangen, en aan de Regering van elke andere Staat die dit Verdrag ondertekent of daartoe toetreedt.</al>
+							
+							
+						</slotformulering>
+					</wetsluiting>
+				</verdragtekst>
+				<verdragtekst>
+					<kop>
+						<label>Bijlage</label>
+						<titel status="officieel">PROCEDURES VOOR DE BESLECHTING VAN GESCHILLEN BEDOELD IN <intref status="actief" doc="1.0:v:BWBV0003238&amp;artikel=17">ARTIKEL 17</intref> VAN HET VERDRAG </titel>
+					</kop>
+					<wettekst>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">1</nr>
+							</kop>
+							<al>Geschillen die vatbaar zijn voor regeling overeenkomstig <intref status="actief" doc="1.0:v:BWBV0003238&amp;artikel=17">artikel 17</intref> van
+het Verdrag, worden door een uit drie leden bestaand scheidsgerecht behandeld.</al>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">2</nr>
+							</kop>
+							<al>Een eiser, of een groep eisers, die een geschil aan arbitrage wenst te
+onderwerpen, doet iedere gedaagde alsmede het Directoraat een document met
+de volgende gegevens toekomen:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>een volledige beschrijving van het geschil,
+de gronden waarop iedere gedaagde gehouden is aan de arbitrage deel te nemen,
+en de maatregelen die worden gevraagd; </al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>de gronden waarop wordt aangenomen dat het
+onderwerp van het geschil binnen de bevoegdheid van een scheidsgerecht valt
+en dat de gevraagde maatregelen kunnen worden toegestaan, indien het scheidsgerecht
+uitspraak doet ten gunste van de eiser;</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>een uiteenzetting, aangevend door welke
+oorzaak de eiser niet in staat is geweest een oplossing voor het geschil te
+vinden door middel van onderhandelingen of op een andere wijze dan door middel
+van arbitrage;</al>
+                           </li>
+                           <li>
+                              <li.nr>d.</li.nr>
+                              <al>het bewijs van de toestemming of de instemming
+van de partijen in gevallen waarin dit een voorwaarde voor arbitrage is;</al>
+                           </li>
+                           <li>
+                              <li.nr>e.</li.nr>
+                              <al>de naam van degene die door de eiser is
+aangewezen om op te treden als lid van het scheidsgerecht.</al>
+                           </li>
+                        </lijst>                        <al>Het Directoraat zendt onverwijld een afschrift van het document aan iedere
+Partij.</al></artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">3</nr>
+							</kop>
+							<lid>
+								<lidnr status="officieel">1</lidnr>
+								<al> Binnen zestig dagen na het tijdstip waarop kopie&#xEB;n van het in
+<intref status="actief" doc="1.0:v:BWBV0003238&amp;artikel=2">artikel 2</intref> omschreven document door alle gedaagden zijn ontvangen, wijzen zij
+gezamenlijk iemand aan om als lid van het scheidsgerecht op te treden. Binnen
+deze termijn kunnen de gedaagden gezamenlijk, of ieder afzonderlijk, aan elke
+partij bij het geschil en aan het Directoraat een document doen toekomen
+waarin hun gezamenlijk of afzonderlijk verweer op het in artikel 2 genoemde
+document wordt vermeld, met inbegrip van eventuele eisen in reconventie, die
+uit het onderwerp van het geschil kunnen voortvloeien.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">2</lidnr>
+								<al>Binnen dertig dagen na de aanwijzing van de twee leden van het scheidsgerecht dienen beiden overeenstemming over de keuze van een derde lid te bereiken. Dit lid mag niet dezelfde nationaliteit hebben als, of ingezetene zijn van het grondgebied van, een der partijen bij het geschil, noch in haar dienst werkzaam zijn.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">3</lidnr>
+								<al>Indien de partijen bij het geschil nalaten, binnen de voorgeschreven termijn een lid van het scheidsgerecht aan te wijzen, of indien het derde lid niet binnen de voorgeschreven termijn wordt benoemd, kan de President van het Internationaal Gerechtshof of, indien hij verhinderd is zulks te doen of dezelfde nationaliteit heeft als een der partijen bij het geschil, de Vice-President of, indien hij verhinderd is zulks te doen of dezelfde nationaliteit heeft als een der partijen bij het geschil, de rechter die de oudste in rang is en die niet dezelfde nationaliteit heeft als een der partijen bij het geschil, op verzoek van een der partijen een of meer leden van het scheidsgerecht benoemen, al naar gelang zulks noodzakelijk is.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">4</lidnr>
+								<al>Het derde lid van het scheidsgerecht treedt op als voorzitter van het scheidsgerecht.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">5</lidnr>
+								<al>Het scheidsgerecht is ingesteld zodra de voorzitter is gekozen.</al>
+							</lid>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">4</nr>
+							</kop>
+							<lid><lidnr status="officieel">1</lidnr><al>Indien een vacature in het scheidsgerecht ontstaat door oorzaken
+die naar het oordeel van de voorzitter of de overblijvende leden
+van het scheidsgerecht buiten de macht van de partijen bij het geschil
+liggen of die niet strijdig zijn met de regels, voorgeschreven voor
+een geding ten overstaan van scheidsmannen, wordt de vacature vervuld
+overeenkomstig de volgende bepalingen:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+								<li>
+									<li.nr>a.</li.nr>
+									<al>indien de vacature ontstaat ten gevolge van het feit dat een door een partij bij het geschil benoemd lid zich terugtrekt, kiest deze partij binnen tien dagen na het ontstaan van de vacature een vervanger;</al>
+								</li>
+								<li>
+									<li.nr>b.</li.nr>
+									<al>indien de vacature ontstaat ten gevolge van het feit dat de voorzitter of een ingevolge het derde lid van artikel 3 benoemd lid zich terugtrekt, wordt een vervanger gekozen op de wijze als omschreven in het tweede, respectievelijk derde lid van artikel 3.</al>
+									
+								</li>
+							</lijst></lid>
+							
+						<lid><lidnr status="officieel">2</lidnr><al>Indien een vacature ontstaat door andere oorzaken, of indien een vacature, ontstaan ingevolge het eerste lid, niet wordt vervuld, hebben de overblijvende leden van het scheidsgerecht de bevoegdheid, niettegenstaande het bepaalde in artikel 1, op verzoek van een der partijen het geding voort te zetten en de scheidsrechterlijke uitspraak te doen.</al></lid></artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">5</nr>
+							</kop>
+							<lid>
+								<lidnr status="officieel">1</lidnr>
+								<al>Het scheidsgerecht stelt tijd en plaats van zijn zittingen vast.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">2</lidnr>
+								<al> Het geding wordt gehouden achter gesloten deuren en alle stukken die
+aan het scheidsgerecht worden voorgelegd, worden als vertrouwelijk behandeld.
+De Organisatie heeft echter het recht aanwezig te zijn en heeft toegang tot
+de overgelegde stukken. Indien de Organisatie partij is bij het geding, hebben
+alle Partijen het recht aanwezig te zijn en hebben zij toegang tot alle overgelegde
+stukken.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">3</lidnr>
+								<al>In geval van een geschil over de bevoegdheid van het scheidsgerecht behandelt het scheidsgerecht allereerst deze zaak.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">4</lidnr>
+								<al>Het proces wordt schriftelijk gevoerd en iedere partij heeft het recht schriftelijke bewijsstukken over te leggen ter staving van hetgeen zij ten aanzien van de feiten en van het recht aanvoert. Indien het scheidsgerecht dit gewenst acht, kunnen echter mondelinge argumenten worden aangevoerd en getuigenverklaringen worden afgelegd.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">5</lidnr>
+								<al>Het proces begint met het uiteenzetten van het standpunt van de eiser in het geding, met vermelding van zijn argumenten, daarmee in verband staande feiten die steunen op bewijs, alsmede de rechtsbeginselen waarop een beroep wordt gedaan. Dit wordt gevolgd door het uiteenzetten van het standpunt van de gedaagde. De eiser kan hierop van repliek dienen en de gedaagde kan dupliek geven. Verdere pleidooien worden alleen gehouden, indien het scheidsgerecht zulks noodzakelijk oordeelt.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">6</lidnr>
+								<al> Het scheidsgerecht kan eisen in reconventie die rechtstreeks uit het
+onderwerp van geschil voortvloeien, in behandeling nemen en daarover een beslissing
+nemen, mits deze eisen in reconventie binnen zijn bevoegdheid vallen, zoals
+deze is vastgesteld in <intref status="actief" doc="1.0:v:BWBV0003238&amp;artikel=17">artikel 17</intref> van dit Verdrag.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">7</lidnr>
+								<al>Indien de partijen bij het geschil tijdens het proces tot overeenstemming komen, wordt deze overeenstemming vastgelegd in de vorm van een beslissing van het scheidsgerecht, gegeven met toestemming van de partijen bij het geschil.</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">8</lidnr>
+								<al> Op elk tijdstip gedurende het proces kan het scheidsgerecht het proces
+be&#xEB;indigen, indien het van oordeel is dat het geschil buiten zijn bevoegdheid
+valt, zoals deze is vastgesteld in <intref status="actief" doc="1.0:v:BWBV0003238&amp;artikel=17">artikel 17</intref> van dit Verdrag.</al>
+							</lid>
+							<lid><lidnr status="officieel">9</lidnr><al>De beraadslagingen van het scheidsgerecht zijn geheim.</al></lid><lid>
+								<lidnr status="officieel">10</lidnr>
+								
+								<al>De beslissingen van het scheidsgerecht worden schriftelijk gegeven, vergezeld van een schriftelijke motivering. Zijn uitspraken en beslissingen moeten door ten minste twee leden worden ondersteund. Ingeval een lid een van de beslissing afwijkend oordeel heeft, kan hij een afzonderlijke schriftelijke motivering overleggen.
+										</al>
+							</lid>
+							<lid>
+								<lidnr status="officieel">11</lidnr>
+								<al> Het scheidsgerecht doet zijn beslissing aan het Directoraat toekomen,
+dat haar aan alle Partijen toezendt. </al>
+                        
+							</lid>
+							<lid>
+								<lidnr status="officieel">12</lidnr>
+								<al>Het scheidsgerecht kan noodzakelijk geachte aanvullende regels inzake de procedure aanvaarden, die verenigbaar zijn met die welke in deze Bijlage zijn vastgesteld.</al>
+							</lid>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">6</nr>
+							</kop>
+							<al>Indien een der partijen nalaat haar standpunt in het geschil in het geding te brengen, kan de andere partij het scheidsgerecht verzoeken een uitspraak te haren gunste te doen. Alvorens uitspraak te doen, dient het scheidsgerecht zich ervan te overtuigen, dat de zaak binnen zijn bevoegdheid valt en op goede feitelijke en juridische gronden berust.</al>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">7</nr>
+							</kop>
+							<al>Elke Partij of de Organisatie kan een verzoek tot het scheidsgerecht richten
+ter verkrijging van toestemming voor toelating als partij bij het geding.
+Indien het scheidsgerecht beslist dat verzoeker een aanmerkelijk belang bij
+de zaak heeft, willigt het het verzoek in.</al>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">8</nr>
+							</kop>
+							<al>Het scheidsgerecht kan, op verzoek van een der partijen of op eigen initiatief, deskundigen aanwijzen om zich te laten bijstaan.</al>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">9</nr>
+							</kop>
+							<al>Elke Partij en de Organisatie dienen alle inlichtingen te verschaffen
+die het scheidsgerecht, hetzij op verzoek van een der partijen bij het geding,
+hetzij op eigen initiatief, noodzakelijk oordeelt voor de behandeling en de
+regeling van het geschil.</al>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">10</nr>
+							</kop>
+							<al>Het scheidsgerecht kan, hangende de uitspraak, voorlopige maatregelen aangeven die naar zijn mening noodzakelijk zijn om de onderscheiden rechten van de partijen bij het geschil te waarborgen.</al>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">11</nr>
+							</kop>
+							<lid>
+                           <lidnr>1</lidnr>
+                           <al> De uitspraak van het scheidsgerecht dient in overeenstemming te zijn
+met internationaal recht en te zijn gegrond op:</al>
+                           <lijst type="expliciet">
+                              <li>
+                                 <li.nr>a.</li.nr>
+                                 <al>dit Verdrag</al>
+                              </li>
+                              <li>
+                                 <li.nr>b.</li.nr>
+                                 <al>algemeen aanvaarde rechtsbeginselen.</al>
+                              </li>
+                           </lijst>
+                        </lid>
+                        <lid>
+                           <lidnr>2</lidnr>
+                           <al> De uitspraak van het scheidsgerecht, met inbegrip van de eventueel
+door de partijen bij het geschil bereikte overeenstemming ingevolge artikel
+5, zevende lid, is bindend voor alle partijen bij het geschil en wordt door
+hen te goeder trouw ten uitvoer gelegd. Indien de Organisatie partij is bij
+het geschil en het scheidsgerecht beslist dat een besluit van een van zijn
+organen geen rechtskracht heeft, aangezien daarin niet is voorzien bij, of
+dit niet in overeenstemming is met dit Verdrag, is de beslissing van het scheidsgerecht
+bindend voor alle Partijen.</al>
+                        </lid>
+                        <lid>
+                           <lidnr>3</lidnr>
+                           <al> In geval van een geschil over de uitleg of draagwijdte van zijn uitspraak,
+wordt deze op verzoek van enige partij bij het geschil door het scheidsgerecht
+toegelicht.</al>
+                        </lid>
+						</artikel>
+						<artikel status="goed">
+							<kop>
+								<label>Artikel</label>
+								<nr status="officieel">12</nr>
+							</kop>
+							<al>Tenzij het scheidsgerecht wegens de bijzondere omstandigheden van de zaak anders beslist, worden de kosten van het scheidsgerecht, met inbegrip van de vergoeding van de leden van het scheidsgerecht, voor gelijke delen door ieder der partijen gedragen. Indien aan &#xE9;&#xE9;n zijde meer dan &#xE9;&#xE9;n partij is, wordt het aandeel in de kosten voor deze zijde door het scheidsgerecht over die partijen aan deze zijde verdeeld. Indien de Organisatie partij is bij het geding, worden de met de arbitrage verband houdende kosten beschouwd als administratieve kosten van de Organisatie.</al>
+						</artikel>
+					</wettekst>
+				</verdragtekst>
+				<verdragtekst>
+					<kop>
+						<titel status="officieel">Exploitatieovereenkomst inzake de Internationale Organisatie voor Maritieme Satellieten (INMARSAT)</titel>
+					</kop>
+					
+					<wettekst>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+					</wettekst>
+					
+				</verdragtekst>
+				<verdragtekst>
+					<kop>
+						<titel status="officieel">Investeringsaandelen vooruitlopend op de eerste vaststelling aan de hand van het gebruik</titel>
+					</kop>
+					<vrije-tekst>
+						
+					</vrije-tekst>
+				</verdragtekst></verdrag></wetgeving>
+  	

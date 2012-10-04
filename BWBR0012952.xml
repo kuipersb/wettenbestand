@@ -1,0 +1,685 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0012952" dtdversie="2.0" id="50169" soort="wet" xml:lang="nl">
+    
+    <intitule>Wet van 1 november 2001, houdende regeling van de taken voor
+    de meteorologie en andere geofysische terreinen (Wet op het
+    Koninklijk Nederlands Meteorologisch Instituut)</intitule>
+    
+    <wet-besluit>
+        <aanhef>
+    <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden,
+        Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+    <considerans>
+        <considerans.al>Allen, die deze zullen zien of horen lezen,
+            saluut! doen te weten:</considerans.al>
+        <considerans.al>Alzo Wij in overweging genomen hebben, dat het
+            wenselijk is bij wet de taken van het Koninklijk Nederlands
+            Meteorologisch Instituut te regelen;</considerans.al>
+    </considerans>
+    <afkondiging>
+        <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen
+            overleg der Staten-Generaal, hebben goedgevonden en
+            verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+    </afkondiging>
+</aanhef>
+        <wettekst>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr status="officieel">1</nr>
+        <titel status="officieel">Begripsomschrijvingen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">1</nr>
+    </kop>
+    <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+            <li.nr>a.</li.nr>
+            <al>Onze Minister: Onze Minister van Verkeer en Waterstaat;</al>
+        </li>
+        <li>
+            <li.nr>b.</li.nr>
+            <al>KNMI: Koninklijk Nederlands Meteorologisch Instituut;</al>
+        </li>
+        <li>
+            <li.nr>c.</li.nr>
+            <al>hoofddirecteur: hoofddirecteur van het KNMI;</al>
+        </li>
+        <li>
+            <li.nr>d.</li.nr>
+            <al>algemeen weerbericht: algemeen weerbericht als bedoeld
+                in <intref status="actief" doc="1.0:v:BWBR0012952&amp;artikel=5">artikel 5, tweede en vijfde lid</intref>;</al>
+        </li>
+        <li>
+            <li.nr>e.</li.nr>
+            <al>luchtvaartmeteorologische inlichtingen: inlichtingen ten
+                behoeve van het luchtverkeer, bedoeld in <extref status="actief" doc="1.0:v:BWBR0005555&amp;artikel=1.1" compleet="nee">artikel 1.1, eerste lid,
+                    van de Wet luchtvaart</extref>;</al>
+        </li>
+        <li>
+            <li.nr>f.</li.nr>
+            <al>KNMI-gegevens: door het KNMI uit eigen waarneming of in
+                internationaal verband verkregen gegevens met betrekking
+                tot meteorologische en andere geofysische feiten en
+                omstandigheden, uitgezonderd de
+                luchtvaartmeteorologische inlichtingen en het algemeen weerbericht;</al>
+        </li>
+        <li>
+            <li.nr>g.</li.nr>
+            <al>onderzoek: wetenschappelijk onderzoek op het terrein van
+                de meteorologie en andere geofysische terreinen.</al>
+        </li>
+    </lijst>
+</artikel>
+<artikel status="goed">
+                              <kop>
+                                 <label>Artikel</label>
+                                 <nr status="officieel">1a</nr>
+                              </kop>
+                              <al>Deze wet is, met uitzondering van de <intref status="actief" doc="1.0:v:BWBR0012952&amp;artikel=3">artikelen 3,
+eerste lid, onderdeel a en c</intref>, <intref status="actief" doc="1.0:v:BWBR0012952&amp;artikel=5">5</intref>, <intref status="actief" doc="1.0:v:BWBR0012952&amp;artikel=8">8</intref>, en <intref status="actief" doc="1.0:v:BWBR0012952&amp;artikel=8a">8a</intref>, mede van toepassing in de
+openbare lichamen Bonaire, Sint Eustatius en
+Saba.</al>
+                           </artikel></hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr status="officieel">2</nr>
+        <titel status="officieel">Instelling en taak</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>2</nr>
+    </kop>
+    <lid>
+        <lidnr>1</lidnr>
+        <al>Er is een KNMI, dat ressorteert onder Onze Minister.</al>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al>De leiding van het KNMI berust bij de hoofddirecteur. Onze
+            Minister benoemt, schorst en ontslaat de hoofddirecteur.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">3</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Het KNMI heeft tot taak:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>het beschikbaar maken, houden en stellen van een
+                    algemeen weerbericht voor de Nederlandse samenleving;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>het beschikbaar maken, houden en stellen van KNMI-gegevens;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>het beschikbaar maken, houden en stellen van
+                    luchtvaartmeteorologische inlichtingen;</al>
+            </li>
+            <li>
+                <li.nr>d.</li.nr>
+                <al>het verrichten van onderzoek;</al>
+            </li>
+            <li>
+                <li.nr>e.</li.nr>
+                <al>het adviseren van Onze Minister op het terrein van
+                    de meteorologie en andere geofysische terreinen;</al>
+            </li>
+            <li>
+                <li.nr>f.</li.nr>
+                <al>deel te nemen in internationale organisaties op het
+                    terrein van de meteorologie en andere geofysische terreinen;</al>
+            </li>
+            <li>
+                <li.nr>g.</li.nr>
+                <al>het onderhouden van de nationale infrastructuur voor
+                    de meteorologie en andere geofysische terreinen,</al>
+            </li>
+        <li>
+                                    <li.nr>h.</li.nr>
+                                    <al>het
+ten behoeve van de openbare lichamen Bonaire, Sint Eustatius en Saba op
+exclusieve basis beschikbaar maken, houden en stellen van
+luchtvaartmeteorologische inlichtingen,
+en</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>i.</li.nr>
+                                    <al>andere door Onze
+Minister aangewezen taken ten aanzien van de openbare lichamen Bonaire,
+Sint Eustatius en Saba op het terrein van de meteorologie en andere
+geofysische terreinen.</al>
+                                 </li></lijst>
+    </lid>
+    <lid>
+                                 <lidnr status="officieel">2</lidnr>
+                                 <al>Bij
+regeling van Onze Minister kunnen nadere regels worden gesteld inzake
+de inhoud en reikwijdte van de in het eerste lid genoemde
+taken.</al>
+                              </lid>
+</artikel>
+    <artikel status="goed">
+                              <kop>
+                                 <label>Artikel</label>
+                                 <nr status="officieel">3a</nr>
+                              </kop>
+                              <lid>
+                                 <lidnr status="officieel">1</lidnr>
+                                 <al>Het KNMI
+kan, onverminderd zijn verantwoordelijkheid voor het uitvoeren van de
+ingevolge <intref status="actief" doc="1.0:v:BWBR0012952&amp;artikel=1a">artikel 1a</intref> en <intref status="actief" doc="1.0:v:BWBR0012952&amp;artikel=3">artikel 3, eerste lid</intref>, aan hem opgedragen taken
+ten aanzien van de openbare lichamen Bonaire, Sint Eustatius en Saba,
+na schriftelijke instemming van Onze Minister, voor de uitvoering
+gebruik maken van een andere dienstverlener of, voor zover het betreft
+de taak bedoeld in artikel 3, eerste lid, onderdeel h, van de diensten
+van een andere verlener van meteorologische diensten voor
+luchtvaartnavigatie.</al>
+                              </lid>
+                              <lid>
+                                 <lidnr status="officieel">2</lidnr>
+                                 <al>Gronden
+waarop instemming als bedoeld in het eerste lid kan worden onthouden
+zijn:</al>
+                                 <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                    <li>
+                                       <li.nr>a.</li.nr>
+                                       <al>het
+niet voldoen of niet kunnen voldoen door de verlener van wiens diensten
+gebruik zal worden gemaakt aan de bij regeling van Onze Minister
+gestelde eisen inzake het toezicht op de dienstverlener of inzake zijn
+bekwaamheid of
+geschiktheid;</al>
+                                    </li>
+                                    <li>
+                                       <li.nr>b.</li.nr>
+                                       <al>strijd
+met het recht,
+of</al>
+                                    </li>
+                                    <li>
+                                       <li.nr>c.</li.nr>
+                                       <al>strijd met het
+belang van een veilig, ordelijk en vlot verloop van het luchtverkeer
+voor zover het betreft de taak bedoeld in <intref status="actief" doc="1.0:v:BWBR0012952&amp;artikel=3">artikel 3, eerste lid,
+onderdeel
+h</intref>.</al>
+                                    </li>
+                                 </lijst>
+                              </lid>
+                           </artikel><artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>4</nr>
+    </kop>
+    <al>Bij regeling van Onze Minister worden regels gesteld inzake het
+        vaststellen van een onderzoeksprogramma, een onderzoeksplan, een
+        jaarplan en een jaarverslag.</al>
+</artikel>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>3</nr>
+        <titel>Algemeen weerbericht</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>5</nr>
+    </kop>
+    <lid>
+        <lidnr>1</lidnr>
+        <al>De hoofddirecteur stelt het algemeen weerbericht om niet
+            beschikbaar aan natuurlijke en rechtspersonen die in
+            Nederland beroepsmatig of bedrijfsmatig weersinformatie via
+            openbare media en communicatiekanalen verspreiden.</al>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al>Tot het algemeen weerbericht behoren, voor zover betrekking
+            hebbend op of gevolgen hebbend voor Nederland of de Noordzee:</al>
+        <lijst>
+            <li>
+                <li.nr>a.</li.nr>
+                <al>actuele meteorologische waarnemingen;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>een beschrijving van de weersgesteldheid, waarbij
+                    onder a bedoelde waarnemingen zijn ge&#xEF;nterpreteerd;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>de weersverwachtingen voor vandaag;</al>
+            </li>
+            <li>
+                <li.nr>d.</li.nr>
+                <al>weersverwachtingen voor de middellange termijn;</al>
+            </li>
+            <li>
+                <li.nr>e.</li.nr>
+                <al>berichten inzake de zonkrachtverwachting;</al>
+            </li>
+            <li>
+                <li.nr>f.</li.nr>
+                <al>weerberichten ten behoeve van de scheepvaart in de
+                    Nederlandse kustwateren, de Waddenzee en het IJsselmeer;</al>
+            </li>
+            <li>
+                <li.nr>g.</li.nr>
+                <al>weerberichten voor de Noordzee;</al>
+            </li>
+            <li>
+                <li.nr>h.</li.nr>
+                <al>waarschuwingen ten behoeve van de scheepvaart;</al>
+            </li>
+            <li>
+                <li.nr>i.</li.nr>
+                <al>waarschuwingen ten behoeve van het wegverkeer;</al>
+            </li>
+            <li>
+                <li.nr>j.</li.nr>
+                <al>waarschuwingen voor extreme weersomstandigheden;</al>
+            </li>
+            <li>
+                <li.nr>k.</li.nr>
+                <al>berichten bij calamiteiten waarbij het weer een
+                    belangrijke rol speelt</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr>3</lidnr>
+        <al>Voor zover zich relevante verschillen in het weer boven
+            Nederland of de Noordzee voordoen, kan een regionale
+            detaillering in de berichtgeving worden aangebracht.</al>
+    </lid>
+    <lid>
+        <lidnr>4</lidnr>
+        <al>Waarschuwingen, berichten bij calamiteiten waarbij het weer
+            een belangrijke rol speelt en verdere weersverwachtingen
+            waarbij de veiligheid in het geding is, worden voorzover het
+            KNMI over de relevante gegevens beschikt en deze
+            redelijkerwijs heeft kunnen omzetten in een algemeen
+            weerbericht, terstond beschikbaar gesteld. Overige
+            onderdelen van het algemeen weerbericht worden, behoudens
+            indien zich geen significante weersontwikkelingen voordoen,
+            ten minste 3-uurlijks beschikbaar gesteld.</al>
+    </lid>
+    <lid>
+        <lidnr>5</lidnr>
+        <al>Bij regeling van Onze Minister worden regels gesteld inzake
+            de inhoud en de beschikbaarheid van het algemeen
+            weerbericht. Hierbij wordt rekening gehouden met de actuele
+            stand van wetenschap en techniek.</al>
+    </lid>
+</artikel>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>4</nr>
+        <titel>Beschikbaarheid van KNMI-gegevens</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>6</nr>
+    </kop>
+    <lid>
+        <lidnr>1</lidnr>
+        <al>Desgevraagd worden KNMI-gegevens beschikbaar gesteld. De
+            beschikbaarstelling geschiedt voorzover het betreft een
+            afnemer niet behorend tot de Staat, in de vorm van een
+            overeenkomst waarin afspraken worden gemaakt over
+            beschikbaarstelling en gebruik van die gegevens.</al>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al>Bij regeling van Onze Minister:</al>
+        <lijst>
+            <li>
+                <li.nr>a.</li.nr>
+                <al>worden de gevallen waarin een prijs verschuldigd is
+                    voor de beschikbaarstelling en het gebruik van
+                    KNMI-gegevens vastgesteld;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>worden de grondslagen voor de berekening van de
+                    prijs vastgesteld waarbij ten aanzien van de
+                    beschikbaarstelling van KNMI-gegevens wordt
+                    uitgegaan van de integrale kosten van de
+                    beschikbaarstelling en ten aanzien van het gebruik
+                    van die gegevens van een prijs die strekt tot een
+                    bijdrage in de kosten van de productie van de
+                    KNMI-gegevens, tenzij uit internationale
+                    verplichtingen anders voortvloeit, en</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>kunnen andere regels inzake de inhoud van de
+                    overeenkomst en regels voor de voor het sluiten
+                    ervan benodigde informatie en bescheiden worden gesteld.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr>3</lidnr>
+        <al>De regels, bedoeld in het tweede lid, kunnen verschillen al
+            naar gelang het soort gebruik van de KNMI-gegevens of de
+            soort afnemer.</al>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>7</nr>
+    </kop>
+    <lid>
+        <lidnr>1</lidnr>
+        <al>Onze Minister stelt beleidsregels in een catalogus vast
+            welke beschikbare KNMI-gegevens beschrijft met vermelding
+            van de hoogte van de prijs voor de beschikbaarstelling en
+            voor het gebruik alsmede de voorwaarden voor de beschikbaarstelling.</al>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al>De catalogus wordt ter inzage gelegd bij het KNMI. Hiervan
+            doet Onze Minister mededeling in de Staatscourant.</al>
+    </lid>
+</artikel>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr status="officieel">5</nr>
+        <titel status="officieel">Luchtvaartmeteorologische inlichtingen</titel>
+    </kop>
+    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">8</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Het
+KNMI wordt aangewezen als verlener van meteorologische diensten voor de
+luchtvaartnavigatie, als bedoeld in artikel 9, eerste lid, van de
+verordening (EG) nr. 550/2004 van het Europees Parlement en de Raad van
+de Europese Unie van 10 maart 2004 betreffende de verlening van
+luchtvaartnavigatiediensten in het gemeenschappelijk Europees luchtruim
+(PbEU L
+96).</al></lid><lid>
+                     <lidnr status="officieel">2</lidnr>
+                     <al>Het KNMI
+draagt zorg voor het regelmatig raadplegen van gebruikers van
+meteorologische diensten voor de luchtvaartnavigatie omtrent de
+kostengrondslag en het vergoedingenbeleid van die dienstverlening. De
+raadpleging kan tevens op verzoek van de gebruikers
+plaatsvinden.</al>
+                  </lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">8a</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Het
+KNMI kan, onverminderd zijn verantwoordelijkheid voor het verlenen van de
+diensten, bedoeld in <intref status="actief" doc="1.0:v:BWBR0012952&amp;artikel=8">artikel
+8</intref>, na schriftelijke instemming van
+Onze Minister gebruikmaken van de diensten van een andere verlener van
+meteorologische diensten voor luchtvaartnavigatie voor het uitvoeren
+van de in <intref status="actief" doc="1.0:v:BWBR0012952&amp;artikel=3">artikel 3, eerste lid, onderdeel c</intref>, bedoelde
+taak.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Gronden waarop instemming als
+bedoeld in het eerste lid kan worden onthouden
+zijn:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>het niet voldoen of niet kunnen voldoen door de
+verlener van wiens diensten gebruik zal worden gemaakt aan de op grond
+van <extref status="actief" doc="1.0:v:BWBR0005555&amp;artikel=5.14d" compleet="nee">artikel 5.14d, derde lid, van de Wet luchtvaart</extref> aan het certificaat
+van het KNMI gestelde beperkingen en voorschriften;</al></li><li>
+<li.nr>b.</li.nr><al>strijd met het belang van een veilig, ordelijk en
+vlot verloop van het luchtverkeer; of</al></li><li>
+<li.nr>c.</li.nr><al>strijd met het
+recht.</al></li></lijst></lid></artikel><artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>8b</nr>
+    </kop>
+    <al>De hoofddirecteur stelt de luchtvaartmeteorologische
+        inlichtingen op een bij regeling van Onze Minister in
+        overeenstemming met Onze Minister van Defensie te bepalen wijze
+        beschikbaar. In die regeling worden tevens regels gesteld inzake
+        de inhoud van deze inlichtingen, de luchtvaartterreinen waarop
+        de beschikbaarstelling betrekking heeft, de perioden van
+        beschikbaarstelling en de categorie&#xEB;n van gebruikers. </al>
+</artikel>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>6</nr>
+        <titel>Onderzoek</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>9</nr>
+    </kop>
+    <lid>
+        <lidnr>1</lidnr>
+        <al>De hoofddirecteur draagt zorg voor openbaarmaking van de
+            resultaten van het onderzoek uiterlijk een jaar nadat de
+            resultaten tot stand zijn gekomen.</al>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al>Indien bij de totstandkoming van het onderzoek
+            vertrouwelijke gegevens zijn gebruikt, worden de
+            onderzoeksresultaten gesplitst in een gedeelte dat niet
+            direct herleidbaar is tot de vertrouwelijke gegevens en een
+            gedeelte dat hiertoe wel herleidbaar is. In afwijking van
+            het eerste lid, wordt alleen het gedeelte dat niet direct
+            herleidbaar is tot de vertrouwelijke gegevens, openbaar gemaakt.</al>
+    </lid>
+    <lid>
+        <lidnr>3</lidnr>
+        <al>De resultaten van het onderzoek voorzover niet direct
+            herleidbaar tot de vertrouwelijke gegevens, worden openbaar
+            gemaakt door deze:</al>
+        <lijst>
+            <li>
+                <li.nr>a.</li.nr>
+                <al>op te nemen in een algemeen verkrijgbare uitgave;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>op te nemen in een vanwege het KNMI algemeen
+                    verkrijgbaar gestelde periodiek, of</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>ter inzage te leggen bij het KNMI, in kopie te
+                    verstrekken of uit te lenen.</al>
+            </li>
+        </lijst>
+    </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>10</nr>
+    </kop>
+    <lid>
+        <lidnr>1</lidnr>
+        <al>Het KNMI kan, voorzover het past in het onderzoeksprogramma
+            en het onderzoeksplan, bedoeld in <intref status="actief" doc="1.0:v:BWBR0012952&amp;artikel=4">artikel 4</intref>,
+            onderzoek in opdracht van derden verrichten.</al>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al>De kosten van het onderzoek worden integraal doorberekend
+            aan de opdrachtgever.</al>
+    </lid>
+    <lid>
+        <lidnr>3</lidnr>
+        <al>Voor onderzoeken als bedoeld in het eerste lid wordt een
+            gescheiden boekhouding bijgehouden, waarin:</al>
+        <lijst>
+            <li>
+                <li.nr>a.</li.nr>
+                <al>de interne rekening voor die onderzoeken gescheiden
+                    is van die voor de overige activiteiten;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>alle kosten en opbrengsten van die onderzoeken, op
+                    grond van consequent toegepaste en objectief te
+                    rechtvaardigen beginselen inzake
+                    kostprijsadministratie, worden toegerekend;</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>de beginselen inzake kostprijsadministratie volgens
+                    welke de gescheiden boekhouding wordt gevoerd,
+                    duidelijk zijn vastgelegd.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr>4</lidnr>
+        <al>Bij regeling van Onze Minister worden nadere regels gesteld
+            inzake de aan het onderzoek verbonden kosten die worden
+            doorberekend en inzake de administratie van de kosten die
+            aan de doorberekening ten grondslag liggen.</al>
+    </lid>
+</artikel>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>7</nr>
+        <titel>KNMI-raad</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>11</nr>
+    </kop>
+    <lid>
+        <lidnr>1</lidnr>
+        <al>Er is een KNMI-raad.</al>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al>De raad heeft tot taak het wetenschappelijk niveau van het
+            KNMI te bewaken en daarover te rapporteren.</al>
+    </lid>
+    <lid>
+        <lidnr>3</lidnr>
+        <al>De raad bestaat uit minimaal vijf en maximaal negen door
+            Onze Minister voor vier jaar op grond van bekwaamheid te
+            benoemen leden, waaronder de voorzitter. Herbenoeming kan
+            &#xE9;&#xE9;nmaal en voor ten hoogste vier jaar plaatshebben.</al>
+    </lid>
+    <lid>
+        <lidnr>4</lidnr>
+        <al>De leden van de raad worden op eigen aanvraag door Onze
+            Minister ontslagen. Zij kunnen voorts door Onze Minister
+            worden geschorst en ontslagen wegens ongeschiktheid,
+            onbekwaamheid of op andere zwaarwegende gronden.</al>
+    </lid>
+    <lid>
+        <lidnr>5</lidnr>
+        <al>Bij regeling van Onze Minister worden nadere regels gesteld
+            met betrekking tot de rechtspositie van de leden van de KNMI-raad.</al>
+    </lid>
+</artikel>
+</hoofdstuk>
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr>8</nr>
+        <titel>Slotbepalingen</titel>
+    </kop>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>12</nr>
+    </kop>
+    <al>Onze Minister zendt binnen vijf jaar na de inwerkingtreding van
+        deze wet, en vervolgens telkens na vijf jaar, aan de
+        Staten-Generaal een verslag over de doeltreffendheid en de
+        effecten van deze wet in de praktijk. Hiertoe behoort in ieder
+        geval de mate van toegankelijkheid van het algemeen weerbericht.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>13</nr>
+    </kop>
+    <al>Het <extref status="actief" doc="" compleet="nee">Reglement voor het Koninklijk
+            Nederlands Meteorologisch Instituut</extref> wordt ingetrokken.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>14</nr>
+    </kop>
+    <al>
+        <redactie type="vervanging">Wijzigt de Ambtenarenwet.</redactie>
+    </al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>15</nr>
+    </kop>
+    <al>Deze wet treedt in werking met ingang van de eerste dag van de
+        derde kalendermaand na de datum van uitgifte van het Staatsblad
+        waarin zij wordt geplaatst.</al>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>16</nr>
+    </kop>
+    <al>Deze wet wordt aangehaald als: Wet op het Koninklijk Nederlands
+        Meteorologisch Instituut.</al>
+</artikel>
+</hoofdstuk>
+        </wettekst>
+        <wetsluiting status="goed">
+    <slotformulering>
+        <al>Lasten en bevelen dat deze in het Staatsblad zal worden
+            geplaatst en dat alle ministeries, autoriteiten, colleges en
+            ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering
+            de hand zullen houden.</al>
+    </slotformulering>
+    <gegeven>
+        <dagtekening>
+            <plaats>Gegeven te 's-Gravenhage</plaats>
+            <datum isodatum="">1 november 2001</datum>
+        </dagtekening>
+        <koning>Beatrix</koning>
+    </gegeven>
+    <ondertekening>
+        <functie>De Staatssecretaris van Verkeer en Waterstaat,</functie>
+        <naam>
+            <achternaam>J. M. de Vries</achternaam>
+        </naam>
+    </ondertekening>
+    <uitgifte>
+        <datum isodatum="">de <nadruk type="cur">zevenentwintigste</nadruk> november 2001</datum>
+        <ondertekening>
+            <functie>De Minister van Justitie,</functie>
+            <naam>
+                <achternaam>A. H. Korthals</achternaam>
+            </naam>
+        </ondertekening>
+    </uitgifte>
+</wetsluiting>
+    </wet-besluit>
+</wetgeving>
+  	

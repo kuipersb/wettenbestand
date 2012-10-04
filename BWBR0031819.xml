@@ -1,0 +1,599 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0031819" dtdversie="2.0" id="476669" soort="beleidsregel">
+  
+  <intitule>Richtlijn voor strafvordering Telecommunicatiewet</intitule>
+  
+  <circulaire>
+    
+    <circulaire-tekst>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Achtergrond</titel>
+        </kop>
+        <tekst status="goed">
+
+          <al>Aan deze richtlijn is &#xE9;&#xE9;n basisdelict toegevoegd. Na basisdelict 2 is basisdelict 3 ingevoegd: het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van radiozendapparaten waarvoor naar hun aard geen vergunning kan worden verleend. (strafbaarstelling: <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.9" compleet="nee">art. 10.9, eerste lid</extref> jo. <extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=1" compleet="nee">art. 1, sub 1&#xB0; WED</extref>). Dit betreft de zogeheten <nadruk type="cur">jammers,</nadruk> blokkeerzenders van onder meer mobiele telefonie en GPS-signalen.</al>
+        </tekst>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Beschrijving</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Deze richtlijn ziet op delicten begaan door het overtreden van de <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Telecommunicatiewet</extref> (misdrijven en/of overtredingen). In de richtlijn wordt een aantal basisdelicten genoemd. Hieronder vallen de meeste strafbare feiten ingevolge de Telecommunicatiewet.</al>
+            <al>Voor zover het basisdelict een misdrijf &#x2013; (doleus) en een overtredingsvariant (culpoos) kent, is bij het betreffende basisdelict een basispuntenaantal opgenomen dat betrekking heeft op de misdrijfvariant. In geval sprake is van een overtreding kan hiervan worden afgeweken door het puntenaantal naar beneden aan te passen. Indien het basisdelict alleen ziet op een overtreding speelt dit punt uiteraard geen rol.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Aard van de richtlijn</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Bijzondere wetten</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Wettekst</titel>
+          </kop>
+          <tekst status="goed">
+            <al><extref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=3" compleet="nee">Telecommunicatiewet (Tw) hoofdstukken 3</extref> en <extref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=10" compleet="nee">10</extref></al>
+            <al><extref status="actief" doc="1.0:v:BWBR0002063" compleet="nee">Wet op de economische delicten</extref> (WED)</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Puntensysteem</titel>
+          </kop>
+          <tekst status="goed">
+            <al>In de onderhavige richtlijn voor strafvordering wordt gebruik gemaakt van het Polaris-puntensysteem, zoals beschreven in de <extref status="actief" doc="1.0:v:BWBR0030950" compleet="nee">Aanwijzing Kader voor strafvordering</extref>. Voor de waarde van &#xE9;&#xE9;n sanctiepunt wordt verwezen naar genoemde aanwijzing.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Basisdelicten (overzicht)</titel>
+          </kop>
+          <tekst status="goed">
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>(1)</li.nr>
+                <al>Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een  radiozendapparaat, bestemd om de omroepfrequenties tussen 88,0&#xA0;MHz en 108,0&#xA0;MHz, tussen de 174&#xA0;MHz en de 230&#xA0;MHz en tussen de 1452&#xA0;MHz en de 1479.5&#xA0;MHz te gebruiken, zonder vergunning ex <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3" compleet="nee">art. 3.3, lid 1 Tw</extref> (etherpiraten)</al>
+                <al>(strafbaarstelling: <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.9" compleet="nee">art. 10.9, eerste lid Tw</extref> jo. <extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=1" compleet="nee">art. 1, sub 1&#xB0;  WED</extref>)</al>
+              </li>
+              <li>
+                <li.nr>(2)</li.nr>
+                <al>Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat, bestemd om andere frequentieruimte dan onder (1) genoemd te gebruiken, zonder vergunning of registratie ex <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3" compleet="nee">art. 3.3, eerste lid</extref>, jo. <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.4" compleet="nee">3.4 Tw</extref> (niet-etherpiraten)</al>
+                <al>(strafbaarstelling: <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.9" compleet="nee">art. 10.9, eerste lid</extref> jo. <extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=1" compleet="nee">art. 1, sub 1&#xB0; WED</extref>)</al>
+              </li>
+              <li>
+                <li.nr>(3)</li.nr>
+                <al>Het in de handel brengen van uitrusting die niet voldoet aan de eisen ex <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1" compleet="nee">art. 10.1</extref> of <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.3" compleet="nee">10.3 onderdeel a,b,c en e TW</extref></al>
+                <al>(strafbaarstelling: <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1" compleet="nee">art. 10.1, eerste lid</extref> jo. <extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=1" compleet="nee">art. 1, sub 1&#xB0; WED</extref>)</al>
+              </li>
+              <li>
+                <li.nr>(4)</li.nr>
+                <al>Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat dat op een verkeerde frequentie werkt en/of een onjuist vermogen heeft</al>
+                <al>(strafbaarstelling: <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.9" compleet="nee">art. 10.9, eerste lid Tw</extref> jo. <extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=1" compleet="nee">art. 1, sub 1&#xB0; WED) </extref></al>
+              </li>
+            </lijst>
+          </tekst>
+        </circulaire.divisie>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Overgangsrecht</titel>
+        </kop>
+        <tekst status="goed">
+          <al>Deze richtlijn voor strafvordering  is uitsluitend geldig ten aanzien van strafbare feiten gepleegd vanaf de datum van inwerkingtreding van deze richtlijn.</al>
+        </tekst>
+      </circulaire.divisie>
+    </circulaire-tekst>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlagen</label>
+      </kop>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Basisdelict (1)</titel>
+        </kop>
+        <al>Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat, bestemd om omroepfrequenties tussen de 88,0&#xA0;MHz en de 108,0&#xA0;MHz, tussen de 174&#xA0;MHz en de 230&#xA0;MHz en tussen de 1452&#xA0;MHz en de 1479.5&#xA0;MHz te gebruiken, zonder vergunning ex <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3" compleet="nee">art. 3.3, lid 1 Tw</extref> (strafbaarstelling: <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.9" compleet="nee">art. 10.9, eerste lid Tw</extref> jo. <extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=1" compleet="nee">art. 1 sub 1&#xB0; WED</extref>) (etherpiraten)</al>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Beschrijving</titel>
+          </kop>
+          <al>Dit delict ziet op het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat, bestemd om omroepfrequenties tussen de 88,0&#xA0;MHz en de 108,0&#xA0;MHz, tussen de 174&#xA0;MHz en de 230&#xA0;MHz en tussen de 1452&#xA0;MHz en de 1479.5&#xA0;MHz te gebruiken, zonder vergunning ex art. 3.3, eerste lid Tw en heeft in hoofdzaak betrekking op etherpiraten. Onderscheid wordt gemaakt tussen lichte of zware overtredingen. Deze richtlijn dient voor de strafvordering van de lichte overtreding. De strafvordering van zware overtredingen valt hierbuiten en vergt maatwerk.</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Toepasselijk kader</titel>
+          </kop>
+          <al>Aanwijzing kader voor strafvordering</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Basispunten</titel>
+          </kop>
+          <al>50 punten (naast beslag)</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Basisfactoren</titel>
+          </kop>
+          <al>Geen</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Delictspecifieke factoren</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Medeplegen</titel>
+            </kop>
+            <al>Er is geen sprake van medeplegen +0%</al>
+            <al>Er is sprake van medeplegen +25%</al>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Wettelijke factoren</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Medeplichtigheid</titel>
+            </kop>
+            <al>Dader +0%</al>
+            <al>Medeplichtige &#x2013;33%</al>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Recidiveregeling</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Mate van recidive (5 jaar)</titel>
+            </kop>
+            <al>Geen recidive +0%</al>
+            <al>1 maal binnen 2 jaar + 50% en naast hogere sanctie</al>
+            <al>1 maal binnen 2&#x2013;5 jaar + 50%</al>
+            <al>Meermalen + 100% + naast hogere sanctie + dagvaarden</al>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Draagkracht</titel>
+          </kop>
+          <al>Geen</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Maatwerk</titel>
+          </kop>
+          <al>Geen</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Speciale regelingen</titel>
+          </kop>
+          <al>Geen</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Bijzonderheden</titel>
+          </kop>
+          <al>Gezien de ernst van het feit is in beginsel een taakstraf ge&#xEF;ndiceerd.</al>
+          <al>Bij afdoening middels een strafbeschikking dient, indien het beslag nog niet is afgedaan, de strafbeschikking tevens de aanwijzing &#x2018;afstand&#x2019; te bevatten.</al>
+          <al>In geval van dagvaarden dient altijd verbeurdverklaring gevorderd te worden.</al>
+        </divisie>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Basisdelict (2)</titel>
+        </kop>
+        <al>Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat, bestemd om andere frequentieruimte dan omroepfrequenties onder (1) genoemd te gebruiken, zonder vergunning of registratie ex <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3" compleet="nee">art. 3.3, eerste lid</extref>, jo. <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.4" compleet="nee">3.4 Tw</extref> (strafbaarstelling: <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.9" compleet="nee">art. 10.9, eerste en tweede lid Tw</extref> jo. <extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=1" compleet="nee">art. 1, sub 1&#xB0; WED</extref>) (niet-etherpiraten)</al>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Beschrijving</titel>
+          </kop>
+          <al>Dit basisdelict ziet op het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat, bestemd om andere frequentieruimte dan omroepfrequenties tussen de 88,0&#xA0;MHz en de 108,0&#xA0;MHz, tussen de 174&#xA0;MHz en de 230&#xA0;MHz en tussen de 1452&#xA0;MHz en de 1479.5&#xA0;MHz te gebruiken, zonder vergunning of registratie ex <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3" compleet="nee">art. 3.3, eerste lid</extref> jo. <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.4" compleet="nee">3.4 Tw</extref>. Het betreft hier bijvoorbeeld marifoons, mobilofoons of portofoons zonder dat de houder in het bezit is van een vergunning voor gebruik van frequentieruimte ex art. 3.3, eerste lid Tw, dan wel waarbij het (moedwillig) onjuist gebruik lijdt tot gevaarlijke situaties.</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Toepasselijk kader</titel>
+          </kop>
+          <al><extref status="actief" doc="1.0:v:BWBR0030950" compleet="nee">Aanwijzing kader voor strafvordering</extref></al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Basispunten</titel>
+          </kop>
+          <al>15 punten</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Basisfactoren</titel>
+          </kop>
+          <al>Geen</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Delictspecifieke factoren</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Medeplegen</titel>
+            </kop>
+            <al>Er is geen sprake van medeplegen +0%</al>
+            <al>Er is sprake van medeplegen +25%</al>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Wettelijke factoren</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Medeplichtigheid</titel>
+            </kop>
+            <al>Dader +0%</al>
+            <al>Medeplichtige &#x2013;33%</al>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Recidiveregeling</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Mate van recidive (5 jaar)</titel>
+            </kop>
+            <al>Geen recidive +0%</al>
+            <al>1 maal binnen 2 jaar + 50% en naast hogere sanctie</al>
+            <al>1 maal binnen 2&#x2013;5 jaar + 50%</al>
+            <al>Meermalen + 100% + naast hogere sanctie + dagvaarden</al>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Draagkracht</titel>
+          </kop>
+          <al>Geen</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Maatwerk</titel>
+          </kop>
+          <al>Geen</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Speciale regelingen</titel>
+          </kop>
+          <al>Geen</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Bijzonderheden</titel>
+          </kop>
+          <al>Bij afdoening middels een strafbeschikking dient, indien het beslag nog niet is afgedaan, de strafbeschikking tevens de aanwijzing &#x2018;afstand&#x2019; te bevatten.</al>
+          <al>In geval van dagvaarden dient altijd verbeurdverklaring gevorderd te worden.</al>
+        </divisie>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Basisdelict (3)</titel>
+        </kop>
+        <al>Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van radiozendapparaten waarvoor naar hun aard geen vergunning kan worden verleend.</al>
+        <al>(strafbaarstelling: <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.9" compleet="nee">art. 10.9, eerste lid</extref> jo. <extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=1" compleet="nee">art. 1, sub 1&#xB0; WED</extref> (jammers)</al>
+        <al><extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161" compleet="nee">art. 161sexies Sr</extref> (opzettelijk vernielen, beschadigen of storen van werk voor telecommunicatie)</al>
+        <al><extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=184" compleet="nee">art. 184 Sr</extref> (opzettelijk beletten, belemmeren of verijdelen van opsporingshandelingen))</al>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Beschrijving</titel>
+          </kop>
+          <al>Dit basisdelict ziet op het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van jammers waarvan het gebruik en de handel te allen tijde illegaal is. Jammers zijn blokkeerzenders die GSM, UMTS of GPS signalen opzettelijk storen. Het is niet mogelijk een vergunning voor gebruik van frequentieruimte ex <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3" compleet="nee">art. 3.3, eerste lid Tw</extref> te verkrijgen voor dergelijke apparaten.</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Toepasselijk kader</titel>
+          </kop>
+          <al><extref status="actief" doc="1.0:v:BWBR0030950" compleet="nee">Aanwijzing kader voor strafvordering</extref></al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Basispunten</titel>
+          </kop>
+          <al>50 punten (naast beslag)</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Basisfactoren</titel>
+          </kop>
+          <al>Geen</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Delictspecifieke factoren</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Medeplegen</titel>
+            </kop>
+            <al>Er is geen sprake van medeplegen +0%</al>
+            <al>Er is sprake van medeplegen +25%</al>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Wettelijke factoren</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Medeplichtigheid</titel>
+            </kop>
+            <al>Dader +0%</al>
+            <al>Medeplichtige &#x2013;33%</al>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Recidiveregeling</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Mate van recidive (5 jaar)</titel>
+            </kop>
+            <al>Geen recidive +0%</al>
+            <al>1 maal binnen 2 jaar + 50% en naast hogere sanctie</al>
+            <al>1 maal binnen 2&#x2013;5 jaar + 50%</al>
+            <al>Meermalen + 100% + naast hogere sanctie + dagvaarden</al>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Draagkracht</titel>
+          </kop>
+          <al>Geen</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Maatwerk<noot id="n1e11773744" type="voet">
+                <noot.nr>1</noot.nr>
+                <noot.al>Wanneer er sprake is van het gebruik van (een) jammer(s) om het plegen van een misdrijf te vergemakkelijken of om de opsporing van een misdrijf te verhinderen of te belemmeren, dient te worden gedagvaard. Overleg met de officier is dan ge&#xEF;ndiceerd omdat zo'n geval maatwerk vereist. Het percentage strafverhoging is hier niet aangegeven, maar als uitgangspunt geldt dat dit gegeven tot strafverhoging dient te leiden.</noot.al>
+              </noot>
+            </titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Belemmeren opsporing</titel>
+            </kop>
+
+            <al>Gebruik van (een) jammer(s) om het plegen van een misdrijf te vergemakkelijken of om de opsporing van een misdrijf te verhinderen of te belemmeren <nadruk type="cur">(DV)</nadruk>
+            </al>
+            <al>
+              <nadruk type="cur">(DV) = dagvaarden</nadruk>
+            </al>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Speciale regelingen</titel>
+          </kop>
+          <al>Geen</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Bijzonderheden</titel>
+          </kop>
+          <al>Bij afdoening middels een strafbeschikking wordt in beginsel een geldboete opgelegd en dient, indien het beslag nog niet is afgedaan, de strafbeschikking tevens de aanwijzing &#x2018;afstand&#x2019; te bevatten.</al>
+          <al>In geval van dagvaarden dient onttrekking aan het verkeer gevorderd te worden en in beginsel een taakstraf ge&#xEB;ist te worden, of in het geval van een onderneming een geldboete.</al>
+          <al>Indien de omstandigheden van het delict daartoe aanleiding geven zal tevens gedacht kunnen worden aan toepassing van <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=140" compleet="nee">art. 140 Sr</extref> (deelneming aan een criminele organisatie); <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=74" compleet="nee">art. 74, lid 2, sub d Sr</extref> (ontnemingsschikking) en <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=36c" compleet="nee">art. 36c Sr</extref> (ontnemingsvordering).</al>
+        </divisie>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Basisdelict (4)</titel>
+        </kop>
+        <al>Het in de handel brengen van uitrusting die niet voldoet aan de eisen ex <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1" compleet="nee">artt. 10.1</extref> of <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.3" compleet="nee">10.3 Tw</extref> (strafbaarstelling: art. 10.1, eerste lid Tw jo. <extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=1" compleet="nee">art. 1, sub 1&#xB0; WED</extref>)</al>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Beschrijving</titel>
+          </kop>
+          <al>Dit basisdelict ziet op het in de handel brengen van uitrusting die niet voldoet aan de eisen ex <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1" compleet="nee">art. 10.1</extref> of <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.3" compleet="nee">10.3 Tw</extref>. Dit verbod is gericht tot fabrikanten en importeurs. Zij dienen zich ervan te vergewissen dat de apparaten voldoen aan de voorschriften.</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Toepasselijk kader</titel>
+          </kop>
+          <al>Aanwijzing kader voor strafvordering</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Basispunten</titel>
+          </kop>
+          <al>15 punten</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Basisfactoren</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Omvang van de handel</titel>
+            </kop>
+            <al>Particulieren + 0 pt</al>
+            <al>Bedrijven tot 10 werknemers + 25 pt</al>
+            <al>Bedrijven van 10 t/m 49 werknemers + 50 pt (DV)</al>
+            <al>Bedrijven van 50 of meer werknemers + 85 pt (DV)</al>
+            <al>DV = dagvaarden</al>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Delictspecifieke factoren</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Medeplegen</titel>
+            </kop>
+            <al>Er is geen sprake van medeplegen +0%</al>
+            <al>Er is sprake van medeplegen +25%</al>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Wettelijke factoren</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Medeplichtigheid</titel>
+            </kop>
+            <al>Dader +0%</al>
+            <al>Medeplichtige &#x2013;33%</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Poging</titel>
+            </kop>
+            <al>Voltooid delict +0%</al>
+            <al>Poging tot plegen &#x2013;33%</al>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Recidiveregeling</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Mate van recidive (5 jaar)</titel>
+            </kop>
+            <al>Geen recidive +0%</al>
+            <al>1 maal binnen 2 jaar + 50% en naast hogere sanctie</al>
+            <al>1 maal binnen 2&#x2013;5 jaar + 50%</al>
+            <al>Meermalen + 100% + naast hogere sanctie + dagvaarden</al>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Draagkracht</titel>
+          </kop>
+          <al>Geen</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Maatwerk</titel>
+          </kop>
+          <al>Geen</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Speciale regelingen</titel>
+          </kop>
+          <al>Geen</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Bijzonderheden</titel>
+          </kop>
+          <al>Bij afdoening middels een strafbeschikking wordt in beginsel een geldboete opgelegd en dient, indien het beslag nog niet is afgedaan, de strafbeschikking tevens de aanwijzing &#x2018;afstand&#x2019; te bevatten.</al>
+          <al>In geval van dagvaarden dient onttrekking aan het verkeer gevorderd te worden en in beginsel een geldboete ge&#xEB;ist te worden.</al>
+          <al>Indien de omstandigheden van het delict daartoe aanleiding geven zal tevens gedacht kunnen worden aan toepassing van <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=140" compleet="nee">art. 140 Sr</extref> (deelneming aan een criminele organisatie); <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=74" compleet="nee">art. 74, lid 2, sub d Sr</extref> (ontnemingsschikking) en <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=36c" compleet="nee">art. 36c Sr</extref> (ontnemingsvordering).</al>
+        </divisie>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Basisdelict (5)</titel>
+        </kop>
+        <al>Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat dat op een verkeerde frequentie werkt en/of een onjuist vermogen heeft, en/of anderszins niet voldoet aan de eisen uit de <extref status="actief" doc="1.0:v:BWBR0023553" compleet="nee">Regeling gebruik van frequentieruimte zonder vergunning 2008</extref> (strafbaarstelling: <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.9" compleet="nee">art. 10.9, eerste lid Tw</extref> jo. <extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=1" compleet="nee">art. 1, sub 1&#xB0; WED</extref>)</al>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Beschrijving</titel>
+          </kop>
+          <al>Dit basisdelict ziet op het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat dat op een verkeerde frequentie werkt en/of een onjuist vermogen heeft en/of anderszins niet voldoet aan de eisen uit de <extref status="actief" doc="1.0:v:BWBR0023553" compleet="nee">Regeling gebruik van frequentieruimte zonder vergunning 2008</extref>. Het betreft hier apparaten waarvoor &#x2013; als ze voldoen aan de eisen uit de bovengenoemde Regeling &#x2013; geen vergunning voor frequentieruimte is vereist, bijvoorbeeld mobiele telefoons, modems, draadloze microfoons, babyfoons, apparaten met modelbesturing, 27&#xA0;MHz-apparatuur en afstandsbedieningen.</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Toepasselijk kader</titel>
+          </kop>
+          <al><extref status="actief" doc="1.0:v:BWBR0030950" compleet="nee">Aanwijzing kader voor strafvordering</extref></al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Basispunten</titel>
+          </kop>
+          <al>15 punten (naast beslag)</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Basisfactoren</titel>
+          </kop>
+          <al>Geen</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Delictspecifieke factoren</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Medeplegen</titel>
+            </kop>
+            <al>Er is geen sprake van medeplegen +0%</al>
+            <al>Er is sprake van medeplegen +25%</al>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Wettelijke factoren</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Medeplichtigheid</titel>
+            </kop>
+            <al>Dader +0%</al>
+            <al>Medeplichtige &#x2013;33%</al>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Recidiveregeling</titel>
+          </kop>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Mate van recidive (5 jaar)</titel>
+            </kop>
+            <al>Geen recidive +0%</al>
+            <al>1 maal binnen 2 jaar + 50% en naast hogere sanctie</al>
+            <al>1 maal binnen 2&#x2013;5 jaar + 50%</al>
+            <al>Meermalen + 100% + naast hogere sanctie + dagvaarden</al>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Draagkracht</titel>
+          </kop>
+          <al>Geen</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Maatwerk</titel>
+          </kop>
+          <al>Geen</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Speciale regelingen</titel>
+          </kop>
+          <al>Geen</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Bijzonderheden</titel>
+          </kop>
+          <al>Bij afdoening middels een strafbeschikking dient, indien het beslag nog niet is afgedaan, de strafbeschikking tevens de aanwijzing &#x2018;afstand&#x2019; te bevatten.</al>
+          <al>In geval van dagvaarden dient bij radiozendapparaten die op een verkeerde frequentie werken altijd onttrekking aan het verkeer gevorderd te worden en bij radiozendapparaten die een onjuist vermogen hebben verbeurdverklaring.</al>
+        </divisie>
+      </divisie>
+    </bijlage>
+  </circulaire>
+</wetgeving>
+  	

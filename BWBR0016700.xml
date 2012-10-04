@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0016700" dtdversie="2.0" id="285449" soort="AMvB">
+  
+  <intitule>Besluit van 7 mei 2004, houdende regels met betrekking tot
+    interoperabiliteit van openbare elektronische communicatiediensten, toegang
+    tot de Europese telefoonnummeringsruimte en landsgrensoverschrijdende
+    toegang tot niet-geografische nummers  (Besluit interoperabiliteit)</intitule>
+  
+  <wet-besluit>
+    <aanhef>
+      <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses
+        van Oranje-Nassau, enz. enz. enz.</wij>
+      <considerans>
+        <considerans.al>Op de voordracht van Onze Minister van Economische Zaken
+          van 10 juli 2003, nr. WJZ 3025200;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op artikel 5 van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr.
+          2002/19/EG</extref> van het Europees Parlement en de Raad van de Europese Unie
+          van 7 maart 2002 inzake de toegang tot en interconnectie van
+          elektronische communicatienetwerken en bijbehorende faciliteiten (PbEG
+          L108) en de artikelen 27 en 28 van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/22/EG</extref> van het
+          Europees Parlement en de Raad van de Europese Unie van 7 maart 2002
+          inzake de universele dienst en gebruikersrechten met betrekking tot
+          elektronische-communicatienetwerken en -diensten (PbEG L108), alsmede
+          de <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.3" compleet="nee">artikelen 6.3, eerste
+            lid</extref>, <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.5" compleet="nee">6.5</extref> en <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.2" compleet="nee">18.2 van de Telecommunicatiewet</extref>;</considerans.al>
+        <considerans.al bevat="gehoord">De Raad van State gehoord (advies van 25
+          september 2003, nr. W 10.03.0307/II);</considerans.al>
+        <considerans.al bevat="gezien">Gezien het nader rapport van Onze
+          Minister van Economische Zaken van 3 mei 2004, nr. WJZ 4028513;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Hebben goedgevonden en verstaan:</al>
+      </afkondiging>
+    </aanhef>
+    <wettekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+        </kop>
+        <al>In dit besluit wordt verstaan onder:</al>
+        <lijst level="single" nr-sluiting="" start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>wet: <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Telecommunicatiewet</extref>;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>NEN-EN 301160: norm inzake het routeren van oproepen naar de
+              Europese telefoonnummeringsruimte, uitgegeven door het Nederlands Normalisatie-Instituut;</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>niet-geografisch nummer: nummer uit een door Onze Minister
+              krachtens <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.1" compleet="nee">artikel 4.1, eerste lid, van de wet</extref> vastgesteld
+              nummerplan of uit een nationaal nummerplan van een andere lidstaat
+              van de Europese Unie, anders dan een nummer waarvan een deel van
+              de cijferstructuur een geografische betekenis heeft en dat
+              krachtens zijn bestemming gebruikt mag worden voor het routeren
+              van gesprekken naar de fysieke locatie van het netwerkaansluitpunt;</al>
+          </li>
+        <li>
+                           <li.nr>d.</li.nr>
+                           <al>geografisch nummer: nummer uit een door Onze Minister krachtens <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.1" compleet="nee">artikel 4.1, eerste lid, van de wet</extref> vastgesteld nummerplan of uit een nationaal nummerplan van een andere lidstaat van de Europese Unie waarvan een deel van de cijferstructuur een geografische betekenis heeft en dat krachtens zijn bestemming gebruikt mag worden voor het routeren van gesprekken naar de fysieke locatie van het netwerkaansluitpunt;</al>
+                        </li>
+                        <li>
+                           <li.nr>e.</li.nr>
+                           <al>Universal International Freephone Numbers: een door de ITU geregistreerd uniek nummer dat wereldwijd bestemd is om gratis gebeld te worden.</al>
+                        </li></lijst>
+      </artikel>
+      <artikel status="goed">                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">2</nr>
+                     </kop>
+                     <al>Een aanbieder van openbare telefoondiensten of een daarbij betrokken aanbieder van openbare elektronische communicatienetwerken die daarbij de toegang tot eindgebruikers controleert, neemt de nodige maatregelen voor het tot stand brengen en waarborgen van eind- tot eindverbindingen in Nederland.</al>
+                  </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+        </kop>
+        <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Een aanbieder van openbare telefoondiensten of een daarbij betrokken aanbieder van openbare elektronische communicatienetwerken die daarbij de toegang tot eindgebruikers controleert, behandelt oproepen van zijn eindgebruikers naar eindgebruikers die binnen de Europese Unie gebruik maken van:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>nummers die behoren tot de Europese telefoonnummeringsruimte, en</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>Universal International Freephone Numbers,</al>
+                           </li>
+                        </lijst>
+                        <al>op zodanige wijze dat de oproepen die eindgebruikers bereiken.</al>
+                     </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Het college maakt jaarlijks op genoegzame wijze bekend welke hem
+            bekende openbare telefoonnetwerken binnen de Europese Unie een
+            serving netwerk betreffen als bedoeld in NEN-EN 301160.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Een aanbieder van openbare telefoondiensten of een daarbij betrokken aanbieder van openbare elektronische communicatienetwerken die daarbij de toegang tot eindgebruikers controleert, neemt alle maatregelen die ertoe bijdragen dat:</al>
+          <lijst level="single" nr-sluiting="" start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>een zich in Nederland bevindende abonnee die gebruik maakt van
+                een door het college toegekend nummer op dat
+                nummer kan worden opgeroepen door zich in andere lidstaten van
+                de Europese Unie bevindende eindgebruikers, en</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>een zich in een andere lidstaat van de Europese Unie
+                bevindende abonnee die gebruik maakt van een nummer, toegekend door een nationale regelgevende instantie, op
+                dat nummer kan worden opgeroepen door zich in Nederland
+                bevindende eindgebruikers.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Het eerste lid, onderdeel a, is van overeenkomstige toepassing op
+            aanbieders van andere openbare elektronische communicatiediensten
+            dan de openbare telefoondienst die abonnees die gebruik maken van
+            een door het college toegekend niet-geografisch nummer de
+            mogelijkheid bieden om binnenkomende oproepen te ontvangen en
+            aanbieders van openbare elektronische communicatienetwerken wier
+            medewerking noodzakelijk is om die dienst aan te bieden.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>De verplichting, bedoeld in het eerste en tweede lid, geldt niet:</al>
+          <lijst level="single" nr-sluiting="" start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>voor zover het voor de desbetreffende aanbieder technisch niet
+                uitvoerbaar dan wel economisch niet haalbaar is de maatregelen
+                te nemen;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>voor oproepen afkomstig uit specifieke gedeelten van het
+                grondgebied van de Europese Unie waarvan de op te roepen abonnee
+                heeft aangegeven dat hij deze om commerci&#xEB;le redenen niet wenst
+                te ontvangen.</al>
+            </li>
+          </lijst>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr>5</nr>
+        </kop>
+        <al>Dit besluit treedt in werking met ingang van het tijdstip waarop de
+          <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet implementatie Europees regelgevingskader voor de elektronische
+          communicatiesector 2002</extref> in werking treedt.</al>
+      </artikel>
+      <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">5a</nr>
+                     </kop>
+                     <al>Een aanbieder van openbare telefoondiensten waarmee internationale oproepen mogelijk zijn hanteert voor oproepen van zijn eindgebruikers naar en van eindgebruikers die gebruik maken van nummers die behoren tot de Europese telefoonnummeringsruimte tarieven die vergelijkbaar zijn met de tarieven voor oproepen van en naar andere lidstaten van de Europese Unie.</al>
+                  </artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr>6</nr>
+        </kop>
+        <al>Dit besluit wordt aangehaald als: Besluit interoperabiliteit.</al>
+      </artikel>
+    </wettekst>
+    <wetsluiting status="goed">
+      <slotformulering>
+        <al>Lasten en bevelen dat dit besluit met de daarbij behorende nota van
+          toelichting in het Staatsblad zal worden geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats> 's-Gravenhage</plaats>
+          <datum isodatum="7 mei 2004">7 mei 2004</datum>
+        </dagtekening>
+        <koning>Beatrix</koning>
+      </gegeven>
+      <ondertekening>
+        <functie>De
+          Minister
+           van
+          Economische Zaken
+          ,</functie>
+        <naam>
+          <voornaam>L. J.</voornaam>
+          <achternaam>Brinkhorst</achternaam>
+        </naam>
+      </ondertekening>
+      <uitgifte>
+        <datum isodatum="2004-05-18">de <nadruk type="cur">achttiende</nadruk>
+          mei 2004</datum>
+        <ondertekening>
+          <functie>De
+            Minister
+             van
+            Justitie
+            ,</functie>
+          <naam>
+            <voornaam>J. P. H.</voornaam>
+            <achternaam>Donner</achternaam>
+          </naam>
+        </ondertekening>
+      </uitgifte>
+    </wetsluiting>
+  </wet-besluit>
+</wetgeving>
+  	

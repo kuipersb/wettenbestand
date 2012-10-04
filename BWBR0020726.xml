@@ -1,0 +1,1448 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0020726" dtdversie="2.0" id="365829" soort="zbo">
+  
+  <intitule>Regeling van De Nederlandsche Bank N.V. van 11&#xA0;december 2006, nr. Juza/2006/02444/CLR, houdende regels inzake de vereiste solvabiliteit ter dekking van het operationeel risico voor banken en beleggingsondernemingen (Regeling solvabiliteitseisen voor het operationeel risico)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Nederlandsche Bank N.V.,</wie>
+      <considerans>
+        <considerans.al>Na overleg met Euronext, de Nederlandse Vereniging van Banken en de Raad van de Effectenbranche;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op de <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=60" compleet="nee">artikelen 60, eerste lid, onderdeel d</extref>, <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=62a" compleet="nee">62a, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=62b" compleet="nee">62b, eerste, tweede en vierde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=62c" compleet="nee">62c</extref> en <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=78" compleet="nee">78, derde lid, van het Besluit prudenti&#xEB;le regels Wft</extref>;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op de artikelen 102, eerste en tweede lid, 103 en 104 van, alsmede bijlage X bij <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2006/48/EG</extref> van het Europees Parlement en de Raad van de Europese Unie van 14&#xA0;juni 2006 betreffende de toegang tot en de uitoefening van de werkzaamheden van kredietinstellingen (herschikking) (PbEG L 177);</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op de artikelen 20, vierde lid, en 43 van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2006/49/EG</extref> van het Europees Parlement en de Raad van de Europese Unie inzake de kapitaaltoereikendheid van beleggingsondernemingen en kredietinstellingen (herschikking) (PbEG L 177);</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Algemene bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1:1</nr>
+          </kop>
+          <al>In deze regeling wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al><nadruk type="cur">erkend kredietbeoordelingsbureau</nadruk>: een kredietbeoordelingsbureau als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=1" compleet="nee">artikel 1 van het Besluit</extref>, dat ingevolge <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=88" compleet="nee">artikel 88 van het Besluit</extref> is erkend;</al>
+            </li>
+            <li><li.nr>a0.</li.nr><al><nadruk type="cur">DNB:</nadruk> De Nederlandsche Bank
+N.V.;</al></li><li>
+              <li.nr>b.</li.nr>
+              <al><nadruk type="cur">basisindicatorbenadering:</nadruk> benadering, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=62b" compleet="nee">artikel 62b van het Besluit</extref>; </al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al><nadruk type="cur">Besluit:</nadruk> <extref status="actief" doc="1.0:v:BWBR0020420" compleet="nee">Besluit prudenti&#xEB;le regels Wft</extref>;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al><nadruk type="cur">financi&#xEB;le onderneming:</nadruk> bank of beleggingsonderneming;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al><nadruk type="cur">geavanceerde benadering:</nadruk> benadering, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=78" compleet="nee">artikel 78 van het Besluit</extref>; </al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al><nadruk type="cur">risicobeheersingsysteem:</nadruk> systeem voor de beheersing van het operationeel risico van een financi&#xEB;le onderneming;</al>
+            </li>
+            <li><li.nr>f1.</li.nr><al><nadruk type="cur">Rsk 2010:</nadruk> de <extref status="actief" doc="1.0:v:BWBR0020764" compleet="nee">Regeling solvabiliteitseisen
+kredietrisico en grote posities Wft
+2010</extref>;</al></li><li>
+              <li.nr>g.</li.nr>
+              <al><nadruk type="cur">standaardbenadering:</nadruk> benadering, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=62c" compleet="nee">artikel 62c van het Besluit</extref>;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al><nadruk type="cur">verliesverdeling:</nadruk> statistische kansverdeling van geleden verliezen;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al><nadruk type="cur">Wet:</nadruk> <extref status="actief" doc="1.0:v:BWBR0020368" compleet="nee">Wet op het financieel toezicht</extref>.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Basisindicatorbenadering</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">2.1</nr>
+            <titel status="officieel">Rekenmethode</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel </label>
+              <nr status="officieel">2:1</nr>
+            </kop>
+            <lid><lidnr status="officieel">1</lidnr><al>Indien
+een financi&#xEB;le onderneming de basisindicatorbenadering toepast, is
+de vereiste solvabiliteit ter dekking van het operationeel risico
+gelijk aan 15% van de overeenkomstig het tweede lid vastgestelde
+relevante
+indicator.</al></lid><lid><lidnr status="officieel">2</lidnr><al>In
+geval van toepassing van de basisindicatorbenadering wordt de relevante
+indicator van een financi&#xEB;le onderneming vastgesteld door van de
+laatste drie jaarlijkse waarnemingen van de som van de jaarlijkse netto
+rentebaten en de jaarlijkse netto niet-rentebaten het
+driejaarsgemiddelde te
+berekenen.</al></lid><lid><lidnr status="officieel">3</lidnr><al>In
+afwijking van het tweede lid wordt, indien voor een bepaalde waarneming
+de som van de netto rentebaten en de netto niet-rentebaten kleiner is
+dan nul of gelijk is aan nul, de relevante indicator vastgesteld door
+van de positieve waarnemingen de som te berekenen en deze uitkomst te
+delen door het aantal positieve waarnemingen over de laatste drie
+jaar.</al></lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">2.2</nr>
+            <titel status="officieel">Relevante indicator</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2:2</nr>
+            </kop>
+            <al>Voor
+de jaarlijkse waarnemingen van de som van de netto rentebaten en de
+netto niet-rentebaten, bedoeld in <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=2%3A1">artikel 2:1</intref>, worden de cijfers aan
+het eind van het boekjaar gebruikt, zoals ontleend aan de door de
+externe accountant gecertificeerde jaarrekening. Voor zover geen
+gecertificeerde jaarrekeningen beschikbaar zijn, kunnen voorlopige
+interne cijfers worden
+gebruikt.</al></artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2:3</nr>
+            </kop>
+            <lid><lidnr status="officieel">1</lidnr><al>De
+netto rentebaten, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=2%3A1">artikelen 2:1</intref> en <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=2%3A2">2:2</intref>, zijn het saldo
+van:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>ontvangen
+rentebaten en soortgelijk inkomen;
+en</al></li><li><li.nr>b.</li.nr><al>rente- en soortgelijke
+lasten.</al></li></lijst></lid><lid><lidnr status="officieel">2</lidnr><al>De
+netto niet-rentebaten, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=2%3A1">artikelen 2:1</intref> en <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=2%3A2">2:2</intref>, zijn de som
+van:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>de
+opbrengsten uit aandelen en andere
+waardepapieren;</al></li><li><li.nr>b.</li.nr><al>het saldo van
+ontvangen en betaalde provisies en
+vergoedingen;</al></li><li><li.nr>c.</li.nr><al>het resultaat uit
+financi&#xEB;le transacties; en</al></li><li><li.nr>d.</li.nr><al>de
+overige
+bedrijfsopbrengsten.</al></li></lijst></lid></artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2:4</nr>
+            </kop>
+            <lid><lidnr status="officieel">1</lidnr><al>De
+berekening, bedoeld in <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=2%3A1">artikel 2:1</intref>, vindt plaats v&#xF3;&#xF3;r aftrek
+van eventuele voorzieningen of bedrijfskosten. Onder bedrijfskosten
+worden mede begrepen de uitgaven voor de uitbesteding van werkzaamheden
+aan derden die geen moederonderneming, dochteronderneming of
+zusteronderneming van de financi&#xEB;le onderneming
+zijn.</al></lid><lid><lidnr status="officieel">2</lidnr><al>In de
+berekening, bedoeld in <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=2%3A1">artikel 2:1</intref>, worden ook de in de winst- en
+verliesrekening opgenomen herwaarderingen van de in de
+handelsportefeuille opgenomen posten
+betrokken.</al></lid><lid><lidnr status="officieel">3</lidnr><al>In de
+berekening, bedoeld in <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=2%3A1">artikel 2:1</intref>, worden niet
+betrokken:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>het
+gerealiseerde resultaat uit de verkoop van financi&#xEB;le instrumenten
+die niet tot de handelsportefeuille
+behoren;</al></li><li><li.nr>b.</li.nr><al>inkomsten uit buitengewone
+of incidentele posten; en</al></li><li><li.nr>c.</li.nr><al>inkomsten
+uit
+verzekeringspolissen.</al></li></lijst></lid></artikel>
+          
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Standaardbenadering</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">3.1</nr>
+            <titel status="officieel">Kwalificatiecriteria</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3:1</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Onverminderd de <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=23" compleet="nee">artikelen 23 tot en met 23e van het Besluit</extref>, kan een financi&#xEB;le onderneming uitsluitend gebruikmaken van de standaardbenadering indien  de financi&#xEB;le onderneming beschikt over een adequaat systeem voor de beoordeling en beheersing van het operationeel risico en over een adequaat systeem van managementverslaggeving.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Het beoordelings- en beheersingssysteem voor het operationeel risico, bedoeld in het vorige lid, is adequaat indien het aan de volgende voorwaarden voldoet:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>het bevat een vastlegging van eenduidig toegewezen verantwoordelijkheden;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>het meet en beoordeelt het actuele operationeel risico;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>het houdt relevante gegevens, zoals gegevens over materi&#xEB;le verliezen, bij</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>het wordt periodiek aan een onafhankelijk deskundig onderzoek onderworpen; en</al>
+                </li>
+                <li>
+                  <li.nr>e.</li.nr>
+                  <al>het is ge&#xEF;ntegreerd in de door de financi&#xEB;le onderneming toegepaste risicobeheersingsprocessen, zodat de uitkomsten ervan een integraal onderdeel vormen van het proces van bewaking en beheersing van risico&#x2019;s van de financi&#xEB;le onderneming.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Het systeem van managementverslaggeving, bedoeld in het eerste lid, is adequaat indien het aan de volgende voorwaarden voldoet:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>het voorziet in het uitbrengen van verslagen over het operationeel risico aan de relevante bedrijfsonderdelen binnen de financi&#xEB;le onderneming; en</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>het bevat procedures om passende maatregelen te treffen in reactie op de in de managementverslagen opgenomen informatie.</al>
+                </li>
+              </lijst>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">3.2</nr>
+            <titel status="officieel">Rekenmethode</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3:2</nr>
+            </kop>
+            <lid><lidnr status="officieel">1</lidnr><al>Wanneer
+een financi&#xEB;le onderneming de standaardbenadering toepast, wordt
+de vereiste solvabiliteit ter dekking van het operationeel risico
+berekend als het gemiddelde over drie jaar van de jaarlijkse totalen
+van de kapitaalvereisten van de acht in tabel 1 bij <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=3%3A4">artikel 3:4</intref>
+genoemde business
+lines.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Voor de
+berekening van de in het eerste lid genoemde kapitaalvereisten worden
+de relevante indicatoren voor iedere business line vermenigvuldigd met
+de bijbehorende percentages zoals genoemd in tabel 1 bij <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=3%3A4">artikel 3:4</intref>.
+Op de vaststelling van de relevante indicatoren voor iedere business
+line is <intref status="actief" doc="1.0:v:BWBR0020726&amp;paragraaf=3.3">paragraaf 3.3</intref> van
+toepassing.</al></lid><lid><lidnr status="officieel">3</lidnr><al>In
+ieder gegeven jaar mogen negatieve kapitaalvereisten in een business
+line (ten gevolge van negatieve uitkomsten van de relevante indicator)
+onbeperkt met positieve kapitaalvereisten in andere business lines
+worden
+gesaldeerd.</al></lid><lid><lidnr status="officieel">4</lidnr><al>Indien
+de geaccumuleerde kapitaalvereisten voor alle business lines in een
+gegeven jaar echter negatief zijn, wordt de bijdrage voor dat jaar aan
+de teller op nul
+vastgesteld.</al></lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">3.3</nr>
+            <titel status="officieel">Relevante indicatoren</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3:3</nr>
+            </kop>
+            <lid><lidnr status="officieel">1</lidnr><al>Binnen
+de standaardbenadering worden de relevante indicatoren voor iedere
+business line vastgesteld door de som te berekenen van de aan deze
+business line toewijsbare jaarlijkse netto rentebaten en jaarlijkse
+netto
+niet-rentebaten.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De
+som van de jaarlijkse netto rentebaten en de jaarlijkse netto
+niet-rentebaten van alle business lines is overeenkomstig met de
+jaarlijkse netto rentebaten en de jaarlijkse netto niet-rentebaten van
+de financi&#xEB;le onderneming als
+geheel.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Op de
+vaststelling van de in het eerste lid genoemde relevante indicatoren is
+<intref status="actief" doc="1.0:v:BWBR0020726&amp;paragraaf=2.2">paragraaf 2.2.</intref> van overeenkomstige
+toepassing.</al></lid></artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3:4</nr>
+            </kop>
+            <al>Voor de toepassing van de standaardbenadering worden de in de onderstaande tabel 1 genoemde business lines en bijbehorende percentages onderscheiden.</al>
+            <table frame="topbot" tabstyle="stcrt2">
+              <title>Tabel 1. Business lines, activiteiten en bijbehorende percentages</title>
+              <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="stcrt2">
+                <colspec colname="col1" colnum="1" colwidth="40*"/>
+                <colspec colname="col2" colnum="2" colwidth="50*"/>
+                <colspec colname="col3" colnum="3" colwidth="13*"/>
+                <thead valign="bottom">
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>
+                        Business line
+                      </al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>
+                        Activiteiten
+                      </al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>
+                        Percentage
+                      </al>
+                    </entry>
+                  </row>
+                </thead>
+                <tbody valign="top">
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>1. Ondernemingsfinanciering</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Het overnemen van financi&#xEB;le instrumenten en/of plaatsing van financi&#xEB;le instrumenten met plaatsingsgarantie</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>18%</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Dienstverlening in verband met het overnemen van financi&#xEB;le instrumenten</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Beleggingsadvies</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Advisering aan ondernemingen inzake kapitaalstructuur, bedrijfsstrategie en daarmee samenhangende aangelegenheden, alsmede advisering en dienstverrichting op het gebied van fusies en overnames van ondernemingen</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Onderzoek en advies op beleggingsgebied en financi&#xEB;le analyse of andere vormen van algemene aanbevelingen in verband met transacties in financi&#xEB;le instrumenten</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>2. Handel en verkoop</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Het handelen voor eigen rekening</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>18%</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Het ontvangen en doorgeven van orders met betrekking tot &#xE9;&#xE9;n of meer financi&#xEB;le instrumenten</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Het uitvoeren van orders voor rekening van cli&#xEB;nten</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Het plaatsen van financi&#xEB;le instrumenten zonder plaatsingsgarantie</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Activiteiten in samenhang met multilaterale handelsfaciliteiten</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" colname="col1" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" colname="col2" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" colname="col3" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="2" rotate="0" valign="top">
+                      <al>3. Courtagediensten ten behoeve van particulieren en kleine partijen</al>
+                      <al>(Activiteiten met individuele natuurlijke personen of met kleine en middelgrote ondernemingen die voldoen aan de in de <extref status="actief" doc="1.0:v:BWBR0020764" compleet="nee">Rsk 2010</extref> genoemde criteria om in de categorie vorderingen op particulieren en kleine partijen te kunnen worden opgenomen.)</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Het ontvangen en doorgeven van orders met betrekking tot &#xE9;&#xE9;n of meer financi&#xEB;le instrumenten</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>12%</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" colname="col2" morerows="0" rotate="0" valign="top">
+                      <al>Het uitvoeren van orders voor rekening van cli&#xEB;nten</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" colname="col2" morerows="0" rotate="0" valign="top">
+                      <al>Het plaatsen van financi&#xEB;le instrumenten zonder plaatsingsgarantie</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>4. Zakelijke bankdiensten</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Inontvangstneming van deposito's of andere terugbetaalbare gelden</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>15%</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Verstrekken van leningen</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Leasing</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Verlenen van garanties en stellen van borgtochten</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="3" rotate="0" valign="top">
+                      <al>5. Bankdiensten ten behoeve van particulieren en kleine partijen</al>
+                      <al>(activiteiten met individuele natuurlijke personen of met kleine en middelgrote ondernemingen die voldoen aan de in de <extref status="actief" doc="1.0:v:BWBR0020764" compleet="nee">Rsk 2010</extref> genoemde criteria om in de categorie vorderingen op particulieren en kleine partijen te kunnen worden opgenomen. )</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Inontvangstneming van deposito's of andere terugbetaalbare gelden</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>12%</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" colname="col2" morerows="0" rotate="0" valign="top">
+                      <al>Verstrekken van leningen</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" colname="col2" morerows="0" rotate="0" valign="top">
+                      <al>Leasing</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" colname="col2" morerows="0" rotate="0" valign="top">
+                      <al>Verlenen van garanties en stellen van borgtochten</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>6. Betaling en afwikkeling</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Betalingsverkeer en -transacties</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>18%</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Clearing en settlement van effectentransacties</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>7. Bemiddelingsdiensten</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Fysiek en administratief bewaarbedrijf en beheer van financi&#xEB;le instrumenten voor rekening van cli&#xEB;nten, met inbegrip van bewaarneming alsmede daarmee samenhangende diensten zoals liquiditeiten- en/of zekerhedenbeheer en securities lending</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>15%</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" colname="col1" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" colname="col2" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" colname="col3" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>8. Vermogensbeheer</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Beheer van portefeuilles</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>12%</al>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Beheer van instellingen voor collectieve belegging in effecten</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                  <row>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                    <entry align="left" morerows="0" rotate="0" valign="top">
+                      <al>Andere vormen van vermogensbeheer</al>
+                    </entry>
+                    <entry align="left" morerows="0" rotate="0" valign="top"/>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3:5</nr>
+            </kop>
+            <al>In afwijking van het <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=3%3A4">vorige artikel</intref>, kunnen financi&#xEB;le ondernemingen waarvan de afzonderlijke indicator voor de business line &#x2018;Handel en verkoop&#x2019; ten minste de helft bedraagt van de totale som van de indicatoren van de acht business lines, tot 31&#xA0;december 2012 op de business line &#x2018;Handel en verkoop&#x2019; een percentage van 15 toepassen.</al>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">3.4</nr>
+            <titel status="officieel">Beginselen bij de toewijzing van activiteiten aan business lines</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3:6</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Een financi&#xEB;le onderneming ontwikkelt procedures, richtlijnen en criteria voor de toewijzing van activiteiten, legt deze schriftelijk vast, en past deze aan voorzover nieuwe of veranderende bedrijfsactiviteiten en risico&#x2019;s daartoe aanleiding geven.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De procedures, richtlijnen en criteria, bedoeld in het eerste lid, waarborgen in ieder geval dat de volgende maatregelen zijn getroffen:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>het management is verantwoordelijk voor de toewijzing en wordt gecontroleerd door het toezichthoudend orgaan van de financi&#xEB;le onderneming;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>het proces van de toewijzing wordt periodiek aan een onafhankelijke beoordeling onderworpen;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>alle activiteiten van de financi&#xEB;le onderneming worden op een onderling uitsluitende en volledige wijze in business lines ingedeeld; en</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>de toewijzing is, met het oog op de vaststelling van de vereiste solvabiliteit ter dekking van het operationeel risico, in overeenstemming met de categorie&#xEB;n die voor het krediet- en voor het marktrisico worden gebruikt.</al>
+                </li>
+              </lijst>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3:7</nr>
+            </kop>
+            <al>Voor de toepassing van het tweede lid, onderdeel c, van het <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=3%3A6">vorige artikel</intref>, wordt een activiteit die niet direct in het in tabel 1 vastgestelde raamwerk van business lines kan worden ingepast en een ondersteunende of nevenactiviteit bij &#xE9;&#xE9;n van de business lines vormt, achtereenvolgens ingedeeld bij:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de business line waarvan de activiteit een ondersteunende of nevenactiviteit vormt;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de business line waaraan de activiteit, gelet op de objectieve, onderscheidende criteria van de verschillende business lines, qua ondersteuning of nevenwerkzaamheden het nauwst gelieerd is; of</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de business line met het hoogste percentage.</al>
+              </li>
+            </lijst>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3:8</nr>
+            </kop>
+            <al> Bij de toewijzing, bedoeld in 
+                     <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=3%3A6">artikel 3:6, eerste lid</intref>, kunnen de kosten van activiteiten die in een bepaalde business line worden gegenereerd, worden doorberekend aan een andere business line indien deze kosten feitelijk ten behoeve van de activiteiten in die andere business line gemaakt worden. Voor deze doorberekening kunnen interne doorberekeningsmethoden worden gebruikt.</al>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">3.5</nr>
+            <titel status="officieel">Alternatieve indicatoren voor bepaalde business lines</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3:9</nr>
+            </kop>
+            <al>De alternatieve relevante indicator, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=62c" compleet="nee">artikel 62c, eerste lid, van het Besluit</extref>, is gelijk aan het driejaarsgemiddelde van het totale nominale bedrag van de verstrekte leningen en voorschotten. Voor de berekening van de vereiste solvabiliteit ter dekking van het operationeel risico wordt de alternatieve relevante indicator vermenigvuldigd met 0,035.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3:10</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Voor de berekening, bedoeld in de eerste volzin van het <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=3%3A9">vorige artikel</intref>, worden tot de business line &#x2018;Bankdiensten ten behoeve van particulieren en kleine en middelgrote ondernemingen&#x2019; gerekend de verstrekte leningen en voorschotten, die bestaan uit de totale opgenomen bedragen in de volgende kredietportefeuilles:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>particulieren,</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>kleine en middelgrote ondernemingen die worden behandeld als particulieren of kleine partijen, en</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>gekochte kortlopende vorderingen op particulieren of op kleine partijen.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Voor de berekening, bedoeld in de eerste volzin van het <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=3%3A9">vorige artikel</intref>, worden tot de business line &#x2018;Zakelijke bankdiensten&#x2019; gerekend, de verstrekte leningen en voorschotten die bestaan uit de totale opgenomen bedragen in de volgende kredietportefeuilles:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>ondernemingen;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>landen;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>financi&#xEB;le ondernemingen;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>gespecialiseerde kredietverlening;</al>
+                </li>
+                <li>
+                  <li.nr>e.</li.nr>
+                  <al>kleine en middelgrote ondernemingen die worden behandeld als ondernemingen; en</al>
+                </li>
+                <li>
+                  <li.nr>f.</li.nr>
+                  <al>gekochte kortlopende vorderingen op ondernemingen, daaronder begrepen de buiten de handelsportefeuille aangehouden effecten.</al>
+                </li>
+              </lijst>
+            </lid>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Geavanceerde benadering</titel>
+        </kop>
+        <afdeling status="goed">
+          <kop>
+            <label>Afdeling</label>
+            <nr status="officieel">4.1</nr>
+            <titel status="officieel">Kwalificatiecriteria</titel>
+          </kop>
+          <paragraaf>
+            <kop>
+              <label>&#xA7;</label>
+              <nr status="officieel">4.1.1</nr>
+              <titel status="officieel">Algemeen</titel>
+            </kop>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">4:1</nr>
+              </kop>
+              <al>De aanvraag, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=78" compleet="nee">artikel 78, eerste lid, van het Besluit</extref> wordt uitsluitend ingewilligd indien de betrokken financi&#xEB;le onderneming beschikt over een:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>risicobeheersingsysteem dat voldoet aan de in deze afdeling bedoelde kwalitatieve normen; en</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>risicomeetsysteem dat voldoet aan de in deze afdeling bedoelde kwalitatieve en kwantitatieve normen.</al>
+                </li>
+              </lijst>
+            </artikel>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">4:2</nr>
+              </kop>
+              <lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>Een financi&#xEB;le onderneming, die voor de berekening van de vereiste solvabiliteit ter dekking van het operationeel risico van de geavanceerde benadering gebruik maakt, waarborgt dat haar risicobeheersingsysteem en haar risicomeetsysteem en alle daarin gebruikte procedures, aannames en methodieken:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>deugdelijk zijn onderbouwd;</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>adequaat zijn gedocumenteerd;</al>
+                  </li>
+                  <li>
+                    <li.nr>c.</li.nr>
+                    <al>regelmatig worden ge&#xEB;valueerd en waar nodig worden herzien om actualiteit en toepasbaarheid te waarborgen; en</al>
+                  </li>
+                  <li>
+                    <li.nr>d.</li.nr>
+                    <al>periodiek aan een beoordeling door een interne of externe accountant worden onderworpen.</al>
+                  </li>
+                </lijst>
+              </lid>
+              <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>Tevens valideert de financi&#xEB;le onderneming periodiek de resultaten van de berekening van de vereiste solvabiliteit ter dekking van het operationeel risico en het daaraan ten grondslag liggende risicomeetsysteem en de risicobeheersingsprocessen met behulp van adequate kwantitatieve en kwalitatieve technieken.</al>
+              </lid>
+            </artikel>
+          </paragraaf>
+          <paragraaf>
+            <kop>
+              <label>&#xA7;</label>
+              <nr status="officieel">4.1.2</nr>
+              <titel status="officieel">Kwalitatieve normen</titel>
+            </kop>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">4:3</nr>
+              </kop>
+              <al>Het risicomeetsysteem:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>is verregaand ge&#xEF;ntegreerd in het dagelijkse risicobeheersingsproces van de financi&#xEB;le onderneming; en</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>werkt met transparante en toegankelijke datastromen en -processen.</al>
+                </li>
+              </lijst>
+            </artikel>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">4:4</nr>
+              </kop>
+              <al>Het interne rapportagestelsel van de financi&#xEB;le onderneming omvat minimaal:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de mate van blootstelling van de financi&#xEB;le onderneming aan operationele risico&#x2019;s;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de uit de in onderdeel a bedoelde operationele risico&#x2019;s voortvloeiende verliezen; en</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de eventuele corrigerende maatregelen die zijn getroffen naar aanleiding van de in onderdeel a bedoelde operationele risico&#x2019;s.</al>
+                </li>
+              </lijst>
+            </artikel>
+          </paragraaf>
+          <paragraaf>
+            <kop>
+              <label>&#xA7;</label>
+              <nr status="officieel">4.1.3</nr>
+              <titel status="officieel">Algemene kwalitatieve normen</titel>
+            </kop>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">4:5</nr>
+              </kop>
+              <lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>Onverminderd 
+                        <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=4%3A3">Artikel 4:3</intref> bevat het risicomeetsysteem in ieder geval de volgende componenten:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>interne operationele verliesgegevens als bedoeld in <intref status="actief" doc="1.0:v:BWBR0020726&amp;paragraaf=4.1.4">paragraaf 4.1.4</intref>;</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>externe operationele verliesgegevens als bedoeld in <intref status="actief" doc="1.0:v:BWBR0020726&amp;paragraaf=4.1.5">paragraaf 4.1.5</intref>;</al>
+                  </li>
+                  <li>
+                    <li.nr>c.</li.nr>
+                    <al>scenario-analyses als bedoeld in <intref status="actief" doc="1.0:v:BWBR0020726&amp;paragraaf=4.1.6">paragraaf 4.1.6</intref>; en</al>
+                  </li>
+                  <li>
+                    <li.nr>d.</li.nr>
+                    <al>factoren die het operationeel risicoprofiel van de bedrijfsomgeving en de interne controlesystemen weerspiegelen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0020726&amp;paragraaf=4.1.7">paragraaf 4.1.7</intref>.</al>
+                  </li>
+                </lijst>
+              </lid>
+              <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>Het risicomeetsysteem bevat een methode voor het gebruik en de weging van de in het eerste lid bedoelde componenten.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">3</lidnr>
+                <al>Het risicomeetsysteem bevat tevens de voornaamste risicobepalende factoren die van invloed zijn op de vorm van de staart van de verliesverdeling.</al>
+              </lid>
+            </artikel>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">4:6</nr>
+              </kop>
+              <al>Een financi&#xEB;le onderneming kan in haar schattingen van het operationeel risico rekening houden met correlaties tussen de uit haar operationeel risico voortvloeiende verliezen, doch uitsluitend indien zij kan aantonen dat de systemen waarmee zij de correlaties schat:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>deugdelijk zijn;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>op integere wijze zijn toegepast; en</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>rekening houden met de onzekerheid die inherent is aan het schatten van dergelijke correlaties, in het bijzonder in perioden van stress.</al>
+                </li>
+              </lijst>
+            </artikel>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">4:7</nr>
+              </kop>
+              <lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>De financi&#xEB;le onderneming houdt bij de berekening van de vereiste solvabiliteit ter dekking van het operationeel risico rekening met:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>potenti&#xEB;le extreme operationele verliezen;</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>een deugdelijkheidsnorm die overeenkomt met een minimum betrouwbaarheidsniveau van 99,9% over een periode van &#xE9;&#xE9;n jaar; en</al>
+                  </li>
+                  <li>
+                    <li.nr>c.</li.nr>
+                    <al>verwachte en onverwachte operationele verliezen.</al>
+                  </li>
+                </lijst>
+              </lid>
+              <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>Indien de financi&#xEB;le onderneming kan aantonen dat bepaalde verwachte verliezen in haar bedrijfsvoering reeds voldoende in aanmerking zijn genomen, kan zij, in afwijking van het eerste lid, onderdeel c, in de berekening van de vereiste solvabiliteit ter dekking van het operationeel risico deze verliezen buiten beschouwing laten.</al>
+              </lid>
+            </artikel>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">4:8</nr>
+              </kop>
+              <al>Het risicomeetsysteem is consistent en vermijdt in ieder geval dubbeltellingen met betrekking tot schattingen van kwalitatieve factoren en van risicoverminderende technieken.</al>
+            </artikel>
+          </paragraaf>
+          <paragraaf>
+            <kop>
+              <label>&#xA7;</label>
+              <nr status="officieel">4.1.4</nr>
+              <titel status="officieel">Interne operationele verliesgegevens</titel>
+            </kop>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">4:9</nr>
+              </kop>
+              <lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>Als onderdeel van haar risicomeetsysteem onderhoudt een financi&#xEB;le onderneming een volledige database, waarin gegevens betreffende interne operationele verliezen boven de door de financi&#xEB;le onderneming vastgestelde minimumdrempels worden vastgelegd.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>Aan de eis van volledigheid als bedoeld in het eerste lid is voldaan wanneer de database verliesgegevens bevat van alle materi&#xEB;le activiteiten en operationele risico&#x2019;s van alle bedrijfsonderdelen en vestigingen waarop het risicomeetsysteem van toepassing is.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">3</lidnr>
+                <al>Voor de toepassing van het eerste lid wordt over elk operationeel verlies in ieder geval de volgende informatie in de database vastgelegd:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>de hoogte van de operationele brutoverliezen;</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>de data van de gebeurtenissen waarvan deze operationele brutoverliezen het gevolg zijn;</al>
+                  </li>
+                  <li>
+                    <li.nr>c.</li.nr>
+                    <al>eventuele terugwinning van deze operationele brutoverliezen; en</al>
+                  </li>
+                  <li>
+                    <li.nr>d.</li.nr>
+                    <al>een beschrijving van de oorzaken of risicobepalende factoren die tot deze operationele verliezen hebben geleid respectievelijk daaraan hebben bijgedragen.</al>
+                  </li>
+                </lijst>
+              </lid>
+              <lid>
+                <lidnr status="officieel">4</lidnr>
+                <al>In afwijking van het tweede lid kan een financi&#xEB;le onderneming interne operationele verliezen buiten de database houden, indien zij kan onderbouwen dat deze noch zelfstandig noch in combinatie een aanzienlijke invloed op de totale risicoschattingen kunnen hebben.</al>
+              </lid>
+            </artikel>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">4:10</nr>
+              </kop>
+              <al>De financi&#xEB;le onderneming beschikt over specifieke criteria die waarborgen dat en aangeven hoe zij in de database, bedoeld in het <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=4%3A9">vorige artikel</intref>, gegevens vastlegt inzake interne operationele verliezen, die, onder meer, het gevolg zijn van:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>een gebeurtenis in een centrale of ondersteunende afdeling;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>een activiteit die zich uitstrekt over meer dan &#xE9;&#xE9;n business line; of</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>aan elkaar gerelateerde gebeurtenissen, die op verschillende tijdstippen plaatsvinden.</al>
+                </li>
+              </lijst>
+            </artikel>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">4:11</nr>
+              </kop>
+              <lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>Metingen van het operationeel risico zijn gebaseerd op relevante interne operationele verliezen over een periode van tenminste vijf jaar.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>In afwijking van het eerste lid kan een financi&#xEB;le onderneming vanaf het eerste jaar dat zij van de geavanceerde benadering gebruik maakt een periode voor relevante interne operationele verliezen van drie jaar hanteren, mits zij uiterlijk vanaf het derde jaar weer volledig aan het eerste lid voldoet.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">3</lidnr>
+                <al>De financi&#xEB;le onderneming beschikt over richtlijnen ter beoordeling of en om te bewerkstelligen dat interne operationele verliesgegevens aan de eis van relevantie, bedoeld in het eerste lid, voldoen. Deze richtlijnen geven in ieder geval aan:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>in welke gevallen en in welke mate interne operationele verliesgegevens worden gewogen of op andere wijze worden aangepast om als relevant te kunnen gelden;</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>in welke gevallen en in welke mate de in onderdeel a bedoelde aanpassingen op basis van objectieve gegevens dan wel naar eigen inzicht kunnen plaatsvinden; en</al>
+                  </li>
+                  <li>
+                    <li.nr>c.</li.nr>
+                    <al>wie bevoegd is om terzake besluiten te nemen.</al>
+                  </li>
+                </lijst>
+              </lid>
+            </artikel>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">4:12</nr>
+              </kop>
+              <lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>Naast de interne operationele verliezen, bedoeld in het <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=4%3A11">vorige artikel</intref>, neemt een financi&#xEB;le onderneming in de berekening van de vereiste solvabiliteit ter dekking van het operationeel risico interne operationele verliezen mee, die verband houden met:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>het kredietrisico, voor zover deze verliezen niet reeds in de berekening van de vereiste solvabiliteit ter dekking van het kredietrisico worden meegenomen; en</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>het marktrisico.</al>
+                  </li>
+                </lijst>
+              </lid>
+              <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>In de database voor het operationeel risico als bedoeld in 
+                        <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=4%3A9">Artikel 4:9</intref>, worden interne operationele verliezen die verband houden met het kredietrisico geregistreerd, ook indien deze verliezen al in de interne databases voor het kredietrisico of in de berekening van de vereiste solvabiliteit ter dekking van het kredietrisico zijn meegenomen. Deze verliezen worden zodanig aangeduid dat zij in de database identificeerbaar zijn.</al>
+              </lid>
+            </artikel>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">4:13</nr>
+              </kop>
+              <lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>Een financi&#xEB;le onderneming beschikt over eenduidige en objectieve criteria om haar interne operationele verliesgegevens als bedoeld in 
+                        <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=4%3A9">Artikel 4:9</intref> aan business lines als bedoeld in tabel 1 bij <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=3%3A4">artikel 3:4</intref> respectievelijk aan gebeurteniscategorie&#xEB;n als bedoeld in tabel 2 bij het tweede lid van dit artikel toe te wijzen. Zij is in staat om de toegewezen gegevens op aanvraag aan DNB te verstrekken.</al>
+              </lid>
+              <lid><lidnr status="officieel">2</lidnr><al>Verliesgegevens
+die een negatief effect op de gehele financi&#xEB;le onderneming
+hebben, mogen in uitzonderlijke gevallen in een extra business line
+&#x2018;ondernemingsaangelegenheden&#x2019; worden
+ondergebracht.</al></lid><lid>
+                <lidnr status="officieel">3</lidnr>
+                <al>De in het eerste lid bedoelde tabel 2 luidt:</al>
+                <table frame="topbot" tabstyle="stcrt2">
+                  <title>Tabel 2. Indeling van verliesgebeurtenissen</title>
+                  <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="stcrt2">
+                    <colspec colname="col1" colnum="1" colwidth="43*"/>
+                    <colspec colname="col2" colnum="2" colwidth="60*"/>
+                    <thead valign="bottom">
+                      <row>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Categorie gebeurtenis</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Definitie</al>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody valign="top">
+                      <row>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Interne fraude</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Verliezen als gevolg van handelingen waarbij ten minste &#xE9;&#xE9;n interne partij betrokken is en waarmee wordt beoogd te frauderen, eigendommen te verduisteren of wet- of regelgeving of het ondernemingsbeleid te ontduiken of te omzeilen, met uitzondering van gebeurtenissen voortvloeiend uit ongelijkheid of discriminatie</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Externe fraude</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Verliezen als gevolg van door een derde partij gestelde handelingen met de bedoeling te frauderen, eigendommen te verduisteren of de wet te ontduiken</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Praktijken op het gebied van de werkomstandigheden en veiligheid op de werkplaats</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Verliezen als gevolg van handelingen die niet in overeenstemming zijn met wetgeving of overeenkomsten op het gebied van werkomstandigheden, gezondheid of veiligheid, als gevolg van de uitkering van schadevergoeding voor letsel, of als gevolg van gebeurtenissen in verband met ongelijkheid of discriminatie</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Cli&#xEB;nten, producten en ondernemingspraktijken</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Verliezen als gevolg van het onopzettelijk of uit onachtzaamheid niet nakomen van een professionele verplichting (met inbegrip van fiduciaire en geschiktheidseisen) jegens bepaalde cli&#xEB;nten, of als gevolg van de aard of het ontwerp van een product</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Schade aan fysieke activa</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Verliezen als gevolg van verlies van of schade aan fysieke activa door natuurrampen of andere gebeurtenissen</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Verstoring van bedrijfsactiviteiten en systeemfalen</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Verliezen als gevolg van een verstoring van bedrijfsactiviteiten of systeemfalen</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Uitvoering, levering en procesbeheer</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Verliezen als gevolg van falende transactieverwerking of procesbeheer of als gevolg van relaties met handelspartners en verkopers</al>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </table>
+              </lid>
+            </artikel>
+          </paragraaf>
+          <paragraaf>
+            <kop>
+              <label>&#xA7;</label>
+              <nr status="officieel">4.1.5</nr>
+              <titel status="officieel">Externe operationele gegevens</titel>
+            </kop>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">4:14</nr>
+              </kop>
+              <lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>De financi&#xEB;le onderneming gebruikt relevante externe operationele verliesgegevens in haar risicomeetsysteem. Externe operationele verliesgegevens zijn relevant als zij van toepassing zijn op de activiteiten van de financi&#xEB;le onderneming.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>De financi&#xEB;le onderneming beschikt over een richtlijn waarin is opgenomen in welke gevallen en volgens welke methodieken zij externe operationele verliesgegevens in haar risicomeetsysteem gebruikt.</al>
+              </lid>
+            </artikel>
+          </paragraaf>
+          <paragraaf>
+            <kop>
+              <label>&#xA7;</label>
+              <nr status="officieel">4.1.6</nr>
+              <titel status="officieel">Scenario-analyses</titel>
+            </kop>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">4:15</nr>
+              </kop>
+              <al>Een financi&#xEB;le onderneming maakt in haar risicomeetsysteem gebruik van scenario-analyses om te beoordelen in hoeverre zij blootstaat aan het risico van extreme operationele verliezen. De scenario-analyses zijn gebaseerd op het oordeel van deskundigen alsmede op externe operationele verliesgegevens.</al>
+            </artikel>
+          </paragraaf>
+          <paragraaf>
+            <kop>
+              <label>&#xA7;</label>
+              <nr status="officieel">4.1.7</nr>
+              <titel status="officieel">Bedrijfsomgeving en interne risicobeheersing</titel>
+            </kop>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">4:16</nr>
+              </kop>
+              <lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>Een financi&#xEB;le onderneming neemt in haar risicomeetsysteem relevante factoren, die de bedrijfsomgeving bepalen, evenals elementen van interne risicobeheersing, die haar operationeel risicoprofiel be&#xEF;nvloeden, op.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>De financi&#xEB;le onderneming onderbouwt de keuze voor relevante risicobepalende factoren en elementen, bedoeld in het eerste lid, aan de hand van ervaring met en expertopinies over haar bedrijfsomgeving en haar mate van risicobeheersing.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">3</lidnr>
+                <al>Het risicomeetsysteem houdt rekening met veranderingen in de factoren en elementen, bedoeld in het eerste lid, en hun relatieve onderlinge weging.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">4</lidnr>
+                <al>Voor de toepassing van de vorige leden, houdt de financi&#xEB;le onderneming in ieder geval rekening met de volgende veranderingen die invloed op het operationeel risicoprofiel van de financi&#xEB;le onderneming kunnen hebben:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>veranderingen in de risicobeheersing;</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>veranderingen van de complexiteit van activiteiten; en</al>
+                  </li>
+                  <li>
+                    <li.nr>c.</li.nr>
+                    <al>veranderingen van het businessvolume.</al>
+                  </li>
+                </lijst>
+              </lid>
+            </artikel>
+          </paragraaf>
+        </afdeling>
+        <afdeling status="goed">
+          <kop>
+            <label>Afdeling</label>
+            <nr status="officieel">4.2</nr>
+            <titel status="officieel">Het risicoverminderende effect van verzekering en van andere mechanismen van risico-overdracht</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">4:17</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Een financi&#xEB;le onderneming kan in haar risicomeetsysteem het risicoverminderende effect van verzekering in aanmerking nemen, mits daarbij aan de voorwaarden genoemd in de volgende artikelen van deze afdeling wordt voldaan.</al>
+            </lid>
+            <lid><lidnr status="officieel">2</lidnr><al>Onverminderd
+het bepaalde in het eerste lid kan een financi&#xEB;le onderneming in
+haar risico-meetsysteem ook het risicoverminderende effect van andere
+mechanismen van risico-overdracht in aanmerking nemen, mits de
+financi&#xEB;le onderneming aantoont dat met dit mechanisme een
+merkbaar risicobeperkend effect bereikt
+wordt.</al></lid><lid><lidnr status="officieel">3</lidnr><al>De
+vermindering van de vereiste solvabiliteit als gevolg van het in
+aanmerking nemen van verzekering en van andere mechanismen van
+risico-overdracht bedraagt tezamen ten hoogste 20% van de vereiste
+solvabiliteit ter dekking van het operationeel risico, alvorens met
+eventuele risicoverminderingstechnieken rekening wordt
+gehouden.</al></lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">4:18</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De verzekering, bedoeld in het eerste lid van het <intref status="actief" doc="1.0:v:BWBR0020726&amp;artikel=4%3A17">vorige artikel</intref>, wordt verstrekt door een verzekeraar die aan de volgende voorwaarden voldoet:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de verzekeraar beschikt over een vergunning voor het aanbieden van schadeverzekeringen of schadeherverzekeringen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020368&amp;afdeling=2.2.3" compleet="nee">afdeling 2.2.3</extref> of <extref status="actief" doc="1.0:v:BWBR0020368&amp;afdeling=2.3.3" compleet="nee">2.3.3 van de Wet</extref>;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de verzekeraar beschikt voor zijn capaciteit tot afwikkeling van schadegevallen over een minimale solvabiliteitsbeoordeling van een erkend kredietbeoordelingsbureau dat ingevolge <extref status="actief" doc="1.0:v:BWBR0020764&amp;bijlage=2A" compleet="nee">tabel A van bijlage 2A bij de Rsk 2010</extref>, in kredietkwaliteitstrap 3 of hoger is ingedeeld;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de verzekeraar is een van de financi&#xEB;le onderneming onafhankelijke derde partij.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Ingeval van verzekering door captives of gelieerde ondernemingen draagt de financi&#xEB;le onderneming, voor de toepassing van het eerste lid, onderdeel c, haar operationeel risico over aan een ten opzichte van die captive of gelieerde onderneming onafhankelijke derde die aan de toelatingscriteria, bedoeld in het eerste lid, voldoet.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">4:19</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De verzekeringspolis voldoet aan de volgende voorwaarden:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de polis heeft een looptijd van oorspronkelijk ten minste &#xE9;&#xE9;n jaar;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de polis kent een opzegtermijn van minimaal 90 dagen; en</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de polis bevat geen uitsluitings- of beperkingsclausules die naar aanleiding van toezichtmaatregelen in werking treden of die, in het geval van een faillissement of een surseance van betaling van de financi&#xEB;le onderneming, de financi&#xEB;le onderneming, de bewindvoerder of de curator beletten de door de financi&#xEB;le onderneming geleden schade of gemaakte kosten terug te vorderen.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Het eerste lid, onderdeel c, is niet van toepassing op uitsluitings- of beperkingsclausules die &#x2013; ingeval van een faillissement of een surseance van betaling van de financi&#xEB;le onderneming &#x2013; betrekking hebben op gebeurtenissen die n&#xE1; de faillietverklaring, bedoeld in <extref status="actief" doc="1.0:v:BWBR0001860&amp;artikel=1" compleet="nee">artikel 1 van de Faillissementswet</extref> respectievelijk n&#xE1; de surseanceverlening, bedoeld in <extref status="actief" doc="1.0:v:BWBR0001860&amp;artikel=214" compleet="nee">artikel 214 van de Faillissmentswet</extref>, hebben plaatsgevonden.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Het eerste lid, onderdeel c, is evenmin van toepassing op uitsluitings- of beperkingsclausules op grond waarvan niet wordt uitgekeerd ter voldoening van boetes, sancties of andere door DNB getroffen punitieve maatregelen.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">4:20</nr>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>De verzekeringsdekking, die meegenomen is in de vaststelling van de vereiste solvabiliteit ter dekking van het operationeel risico, is duidelijk gerelateerd aan en staat in de juiste verhouding tot de inschatting van de waarschijnlijkheid en de omvang van operationele verliezen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De methodiek en de berekeningen inzake risicovermindering vanwege verzekeringsdekking houden, door middel van kortingen of reductiefactoren op het in aanmerking te nemen verzekeringsbedrag, rekening met de volgende elementen:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de resterende looptijd van een polis, indien deze minder bedraagt dan &#xE9;&#xE9;n jaar;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de voorwaarden voor be&#xEB;indiging van een polis, indien de opzegtermijn van de polis minder dan &#xE9;&#xE9;n jaar bedraagt;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de onzekerheid over uitbetaling van de verzekering; en</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>verschillen tussen de daadwerkelijke dekking volgens de verzekeringspolis en de door de financi&#xEB;le onderneming beoogde dekking.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Indien de resterende looptijd van de polis als bedoeld in onderdeel a van het vorige lid 90 dagen of minder bedraagt, bedraagt de reductiefactor, voor zover in afwijking van de overige onderdelen van het tweede lid, 100%.</al>
+            </lid>
+          </artikel>
+        </afdeling>
+        <afdeling status="goed">
+          <kop>
+            <label>Afdeling</label>
+            <nr status="officieel">4.3</nr>
+            <titel status="officieel">Gebruik van een geavanceerde benadering op groepsniveau</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">4:21</nr>
+            </kop>
+            <al>De aanvraag om gebruik te mogen maken van een geavanceerde benadering op groepsniveau bevat in ieder geval:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>een beschrijving van de methodiek die wordt toegepast om de vereiste solvabiliteit ter dekking van het operationeel risico aan de verschillende entiteiten van de groep toe te rekenen; en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>een beschrijving van de wijze waarop diversificatie-effecten in het risicomeetsysteem zullen worden verwerkt.</al>
+              </li>
+            </lijst>
+          </artikel>
+        </afdeling>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5:1</nr>
+          </kop>
+          <al>Deze regeling treedt in werking met ingang van 1&#xA0;januari 2007.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5:2</nr>
+          </kop>
+          <al>Deze
+regeling wordt aangehaald als: Regeling solvabiliteitseisen
+operationeel risico Wft
+2010.</al>
+        </artikel>
+      </hoofdstuk>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Amsterdam</plaats>
+          <datum isodatum="2006-12-11">11 december 2006</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>De <functie>directeur</functie>,
+        <naam>
+          <voornaam>A.</voornaam>
+          <achternaam>Schilder</achternaam>
+        </naam>
+      </ondertekening>
+      <ondertekening>De <functie>directeur</functie>,
+        <naam>
+          <voornaam>D.E.</voornaam>
+          <achternaam>Witteveen</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

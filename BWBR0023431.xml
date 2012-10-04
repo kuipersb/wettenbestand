@@ -1,0 +1,387 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0023431" dtdversie="2.0" id="392789" soort="AMvB">
+  
+  <intitule>Besluit
+van 18 januari 2008, houdende regels ter uitvoering van verordening
+(EG) nr. 166/2006 van het Europees Parlement en de Raad van de Europese
+Unie van 18 januari 2006 betreffende de instelling van een Europees
+register inzake de uitstoot en overbrenging van verontreinigende
+stoffen en tot wijziging van de Richtlijnen 91/689/EEG en 96/61/EG van
+de Raad (PbEU L 33) en van het op 21 mei 2003 te Kiev tot stand gekomen
+Protocol betreffende registers inzake de uitstoot en overbrenging van
+verontreinigende stoffen, met Bijlagen (Trb. 2003, 153; Trb. 2007, 95)
+
+				(Uitvoeringsbesluit EG-verordening PRTR en
+PRTR-protocol)</intitule>
+  
+  <wet-besluit>
+    <aanhef>
+      <wij>Wij Beatrix, bij
+de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau,
+enz. enz. enz.</wij>
+      <considerans>
+        <considerans.al>Op de voordracht van
+Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en
+Milieubeheer van 13 november 2007, nr. DJZ2007111188, Directie
+Juridische Zaken, Afdeling Wetgeving, gedaan in overeenstemming met
+Onze Minister van Landbouw, Natuur en Voedselkwaliteit en de
+Staatssecretaris van Verkeer en Waterstaat;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op
+<extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening (EG) nr. 166/2006</extref> van het
+Europees Parlement en de Raad van de Europese Unie van 18 januari 2006
+betreffende de instelling van een Europees register inzake de uitstoot
+en overbrenging van verontreinigende stoffen en tot wijziging van de
+<extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijnen 91/689/EEG</extref> en <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">96/61/EG</extref> van de Raad (PbEU L 33) en
+de <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=12.4" compleet="nee">artikelen 12.4, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=12.5" compleet="nee">12.5,
+eerste lid</extref>, <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=12.10" compleet="nee">12.10, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=12.29" compleet="nee">12.29</extref> en <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=18.3" compleet="nee">18.3, eerste lid, van de Wet
+milieubeheer</extref>;</considerans.al>
+        <considerans.al bevat="gehoord">De Raad van State gehoord (advies van
+20 december 2007, nr. W08.07.0422/IV);</considerans.al>
+        <considerans.al bevat="gezien">Gezien het nader rapport van Onze
+Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van
+14 januari 2008, nr. DJZ2008003740, Directie Juridische Zaken, Afdeling
+Wetgeving, uitgebracht in overeenstemming met Onze Minister van
+Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Verkeer
+en Waterstaat;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Hebben
+goedgevonden en
+verstaan:</al>
+      </afkondiging>
+    </aanhef>
+    <wettekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+        </kop>
+        <al>In dit
+besluit en de daarop berustende bepalingen wordt verstaan
+onder:</al>
+        <al>
+          <nadruk type="cur">meet- en
+registratiesysteem:</nadruk> de voor de gegevensinzameling gebruikte
+methodiek, bedoeld in artikel 5, vijfde lid, van de EG-verordening
+PRTR;</al>
+        <al>
+          <nadruk type="cur">wet</nadruk>: <extref status="actief" doc="1.0:v:BWBR0003245" compleet="nee">Wet
+milieubeheer</extref>.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>Degene die een inrichting drijft, waarop
+ingevolge <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=12.19" compleet="nee">artikel 12.19 van de wet</extref> <extref status="actief" doc="1.0:v:BWBR0003245&amp;titeldeel=12.3" compleet="nee">titel 12.3 van de wet</extref> van toepassing
+is, beschikt over een meet- en registratiesysteem.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>Het meet- en registratiesysteem wordt zodanig
+ingericht dat
+hiermee:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>volledige, consistente en geloofwaardige gegevens
+als bedoeld in artikel 9, tweede lid, van de EG-verordening PRTR kunnen
+worden gegenereerd,</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>kan worden
+voldaan aan de in artikel 5, derde lid, van de EG-verordening
+PRTR opgenomen eisen en</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>voor zover
+degene die de inrichting drijft, met betrekking tot een verslagjaar
+ingevolge artikel 5, eerste lid, van de EG-verordening PRTR of <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=12.20a" compleet="nee">artikel 12.20a, eerste lid, van de wet</extref>
+rapportageplichtig is: kan worden voldaan aan de in artikel 5, eerste,
+tweede en vierde lid, van die verordening opgenomen
+eisen en, voorzover
+<extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=12.20a" compleet="nee">artikel 12.20a, eerste lid, van de wet</extref> van toepassing is, aan de in
+artikel 5, tweede en vierde lid, van de EG-verordening PRTR en de bij
+en krachtens <intref status="actief" doc="1.0:v:BWBR0023431&amp;artikel=2a">artikel 2a, eerste tot en met derde lid</intref>, gestelde
+eisen.</al>
+            </li>
+          </lijst>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Artikel 5,
+vijfde lid, van de EG-verordening PRTR is van toepassing op degenen die
+een inrichting drijven, waarop ingevolge <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=12.19" compleet="nee">artikel 12.19 van de wet</extref> <extref status="actief" doc="1.0:v:BWBR0003245&amp;titeldeel=12.3" compleet="nee">titel
+12.3 van de wet</extref> van toepassing is, ongeacht of de betrokken persoon
+ingevolge artikel 5, eerste lid, van die verordening of <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=12.20a" compleet="nee">artikel 12.20a, eerste lid, van de
+wet</extref> rapportageplichtig
+is.</al>
+        </lid>
+      <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Bij
+ministeri&#xEB;le regeling kunnen nadere eisen worden gesteld met
+betrekking tot de inrichting&#xA0;van het&#xA0;meet- en
+registratiesysteem.</al>
+                     </lid></artikel>
+      <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">2a</nr>
+                     </kop>
+                     <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Bij
+ministeri&#xEB;le regeling kunnen gegevens als bedoeld in <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=12.20a" compleet="nee">artikel
+12.20a, eerste lid, van de wet</extref> worden aangewezen, die eveneens in het
+PRTR-verslag moeten worden opgenomen. Bij die regeling kunnen
+drempelwaarden worden vastgesteld bij overschrijding waarvan de
+rapportageplicht intreedt. Als gegevens als bedoeld in de eerste volzin
+kunnen onder meer worden
+aangewezen:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>gegevens
+over emissies van niet in bijlage II bij de EG-verordening PRTR
+genoemde verontreinigende
+stoffen;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>gegevens
+over emissies van in bijlage II bij de EG-verordening PRTR genoemde
+verontreinigende stoffen, die onder de in die bijlage vermelde
+drempelwaarden liggen.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Bij de
+rapportage van de gegevens, bedoeld in het eerste lid, wordt vermeld of
+het gaat om informatie gebaseerd op metingen, berekeningen of
+ramingen.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Op de
+gegevens, bedoeld in het eerste lid, is artikel 5, eerste lid, derde
+alinea, van de EG-verordening PRTR van overeenkomstige toepassing. Voor
+zover deze gegevens betrekking hebben op emissies, is ook artikel 5,
+eerste lid, vierde alinea, van de EG-verordening PRTR van
+overeenkomstige toepassing.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>De
+gegevens, bedoeld in het eerste lid, worden voorzien van een
+toelichting, indien dit voor een goed begrip van die gegevens
+noodzakelijk is.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">5</lidnr>
+                        <al>Het
+bestuursorgaan dat bevoegd is een omgevingsvergunning voor de betrokken inrichting te verlenen, kan, voor zover dat
+noodzakelijk is voor de kwaliteitsbeoordeling van een PRTR-verslag,
+bedoeld in artikel 9, tweede lid, van de EG-verordening PRTR, aan de
+vergunning een voorschrift verbinden, dat de verplichting inhoudt om
+met betrekking tot emissies in het PRTR-verslag gegevens van een lager
+aggregatieniveau te verstrekken dan ingevolge het krachtens <intref status="actief" doc="1.0:v:BWBR0023431&amp;artikel=5">artikel 5</intref>
+vastgestelde model is vereist. Bij ministeri&#xEB;le regeling kunnen
+ter zake nadere regels worden gesteld.</al>
+                     </lid>
+                  </artikel>
+                  <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">2b</nr>
+                     </kop>
+                     <al>Het
+bestuursorgaan dat bevoegd is een omgevingsvergunning voor de betrokken inrichting te verlenen, kan aan de vergunning
+een voorschrift verbinden, dat de verplichting inhoudt om gegevens
+inzake de onderwerpen geur of geluid in het PRTR-verslag op te nemen.
+Bij ministeri&#xEB;le regeling kunnen ter zake nadere regels worden
+gesteld.</al>
+                  </artikel><artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+        </kop>
+        <lid>
+          <lidnr status="officieel">1</lidnr>
+          <al>In een verzoek om geheimhouding als bedoeld
+in <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=12.24" compleet="nee">artikel 12.24, derde lid, van de wet</extref> wordt, voor zover dat verzoek
+de naam van een verontreinigende stof betreft, tevens de naam
+aangegeven van de groep verontreinigende stoffen waartoe de geheim te
+houden verontreinigende stof behoort.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">2</lidnr>
+          <al>In een mededeling als bedoeld in <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=12.24" compleet="nee">artikel 12.24,
+vierde lid, aanhef en onder a, van de wet</extref> wordt, voor zover die
+mededeling de naam van een verontreinigende stof betreft, tevens de
+naam aangegeven van de groep verontreinigende stoffen waartoe de
+geheimgehouden verontreinigende stof behoort.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">3</lidnr>
+          <al>Indien een op grond van <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=12.21" compleet="nee">artikel 12.21 van de wet</extref>
+bevoegde instantie een mededeling als bedoeld in het tweede lid heeft
+gedaan, wordt in het PRTR de naam van de betrokken groep
+verontreinigende stoffen aangegeven.</al>
+        </lid>
+        <lid>
+          <lidnr status="officieel">4</lidnr>
+          <al>De aanduiding van de naam van een groep
+verontreinigende stoffen, bedoeld in het eerste tot en met derde lid,
+geschiedt met inachtneming van daaromtrent bij ministeri&#xEB;le
+regeling te stellen regels.</al>
+        </lid>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+        </kop>
+        <al>De
+aanduiding van de grond waarop tot geheimhouding is besloten
+in:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>de mededeling, bedoeld in <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=12.24" compleet="nee">artikel 12.24, vierde
+lid, aanhef en onder b, van de wet</extref> en</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>de aanduiding, bedoeld in <extref status="actief" doc="1.0:v:BWBR0003245&amp;artikel=12.26" compleet="nee">artikel 12.26, derde
+lid, aanhef en onder b, van de
+wet</extref>,</al>
+          </li>
+        </lijst>
+        <al>bevat naast de toegepaste
+in <extref status="actief" doc="1.0:v:BWBR0005252&amp;artikel=10" compleet="nee">artikel 10 van de Wet openbaarheid van bestuur</extref> opgenomen
+uitzonderingsgrond, tevens een samenvatting van de motivering van het
+besluit waarbij tot geheimhouding is
+besloten.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+        </kop>
+        <al>Bij
+ministeri&#xEB;le regeling wordt een model
+vastgesteld voor het
+opstellen van een PRTR-verslag.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+        </kop>
+        <al><redactie type="vervanging">Wijzigt het Besluit identificatie en registratie van dieren.</redactie></al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+        </kop>
+        <al><redactie type="vervanging">Wijzigt het Besluit kwaliteitseisen
+handhaving milieubeheer.</redactie></al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">8</nr>
+        </kop><al><redactie type="vervanging">Wijzigt het Besluit milieuverslaglegging.</redactie></al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">9</nr>
+        </kop><al><redactie type="vervanging">Wijzigt het Uitvoeringsbesluit
+Meststoffenwet.</redactie></al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">10</nr>
+        </kop>
+        <al>Dit besluit
+treedt in werking op het tijdstip waarop <extref status="actief" doc="1.0:v:BWBR0023429&amp;artikel=I" compleet="nee">artikel I, onderdeel E, van de
+Uitvoeringswet EG-verordening PRTR en PRTR-protocol</extref> in werking
+treedt.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">11</nr>
+        </kop>
+        <al>Dit besluit
+wordt aangehaald als: Uitvoeringsbesluit EG-verordening PRTR en
+PRTR-protocol.</al>
+      </artikel>
+    </wettekst>
+    <wetsluiting status="goed">
+      <slotformulering>
+        <al>Lasten en bevelen dat dit besluit met de daarbij behorende nota van
+toelichting in het Staatsblad zal worden geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>
+					's-Gravenhage</plaats>
+          <datum isodatum="18 januari 2008">18
+januari
+2008</datum>
+        </dagtekening>
+        <koning>Beatrix</koning>
+      </gegeven>
+      <ondertekening>
+        <functie>De
+
+          Minister
+           van
+
+          Volkshuisvesting, Ruimtelijke Ordening en
+Milieubeheer
+          
+        </functie>,
+        <naam>
+          <voornaam>J.
+M.</voornaam>
+          <achternaam>Cramer</achternaam>
+        </naam>
+      </ondertekening>
+      <uitgifte>
+        <datum isodatum="2008-02-05">de <nadruk type="cur">vijfde</nadruk> februari
+2008</datum>
+        <ondertekening>
+          <functie>De 
+            Minister
+             van
+
+            Justitie
+            
+          </functie>,
+          <naam>
+            <voornaam>E.
+M. H.</voornaam>
+            <achternaam>Hirsch
+Ballin</achternaam>
+          </naam>
+        </ondertekening>
+      </uitgifte>
+    </wetsluiting>
+    
+  </wet-besluit>
+</wetgeving>
+  	

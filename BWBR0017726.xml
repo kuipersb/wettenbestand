@@ -1,0 +1,378 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0017726" id="307859" soort="ministeriele-regeling"><intitule>Regeling houdende nadere regels met betrekking tot de veiligheid en
+    certificering van in de Nederlandse Antillen en Aruba geregistreerde
+    zeeschepen (Regeling veiligheid Nederlands-Antilliaanse en Arubaanse zeeschepen)</intitule><regeling><aanhef><wie>De Minister van Verkeer en Waterstaat,</wie><considerans><considerans.al>Handelende in overeenstemming met de Minister van
+          Verkeer en Vervoer van de Nederlandse Antillen en de Minister van
+          Toerisme en Transport van Aruba;</considerans.al><considerans.al bevat="grondslag">Gelet op de <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=12" compleet="nee">artikelen 12</extref>, <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=22" compleet="nee">22</extref>, <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=32" compleet="nee">32</extref>,
+            <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=46" compleet="nee">46</extref>, <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=48" compleet="nee">48, eerste lid</extref>, <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=51" compleet="nee">51</extref>, <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=54" compleet="nee">54</extref>, <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=58" compleet="nee">58</extref> en <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=65" compleet="nee">65 van het Schepenbesluit
+          2004</extref>, de <extref status="actief" doc="1.0:v:BWBR0001876&amp;artikel=5" compleet="nee">artikelen 5, eerste
+            lid</extref>, <extref status="actief" doc="1.0:v:BWBR0001876&amp;artikel=26e" compleet="nee">26e, tweede lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0001876&amp;artikel=26f" compleet="nee">26f van de Schepenwet</extref> en
+          de in <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=1">artikel 1</intref> van deze regeling genoemde Codes;</considerans.al></considerans><afkondiging><al>Besluit:</al></afkondiging></aanhef><regeling-tekst><hoofdstuk><kop><label>Hoofdstuk</label><nr>1</nr><titel>Inleidende bepalingen</titel></kop><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Begripsbepalingen</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>In deze regeling wordt verstaan onder:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>besluit: <extref status="actief" doc="1.0:v:BWBR0016880&amp;wetsluiting=" compleet="nee">Schepenbesluit 2004</extref>;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>BC-Code: de bij resolutie A.434(XI) van de Algemene
+                  Vergadering van de Intergouvernementele Maritieme
+                  Consultatieve Organisatie (IMCO) van de Verenigde Naties
+                  aangenomen Code voor het veilig vervoer van vaste bulklading
+                    <nadruk type="cur">(Bulk Cargoes Code)</nadruk>;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>DSC-Code: de bij resolutie A.373(X) van de Algemene
+                  Vergadering van de IMCO aangenomen Code voor de veiligheid van
+                  dynamisch ondersteunde schepen <nadruk type="cur">(Dynamically
+                    Supported Craft Code)</nadruk>;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>Houtvaartcode: de bij resolutie A.715(17) van de Algemene
+                  Vergadering van de IMO aangenomen Code voor het veilig vervoer
+                  van deklast hout <nadruk type="cur">(Code of Safe Practice for
+                    Ships Carrying Timber Deck Cargoes)</nadruk>;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>MODU-Code 1979: de bij resolutie A.414(XI) van de Algemene
+                  Vergadering van de IMCO aangenomen Code voor de bouw en
+                  uitrusting van verplaatsbare offshore booreenheden 1979
+                    <nadruk type="cur">(Mobile Offshore Drilling Units Code, 1979)</nadruk>;</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>MODU-Code 1989: de bij resolutie A.649(16) van de Algemene
+                  Vergadering van de IMO aangenomen Code voor de bouw en
+                  uitrusting van verplaatsbare offshore booreenheden 1989
+                    <nadruk type="cur">(Mobile Offshore Drilling Units Code, 1989)</nadruk>;</al>
+              </li>
+              <li>
+                <li.nr>g.</li.nr>
+                <al>SPS-Code: de bij resolutie A.534(13) van de Algemene
+                  Vergadering van de IMO aangenomen Code voor de veiligheid van
+                  schepen voor bijzondere doeleinden <nadruk type="cur">(Special
+                    Purpose Ships Code)</nadruk>;</al>
+              </li>
+              <li>
+                <li.nr>h.</li.nr>
+                <al>EmS-Gids: de bij circulaire MSC/Circ.1025 van de Maritieme
+                  Veiligheidscommissie van de IMO vastgestelde Noodmaatregelen
+                  en -procedures voor schepen waarmee gevaarlijke stoffen worden
+                  vervoerd <nadruk type="cur">(Emergency response procedures for
+                    ships carrying dangerous goods; EmS Guide)</nadruk>.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Voor de toepassing van het besluit en deze regeling wordt met
+              een internationale reis gelijkgesteld een trans-Atlantische reis tussen landen van het Koninkrijk of
+delen
+daarvan.</al>
+          </lid>
+        </artikel><artikel status="goed"><kop><label>Artikel</label><nr>2</nr><titel>Bouwdatum van een schip</titel></kop><al>Als bouwdatum van een schip wordt aangemerkt de dag waarop de kiel
+            van het schip is gelegd, dan wel de dag waarop met inachtneming van
+            hetgeen dienaangaande in de op grond van deze regeling toepasselijke
+            Codes is bepaald, een met de kiellegging vergelijkbaar stadium is
+            bereikt. <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=2" compleet="nee">Artikel 2, tweede lid, van het besluit</extref> is van
+            overeenkomstige toepassing.</al></artikel><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">Toepassingsbereik</titel>
+          </kop>
+          <al>Deze regeling is van toepassing op schepen die op grond van
+            Arubaanse, Cura&#xE7;aose of Sint
+Maartense rechtsregels gerechtigd zijn de
+            vlag van het Koninkrijk te voeren.</al>
+        </artikel></hoofdstuk><hoofdstuk><kop><label>Hoofdstuk</label><nr>2</nr><titel>Certificaten en onderzoeken</titel></kop><paragraaf><kop><label>&#xA7;</label><nr>1</nr><titel>Benodigde certificaten</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>4</nr><titel>Certificaten voor verplaatsbare offshore booreenheden (IMO)</titel></kop><lid><lidnr>1</lidnr><al>Voor verplaatsbare offshore booreenheden als bedoeld in de
+                MODU-Code 1979 en 1989 zijn de volgende certificaten benodigd:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>voor booreenheden, gebouwd voor 1&#xA0;mei 1991: het
+                    veiligheidscertificaat voor verplaatsbare offshore
+                    booreenheden, behorend bij de MODU-Code 1979;</al></li><li><li.nr>b.</li.nr><al>voor booreenheden, gebouwd op of na 1 mei 1991: het
+                    veiligheidscertificaat voor verplaatsbare offshore
+                    booreenheden, behorend bij de MODU-Code 1989.</al></li></lijst></lid><lid><lidnr>2</lidnr><al>Voor schepen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=6" compleet="nee">artikel 6 van het besluit</extref> treden
+                de in het eerste lid bedoelde certificaten in de plaats van het
+                voor die schepen benodigde nationaal veiligheidscertificaat.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>5</nr><titel>Certificaten op grond van DSC-Code en SPS-Code (IMO)</titel></kop><lid><lidnr>1</lidnr><al>Voor een schip ten aanzien waarvan op grond van <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=8">artikel 8</intref> is
+                gekozen voor toepassing van de DSC-Code of de SPS-Code, is het
+                bij de desbetreffende Code behorende certificaat benodigd.
+                Indien is gekozen voor toepassing van de DSC-Code, is voor het
+                schip tevens de bij die Code behorende exploitatievergunning benodigd.</al></lid><lid><lidnr>2</lidnr><al>Voor schepen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=6" compleet="nee">artikel 6 van het besluit</extref> treden
+                de in het eerste lid bedoelde certificaten in de plaats van het
+                voor die schepen benodigde nationaal veiligheidscertificaat.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>6</nr><titel>Bij certificaten behorende uitrustingsrapporten,
+                aanhangsels e.d.</titel></kop><al>De in de <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=4">artikelen 4</intref> en <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=5">5</intref> bedoelde certificaten gaan vergezeld
+              van de bij die certificaten behorende uitrustingsrapporten en
+              aanhangsels, alsmede van de in de desbetreffende Codes
+              voorgeschreven stabiliteitsgegevens of andere gegevens met
+              betrekking tot schip of lading.</al></artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr>2</nr><titel>Onderzoeken</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>7</nr><titel>Onderzoeken van verplaatsbare offshore booreenheden (IMO)</titel></kop><al>Verplaatsbare offshore booreenheden als bedoeld in de MODU-Code
+              1979 of 1989 worden ter verkrijging van de voor die schepen
+              benodigde certificaten en gedurende de geldigheidsduur daarvan
+              onderworpen aan de in de desbetreffende Code voorgeschreven onderzoeken.</al></artikel><artikel status="goed"><kop><label>Artikel</label><nr>8</nr><titel>Onderzoeken op grond van DSC-Code en SPS-Code (IMO)</titel></kop><lid><lidnr>1</lidnr><al>De eigenaar van een schip, behorend tot een van de navolgende
+                categorie&#xEB;n van schepen, kan er voor kiezen om dat schip te
+                laten onderzoeken en certificeren met inachtneming van:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>voor dynamisch ondersteunde schepen als bedoeld in de
+                    DSC-Code, gebouwd voor 1 januari 1996: de voorschriften van
+                    de DSC-Code;</al></li><li><li.nr>b.</li.nr><al>voor schepen, bestemd voor bijzondere doeleinden als
+                    bedoeld in de SPS-Code: de voorschriften van de SPS-Code.</al></li></lijst></lid><lid><lidnr>2</lidnr><al>Indien ten aanzien van een schip is gekozen voor toepassing
+                van een in het eerste lid genoemde Code, treden de in de
+                desbetreffende Code voorgeschreven onderzoeken in de plaats van
+                de in <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=14" compleet="nee">artikel 14</extref> of <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=15" compleet="nee">15 van het besluit</extref> bedoelde onderzoeken.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>9</nr><titel>Tijdstippen van onderzoek</titel></kop><al>De in de <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=7">artikelen 7</intref> en <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=8">8</intref> bedoelde onderzoeken vinden plaats op
+              de in de desbetreffende Codes voorgeschreven tijdstippen, met dien
+              verstande dat het hernieuwde onderzoek waaraan een schip in
+              verband met de vernieuwing van een certificaat wordt onderworpen,
+              steeds plaatsvindt in de laatste drie maanden van de
+              geldigheidsduur van het desbetreffende certificaat.</al></artikel><artikel status="goed"><kop><label>Artikel</label><nr>10</nr><titel>Uitvoering onderzoeken door erkende organisaties</titel></kop><lid><lidnr>1</lidnr><al>De onderzoeken, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=18" compleet="nee">artikelen 18</extref> en <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=19" compleet="nee">19 van het
+                besluit</extref>, worden uitgevoerd door een daartoe krachtens <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=23" compleet="nee">artikel 23
+                van het besluit</extref> aangewezen organisatie naar keuze van de eigenaar.</al></lid><lid><lidnr>2</lidnr><al>De onderzoeken waaraan een schip ingevolge de <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=13" compleet="nee">artikelen 13 tot
+                en met 17 van het besluit</extref> of de <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=7">artikelen 7</intref> en <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=8">8</intref> van deze
+                regeling wordt onderworpen, worden uitgevoerd door ambtenaren
+                van de Scheepvaartinspectie of door een krachtens <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=23" compleet="nee">artikel 23 van
+                het besluit</extref> aangewezen organisatie waar het schip is geklasseerd.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>11</nr><titel>Aantekening van onderzoeken</titel></kop><al>Van de onderzoeken waaraan een schip ingevolge de <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=7">artikelen 7</intref> en
+              <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=8">8</intref> tijdens de geldigheidsduur van een certificaat wordt
+              onderworpen, wordt door degene die het onderzoek heeft verricht,
+              aantekening geplaatst op het certificaat.</al></artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr>3</nr><titel>Afgifte en geldigheid van certificaten</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>12</nr><titel>Certificaten op grond van MODU-Code, DSC-Code of SPS-Code (IMO)</titel></kop><lid><lidnr>1</lidnr><al>De in <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=5">artikel 5</intref> bedoelde certificaten hebben, indien zij zijn
+                afgegeven voor een passagiersschip, een geldigheidsduur van een
+                jaar. De in <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=4">artikel 4</intref> bedoelde certificaten hebben, evenals de
+                in <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=5">artikel 5</intref> bedoelde certificaten die zijn afgegeven voor
+                vrachtschepen, een geldigheidsduur van vijf jaren.</al></lid><lid><lidnr>2</lidnr><al>De <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=29" compleet="nee">artikelen 29, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=30" compleet="nee">30</extref> en <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=31" compleet="nee">31 van het besluit</extref> zijn van
+                overeenkomstige toepassing op certificaten als bedoeld in het
+                eerste lid.</al></lid></artikel></paragraaf></hoofdstuk><hoofdstuk><kop><label>Hoofdstuk</label><nr>3</nr><titel>Eisen aan schip en bedrijfsvoering</titel></kop><paragraaf><kop><label>&#xA7;</label><nr>1</nr><titel>Eisen aan schepen</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>13</nr><titel>Eisen op grond van MODU-Code, DSC-Code en SPS-Code (IMO)</titel></kop><lid><lidnr>1</lidnr><al>Een schip waarvoor een certificaat, behorende bij de MODU-Code
+                1979, de MODU-Code 1989, de DSC-Code of de SPS-Code, benodigd
+                is, voldoet aan de eisen van de desbetreffende Code.</al></lid><lid><lidnr>2</lidnr><al>Indien in een Code als bedoeld in het eerste lid wordt
+                verwezen naar het Uitwateringsverdrag of het SOLAS-verdrag,
+                wordt dat verdrag toegepast met inachtneming van alle op grond
+                van <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=71" compleet="nee">artikel 71 van het besluit</extref> toepasselijke wijzigingen van dat verdrag.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>14</nr><titel>Bijzondere eisen voor offshore bevoorradings- en
+                ondersteuningsschepen (IMO)</titel></kop><lid><lidnr>1</lidnr><al>Offshore bevoorradingsschepen voldoen aan de eisen van
+                bekendmaking aan de scheepvaart nr. 280/1992 (Stcrt. 70).</al></lid><lid><lidnr>2</lidnr><al>Offshore ondersteuningsschepen, gebruikt voor het vervoer van
+                beperkte hoeveelheden gevaarlijke of schadelijke stoffen in
+                bulk, voldoen aan de eisen van bekendmaking aan de scheepvaart
+                nr. 281/1992 (Stcrt. 70).</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>15</nr><titel>Nadere regels betreffende de stabiliteit van schepen (IMO)</titel></kop><lid><lidnr>1</lidnr><al>Een schip voldoet aan de op dat schip toepasselijke
+                stabiliteitseisen voor schepen in onbeschadigde toestand van
+                bekendmaking aan de scheepvaart nr. 279/1992 (Stcrt. 70) of
+                bekendmaking aan de scheepvaart nr. 255/1990 (Stcrt. 117).</al></lid><lid><lidnr>2</lidnr><al>Het eerste lid is niet van toepassing op offshore
+                bevoorradingsschepen en op vrachtschepen met een lengte van
+                minder dan 12 meter waarvoor geen certificaat benodigd is.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>16</nr><titel>Nadere regels betreffende werktuiglijke en elektrische installaties</titel></kop><lid><lidnr>1</lidnr><al>De elektrische installaties aan boord van een schip voldoen
+                aan de normen in Publicatie 92 (Elektrische installaties aan
+                boord van schepen) van de Internationale Elektrotechnische
+                Commissie of daaraan gelijkwaardige normen van een krachtens
+                <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=36" compleet="nee">artikel 36 van het besluit</extref> aangewezen klassenbureau.</al></lid><lid><lidnr>2</lidnr><al>De bouw en inrichting en het onderhoud van elektrische
+                personenliften voldoen aan:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>de regels van een krachtens <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=36" compleet="nee">artikel 36 van het besluit</extref>
+                    aangewezen klassenbureau, of:</al></li><li><li.nr>b.</li.nr><al>ISO-norm 8383 in combinatie met EN 81-1 (1998), dan wel de
+                    door het Nederlands Normalisatie-Instituut te Delft
+                    uitgegeven norm NEN 28 383.</al></li></lijst></lid><lid><lidnr>3</lidnr><al>In aanvulling op voorschrift II-1/42.2, onderscheidenlijk
+                II-1/43.2, van het SOLAS-verdrag is de aan boord van een schip
+                aanwezige elektrische noodkrachtbron tevens in staat om
+                gedurende ten minste 36 uur, indien het een passagiersschip
+                betreft, en ten minste 18 uur, indien het een vrachtschip
+                betreft, stroom te leveren ten behoeve van de noodverlichting in
+                kombuizen, eetzalen en andere ruimten voor algemeen gebruik.</al></lid><lid><lidnr>4</lidnr><al>Aan boord van een schip worden de in bekendmaking aan de
+                scheepvaart nr. 213/1987 (Stcrt. 114) voorgeschreven maatregelen
+                ter beperking van geluidhinder getroffen.</al></lid><lid><lidnr>5</lidnr><al>De opstelling en inrichting van acetyleen las- en
+                snij-installaties voldoet aan de eisen van bekendmaking nr.
+                35/1965 (Stcrt. 169).</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>17</nr><titel>Nadere regels betreffende de veiligheid van navigatie</titel></kop><lid><lidnr>1</lidnr><al>De voorschriften V/19.2.3.1 en V/19.2.3.4 van het
+                SOLAS-verdrag zijn van overeenkomstige toepassing op
+                vrachtschepen van minder dan 300 GT.</al></lid><lid><lidnr>2</lidnr><al>Voorschrift V/19.2.5.4 van het SOLAS-verdrag is van
+                overeenkomstige toepassing op schepen van minder dan 500 GT.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>18</nr><titel>Medische uitrusting</titel></kop><lid><lidnr>1</lidnr><al>Aan boord van een schip is de in de <extref status="actief" doc="1.0:v:BWBR0007663" compleet="nee">Regeling medische
+                uitrusting aan boord van zeeschepen</extref> voorgeschreven medische
+                uitrusting met de daarbij behorende handleidingen en
+                controlelijsten aanwezig, volgens de voorschriften vervat in
+                <extref status="actief" doc="1.0:v:BWBR0002501&amp;bijlage=XVI" compleet="nee">bijlage XVI van het Schepenbesluit 1965</extref>.</al></lid><lid><lidnr>2</lidnr><al>Aan boord van een schip waarmee gevaarlijke stoffen als
+                bedoeld in hoofdstuk VII van het SOLAS-verdrag worden vervoerd,
+                is een Nederlandstalige uitgave van de bij circulaire
+                MSC/Circ.857 van de Maritieme Veiligheidscommissie van de IMO
+                vastgestelde Medische Eerste Hulp Gids bij ongevallen met
+                gevaarlijke stoffen (Medical First Aid Guide for use in
+                accidents involving dangerous goods; MFAG) aanwezig.</al></lid><lid><lidnr>3</lidnr><al>Aan boord van schepen waarop de in voorschrift V/14.3 van het
+                SOLAS-verdrag bedoelde werktaal niet het Nederlands is, is in
+                plaats van een Nederlandstalige uitgave een Engelstalige uitgave
+                van de in het tweede lid bedoelde Gids aanwezig.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>19</nr><titel>Nadere regels in relatie tot benodigde certificaten</titel></kop><lid><lidnr>1</lidnr><al>Een schip waarvoor een internationaal veiligheidscertificaat,
+                een nationaal veiligheidscertificaat of een certificaat als
+                bedoeld in <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=4">artikel 4</intref> of <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=5">5</intref> benodigd is, voldoet ter verkrijging
+                van dat certificaat tevens aan de ingevolge de <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=14">artikelen 14 tot
+                en met 18</intref> toepasselijke eisen.</al></lid><lid><lidnr>2</lidnr><al>Een schip waarvoor een certificaat als bedoeld in <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=4">artikel 4</intref> of
+                <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=5">5</intref> benodigd is, voldoet ter verkrijging van dat certificaat
+                bovendien aan de ingevolge <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=40" compleet="nee">artikel 40, derde lid, van het
+                besluit</extref> toepasselijke eisen van hoofdstuk V van het SOLAS-verdrag.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>20</nr><titel>Gelijkwaardige voorzieningen</titel></kop><al>Het Hoofd van de Scheepvaartinspectie kan, met inachtneming van
+              hetgeen dienaangaande in de op grond van deze regeling
+              toepasselijke resoluties van de IMO is bepaald, afwijking toestaan
+              van de in de <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=13">artikelen 13 tot en met 17</intref> bedoelde eisen, indien aan
+              boord van het schip een voorziening wordt getroffen die naar zijn
+              oordeel ten minste gelijkwaardig is aan de in het voorschrift
+              waarvan wordt afgeweken, ge&#xEB;iste voorziening.</al></artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr>2</nr><titel>Eisen aan de bedrijfsvoering over schepen</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>21</nr><titel>Veiligheidscommissie (ILO)</titel></kop><lid><lidnr>1</lidnr><al>De veiligheidscommissie aan boord van een schip met een
+                bemanning van meer dan vijftien personen bestaat uit ten minste
+                twee bevaren schepelingen. In de commissie zijn zowel de
+                scheepsofficieren als de scheepsgezellen vertegenwoordigd.</al></lid><lid><lidnr>2</lidnr><al>Aan boord van een schip met een bemanning van ten hoogste
+                vijftien personen wordt ten minste &#xE9;&#xE9;n veiligheidscommissaris benoemd.</al></lid><lid><lidnr>3</lidnr><al>De verplichting, bedoeld in <extref status="actief" doc="1.0:v:BWBR0001876&amp;artikel=26e" compleet="nee">artikel 26e, eerste lid, van de
+                Schepenwet</extref>, geldt niet voor vissersvaartuigen en schepen met een
+                bemanning van minder dan vijf personen.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>22</nr><titel>Nadere regels betreffende de beveiliging van schepen</titel></kop><lid><lidnr>1</lidnr><al>De nationale instantie waartoe de in voorschrift XI-2/6.2.1
+                van het SOLAS-verdrag bedoelde, door het Ship Security Alert
+                System gegenereerde alarmmeldingen kunnen worden gericht, is het
+                Kustwachtcentrum Cura&#xE7;ao.</al></lid><lid><lidnr>2</lidnr><al>Beveiligingsverklaringen als bedoeld in voorschrift XI-2/1.15
+                van het SOLAS-verdrag behoeven niet langer te worden bewaard dan
+                nodig is om aan voorschrift XI-2/9.2.3 van dat verdrag te
+                voldoen. De minimumtermijn voor het bewaren van de in
+                voorschrift A/10.1 van de ISPS-Code bedoelde documentatie
+                bedraagt drie jaren.</al></lid></artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr>3</nr><titel>Toelatingseisen voor scheepsuitrusting</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>23</nr><titel>Typegoedkeuringen voor scheepsuitrusting</titel></kop><lid><lidnr>1</lidnr><al>Uitrusting waarvoor bij plaatsing aan boord van een schip,
+                gelet op de op dat schip toepasselijke eisen, een
+                typegoedkeuring is vereist, is van een door het Hoofd van de
+                Scheepvaartinspectie goedgekeurd type.</al></lid><lid><lidnr>2</lidnr><al>Onder uitrusting waarvoor een typegoedkeuring is vereist,
+                wordt mede verstaan uitrusting als bedoeld in voorschrift V/18.7
+                van het SOLAS-verdrag.</al></lid><lid><lidnr>3</lidnr><al>Met uitrusting van een door het Hoofd van de
+                Scheepvaartinspectie goedgekeurd type wordt gelijkgesteld
+                uitrusting die is voorzien van het Europese merk van
+                overeenstemming voor scheepsuitrusting, bedoeld in bijlage D van
+                <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 96/98/EG</extref> van de Raad van de Europese Unie van 20
+                december 1996 inzake uitrusting van zeeschepen (PbEG 1997, L 46).</al></lid></artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr>4</nr><titel>Vrijstellingen</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>24</nr><titel>Vrijstellingen op grond van MODU-Code, DSC-Code of SPS-Code (IMO)</titel></kop><al>Schepen waarvoor een internationaal veiligheidscertificaat als
+              bedoeld in <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=5" compleet="nee">artikel 5, eerste lid, onderdeel a of b, van het
+              besluit</extref> benodigd is, zijn vrijgesteld van:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>indien zij voldoen aan de MODU-Code 1979, de MODU-Code 1989
+                  of de DSC-Code: de in de hoofdstukken II-1, II-2, III en IV
+                  van het SOLAS-verdrag opgenomen eisen;</al></li><li><li.nr>b.</li.nr><al>indien zij voldoen aan de SPS-Code: de in die Code
+                  aangegeven eisen van het SOLAS-verdrag.</al></li></lijst></artikel><artikel status="goed"><kop><label>Artikel</label><nr>25</nr><titel>Zeilschepen en niet-werktuiglijk voortbewogen schepen</titel></kop><lid><lidnr>1</lidnr><al>Zeilschepen van minder dan 500 GT, gebruikt voor het vervoer
+                van ten hoogste 36 passagiers, zijn vrijgesteld van de
+                voorschriften V/20, V/22.1.1 tot en met V/22.1.5 en V/30 van het SOLAS-verdrag.</al></lid><lid><lidnr>2</lidnr><al>Schepen die niet zijn voorzien van middelen tot werktuiglijke
+                voortstuwing, zijn overeenkomstig voorschrift V/3.1 van het
+                SOLAS-verdrag vrijgesteld van de eisen van hoofdstuk V van dat
+                verdrag, met uitzondering van voorschrift V/19.2.1.7. Tevens
+                zijn zij vrijgesteld van de in <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=17">artikel 17</intref> bedoelde eisen.</al></lid></artikel></paragraaf></hoofdstuk><hoofdstuk><kop><label>Hoofdstuk</label><nr>4</nr><titel>Vervoer van lading</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>26</nr><titel>Vervoer van deklast hout (IMO)</titel></kop><lid><lidnr>1</lidnr><al>Het vervoer van deklast hout aan boord van schepen met een
+              lengte van 24 meter of meer geschiedt met inachtneming van de in
+              de Houtvaartcode, met uitzondering van de bijlagen bij die Code,
+              opgenomen voorschriften.</al></lid><lid><lidnr>2</lidnr><al>Het vervoer van pakketten gebundeld hout op de luiken is
+              uitsluitend toegestaan, indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>voorzieningen zijn aangebracht om het zijdelings verschuiven
+                  van de onderste laag van de deklast te voorkomen;</al></li><li><li.nr>b.</li.nr><al>de wijze van beladen van de sjorinrichting en de overige
+                  onderdelen van de uitrusting voor de deklast door het Hoofd
+                  van de Scheepvaartinspectie zijn goedgekeurd.</al></li></lijst></lid><lid><lidnr>3</lidnr><al>De maximale hoogte van pakketten gebundeld hout die op de luiken
+              worden vervoerd, wordt in afwijking van voorschrift 3.2.1 van de
+              Houtvaartcode gemeten vanaf de bovenzijde van het luikhoofd.</al></lid><lid><lidnr>4</lidnr><al>De beproeving, markering en certificering van kettingen,
+              gebruikt bij het sjorren van deklast hout, bedoeld in voorschrift
+              4.5.1 van de Houtvaartcode, geschiedt overeenkomstig EN-norm 818-2
+              of de door het Nederlands Normalisatie-Instituut te Delft
+              uitgegeven norm NEN-EN 818-2.</al></lid></artikel><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">27</nr>
+            <titel status="officieel">Nadere regels voor het vervoer van bulklading (IMO)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>In aanvulling op de hoofdstukken VI, deel B, en VII, deel A-1,
+              van het SOLAS-verdrag worden bij het vervoer van gestorte lading
+              en het vervoer van gevaarlijke stoffen in vaste vorm in bulk de
+              voorschriften van de BC-Code in acht genomen.</al>
+          </lid>
+          <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De
+bevoegde autoriteiten, bedoeld in de BC-Code zijn voor de in Aruba,
+Cura&#xE7;ao, onderscheidenlijk Sint Maarten geregistreerde schepen: de
+onderscheidenlijke Ministers, verantwoordelijk voor
+scheepvaartaangelegenheden.</al>
+                     </lid>
+        </artikel><artikel status="goed"><kop><label>Artikel</label><nr>28</nr><titel>Nadere regels betreffende het vastzetten van lading (IMO)</titel></kop><lid><lidnr>1</lidnr><al>De Handleiding vastzetten lading, bedoeld in de voorschriften
+              VI/5.6 en VII/5 van het SOLAS-verdrag, voldoet aan de bij
+              circulaire MSC/Circ.745 van de Maritieme Veiligheidscommissie van
+              de IMO vastgestelde Richtlijnen voor het opstellen van de
+              Handleiding vastzetten lading (Guidelines for the preparation of
+              the Cargo Securing Manual).</al></lid><lid><lidnr>2</lidnr><al>Op schepen die zijn ingericht voor het vervoer van
+              standaardlading, mag worden volstaan met een verkorte versie van
+              de Handleiding vastzetten lading.</al></lid></artikel><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">29</nr>
+            
+          </kop>
+          <al>De
+bevoegde autoriteiten, bedoeld in de op grond van Hoofdstuk VII, deel
+A, van het SOLAS-verdrag toepasselijke IMDG-Code zijn voor de in Aruba,
+Cura&#xE7;ao, onderscheidenlijk Sint Maarten geregistreerde schepen: de
+onderscheidenlijke Ministers, verantwoordelijk voor
+scheepvaartaangelegenheden.</al>
+        </artikel><artikel status="goed"><kop><label>Artikel</label><nr>30</nr><titel>EmS-Gids (IMO)</titel></kop><lid><lidnr>1</lidnr><al>Aan boord van een schip waarmee gevaarlijke stoffen als bedoeld
+              in hoofdstuk VII van het SOLAS-verdrag worden vervoerd, is een
+              Nederlandstalige uitgave van de EmS-Gids aanwezig.</al></lid><lid><lidnr>2</lidnr><al>Aan boord van schepen waarop de in voorschrift V/14.3 van het
+              SOLAS-verdrag bedoelde werktaal niet het Nederlands is, is in
+              afwijking van het eerste lid een Engelstalige uitgave van de
+              EmS-Gids aanwezig.</al></lid></artikel></hoofdstuk><hoofdstuk><kop><label>Hoofdstuk</label><nr>5</nr><titel>Verplichtingen van de kapitein</titel></kop><paragraaf><kop><label>&#xA7;</label><nr>1</nr><titel>Algemene bepalingen</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>31</nr><titel>Voorschriften voor bijzondere scheepstypen (IMO)</titel></kop><al>De kapitein van een schip waarvoor een certificaat, behorende
+              bij de MODU-Code 1979, de MODU-Code 1989, de DSC-Code of de
+              SPS-Code, benodigd is, draagt er zorg voor dat aan boord van het
+              schip de in de desbetreffende Code opgenomen voorschriften en
+              verplichtingen worden nageleefd.</al></artikel><artikel status="goed"><kop><label>Artikel</label><nr>32</nr><titel>Beheer medische uitrusting</titel></kop><lid><lidnr>1</lidnr><al>De kapitein draagt er zorg voor dat de aan boord aanwezige
+                medische uitrusting in goede staat verkeert en zonodig wordt
+                aangevuld of vernieuwd.</al></lid><lid><lidnr>2</lidnr><al>De <extref status="actief" doc="1.0:v:BWBR0007663&amp;artikel=2" compleet="nee">artikelen 2</extref> en <extref status="actief" doc="1.0:v:BWBR0007663&amp;artikel=3" compleet="nee">3 van de Regeling medische uitrusting aan
+                boord van zeeschepen</extref> zijn van toepassing.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>33</nr><titel>Incidenten met gevaarlijke stoffen (IMO)</titel></kop><lid><lidnr>1</lidnr><al>De kapitein van een schip waarmee gevaarlijke stoffen als
+                bedoeld in hoofdstuk VII van het SOLAS-verdrag worden vervoerd,
+                draagt er bij een incident met die stoffen zorg voor dat de in
+                de EmS-Gids opgenomen procedures worden gevolgd.</al></lid><lid><lidnr>2</lidnr><al>Meldingen van incidenten met gevaarlijke stoffen als bedoeld
+                in voorschrift VII/6 of VII/7-4 van het SOLAS-verdrag voldoen
+                aan de bij resolutie A.851(20) van de Algemene Vergadering van
+                de IMO aangenomen Richtlijnen voor het rapporteren van
+                incidenten met gevaarlijke, schadelijke of
+                milieuverontreinigende stoffen (Guidelines for reporting
+                incidents involving dangerous goods, harmful substances and/or
+                marine pollutants).</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>34</nr><titel>Bijhouden dagboeken</titel></kop><al>De kapitein draagt er zorg voor dat de aan boord aanwezige
+              dagboeken worden bijgehouden met inachtneming van hetgeen
+              dienaangaande in de op grond van deze regeling toepasselijke Codes
+              is bepaald.</al></artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr>2</nr><titel>Vrijstellingen</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>35</nr><titel>Beproeven van stuurinrichting op korte reizen (SOLAS)</titel></kop><al>Schepen waarmee geregeld korte reizen als bedoeld in voorschrift
+              III/3.22 van het SOLAS-verdrag worden ondernomen, zijn vrijgesteld
+              van de in voorschrift V/26 van dat verdrag opgenomen verplichting
+              om voorafgaand aan elke reis de stuurinrichting te beproeven, met
+              dien verstande dat de stuurinrichting ten minste eenmaal per week
+              wordt beproefd.</al></artikel><artikel status="goed"><kop><label>Artikel</label><nr>36</nr><titel>Niet-werktuiglijk voortbewogen schepen</titel></kop><lid><lidnr>1</lidnr><al>Schepen die niet zijn voorzien van middelen tot werktuiglijke
+                voortstuwing, zijn vrijgesteld van de voorschriften V/26 tot en
+                met V/28 van het SOLAS-verdrag.</al></lid><lid><lidnr>2</lidnr><al>De <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=64" compleet="nee">artikelen 64 van het besluit</extref> en <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=34">34</intref> van deze regeling zijn
+                niet van toepassing op schepen als bedoeld in het eerste lid.</al></lid></artikel></paragraaf></hoofdstuk><hoofdstuk><kop><label>Hoofdstuk</label><nr>6</nr><titel>Slotbepalingen</titel></kop><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">37</nr>
+            <titel status="officieel">Bekendmaking van Codes e.d.</titel>
+          </kop>
+          <al>Van de wijze van bekendmaking van de op grond van deze regeling
+            toepasselijke Codes, resoluties en circulaires van de IMO wordt
+            mededeling gedaan in de Landscourant van
+Aruba, in de Cura&#xE7;aosche Courant en de Landscourant van Sint
+Maarten.</al>
+        </artikel><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">38</nr>
+            <titel status="officieel">Wijzigingen van Codes e.d.</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al><extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=71" compleet="nee">Artikel 71, eerste tot en met derde lid, van het besluit</extref> is van
+              overeenkomstige toepassing op de ingevolge deze regeling
+              toepasselijke Codes, resoluties en circulaires van de IMO.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Ministeri&#xEB;le besluiten op grond van het eerste lid worden
+              bekendgemaakt in de Staatscourant, de Landscourant van Aruba, de
+Cura&#xE7;aosche Courant en de Landscourant van Sint
+Maarten.</al>
+          </lid>
+        </artikel><artikel status="goed"><kop><label>Artikel</label><nr>39</nr><titel>Inwerkingtreding</titel></kop><al>Deze regeling treedt in werking op 1&#xA0;januari 2005, met
+            uitzondering van de <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=4">artikelen 4, tweede lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0017726&amp;artikel=5">5, tweede lid</intref>, die
+            in werking treden op het tijdstip waarop <extref status="actief" doc="1.0:v:BWBR0016880&amp;artikel=6" compleet="nee">artikel 6 van het
+            Schepenbesluit 2004</extref> in werking treedt.</al></artikel><artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">40</nr>
+            
+          </kop>
+          <al>Deze
+regeling wordt aangehaald als: Regeling veiligheid Arubaanse,
+Cura&#xE7;aose en Sint Maartense
+zeeschepen.</al>
+        </artikel></hoofdstuk></regeling-tekst><regeling-sluiting status="goed"><slotformulering><al>Deze regeling zal met de toelichting in de Staatscourant, in de
+          Cura&#xE7;aosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.</al></slotformulering><ondertekenaar><ondertekening>De <functie>Minister</functie> van <organisatie afkorting="VW">Verkeer en Waterstaat</organisatie>,
+          <naam><voornaam>K.M.H.</voornaam><achternaam>Peijs</achternaam></naam></ondertekening></ondertekenaar></regeling-sluiting></regeling></wetgeving>
+  	

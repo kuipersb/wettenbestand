@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0026243" dtdversie="2.0" id="420909" soort="pbo">
+<intitule>Besluit van het bestuur van het Productschap Vee en Vlees van 8 april 2009 houdende de vaststelling van de gegevens die worden opgenomen in het aanvraagformulier voor het bij Verordening identificatie en registratie van paardachtigen (PVV) 2009 voorgeschreven paspoort (Besluit gegevens aanvraagformulier paspoort paardachtigen (PVV) 2009)</intitule>
+
+<regeling>
+<aanhef>
+<wie>Het bestuur van het Productschap Vee en Vlees;</wie>
+<considerans>
+<considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0026239&amp;artikel=7" compleet="nee">artikel 7, derde lid, van de Verordening identificatie en registratie van paardachtigen (PVV) 2009</extref>;</considerans.al>
+</considerans>
+<afkondiging>
+<al>Besluit:</al>
+</afkondiging>
+</aanhef>
+<regeling-tekst>
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">1</nr></kop>
+<al>In het aanvraagformulier als bedoeld in <extref status="actief" doc="1.0:v:BWBR0026239&amp;artikel=7" compleet="nee">artikel 7, eerste lid, van de Verordening identificatie en registratie van paardachtigen (PVV) 2009</extref> worden ten minste de gegevens vermeld die zijn opgenomen in het in de <intref status="actief" doc="1.0:v:BWBR0026243&amp;bijlage=">bijlage</intref> gegeven model.</al>
+</artikel>
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">2</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Dit besluit treedt in werking met ingang van 1 juli 2009.</al></lid>
+<lid><lidnr status="officieel">2</lidnr><al>Dit besluit wordt aangehaald als: Besluit gegevens aanvraagformulier paspoort paardachtigen (PVV) 2009.</al></lid>
+</artikel>
+</regeling-tekst>
+<regeling-sluiting status="goed">
+<gegeven>
+<dagtekening>
+<plaats>Zoetermeer</plaats>
+<datum isodatum="2009-04-08">8 april 2009</datum>
+</dagtekening>
+</gegeven>
+<ondertekening>
+<naam>
+<voornaam>A.L. ten</voornaam>
+<achternaam>Have-Mellema</achternaam>
+</naam>
+<functie>plv. voorzitter</functie>
+<naam>
+<voornaam>S.B.M.</voornaam>
+<achternaam>Jongerius</achternaam>
+</naam>
+<functie>secretaris</functie>
+</ondertekening>
+</regeling-sluiting>
+<bijlage status="goed">
+<kop><label>Bijlage</label><titel status="officieel">bij het Besluit gegevens aanvraagformulier paspoort paardachtigen (PVV) 2009</titel></kop>
+<al>Transpondernummer:</al>
+<al>Gegevens aanvrager (eigenaar/houder)</al>
+<table>
+<tgroup align="left" char="" charoff="50" cols="2">
+<colspec colname="col1" colnum="1"/>
+<colspec colname="col2" colnum="2"/>
+<tbody valign="top">
+<row><entry morerows="0" rotate="0"><al>Naam</al></entry><entry morerows="0" rotate="0"><al/></entry></row>
+<row><entry morerows="0" rotate="0"><al>Voorletter(s)</al></entry><entry morerows="0" rotate="0"><al/></entry></row>
+<row><entry morerows="0" rotate="0"><al>Adres</al></entry><entry morerows="0" rotate="0"><al/></entry></row>
+<row><entry morerows="0" rotate="0"><al>Postcode en Woonplaats</al></entry><entry morerows="0" rotate="0"><al/></entry></row>
+<row><entry morerows="0" rotate="0"><al>Tel. Nr</al></entry><entry morerows="0" rotate="0"><al/></entry></row>
+<row><entry morerows="0" rotate="0"><al>(Eventueel) lidnummer</al></entry><entry morerows="0" rotate="0"><al/></entry></row>
+</tbody>
+</tgroup>
+</table>
+<al>Gegevens eigenaar (in te vullen door de aanvrager als deze niet de eigenaar is)</al>
+<table>
+<tgroup align="left" char="" charoff="50" cols="2">
+<colspec colname="col1" colnum="1"/>
+<colspec colname="col2" colnum="2"/>
+<tbody valign="top">
+<row><entry morerows="0" rotate="0"><al>Naam</al></entry><entry morerows="0" rotate="0"><al/></entry></row>
+<row><entry morerows="0" rotate="0"><al>Voorletter(s)</al></entry><entry morerows="0" rotate="0"><al/></entry></row>
+<row><entry morerows="0" rotate="0"><al>Adres</al></entry><entry morerows="0" rotate="0"><al/></entry></row>
+<row><entry morerows="0" rotate="0"><al>Postcode en Woonplaats</al></entry><entry morerows="0" rotate="0"><al/></entry></row>
+<row><entry morerows="0" rotate="0"><al>Tel. Nr</al></entry><entry morerows="0" rotate="0"><al/></entry></row>
+<row><entry morerows="0" rotate="0"><al>(Eventueel) lidnummer</al></entry><entry morerows="0" rotate="0"><al/></entry></row>
+</tbody>
+</tgroup>
+</table>
+<al>Gegevens paardachtige</al>
+<al>Paardachtige is wel/niet* geregistreerd (* s.v.p. doorhalen wat niet van toepassing is)</al>
+<lijst level="single" nr-sluiting="." start="1" type="expliciet">
+<li><li.nr>&#x25A1;</li.nr><al>ja, registratienummer</al></li></lijst>
+<table>
+<tgroup align="left" char="" charoff="50" cols="2">
+<colspec colname="col1" colnum="1"/>
+<colspec colname="col2" colnum="2"/>
+<tbody valign="top">
+<row><entry morerows="0" rotate="0"><al>Soort</al></entry><entry morerows="0" rotate="0"><al>&#x25A1; paard &#x25A1; pony &#x25A1; ezel &#x25A1; zebra &#x25A1; anders, nl:</al></entry></row>
+<row><entry morerows="0" rotate="0"><al>Naam</al></entry><entry morerows="0" rotate="0"><al/></entry></row>
+<row><entry morerows="0" rotate="0"><al>Commerci&#xEB;le naam</al></entry><entry morerows="0" rotate="0"><al/></entry></row>
+<row><entry morerows="0" rotate="0"><al>Geboortedatum</al></entry><entry morerows="0" rotate="0"><al/></entry></row>
+<row><entry morerows="0" rotate="0"><al>Levensnummer</al></entry><entry morerows="0" rotate="0"><al/></entry></row>
+<row><entry morerows="0" rotate="0"><al>Geslacht</al></entry><entry morerows="0" rotate="0"><al>&#x25A1; hengst &#x25A1; merrie &#x25A1; ruin</al></entry></row>
+</tbody>
+</tgroup>
+</table>
+<al>Zijn kleur en signalement in overeenstemming met het registratiebewijs?</al>
+<lijst level="single" nr-sluiting="." start="1" type="expliciet">
+<li><li.nr>&#x25A1;</li.nr><al>ja</al></li>
+<li><li.nr>&#x25A1;</li.nr><al>nee, dan volledig nieuw signalement opnemen.</al></li></lijst>
+<al>Signalement</al>
+<table>
+<tgroup align="left" char="" charoff="50" cols="1">
+<colspec colname="col1" colnum="1"/>
+<tbody valign="top">
+<row><entry morerows="0" rotate="0"><al>Kleur</al></entry></row>
+<row><entry morerows="0" rotate="0"><al>Hoofd</al></entry></row>
+<row><entry morerows="0" rotate="0"><al>RV</al></entry></row>
+<row><entry morerows="0" rotate="0"><al>LV</al></entry></row>
+<row><entry morerows="0" rotate="0"><al>LA</al></entry></row>
+<row><entry morerows="0" rotate="0"><al>RA</al></entry></row>
+<row><entry morerows="0" rotate="0"><al>Kenmerken</al></entry></row>
+</tbody>
+</tgroup>
+</table>
+<al>Checklist paardenpaspoortconsulent/gekwalificeerde dierenarts (aankruisen zodra uitgevoerd)</al>
+<lijst level="single" nr-sluiting="." start="1" type="expliciet">
+<li><li.nr>&#x25A1;</li.nr><al>signalement gecontroleerd</al></li>
+<li><li.nr>&#x25A1;</li.nr><al>gecontroleerd op aanwezigheid transponder</al></li>
+<li><li.nr>&#x25A1;</li.nr><al>transponder ingebracht en werking gecontroleerd</al></li>
+<li><li.nr>&#x25A1;</li.nr><al>kopie (origineel) registratieformulier cq. paspoort ingenomen</al></li>
+<li><li.nr>&#x25A1;</li.nr><al>barcodesticker geplakt op registratieformulier en registratiebewijs</al></li>
+<li><li.nr>&#x25A1;</li.nr><al>gecontroleerd op aanwezigheid van klinische tekenen van een chirurgische ingreep om een in het verleden ge&#xEF;mplanteerde transponder te verwijderen</al></li></lijst>
+<al>Naam paardenpaspoortconsulent/gekwalificeerde dierenarts: ...........................</al>
+<al>Tel. Nr: ................................................................................................................</al>
+<al>Datum: .................................................................................................................</al>
+<al>Handtekening: .....................................................................................................</al>
+<al>Handtekening aanvrager (eigenaar/houder): .......................  datum: ..................</al>
+<al>DIT FORMULIER BINNEN 7 DAGEN NA INVULLEN OPSTUREN NAAR DE PASPOORTUITGEVENDE INSTANTIE</al>
+</bijlage>
+</regeling>
+</wetgeving>
+  	

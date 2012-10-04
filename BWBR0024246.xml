@@ -1,0 +1,775 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0024246" dtdversie="2.0" id="400939" soort="ministeriele-regeling">
+  
+  <intitule>Tijdelijke regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 11 juli 2008, nr. DL/B/34905, houdende regels voor het verstrekken van subsidie aan leraren met een onderwijsbevoegdheid om substanti&#xEB;le scholing te bevorderen (Tijdelijke regeling Lerarenbeurs voor scholing)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Minister van Onderwijs, Cultuur en Wetenschap,</wie>
+      <considerans>
+        <considerans.al>Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0009458&amp;artikel=4" compleet="nee">artikel 4, eerste lid, aanhef en onder b, van de Wet overige OCW-subsidies</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Inleidende bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Begripsbepalingen</titel>
+          </kop>
+          <al>In deze regeling wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>Minister: Minister van Onderwijs, Cultuur en Wetenschap;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>aanvrager: leraar, als bedoeld onder f en g, die een aanvraag voor subsidie doet;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>bacheloropleiding: opleiding als bedoeld in <extref status="actief" doc="1.0:v:BWBR0005682&amp;artikel=7.3a" compleet="nee">artikel 7.3a, eerste lid, onderdeel a, of tweede lid, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek</extref>, die is geaccrediteerd als bedoeld in <extref status="actief" doc="1.0:v:BWBR0005682&amp;artikel=1.2" compleet="nee">artikel 1.2, onderdeel s, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek</extref>, of die de toets nieuwe opleiding, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0005682&amp;artikel=1.1" compleet="nee">artikel 1, onderdeel t, van die wet</extref>, met positief gevolg heeft afgelegd;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>bevoegd gezag: bevoegd gezag van een school als bedoeld in <extref status="actief" doc="1.0:v:BWBR0003420&amp;artikel=1" compleet="nee">artikel 1 van de Wet op het primair onderwijs</extref>, <extref status="actief" doc="1.0:v:BWBR0003549&amp;artikel=1" compleet="nee">artikel 1 van de Wet op de expertisecentra</extref> of <extref status="actief" doc="1.0:v:BWBR0002399" compleet="nee">artikel 1 van de Wet op het voortgezet onderwijs</extref>, dan wel het bevoegd gezag van een instelling als bedoeld in <extref status="actief" doc="1.0:v:BWBR0007625&amp;artikel=1.1.1" compleet="nee">artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs</extref> en het instellingsbestuur van een hogeschool als bedoeld in <extref status="actief" doc="1.0:v:BWBR0005682&amp;artikel=1.2" compleet="nee">artikel 1.2.1., onderdelen a en b van de Wet op het hoger onderwijs en wetenschappelijk onderzoek</extref>;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>ECTS: European Credit Transfer System;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>leraar: leraar die aan de vereisten in <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=2">artikel 2, tweede lid</intref> van deze regeling voldoet;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>leraar hoger beroepsonderwijs: leraar die op grond van de <extref status="actief" doc="1.0:v:BWBR0005682" compleet="nee">Wet op het hoger onderwijs en wetenschappelijk onderzoek</extref> de titel of graad bachelor mag voeren;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>masteropleiding: opleiding bedoeld in <extref status="actief" doc="1.0:v:BWBR0005682&amp;artikel=7.3a" compleet="nee">artikel 7.3a, eerste lid, onderdeel b, of tweede lid, onderdeel b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek</extref>, die is geaccrediteerd als bedoeld in <extref status="actief" doc="1.0:v:BWBR0005682&amp;artikel=1.1" compleet="nee">artikel 1.1, onderdeel s, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek</extref>, of die de toets nieuwe opleiding, bedoeld in <extref status="actief" doc="1.0:v:BWBR0005682&amp;artikel=1.1" compleet="nee">artikel 1, onderdeel t, van die wet</extref>, met positief gevolg heeft afgelegd;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>subsidie: totale subsidietoekenning aan een aanvrager waaronder studiekosten en eventuele subsidie ter zake van studieverlof;</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>studiekosten: les- en collegegeld, studiemiddelen en reiskosten.</al>
+            </li>
+            
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Reikwijdte subsidieverstrekking</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De Minister verstrekt op aanvraag subsidie aan leraren bedoeld in <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=1">artikel 1, onderdeel f en g</intref>, voor studiekosten en studieverlof ter bevordering van het volgen van opleidingen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=10">artikel 10</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Geen subsidie wordt verstrekt aan leraren die niet aan de volgende vereisten voldoen:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>in het bezit is van een getuigschrift, afgegeven krachtens de <extref status="actief" doc="1.0:v:BWBR0005682" compleet="nee">Wet op het hoger onderwijs en wetenschappelijk onderzoek</extref>, en afgegeven na 31 juli 2006, waaruit blijkt dat hij voldoet aan de op zijn werkzaamheden van toepassing zijnde bekwaamheidseisen, dan wel,</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>op grond van <extref status="actief" doc="1.0:v:BWBR0016944&amp;artikel=XI" compleet="nee">artikel XI, eerste lid van de Wet op de beroepen in het onderwijs</extref> is aangemerkt als te voldoen aan de van toepassing zijnde bekwaamheidseisen, dan wel;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>op grond van de Ministeri&#xEB;le regeling bedoeld in <extref status="actief" doc="1.0:v:BWBR0016944&amp;artikel=XI" compleet="nee">artikel XI tweede lid van de Wet op de beroepen in het onderwijs</extref> bevoegd is voor het geven van onderwijs, dan wel;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>voor zover het betreft de leraar in het beroepsonderwijs en volwasseneneducatie, in het bezit is van een op basis van de <extref status="actief" doc="1.0:v:BWBR0007625" compleet="nee">Wet educatie en beroepsonderwijs</extref> afgegeven geschiktheidsverklaring in combinatie met een getuigschrift pedagogisch didactische scholing als bepaald in de <extref status="actief" doc="1.0:v:BWBR0007625" compleet="nee">Wet educatie en beroepsonderwijs</extref>, dan wel;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>op grond van onderwijswetgeving bevoegd is verklaard.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">Subsidieaanvrager</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Subsidie wordt verleend aan een leraar met dien verstande dat de tegemoetkoming in de kosten voor studieverlof aan het bevoegd gezag van de school waar de leraar in dienst is, wordt uitgekeerd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De leraar:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>is op het moment dat de opleiding start minimaal een jaar in dienst bij een bevoegd gezag van een of meer onderwijsinstellingen die bekostigd wordt dan wel worden door het Ministerie van Onderwijs, Cultuur en Wetenschap of het Ministerie van Landbouw, Natuur en Voedselkwaliteit;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>is op het moment dat de opleiding start voor minimaal 20% van zijn aanstellingsomvang belast met les(gebonden) taken en pedagogisch en didactisch verantwoordelijk voor het onderwijs &#x2013; op groepsniveau en/of individueel niveau &#x2013; aan leerlingen, en;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>geniet gedurende de subsidieperiode geen tegemoetkoming op grond van <extref status="actief" doc="1.0:v:BWBR0012438&amp;afdeling=5.1" compleet="nee">afdeling 5.1. van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten</extref> en geen studiefinanciering op grond van de <extref status="actief" doc="1.0:v:BWBR0011453" compleet="nee">Wet studiefinanciering 2000</extref>.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De leraar die in het verleden is gestart met een opleiding kan een aanvraag indien, indien:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>het opleidingen betreft als bedoeld in <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=10">artikel 10 eerste lid, onderdeel a, b en c</intref>;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>door de aanvrager minimaal nog een studiejaar moet worden afgelegd;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>de aanvrager in het studiejaar voorafgaand aan de subsidieperiode 30 ECTS punten heeft behaald.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Voor een subsidie inzake studieverlof gelden naast de voorwaarden genoemd in het tweede lid dat:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>studieverlof alleen wordt verleend voor de opleidingen bedoeld in <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=10">artikel 10, eerste lid, onderdelen a, b en c</intref>;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het bevoegd gezag van de school of instelling waar de leraar in dienst is verklaart het studieverlof te zullen verlenen door middel van het invullen en het medeondertekenen van het aanvraagformulier;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>uitgangspunt is dat het bevoegd gezag welwillend tegenover het verzoek om verlof staat, tenzij zwaarwegende redenen hieraan in de weg staan. Indien het bevoegd gezag geen studieverlof kan verlenen, dient zij dit zorgvuldig te motiveren.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+            <titel status="officieel">Subsidieplafond</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Voor de verstrekking van subsidie voor studiekosten en studieverlof op grond van deze regeling, is een totaalbedrag van &#x20AC;&#xA0;37.000.000,&#x2013; beschikbaar.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het totaalbedrag, als bedoeld in het eerste lid, wordt als volgt verdeeld:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>voor de eerste aanvraagtermijn van 1&#xA0;juni 2008 tot en met 15 juli 2008, is het subsidieplafond &#x20AC;&#xA0;18.000.000,&#x2013;;</al>
+              </li>
+              <li><li.nr>b.</li.nr><al>voor de tweede aanvraagtermijn van 12&#xA0;januari 2009 tot en met 20&#xA0;februari 2009 is het subsidieplafond &#x20AC;&#xA0;26.000.000,&#x2013;, verminderd met de in 2008 aangegane meerjarige verplichtingen die in 2009 tot vervolgbetalingen leiden;</al></li>
+              
+              <li>
+                <li.nr>c.</li.nr>
+                <al>Aanvragen die buiten de aanvraagtermijnen bedoeld in dit artikel worden ontvangen bij de Minister worden afgewezen, met uitzondering van aanvragen waarvoor verzuimherstel op grond van <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=20">artikel 20</intref> is verleend.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+            <titel status="officieel">Verdeling over onderwijssectoren</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Per aanvraagtermijn worden de aanvragen in volgorde van binnenkomst behandeld.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De verdeling over de onderwijssectoren geschiedt op basis van het aantal in de onderwijssector werkzame leraren en wel als volgt:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>50% van het totaal aantal toe te kennen aanvragen in alle onderwijssectoren is beschikbaar voor leraren in het primair onderwijs;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>30% van het totaal aantal toe te kennen aanvragen in alle onderwijssectoren is beschikbaar voor leraren in het voortgezet onderwijs;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>13% van het totaal aantal toe te kennen aanvragen in alle onderwijssectoren is beschikbaar voor leraren in het beroepsonderwijs en de volwasseneneducatie;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>7% van het totaal aantal toe te kennen aanvragen in alle onderwijssectoren is beschikbaar voor leraren in het hoger beroepsonderwijs.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Als het aantal toe te kennen aanvragen voor een of meer van de onderwijssectoren achterblijft bij het aandeel dat in het tweede lid is voorzien, worden de resterende toe te kennen aanvragen naar evenredigheid toegevoegd aan de andere onderwijssectoren.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+            <titel status="officieel">Maximaal subsidiebedrag</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De subsidie geldt voor maximaal drie jaar of zo veel korter als de nominale studieduur van de opleiding. Indien het betreft een opleiding, bedoeld in <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=10">artikel 10, eerste lid, onderdeel d</intref>, geldt de subsidie voor maximaal &#xE9;&#xE9;n jaar, ter dekking van de kosten van het eerste studiejaar. </al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De subsidie is opgebouwd uit subsidie voor studiekosten en subsidie voor studieverlof.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De subsidie voor studiekosten is opgebouwd uit:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>les- en collegegeld: met een maximum van &#x20AC;&#xA0;3.500 per jaar. De maximale vergoeding bedraagt &#x20AC; 10.500 voor een periode van drie jaar;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>voor studiemiddelen: 10% van het bedrag per jaar genoemd onder a;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>voor reiskosten: 10% van het bedrag per jaar genoemd onder a.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De subsidie voor studieverlof is opgebouwd uit:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>De subsidie ter zake van studieverlof wordt bepaald op een bedrag per uur met een maximum van 160 uren per jaar voor een voltijdsaanstelling, in geval van een deeltijdbetrekking wordt het aantal studieverlofuren vastgesteld naar rato van de aanstellingsomvang.</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>De subsidiebedragen ter zake van studieverlof per onderwijssector zijn:</al>
+                <table frame="topbot" tabstyle="stcrt1">
+                  <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="stcrt1">
+                    <colspec colname="col1" colnum="1" colwidth="35*"/>
+                    <colspec colname="col2" colnum="2" colwidth="15*"/>
+                    <thead valign="bottom">
+                      <row>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Onderwijssector</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Bedrag per studiever-</al>
+                          <al>lofuur</al>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody valign="top">
+                      <row>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Basisonderwijs</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>&#x20AC;&#xA0;32,25</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Speciaal onderwijs</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>&#x20AC;&#xA0;34,23</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Voortgezet onderwijs</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>&#x20AC;&#xA0;34,83</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Beroepsonderwijs en Volwasseneneducatie</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>&#x20AC;&#xA0;37,09</al>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>Hoger beroepsonderwijs</al>
+                        </entry>
+                        <entry align="left" morerows="0" rotate="0" valign="top">
+                          <al>&#x20AC;&#xA0;41,82</al>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </table>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>De bedragen worden jaarlijks ge&#xEF;ndexeerd op basis van de kabinetsbijdrage voor het betreffende jaar, onder voorbehoud van goedkeuring van de begroting door de begrotingswetgever.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Subsidieaanvraag</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+            <titel status="officieel">Vereisten</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De subsidie wordt op aanvraag verleend.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De subsidieaanvraag wordt uitsluitend aangevraagd met gebruikmaking van een door de leraar en het bevoegd gezag volledig ingevuld en ondertekend aanvraagformulier &#x2018;Lerarenbeurs voor scholing&#x2019;.</al>
+          </lid>
+        <lid><lidnr status="redactioneel">3</lidnr><al>In geval van het
+niet vervullen van de voorwaarde, bedoeld in <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=4%3A34" compleet="nee">artikel&#xA0;4:34, eerste
+lid, van de Algemene wet bestuursrecht</extref>, worden de op grond van deze
+regeling verleende subsidiebedragen verlaagd tot het bedrag van de
+subsidie dat na de vaststelling of goedkeuring van de Rijksbegroting
+ter beschikking staat, een en ander naar rato van het aantal
+subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de
+verleende
+subsidiebedragen.</al></lid></artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Subsidieverlening</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+            <titel status="officieel">Subsidieverlening</titel>
+          </kop>
+          <al>Een leraar kan gedurende zijn onderwijsloopbaan &#xE9;&#xE9;n maal in aanmerking komen voor subsidie op grond van deze of volgende subsidieregelingen met hetzelfde doel.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+            <titel status="officieel">Termijn beslissing</titel>
+          </kop>
+          <al>De Minister beslist binnen 8 weken na het einde van de in <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=4">artikel 4</intref> genoemde termijnen van het eerste lid op een aanvraag voor subsidie.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+            <titel status="officieel">Subsidiabele opleidingen</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Voor subsidie op grond van deze regeling komen de volgende opleidingen in aanmerking:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>bachelor- of masteropleidingen voor leraren primair onderwijs, voortgezet onderwijs en beroepsonderwijs en volwasseneneducatie gericht op het voldoen aan een andere set van bekwaamheidseisen dan de set waaraan hij blijkens een getuigschrift, afgegeven krachtens de <extref status="actief" doc="1.0:v:BWBR0005682" compleet="nee">Wet op het hoger onderwijs en wetenschappelijk onderzoek</extref>, al voldoet dan wel, op grond van <extref status="actief" doc="1.0:v:BWBR0016944&amp;artikel=IX" compleet="nee">artikel XI, eerste lid van de Wet op de beroepen in het onderwijs</extref>, is aangemerkt als te hebben voldaan;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>opleidingen waarmee een leraar in het hoger beroepsonderwijs een voor zijn vak relevante bachelor, hbo-master of wo-master kan behalen;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>opleidingen die erop gericht zijn dat de voor zijn werk bevoegde leraar in het primair onderwijs, voortgezet onderwijs of beroepsonderwijs en volwasseneneducatie een andere, voor zijn vak relevante graad behaalt;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>opleidingen die gericht zijn op het verwerven van extra bekwaamheden, maar niet gericht op het verkrijgen van een andere onderwijsbevoegdheid of graad.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Promotietrajecten komen niet voor subsidie in aanmerking.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De Minister stelt in <intref status="actief" doc="1.0:v:BWBR0024246&amp;bijlage=">bijlage I</intref> voor de eerste aanvraagtermijn, bedoeld in <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=4">artikel 4, tweede lid onderdeel a</intref> ter zake van de opleidingen bedoeld in het eerste lid onderdeel d, een limitatieve lijst van opleidingen vast die in aanmerking komen voor subsidie. Voor de aanvraagtermijn bedoeld in <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=4">artikel 4, tweede lid, onderdeel b</intref> geldt dat deze lijst opnieuw wordt vastgesteld.</al>
+          </lid>
+          <lid><lidnr status="officieel">4</lidnr><al>Voor de tweede aanvraagtermijn, bedoeld in <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=4">artikel 4, tweede lid, onderdeel b</intref>, gelden ten aanzien van de opleidingen als bedoeld in het eerste lid, onderdeel d, de volgende criteria:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                     <li>
+                        <li.nr>a)</li.nr>
+                        
+                     <al>de opleiding moet gericht zijn op de bevoegde leraar;</al></li>
+                  <li>
+                        <li.nr>b)</li.nr>
+                        
+                     <al>de opleiding heeft een minimale studiebelasting van 200 uur en minimaal 40 contacturen;</al></li><li>
+                        <li.nr>c)</li.nr>
+                        
+                     <al>de opleiding moet worden afgesloten met een getuigschrift, certificaat of diploma;</al></li><li>
+                        <li.nr>d)</li.nr>
+                        
+                     <al>opleidingen gericht op het behalen van de bevoegdheid bewegingsonderwijs zijn uitgesloten van de regeling.</al></li></lijst><al>Ongeacht de onder a tot en met d genoemde criteria, komen opleidingen die tot 8 juli 2008 zijn opgenomen op de lijst, bedoeld in het derde lid, in aanmerking voor subsidie in het kader van deze regeling. Hierbij geldt de subsidie voor maximaal &#xE9;&#xE9;n jaar, ter dekking van de kosten van het eerste studiejaar.</al></lid><lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Aanvragen voor opleidingen die niet voldoen aan de eisen gesteld in dit artikel worden afgewezen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+            <titel status="officieel">Verplichtingen van de aanvrager</titel>
+          </kop>
+          <al>De aanvrager die subsidie ontvangt op grond van deze regeling dient:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>zich in te spannen de benodigde studiepunten te
+                behalen;</al>
+            </li>
+            
+            <li>
+              <li.nr>b.</li.nr>
+              <al>het staken van de opleiding onmiddellijk aan de Minister te melden;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>het niet tot stand komen of staken van het studieverlof aan de Minister te melden;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>mee te werken aan door of namens de Minister ingestelde onderzoekingen die erop gericht zijn de Minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid; en</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>binnen een half jaar na ontvangst van de beschikking te zijn gestart met de opleiding.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">12</nr>
+            <titel status="officieel">Subsidiebeschikking</titel>
+          </kop>
+          <al>In de subsidiebeschikking legt de Minister vast:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>of de aanvrager in aanmerking komt voor subsidie;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>voor welke opleiding subsidie wordt verleend;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>of de leraar in aanmerking komt voor de subsidie ter zake van studieverlof;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>de duur van de opleiding;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>de wijze waarop de leraar aantoont dat de opleiding met goed gevolg is afgerond;</al>
+            </li>
+            <li><li.nr>f.</li.nr><al>indien het een meerjarige opleiding betreft, als bedoeld in <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=10">artikel 10, eerste lid, onderdeel a, b en c</intref>: de wijze waarop jaarlijks de studievoortgang moet worden vastgesteld;</al></li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>de uiterste datum waarop de opleiding moet zijn afgerond.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">13</nr>
+            <titel status="officieel">Betaling van de subsidie</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De tegemoetkoming in de studiekosten, de studiemiddelen en de reiskosten wordt jaarlijks als voorschot aan de aanvrager uitbetaald.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De tegemoetkoming in de kosten van het studieverlof wordt jaarlijks aan het bevoegd gezag waar de aanvrager in dienst is uitbetaald.</al>
+          </lid>
+          <lid><lidnr status="officieel">3</lidnr><al>Indien het een meerjarige opleiding betreft, als bedoeld in <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=10">artikel 10, eerste lid, onderdeel a, b en c</intref>, vindt de betaling van het jaarbedrag na het eerste studiejaar ieder jaar v&#xF3;&#xF3;r 1&#xA0;september plaats.</al></lid>
+          
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">14</nr>
+            <titel status="officieel">Intrekken subsidie</titel>
+          </kop>
+          <al>De subsidie kan worden ingetrokken met inachtneming van het bepaalde in <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=4%3A48" compleet="nee">artikel 4: 48 Algemene wet bestuursrecht</extref> indien de aanvrager:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de studie heeft gestaakt;</al>
+            </li>
+            
+            <li>
+              <li.nr>b.</li.nr>
+              <al>gedurende de subsidieperiode niet meer als leraar in dienst is van een of meer onderwijsinstellingen die structureel bekostigd worden door het Ministerie van Onderwijs, Cultuur en Wetenschap of het Ministerie van Landbouw, Natuur en Voedselkwaliteit.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">15</nr>
+            <titel status="officieel">Terugvordering van de aanvrager</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De subsidie voor de studiekosten kan worden teruggevorderd indien:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de subsidie van de leraar is ingetrokken op grond van <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=14">artikel 14</intref>;</al>
+              </li>
+              <li>
+                              <li.nr>b.</li.nr>
+                              <al>hij voor een meerjarige opleiding niet binnen drie jaar
+                      na afloop van de subsidieperiode de benodigde studiepunten heeft behaald;</al>
+                           </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>hij binnen een jaar na het afronden van de opleiding het onderwijs verlaat om in een andere sector dan de onderwijssector te gaan werken;</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De terugbetalingsverplichting geldt niet indien de leraar onvrijwillig werkloos wordt voordat de</al>
+            <al>subsidie wordt vastgesteld;</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Het terug te betalen bedrag is direct opeisbaar op de datum van de beschikking. De aanvrager kan een betalingsregeling treffen van minimaal &#x20AC;&#xA0;100 per maand per automatische incasso.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De maximale terugbetalingsverplichting voor de leraar is het bedrag aan studiekosten voor &#xE9;&#xE9;n studiejaar.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">16</nr>
+            <titel status="officieel">Terugvordering van het bevoegd gezag</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het bevoegd gezag van de school of instelling waar de leraar in dienst is, dient de tegemoetkoming ter zake van het studieverlof terug te betalen indien het studieverlof door zijn toedoen niet of niet geheel tot stand komt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De terugbetalingsverplichting geldt voor het deel van het studieverlof dat niet tot stand is gekomen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">17</nr>
+                           <titel status="officieel">Vaststelling van de subsidie lerarenbeurs</titel>
+                        </kop>
+                        <lid>
+                           <lidnr status="officieel">1</lidnr>
+                           <al>De leraar dient een aanvraag voor vaststelling van de
+                    subsidie voor zover deze betrekking heeft op de studiekosten, bedoeld in
+                    <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=2">artikel 2, eerste lid</intref>, van opleidingen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=10">artikel 10, eerste lid,
+                    onderdelen a, b en c</intref>, in bij de minister:</al>
+                           <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                              <li>
+                                 <li.nr>a.</li.nr>
+                                 <al>indien de opleiding minstens een jaar duurt, maar
+                        geen twee jaar, binnen vier jaar na verlening van de subsidie voor deze
+                        opleiding;</al>
+                              </li>
+                              <li>
+                                 <li.nr>b.</li.nr>
+                                 <al>indien de opleiding minstens twee jaar duurt, maar
+                        geen drie jaar, binnen vijf jaar na verlening van de subsidie voor deze
+                        opleiding; en</al>
+                              </li>
+                              <li>
+                                 <li.nr>c.</li.nr>
+                                 <al>indien de opleiding minstens drie jaar duurt, binnen
+                        zes jaar na verlening van de subsidie voor deze opleiding.</al>
+                              </li>
+                           </lijst>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2</lidnr>
+                           <al>De leraar dient een aanvraag voor vaststelling van de
+                    subsidie van opleidingen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=10">artikel 10, eerst lid, onderdeel d</intref>,
+                    binnen twee jaar in bij de minister na aanvang van deze opleiding.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">3</lidnr>
+                           <al>De aanvraag, bedoeld in het eerste lid, bevat een bewijs
+                    waaruit het aantal behaalde studiepunten blijkt.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">4</lidnr>
+                           <al>De aanvraag, bedoeld in het tweede lid, bevat een bewijs
+                    waaruit de deelname aan de opleiding blijkt.</al>
+                        </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">18</nr>
+            <titel status="officieel">Hardheidsclausule</titel>
+          </kop>
+          <al>De Minister kan voor bepaalde gevallen de regeling buiten toepassing verklaren of daarvan afwijken voor zover deze toepassing, gelet op het belang dat deze regeling beoogt te beschermen, zal leiden tot onbillijkheid van overwegende aard.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">De aanvraag</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">19</nr>
+            <titel status="officieel">Bescheiden</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De Minister verschaft op verzoek van de aanvrager een standaardaanvraagformulier. De aanvrager dient bovendien een verklaring van het bevoegd gezag waar de aanvrager in dienst is, te overleggen waaruit blijkt dat de aanvrager voldoet aan de eisen gesteld in <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=3">artikel 3, tweede lid, onderdelen a en b</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien de leraar tevens een aanvraag voor studieverlof indient, dient hij een verklaring van het bevoegd gezag van de school of instelling waar de leraar in dienst is, bij te voegen waarin het bevoegd gezag verklaart dat hij het studieverlof zal verlenen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Indien de aanvrager geen verklaring overlegt van het bevoegd gezag waar hij in dienst is, dient hij aan de Minister in ieder geval de volgende informatie te verschaffen:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>informatie waaruit de onderwijsbevoegdheid van de aanvrager op het moment van aanvraag blijkt;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>informatie waaruit het dienstverband van de aanvrager blijkt alsmede de duur ervan blijkt;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>informatie waaruit blijkt dat de aanvrager voldoet aan <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=3">artikel 3, tweede lid, onderdeel e</intref>.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">20</nr>
+            <titel status="officieel">Verzuimherstel</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Indien de aanvrager niet heeft voldaan aan het bepaalde in de <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=3">artikelen 3 tweede lid</intref> en <intref status="actief" doc="1.0:v:BWBR0024246&amp;artikel=19">19</intref> stelt de Minister de aanvrager in de gelegenheid gedurende vijf werkdagen na ontvangst dit verzuim te herstellen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien de aanvrager het verzuim niet herstelt, binnen de termijn bedoeld in het eerste lid, wordt de aanvraag afgewezen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">21</nr>
+            <titel status="officieel">Looptijd</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De regeling is van toepassing op het tijdvak van 1 juni 2008 tot 1 juli 2009.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Op meerjarige verplichtingen aangegaan in het tijdvak van 1&#xA0;juni 2008 tot 1&#xA0;juli 2009 die doorlopen na afloop van dit tijdvak blijft deze regeling ook na afloop van dit tijdvak van toepassing.</al>
+          </lid>
+        </artikel>
+        
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">23</nr>
+            <titel status="officieel">Inwerkingtreding</titel>
+          </kop>
+          <al>Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij is geplaatst en werkt terug tot en met 1&#xA0;juni 2008.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">24</nr>
+            <titel status="officieel">Citeertitel</titel>
+          </kop>
+          <al>Deze regeling wordt aangehaald als: Tijdelijke regeling lerarenbeurs voor scholing.</al>
+        </artikel>
+      </paragraaf>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling zal met de toelichting in de Staatscourant worden geplaatst (met uitzondering van de <intref status="actief" doc="1.0:v:BWBR0024246&amp;bijlage=">bijlage</intref> die ter inzage wordt gelegd bij het Ministerie van Onderwijs, Cultuur en Wetenschap en bekend wordt gemaakt op www.ib-groep.nl).</al>
+      </slotformulering>
+      <ondertekening>De <functie>Minister</functie> van <organisatie afkorting="OCW">Onderwijs, Cultuur en Wetenschap</organisatie>,
+        <naam>
+          <voornaam>R.H.A.</voornaam>
+          <achternaam>Plasterk</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  <bijlage status="goed"><kop><label>Bijlage</label></kop><al><redactie type="vervanging">Ligt ter inzage bij het Ministerie van Onderwijs, Cultuur en Wetenschap en is gepubliceerd op www.ib-groep.nl.</redactie></al></bijlage></regeling>
+</wetgeving>
+  	

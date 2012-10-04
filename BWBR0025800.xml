@@ -1,0 +1,519 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0025800" dtdversie="2.0" id="416479" soort="beleidsregel">
+  
+  <intitule>Besluit van de Staatssecretaris van Economische Zaken van 24&#xA0;april
+    2009, nr.&#xA0;AT-EZ/6279718.JZ, houdende vaststelling van een beleidsregel met
+    betrekking tot het voorkomen van ontoelaatbare belemmeringen door het gewenste
+    signaal (Beleidsregel storing door het gewenste signaal van
+    radiozendapparaten)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Staatssecretaris van Economische Zaken,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.6" compleet="nee">artikel 3.6 van de
+          Telecommunicatiewet</extref>, de <extref status="actief" doc="1.0:v:BWBR0009997&amp;artikel=9" compleet="nee">artikelen 9, derde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0009997&amp;artikel=13" compleet="nee">13, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0009997&amp;artikel=16" compleet="nee">16, eerste lid,
+          onderdeel e</extref>, en <extref status="actief" doc="1.0:v:BWBR0009997&amp;artikel=17" compleet="nee">17, onderdeel d, van het Frequentiebesluit</extref>, <extref status="actief" doc="1.0:v:BWBR0010034&amp;artikel=8" compleet="nee">artikel 8, tweede
+          lid, van de Regeling aanwijzing overheidsorganen, bedoeld in artikel 3.4 van de
+          Telecommunicatiewet</extref> en <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=4%3A81" compleet="nee">artikel 4:81, eerste lid, van de Algemene wet
+          bestuursrecht</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Algemene bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Begripsomschrijvingen</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>In deze beleidsregel wordt verstaan onder:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>
+                  <nadruk type="cur">wet:</nadruk> <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Telecommunicatiewet</extref>;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>
+                  <nadruk type="cur">minister:</nadruk> Minister van Economische Zaken;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>
+                  <nadruk type="cur">vergunninghouder:</nadruk> de houder van een vergunning als bedoeld in <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3" compleet="nee">artikel 3.3,
+                    eerste lid, van de wet</extref>;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>
+                  <nadruk type="cur">gebouw:</nadruk> gebouw als bedoeld in <extref status="actief" doc="1.0:v:BWBR0005181&amp;artikel=1" compleet="nee">artikel 1, onderdeel c, van de
+                    Woningwet</extref>;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>
+                  <nadruk type="cur">e.i.r.p.:</nadruk> equivalent isotroop uitgestraald vermogen van een
+                    radiozendapparaat;</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>
+                  <nadruk type="cur">piekwaarde:</nadruk> de hoogste korte termijn effectieve waarde van het
+                    signaal (elektrische veldsterkte of spanning) gedurende een observatietijd van
+                    &#xE9;&#xE9;n modulatieperiode, waarbij de korte termijn effectieve waarde wordt bepaald
+                    over &#xE9;&#xE9;n draaggolfperiode;</al>
+              </li>
+              <li>
+                <li.nr>g.</li.nr>
+                <al>
+                  <nadruk type="cur">ontoelaatbare belemmering:</nadruk> ontoelaatbare belemmering door het gewenste signaal van
+                    een radiozendapparaat in andere radiozend- of ontvangapparaten of in
+                    elektrische of elektronische inrichtingen of een storing of belemmering als
+                    bedoeld in <extref status="actief" doc="1.0:v:BWBR0010034&amp;artikel=8" compleet="nee">artikel 8, tweede lid, van de Regeling aanwijzing overheidsorganen,
+                    bedoeld in artikel 3.4 van de Telecommunicatiewet</extref>;</al>
+              </li>
+              <li>
+                <li.nr>h.</li.nr>
+                <al>
+                  <nadruk type="cur">storing:</nadruk> storing die het functioneren van radiozend- of
+                    ontvangstapparaten of elektrische of elektronische inrichtingen in gevaar
+                    brengt of op een andere wijze de werking ernstig doet achteruitgaan, hindert of
+                    herhaaldelijk onderbreekt;</al>
+              </li>
+              <li>
+                <li.nr>i.</li.nr>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>het tijdstip van eerste gebruik van een
+                        radiozendapparaat;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>het tijdstip waarop door het radiozendapparaat een
+                        hogere elektrische veldsterkte of spanning wordt veroorzaakt als gevolg van
+                        gewijzigd gebruik, of</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;.</li.nr>
+                    <al>de eerste twee maanden na het tijdstip van eerste
+                        gebruik dan wel het tijdstip van bedoeld gewijzigd gebruik;</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>j.</li.nr>
+                <al>
+                  <nadruk type="cur">ziekenhuis:</nadruk> instelling voor medisch-specialistische zorg als bedoeld
+                    in <extref status="actief" doc="1.0:v:BWBR0018983&amp;artikel=1.2" compleet="nee">artikel 1.2, onder 1, van het Uitvoeringsbesluit WTZi</extref>.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In de <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=6">artikelen 6</intref>, <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=8">8, tweede lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=9">9, vierde lid</intref>, wordt onder
+              de cumulatieve piekwaarde verstaan: lineaire sommatie van de piekwaarden van de
+              verschillende radiozendapparaten die op een locatie een bijdrage leveren aan de
+              hoogte van de elektrische veldsterkte of spanning.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>In de <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=8">artikelen 8, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=9">9, eerste lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=10">10, eerste
+              lid</intref>, wordt onder de cumulatieve piekwaarde verstaan: lineaire sommatie van de
+              piekwaarden van de verschillende radiozendapparaten die een aantoonbare
+              bijdrage leveren aan een storing.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Verlenen, wijzigen en weigeren van vergunningen voor het
+            gebruik van frequentieruimte</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Vergunningen die verleend worden na inwerkingtreding van
+              deze beleidsregel</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Aan een vergunning als bedoeld in <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3" compleet="nee">artikel 3.3, eerste lid, van
+              de wet</extref> wordt op basis van <extref status="actief" doc="1.0:v:BWBR0009997&amp;artikel=16" compleet="nee">artikel 16, eerste lid, onderdeel e, van het
+              Frequentiebesluit</extref> in elk geval het voorschrift verbonden dat de
+              vergunninghouder bij het gebruik van frequentieruimte geen ontoelaatbare
+              belemmeringen mag veroorzaken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het eerste lid vindt geen toepassing, indien aan de vergunning
+              het voorschrift is verbonden dat het maximaal uitgestraalde vermogen 17&#xA0;Watt
+              e.i.r.p. of minder dient te bedragen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">Weigeren van een vergunningsaanvraag</titel>
+          </kop>
+          <al>Aan de in <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.6" compleet="nee">artikel 3.6, tweede lid, onderdeel e, van de
+            Telecommunicatiewet</extref> opgenomen voorwaarde is in elk geval voldaan, indien als
+            gevolg van verlening van de desbetreffende vergunning de aanvrager eigenstandig
+            ter plaatse van:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>gebouwen een piekwaarde van de elektrische veldsterkte zou
+                veroorzaken van meer dan 18 Volt per meter, indien die gebouwen zich bevinden
+                binnen de bebouwde kom, of</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>een ziekenhuis een piekwaarde van de elektrische veldsterkte
+                zou veroorzaken van meer dan 5,4 Volt per meter in het frequentiegebied van 100
+                kHz tot en met 2,5 GHz.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+            <titel status="officieel">Bestaande vergunningen</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Indien toepassing wordt gegeven aan <extref status="actief" doc="1.0:v:BWBR0009997&amp;artikel=17" compleet="nee">artikel 17, onderdeel d,
+              van het Frequentiebesluit</extref>, wordt aan die vergunning in elk geval het
+              voorschrift verbonden dat de vergunninghouder bij het gebruik van
+              frequentieruimte geen ontoelaatbare belemmeringen mag veroorzaken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien een vergunning wordt verlengd krachtens <extref status="actief" doc="1.0:v:BWBR0009997&amp;artikel=9" compleet="nee">artikel 9</extref> of
+              <extref status="actief" doc="1.0:v:BWBR0009997&amp;artikel=13" compleet="nee">artikel 13 van het Frequentiebesluit</extref> wordt aan die vergunning in elk geval het
+              voorschrift verbonden dat de vergunninghouder geen ontoelaatbare belemmeringen
+              mag veroorzaken. <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=2">Artikel 2, tweede lid</intref>, is van overeenkomstige toepassing.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Vaststellen van ontoelaatbare belemmeringen na
+            vergunningverlening</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+            <titel status="officieel">Reikwijdte van deze paragraaf</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>In deze paragraaf wordt aangegeven hoe de minister, voor zover
+              het belemmeringen betreft die kunnen worden veroorzaakt door het gewenste
+              signaal, uitleg geeft aan:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>een voorschrift als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=2">artikelen 2, eerste lid</intref>,
+                  en <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=4">4</intref>, en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het begrip &#x2018;storing of belemmering&#x2019; als bedoeld in <extref status="actief" doc="1.0:v:BWBR0010034&amp;artikel=8" compleet="nee">artikel
+                  8, tweede lid, van de Regeling aanwijzing overheidsorganen, bedoeld in artikel
+                  3.4 van de Telecommunicatiewet</extref>.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In deze paragraaf wordt met een vergunninghouder gelijk gesteld
+              een overheidsorgaan aangewezen krachtens <extref status="actief" doc="1.0:v:BWBR0010034&amp;artikel=2" compleet="nee">artikel 2 van de Regeling aanwijzing
+              overheidsorganen, bedoeld in artikel 3.4 van de Telecommunicatiewet</extref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Bij het bepalen van de hoogte van de cumulatieve piekwaarde van
+              de elektrische veldsterkte wordt de invloed van bebouwing daarop niet
+              meegerekend.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+            <titel status="officieel">Geen ontoelaatbare belemmering vanwege geringe elektrische
+              veldsterkte of spanning</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een vergunninghouder veroorzaakt in het frequentiegebied van
+              100 kHz tot en met 2,5 GHz geen ontoelaatbare belemmeringen op locaties
+              waar:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de gewenste signalen van radiozendapparaten uitgezonden in
+                  het frequentiegebied van 100 kHz tot en met 2,5 GHz een cumulatieve piekwaarde
+                  van de elektrische veldsterkte opleveren die lager is dan of gelijk is aan 5,4
+                  Volt per meter, en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de gewenste signalen van radiozendapparaten uitgezonden in
+                  het frequentiegebied van 100 kHz tot en met 30 MHz een cumulatieve piekwaarde
+                  van de spanning opleveren die lager is dan of gelijk is aan 5,4 Volt.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een vergunninghouder veroorzaakt in het frequentiegebied hoger
+              dan 2,5 GHz en gelijk of lager dan 400 GHz geen ontoelaatbare belemmeringen op
+              locaties waar de gewenste signalen van radiozendapparaten uitgezonden in dat
+              frequentiegebied een cumulatieve piekwaarde van de elektrische veldsterkte
+              opleveren die lager is dan of gelijk is aan 1,8 Volt per meter.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+            <titel status="officieel">Geen ontoelaatbare belemmering wanneer een overeenkomst is
+              gesloten met de desbetreffende vergunninghouder</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>In afwijking van de <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=8">artikelen 8</intref> en <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=10">10</intref>, veroorzaakt een
+              vergunninghouder bij een derde geen ontoelaatbare belemmering, indien hierover
+              een schriftelijke overeenkomst geldt tussen die vergunninghouder en die
+              derde.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een vergunninghouder die op een perceel een radiozendapparaat
+              heeft geplaatst met schriftelijke instemming van de gebruiker van dat perceel,
+              veroorzaakt, in afwijking van de <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=8">artikelen 8</intref> en <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=10">10</intref>, geen ontoelaatbare
+              belemmering op dat perceel.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+            <titel status="officieel">Ontoelaatbare belemmeringen in gebouwen bij een elektrische
+              veldsterkte of spanning die hoger is dan de waarden in <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=6">artikel 6</intref></titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Van een ontoelaatbare belemmering is in elk geval sprake
+              indien:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>een radiozend- of ontvangapparaat of een elektrische of
+                  elektronische inrichting in een gebouw een storing ondervindt en dat apparaat
+                  of die inrichting voldoet aan de essenti&#xEB;le eisen van elektromagnetische
+                  compatibiliteit uit de desbetreffende conformiteitsrichtlijn, en</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>radiozendapparaten in dat gebouw een cumulatieve piekwaarde
+                  van de elektrische veldsterkte of spanning veroorzaken die de desbetreffende
+                  waarde in <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=6">artikel 6</intref> overschrijdt.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het eerste lid is niet van toepassing, indien de storing zich
+              voordoet in een gebouw dat is gebouwd op een locatie waar de cumulatieve
+              piekwaarde van de elektrische veldsterkte ten tijde van de bouw hoger lag dan
+              de desbetreffende waarde in <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=6">artikel 6</intref>.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+            <titel status="officieel">Be&#xEB;indiging van een ontoelaatbare belemmering</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een ontoelaatbare belemmering als bedoeld in <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=8">artikel 8</intref> is
+              be&#xEB;indigd, indien de cumulatieve piekwaarde van de elektrische veldsterkte of
+              spanning daalt tot de desbetreffende maximumwaarde, bedoeld in <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=6">artikel 6</intref>, of
+              lager.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een ontoelaatbare belemmering als bedoeld in <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=8">artikel 8, eerste
+              lid</intref>, is tevens be&#xEB;indigd indien:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de vergunninghouder op zijn kosten en met instemming van
+                  diegene die de ontoelaatbare belemmering ondervindt, maatregelen heeft
+                  getroffen waardoor diegene geen storing meer ondervindt, of</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de vergunninghouder het aanbod heeft gedaan aan diegene die
+                  de ontoelaatbare belemmering ondervindt om op zijn kosten maatregelen te
+                  treffen waardoor diegene geen storing meer zal ondervinden en diegene niet
+                  binnen een redelijke termijn dat aanbod aanvaardt dan wel dat aanbod op
+                  onredelijke gronden afwijst.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Onder het treffen van maatregelen als bedoeld in het tweede lid
+              wordt onder andere verstaan: het vervangen van een radiozend- of
+              ontvangstapparaat of een elektrische of elektronische inrichting door een
+              apparaat of inrichting van ten minste een vergelijkbare kwaliteit.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Het tweede lid geldt niet indien de cumulatieve piekwaarde van
+              de elektrische veldsterkte 18 Volt per meter of hoger is op of nabij de locatie
+              waar de ontoelaatbare belemmering zich voordoet.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+            <titel status="officieel">Bepaling van degene die een ontoelaatbare belemmering
+              veroorzaakt</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een ontoelaatbare belemmering als bedoeld in <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=8">artikel 8</intref> wordt
+              veroorzaakt door de vergunninghouder die:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>eigenstandig een piekwaarde van de elektrische veldsterkte
+                  of spanning veroorzaakt die hoger is dan de desbetreffende waarde in <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=6">artikel 6</intref>,
+                  tenzij de door hem veroorzaakte elektrische veldsterkte of spanning geen
+                  aantoonbare bijdrage levert aan een storing, of</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>op het tijdstip van eerste ingebruikname van zijn
+                  radiozendapparaat de cumulatieve piekwaarde van de elektrische veldsterkte of
+                  de spanning verhoogt tot boven de desbetreffende waarde in artikel 6 dan wel
+                  verder verhoogt boven de desbetreffende waarde in <intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=6">artikel 6</intref>.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In afwijking van het eerste lid, veroorzaakt een
+              vergunninghouder geen ontoelaatbare belemmering indien het uitgestraalde
+              vermogen van zijn radiozendapparaat 17 Watt e.i.r.p. of minder bedraagt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Het eerste en tweede lid gelden niet indien de ontoelaatbare
+              belemmering mede wordt veroorzaakt door:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>een radiozendapparaat voor het gebruik waarvan geen
+                  vergunning is vereist krachtens <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.4" compleet="nee">artikel 3.4, eerste lid, onderdelen a of c, van
+                  de wet</extref>, of</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>een radiozendapparaat dat bestemd is om te worden
+                  verplaatst en te worden gebruikt op een verscheidenheid aan locaties, en het
+                  staken van het gebruik van dat radiozendapparaat tot gevolg heeft dat de
+                  ontoelaatbare belemmering wordt be&#xEB;indigd.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Overgangsrecht en slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+            <titel status="officieel">Bestaande middengolfzenders</titel>
+          </kop>
+          <al><intref status="actief" doc="1.0:v:BWBR0025800&amp;artikel=9">Artikel 9, vierde lid</intref>, geldt niet indien een radiozendapparaat
+            bestemd voor omroep gebruik maakt van de frequentieband van 526.5 KHz tot en
+            met 1606.5 KHz en gebruikt wordt op een locatie waar voor inwerkingtreding van
+            deze beleidsregel reeds radiozendapparaten voor omroep worden gebruikt in die
+            frequentieband.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">12</nr>
+            <titel status="officieel">Inwerkingtreding</titel>
+          </kop>
+          <al>Deze beleidsregel treedt in werking met ingang van de tweede dag
+            na de dagtekening van de Staatscourant waarin zij wordt geplaatst.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">13</nr>
+            <titel status="officieel">Citeertitel</titel>
+          </kop>
+          <al>Deze beleidsregel wordt aangehaald als: Beleidsregel storing door
+            het gewenste signaal van radiozendapparaten.</al>
+        </artikel>
+      </paragraaf>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze beleidsregel zal met de toelichting in de Staatscourant worden
+          geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Den Haag</plaats>
+          <datum isodatum="2009-04-24">24 april 2009</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>De <functie>Staatssecretaris</functie> van
+        <organisatie afkorting="EZ">Economische Zaken</organisatie>,
+        <naam>
+          <voornaam>F.</voornaam>
+          <achternaam>Heemskerk</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

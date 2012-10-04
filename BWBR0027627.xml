@@ -1,0 +1,863 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0027627" dtdversie="2.0" id="434749" soort="zbo">
+  
+  <intitule>Declaratiebepalingen
+DBC-bedragen en overige bedragen medisch specialistische zorg door of
+vanwege de
+zorginstelling</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De
+Nederlandse Zorgautoriteit
+(NZa),</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op
+<extref status="actief" doc="1.0:v:BWBR0020078&amp;artikel=37" compleet="nee">artikel 37 Wet marktordening gezondheidszorg</extref>
+(Wmg);</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Stelt de volgende
+regeling
+vast:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Algemeen</titel>
+        </kop>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>Deze regeling is van toepassing op zorg of dienst
+als omschreven bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0018450" compleet="nee">Zorgverzekeringswet</extref> welke wordt
+geleverd
+door:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>instellingen
+voor medisch specialistische
+zorg<noot id="n1e10496004" type="voet">
+                    <noot.nr>1</noot.nr>
+                    <noot.al>Voorheen:
+instellingen voor niet-klinische hemodialyse, ziekenhuizen, academische
+ziekenhuizen, radiotherapeutische centra, beademingscentra,
+instellingen voor revalidatie.</noot.al>
+                  </noot>(met uitzondering van sanatoria, epilepsie-inrichtingen en
+abortusklinieken);</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>instelling
+&#x2013; niet zijnde een ziekenhuis &#x2013; voor medisch
+specialistische
+zorg;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>audiologische
+centra;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>centra voor
+erfelijkheidsonderzoek</al>
+              </li>
+            </lijst>
+            <al>en</al>
+            <al>zorgaanbieders
+die geneeskundige zorg leveren zoals medisch specialisten die bieden te
+onderscheiden naar categorie&#xEB;n van specialismen overeenkomstig het
+onderscheid zoals dat wordt gemaakt in het specialistenregister van de
+Koninklijke Nederlandse Maatschappij tot bevordering der Geneeskunst,
+zoals dat register luidt op het tijdstip van vaststellen van een
+tarief/prestatiebeschrijving door de Nederlandse Zorgautoriteit voor
+het desbetreffende
+specialisme.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Verplichtingen</titel>
+        </kop>
+        <al>De
+verplichtingen die uit deze regeling voortvloeien treden in werking op
+1&#xA0;januari 2010. Met de inwerkingtreding van regeling
+CUI/NR-100.116 wordt regeling <extref status="actief" doc="1.0:v:BWBR0024605" compleet="nee">CI/NR-100.085</extref>
+be&#xEB;indigd.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Definities
+en
+begrippen</titel>
+        </kop>
+        <lijst level="single" nr-sluiting="." start="1" type="ongemarkeerd">
+          <li>
+            <li.nr>3.1</li.nr>
+            <al>
+              <nadruk type="cur">Diagnosebehandelingcombinatie:</nadruk>
+            </al>
+
+            <al>De
+diagnosebehandelingcombinatie (DBC) typeert het geheel van prestaties
+van zorginstelling en medisch
+specialist<noot id="n2e10496024" type="voet">
+                <noot.nr>2</noot.nr>
+                <noot.al>Hieronder
+wordt ook de extramuraal werkende medisch specialist en de audioloog
+(klinisch fysicus) verstaan.</noot.al>
+              </noot>, voortvloeiend uit de zorgvraag waarvoor de pati&#xEB;nt de medisch
+specialist in de zorginstelling
+consulteert.</al>
+          </li>
+          <li>
+            <li.nr>3.2</li.nr>
+            <al>
+              <nadruk type="cur">DBC-traject:</nadruk>
+            </al>
+            <al>Een
+DBC duurt maximaal 365 dagen. Wanneer het zorgtraject langer dan 365
+dagen duurt of een andere fase of status in de behandeling aanbreekt
+(bijvoorbeeld langdurige periodieke controle), wordt dit vervolgtraject
+getypeerd met een zogenoemde vervolg-DBC.</al>
+            <al>Derhalve is een DBC
+altijd gerelateerd aan een bepaalde periode binnen een zorgtraject, het
+zogenoemde DBC-traject. Binnen deze periode wordt de DBC-dataset
+opgebouwd die gebruikt wordt voor de typering van de DBC als declarabel
+product.</al>
+          </li>
+          <li>
+            <li.nr>3.3</li.nr>
+            <al>
+              <nadruk type="cur">DBC-dataset:</nadruk>
+            </al>
+            <al>De
+dataset die de gegevens bevat waarmee een DBC getypeerd kan worden. De
+onderdelen van de DBC-dataset zijn: begindatum, medisch inhoudelijke
+informatie (zorgtype, zorgvraag, diagnose en behandeling) en einddatum.
+Aan een DBC-dataset is een profiel van activiteiten gekoppeld, die in
+die periode voor die DBC zijn
+ingezet.</al>
+          </li>
+          <li>
+            <li.nr>3.4</li.nr>
+            <al>
+              <nadruk type="cur">DBC-declaratiecode:</nadruk>
+            </al>
+            <al>De
+zescijferige code, waaraan de DBC-bedragen worden gekoppeld (segment A
+op productgroepniveau en segment B op
+DBC-niveau).</al>
+          </li>
+          <li>
+            <li.nr>3.5</li.nr>
+            <al>
+              <nadruk type="cur">DBC-prestatiecode:</nadruk>
+            </al>
+            <al>De
+veertiencijferige code, die het afgesloten en gevalideerde DBC-traject
+beschrijft. De code bestaat uit het samenstelsel van de codes van het
+zorgtype, de zorgvraag, de typerende diagnose en de
+behandeling.</al>
+          </li>
+          <li>
+            <li.nr>3.6</li.nr>
+            <al>
+              <nadruk type="cur">Overig
+product (OVP):</nadruk>
+            </al>
+            <al>Verrichtingen geleverd door een
+poortspecialisme</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>aan
+een ander poortspecialisme als onderdeel van een DBC (maakt deel uit
+van het DBC-zorgprofiel), dan
+wel</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>op verzoek van de
+eerstelijn, dan wel</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>in het
+kader van onderlinge dienstverlening, dan
+wel</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>aan een ander specialisme,
+werkzaam binnen dezelfde instelling, waarvoor de DBC-systematiek niet
+geldt (zoals kaakchirurgie en
+revalidatiegeneeskunde);</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>voor
+verpleging in de thuissituatie, noodzakelijk in verband met
+Medisch-specialistische
+zorg.</al>
+              </li>
+            </lijst>
+          </li>
+          <li>
+            <li.nr>3.7</li.nr>
+            <al>
+              <nadruk type="cur">Ondersteunend
+product (OP):</nadruk>
+            </al>
+            <al>Verrichtingen geleverd door een
+niet-poortspecialisme</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>aan
+een poortspecialisme als onderdeel van een DBC (maakt deel uit van het
+DBC-zorgprofiel), dan wel</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>op
+verzoek van de eerstelijn, dan
+wel</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>in het kader van onderlinge
+dienstverlening, dan wel</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>aan
+een ander specialisme, werkzaam binnen dezelfde instelling, waarvoor de
+DBC-systematiek niet geldt (zoals kaakchirurgie en
+revalidatiegeneeskunde).</al>
+              </li>
+            </lijst>
+          </li>
+          <li>
+            <li.nr>3.8</li.nr>
+            <al>
+              <nadruk type="cur">A-segment:</nadruk>
+            </al>
+
+            <al>Voor
+het A-segment gelden prestatieomschrijvingen met landelijke
+DBC-bedragen, uitgesplitst in een kostenbedrag voor de zorginstelling
+en afzonderlijke honorariumbedragen voor elk bij het DBC-traject
+betrokken medisch specialisme. De DBC&#x2019;s zijn geclusterd in
+productgroepen, elk voorzien van &#xE9;&#xE9;n of twee
+DBC-declaratiecodes<noot id="n3e10496024" type="voet">
+                <noot.nr>3</noot.nr>
+                <noot.al>DBC&#x2019;s
+die afhankelijk van de indicatie wel of niet onder de aanspraak vallen
+(de zogenaamde oranje DBC&#x2019;s), hebben twee declaratiecodes,
+&#xE9;&#xE9;n voor verzekerde zorg en &#xE9;&#xE9;n voor
+niet-verzekerde zorg. Hetzelfde geldt voor productgroepen, wanneer
+binnen een productgroep zowel DBC&#x2019;s zijn opgenomen die wel onder
+de aanspraak vallen als DBC&#x2019;s die niet onder de aanspraak
+vallen.</noot.al>
+                <noot.al/>
+              </noot>.</al>
+          </li>
+          <li>
+            <li.nr>3.9</li.nr>
+            <al>
+              <nadruk type="cur">B-segment:</nadruk>
+            </al>
+            <al>Voor
+het B-segment zijn alleen de prestatieomschrijvingen en de
+honorariumbedragen voor de poortspecialist (hoofdbehandelaar)
+opgenomen. Voor de overige ondersteunende specialismen is alleen het
+honorariumbedrag per verrichting vastgesteld. De kostenbedragen en het
+volume aan ondersteunende producten per DBC zijn vrij
+onderhandelbaar.</al>
+          </li>
+          <li>
+            <li.nr>3.10</li.nr>
+            <al>
+              <nadruk type="cur">DBC
+consult:</nadruk>
+            </al>
+            <al>Het DBC consult is een DBC waarbij in de
+berekening van het tarief slechts &#xE9;&#xE9;n polikliniekbezoek en
+&#xE9;&#xE9;n of meerdere verrichtingen van maximaal &#x20AC; 100 (per
+verrichting) zijn
+meegenomen.</al>
+          </li>
+          <li>
+            <li.nr>3.11</li.nr>
+            <al>
+              <nadruk type="cur">Overige
+trajecten en verrichtingen:</nadruk>
+            </al>
+            <al>De hier opgenomen
+trajecten en verrichtingen zijn niet opgenomen in de DBC-systematiek.
+Overige trajecten zijn prestaties die een aaneengesloten traject
+betreffen, waarvoor de declaratie-eenheid een dag is, zoals beademing
+IC voor volwassenen, gezonde zuigelingen, verkeerdebeddagen. Deze
+overige trajecten kunnen naast een DBC
+lopen.</al>
+          </li>
+          <li>
+            <li.nr>3.12</li.nr>
+            <al>
+              <nadruk type="cur">DBC-tarief
+A-segment:</nadruk>
+            </al>
+            <al>Het DBC-tarief voor een DBC uit het
+A-segment is het totaal van het DBC-kostenbedrag, inclusief
+verrekenpercentage (voor DBC&#x2019;s in het A-segment vallend onder de
+niet in het basispakket verzekerde zorg geldt geen verrekenpercentage),
+en de
+DBC-honorariumbedragen.</al>
+            <al/>
+          </li>
+          <li>
+            <li.nr>3.13</li.nr>
+            <al>
+              <nadruk type="cur">DBC-tarief
+B-segment:</nadruk>
+            </al>
+            <al>Het DBC-tarief voor een DBC uit het
+B-segment is het totaal van het lokaal overeengekomen DBC-kostenbedrag
+en de DBC-honorarium-bedragen dan wel het door de zorginstelling
+vastgestelde DBC-kostenbedrag en de DBC-honorariumbedragen. Ten aanzien
+van de honorariumbedragen in segment B geldt dat het volume aan
+ondersteunende en overige producten vrij onderhandelbaar c.q. vrij te
+bepalen is. De honorariumbedragen van het hoofdspecialisme zijn
+landelijk vastgestelde
+bedragen.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Declaratie</titel>
+        </kop>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>4.1</li.nr>
+            <al>
+              <nadruk type="cur">Door
+wie wordt de DBC gedeclareerd</nadruk>
+            </al>
+            <al>De zorginstelling
+declareert het totale DBC-tarief, inclusief het honorarium voor de in
+de instelling werkzame specialisten. Intramurale specialisten
+declareren de honorariumbedragen aan of via de
+zorginstelling</al>
+          </li>
+          <li>
+            <li.nr>4.2</li.nr>
+            <al>
+              <nadruk type="cur">Declaratiebepalingen</nadruk>
+            </al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>4.2.1</li.nr>
+                <al>
+                  <nadruk type="cur">Moment
+van declaratie</nadruk>
+                </al>
+                <al>Declaratie vindt plaats wanneer een DBC
+is afgesloten. Een DBC kan op zeven manieren worden
+afgesloten:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1.</li.nr>
+                    <al>bij
+afsluiting van de behandeling;</al>
+                  </li>
+                  <li>
+                    <li.nr>2.</li.nr>
+                    <al>bij
+verandering van het zorgtype;</al>
+                  </li>
+                  <li>
+                    <li.nr>3.</li.nr>
+                    <al>bij
+be&#xEB;indiging van de behandeling door definitieve overdracht van de
+pati&#xEB;nt naar een andere
+instelling;</al>
+                  </li>
+                  <li>
+                    <li.nr>4.</li.nr>
+                    <al>365 dagen na opening van
+een DBC;</al>
+                  </li>
+                  <li>
+                    <li.nr>5.</li.nr>
+                    <al>30 dagen na opening, ingeval
+het een chronische DBC betreft die in de in <intref status="actief" doc="1.0:v:BWBR0027627&amp;bijlage=1">bijlage 1</intref> opgenomen
+limitatieve lijst van chronische DBC&#x2019;s is
+opgenomen;</al>
+                  </li>
+                  <li>
+                    <li.nr>6.</li.nr>
+                    <al>7 dagen na opening,
+ingeval het een dialyse DBC betreft die in de in <intref status="actief" doc="1.0:v:BWBR0027627&amp;bijlage=2">bijlage 2</intref> opgenomen
+limitatieve lijst is opgenomen;</al>
+                  </li>
+                  <li>
+                    <li.nr>7.</li.nr>
+                    <al>bij
+overlijden van de
+pati&#xEB;nt.</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>4.2.2</li.nr>
+                <al>
+                  <nadruk type="cur">DBC&#x2019;s
+die gedeclareerd kunnen worden</nadruk>
+                </al>
+
+                <al>Het volledige
+DBC-tarief kan in rekening worden gebracht voor DBC&#x2019;s die zijn
+geopend vanaf 1&#xA0;februari 2005 en die intern zijn gevalideerd door
+de zorginstelling via de validatiemodule. Vanaf 1&#xA0;januari 2007
+wordt het ordernummer gehanteerd ten behoeve van declaraties door
+aanbieders. Uitgangspunt voor declaratie is het DBC-tarief dat gold op
+het moment van openen van de
+DBC<noot id="n4e10496034" type="voet">
+                    <noot.nr>4</noot.nr>
+                    <noot.al>De
+voorwaarde van validering door de zorginstelling via de validatiemodule
+geldt niet voor de zelfstandige radiotherapeutische instellingen, de
+zelfstandige dialysecentra en de audiologische centra. Hier dienen wel
+alternatieve controlemaatregelen aanwezig te zijn met vergelijkbare
+betrouwbaarheidsgraad. Voor de zelfstandige radiotherapeutische
+instellingen en de zelfstandige dialysecentra geldt dat het volledige
+DBC-tarief in rekening kan worden gebracht voor DBC&#x2019;s die zijn
+geopend vanaf 1 februari 2006 en dat er voor verrichtingen na 1
+februari 2006 geen onderliggende NZA-verrichtingencodes meer kunnen
+worden gedeclareerd. Voor de audiologische centra geldt dat het
+volledige DBC-tarief in rekening kan worden gebracht voor DBC&#x2019;s
+die zijn geopend vanaf 1&#xA0;januari 2007 en dat er voor verrichtingen
+na 1 januari 2007 geen onderliggende NZA-verrichtingencodes meer kunnen
+worden gedeclareerd.</noot.al>
+                  </noot>. Alleen DBC&#x2019;s die volgens de vigerende typeringsinstructies zijn
+getypeerd en die zijn gevalideerd volgens de vigerende validatiemodule
+kunnen worden
+gedeclareerd.</al>
+              </li>
+              <li>
+                <li.nr>4.2.3</li.nr>
+                <al>
+                  <nadruk type="cur">Aan
+wie wordt de DBC gedeclareerd?</nadruk>
+                </al>
+                <al>Het DBC-tarief wordt
+gedeclareerd aan de pati&#xEB;nt of aan de ziektekostenverzekeraar.
+Wanneer de pati&#xEB;nt gedurende de looptijd van een DBC is veranderd
+van ziektekostenverzekeraar, dient de DBC te worden gedeclareerd aan de
+ziektekostenverzekeraar bij wie de pati&#xEB;nt verzekerd was op het
+moment van opening van de te declareren
+DBC.</al>
+              </li>
+              <li>
+                <li.nr>4.2.4</li.nr>
+                <al>
+                  <nadruk type="cur">Gegevens
+op de nota</nadruk>
+                </al>
+                <al>De gegevens die op de factuur dienen te
+worden vermeld zijn opgenomen in de regeling
+&#x2018;informatieverstrekking DBC-bedragen en overige bedragen medisch
+specialistische zorg door of vanwege de
+zorginstelling&#x2019;.</al>
+              </li>
+            </lijst>
+          </li>
+          <li>
+            <li.nr>4.3</li.nr>
+            <al>
+              <nadruk type="cur">Parallelle
+DBC&#x2019;s</nadruk>
+            </al>
+            <al>Binnen &#xE9;&#xE9;n specialisme kunnen
+gelijktijdig meerdere DBC&#x2019;s voor dezelfde pati&#xEB;nt voorkomen
+(parallelle
+DBC&#x2019;s).</al>
+          </li>
+          <li>
+            <li.nr>4.4</li.nr>
+            <al>
+              <nadruk type="cur">Specifieke
+bepalingen DBC&#x2019;s die vallen onder een wettelijke
+regeling</nadruk>
+            </al>
+            <al>DBC&#x2019;s die vallen onder een wettelijke
+regeling worden alleen gedeclareerd door zorgaanbieders die in het
+kader van de betreffende wettelijke regeling toestemming hebben de
+verrichtingen uit te voeren. Voor de specifieke declaratiebepalingen
+voor deze DBC&#x2019;s wordt verwezen naar <intref status="actief" doc="1.0:v:BWBR0027627&amp;bijlage=3">bijlage
+3</intref>.</al>
+          </li>
+          <li>
+            <li.nr>4.5</li.nr>
+            <al>
+              <nadruk type="cur">DBC
+consult</nadruk>
+            </al>
+            <al>DBC&#x2019;s consult worden alleen
+gedeclareerd indien aan de volgende voorwaarden wordt
+voldaan:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>alle
+DBC&#x2019;s consult maken onderdeel uit van het
+A-segment;</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>maximaal twee
+DBC&#x2019;s consult per 365 dagen per pati&#xEB;nt per DBC-diagnose
+per poortspecialisme per
+instelling;</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>indien er sprake is
+van dubbelzijdige behandeling tijdens &#xE9;&#xE9;n en hetzelfde
+consult wordt er slechts &#xE9;&#xE9;n DBC consult in rekening
+gebracht;</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>niet in combinatie
+met ICC tijdens opname bij een ander
+specialisme;</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>niet gebruiken
+voor diagnostiek of verrichtingen op verzoek van eerste lijn of derden
+in geval van onderlinge dienstverlening (dus niet in plaats van een
+O(v)P);</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>er is geen sprake van
+een DBC consult indien er direct voortkomend uit het betreffende
+consult op initiatief van de specialist een vervolgafspraak wordt
+gemaakt met het betreffende
+specialisme;</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>voor het
+specialisme anesthesiologie alleen voor wat betreft pijnbestrijding
+DBC&#x2019;s;</al>
+              </li>
+              <li>
+                <li.nr>&#x2022;</li.nr>
+                <al>niet bij
+preoperatieve
+screening.</al>
+              </li>
+            </lijst>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Overige
+bedragen</titel>
+        </kop>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>5.1</li.nr>
+            <al>Trajecten
+kunnen afzonderlijk van de DBC worden gedeclareerd. De verrichtingen
+staan los van de DBC&#x2019;s en kunnen zelfstandig worden gedeclareerd
+binnen een zorgtraject. De overige trajecten en verrichtingen maken
+onderdeel uit van het A-segment met landelijke
+bedragen.</al>
+          </li>
+          <li>
+            <li.nr>5.2</li.nr>
+            <al>Overige trajecten en
+verrichtingen worden gedeclareerd per dag. Een tarief voor een overig
+traject of een verrichting wordt gedeclareerd aan de pati&#xEB;nt of
+aan de zorgverzekeraar bij wie de pati&#xEB;nt op de betreffende dag
+(traject) of het moment waarop de verrichting wordt uitgevoerd is
+verzekerd.</al>
+          </li>
+          <li>
+            <li.nr>5.3</li.nr>
+            <al>Ondersteunende en overige
+producten op verzoek van de eerstelijn, op verzoek van een ander
+specialisme werkzaam binnen dezelfde instelling waarvoor de
+DBC-systematiek niet geldt en in het kader van onderlinge
+dienstverlening en verpleging in de thuissituatie, noodzakelijk in
+verband met medisch- specialistische
+zorg.</al>
+          </li>
+          <li>
+            <li.nr>5.4</li.nr>
+            <al>
+              <nadruk type="cur">Specifieke
+bepalingen overige bedragen</nadruk>
+            </al>
+            <al>Voor de specifieke
+declaratiebepalingen voor overige trajecten en verrichtingen wordt
+verwezen naar <intref status="actief" doc="1.0:v:BWBR0027627&amp;bijlage=4">bijlage 4</intref>. Voor de specifieke declaratiebepalingen voor
+O(v)P&#x2019;s op verzoek van de eerstelijn en in het kader van
+onderlinge dienstverlening wordt verwezen naar <intref status="actief" doc="1.0:v:BWBR0027627&amp;bijlage=5">bijlage
+5</intref>.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Overige
+bepalingen</titel>
+        </kop>
+        <tussenkop kopopmaak="cur">
+          <nadruk type="cur">Bepalingen
+gelden per pati&#xEB;nt per
+instelling</nadruk>
+        </tussenkop>
+        <al>
+          <nadruk type="vet">Klinische eendaagse
+DBC&#x2019;s</nadruk>
+        </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>6.1a.</li.nr>
+            <al>Klinische
+&#xE9;&#xE9;ndaagse DBC&#x2019;s (waarbij &#xE9;&#xE9;ndaagse slaat op
+een looptijd van &#xE9;&#xE9;n kalenderdag) kunnen niet worden
+gedeclareerd. Van klinische DBC&#x2019;s is sprake in geval van opname
+van de pati&#xEB;nt op de verpleegafdeling, IC, high/medium care. In
+andere gevallen is sprake van poliklinische of dagverpleging
+DBC&#x2019;s.</al>
+          </li>
+          <li>
+            <li.nr>6.1b.</li.nr>
+            <al>De bepaling zoals
+genoemd bij 6.1a is niet van toepassing indien er sprake is van
+definitieve overname van de pati&#xEB;nt door een andere instelling, op
+de dag van opname op de verpleegafdeling, IC, high/medium care door de
+initi&#xEB;le instelling. In dat geval kan er wel een klinische
+&#xE9;&#xE9;ndaagse DBC worden
+gedeclareerd.</al>
+          </li>
+          <li>
+            <li.nr>6.1c.</li.nr>
+            <al>De bepaling zoals
+genoemd bij 6.1a is niet van toepassing indien er sprake is van
+definitieve overname van de pati&#xEB;nt door een ander specialisme
+binnen dezelfde instelling op de dag van opname op de verpleegafdeling,
+IC, high/medium care door de initi&#xEB;le instelling. In dat geval kan
+er wel een klinische &#xE9;&#xE9;ndaagse DBC worden
+gedeclareerd.</al>
+          </li>
+          <li>
+            <li.nr>6.1d.</li.nr>
+            <al>De bepaling zoals
+genoemd bij 6.1a is niet van toepassing indien er sprake is van
+overlijden van de pati&#xEB;nt op de dag van opname op de
+verpleegafdeling, IC, high/medium care. In dat geval kan er wel een
+klinische &#xE9;&#xE9;ndaagse DBC worden
+gedeclareerd.</al>
+          </li>
+          <li>
+            <li.nr>6.1e.</li.nr>
+            <al>De bepaling zoals
+genoemd bij 6.1a is niet van toepassing indien er sprake is van
+observatie van een pati&#xEB;nt op de verpleegafdeling, IC, high/medium
+care en ontslag plaatsvindt op de dag van de opname. In dat geval kan
+er wel een klinische &#xE9;&#xE9;ndaagse DBC worden
+gedeclareerd.</al>
+          </li>
+        </lijst>
+        <al>
+          <nadruk type="vet">Aansluitende
+(seri&#xEB;le)
+DBC&#x2019;s</nadruk>
+        </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>6.2a.</li.nr>
+            <al>Het
+is niet mogelijk om binnen 28 dagen (na afsluiten van de eerste DBC)
+voor hetzelfde specialisme een poliklinische DBC met hetzelfde zorgtype
+en diagnose te openen. Indien er abusievelijk binnen 28 dagen toch een
+tweede poliklinische DBC wordt geregistreerd, kan deze niet worden
+gedeclareerd.</al>
+          </li>
+          <li>
+            <li.nr>6.2b.</li.nr>
+            <al>De bepaling zoals
+genoemd bij 6.2a is niet van toepassing indien er sprake is van het
+behandelen van dubbelzijdige
+organen.</al>
+          </li>
+          <li>
+            <li.nr>6.2c.</li.nr>
+            <al>De bepaling zoals genoemd
+bij 6.2a is niet van toepassing op vervolg DBC&#x2019;s in het geval
+van exacerbatie/recidief en de hierdoor optredende verzwaring van de
+behandelsetting (poliklinisch/dagverpleging/opname) van de vervolg
+DBC.</al>
+          </li>
+          <li>
+            <li.nr>6.2d.</li.nr>
+            <al>De bepaling zoals genoemd bij
+6.2a is niet van toepassing op DBC&#x2019;s waarvoor in deze nadere
+regel. in de prestatieomschrijving of in de instructies expliciet is
+opgenomen dat per verrichting of behandeling het declareren van een
+afzonderlijke DBC is
+toegestaan.</al>
+          </li>
+          <li>
+            <li.nr>6.3.</li.nr>
+            <al>Aansluitend worden geen
+DBC&#x2019;s van hetzelfde zorgtype en dezelfde diagnose met een
+veranderende behandelmodaliteit gedeclareerd. In het geval dat er
+sprake is van het verzwaren van de behandelmodaliteit wordt alleen de
+DBC met de zwaarste modaliteit in rekening gebracht. Met
+behandelmodaliteit is bedoeld elke behandelmogelijkheid in de
+behandelas. De uitzonderingen zoals genoemd onder 6.2b, 6.2c en 6.2d
+zijn ook hier van toepassing.</al>
+          </li>
+        </lijst>
+        <al>
+          <nadruk type="vet">Onderlinge
+dienstverlening</nadruk>
+        </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>6.4a.</li.nr>
+            <al>Indien
+er sprake is van onderlinge dienstverlening wordt alleen door de
+instelling waar de pati&#xEB;nt als eigen pati&#xEB;nt onder
+behandeling is een DBC in rekening gebracht. Door de dienstverlenende
+instelling wordt noch een DBC noch een overig of ondersteunend product
+bij de pati&#xEB;nt of zorgverzekeraar in rekening
+gebracht.</al>
+          </li>
+          <li>
+            <li.nr>6.4b.</li.nr>
+            <al>De bepaling zoals
+genoemd bij 6.4a is niet van toepassing op WBMV DBC&#x2019;s. In dat
+geval mag er wel een DBC in rekening worden
+gebracht.</al>
+          </li>
+          <li>
+            <li.nr>6.4c.</li.nr>
+            <al>Diagnostiek op verzoek
+van de eerste lijn valt niet onder onderlinge dienstverlening. In het
+geval van productie op verzoek van de eerste lijn wordt er een overig
+of ondersteunend product in rekening gebracht. Voor productie op
+verzoek van de eerste lijn wordt geen DBC in rekening worden
+gebracht.</al>
+          </li>
+          <li>
+            <li.nr>6.4d.</li.nr>
+            <al>Indien er sprake is van
+diagnostiek op verzoek van de eerste lijn, die direct leidt tot
+overname van de behandeling door de medisch specialist kan er geen
+overig of ondersteunend product worden gedeclareerd. In dat geval kan
+er alleen een DBC door de medisch specialist in rekening worden
+gebracht.</al>
+          </li>
+        </lijst>
+        <al>
+          <nadruk type="vet">Overige en
+ondersteunende
+producten</nadruk>
+        </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>6.5a.</li.nr>
+            <al>Een
+overig of ondersteunend product wordt alleen bij pati&#xEB;nt of
+zorgverzekeraar in rekening gebracht indien (1) er sprake is van
+productie op verzoek van de eerste lijn, (2) productie aan een ander
+specialisme, werkzaam binnen dezelfde instelling, waarvoor de
+DBC-systematiek niet geldt (zoals kaakchirurgie en
+revalidatiegeneeskunde) of (3) er sprake is van verpleging in de
+thuissituatie, noodzakelijk in verband met medisch-specialistische
+zorg.</al>
+          </li>
+          <li>
+            <li.nr>6.5b.</li.nr>
+            <al>Een overig of ondersteunend
+product wordt dus niet bij pati&#xEB;nt of verzekeraar in rekening
+gebracht als het overig of ondersteunend product onderdeel uitmaakt van
+een DBC.</al>
+          </li>
+        </lijst>
+        <al>
+          <nadruk type="vet">Zorgtrajecten</nadruk>
+        </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>6.6.</li.nr>
+            <al>De
+zorgtrajecten 41 en 51 kunnen niet worden gedeclareerd. Indien er een
+prestatieomschrijving is vastgesteld en er aan het eerstelijnscriterium
+wordt voldaan kan er wel een overig of ondersteunend product in
+rekening worden gebracht. Ook kunnen er voor zorgtrajecten 41 en 51
+geen parameters ten behoeve van FB budget worden
+geregistreerd.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Inwerkingtreding
+regeling</titel>
+        </kop>
+        <al>De
+regeling kan worden aangehaald als &#x2018;Regeling
+declaratiebepalingen DBC-bedragen en overige bedragen medisch
+specialistische zorg door of vanwege de
+zorginstelling&#x2019;.</al>
+      <al>Deze
+regeling treedt in werking met ingang van de tweede dag na de
+dagtekening van de Staatscourant waarin zij wordt
+geplaatst.</al></artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      
+      <ondertekening>
+        <functie>De Nederlandse Zorgautoriteit</functie>,
+        <functie>voorzitter Raad van Bestuur</functie>,
+        <naam>
+          <voornaam>T.W.</voornaam>
+          <achternaam>Langejan</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  <bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">1</nr></kop><al><redactie type="vervanging">Niet opgenomen.</redactie></al></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">2</nr></kop><al><redactie type="vervanging">Niet opgenomen.</redactie></al></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">3</nr></kop><al><redactie type="vervanging">Niet opgenomen.</redactie></al></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">4</nr></kop><al><redactie type="vervanging">Niet opgenomen.</redactie></al></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">5</nr></kop><al><redactie type="vervanging">Niet opgenomen.</redactie></al></bijlage></regeling>
+</wetgeving>
+  	

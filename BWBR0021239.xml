@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0021239" dtdversie="2.0" id="370959" soort="beleidsregel">
+  
+  <intitule>Richtlijn voor strafvordering fiets(en)diefstal
+</intitule>
+  
+  <circulaire>
+    
+    <circulaire-tekst>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Beschrijving</nadruk>
+          </titel>
+        </kop>
+        <tekst status="goed">
+          <al>Diefstal van &#xE9;&#xE9;n fiets of van meer fietsen in &#xE9;&#xE9;n wilsbesluit. In geval meer fietsen zijn weggenomen in meer wilsbesluiten, dienen deze separaat vervolgd te worden.</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Aard van de richtlijn</nadruk>
+          </titel>
+        </kop>
+        <tekst status="goed">
+          <al>Commuun</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Basisdelicten</nadruk>
+          </titel>
+        </kop>
+        <tekst status="goed">
+          <al>&#x2013; Fiets(en)diefstal</al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">Wettekst</nadruk>
+          </titel>
+        </kop>
+        <tekst status="goed">
+          <al>&#x2013; <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=310" compleet="nee">Wetboek van Strafrecht art. 310</extref></al>
+          <al>&#x2013; <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=311" compleet="nee">Wetboek van Strafrecht art. 311</extref></al>
+        </tekst>
+      </circulaire.divisie>
+      <circulaire.divisie opmaak="default" status="goed">
+        <kop>
+          <titel status="officieel">Basisdelict Fiets(en)diefstal</titel>
+        </kop>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Beschrijving</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Diefstal van &#xE9;&#xE9;n fiets of van meer fietsen in &#xE9;&#xE9;n wilsbesluit. In geval meer fietsen zijn weggenomen in meer wilsbesluiten, dienen deze separaat vervolgd te worden.</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Toepasselijk kader</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Commuun en verkeer</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Basispunten</titel>
+          </kop>
+          <tekst status="goed">
+            <al>10 punten</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Basisfactoren</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Aantal fietsen</al>
+            <al>&#x2013; per extra fiets: 5 pt</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Delictspecifieke factoren</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Medeplegen</al>
+            <al>&#x2013; Er is geen sprake van medeplegen: +0&#xA0;%</al>
+            <al>&#x2013; Er is sprake van medeplegen: +25&#xA0;%</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Wettelijke factoren</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Medeplichtigheid:</al>
+            <al>&#x2013; Dader: +0&#xA0;%</al>
+            <al>&#x2013; Medeplichtige: -33&#xA0;%</al>
+            <al>Poging</al>
+            <al>&#x2013; Voltooid delict: +0&#xA0;%</al>
+            <al>&#x2013; Poging tot plegen: -33&#xA0;%</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Recidiveregeling</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Mate van recidive (5 jaar)</al>
+            <table frame="none" tabstyle="tekst">
+    <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="tekst">
+      <colspec colname="col1" colnum="1" colwidth="30*"/>
+      <colspec align="right" colname="col2" colnum="2" colwidth="20*"/>
+      <tbody valign="top">
+        <row>
+          <entry align="left" morerows="0" rotate="0" valign="top">
+            <al>&#x2013; Geen recidive</al>
+          </entry>
+          <entry align="right" morerows="0" rotate="0" valign="top">
+            <al>+0 %</al>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" morerows="0" rotate="0" valign="top">
+            <al>&#x2013; 1 maal</al>
+          </entry>
+          <entry align="right" morerows="0" rotate="0" valign="top">
+            <al>+10 %</al>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" morerows="0" rotate="0" valign="top">
+            <al>&#x2013; Meermalen</al>
+          </entry>
+          <entry align="right" morerows="0" rotate="0" valign="top">
+            <al>+20 %</al>
+          </entry>
+        </row>
+        <row>
+          <entry align="left" morerows="0" rotate="0" valign="top"/>
+          <entry align="right" morerows="0" rotate="0" valign="top">
+            <al>+dagvaarden</al>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table><al><nadruk type="cur">Uitgangspunt indien onbekend</nadruk></al><al>Geen recidive</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Draagkracht</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Geen</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Speciale regelingen</titel>
+          </kop>
+          <tekst status="goed">
+            <al>&#x2013; Schaderegeling</al>
+          </tekst>
+        </circulaire.divisie>
+        <circulaire.divisie opmaak="default" status="goed">
+          <kop>
+            <titel status="officieel">Bijzonderheden</titel>
+          </kop>
+          <tekst status="goed">
+            <al>Geen</al>
+          </tekst>
+        </circulaire.divisie>
+      </circulaire.divisie>
+    </circulaire-tekst>
+  </circulaire>
+</wetgeving>
+  	

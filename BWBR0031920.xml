@@ -1,0 +1,597 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0031920" dtdversie="2.0" id="477679" soort="zbo">
+  
+  <intitule>Regeling AFM en DNB nadere voorschriften Wfm BES en Wwft BES 2012</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Stichting Autoriteit Financi&#xEB;le Markten en De Nederlandsche Bank N.V.,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op de <extref status="actief" doc="1.0:v:BWBR0030883" compleet="nee">Wet financi&#xEB;le markten BES</extref> (Stb. 2011, 612), in het bijzonder <extref status="actief" doc="1.0:v:BWBR0030883&amp;paragraaf=2" compleet="nee">hoofdstuk&#xA0;3, paragrafen&#xA0;2</extref>, <extref status="actief" doc="1.0:v:BWBR0030883&amp;paragraaf=3" compleet="nee">3</extref>, <extref status="actief" doc="1.0:v:BWBR0030883&amp;paragraaf=5" compleet="nee">5</extref> en&#xA0;<extref status="actief" doc="1.0:v:BWBR0030883&amp;paragraaf=7" compleet="nee">7</extref>;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op het <extref status="actief" doc="1.0:v:BWBR0031636" compleet="nee">Besluit financi&#xEB;le markten BES</extref> (Stb. 2012, 238), in het bijzonder <extref status="actief" doc="1.0:v:BWBR0031636&amp;paragraaf=2" compleet="nee">hoofdstuk&#xA0;3, paragrafen&#xA0;2</extref> en&#xA0;<extref status="actief" doc="1.0:v:BWBR0031636&amp;paragraaf=3" compleet="nee">3</extref>, <extref status="actief" doc="1.0:v:BWBR0031636&amp;paragraaf=2" compleet="nee">hoofdstuk&#xA0;4, paragrafen&#xA0;2 tot en met&#xA0;9</extref>, en <extref status="actief" doc="1.0:v:BWBR0031636&amp;paragraaf=2" compleet="nee">hoofdstuk&#xA0;5, paragraaf&#xA0;2</extref>;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0030824&amp;artikel=3.13" compleet="nee">artikel 3.13</extref> en <extref status="actief" doc="1.0:v:BWBR0030824&amp;hoofdstuk=5" compleet="nee">hoofdstuk 5 van de Wet ter voorkoming van witwassen en financieren van terrorisme BES</extref> (Stb. 2011,&#xA0;613), in samenhang met <extref status="actief" doc="1.0:v:BWBR0003296&amp;afdeling=7" compleet="nee">afdeling 7 van de Sanctiewet 1977</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besljuiten:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Algemene bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">(definities)</titel>
+          </kop>
+          <al>In deze regeling wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al><nadruk type="cur">DNB:</nadruk> de Nederlandsche Bank N.V.;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al><nadruk type="cur">AFM:</nadruk> Stichting Autoriteit Financi&#xEB;le Markten;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al><nadruk type="cur">CBCS:</nadruk> Centrale Bank van Cura&#xE7;ao en Sint Maarten, alsmede haar rechtsvoorgangster, de Bank van de Nederlandse Antillen;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al><nadruk type="cur">deopenbare lichamen of Caribisch Nederland:</nadruk> de openbare lichamen Bonaire, Sint Eustatius en Saba;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al><nadruk type="cur">de Wfm BES:</nadruk> de <extref status="actief" doc="1.0:v:BWBR0030883" compleet="nee">Wet financi&#xEB;le markten BES</extref> (Stb. 2011, 612);</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al><nadruk type="cur">het Bfm BES:</nadruk> het <extref status="actief" doc="1.0:v:BWBR0031636" compleet="nee">Besluit financi&#xEB;le markten BES</extref> (Stb. 2012, 238);</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al><nadruk type="cur">de Wwft BES:</nadruk> de <extref status="actief" doc="1.0:v:BWBR0030824" compleet="nee">Wet ter voorkoming van witwassen en financieren van terrorisme BES</extref> (Stb. 2011, 613);</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al><nadruk type="cur">USD of dollar:</nadruk> de gelijknamige munteenheid van de Verenigde Staten van Amerika.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Nadere voorschriften van de AFM op het gebied van het gedragstoezicht</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">(beroepsaansprakelijkheidsverzekering &#x2013; BAV)</titel>
+          </kop>
+          <al>De beroepsaansprakelijkheidsverzekering (BAV), bedoeld in <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=3%3A24" compleet="nee">artikel 3:24 van de Wfm BES</extref> en <extref status="actief" doc="1.0:v:BWBR0031636&amp;artikel=4%3A47" compleet="nee">artikel 4:47 van het Bfm BES</extref>, dekt de aansprakelijkheid van de adviseur, bemiddelaar, niet zijnde een bemiddelaar in effecten, of de gevolmachtigd agent of ondergevolmachtigd agent voor een bedrag van ten minste USD 50.000 per jaar.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Nadere regels van de AFM en DNB met betrekking tot de integere en beheerste bedrijfsuitoefening</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">3.1</nr>
+            <titel status="officieel">Nadere regels van de AFM en DNB met betrekking tot de integere bedrijfsuitoefening</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3</nr>
+              <titel status="officieel">(integriteitsgevoelige functies)</titel>
+            </kop>
+            <al>Voor de toepassing van <extref status="actief" doc="1.0:v:BWBR0031636&amp;artikel=3%3A16" compleet="nee">artikel&#xA0;3:16 van het Bfm BES</extref> kwalificeren de AFM en DNB in elk geval de volgende categorie&#xEB;n functies bij een financi&#xEB;le onderneming als integriteitsgevoelig:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de functies van leidinggevende functionarissen die ressorteren onder op betrouwbaarheid te toetsen beleidsbepalers of medebeleidsbepalers, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=3%3A4" compleet="nee">artikel&#xA0;3:4 van de Wfm BES</extref>, in het eerste echelon van de financi&#xEB;le onderneming, waaronder directeuren van business units, stafdirecteuren, hoofden van stafdiensten, adjunct-directeuren en overige leden van het management team op het niveau van de tweede echelon;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de zogenoemde sleutelfuncties waaraan een bevoegdheid is verbonden die een wezenlijk risico bevat voor de integere bedrijfsuitoefening door de financi&#xEB;le onderneming, bedoeld in <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=3%3A8" compleet="nee">artikel&#xA0;3:8 van de Wfm BES</extref>, welke sleutelfuncties onder meer betrekking hebben op:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;</li.nr>
+                    <al>de beschikking over of het beheer van vermogen of waarden van de financi&#xEB;le onderneming of van derden, dan wel het aangaan van verplichtingen namens de onderneming (vertrouwensfuncties);</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;</li.nr>
+                    <al>de toegang tot persoonsgegevens of bedrijfsgevoelige informatie over de financi&#xEB;le onderneming of over derden (risicofuncties); en</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;</li.nr>
+                    <al>de uitvoering van controlerende of toezichthoudende werkzaamheden ten aanzien van de administratieve organisatie en het systeem van interne controle van de financi&#xEB;le onderneming en de naleving van toepasselijke wet- en regelgeving en interne voorschriften (overige sleutelfuncties); en tevens</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de functies in de zin van de onderdelen&#xA0;a of&#xA0;b, indien die functies worden vervuld door personen die niet op basis van een arbeidsovereenkomst bij de financi&#xEB;le onderneming werkzaam zijn, maar bijvoorbeeld op inhuur- of detacheringsbasis te werk zijn gesteld.</al>
+              </li>
+            </lijst>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">3.2</nr>
+            <titel status="officieel">Nadere regels van DNB met betrekking tot de integere en beheerste bedrijfsuitoefening</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">4</nr>
+              <titel status="officieel">(afgeschermde rekeningen kredietinstellingen)</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>In dit artikel wordt verstaan onder:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>
+                    <nadruk type="cur">afgeschermde rekening:</nadruk> een rekening waarop een saldo in geld, effecten, edele metalen of andere waarden kan worden aangehouden en waarbij de identiteit van de cli&#xEB;nt bij de transactieverwerking niet zichtbaar is of anderszins afgeschermd is door slechts gebruik te maken van een rekeningnummer, een ander nummer of een codewoord, terwijl de identiteit van de cli&#xEB;nt wel bekend is bij de kredietinstelling;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>
+                    <nadruk type="cur">cli&#xEB;nt:</nadruk> een cli&#xEB;nt als bedoeld in <extref status="actief" doc="1.0:v:BWBR0030824&amp;artikel=1.1" compleet="nee">artikel&#xA0;1.1, eerste lid, onderdeel&#xA0;b, van de Wwft BES</extref>.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>Ter uitvoering van <extref status="actief" doc="1.0:v:BWBR0031636&amp;artikel=3%3A10" compleet="nee">artikel&#xA0;3:10, tweede lid, van het Bfm BES</extref> gelden met het oog op een integere uitoefening van het bedrijf met betrekking tot afgeschermde rekeningen die bij een kredietinstelling worden aangehouden, de volgende regels:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>de kredietinstelling voert een restrictief beleid ten aanzien van het openen van afgeschermde rekeningen;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>de kredietinstelling stelt geen afgeschermde rekeningen open, anders dan met het oog op de bescherming van privacy en veiligheid van cli&#xEB;nten dan wel ter voorkoming van misbruik van voorwetenschap;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>de kredietinstelling stelt adequate instructies voor het personeel op met betrekking tot het openen en beheren van afgeschermde rekeningen;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>onverminderd de op de kredietinstelling rustende verplichtingen op grond van de <extref status="actief" doc="1.0:v:BWBR0030824" compleet="nee">Wwft BES</extref>, houdt de kredietinstelling een centraal register aan van het gebruik van afgeschermde rekeningen;</al>
+                </li>
+                <li>
+                  <li.nr>e.</li.nr>
+                  <al>de kredietinstelling legt in het centraal register ten minste de gegevens vast, bedoeld in <extref status="actief" doc="1.0:v:BWBR0030824&amp;artikel=2.13" compleet="nee">artikel 2.13</extref> en <extref status="actief" doc="1.0:v:BWBR0030824&amp;bijlage=B" compleet="nee">Bijlage&#xA0;B van de Wwft BES</extref>, voor zover van toepassing;</al>
+                </li>
+                <li>
+                  <li.nr>f.</li.nr>
+                  <al>de kredietinstelling zorgt dat het centraal register ten minste op naam en nummer of aan de hand van een codesleutel toegang verschaft tot afgeschermde rekeningen;</al>
+                </li>
+                <li>
+                  <li.nr>g.</li.nr>
+                  <al>de kredietinstelling wijst een beheerder van het centraal register aan;</al>
+                </li>
+                <li>
+                  <li.nr>h.</li.nr>
+                  <al>de kredietinstelling draagt zorg voor voldoende interne controle op de volledigheid en juistheid van de in het centraal register opgenomen gegevens met betrekking tot afgeschermde rekeningen; en</al>
+                </li>
+                <li>
+                  <li.nr>i.</li.nr>
+                  <al>onverminderd het bepaalde in <extref status="actief" doc="1.0:v:BWBR0031636&amp;artikel=3%3A8" compleet="nee">artikel&#xA0;3:8 van het Bfm BES</extref> heeft de in die bepaling bedoelde compliance officer op elk moment en binnen korte tijd toegang tot het centraal register van afgeschermde rekeningen en tot alle gegevens die daarmee verband houden.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Dit artikel heeft betrekking op nog open te stellen afgeschermde rekeningen die worden aangehouden bij een kredietinstelling, alsmede op afgeschermde rekeningen die reeds bestonden op het moment van inwerkingtreding van deze regeling.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">5</nr>
+              <titel status="officieel">(vermogensscheiding geldtransactiekantoren)</titel>
+            </kop>
+
+            <al>In het kader van de beheerste uitoefening van zijn bedrijf, bedoeld in <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=3%3A9" compleet="nee">artikel&#xA0;3:9, tweede lid, aanhef en onderdelen&#xA0;a en&#xA0;b, van de Wfm BES</extref>, treft een geldtransactiekantoor dat in of vanuit Caribisch Nederland geldtransacties uitvoert in de zin van onderdeel&#xA0;c van de definitie van <nadruk type="cur">geldtransactie</nadruk> in <extref status="actief" doc="1.0:v:BWBR0030883&amp;artikel=1%3A1" compleet="nee">artikel&#xA0;1:1 van de Wfm BES</extref>, adequate maatregelen om de voor de uitvoering van dergelijke geldtransacties ontvangen en nog niet betaalde of betaalbaar gestelde gelden of geldswaarden veilig te stellen. </al>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">3.3</nr>
+            <titel status="officieel">Sanctiewetgeving</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">6</nr>
+              <titel status="officieel">(meldingsplicht aan DNB op grond van de sanctiewetgeving)</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+
+              <al>Een melding door een financi&#xEB;le onderneming op grond van <extref status="actief" doc="1.0:v:BWBR0030824&amp;artikel=3.13" compleet="nee">artikel 3.13, eerste lid, van de Wwft BES</extref> dat de identiteit van een relatie overeenkomt met een natuurlijk persoon, rechtspersoon of entiteit als bedoeld in de <extref status="actief" doc="1.0:v:BWBR0003296" compleet="nee">Sanctiewet 1977</extref> en de <extref status="actief" doc="1.0:v:BWBR0029611" compleet="nee">Sanctieregeling BES</extref> (Stcrt. 2011, 2873) en de op grond van die wet vastgestelde sanctieregelingen en sanctiebesluiten met betrekking tot het financieel verkeer, geschiedt door middel van het daartoe door DNB vastgestelde <nadruk type="cur">Meldformat</nadruk>.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+
+              <al>De melding aan DNB geschiedt zo spoedig mogelijk nadat de financi&#xEB;le onderneming een overeenkomst als bedoeld in het eerste lid (dat wil zeggen een &#x2018;hit&#x2019;) heeft geconstateerd, onder opgave van alle in het <nadruk type="cur">Meldformat</nadruk> opgenomen gegevens, voor zover deze van toepassing zijn. Bij de melding geeft de financi&#xEB;le onderneming tevens aan op basis van welke sanctieregeling of sanctiebesluit zij de melding doet. </al>
+            </lid>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Nadere voorschriften van DNB op het gebied van het prudentieel toezicht</titel>
+        </kop>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">4.1</nr>
+            <titel status="officieel">Prudenti&#xEB;le voorschriften met betrekking tot kredietinstellingen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">7</nr>
+              <titel status="officieel">(financi&#xEB;le waarborgen kredietinstellingen)</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Een kredietinstelling met zetel in een openbaar lichaam berekent haar solvabiliteit en liquiditeit conform de regels ter zake in de rapportagestaten, bedoeld in <intref status="actief" doc="1.0:v:BWBR0031920&amp;artikel=8">artikel&#xA0;8</intref>, en houdt zich in dat kader tevens aan de navolgende voorschriften van de CBCS:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>
+                    <nadruk type="cur">Supervisory regulations for credit institutions I</nadruk>
+                    <noot id="n1e11801554" type="voet">
+                      <noot.nr>1</noot.nr>
+
+                      <noot.al>Zie http://www.centralbank.an/index.php?eid=1011 en Bijlage&#xA0;I bij de <nadruk type="cur">Regeling financi&#xEB;le markten BES 2010</nadruk> (Stcrt. 1&#xA0;oktober 2010, 14616, pag. 1&#x2013;9).</noot.al>
+                    </noot> &#x2013; Extension of credit to Executive Officers, Supervisory Directors, Principal Shareholders and their related interests and to employees of a credit institution (voorschriften inzake het verlenen van krediet door een kredietinstelling aan de leden van haar bestuur en de raad van commissarissen of een vergelijkbaar orgaan, belast met het toezicht op het beleid en de algemene gang van zaken binnen de kredietinstelling, haar aandeelhouders en werknemers);</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>
+                    <nadruk type="cur">Supervisory regulations for credit institutions II</nadruk>
+                    <noot id="n2e11801554" type="voet">
+                      <noot.nr>2</noot.nr>
+
+                      <noot.al>Zie http://www.centralbank.an/index.php?eid=1012 en Bijlage&#xA0;I bij de <nadruk type="cur">Regeling financi&#xEB;le markten BES 2010</nadruk> (Stcrt. 1&#xA0;oktober 2010, 14616, pag 9&#x2013;11).</noot.al>
+                    </noot> &#x2013; Restrictions on transactions with affiliates and loans to affiliates (voorschriften inzake transacties met en leningen aan ondernemingen die aan de kredietinstelling zijn gelieerd);</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>
+                    <nadruk type="cur">Supervisory regulations for credit institutions III</nadruk>
+                    <noot id="n3e11801554" type="voet">
+                      <noot.nr>3</noot.nr>
+
+                      <noot.al>Zie http://www.centralbank.an/index.php?eid=1013 en Bijlage&#xA0;I bij de <nadruk type="cur">Regeling financi&#xEB;le markten BES 2010</nadruk> (Stcrt. 1&#xA0;oktober 2010, 14616, pag 11, en Stcrt. 19&#xA0;november 2010, 14616 rectificatie, pag. 1&#x2013;2).</noot.al>
+                    </noot> &#x2013; Limitations on extensions of credit to any one borrower or group of connected borrowers (&#x2018;large exposure regulation&#x2019;) (voorschriften inzake limieten op het verstrekken van leningen aan &#xE9;&#xE9;n debiteur of een groep onderling gelieerde debiteuren (&#x2018;grote posities&#x2019;));</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>
+                    <nadruk type="cur">Supervisory regulations for credit institutions IV</nadruk>
+                    <noot id="n4e11801554" type="voet">
+                      <noot.nr>4</noot.nr>
+
+                      <noot.al>Zie http://www.centralbank.an/index.php?eid=1014 en Bijlage&#xA0;I bij de <nadruk type="cur">Regeling financi&#xEB;le markten BES 2010</nadruk> (Stcrt. 19&#xA0;november 2010, 14616 rectificatie, pag 2&#x2013;3).</noot.al>
+                    </noot> &#x2013; Country Risk Policy (voorschriften inzake landenrisico&#x2019;s); en</al>
+                </li>
+                <li>
+                  <li.nr>e.</li.nr>
+                  <al>
+                    <nadruk type="cur">Supervisory regulations for credit institutions V</nadruk>
+                    <noot id="n5e11801554" type="voet">
+                      <noot.nr>5</noot.nr>
+
+                      <noot.al>Zie http://www.centralbank.an/index.php?eid=1015 en Bijlage&#xA0;I bij de <nadruk type="cur">Regeling financi&#xEB;le markten BES 2010</nadruk> (Stcrt. 19&#xA0;november 2010, 14616 rectificatie, pag 4&#x2013;8).</noot.al>
+                    </noot> &#x2013; General and Specific Provisions for loan losses of credit institutions (voorschriften inzake algemene en specifieke voorzieningen van kredietinstellingen voor afschrijvingen op uitstaande leningen).</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>In het geval van wijziging door de CBCS van de <nadruk type="cur">Supervisory regulations</nadruk>, bedoeld in het eerste lid, houdt een kredietinstelling met zetel in de openbare lichamen zich met ingang van het tijdstip waarop die wijzigingen van toepassing zijn aan deze gewijzigde <nadruk type="cur">Supervisory regulations</nadruk>, met inachtneming van het eventuele bijbehorende overgangsregime zoals dat is vastgesteld door de CBCS. Onder wijziging wordt in dit verband mede verstaan een aanvulling van de <nadruk type="cur">Supervisory regulations</nadruk>, al dan niet in de vorm van een nieuwe set voorschriften.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>Voor de toepassing van het eerste lid dient in de <nadruk type="cur">Supervisory regulations</nadruk> te worden gelezen:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>voor &#x2018;the National Ordinance on the Supervision of Banking and Credit Institutions 1994&#x2019;: het bepaalde bij of krachtens de Wet financi&#xEB;le markten BES, voor zover van toepassing op kredietinstellingen met zetel in de openbare lichamen;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>voor &#x2018;the Bank&#x2019;: DNB;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>voor &#x2018;the Netherlands Antilles&#x2019;: de openbare lichamen Bonaire, Sint Eustatius en Saba;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>voor de geldbedragen in<nadruk type="cur">Supervisory regulations</nadruk> for credit institutions I:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                      <li.nr>1&#xB0;.</li.nr>
+                      <al>&#x2018;NAf. 100.000&#x2019;: USD 56.000;</al>
+                    </li>
+                    <li>
+                      <li.nr>2&#xB0;.</li.nr>
+                      <al>&#x2018;NAf. 50.000&#x2019;: USD 28.000.</al>
+                    </li>
+                  </lijst>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+
+              <al>De paragrafen &#x2018;Grandfathering provision&#x2019; in respectievelijk onderdeel&#xA0;I.11 van de <nadruk type="cur">Supervisory regulations for credit institutions I</nadruk>; in onderdeel II.8 van de <nadruk type="cur">Supervisory regulations for credit institutions II</nadruk>; en in onderdeel III.10 van de <nadruk type="cur">Supervisory regulations for credit institutions III</nadruk>, zijn niet van toepassing op kredietinstellingen met zetel in de openbare lichamen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>Hetgeen in <nadruk type="cur">Supervisory regulations for credit institutions III</nadruk> is bepaald ten aanzien van &#x2018;<nadruk type="cur">back to back positions</nadruk>&#x2019;, strekt mede ter uitvoering van <extref status="actief" doc="1.0:v:BWBR0031636&amp;artikel=3%3A11" compleet="nee">artikel&#xA0;3:11 van het Bfm BES</extref> inzake back-to-back leningen.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">6</lidnr>
+              <al>Hetgeen in <nadruk type="cur">Supervisory regulations for credit institutions I</nadruk> is bepaald met betrekking tot het verlenen van financi&#xEB;le diensten op basis van personeelscondities aan personen die het beleid van de financi&#xEB;le onderneming bepalen en groepsbestuurders, strekt mede ter uitvoering van <extref status="actief" doc="1.0:v:BWBR0031636&amp;artikel=3%3A15" compleet="nee">artikel&#xA0;3:15, tweede lid, van het Bfm BES</extref> inzake belangenverstrengeling.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">7</lidnr>
+              <al>Met betrekking tot de erkenning van kredietbeoordelingbureaus, bedoeld in <extref status="actief" doc="1.0:v:BWBR0031636&amp;artikel=4%3A13" compleet="nee">artikel 4:13 van het Bfm BES</extref>, is het bepaalde in <extref status="actief" doc="1.0:v:BWBR0020420&amp;artikel=88" compleet="nee">artikel&#xA0;88 van het Besluit prudenti&#xEB;le regels Wft</extref> (Stb. 2006, 519, zoals nadien gewijzigd) van overeenkomstige toepassing.</al>
+            </lid>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">8</nr>
+              <titel status="officieel">(staten kredietinstellingen)</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Een kredietinstelling met zetel in de openbare lichamen dient bij DNB de volgende staten in:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>
+                    <nadruk type="cur">Chart of accounts for Financial institutions</nadruk> van de CBCS, zoals opgenomen in <intref status="actief" doc="1.0:v:BWBR0031920&amp;bijlage=1">bijlage&#xA0;1</intref>; of</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>
+                    <nadruk type="cur">Chart of accounts manual for International institutions</nadruk> van de CBCS, zoals opgenomen in <intref status="actief" doc="1.0:v:BWBR0031920&amp;bijlage=2">bijlage&#xA0;2</intref>.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+
+              <al>De frequentie waarmee en de termijnen waarbinnen de staten, bedoeld in het eerste lid, worden ingediend, zijn de frequentie en termijnen zoals vermeld in de in het eerste lid genoemde <nadruk type="cur">charts of accounts</nadruk>. Ook de te hanteren valuta en rekeneenheden en de wijze van afronding zijn zoals vermeld in de in het eerste lid genoemde <nadruk type="cur">charts of accounts</nadruk>.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+
+              <al>In het geval van wijziging of aanvulling door de CBCS van de charts of accounts, bedoeld in het eerste lid, dan wel van vervanging ervan door <nadruk type="cur">&#x2018;New Charts of accounts&#x2019;</nadruk>, dient een kredietinstelling met zetel in de openbare lichamen de gewijzigde of vervangende staten in bij DNB met ingang van de eerste rapportageperiode waarvoor de gewijzigde of vervangende <nadruk type="cur">charts of accounts</nadruk> gelden.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>Voor de toepassing van het eerste lid dient in de <nadruk type="cur">charts of accounts</nadruk>, bedoeld in dat lid, te worden gelezen:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>voor &#x2018;the National Ordinance on the Supervision of Banking and Credit Institutions 1994&#x2019;: het bepaalde bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0030883" compleet="nee">Wet financi&#xEB;le markten BES</extref>, voor zover van toepassing op kredietinstellingen met zetel in de openbare lichamen;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>voor &#x2018;the Bank&#x2019;: DNB;</al>
+                </li>
+                <li>
+                  <li.nr>c.</li.nr>
+                  <al>voor &#x2018;the Netherlands Antilles&#x2019;: de openbare lichamen;</al>
+                </li>
+                <li>
+                  <li.nr>d.</li.nr>
+                  <al>voor &#x2018;ANG&#x2019; of &#x2018;dollar&#x2019;: USD.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>De <intref status="actief" doc="1.0:v:BWBR0031920&amp;bijlage=1">bijlagen&#xA0;1</intref> en&#xA0;<intref status="actief" doc="1.0:v:BWBR0031920&amp;bijlage=2">2</intref>, bedoeld in het eerste lid, liggen voor een ieder kosteloos ter inzage bij DNB.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">4.2</nr>
+            <titel status="officieel">Prudenti&#xEB;le voorschriften met betrekking tot verzekeraars</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">9</nr>
+              <titel status="officieel">(staten verzekeraars)</titel>
+            </kop>
+            <lid>
+              <lidnr status="officieel">1</lidnr>
+              <al>Een levensverzekeraar of schadeverzekeraar met zetel in de openbare lichamen dient bij DNB de volgende staten in:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>voor het levensverzekeringsbedrijf: de staten zoals opgenomen in <intref status="actief" doc="1.0:v:BWBR0031920&amp;bijlage=3">bijlage 3</intref>; en</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>voor het schadeverzekeringsbedrijf: de staten zoals opgenomen in <intref status="actief" doc="1.0:v:BWBR0031920&amp;bijlage=4">bijlage 4</intref>.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">2</lidnr>
+              <al>De staten die een verzekeraar bij DNB indient, de frequentie waarmee en de termijnen waarbinnen deze staten worden ingediend, alsmede de te hanteren valuta en rekeneenheden en de wijze van afronding, zijn zoals vermeld in de in het eerste lid genoemde staten.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">3</lidnr>
+              <al>De door een verzekeraar met zetel in een openbaar lichaam in te dienen staten worden ondertekend door de dagelijks beleidsbepalers.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">4</lidnr>
+              <al>De staten, in te dienen door een verzekeraar met zetel in de openbare lichamen die in het buitenland een bijkantoor heeft, bevatten zowel de gegevens die betrekking hebben op het in de openbare lichamen uitgeoefende bedrijf, als de gegevens die betrekking hebben op het door middel van het bijkantoor in het buitenland uitgeoefende bedrijf.</al>
+            </lid>
+            <lid>
+              <lidnr status="officieel">5</lidnr>
+              <al>Een verzekeraar die het levensverzekeringsbedrijf onderscheidenlijk het schadeverzekeringsbedrijf uitoefent vanuit een zetel in de openbare lichamen, maakt de volgende staten openbaar:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>a.</li.nr>
+                  <al>voor het levensverzekeringsbedrijf: de staten die zijn opgenomen in <intref status="actief" doc="1.0:v:BWBR0031920&amp;bijlage=3">bijlage 3</intref>, onder File&#xA0;101, File&#xA0;102, File&#xA0;104, File&#xA0;128, File&#xA0;S01, File&#xA0;S02 en File&#xA0;S04;</al>
+                </li>
+                <li>
+                  <li.nr>b.</li.nr>
+                  <al>voor het schadeverzekeringsbedrijf: de staten die zijn opgenomen in <intref status="actief" doc="1.0:v:BWBR0031920&amp;bijlage=4">bijlage 4</intref>, onder File&#xA0;201, File&#xA0;202, File&#xA0;204 en File&#xA0;234.</al>
+                </li>
+              </lijst>
+            </lid>
+            <lid>
+              <lidnr status="officieel">6</lidnr>
+              <al>De <intref status="actief" doc="1.0:v:BWBR0031920&amp;bijlage=3">bijlagen&#xA0;3</intref> en&#xA0;<intref status="actief" doc="1.0:v:BWBR0031920&amp;bijlage=4">4</intref>, bedoeld in het eerste en het vijfde lid, liggen voor een ieder kosteloos ter inzage bij DNB.</al>
+            </lid>
+          </artikel>
+        </paragraaf>
+        <paragraaf>
+          <kop>
+            <label>&#xA7;</label>
+            <nr status="officieel">4.3</nr>
+            <titel status="officieel">Prudenti&#xEB;le voorschriften met betrekking tot financi&#xEB;le groepen</titel>
+          </kop>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">10</nr>
+              <titel status="officieel">(geconsolideerd toezicht op groep van kredietinstellingen)</titel>
+            </kop>
+
+            <al>Ter uitvoering van de <extref status="actief" doc="1.0:v:BWBR0031636&amp;artikel=4%3A48" compleet="nee">artikelen&#xA0;4:48</extref> en <extref status="actief" doc="1.0:v:BWBR0031636&amp;artikel=4%3A49" compleet="nee">4:49 van het Bfm BES</extref> voldoet een kredietinstelling met zetel in de openbare lichamen die deel uitmaakt van een groep op geconsolideerd niveau aan de <nadruk type="cur">Provisions for the Disclosure of Consolidated Financial Highlights of Domestic Banking Institutions</nadruk> van de CBCS van januari 2009 en januari 2010, inclusief de bijbehorende Appendices.</al>
+          </artikel>
+          <artikel status="goed">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">11</nr>
+              <titel status="officieel">(aanvullend toezicht op groep van verzekeraars)</titel>
+            </kop>
+
+            <al>Ter uitvoering van de <extref status="actief" doc="1.0:v:BWBR0031636&amp;artikel=4%3A50" compleet="nee">artikelen&#xA0;4:50</extref> en <extref status="actief" doc="1.0:v:BWBR0031636&amp;artikel=4%3A51" compleet="nee">4:51 van het Bfm BES</extref> voldoet een verzekeraar met zetel in Caribisch Nederland die deel uitmaakt van een groep op geconsolideerd niveau aan de <nadruk type="cur">Provisions for the Disclosure of Consolidated Financial Highlights of Insurance Companies, Transacting Business in the Netherlands Antilles</nadruk>van de CBCS van januari 2010, inclusief de bijbehorende Appendices 1 tot en met 3 (Life insurers) dan wel de bijbehorende Appendices&#xA0;4 tot en met&#xA0;6 (Indemnity insurers). </al>
+          </artikel>
+        </paragraaf>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">12</nr>
+            <titel status="officieel">(wijzigingen van deze regeling)</titel>
+          </kop>
+          <al>Deze regeling kan worden gewijzigd bij besluit van de AFM en DNB gezamenlijk, dan wel bij afzonderlijk besluit van de AFM onderscheidenlijk van DNB, voor zover het domein van de andere toezichtautoriteit door die wijziging niet wordt geraakt.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">13</nr>
+            <titel status="officieel">(inwerkingtreding)</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Met uitzondering van de <intref status="actief" doc="1.0:v:BWBR0031920&amp;artikel=2">artikelen&#xA0;2</intref>, <intref status="actief" doc="1.0:v:BWBR0031920&amp;artikel=5">5</intref> en&#xA0;<intref status="actief" doc="1.0:v:BWBR0031920&amp;artikel=6">6</intref>, treedt deze regeling in werking met ingang van de dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst, met terugwerkende kracht tot en met 1&#xA0;juli 2012.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De <intref status="actief" doc="1.0:v:BWBR0031920&amp;artikel=2">artikelen&#xA0;2</intref>, <intref status="actief" doc="1.0:v:BWBR0031920&amp;artikel=5">5</intref> en&#xA0;<intref status="actief" doc="1.0:v:BWBR0031920&amp;artikel=6">6</intref> van deze regeling treden in werking met ingang van de dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">14</nr>
+            <titel status="officieel">(citeertitel)</titel>
+          </kop>
+          <al>Deze regeling wordt aangehaald als: Regeling AFM en DNB nadere voorschriften Wfm BES en Wwft BES 2012.</al>
+        </artikel>
+      </hoofdstuk>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Amsterdam</plaats>
+          <datum isodatum="2012-08-21">21&#xA0;augustus 2012</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>
+        <functie>De Nederlandsche Bank N.V.,</functie>
+        <naam>
+          <voornaam>A.J.</voornaam>
+          <achternaam>Kellermann,</achternaam>
+        </naam>
+        <functie>directeur.</functie>
+      </ondertekening>
+      <ondertekening>
+        <naam>
+          <voornaam>J.</voornaam>
+          <achternaam>Sijbrand,</achternaam>
+        </naam>
+        <functie>directeur.</functie>
+      </ondertekening>
+      <ondertekening>
+        <functie>Stichting Autoriteit Financi&#xEB;le Markten,</functie>
+        <naam>
+          <voornaam>R.</voornaam>
+          <achternaam>Gerritse,</achternaam>
+        </naam>
+        <functie>voorzitter.</functie>
+      </ondertekening>
+      <ondertekening>
+        <naam>
+          <voornaam>Th.F.</voornaam>
+          <achternaam>Kockelkoren,</achternaam>
+        </naam>
+        <functie>bestuurder.</functie>
+      </ondertekening>
+    </regeling-sluiting>
+  <bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">1</nr></kop><al><redactie type="vervanging">Niet opgenomen.</redactie></al></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">2</nr></kop><al><redactie type="vervanging">Niet opgenomen.</redactie></al></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">3</nr></kop><al><redactie type="vervanging">Niet opgenomen.</redactie></al></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">4</nr></kop><al><redactie type="vervanging">Niet opgenomen.</redactie></al></bijlage></regeling>
+</wetgeving>
+  	

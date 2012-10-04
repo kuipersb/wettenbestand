@@ -1,0 +1,402 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0031957" dtdversie="2.0" id="478049" soort="ministeriele-regeling">
+  
+  <intitule>Beleidsregels van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 5&#xA0;september 2012 september 2012, nr.&#xA0;2012-0000515185 ter uitvoering van het Besluit beheer sociale-huursector inzake het gebruik van financi&#xEB;le derivaten door toegelaten instellingen als bedoeld in artikel&#xA0;70 van de Woningwet (Beleidsregels gebruik financi&#xEB;le derivaten door toegelaten instellingen volkshuisvesting)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Minister van Binnenlandse Zaken en Koninkrijksrelaties,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0005686&amp;artikel=21" compleet="nee">artikel 21 van het Besluit beheer sociale-huursector</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Begripsomschrijvingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>In deze beleidsregels wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al><nadruk type="cur">financi&#xEB;le derivaten:</nadruk></al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;.</li.nr>
+                  <al>financi&#xEB;le contracten waarvan de waarde is afgeleid van een onderliggende waarde of een referentieprijs, of</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;.</li.nr>
+                  <al>onderdelen van financi&#xEB;le contracten die, op zichzelf beschouwd, vallen onder de definitie onder 1&#xB0;;</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>
+                <nadruk type="cur">renteswap:</nadruk> 
+                        financieel derivaat tussen twee partijen om gedurende een in dat derivaat vastgestelde periode kasstromen in de vorm van rentebetalingen uit te wisselen;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>
+                <nadruk type="cur">payer swap:</nadruk> renteswap van de partij, die een vaste rente betaalt en een variabele rente ontvangt;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>
+                <nadruk type="cur">receiver swap:</nadruk> 
+                        renteswap van de partij, die een variabele rente betaalt en een vaste rente ontvangt;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>
+                <nadruk type="cur">rentecap:</nadruk> 
+                        financieel derivaat tussen twee partijen bij of inzake een financiering, waarbij de koper tegen betaling van een geldsom gedurende een bij dat derivaat overeengekomen periode de garantie van een maximaal te betalen rentetarief verkrijgt;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>
+                <nadruk type="cur">rentefloor:</nadruk> 
+                         financieel derivaat tussen twee partijen bij of inzake een financiering, waarbij de koper tegen betaling van een geldsom gedurende een bij dat derivaat overeengekomen periode de garantie van een minimaal te ontvangen rentetarief verkrijgt;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>
+                <nadruk type="cur">rentecollar:</nadruk> 
+                        financieel derivaat tussen twee partijen bij of inzake een financiering, waarin voor dezelfde periode sprake is van zowel een rentecap als een rentefloor;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>
+                <nadruk type="cur">variabele leningen:</nadruk> 
+                        leningen waarvan de rente met een periodiciteit van 12 maanden of minder wordt herzien;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>
+                <nadruk type="cur">hedging:</nadruk> 
+                              afdekken dan wel beperken van opwaartse renterisico&#x2019;s van aangetrokken variabele leningen door het afsluiten van payer swaps;</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>
+                <nadruk type="cur">liquiditeitsbuffer:</nadruk> 
+                        som van de bij een toegelaten instelling aanwezige liquide middelen, op zeer korte termijn liquide te maken beleggingen en direct opeisbare en voor het doel van de buffer aan te wenden leningsfaciliteiten;</al>
+            </li>
+            <li>
+              <li.nr>k.</li.nr>
+              <al>
+                <nadruk type="cur">toegelaten instelling:</nadruk> 
+                        toegelaten instelling als bedoeld in <extref status="actief" doc="1.0:v:BWBR0005181&amp;artikel=70" compleet="nee">artikel 70 van de Woningwet</extref>;</al>
+            </li>
+            <li>
+              <li.nr>l.</li.nr>
+              <al>
+                <nadruk type="cur">fonds:</nadruk> 
+                        Centraal Fonds voor de Volkshuisvesting, bedoeld in <extref status="actief" doc="1.0:v:BWBR0005181&amp;artikel=71" compleet="nee">artikel 71 van de Woningwet</extref>;</al>
+            </li>
+            <li>
+              <li.nr>m.</li.nr>
+              <al>
+                <nadruk type="cur">minister:</nadruk> 
+                        Minister van Binnenlandse Zaken en Koninkrijksrelaties.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Algemene uitgangspunten</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het financi&#xEB;le beleid en beheer van een toegelaten instelling moet dienstbaar zijn aan het realiseren van de gewenste volkshuisvestelijke doelstellingen, en dient daartoe op transparante wijze gericht te zijn op financi&#xEB;le continu&#xEF;teit.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het aantrekken en afstoten van financi&#xEB;le derivaten dient uitsluitend te zijn gericht op het beperken van risico&#x2019;s van het financi&#xEB;le beleid en beheer.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Het verkopen van financi&#xEB;le derivaten, anders dan het sluiten van derivaatposities, is niet toegestaan.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Organisatorische eisen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Toegelaten instellingen die bij hun financi&#xEB;le beleid en beheer financi&#xEB;le derivaten gebruiken, dienen hun interne organisatie op adequate wijze daarop te hebben ingericht. Dit betekent dat in elk geval moet zijn geborgd dat er voldoende aandacht is voor:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de wijze waarop en de mate waarin het gebruik van financi&#xEB;le derivaten bijdraagt aan het beperken van risico&#x2019;s bij het financi&#xEB;le beleid en beheer;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de interne organisatiestructuur inzake aanschaf en gebruik van financi&#xEB;le derivaten, waaronder in elk geval regels inzake bevoegdheden en mandatering, interne controle, interne verantwoording, rol en betrokkenheid van de externe accountant, en rol en betrokkenheid van het orgaan waaraan het toezicht op het bestuur is opgedragen;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>waarborging van voldoende interne professionaliteit inzake financi&#xEB;le derivaten, ook bij het orgaan, bedoeld in onderdeel b;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>beheersingsstructuren rond de risico&#x2019;s van financi&#xEB;le derivaten, onder meer gericht op de marktwaarde, de omvang en de samenstelling van de derivatenportefeuille en de monitoring van de marktwaarde en de liquiditeitsbuffer in relatie tot het liquiditeitsrisico.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het fonds beoordeelt jaarlijks de opzet van de interne organisatie rond financi&#xEB;le derivaten in het kader van zijn financi&#xEB;le toezicht. Het informeert de toegelaten instelling en de minister omtrent zijn bevindingen.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Aan te trekken soorten financi&#xEB;le derivaten</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het is toegelaten instellingen niet toegestaan andere financi&#xEB;le derivaten aan te trekken dan rentecaps of payer swaps gericht op het beperken van opwaartse renterisico&#x2019;s van variabele leningen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Financi&#xEB;le derivaten mogen uitsluitend worden aangetrokken in euro&#x2019;s, en van financi&#xEB;le instellingen met minimaal een single A rating of een daarmee vergelijkbare rating, afgegeven door ten minste twee van de drie ratingbureaus Moody&#x2019;s, Standard and Poor&#x2019;s en Fitch.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Contractuele voorwaarden financi&#xEB;le derivaten en zorgplicht aanbieders</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Er mogen in of ten aanzien van aan te trekken financi&#xEB;le derivaten geen clausules worden gehanteerd die op enigerlei wijze de uitoefening van het toezicht op de toegelaten instellingen kunnen belemmeren.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al><redactie type="vervanging">Dit lid is nog niet in werking getreden.</redactie></al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Toegelaten instellingen mogen uitsluitend financi&#xEB;le derivaten aantrekken van een financi&#xEB;le instelling, als zij door deze instelling in het kader van de zorgplichtregels van de <extref status="actief" doc="1.0:v:BWBR0020368" compleet="nee">Wet op het financieel toezicht</extref>, in het bijzonder <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=4%3A90" compleet="nee">artikel 4:90</extref>, als &#x2018;niet professionele belegger&#x2019; worden beschouwd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al><redactie type="vervanging">Dit lid is nog niet in werking getreden.</redactie></al></lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Volumebegrenzing financi&#xEB;le derivaten</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Toegelaten instellingen mogen uitsluitend financi&#xEB;le derivaten aantrekken ter hedging van variabele leningen die voor of tegelijk met het moment van afsluiten van het derivatencontract zijn aangetrokken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Aan te trekken payer swaps mogen geen langere looptijd hebben dan het lopende jaar en de direct daarop volgende negen kalenderjaren.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Financi&#xEB;le eisen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Toegelaten instellingen die financi&#xEB;le derivaten gebruiken, dienen daarvoor een liquiditeitsbuffer aan te houden die, rekening houdend met voorzienbare claims op de liquiditeitsbuffer vanwege andere bedrijfsrisico&#x2019;s, ten minste groot genoeg is om de uit de derivatenportefeuille voortvloeiende liquiditeitsverplichtingen ten gevolge van een daling van de vaste rente in de markt met 2%-punt te kunnen voldoen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien de liquiditeitsbuffer niet voldoet aan de eis, bedoeld in het eerste lid, dient de toegelaten instelling:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>dit terstond te melden aan het fonds;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>in overleg met het fonds een beleidslijn op te stellen gericht op het weer kunnen voldoen aan deze eis.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Indien en zolang de liquiditeitsbuffer, bedoeld in het eerste lid, te klein is om de uit de derivatenportefeuille voortvloeiende liquiditeitsverplichtingen ten gevolge van een daling van de vaste rente in de markt met 1%-punt te kunnen voldoen, mag de betreffende toegelaten instelling geen payer swaps aantrekken.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Externe verantwoording en extern toezicht</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Toegelaten instellingen die financi&#xEB;le derivaten gebruiken, dienen zich hierover in hun jaarverslag of in hun cijfermatige kerngegevens, bedoeld in <extref status="actief" doc="1.0:v:BWBR0005686&amp;artikel=26" compleet="nee">artikel 26, derde lid, van het Besluit beheer sociale-huursector</extref>, op een transparante, complete en inzichtelijke wijze te verantwoorden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De verantwoording, bedoeld in het eerste lid, heeft in elk geval betrekking op:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de interne organisatie, bedoeld in <intref status="actief" doc="1.0:v:BWBR0031957&amp;artikel=3">artikel 3, eerste lid</intref>;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de samenstelling en omvang van de derivatenportefeuille van de toegelaten instelling in relatie tot haar leningenportefeuille op een zodanige wijze dat het fonds kan beoordelen of aan de <intref status="actief" doc="1.0:v:BWBR0031957&amp;artikel=4">artikelen 4 tot en met 7</intref> wordt voldaan;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de liquiditeitsbuffer, bedoeld in <intref status="actief" doc="1.0:v:BWBR0031957&amp;artikel=8">artikel 8</intref>, en</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de wijze waarop de toegelaten instellingolkshuisvestingsverslag mee kan (moet) doen) toepassing geeft aan <intref status="actief" doc="1.0:v:BWBR0031957&amp;artikel=10">artikel 10</intref>, indien dat artikel op haar van toepassing is.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Voor zover niet of niet anders bepaald in deze beleidsregels zijn voor de verwerking, waardering, resultaatbepaling, presentatie en toelichting van financi&#xEB;le derivaten in de jaarrekening <extref status="actief" doc="1.0:v:BWBR0003045&amp;titeldeel=9" compleet="nee">titel 9 van Boek 2 van het Burgerlijk Wetboek</extref> en richtlijn 290 Financi&#xEB;le instrumenten&#x2019; van de Raad voor de Jaarverslaggeving van toepassing.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Het fonds betrekt de solvabiliteitsrisico&#x2019;s vanwege het bezit van financi&#xEB;le derivaten bij zijn financi&#xEB;le oordelen over de toegelaten instelling.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">9</nr>
+          <titel status="officieel">Plan van aanpak</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een toegelaten instelling die op het tijdstip van inwerkingtreding van deze beleidsregels een derivatenportefeuille heeft die financi&#xEB;le derivaten bevat met clausules die de uitoefening van het toezicht op de toegelaten instelling kunnen belemmeren, stelt een plan van aanpak op om de derivatenportefeuille voor wat betreft deze financi&#xEB;le derivaten met voornoemde clausules binnen een redelijkerwijs haalbaar te achten termijn af te bouwen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het fonds kan nadere eisen stellen aan het plan van aanpak van en de te hanteren termijn voor de in het eerste lid bedoelde afbouw van de derivatenportefeuille.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">10</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+          </kop>
+          <al>Deze beleidsregels treden, met uitzondering van <intref status="actief" doc="1.0:v:BWBR0031957&amp;artikel=5">artikel 5, tweede lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0031957&amp;artikel=6">artikel 6, tweede lid</intref>, in werking met ingang van de eerste dag van de kalendermaand die direct volgt op de datum van uitgifte van de Staatscourant waarin zij worden geplaatst.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">12</nr>
+          </kop>
+          <al>Deze beleidsregels worden aangehaald als: Beleidsregels gebruik financi&#xEB;le derivaten door toegelaten instellingen volkshuisvesting.</al>
+        </artikel>
+      </paragraaf>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Den Haag</plaats>
+          <datum isodatum="2012-09-05">5 september 2012</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>De <functie>minister</functie> van <organisatie afkorting="BZK">Binnenlandse Zaken en Koninkrijksrelaties,</organisatie>
+        <naam>
+          <voornaam>J.W.E.</voornaam>
+          <achternaam>Spies</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  <bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">I</nr></kop><al><redactie type="vervanging">Niet opgenomen.</redactie></al></bijlage><bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">II</nr></kop><al><redactie type="vervanging">Niet opgenomen.</redactie></al></bijlage></regeling>
+</wetgeving>
+  	

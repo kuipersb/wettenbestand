@@ -1,0 +1,3180 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0027935" dtdversie="2.0" id="437829" soort="ministeriele-regeling">
+  
+  <intitule>Regeling
+van de Minister-President, Minister van Algemene Zaken, van 7 juli
+2010,
+nr.&#xA0;3093917</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De
+Minister-President, Minster van Algemene
+Zaken,</wie>
+      <considerans>
+        <considerans.al>Handelende in overeenstemming
+met het gevoelen van de
+ministerraad:</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+        </kop>
+        <al>Vastgesteld
+worden de bij dit besluit gevoegde Algemene rijksvoorwaarden bij
+IT-overeenkomsten, voortaan genaamd
+ARBIT.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+        </kop>
+        <al>Dit
+besluit treedt in werking met ingang van de dag na de dagtekening van
+de Staatscourant waarin het wordt
+geplaatst.</al>
+      </artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Dit
+besluit wordt met de bijlage in de Staatscourant
+geplaatst.</al>
+      </slotformulering>
+      <ondertekening>De
+<functie>Minister-President,</functie><functie>Minister</functie>
+van <organisatie afkorting="AZ">Algemene Zaken,</organisatie>
+        <naam>
+          <voornaam>J.P.</voornaam>
+          <achternaam>Balkenende</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+    <bijlage status="goed">
+      <kop>
+        <titel status="officieel">Algemene
+rijksvoorwaarden bij IT-overeenkomsten (Arbit), versie Arbit
+2010</titel>
+      </kop>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Algemene
+Rijksvoorwaarden Bij IT-Overeenkomsten
+(Arbit)</titel>
+        </kop>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Algemene
+Bepalingen</titel>
+          </kop>
+          <al>De Algemene Rijksvoorwaarden bij
+IT-overeenkomsten (ARBIT) bestaan uit deze Algemene bepalingen en
+Bijzondere bepalingen. Deze Algemene bepalingen hebben betrekking op
+alle IT-overeenkomsten die Opdrachtgever aangaat. De Bijzondere
+bepalingen hebben betrekking op specifieke IT-overeenkomsten die
+Opdrachtgever
+aangaat.</al>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">1</nr>
+              <titel status="officieel">Begrippen</titel>
+            </kop>
+            <al>In
+deze voorwaarden wordt onder de navolgende begrippen, indien met een
+beginhoofdletter gebruikt,
+verstaan:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>1.1.</li.nr>
+                <al>Acceptatie:
+de goedkeuring door Opdrachtgever van (onderdelen van) de
+Prestatie.</al>
+              </li>
+              <li>
+                <li.nr>1.2.</li.nr>
+                <al>Acceptatieprocedure: in
+de Overeenkomst vastgelegde procedure met behulp waarvan Opdrachtgever
+beoordeelt of hij al dan niet overgaat tot Acceptatie van de
+Prestatie.</al>
+              </li>
+              <li>
+                <li.nr>1.3.</li.nr>
+                <al>Aflevering: de bezorging
+door Wederpartij van Producten op de bij de Overeenkomst bepaalde
+wijze, blijkend uit een door Opdrachtgever afgegeven bewijs van
+ontvangst daarvan.</al>
+              </li>
+              <li>
+                <li.nr>1.4.</li.nr>
+                <al>Bestek: de aan
+Wederpartij ter beschikking gestelde documenten (incl. nadere
+toelichtingen en wijzigingen) waarin de organisatie van Opdrachtgever,
+de Prestatie en het door Opdrachtgever beoogde gebruik daarvan alsmede
+de aanbestedingsprocedure zijn beschreven en
+toegelicht.</al>
+              </li>
+              <li>
+                <li.nr>1.5.</li.nr>
+                <al>Bijlage: een aanhangsel
+bij de Overeenkomst dat daar na parafering door partijen onderdeel van
+uitmaakt.</al>
+              </li>
+              <li>
+                <li.nr>1.6.</li.nr>
+                <al>Broncode: het geheel van
+programma-instructies in hun oorspronkelijke programmeertaal met
+inbegrip van daarbij behorende Documentatie, bedoeld voor uitvoering
+door een computer, in een zodanige vorm dat een programmeur die
+beschikt over kennis en ervaring van de gebruikte programmeerwijze en
+techniek, daarmee de programmatuur kan
+wijzigen.</al>
+              </li>
+              <li>
+                <li.nr>1.7.</li.nr>
+                <al>Documentatie: iedere
+beschrijving van de Prestatie en de eigenschappen daarvan al dan niet
+specifiek bestemd voor de installatie, Implementatie, het gebruik,
+beheer en/of het onderhoud
+daarvan.</al>
+              </li>
+              <li>
+                <li.nr>1.8.</li.nr>
+                <al>Fatale termijn: een
+nadrukkelijk als zodanig door partijen overeengekomen termijn bij
+overschrijding waarvan de partij ten aanzien van wie de termijn is
+gesteld terstond, dat wil zeggen zonder ingebrekestelling, in verzuim
+geraakt.</al>
+              </li>
+              <li>
+                <li.nr>1.9.</li.nr>
+                <al>Gebrek: iedere storing
+en/of ander mankement als gevolg waarvan de Prestatie niet geschikt is
+voor het Overeengekomen
+gebruik.</al>
+              </li>
+              <li>
+                <li.nr>1.10.</li.nr>
+                <al>Gebruiksrecht: het recht
+op grond waarvan Opdrachtgever bevoegd is tot het installeren en
+gebruiken van Standaardprogrammatuur overeenkomstig het Overeengekomen
+gebruik met inbegrip van alle daarvoor redelijkerwijs noodzakelijke al
+dan niet tijdelijke verveelvoudigingen en
+openbaarmakingen.</al>
+              </li>
+              <li>
+                <li.nr>1.11.</li.nr>
+                <al>Implementatie:
+het geheel van handelingen en maatregelen nodig om de organisatie van
+Opdrachtgever geschikt te maken voor het Overeengekomen gebruik van het
+Product en/of
+Programmatuur.</al>
+              </li>
+              <li>
+                <li.nr>1.12.</li.nr>
+                <al>Installatie: het
+door Wederpartij plaatsen en aansluiten van het Product en/of het
+invoeren van
+Programmatuur.</al>
+              </li>
+              <li>
+                <li.nr>1.13.</li.nr>
+                <al>Leverancier: de
+Wederpartij bij de Overeenkomst die zich heeft verplicht tot de
+levering van een Product dan wel het verschaffen van een
+Gebruiksrecht.</al>
+              </li>
+              <li>
+                <li.nr>1.14.</li.nr>
+                <al>Materialen: voor
+installatie, implementatie, gebruik en/of onderhoud van de Prestatie
+benodigde (hulp)zaken zoals kabels, smartcards en fysieke
+gegevensdragers waarop Programmatuur wordt
+aangeleverd.</al>
+              </li>
+              <li>
+                <li.nr>1.15.</li.nr>
+                <al>Meerwerk: niet in de
+Opdracht begrepen werkzaamheden die leiden tot kosten die de Vergoeding
+te boven gaan.</al>
+              </li>
+              <li>
+                <li.nr>1.16.</li.nr>
+                <al>Nieuwe versie: een
+opvolgende versie van de Standaardprogrammatuur met in overwegende mate
+nieuwe of gewijzigde functionaliteiten, al dan niet onder een andere
+naam uitgebracht.</al>
+              </li>
+              <li>
+                <li.nr>1.16.</li.nr>
+                <al>Objectcode:
+Vertaling van de Broncode in een direct door een computer leesbare en
+uitvoerbare code.</al>
+              </li>
+              <li>
+                <li.nr>1.18.</li.nr>
+                <al>Onderhoud: door
+Opdrachtnemer uit te voeren werkzaamheden gericht op het herstellen
+en/of verbeteren van de
+Prestatie.</al>
+              </li>
+              <li>
+                <li.nr>1.18.</li.nr>
+                <al>Opdracht: door
+Opdrachtnemer ten behoeve van Opdrachtgever te verrichten
+werkzaamheden, anders dan op grond van
+arbeidsovereenkomst.</al>
+              </li>
+              <li>
+                <li.nr>1.20.</li.nr>
+                <al>Opdrachtgever:
+de partij ten behoeve waarvan de Overeenkomst wordt
+gesloten.</al>
+              </li>
+              <li>
+                <li.nr>1.21.</li.nr>
+                <al>Opdrachtnemer: de
+Wederpartij bij de Overeenkomst die zich heeft verplicht tot het
+uitvoeren van de
+Opdracht.</al>
+              </li>
+              <li>
+                <li.nr>1.22.</li.nr>
+                <al>Oplevering: het
+aanbieden door Opdrachtnemer van (onderdelen van) de Prestatie ter
+Acceptatie.</al>
+              </li>
+              <li>
+                <li.nr>1.23.</li.nr>
+                <al>Overeengekomen
+gebruik: het door Opdrachtgever beoogde gebruik van de Prestatie zoals
+dat ten tijde van het sluiten van de Overeenkomst op grond van het
+Bestek en/ of op basis van de in artikel 4 bedoelde informatie, voor
+Wederpartij kenbaar is of redelijkerwijs moet zijn, een en ander voor
+zover dat gebruik in de Overeenkomst niet uitdrukkelijk is uitgesloten
+of beperkt.</al>
+              </li>
+              <li>
+                <li.nr>1.24.</li.nr>
+                <al>Overeenkomst: de
+afspraken tussen Opdrachtgever en Wederpartij waarvan de Voorwaarden
+onderdeel uitmaken.</al>
+              </li>
+              <li>
+                <li.nr>1.25.</li.nr>
+                <al>Patch: als
+tijdelijk bedoelde correctie van
+Standaardprogrammatuur.</al>
+              </li>
+              <li>
+                <li.nr>1.26.</li.nr>
+                <al>Personeel:
+de door partijen bij de uitvoering van de Overeenkomst in te schakelen
+personeelsleden en/of
+hulppersonen.</al>
+              </li>
+              <li>
+                <li.nr>1.27.</li.nr>
+                <al>Prestatie: het door
+Wederpartij te leveren Product, de door deze uit te voeren Opdracht of
+het door deze te verstrekken Gebruiksrecht dan wel een combinatie
+daarvan, waaronder begrepen Materialen en
+Documentatie.</al>
+              </li>
+              <li>
+                <li.nr>1.28.</li.nr>
+                <al>Product: de zaak die
+Leverancier op basis van de Overeenkomst aan Opdrachtgever
+levert.</al>
+              </li>
+              <li>
+                <li.nr>1.29.</li.nr>
+                <al>Programmatuur: de door
+Wederpartij op te leveren set programmaregels zoals die, op directe of
+indirecte wijze, door een computer kan worden gebruikt om een bepaald,
+nader omschreven, resultaat tot stand te brengen. Programmatuur kan
+worden onderscheiden in Standaard- of
+Maatwerkprogrammatuur.</al>
+              </li>
+              <li>
+                <li.nr>1.30.</li.nr>
+                <al>Standaardprogrammatuur:
+voor algemeen gebruik ontwikkelde Programmatuur die niet exclusief aan
+Opdrachtgever beschikbaar wordt
+gesteld.</al>
+              </li>
+              <li>
+                <li.nr>1.31.</li.nr>
+                <al>Verbeterde versie: een
+opvolgende versie van de Standaardprogrammatuur waarin Gebreken zijn
+hersteld en/of de werking daarvan anderszins is
+verbeterd.</al>
+              </li>
+              <li>
+                <li.nr>1.32.</li.nr>
+                <al>Vergoeding: de in
+totaal voor de Prestatie overeengekomen
+prijs.</al>
+              </li>
+              <li>
+                <li.nr>1.33.</li.nr>
+                <al>Voorwaarden: de Algemene
+Rijksvoorwaarden bij IT-overeenkomsten (ARBIT) bestaande uit deze
+Algemene bepalingen en alle Bijzondere
+bepalingen.</al>
+              </li>
+              <li>
+                <li.nr>1.34.</li.nr>
+                <al>Wederpartij: de
+Opdrachtnemer of Leverancier met wie de Overeenkomst is
+aangegaan.</al>
+              </li>
+              <li>
+                <li.nr>1.35.</li.nr>
+                <al>Werkdagen:
+kalenderdagen, behoudens weekenden en algemeen erkende feestdagen in de
+zin van <extref status="actief" doc="1.0:v:BWBR0002448&amp;artikel=3" compleet="nee">art. 3 van de Algemene
+termijnenwet</extref>.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">2</nr>
+              <titel status="officieel">Contactpersonen
+en
+escalatie</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>2.1.</li.nr>
+                <al>Partijen
+wijzen elk een contactpersoon aan die de contacten over de uitvoering
+van de Overeenkomst onderhoudt. Partijen informeren elkaar over wie zij
+als contactpersoon hebben
+aangewezen.</al>
+              </li>
+              <li>
+                <li.nr>2.2.</li.nr>
+                <al>Contactpersonen kunnen
+partijen alleen vertegenwoordigen en binden voor zover het betreft de
+uitvoering van de Overeenkomst. Tot wijziging van de Overeenkomst zijn
+zij niet bevoegd.</al>
+              </li>
+              <li>
+                <li.nr>2.3.</li.nr>
+                <al>Onverkort het
+bepaalde in artikel 37 beschikken Partijen over een interne
+escalatieprocedure of dragen zij zorg voor het opstellen
+daarvan.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">3</nr>
+              <titel status="officieel">Status
+van mededelingen</titel>
+            </kop>
+            <al>Mededelingen, waaronder begrepen
+toezeggingen of (nadere) afspraken, van de ene aan de andere partij van
+belang voor de uitvoering van de Overeenkomst, binden partijen alleen
+indien ze schriftelijk door een daartoe bevoegde persoon zijn gedaan of
+bevestigd.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">4</nr>
+              <titel status="officieel">Onderzoek-
+en
+informatieverplichting</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>4.1.</li.nr>
+                <al>Ter
+bepaling van het door Opdrachtgever met de Prestatie beoogde gebruik
+heeft Wederpartij zich in voldoende mate op de hoogte gesteld
+van:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>de
+doelstellingen, in verband waarmee Opdrachtgever de Overeenkomst
+aangaat;</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>de organisatie van
+Opdrachtgever, voor zover van belang voor de
+Overeenkomst.</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>4.2.</li.nr>
+                <al>Bij de
+uitvoering van de onderzoek- en informatieverplichting van artikel 4.1
+heeft Wederpartij zich tevens een oordeel gevormd over de haalbaarheid
+van de Prestatie binnen de door Opdrachtgever daarvoor aangegeven
+kaders.</al>
+              </li>
+              <li>
+                <li.nr>4.3.</li.nr>
+                <al>Opdrachtgever heeft
+Wederpartij, met het oog op het bepaalde in artikel 4.1, van voldoende
+informatie voorzien. Opdrachtgever verstrekt Wederpartij op verzoek
+aanvullende informatie voor zover die niet van vertrouwelijke aard is
+en in redelijkheid relevant moet worden geacht voor de uitvoering van
+de Overeenkomst. Bij eventuele onduidelijkheid doet Wederpartij tijdig
+navraag bij Opdrachtgever.</al>
+              </li>
+              <li>
+                <li.nr>4.4.</li.nr>
+                <al>Partijen
+houden elkaar op de hoogte van ontwikkelingen en veranderingen die van
+belang (kunnen) zijn voor de uitvoering van de
+Overeenkomst.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">5</nr>
+              <titel status="officieel">Kwaliteitsborging</titel>
+            </kop>
+            <al>Opdrachtgever
+is steeds bevoegd maatregelen te treffen gericht op borging van de
+kwaliteit van de Prestatie. Wederpartij is gehouden aan die maatregelen
+in redelijkheid zijn medewerking te verlenen en aan de uitkomsten
+daarvan in redelijkheid uitvoering te
+geven.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">6</nr>
+              <titel status="officieel">Aflevering</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>6.1.</li.nr>
+                <al>Wederpartij
+verricht de Aflevering in &#xE9;&#xE9;n
+keer.</al>
+              </li>
+              <li>
+                <li.nr>6.2.</li.nr>
+                <al>Partijen controleren bij
+Aflevering visueel op hoeveelheid en aan de buitenkant waarneembare
+beschadiging.</al>
+              </li>
+              <li>
+                <li.nr>6.3.</li.nr>
+                <al>Bij een
+geconstateerde beschadiging hoeft Opdrachtgever het Product niet in
+ontvangst te nemen. Dit laat de verplichting van Wederpartij tot
+tijdige Aflevering
+onverlet.</al>
+              </li>
+              <li>
+                <li.nr>6.4.</li.nr>
+                <al>Opdrachtgever verstrekt
+Wederpartij een bewijs van ontvangst voor de in ontvangst genomen
+Producten. Dit bewijs laat de rechten van Opdrachtgever uit hoofde van
+de Overeenkomst
+onverlet.</al>
+              </li>
+              <li>
+                <li.nr>6.5.</li.nr>
+                <al>Wederpartij maakt zoveel
+mogelijk gebruik van duurzame verpakkingsmiddelen en draagt zorg voor
+een milieuvriendelijke afvoer daarvan.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">7</nr>
+              <titel status="officieel">Risico-
+en
+eigendomsovergang</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>7.1.</li.nr>
+                <al>Het
+risico van beschadiging of verlies van Producten die het voorwerp van
+de Prestatie zijn of onderdeel van de Prestatie uitmaken gaat bij
+Aflevering over op
+Opdrachtgever.</al>
+              </li>
+              <li>
+                <li.nr>7.2.</li.nr>
+                <al>Onverminderd het
+bepaalde in artikel 8 gaat de eigendom van (onderdelen van) de
+Prestatie bij Acceptatie over op
+Opdrachtgever.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">8</nr>
+              <titel status="officieel">Intellectuele
+eigendomsrechten</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>8.1.</li.nr>
+                <al>Alle
+intellectuele eigendomsrechten die ten aanzien van de Prestatie waar en
+wanneer ook kunnen of zullen kunnen worden uitgeoefend, berusten
+bij:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>Opdrachtgever
+voor zover het betreft een Prestatie die specifiek voor Opdrachtgever
+is of wordt ontworpen of vervaardigd en/of onder leiding of toezicht
+van Opdrachtgever dan wel aan de hand van diens instructies of
+ontwerpen is of wordt gerealiseerd. Voor zover nodig worden deze
+rechten op grond van de Overeenkomst door Wederpartij aan Opdrachtgever
+overgedragen welke overdracht reeds nu voor alsdan door Opdrachtgever
+wordt aanvaard;</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>Wederpartij of een
+derde in alle overige gevallen. Wederpartij verleent in dat geval aan
+Opdrachtgever een nader bij de Overeenkomst te bepalen niet exclusief
+recht tot gebruik van de Prestatie dat in ieder geval toereikend is
+voor nakoming van het in de Overeenkomst(en)
+bepaalde.</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>8.2.</li.nr>
+                <al>Door
+ondertekening van de Overeenkomst worden de in artikel 8.1 sub a
+bedoelde rechten aan Opdrachtgever overgedragen. Voorzover voor de
+overdracht van die rechten op enig moment een nadere akte is vereist,
+machtigt Wederpartij Opdrachtgever hierbij voor dat geval
+onherroepelijk een dergelijke akte op te maken en deze mede namens
+Wederpartij te ondertekenen een en ander onverminderd de verplichting
+van Wederpartij om op eerste verzoek van Opdrachtgever aan de
+overdracht van deze rechten medewerking te verlenen zonder daarbij
+voorwaarden te kunnen stellen. Wederpartij machtigt voorzover nodig
+Opdrachtgever hierbij tevens onherroepelijk om de overdracht van deze
+intellectuele eigendomsrechten in de desbetreffende registers in of
+over te (doen) schrijven.</al>
+              </li>
+              <li>
+                <li.nr>8.3.</li.nr>
+                <al>Bij
+verschil van mening tussen partijen over intellectuele eigendomsrechten
+op (delen van) een Prestatie wordt er, behoudens tegenbewijs, vanuit
+gegaan dat die rechten bij Opdrachtgever berusten. Opdrachtgever mag
+ongeacht de uitkomst van dat geschil voortgaan met het Overeengekomen
+gebruik.</al>
+              </li>
+              <li>
+                <li.nr>8.4.</li.nr>
+                <al>Wederpartij doet hierbij,
+voorzoveel als nodig, mede namens zijn Personeel, afstand van alle
+eventueel aan hem toekomende zogenoemde persoonlijkheidsrechten als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0001886&amp;artikel=25" compleet="nee">artikel 25 lid 1, sub a t/m c Auteurswet</extref>, in de mate waarin
+die regelgeving zodanige afstand toelaat. Wederpartij garandeert
+Opdrachtgever bevoegd te zijn om deze afstand mede namens zijn
+Personeel te
+verrichten.</al>
+              </li>
+              <li>
+                <li.nr>8.5.</li.nr>
+                <al>Wederpartij vrijwaart
+Opdrachtgever tegen aanspraken van derden terzake van een (gestelde)
+inbreuk op intellectuele eigendomsrechten van die derden, zulks met
+inbegrip van persoonlijkheidsrechten als bedoeld in <extref status="actief" doc="1.0:v:BWBR0001886&amp;artikel=25" compleet="nee">artikel 25, eerste
+lid van de Auteurswet</extref>, vergelijkbare aanspraken met betrekking tot
+kennis, ongeoorloofde mededinging en dergelijke daaronder begrepen.
+Wederpartij neemt op eerste verzoek van Opdrachtgever de verdediging op
+zich in iedere procedure die in verband met de Prestatie tegen
+Opdrachtgever mocht worden ingesteld wegens inbreuk op de intellectuele
+eigendomsrechten van een derde. Opdrachtgever zal Wederpartij in
+verband daarmee onverwijld van een dergelijke actie in kennis stellen
+en aan Wederpartij de noodzakelijke volmachten en hulp verstrekken.
+Wederpartij vrijwaart Opdrachtgever tevens tegen alle schade en kosten
+waartoe die in een dergelijke procedure mocht worden veroordeeld alsook
+tegen de kosten van die procedure zelf waaronder, maar niet beperkt
+tot, de kosten die verband houden met het inwinnen van juridisch advies
+in verband daarmee.</al>
+              </li>
+              <li>
+                <li.nr>8.6.</li.nr>
+                <al>Wederpartij zal
+in geval van een gestelde inbreuk op het intellectuele eigendomsrecht
+van een derde, op zijn kosten alle maatregelen treffen die kunnen
+bijdragen tot voorkoming van stagnatie van Opdrachtgevers
+bedrijfsvoering en tot beperking van door Opdrachtgever als gevolg
+daarvan te maken kosten en/of te lijden
+schade.</al>
+              </li>
+              <li>
+                <li.nr>8.7.</li.nr>
+                <al>Onverminderd het bepaalde
+in artikel 8.5 en 8.6 kan Opdrachtgever, indien derden hem terzake van
+schending van intellectuele eigendomsrechten in rechte betrekken, de
+Overeenkomst buiten rechte geheel of gedeeltelijk ontbinden, een en
+ander onverminderd zijn verdere rechten jegens Wederpartij, waaronder
+maar niet beperkt, tot enig recht op
+schadevergoeding.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">9</nr>
+              <titel status="officieel">Documentatie</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>9.1.</li.nr>
+                <al>Documentatie
+is zodanig opgesteld dat de Prestatie met behulp daarvan door
+Opdrachtgever en derden naar behoren kan worden gebruikt, beheerd en
+onderhouden.</al>
+              </li>
+              <li>
+                <li.nr>9.2.</li.nr>
+                <al>Opdrachtgever mag
+Documentatie, zonder daarvoor een nadere vergoeding verschuldigd te
+zijn, verveelvoudigen, wijzigen en voor gebruik binnen zijn organisatie
+openbaar maken, mits daarop voorkomende aanduidingen van auteursrechten
+e.d. worden gehandhaafd.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">10</nr>
+              <titel status="officieel">Vergunningen</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>10.1.</li.nr>
+                <al>Voor
+zover voor de uitvoering van de Overeenkomst krachtens enig nationaal
+of internationaal voorschrift een vergunning is vereist, is Wederpartij
+verantwoordelijk voor het verkrijgen en behouden van een dergelijke
+vergunning.</al>
+              </li>
+              <li>
+                <li.nr>10.2.</li.nr>
+                <al>Wederpartij stelt
+Opdrachtgever onverwijld in kennis van alles wat naar zijn oordeel
+strijd met de vergunning oplevert of kan
+opleveren.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">11</nr>
+              <titel status="officieel">Acceptatie</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>11.1.</li.nr>
+                <al>Opdrachtgever
+is niet gehouden tot enige betaling aan de Wederpartij alvorens
+Acceptatie heeft plaatsgevonden. Betalingen die voorafgaand aan
+Acceptatie worden verricht, vinden steeds plaats onder de opschortende
+voorwaarde van
+Acceptatie.</al>
+              </li>
+              <li>
+                <li.nr>11.2.</li.nr>
+                <al>Opdrachtgever deelt
+binnen 14 dagen na Oplevering c.q. Aflevering aan Wederpartij mee of
+hij de Prestatie accepteert. Hij kan dat doen door een expliciet
+daarvoor bedoelde mededeling of door toezending van het testverslag als
+bedoeld in artikel 58.3 indien de Maatwerkprogrammatuur daarin wordt
+goedgekeurd.</al>
+              </li>
+              <li>
+                <li.nr>11.3.</li.nr>
+                <al>Acceptatie omvat de
+Documentatie.</al>
+              </li>
+              <li>
+                <li.nr>11.4.</li.nr>
+                <al>Indien Opdrachtgever
+niet in staat is om binnen de in artikel 11.2 genoemde termijn aan
+Wederpartij mee te delen of hij de Prestatie accepteert, meldt hij dat
+voor afloop van die termijn aan Wederpartij onder opgaaf van redenen en
+van de termijn waarbinnen hij alsnog wel aan Wederpartij zal meedelen
+of hij de Prestatie
+accepteert.</al>
+              </li>
+              <li>
+                <li.nr>11.5.</li.nr>
+                <al>Bij het uitblijven van
+enige mededeling als bedoeld in artikel 11.2 of 11.4 alsmede in het
+geval de aanvullende termijn voor Acceptatie, als bedoeld in artikel
+11.4, zonder nader bericht van Opdrachtgever is verstreken, geldt de
+Prestatie als door Opdrachtgever
+geaccepteerd.</al>
+              </li>
+              <li>
+                <li.nr>11.6.</li.nr>
+                <al>Indien Opdrachtgever
+de Prestatie accepteert ondanks de geconstateerde aanwezigheid van een
+of meer Gebreken, stelt hij de Wederpartij daarvan bij de mededeling of
+in het testverslag bedoeld in artikel 11.2, in kennis. Wederpartij
+herstelt die Gebreken met in achtneming van het bepaalde in artikel
+12.5.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">12</nr>
+              <titel status="officieel">Garanties</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>12.1.</li.nr>
+                <al>Wederpartij
+garandeert dat hij alleen Personeel inzet dat beschikt over de
+overeengekomen dan wel voor het verrichten van de Prestatie benodigde
+vaardigheden en kwalificaties, rekening houdend met de aard van de te
+leveren Prestatie en de wijze waarop Wederpartij zich als deskundige
+heeft gepresenteerd. Hij garandeert tevens dat het door hem ingezette
+Personeel voldoet aan de eisen die dienaangaande aan een vergelijkbare
+dienstverlener als redelijk bekwaam en redelijk handelend vakgenoot
+mogen worden gesteld.</al>
+              </li>
+              <li>
+                <li.nr>12.2.</li.nr>
+                <al>Wederpartij
+garandeert dat hij geen Personeel aan Opdrachtgever ter beschikking
+stelt of bij deze werkzaam laat zijn dat tevens werkzaam is voor derden
+indien dat Personeel daardoor in een belangenconflict kan
+komen.</al>
+              </li>
+              <li>
+                <li.nr>12.3.</li.nr>
+                <al>Wederpartij garandeert voor
+de duur van twaalf maanden na Acceptatie, dat hij Gebreken voor zijn
+rekening herstelt. Indien Opdrachtgever een beroep wil doen op deze
+garantie, stelt hij Wederpartij daarvan schriftelijk en in
+spoedgevallen telefonisch op de hoogte.Wederpartij herstelt Gebreken
+onverwijld rekening houdend met de ernst en de aard daarvan. Herstel
+vindt waar nodig plaats in overleg met Opdrachtgever.</al>
+                <al>Indien
+Wederpartij aantoont dat sprake is van een Gebrek dat Opdrachtgever
+redelijkerwijs bij het uitvoeren van de Acceptatieprocedure had moeten
+constateren mag hij extra kosten die als gevolg daarvan met het herstel
+van dat Gebrek zijn gemoeid aan Opdrachtgever in rekening
+brengen.</al>
+              </li>
+              <li>
+                <li.nr>12.4.</li.nr>
+                <al>Indien Wederpartij ter
+uitvoering van de garantie als bedoeld in artikel 12.3 een tijdelijke
+oplossing aanbrengt, vergoedt hij schade die Opdrachtgever als gevolg
+daarvan lijdt. Artikel 26 is daarbij van overeenkomstige
+toepassing.</al>
+              </li>
+              <li>
+                <li.nr>12.5.</li.nr>
+                <al>Wederpartij garandeert
+in aanvulling op artikel 12.3 dat hij Gebreken die Opdrachtgever
+tijdens de Acceptatieprocedure heeft geconstateerd, maar die voor hem
+geen reden vormden om niet tot Acceptatie over te gaan, met bekwame
+spoed na Acceptatie voor zijn rekening zal
+herstellen.</al>
+              </li>
+              <li>
+                <li.nr>12.6.</li.nr>
+                <al>De in artikel 12.3
+bedoelde garantie geldt niet voor zover Wederpartij aantoont dat een
+Gebrek is ontstaan als gevolg van een, zonder zijn toestemming, door
+Opdrachtgever of een door deze ingeschakelde derde in de Prestatie
+aangebrachte wijziging. De garantie geldt evenmin indien een Gebrek
+aantoonbaar het gevolg is van onjuist, onzorgvuldig of ondeskundig
+gebruik van de Prestatie door
+Opdrachtgever.</al>
+              </li>
+              <li>
+                <li.nr>12.7.</li.nr>
+                <al>Wederpartij
+garandeert dat hij de Prestatie tot 5 jaar na datum van Acceptatie kan
+onderhouden, waarvan tenminste 3 jaar op de in de Bijzondere bepalingen
+Onderhoud bepaalde wijze.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">13</nr>
+              <titel status="officieel">Ondersteuning
+en
+Onderhoud</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>13.1.</li.nr>
+                <al>Wederpartij
+maakt Opdrachtgever en diens Personeel op verzoek vertrouwd met het
+gebruik van de Prestatie. Indien Wederpartij tevens belast is geweest
+met de Implementatie van de Prestatie, wordt die ondersteuning in
+beginsel gegeven door Personeel dat daarbij betrokken is
+geweest.</al>
+              </li>
+              <li>
+                <li.nr>13.2.</li.nr>
+                <al>Aard, omvang, duur en
+(indien van toepassing) kosten van de ondersteuning worden afzonderlijk
+in de Overeenkomst vermeld.</al>
+              </li>
+              <li>
+                <li.nr>13.3.</li.nr>
+                <al>Indien
+Opdrachtgever dat wenst onderhoudt Wederpartij de Prestatie met
+inachtneming van het bepaalde in artikel
+12.7.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">14</nr>
+              <titel status="officieel">Facturering,
+korting en
+Meerwerk</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>14.1.</li.nr>
+                <al>Wederpartij
+factureert op de in de Overeenkomst voorgeschreven
+wijze.</al>
+              </li>
+              <li>
+                <li.nr>14.2.</li.nr>
+                <al>Wederpartij verzendt de
+factuur elektronisch zodat deze met inachtneming van de door
+Opdrachtgever gegeven specificaties elektronisch kan worden ontvangen
+en verwerkt.</al>
+              </li>
+              <li>
+                <li.nr>14.3.</li.nr>
+                <al>Een overeengekomen
+korting op de Vergoeding of boete komt Opdrachtgever toe onverminderd
+diens andere rechten of vorderingen, waaronder begrepen, maar niet
+beperkt
+tot:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>zijn
+vordering tot nakoming van de overeengekomen verplichting tot het
+verrichten van de Prestatie;</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>zijn
+recht op schadevergoeding en/of;</al>
+                  </li>
+                  <li>
+                    <li.nr>c.</li.nr>
+                    <al>zijn
+recht op
+ontbinding.</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>14.4.</li.nr>
+                <al>Meerwerk
+wordt tijdig aan Opdrachtgever gemeld, steeds apart gefactureerd en
+komt niet voor vergoeding in aanmerking dan na instemming van
+Opdrachtgever.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">15</nr>
+              <titel status="officieel">Betaling
+en
+controle</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>15.1.</li.nr>
+                <al>Opdrachtgever
+voldoet de door hem op basis van de Overeenkomst aan Wederpartij
+verschuldigde bedragen uiterlijk binnen 30 dagen na ontvangst van de
+factuur indien deze voldoet aan het bepaalde in artikel 14.1. De
+termijn van 30 dagen begint te lopen vanaf de datum van ontvangst van
+de factuur of wanneer dat moment later gelegen is vanaf de datum van
+Acceptatie.</al>
+              </li>
+              <li>
+                <li.nr>15.2.</li.nr>
+                <al>Indien Opdrachtgever
+een factuur zonder geldige reden niet binnen de in artikel 15.1
+bedoelde termijn heeft voldaan, is hij van rechtswege de rente als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0005289&amp;artikel=119a" compleet="nee">artikel&#xA0;6:119a Burgerlijk Wetboek</extref> over het openstaande
+bedrag verschuldigd. Wederpartij heeft geen recht op rentevergoeding,
+indien de desbetreffende factuur niet voldoet aan overeengekomen
+vereisten.</al>
+              </li>
+              <li>
+                <li.nr>15.3.</li.nr>
+                <al>Opdrachtgever kan een
+door Wederpartij toegezonden factuur door een door hem aan te wijzen
+accountant als bedoeld in artikel <extref status="actief" doc="1.0:v:BWBR0003045&amp;artikel=393" compleet="nee">2:393 lid 1 Burgerlijk Wetboek</extref> op
+inhoudelijke juistheid laten controleren. Wederpartij verleent deze
+accountant inzage in boeken en bescheiden en verstrekt hem alle
+gegevens en informatie die hij verlangt. De controle is vertrouwelijk
+en strekt zich niet verder uit dan voor het verifi&#xEB;ren van de
+factuur is vereist. De accountant brengt zijn rapportage met bekwame
+spoed aan beide partijen uit. De kosten van het accountantsonderzoek
+komen voor rekening van Opdrachtgever, tenzij uit het onderzoek van de
+accountant blijkt dat de factuur niet juist of onvolledig is, in welk
+geval de kosten van het accountantsonderzoek voor rekening van
+Wederpartij komen.</al>
+              </li>
+              <li>
+                <li.nr>15.4.</li.nr>
+                <al>Opdrachtgever
+kan de betaling van een factuur of het deel daarvan waarover tussen
+partijen geen overeenstemming bestaat opschorten gedurende de periode
+van het accountantsonderzoek. Van deze bevoegdheid maakt Opdrachtgever
+uitsluitend gebruik, indien bij hem in redelijkheid twijfel kan bestaan
+over de juistheid van de desbetreffende
+factuur.</al>
+              </li>
+              <li>
+                <li.nr>15.5.</li.nr>
+                <al>In geval van
+overschrijding van een betalingstermijn door Opdrachtgever of
+(gedeeltelijke) niet-betaling door Opdrachtgever van een factuur omdat
+deze van mening is dat de factuur onjuist of de Prestatie ondeugdelijk
+is, doet Wederpartij afstand van enig recht om de werkzaamheden op te
+schorten of te
+be&#xEB;indigen.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">16</nr>
+              <titel status="officieel">Voorschot</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>16.1.</li.nr>
+                <al>Indien
+Opdrachtgever ter uitvoering van de Overeenkomst een betaling verricht
+voor een Prestatie die nog niet is geaccepteerd, kan hij verlangen dat
+Wederpartij voorafgaand aan die betaling(en) een
+kredietinstellingsgarantie &#x2018;op afroep&#x2019; aan hem afgeeft
+ter waarde van het (de) vooraf betaalde bedrag(en). Aan de
+kredietinstellingsgarantie zijn voor Opdrachtgever geen kosten
+verbonden. Wordt de Prestatie vanwege een toerekenbare tekortkoming aan
+de zijde van Wederpartij niet binnen de overeengekomen termijn
+geaccepteerd, dan is Wederpartij de wettelijke rente over het voorschot
+verschuldigd voor de tijd dat de tekortkoming
+voortduurt.</al>
+              </li>
+              <li>
+                <li.nr>16.2.</li.nr>
+                <al>De
+kredietinstellingsgarantie &#x2018;op afroep&#x2019; wordt afgegeven
+door een in het maatschappelijk verkeer betrouwbaar geachte instelling
+als aangewezen in het kader van de uitvoeringsregelgeving op basis van
+<extref status="actief" doc="1.0:v:BWBR0013891&amp;artikel=37" compleet="nee">artikel 37 Comptabiliteitswet 2001</extref>, overeenkomstig het bij de
+Overeenkomst gevoegde model. Na finale Acceptatie ontvangt Wederpartij
+het document waarin de garantie is vastgelegd,
+terug.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">17</nr>
+              <titel status="officieel">Geheimhouding</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>17.1.</li.nr>
+                <al>Partijen
+maken hetgeen hen bij de uitvoering van de Overeenkomst ter kennis
+komt, en waarvan zij het vertrouwelijke karakter kennen of
+redelijkerwijs kunnen vermoeden, op geen enkele wijze verder bekend
+behalve voorzover enig wettelijk voorschrift of uitspraak van de
+rechter hen tot bekendmaking daarvan verplicht. Met een uitspraak van
+de rechter wordt in dit verband gelijk gesteld een uitspraak van een
+instantie die ingevolge artikel 37.1 bevoegd is om het geschil te
+beslechten indien partijen een andere vorm van geschillenbeslechting
+zijn overeengekomen.</al>
+              </li>
+              <li>
+                <li.nr>17.2.</li.nr>
+                <al>Partijen
+verplichten hun Personeel om de geheimhoudingsverplichting opgenomen in
+artikel 17.1 na te
+komen.</al>
+              </li>
+              <li>
+                <li.nr>17.3.</li.nr>
+                <al>Wederpartij verleent op
+verzoek van Opdrachtgever haar medewerking aan het uitoefenen van
+toezicht door of namens Opdrachtgever op de bewaring en het gebruik van
+vertrouwelijke informatie door
+Wederpartij.</al>
+              </li>
+              <li>
+                <li.nr>17.4.</li.nr>
+                <al>Wederpartij stelt
+alle gegevens die zij in het kader van de uitvoering van de
+Overeenkomst onder zich heeft, inclusief eventueel daarvan gemaakte
+kopie&#xEB;n, op diens eerste verzoek aan Opdrachtgever ter
+beschikking.</al>
+              </li>
+              <li>
+                <li.nr>17.5.</li.nr>
+                <al>Beide partijen geven
+geen persberichten uit en doen geen andere openbare mededelingen met
+betrekking tot de onderhavige opdracht dan na voorafgaande toestemming
+van de andere partij. Toestemming is niet nodig, indien de verstrekking
+van informatie berust op een wettelijke
+verplichting.</al>
+              </li>
+              <li>
+                <li.nr>17.6.</li.nr>
+                <al>De partij die de in
+artikel 17.1 opgenomen geheimhoudingsverplichting schendt, is aan de
+andere partij een onmiddellijk opeisbare boete verschuldigd van
+&#x20AC;&#xA0;50.000,&#x2013; per
+overtreding.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">18</nr>
+              <titel status="officieel">Verwerking
+persoonsgegevens</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>18.1.</li.nr>
+                <al>Voor
+zover Wederpartij in het kader van de uitvoering van de Overeenkomst
+persoonsgegevens voor Opdrachtgever verwerkt, wordt Wederpartij als
+bewerker in de zin van de <extref status="actief" doc="1.0:v:BWBR0011468" compleet="nee">Wet bescherming persoonsgegevens</extref> (Wbp)
+aangemerkt en geldt de Overeenkomst tevens als overeenkomst in de zin
+van <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=14" compleet="nee">artikel 14 lid 2 Wbp</extref>. Wederpartij is niet gerechtigd om op enig
+moment de persoonsgegevens die zij ter beschikking krijgt op enigerlei
+wijze geheel of gedeeltelijk anders te (doen) gebruiken dan voor de
+uitvoering van de Overeenkomst een en ander behoudens afwijkende
+wettelijke
+verplichtingen.</al>
+              </li>
+              <li>
+                <li.nr>18.2.</li.nr>
+                <al>Wederpartij zal in
+het in artikel 18.1 bedoelde geval passende technische en
+organisatorische beveiligingsmaatregelen treffen om de persoonsgegevens
+te beveiligen tegen verlies of tegen enige vorm van onrechtmatige
+verwerking. Deze maatregelen garanderen, rekening houdend met de stand
+van de techniek en de kosten van de tenuitvoerlegging daarvan, een
+passend beveiligingsniveau gelet op de risico&#x2019;s die de
+verwerking en de aard van de te beschermen gegevens meebrengen. De
+maatregelen zijn er mede op gericht onnodige verzameling en verdere
+verwerking van persoonsgegevens te voorkomen. Wederpartij legt de
+maatregelen schriftelijk
+vast.</al>
+              </li>
+              <li>
+                <li.nr>18.3.</li.nr>
+                <al>Wederpartij verwerkt
+persoonsgegevens, als gedefinieerd in <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=1" compleet="nee">artikel 1 Wbp</extref>, op behoorlijke en
+zorgvuldige wijze en in overeenstemming met de toepasselijke wet- en
+regelgeving alsmede een eventueel toepasselijke gedragscode van
+Opdrachtgever. Het voorgaande geldt onverkort ook voor
+grensoverschrijdende verzending en/of distributie en/of verstrekking
+van persoonsgegevens naar niet
+EU-landen.</al>
+              </li>
+              <li>
+                <li.nr>18.4.</li.nr>
+                <al>Wederpartij verleent
+Opdrachtgever haar volledige medewerking om betrokkenen in de zin van
+<extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=1" compleet="nee">artikel 1 onder f Wbp</extref> (i) inzage in hun persoonsgegevens te laten
+krijgen, (ii) persoonsgegevens te laten verwijderen of te corrigeren,
+en/of (iii) aan te laten tonen dat persoonsgegevens verwijderd of
+gecorrigeerd zijn indien zij incorrect zijn of, indien Opdrachtgever
+het standpunt van betrokkene bestrijdt, vast te leggen dat betrokkene
+zijn persoonsgegevens als incorrect
+beschouwt.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">19</nr>
+              <titel status="officieel">
+beveiligingsprocedures en
+huisregels</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>19.1.</li.nr>
+                <al>Voor
+zover de Prestatie bij Opdrachtgever wordt verricht draagt Wederpartij
+haar Personeel op de door Opdrachtgever aangegeven
+beveiligingsprocedures en huisregels in acht te
+nemen.</al>
+              </li>
+              <li>
+                <li.nr>19.2.</li.nr>
+                <al>Opdrachtgever kan vorderen
+dat van Personeel van Wederpartij uiterlijk drie Werkdagen voor aanvang
+van de werkzaamheden bij Opdrachtgever verklaringen omtrent het gedrag
+worden overgelegd.</al>
+              </li>
+              <li>
+                <li.nr>19.3.</li.nr>
+                <al>1Opdrachtgever
+kan het Personeel van Wederpartij dat voor de uitvoering van de
+Overeenkomst is of wordt ingeschakeld, aan een veiligheidsonderzoek,
+overeenkomstig de bij Opdrachtgever gebruikelijke regels, (doen)
+onderwerpen. Wederpartij verleent aan dat onderzoek zijn volledige
+medewerking. Opdrachtgever kan op grond van de uitkomsten daarvan de
+inzet van het betrokken personeelslid bij de uitvoering van de
+Overeenkomst weigeren.</al>
+              </li>
+              <li>
+                <li.nr>19.4.</li.nr>
+                <al>Wederpartij
+meldt de komst van zijn Personeel op een locatie van Opdrachtgever
+tijdig bij de contactpersoon van Opdrachtgever. Wederpartij zorgt
+ervoor dat zijn Personeel zich op verzoek van Opdrachtgever kan
+legitimeren en kan aantonen dat zij voor of namens haar werkzaam is.
+Opdrachtgever mag een ieder de toegang tot een van zijn locaties
+weigeren.</al>
+              </li>
+              <li>
+                <li.nr>19.5.</li.nr>
+                <al>Indien een persoon die
+behoorde of behoort tot het Personeel van Wederpartij en in die
+hoedanigheid locaties van Opdrachtgever bezoekt, om wat voor reden ook
+niet meer voor Wederpartij werkzaam is respectievelijk zal zijn, meldt
+Wederpartij dat onverwijld aan de contactpersoon van
+Opdrachtgever.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">20</nr>
+              <titel status="officieel">
+arbeidsomstandigheden</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>20.1.</li.nr>
+                <al>Voorzover
+werkzaamheden bij Opdrachtgever worden uitgevoerd, zorgt Opdrachtgever
+voor een adequate en veilige
+werkplek.</al>
+              </li>
+              <li>
+                <li.nr>20.2.</li.nr>
+                <al>Wederpartij draagt er
+zorg voor dat zijn Personeel tijdig bekend is met bij Opdrachtgever
+geldende voorschriften inzake arbeidsomstandigheden en stelt
+Opdrachtgever met bekwame spoed op de hoogte indien hem blijkt van
+omstandigheden die een inbreuk op die voorschriften (kunnen)
+maken.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">21</nr>
+              <titel status="officieel">Melding
+in publicaties en/of reclame-uitingen</titel>
+            </kop>
+            <al>Wederpartij
+maakt in publicaties (waaronder begrepen persberichten) of
+reclame-uitingen impliciet noch expliciet melding van de Prestatie en
+gebruikt de naam van Opdrachtgever niet als referentie, dan na
+toestemming van
+Opdrachtgever.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">22</nr>
+              <titel status="officieel">Vervanging
+Personeel van
+Wederpartij</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>22.1.</li.nr>
+                <al>Wederpartij
+vervangt Personeel alleen met voorafgaande toestemming van
+Opdrachtgever. Opdrachtgever weigert zijn toestemming niet op
+onredelijke gronden en kan daaraan voorwaarden
+verbinden.</al>
+              </li>
+              <li>
+                <li.nr>22.2.</li.nr>
+                <al>Opdrachtgever kan
+vervanging verlangen van Personeel, indien hij de inzet daarvan om
+redenen in de persoon gelegen niet langer wenselijk
+acht.</al>
+              </li>
+              <li>
+                <li.nr>22.3.</li.nr>
+                <al>Bij vervanging van Personeel
+brengt Wederpartij geen daarmee verband houdende kosten aan
+Opdrachtgever in rekening, tenzij Wederpartij aantoont dat het verzoek
+tot vervanging geen redelijke grondslag
+had.</al>
+              </li>
+              <li>
+                <li.nr>22.4.</li.nr>
+                <al>Bij vervanging van Personeel
+stelt Wederpartij tegen hetzelfde tarief Personeel beschikbaar dat qua
+deskundigheid, opleiding en ervaring ten minste gelijkwaardig is aan
+het oorspronkelijk ingezette
+Personeel.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">23</nr>
+              <titel status="officieel">Onderaanneming</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>23.1.</li.nr>
+                <al>Bij
+het uitvoeren van de Overeenkomst mag Wederpartij alleen met
+voorafgaande toestemming van Opdrachtgever gebruik maken van de
+diensten van derden. Deze toestemming, waaraan door Opdrachtgever
+nadere voorwaarden kunnen worden verbonden, wordt niet zonder redelijke
+grond geweigerd.</al>
+              </li>
+              <li>
+                <li.nr>23.2.</li.nr>
+                <al>Toestemming van
+Opdrachtgever laat de eigen verantwoordelijkheid en aansprakelijkheid
+van Wederpartij voor de nakoming van de krachtens de Overeenkomst op
+hem rustende verplichtingen en de krachtens de belasting-,
+zorgverzekerings- en sociale verzekeringswetgeving op hem als werkgever
+rustende verplichtingen,
+onverlet.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">24</nr>
+              <titel status="officieel">Overdracht
+rechten en verplichtingen</titel>
+            </kop>
+            <al>Partijen dragen uit de
+Overeenkomst voortvloeiende rechten en verplichtingen, niet zonder
+toestemming van de andere partij aan een derde over. Deze toestemming,
+waaraan voorwaarden kunnen worden verbonden, wordt niet zonder
+redelijke grond
+geweigerd.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">25</nr>
+              <titel status="officieel">Dreigende
+vertraging</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>25.1.</li.nr>
+                <al>Indien
+de uitvoering van de Prestatie vertraging dreigt te ondervinden, deelt
+Wederpartij dat onmiddellijk aan Opdrachtgever mee onder vermelding van
+de oorzaak en consequenties daarvan. Tevens stelt Wederpartij
+Opdrachtgever daarbij maatregelen voor om (verdere) vertraging te
+voorkomen.</al>
+              </li>
+              <li>
+                <li.nr>25.2.</li.nr>
+                <al>Zo spoedig mogelijk na
+ontvangst van de in artikel 25.1 bedoelde mededeling, bericht
+Opdrachtgever aan Wederpartij of hij al dan niet instemt met de
+voorgestelde maatregelen. Instemming betekent niet dat Opdrachtgever de
+oorzaak van de dreigende vertraging erkent en laat zijn rechten jegens
+de Wederpartij
+onverlet.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">26</nr>
+              <titel status="officieel">Aansprakelijkheid</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>26.1.</li.nr>
+                <al>Indien
+een partij tekortschiet in de nakoming van een overeengekomen
+verplichting, kan de andere partij haar in gebreke stellen waarbij de
+nalatige partij alsnog een redelijke termijn voor de nakoming wordt
+gegund. Blijft nakoming ook dan uit dan is de nalatige partij in
+verzuim. Ingebrekestelling is niet nodig wanneer voor de nakoming een
+Fatale termijn geldt of indien uit een mededeling van de andere partij
+moet worden afgeleid dat deze in de nakoming van haar verplichting zal
+tekortschieten. De partij die toerekenbaar tekortschiet in de nakoming
+van haar verplichtingen, is tegenover de andere partij aansprakelijk
+voor de door deze geleden en/of te lijden
+schade.</al>
+              </li>
+              <li>
+                <li.nr>26.2.</li.nr>
+                <al>De in artikel 26.1
+bedoelde aansprakelijkheid voor persoons- en zaakschade en daaruit
+voortvloeiende schade, is beperkt tot een bedrag van
+EURO&#xA0;1.250.000,&#x2013; per aanspraak Samenhangende aanspraken
+worden daarbij aangemerkt als &#xE9;&#xE9;n
+aanspraak.</al>
+              </li>
+              <li>
+                <li.nr>26.3.</li.nr>
+                <al>De in artikel 26.1
+bedoelde aansprakelijkheid voor schade anders dan die bedoeld in
+artikel 26.2 is beperkt tot een bedrag van ten hoogste 4 maal de hoogte
+van de Vergoeding per aanspraak. Samenhangende aanspraken worden
+daarbij aangemerkt als &#xE9;&#xE9;n
+aanspraak.</al>
+              </li>
+              <li>
+                <li.nr>26.4.</li.nr>
+                <al>De in artikel 26.2 en
+artikel 26.3 opgenomen beperkingen van aansprakelijkheid komen te
+vervallen:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>ingeval
+van aanspraken van derden op schadevergoeding ten gevolge van dood of
+letsel en/of;</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>indien sprake is van
+opzet of grove schuld aan de zijde van de andere partij of diens
+Personeel en/of;</al>
+                  </li>
+                  <li>
+                    <li.nr>c.</li.nr>
+                    <al>in geval van
+schending van intellectuele eigendomsrechten als bedoeld in artikel
+8.</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>26.5.</li.nr>
+                <al>Alle
+verplichtingen, ook die krachtens de belasting-, zorgverzekerings- en
+sociale verzekeringswetgeving met betrekking tot Personeel van
+Wederpartij, komen ten laste van Wederpartij. Wederpartij vrijwaart
+Opdrachtgever tegen elke aansprakelijkheid die daarmee verband
+houdt.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">27</nr>
+              <titel status="officieel">Overmacht</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>27.1.</li.nr>
+                <al>Een
+tekortkoming in de nakoming van de Overeenkomst die niet te wijten is
+aan schuld van een partij en evenmin krachtens, wet, rechtshandeling of
+in het maatschappelijk rechtsverkeer geldende opvatting voor haar
+rekening komt levert overmacht
+op.</al>
+              </li>
+              <li>
+                <li.nr>27.2.</li.nr>
+                <al>Onder overmacht aan de zijde
+van Wederpartij wordt in ieder geval niet verstaan: gebrek aan
+personeel, stakingen, ziekte van Personeel, verlate aanlevering of
+ongeschiktheid van voor het verrichten van de Prestatie benodigde
+goederen dan wel liquiditeits- of
+solvabiliteitsproblemen.</al>
+              </li>
+              <li>
+                <li.nr>27.3.</li.nr>
+                <al>Indien
+Wederpartij terzake van een tekortkoming als bedoeld in artikel 27.1
+aanspraak kan maken op enig voordeel dat hij bij behoorlijke nakoming
+daarvan niet zou hebben gehad, vergoedt Wederpartij de door
+Opdrachtgever als gevolg van die tekortkoming geleden schade tot
+maximaal de waarde van het in de vorige volzin bedoelde voordeel. Het
+bepaalde in artikel 26 leden 2 en 3 is daarbij van
+toepassing.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">28</nr>
+              <titel status="officieel">Gebreken
+in de samenwerking met andere programmatuur of
+apparatuur</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>28.1.</li.nr>
+                <al>Wederpartij
+neemt op verzoek van Opdrachtgever deel aan overleg met door
+Opdrachtgever aangewezen andere wederpartijen en/of leveranciers van
+Opdrachtgever indien op enig moment blijkt dat de Prestatie niet goed
+functioneert in samenhang met andere bij Opdrachtgever in gebruik
+zijnde of te nemen programmatuur en/of
+producten.</al>
+              </li>
+              <li>
+                <li.nr>28.2.</li.nr>
+                <al>Het overleg, bedoeld in
+artikel 28.1 is gericht op het achterhalen van de oorzaak van het
+onvoldoende in samenhang functioneren en het zo mogelijk vinden van een
+oplossing daarvoor. Aan het overleg en uitwerken van een oplossing
+verbonden redelijke kosten komen voor rekening van Opdrachtgever,
+tenzij het onvoldoende in samenhang functioneren toerekenbaar blijkt
+aan
+Wederpartij.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">29</nr>
+              <titel status="officieel">Verzekering</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>29.1.</li.nr>
+                <al>Wederpartij
+heeft zich op een naar verkeersnormen passende en gebruikelijke wijze
+verzekerd en houdt zich zodanig verzekerd tegen wettelijke
+aansprakelijkheid.</al>
+              </li>
+              <li>
+                <li.nr>29.2.</li.nr>
+                <al>De verzekering
+tegen wettelijke aansprakelijkheid biedt dekking voor ten minste
+EURO&#xA0;1.250.000 per aanspraak, met een minimale jaarlijkse
+uitkering van 200% van dit
+bedrag.</al>
+              </li>
+              <li>
+                <li.nr>29.3.</li.nr>
+                <al>Wederpartij overlegt op
+verzoek onverwijld bewijs van premiebetaling aan Opdrachtgever waarbij
+Wederpartij, behoudens in het geval wettelijke verplichtingen daaraan
+in de weg staan, mededeling doet van eerdere claims onder dezelfde
+polis in het lopende
+verzekeringsjaar.</al>
+              </li>
+              <li>
+                <li.nr>29.4.</li.nr>
+                <al>Wederpartij zegt
+een verzekering als bedoeld in artikel 29.1 voor de duur van de
+Overeenkomst niet op zonder voorafgaande toestemming van Opdrachtgever.
+Evenmin wijzigt Wederpartij de voorwaarden waaronder deze verzekering
+werd aangegaan uit eigen beweging ten nadele van
+Opdrachtgever.</al>
+              </li>
+              <li>
+                <li.nr>29.5.</li.nr>
+                <al>Indien
+Opdrachtgever Wederpartij aansprakelijk heeft gesteld uit hoofde van de
+Overeenkomst dient Wederpartij op verzoek van Opdrachtgever daarmee
+verband houdende aanspraken terzake van een uitkering van
+verzekeringspenningen uit hoofde van de verzekering als bedoeld in
+artikel 29.1, onverwijld aan Opdrachtgever te cederen. Wederpartij
+machtigt Opdrachtgever door het aangaan van de Overeenkomst
+onherroepelijk om de akte van cessie alsdan in haar naam te
+ondertekenen en aan verzekeraar mee te delen. Wederpartij deelt deze
+cessie in dat geval ook zelf onverwijld aan verzekeraar
+mee.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">30</nr>
+              <titel status="officieel">Ontbinding
+en
+opzegging</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>30.1.</li.nr>
+                <al>Onverminderd
+hetgeen overigens in de Overeenkomst is vastgelegd, kan elk van de
+partijen de Overeenkomst door middel van een aangetekend schrijven
+buiten rechte geheel of gedeeltelijk ontbinden indien de andere partij
+in verzuim is dan wel nakoming blijvend of tijdelijk onmogelijk
+is.</al>
+              </li>
+              <li>
+                <li.nr>30.2.</li.nr>
+                <al>In geval van overmacht gaan
+partijen niet eerder tot ontbinding over dan na het verstrijken van een
+termijn van 15 Werkdagen na het intreden van de
+tekortkoming.</al>
+              </li>
+              <li>
+                <li.nr>30.3.</li.nr>
+                <al>Opdrachtgever kan
+zonder voorafgaande aanmaning of ingebrekestelling met onmiddellijke
+ingang buiten rechte de Overeenkomst door middel van een aangetekend
+schrijven ontbinden, indien Wederpartij (voorlopige) surseance van
+betaling aanvraagt, Wederpartij zijn faillissement aanvraagt of in
+staat van faillissement wordt verklaard, de onderneming van Wederpartij
+wordt ontbonden, Wederpartij zijn onderneming staakt, sprake is van een
+ingrijpende wijziging in de zeggenschap over de activiteiten van de
+onderneming van Wederpartij, op een aanmerkelijk deel van het vermogen
+van Wederpartij beslag wordt gelegdof Wederpartij anderszins niet
+langer in staat moet worden geacht de verplichtingen uit de
+Overeenkomst na te komen. Deze bevoegdheid geldt ook indien zich
+gedurende de looptijd van de Overeenkomst ten aanzien van Wederpartij
+uitsluitingsgronden voordoen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0018607&amp;artikel=45" compleet="nee">artikel 45 van het Besluit
+aanbestedingsregels voor
+overheidsopdrachten</extref>.</al>
+              </li>
+              <li>
+                <li.nr>30.4.</li.nr>
+                <al>Opdrachtgever
+kan de Overeenkomst ook op de in artikel&#xA0;30.3 aangegeven wijze
+ontbinden indien hij op goede gronden aanneemt dat de rechter op een
+daartoe strekkende vordering op grond van de Wira de overeenkomst zal
+vernietigen.</al>
+                <al>Wederpartij heeft alsdan aanspraak op vergoeding
+van in redelijkheid voor de uitvoering van de Overeenkomst gemaakte
+kosten en in verband daarmee in redelijkheid voor de toekomst reeds
+aangegane verplichtingen. Indien Opdrachtgever echter aantoont dat de
+onrechtmatigheid (mede) aan Wederpartij toerekenbaar is, komt
+Wederpartij geen vergoeding
+toe.</al>
+              </li>
+              <li>
+                <li.nr>30.5.</li.nr>
+                <al>Indien Opdrachtgever met
+Wederpartij twee of meer samenhangende Overeenkomsten heeft gesloten,
+mag Opdrachtgever in de gevallen bedoeld in artikel 30.1 en 30.3 ook de
+andere Overeenkomst(en) op de aangegeven wijze ontbinden. Van samenhang
+als hiervoor bedoeld, moet blijken uit de (bijbehorende)
+Overeenkomsten.</al>
+              </li>
+              <li>
+                <li.nr>30.6.</li.nr>
+                <al>Indien sprake is
+van een Opdracht kan Opdrachtgever deze door middel van een aangetekend
+schrijven opzeggen eventueel ook met onmiddellijke ingang. Tussen
+Opdrachtgever en Opdrachtnemer vindt in dat geval afrekening plaats op
+basis van de door Opdrachtnemer ter uitvoering van de Overeenkomst ten
+tijde van de opzegging reeds verrichte werkzaamheden, in redelijkheid
+gemaakte kosten en in redelijkheid voor de toekomst reeds aangegane
+verplichtingen. Opdrachtgever is niet verplicht Opdrachtnemer op enig
+andere wijze schadeloos te stellen voor de gevolgen van de opzegging
+van de Overeenkomst.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">31</nr>
+              <titel status="officieel">Behoud
+recht om nakoming te vorderen</titel>
+            </kop>
+            <al>Het nalaten door
+&#xE9;&#xE9;n van de partijen om binnen een in de Overeenkomst genoemde
+termijn nakoming van enige bepaling daaruit te verlangen, tast het
+recht om daarvan alsnog nakoming te verlangen niet aan, tenzij de
+desbetreffende partij schriftelijk uitdrukkelijk met de niet-nakoming
+heeft
+ingestemd.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">32</nr>
+              <titel status="officieel">Exitclausule</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>32.1.</li.nr>
+                <al>Indien
+de Overeenkomst om welke reden ook (tussentijds) eindigt, doet
+Wederpartij op eerste verzoek van Opdrachtgever datgene wat
+redelijkerwijs noodzakelijk is om er voor te zorgen dat een nieuwe
+Wederpartij of Opdrachtgever zelf zonder belemmeringen de uitvoering
+van de Overeenkomst kan overnemen en/of een soortgelijke Prestatie ten
+behoeve van Opdrachtgever kan verrichten. Tevens retourneert
+Wederpartij aan Opdrachtgever onverwijld alle haar door Opdrachtgever
+ter hand gestelde documenten, boeken, bescheiden en andere goederen
+(waaronder begrepen gegevens- en
+informatiedragers).</al>
+              </li>
+              <li>
+                <li.nr>32.2.</li.nr>
+                <al>Anders dan in
+geval van ontbinding van de Overeenkomst krachtens het bepaalde in
+artikel 30 leden 1 of 3 verricht Wederpartij de in artikel 32.1
+bedoelde diensten tegen de in de Overeenkomst bepaalde tarieven en
+condities of bij gebreke daarvan tegen de in het algemeen door
+Wederpartij gehanteerde tarieven en nader overeen te komen condities.
+De in artikel 32.1 bedoelde diensten worden eveneens kosteloos verricht
+indien het bepaalde in de laatste volzin van artikel 30.4 van
+toepassing
+is.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">33</nr>
+              <titel status="officieel">Overname
+van personeel, omkoping en
+belangenverstrengeling</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>33.1.</li.nr>
+                <al>Partijen
+nemen zonder toestemming van de ander, tijdens de uitvoering van de
+Overeenkomst en binnen &#xE9;&#xE9;n jaar na be&#xEB;indiging daarvan,
+geen Personeel van elkaar in dienst noch zullen zij met dat personeel
+over indiensttreding onderhandelen. Deze toestemming wordt niet zonder
+redelijke grond
+geweigerd.</al>
+              </li>
+              <li>
+                <li.nr>33.2.</li.nr>
+                <al>Partijen bieden elkaar
+noch derden aan - noch vragen zij, accepteren zij of krijgen zij van
+elkaar of derden, voor henzelf of enige andere partij - enige
+schenking, beloning, compensatie of (ander) voordeel van welke aard
+ook, dat uitgelegd kan worden als een onwettige praktijk. Opdrachtgever
+kan de Overeenkomst bij het constateren van een dergelijke praktijk
+geheel of gedeeltelijk
+ontbinden.</al>
+              </li>
+              <li>
+                <li.nr>33.3.</li.nr>
+                <al>Indien blijkt dat
+Personeel van Opdrachtgever een al dan niet betaalde nevenfunctie bij
+Wederpartij vervult of ten tijde van de onderhandelingen over de
+totstandkoming van de Overeenkomst heeft vervuld, zonder dat
+Opdrachtgever daarover v&#xF3;&#xF3;r het sluiten van de Overeenkomst
+door Wederpartij is ingelicht, kan Opdrachtgever de Overeenkomst zonder
+ingebrekestelling met onmiddellijke ingang buiten rechte ontbinden
+zonder tot enige schadevergoeding te zijn gehouden en onverminderd enig
+recht van Opdrachtgever op
+schadevergoeding.</al>
+              </li>
+              <li>
+                <li.nr>33.4.</li.nr>
+                <al>Wederpartij
+betrekt geen personen, anders dan met voorafgaande toestemming van
+Opdrachtgever, bij de uitvoering van de Overeenkomst die binnen een
+periode van twee jaar voorafgaand aan de werkzaamheden bij
+Opdrachtgever in dienst zijn
+geweest.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">34</nr>
+              <titel status="officieel">Voortdurende
+verplichtingen</titel>
+            </kop>
+            <al>Be&#xEB;indiging van de Overeenkomst
+ontslaat partijen niet van verplichtingen daaruit die naar hun aard
+doorlopen. Tot deze verplichtingen behoren in ieder geval: vrijwaring
+voor schending van intellectuele eigendomsrechten, garanties,
+aansprakelijkheid, geheimhouding, geschillen en toepasselijk
+recht.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">35</nr>
+              <titel status="officieel">Vervolgopdracht</titel>
+            </kop>
+            <al>Wederpartij
+kan aan de Overeenkomst geen recht ontlenen tot het verkrijgen van een
+vervolgopdracht.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">36</nr>
+              <titel status="officieel">Nietige
+bepalingen</titel>
+            </kop>
+            <al>Indien &#xE9;&#xE9;n of meer bepalingen van
+de Overeenkomst nietig blijken te zijn of door de rechter vernietigd
+worden, blijven de overige bepalingen van de Overeenkomst zoveel
+mogelijk onverkort van kracht. Partijen voeren over de nietige
+bepalingen overleg teneinde zo mogelijk een vervangende regeling te
+treffen. Doel en strekking van de Overeenkomst worden daarbij niet
+aangetast.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">37</nr>
+              <titel status="officieel">Geschillen
+en toepasselijk
+recht</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>37.1.</li.nr>
+                <al>Ieder
+geschil tussen partijen terzake van de Overeenkomst wordt bij
+uitsluiting voorgelegd aan de daartoe bevoegde rechter in het
+arrondissement Den Haag, tenzij partijen alsnog een andere vorm van
+geschilbeslechting
+overeenkomen.</al>
+              </li>
+              <li>
+                <li.nr>37.2.</li.nr>
+                <al>Op de Overeenkomst
+is Nederlands recht van toepassing met uitdrukkelijke uitsluiting van
+regels van internationaal privaatrecht waaronder het Weens
+Koopverdrag.</al>
+              </li>
+            </lijst>
+          </divisie>
+        </divisie>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Algemene
+Rijksvoorwaarden Bij IT-Overeenkomsten
+(Arbit)</titel>
+        </kop>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Bijzondere
+bepalingen koop</titel>
+          </kop>
+          <al>Deze bepalingen zijn steeds samen met
+de Algemene bepalingen van de ARBIT van toepassing bij de koop van
+IT-Producten (verder aan te duiden als Producten) zoals computers,
+laptops en
+servers.</al>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">38</nr>
+              <titel status="officieel">Installatie</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>38.1.</li.nr>
+                <al>Indien
+de aard en/of omvang van de Prestatie daartoe aanleiding geeft kan
+Leverancier de plaats van Installatie van het Product voorafgaand aan
+de Aflevering inspecteren.</al>
+              </li>
+              <li>
+                <li.nr>38.2.</li.nr>
+                <al>Indien
+Leverancier de plaats van Installatie ongeschikt bevindt, deelt hij dat
+zo spoedig mogelijk aan Opdrachtgever mee. Vervolgens zullen
+Opdrachtgever en Leverancier in onderling overleg een geschikte plaats
+van Installatie bepalen.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel
+</label>
+              <nr status="officieel">39</nr>
+              <titel status="officieel">Garanties</titel>
+            </kop>
+            <al>In aanvulling op
+artikel 12 garandeert Leverancier
+dat:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het
+Product bij Aflevering is samengesteld uit nieuwe
+onderdelen;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het Product hem ten tijde
+van de Aflevering in volledige eigendom toebehoort, daarop geen
+eigendomsvoorbehoud, beperkt recht of beslag van een derde rust en vrij
+is van andere lasten en
+beperkingen.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">40</nr>
+              <titel status="officieel">Bijzondere
+informatieverplichting</titel>
+            </kop>
+            <al>Leverancier informeert
+Opdrachtgever gedurende tenminste 3 jaar na het sluiten van de
+Overeenkomst uit eigen beweging over mogelijkheden tot verbetering van
+de werking van het
+Product.</al>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">41</nr>
+              <titel status="officieel">Modificaties
+van Producten</titel>
+            </kop>
+            <al>Indien de fabrikant van een Product een
+modificatie daarvan voorschrijft, zorgt Leverancier ervoor dat die
+modificatie zo spoedig mogelijk kosteloos hetzij door hemzelf hetzij
+door de fabrikant van het Product wordt
+uitgevoerd.</al>
+          </divisie>
+        </divisie>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Algemene
+Rijksvoorwaarden Bij IT-Overeenkomsten
+(Arbit)</titel>
+        </kop>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Bijzondere
+Bepalingen Gebruiksrechten</titel>
+          </kop>
+          <al>De bepalingen van dit
+bijzondere deel zijn steeds samen met de Algemene bepalingen van de
+ARBIT van toepassing indien Opdrachtgever Gebruiksrechten
+verwerft.</al>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">42</nr>
+              <titel status="officieel">Aanvullende
+begripsbepalingen</titel>
+            </kop>
+            <al>In dit bijzondere deel van de ARBIT
+wordt, in aanvulling op artikel 1, onder de navolgende begrippen indien
+met een beginhoofdletter gebruikt,
+verstaan:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>42.1.</li.nr>
+                <al>Escrow:
+het deponeren van (een kopie van) de Broncode bij een onafhankelijke
+derde opdat Opdrachtgever deze, bij het in vervulling gaan van een of
+meer in de Escrow-overeenkomst bepaalde voorwaarden, eigenmachtig kan
+(laten) gebruiken voor het herstellen van fouten en anderszins
+onderhouden en beheren van de
+Standaardprogrammatuur.</al>
+              </li>
+              <li>
+                <li.nr>42.2.</li.nr>
+                <al>Installatiekopie:
+een gegevensdrager met daarop de Standaardprogrammatuur waarvoor het
+Gebruiksrecht wordt
+verleend.</al>
+              </li>
+              <li>
+                <li.nr>42.3.</li.nr>
+                <al>Rechthebbende: degene
+bij wie het intellectueel eigendomsrecht op de Standaardprogrammatuur
+berust.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">43</nr>
+              <titel status="officieel">Aard
+en inhoud van het
+Gebruiksrecht</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>43.1.</li.nr>
+                <al>Leverancier
+verleent aan Opdrachtgever met inachtneming van de Voorwaarden, een
+eeuwigdurend en onherroepelijk Gebruiksrecht op de
+Standaardprogrammatuur alsmede op Nieuwe versies indien Opdrachtgever
+is gerechtigd tot de ontvangst daarvan. Het Gebruiksrecht omvat geen
+overdracht door Leverancier aan Opdrachtgever van octrooi-, auteurs- of
+merkenrechten op de betreffende
+Standaardprogrammatuur.</al>
+              </li>
+              <li>
+                <li.nr>43.2.</li.nr>
+                <al>In het
+Gebruiksrecht is, zonder dat Opdrachtgever daarvoor enige additionele
+vergoeding verschuldigd is, in ieder geval
+begrepen:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>het
+recht om alle voor Opdrachtgever toegankelijke functionaliteiten van de
+Standaardprogrammatuur te gebruiken ook als die niet in de Documentatie
+staan vermeld;</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>het recht om
+kopie&#xEB;n van de Standaardprogrammatuur te vervaardigen, op te
+slaan, regelmatig te testen en &#x2018;hot standby&#x2019; te houden
+voor het geval van een
+calamiteit;</al>
+                  </li>
+                  <li>
+                    <li.nr>c.</li.nr>
+                    <al>het recht om de
+Standaardprogrammatuur voor test- en ontwikkeldoeleinden te
+gebruiken;</al>
+                  </li>
+                  <li>
+                    <li.nr>d.</li.nr>
+                    <al>het recht om de
+Standaardprogrammatuur zonder enige beperking of begrenzing met
+betrekking tot plek, apparatuur, tijdsduur of anderszins te gebruiken
+waaronder begrepen het gebruik daarvan door derden ten behoeve van
+Opdrachtgever.</al>
+                  </li>
+                </lijst>
+              </li>
+              <li>
+                <li.nr>43.3.</li.nr>
+                <al>Opdrachtgever
+mag kopie&#xEB;n van de Standaardprogrammatuur vervaardigen en in
+gebruik nemen zo vaak hij dat voor zijn bedrijfsvoering nodig oordeelt.
+Als hij daartoe overgaat en om die reden een additionele betaling aan
+Leverancier verschuldigd is, deelt hij dat Leverancier met bekwame
+spoed mee. Opdrachtgever verwijdert geen aanduidingen van eigendoms- en
+auteursrechten bij het verveelvoudigen van
+Standaardprogrammatuur.</al>
+              </li>
+              <li>
+                <li.nr>43.4.</li.nr>
+                <al>Tot het
+moment van Acceptatie van de Standaardprogrammatuur verkrijgt
+Opdrachtgever van Leverancier een niet-exclusief recht tot het gebruik
+daarvan voor installatie- en
+testdoeleinden.</al>
+              </li>
+              <li>
+                <li.nr>43.5.</li.nr>
+                <al>Indien Leverancier
+Gebreken in de Standaardprogrammatuur alleen herstelt door middel van
+het uitbrengen van Patches of Verbeterde versies, heeft Opdrachtgever
+gedurende de garantietermijn van artikel 12.3, ook al is hij met
+Leverancier geen Onderhoud overeengekomen, recht op de kosteloze
+ontvangst en het gebruik
+daarvan.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">44</nr>
+              <titel status="officieel">Garanties</titel>
+            </kop>
+            <al>In
+aanvulling op artikel 12 garandeert Leverancier
+dat:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de
+Standaardprogrammatuur geen technische voorzieningen, functies of
+andere vreemde elementen bevat die op enig moment, al dan niet
+tijdelijk, aan het Overeengekomen gebruik in de weg (kunnen)
+staan;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>indien hij niet de
+Rechthebbende van de Standaardprogrammatuur is, hij door Rechthebbende
+is gemachtigd om namens deze Gebruiksrechten aan derden te verschaffen.
+Leverancier verstrekt Opdrachtgever op verzoek een kopie van die
+machtiging.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">45</nr>
+              <titel status="officieel">Verstrekken
+van een
+Installatiekopie</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>45.1.</li.nr>
+                <al>Leverancier
+verstrekt Opdrachtgever zo mogelijk een Installatiekopie, of stelt deze
+in de gelegenheid die zelf te maken. De prijs daarvan is in de
+Vergoeding begrepen.</al>
+              </li>
+              <li>
+                <li.nr>45.2.</li.nr>
+                <al>Indien
+Opdrachtgever recht heeft op de ontvangst van Nieuwe versies, geldt het
+bepaalde in artikel 45.1 ook ten aanzien
+daarvan.</al>
+              </li>
+              <li>
+                <li.nr>45.3.</li.nr>
+                <al>Indien de
+Installatiekopie in het ongerede is geraakt of zodanig beschadigd dat
+het Overeengekomen gebruik niet meer mogelijk is, verstrekt Leverancier
+Opdrachtgever op verzoek met bekwame spoed een nieuwe Installatiekopie
+van de oorspronkelijk geleverde versie alsmede van door Opdrachtgever
+in gebruik genomen Verbeterde en Nieuwe Versies daarvan of stelt hij
+Opdrachtgever in de gelegenheid die zelf te maken. Leverancier kan
+daarbij, voorzover van toepassing, alleen aanspraak maken op vergoeding
+van de kostprijs van de materialen van de
+Installatiekopie.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">46</nr>
+              <titel status="officieel">Omzetting
+in andere
+Gebruiksrechten</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>46.1.</li.nr>
+                <al>Indien
+Leverancier het aan Opdrachtgever verleende Gebruiksrecht op enig
+moment wil omzetten in een ander gebruiksrecht ten aanzien van de
+Standaardprogrammatuur treedt hij daarover, alsmede over de daarbij te
+hanteren omwisselverhouding, vooraf in overleg met Opdrachtgever. Aan
+een dergelijke omzetting zijn voor Opdrachtgever geen nadelige gevolgen
+van welke aard ook,
+verbonden.</al>
+              </li>
+              <li>
+                <li.nr>46.2.</li.nr>
+                <al>Indien partijen bij het
+overleg bedoeld in artikel 46.1 geen overeenstemming bereiken, mag
+Opdrachtgever zijn Gebruiksrecht onverkort blijven
+uitoefenen.</al>
+              </li>
+            </lijst>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">47</nr>
+              <titel status="officieel">Escrow</titel>
+            </kop>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>47.1.</li.nr>
+                <al>Opdrachtgever
+heeft er te allen tijde aanspraak op dat Leverancier in Escrow
+voorziet, ook indien dat aanvankelijk niet is
+overeengekomen.</al>
+              </li>
+              <li>
+                <li.nr>47.2.</li.nr>
+                <al>Escrow omvat alle
+niet openbaargemaakte informatie die Opdrachtgever redelijkerwijs nodig
+heeft voor foutherstel, onderhoud en beheer van de
+Standaardprogrammatuur zodat hij daarvan het Overeengekomen gebruik kan
+blijven maken. Escrow voldoet aan hetgeen dienaangaande ten tijde van
+het afsluiten daarvan op de Nederlandse markt gebruikelijk
+is.</al>
+              </li>
+              <li>
+                <li.nr>47.3.</li.nr>
+                <al>Indien Escrow onderdeel van de
+Overeenkomst uitmaakt legt Leverancier aan Opdrachtgever bewijs over
+waaruit blijkt dat de Escrow voldoet aan hetgeen dienaangaande in de
+Overeenkomst is bepaald of zorgt Leverancier met bekwame spoed voor het
+treffen van een dergelijke
+voorziening.</al>
+              </li>
+              <li>
+                <li.nr>47.4.</li.nr>
+                <al>Indien Escrow geen
+onderdeel uitmaakt van de Overeenkomst heeft Opdrachtgever ook nadien
+het recht te verlangen dat een dergelijke regeling alsnog wordt
+aangegaan c.q. mag hij te allen tijde aansluiten bij een overeenkomst
+van Escrow als bedoeld in artikel 47.2. Daaraan verbonden redelijke
+kosten, zijn voor rekening van
+Opdrachtgever.</al>
+              </li>
+            </lijst>
+          </divisie>
+        </divisie>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Algemene
+Rijksvoorwaarden bij IT-overeenkomsten
+(ARBIT)</titel>
+        </kop>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Bijzondere
+bepalingen opdrachten</titel>
+          </kop>
+          <al>De bepalingen van dit bijzondere
+deel zijn steeds samen met de Algemene bepalingen van de ARBIT van
+toepassing indien Leverancier ten behoeve van Opdrachtgever diensten
+verricht zoals adviesdiensten, ontwikkeling van Maatwerkprogrammatuur,
+leiding geven aan IT-projecten, het verzorgen van het beheer en de
+exploitatie van een IT-infrastructuur, netwerk- en werkplekdiensten of
+Detachering.</al>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Opdrachten
+algemeen</titel>
+            </kop>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">48</nr>
+                <titel status="officieel">Aanvullende
+begripsbepalingen</titel>
+              </kop>
+              <al>In dit bijzondere deel van de ARBIT
+wordt, in aanvulling op artikel 1, onder de navolgende begrippen,
+indien met een beginhoofdletter gebruikt,
+verstaan:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>48.1.</li.nr>
+                  <al>Detachering:
+het door Opdrachtnemer aan Opdrachtgever ter beschikking stellen van
+Personeel om onder leiding en toezicht van Opdrachtgever, werkzaamheden
+te
+verrichten.</al>
+                </li>
+                <li>
+                  <li.nr>48.2.</li.nr>
+                  <al>Maatwerkprogrammatuur:
+specifiek ten behoeve van Opdrachtgever te ontwikkelen of ontwikkelde
+Programmatuur dan wel aanpassingen in Standaardprogrammatuur specifiek
+ten behoeve van Opdrachtgever.</al>
+                </li>
+              </lijst>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">49</nr>
+                <titel status="officieel">Plaats
+en tijden werkzaamheden</titel>
+              </kop>
+              <al>De werkzaamheden worden
+verricht op de in de Overeenkomst bepaalde tijd en plaats.
+Opdrachtgever kan de plaats waar de werkzaamheden worden verricht
+wijzigen, mits hij dat uiterlijk 3 Werkdagen voor ingang van de
+wijziging aan Opdrachtnemer kenbaar maakt. Indien de wijziging
+aantoonbaar leidt tot hogere kosten voor Opdrachtnemer, vergoedt
+Opdrachtgever die kosten. In het tegenovergestelde geval heeft
+Opdrachtgever recht op een daarmee overeenstemmende verlaging van de
+Vergoeding.</al>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">50</nr>
+                <titel status="officieel">Inzet
+specifiek Personeel</titel>
+              </kop>
+              <al>Indien Opdrachtgever de
+Overeenkomst is aangegaan met het oog op de uitvoering daarvan door een
+of meer specifieke personen, zorgt Opdrachtnemer ervoor dat die
+personen ook inderdaad met de uitvoering belast worden en
+blijven.</al>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">51</nr>
+                <titel status="officieel">Voortgangsrapportage
+en
+werkoverleg</titel>
+              </kop>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>51.1.</li.nr>
+                  <al>Opdrachtnemer
+rapporteert aan Opdrachtgever over het verloop van zijn werkzaamheden
+op de in de Overeenkomst bepaalde wijze. Hij geeft daarbij inzicht in
+het verloop en de stand van zijn werkzaamheden, het tot dan toe aan de
+Opdracht bestede aantal uren en andere voor de uitvoering daarvan
+relevante aspecten.</al>
+                </li>
+                <li>
+                  <li.nr>51.2.</li.nr>
+                  <al>Partijen
+overleggen zo vaak als een van hen dat nodig oordeelt over de voortgang
+van de werkzaamheden.</al>
+                </li>
+              </lijst>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">52</nr>
+                <titel status="officieel">Beroepsaansprakelijkheidsverzekering</titel>
+              </kop>
+              <al>Onverkort
+het bepaalde in artikel 29 heeft Opdrachtnemer zich op een naar
+verkeersnormen passende en, rekening houdend met de aard en omvang van
+de Opdracht, gebruikelijke wijze verzekerd en houdt hij zich zodanig
+verzekerd tegen
+beroepsaansprakelijkheid.</al>
+            </divisie>
+          </divisie>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Specifieke
+opdrachten</titel>
+            </kop>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="vet">Adviesdiensten</nadruk>
+            </tussenkop>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">53</nr>
+                <titel status="officieel">Dagelijkse
+leiding en toezicht</titel>
+              </kop>
+              <al>De dagelijkse leiding van en het
+toezicht op de uitvoering van de Opdracht berusten bij
+Opdrachtnemer.</al>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">54</nr>
+                <titel status="officieel">Projectleiders</titel>
+              </kop>
+              <al>Partijen
+kunnen (ieder) een projectleider benoemen wiens bevoegdheden, taken en
+verantwoordelijkheden in de Overeenkomst worden
+geregeld.</al>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">55</nr>
+                <titel status="officieel">Projectfasering</titel>
+              </kop>
+              <al>In
+geval van fasering van het project worden de verschillende projectfasen
+in de Overeenkomst benoemd. Daarbij wordt vermeld uit welke
+werkzaamheden de afzonderlijke fasen bestaan, voor welke werkzaamheden
+Fatale termijnen gelden, tot welke uitkomst ze moeten leiden en wanneer
+en hoe ze worden
+afgesloten.</al>
+              <tussenkop kopopmaak="cur">
+                <nadruk type="vet">Ontwikkeling
+Maatwerkprogrammatuur</nadruk>
+              </tussenkop>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">56</nr>
+                <titel status="officieel">Leiding
+en toezicht, benoeming projectleiders en
+projectfasering</titel>
+              </kop>
+              <al>Bij ontwikkeling van
+Maatwerkprogrammatuur zijn artikel 53 tot en met artikel 55 van
+overeenkomstige
+toepassing.</al>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">57</nr>
+                <titel status="officieel">Oplevering
+Maatwerkprogrammatuur</titel>
+              </kop>
+              <al>De Opdracht tot ontwikkeling van
+Maatwerkprogrammatuur omvat de Oplevering daarvan. Oplevering vindt
+plaats in Bron- en
+Objectcode.</al>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">58</nr>
+                <titel status="officieel">Acceptatieprocedure
+Maatwerkprogrammatuur</titel>
+              </kop>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>58.1.</li.nr>
+                  <al>Onverminderd
+het bepaalde in artikel 11 vindt Acceptatie van Maatwerkprogrammatuur
+als volgt plaats.</al>
+                </li>
+                <li>
+                  <li.nr>58.2.</li.nr>
+                  <al>Opdrachtnemer
+stelt Opdrachtgever tijdig op de hoogte van de Oplevering van de
+Maatwerkprogrammatuur.</al>
+                </li>
+                <li>
+                  <li.nr>58.3.</li.nr>
+                  <al>Indien
+Opdrachtgever een acceptatietest (laat) verricht(en), stelt hij zo
+spoedig mogelijk een testverslag op en zendt hij dat ondertekend aan
+Opdrachtnemer. In het testverslag worden geconstateerde Gebreken
+vastgelegd alsook of Opdrachtgever de Maatwerkprogrammatuur goed- of
+afkeurt.</al>
+                </li>
+                <li>
+                  <li.nr>58.4.</li.nr>
+                  <al>Indien Opdrachtgever de
+Maatwerkprogrammatuur goedkeurt, geldt de datum van ondertekening van
+het testverslag als datum van
+Acceptatie.</al>
+                </li>
+                <li>
+                  <li.nr>58.5.</li.nr>
+                  <al>Indien Opdrachtgever
+de Maatwerkprogrammatuur niet bij eerste uitvoering van de
+acceptatietest goedkeurt zal hij deze test binnen een door hem vast te
+stellen redelijke termijn geheel of gedeeltelijk herhalen. In een
+aanvullend testverslag legt Opdrachtgever vervolgens vast of de bij de
+eerste test geconstateerde Gebreken zijn verholpen en of hij de
+Maatwerkprogrammatuur thans wel
+goedkeurt.</al>
+                </li>
+                <li>
+                  <li.nr>58.6.</li.nr>
+                  <al>Indien Opdrachtgever de
+Maatwerkprogrammatuur afkeurt, herstelt Opdrachtnemer de geconstateerde
+Gebreken voor eigen rekening binnen een daartoe door Opdrachtgever te
+verlenen redelijke termijn die ingaat op de datum van ondertekening van
+het testverslag. Indien Opdrachtnemer daaraan niet voldoet, mag
+Opdrachtgever de Gebreken na voorafgaande mededeling aan Opdrachtnemer
+voor diens rekening zelf verhelpen of door een derde laten verhelpen.
+Opdrachtnemer verleent daaraan in dat geval kosteloos zijn volledige
+medewerking onder meer door daarvoor noodzakelijke informatie op diens
+eerste verzoek aan Opdrachtgever te verstrekken. Indien Opdrachtgever
+een Gebrek om reden als hiervoor bedoeld zelf verhelpt of door een
+derde laat verhelpen, laat dat de overeengekomen verantwoordelijkheden
+van Opdrachtnemer voor de Maatwerkprogrammatuur geheel
+onverlet.</al>
+                </li>
+                <li>
+                  <li.nr>58.7.</li.nr>
+                  <al>Indien Opdrachtgever de
+Maatwerkprogrammatuur na de tweede acceptatietest opnieuw afkeurt, is
+Opdrachtnemer als gevolg daarvan in verzuim. Opdrachtgever kan de
+Overeenkomst in dat geval met onmiddellijke ingang buiten rechte
+ontbinden zonder dat daarvoor enige aanmaning of ingebrekestelling is
+vereist.</al>
+                </li>
+              </lijst>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">59</nr>
+                <titel status="officieel">Gebruik
+open source programmatuur</titel>
+              </kop>
+              <al>Indien Opdrachtnemer bij de
+uitvoering van de Opdracht (mede) gebruik maakt van open source
+programmatuur, stelt hij zich vooraf op de hoogte van de kwaliteit
+daarvan en onderzoekt hij nauwgezet of en zo ja door wie en met welk
+resultaat daarop intellectueel eigendomsrechtelijke aanspraken zijn of
+naar redelijke verwachting gaan worden
+gemaakt.</al>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">60</nr>
+                <titel status="officieel">Onderhoud
+Maatwerkprogrammatuur</titel>
+              </kop>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>60.1.</li.nr>
+                  <al>Indien
+Opdrachtgever Maatwerkprogrammatuur zelf onderhoudt of door een derde
+laat onderhouden, ondersteunt Opdrachtnemer hem daarbij op verzoek
+tegen een marktconforme vergoeding. Opdrachtnemer verstrekt daartoe op
+verzoek de daarvoor benodigde (aanvullende) informatie aan
+Opdrachtgever of een door deze daarvoor ingeschakelde derde. Het
+vorenstaande is tevens van toepassing op beheeractiviteiten ten aanzien
+van Maatwerkprogrammatuur die Opdrachtgever zelf uitvoert dan wel door
+een derde laat uitvoeren.</al>
+                </li>
+                <li>
+                  <li.nr>60.2.</li.nr>
+                  <al>Indien
+Opdrachtgever met Opdrachtnemer tevens Onderhoud is overeengekomen,
+geldt hetgeen dienaangaande in die Overeenkomst is
+bepaald.</al>
+                </li>
+              </lijst>
+            </divisie>
+            <tussenkop kopopmaak="cur">
+              <nadruk type="vet">Detachering</nadruk>
+            </tussenkop>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">61</nr>
+                <titel status="officieel">Toepasselijkheid</titel>
+              </kop>
+              <al>Van
+Detachering en derhalve toepasselijkheid van artikel 61 tot en met
+artikel 67 is alleen sprake indien de betreffende Overeenkomst door
+partijen nadrukkelijk als Overeenkomst van Detachering is
+benoemd.</al>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">62</nr>
+                <titel status="officieel">Garanties</titel>
+              </kop>
+              <al>In
+aanvulling op het bepaalde in artikel 12.1 garandeert Opdrachtnemer dat
+hij steeds over voldoende Personeel ten behoeve van Opdrachtgever kan
+beschikken om de Overeenkomst naar behoren uit te
+voeren.</al>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">63</nr>
+                <titel status="officieel">Werkdagen
+en
+-tijden</titel>
+              </kop>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>63.1.</li.nr>
+                  <al>Werkdagen
+en -tijden van door Opdrachtnemer ter beschikking gesteld Personeel
+zijn gelijk aan die van het Personeel van Opdrachtgever op de
+betreffende locatie.</al>
+                </li>
+                <li>
+                  <li.nr>63.2.</li.nr>
+                  <al>Van overwerk
+is alleen sprake indien op verzoek van Opdrachtgever werkzaamheden
+worden verricht buiten de werkdagen en -tijden als bedoeld in artikel
+63.1. Werkzaamheden aansluitend op de in dat artikel bedoelde
+werktijden van ten hoogste een half uur, worden niet als overwerk
+aangemerkt.</al>
+                </li>
+              </lijst>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">64</nr>
+                <titel status="officieel">Uitlening
+en tewerkstelling buiten
+Nederland</titel>
+              </kop>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>64.1.</li.nr>
+                  <al>Opdrachtgever
+leent bij hem gedetacheerd Personeel niet zonder toestemming van
+Opdrachtnemer uit aan
+derden.</al>
+                </li>
+                <li>
+                  <li.nr>64.2.</li.nr>
+                  <al>Opdrachtgever stelt bij
+hem gedetacheerd Personeel niet zonder toestemming van Opdrachtnemer te
+werk buiten
+Nederland.</al>
+                </li>
+              </lijst>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">65</nr>
+                <titel status="officieel">Verlof-
+en
+cursusdagen</titel>
+              </kop>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>65.1.</li.nr>
+                  <al>Personeel
+van Opdrachtnemer neemt in overleg met Opdrachtgever en rekening
+houdend met de normale voortgang van de werkzaamheden verlof
+op.</al>
+                </li>
+                <li>
+                  <li.nr>65.2.</li.nr>
+                  <al>Verlof dat door Personeel van
+Opdrachtnemer wordt opgenomen, is voor rekening van
+Opdrachtnemer.</al>
+                </li>
+                <li>
+                  <li.nr>65.3.</li.nr>
+                  <al>Kosten van
+cursussen die op verzoek van Opdrachtgever worden gevolgd alsmede de
+daarmee gemoeide tijd, komen voor rekening van
+Opdrachtgever.</al>
+                </li>
+                <li>
+                  <li.nr>65.4.</li.nr>
+                  <al>Opdrachtgever kan
+jaarlijks een aantal dagen aanwijzen waarop zijn kantoor om nader aan
+te geven redenen is gesloten. In dat geval worden ook door Personeel
+van Opdrachtnemer geen werkzaamheden verricht op die
+locatie.</al>
+                </li>
+              </lijst>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">66</nr>
+                <titel status="officieel">Vrijwaring</titel>
+              </kop>
+              <al>Opdrachtnemer
+vrijwaart Opdrachtgever tegen aanspraken van het Personeel van
+Opdrachtnemer gebaseerd op het beweerdelijk bestaan van een
+arbeidsovereenkomst met
+Opdrachtgever.</al>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">
+67</nr>
+                <titel status="officieel">Inlenersaansprakelijkheid</titel>
+              </kop>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>67.1.</li.nr>
+                  <al>Opdrachtnemer
+vrijwaart Opdrachtgever tegen inlenersaansprakelijkheid voor de
+loonheffingen en omzetbelasting die Opdrachtnemer of door deze
+ingeschakelde derden in verband met het uitvoeren van de Overeenkomst
+verschuldigd zijn of
+worden.</al>
+                </li>
+                <li>
+                  <li.nr>67.2.</li.nr>
+                  <al>Opdrachtgever mag de
+loonheffingen en omzetbelasting die Opdrachtnemer in verband met de
+uitvoering van de Overeenkomst moet
+afdragen:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>rechtstreeks
+storten bij de Belastingdienst,
+of;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>betalen op een zogenoemde
+g-rekening van Opdrachtnemer. Indien Opdrachtnemer niet over een
+g-rekening beschikt opent hij zo mogelijk op eerste verzoek van
+Opdrachtgever een g-rekening en doet hij al hetgeen nodig is voor het
+gebruik
+daarvan.</al>
+                    </li>
+                  </lijst>
+                </li>
+              </lijst>
+            </divisie>
+          </divisie>
+        </divisie>
+      </divisie>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">Algemene
+Rijksvoorwaarden bij IT-overeenkomsten
+(ARBIT)</titel>
+        </kop>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Bijzondere
+bepalingen onderhoud</titel>
+          </kop>
+          <al>De bepalingen van dit bijzondere
+deel zijn steeds samen met de Algemene bepalingen van de ARBIT van
+toepassing indien Opdrachtgever met Opdrachtnemer Onderhoud
+overeenkomt.</al>
+          <divisie opmaak="default">
+            <kop>
+              <titel status="officieel">Onderhoud
+algemeen</titel>
+            </kop>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">68</nr>
+                <titel status="officieel">
+aanvullende begripsbepalingen</titel>
+              </kop>
+              <al>In dit bijzondere deel
+van de ARBIT wordt, in aanvulling op artikel 1 onder de navolgende
+begrippen, indien met een beginhoofdletter gebruikt,
+verstaan:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>68.1.</li.nr>
+                  <al>Correctief
+Onderhoud: het opsporen en herstellen door Opdrachtnemer van Storingen,
+die Opdrachtgever hem heeft gemeld of die Opdrachtnemer anderszins
+bekend zijn
+geworden.</al>
+                </li>
+                <li>
+                  <li.nr>68.2.</li.nr>
+                  <al>Functiehersteltijd: de
+periode, uitgedrukt in Service-uren, gelegen tussen het moment waarop
+een Storing bij Opdrachtnemer wordt gemeld en het moment waarop die is
+verholpen.</al>
+                </li>
+                <li>
+                  <li.nr>68.3.</li.nr>
+                  <al>Innovatief Onderhoud:
+het beschikbaar stellen door Opdrachtnemer aan Opdrachtgever van Nieuwe
+versies c.q. nieuw ontwikkelde onderdelen van Producten en/of nieuwe
+Documentatie.</al>
+                </li>
+                <li>
+                  <li.nr>68.4.</li.nr>
+                  <al>Preventief
+Onderhoud: het treffen van maatregelen door Opdrachtnemer ter
+voorkoming van Storingen en andere daarmee verband houdende vormen van
+dienstverlening.</al>
+                </li>
+                <li>
+                  <li.nr>68.5.</li.nr>
+                  <al>Reactietijd: de
+tijd waarbinnen (Personeel van) Opdrachtnemer op een melding door
+Opdrachtgever van een Storing en andere verzoeken van Opdrachtgever om
+dienstverlening, adequaat moet
+reageren.</al>
+                </li>
+                <li>
+                  <li.nr>68.6.</li.nr>
+                  <al>Service levels: ten
+aanzien van Onderhoud en andere overeengekomen vormen van
+dienstverlening in de Overeenkomst opgenomen eisen zoals Reactie- en
+Functiehersteltijden.</al>
+                </li>
+                <li>
+                  <li.nr>68.7.</li.nr>
+                  <al>Service-uren:
+uren die vallen binnen de overeengekomen
+service-periode.</al>
+                </li>
+                <li>
+                  <li.nr>68.8.</li.nr>
+                  <al>Storing: een
+technisch probleem dat zich voordoet bij het gebruik maken van de
+Prestatie.</al>
+                </li>
+              </lijst>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">69</nr>
+                <titel status="officieel">Onderhoud
+op reeds eerder verrichte Prestaties</titel>
+              </kop>
+              <al>Ook indien
+Opdrachtgever met Opdrachtnemer later alsnog Onderhoud overeenkomt ten
+aanzien van een eerder door laatstgenoemde voor Opdrachtgever verrichte
+Prestatie, zijn deze Bijzondere bepalingen daarop van
+toepassing.</al>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">70</nr>
+                <titel status="officieel">Ingangstijdstip
+Onderhoud</titel>
+              </kop>
+              <al>Opdrachtnemer verstrekt Onderhoud vanaf het
+in de Overeenkomst bepaalde
+tijdstip.</al>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">71</nr>
+                <titel status="officieel">Plaats
+en tijden uitvoering
+Onderhoud</titel>
+              </kop>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>71.1.</li.nr>
+                  <al>Opdrachtnemer
+voert Onderhoud uit op of vanaf zijn locatie. Alleen indien
+redelijkerwijs noodzakelijk voert Opdrachtnemer Onderhoud uit op
+locatie van
+Opdrachtgever.</al>
+                </li>
+                <li>
+                  <li.nr>71.2.</li.nr>
+                  <al>Onderhoud dat kan
+leiden tot verstoring van het arbeidsproces bij Opdrachtgever, wordt in
+beginsel buiten de bij Opdrachtgever gebruikelijke werkuren
+uitgevoerd.</al>
+                </li>
+                <li>
+                  <li.nr>71.3.</li.nr>
+                  <al>Indien verstoring van
+het arbeidsproces als bedoeld in artikel 71.2, gelet op het belang van
+onmiddellijk herstel van de Storing, onvermijdelijk is, stelt
+Opdrachtnemer Opdrachtgever daarvan tijdig op de hoogte voordat hij met
+het Onderhoud
+aanvangt.</al>
+                </li>
+              </lijst>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">72</nr>
+                <titel status="officieel">Voortgangsrapportage
+en
+werkoverleg</titel>
+              </kop>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>72.1.</li.nr>
+                  <al>Opdrachtnemer
+rapporteert aan Opdrachtgever over het verloop van zijn werkzaamheden
+op de in de Overeenkomst bepaalde wijze. Hij geeft daarbij inzicht in
+het verloop en de stand van zijn werkzaamheden, het bestede aantal uren
+en andere voor de uitvoering daarvan relevante
+aspecten.</al>
+                </li>
+                <li>
+                  <li.nr>72.2.</li.nr>
+                  <al>Partijen overleggen zo
+vaak als een van hen dat nodig oordeelt over de voortgang van de
+werkzaamheden.</al>
+                </li>
+                <li>
+                  <li.nr>72.3.</li.nr>
+                  <al>Opdrachtnemer zorgt
+voor een adequate vastlegging en archivering van de oorzaken van
+Storingen en de resultaten van Onderhoud alsmede indien nodig voor
+aanpassing van
+Documentatie.</al>
+                </li>
+              </lijst>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">73</nr>
+                <titel status="officieel">Correctief
+Onderhoud en tijdelijke
+oplossingen</titel>
+              </kop>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>73.1.</li.nr>
+                  <al>Onderhoud
+omvat tenminste Correctief
+Onderhoud.</al>
+                </li>
+                <li>
+                  <li.nr>73.2.</li.nr>
+                  <al>De garantie van artikel
+12.7 dat Opdrachtnemer de Prestatie gedurende tenminste 3 jaar na
+Acceptatie overeenkomstig deze bepalingen kan onderhouden, geldt voor
+Correctief Onderhoud onverkort ook als Opdrachtgever niet wenst over te
+gaan tot het afnemen van Nieuwe versies of laatste modellen van een
+Product.</al>
+                </li>
+                <li>
+                  <li.nr>73.3.</li.nr>
+                  <al>Opdrachtnemer brengt een
+tijdelijke oplossing alleen aan met toestemming van Opdrachtgever.
+Tenzij partijen daarover in een concreet geval een andere afspraak
+maken, vervangt Opdrachtnemer een tijdelijke oplossing zo snel mogelijk
+door een definitieve
+oplossing.</al>
+                </li>
+              </lijst>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">74</nr>
+                <titel status="officieel">Preventief
+Onderhoud</titel>
+              </kop>
+              <al>Als onderdeel van Preventief Onderhoud
+onderzoekt Opdrachtnemer de Prestatie regelmatig en tenminste 1 keer
+per jaar op haar goede
+werking.</al>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">75</nr>
+                <titel status="officieel">Aan-,
+afmelding en prioritering van
+Storingen</titel>
+              </kop>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>75.1.</li.nr>
+                  <al>Opdrachtgever
+meldt Storingen aan en af op de in de Overeenkomst voorgeschreven
+wijze.</al>
+                </li>
+                <li>
+                  <li.nr>75.2.</li.nr>
+                  <al>Opdrachtgever stelt bij het
+melden van een Storing, overeenkomstig het bepaalde in de Overeenkomst
+tot Onderhoud, het daaraan toe te kennen prioriteitsniveau
+vast.</al>
+                </li>
+                <li>
+                  <li.nr>75.3.</li.nr>
+                  <al>De reactie van Opdrachtnemer
+op een melding als bedoeld in artikel 75.1, is steeds gericht op het zo
+spoedig mogelijk verhelpen van de Storing al dan niet door het tot
+stand brengen van een tijdelijke oplossing. Het bepaalde in artikel
+73.3 is daarbij van
+toepassing.</al>
+                </li>
+              </lijst>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">76</nr>
+                <titel status="officieel">Nakoming
+Service
+levels</titel>
+              </kop>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>76.1.</li.nr>
+                  <al>Opdrachtnemer
+spant zich tot het uiterste in om Service levels te realiseren. De
+gevolgen van het niet halen daarvan worden in de Overeenkomst geregeld.
+Het bepaalde in artikel 14.3 is hierbij van toepassing. Ontbinding van
+de Overeenkomst is in ieder geval mogelijk bij herhaalde overschrijding
+van Service levels.</al>
+                </li>
+                <li>
+                  <li.nr>76.2.</li.nr>
+                  <al>In afwijking
+van het bepaalde in artikel 76.1 gelden Functiehersteltermijnen en
+Reactietijden als Fatale
+termijnen.</al>
+                </li>
+                <li>
+                  <li.nr>76.3.</li.nr>
+                  <al>Service levels doen
+geen afbreuk aan hetgeen overigens in de Overeenkomst is
+bepaald.</al>
+                </li>
+              </lijst>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">77</nr>
+                <titel status="officieel">Onderhoud
+door anderen dan Opdrachtnemer</titel>
+              </kop>
+              <al>Opdrachtgever kan
+Onderhoud dat hij met Opdrachtnemer is overeengekomen gedurende de
+looptijd van de betreffende Overeenkomst alleen met behoud van rechten
+door een derde laten uitvoeren indien Opdrachtnemer in de nakoming van
+zijn verplichtingen uit die Overeenkomst in gebreke is of indien hij
+daarvoor van Opdrachtnemer toestemming
+krijgt.</al>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">78</nr>
+                <titel status="officieel">Testen
+resultaat Onderhoud</titel>
+              </kop>
+              <al>Opdrachtgever mag (laten) testen
+of een Storing daadwerkelijk is verholpen. Opdrachtnemer is verplicht
+daaraan zijn medewerking te verlenen. Indien uit de test blijkt dat een
+Storing niet naar behoren is verholpen kan Opdrachtgever de kosten van
+het testen op Opdrachtnemer
+verhalen.</al>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">79</nr>
+                <titel status="officieel">Beroepsaansprakelijkheidsverzekering</titel>
+              </kop>
+              <al>Onverkort
+het bepaalde in artikel 29 heeft Opdrachtnemer zich op een naar
+verkeersnormen passende en, rekening houdend met de aard en omvang van
+het Onderhoud, gebruikelijk wijze verzekerd en houdt hij zich zodanig
+verzekerd tegen
+beroepsaansprakelijkheid.</al>
+            </divisie>
+          </divisie>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">Specifiek
+onderhoud</titel>
+          </kop>
+          <tussenkop kopopmaak="cur">
+            <nadruk type="vet">Producten</nadruk>
+          </tussenkop>
+          <divisie opmaak="default">
+            <kop>
+              <label>Artikel</label>
+              <nr status="officieel">80</nr>
+              <titel status="officieel">Modificaties
+Producten</titel>
+            </kop>
+            <al>Opdrachtnemer voert modificaties van
+Producten die niet door de fabrikant of Leverancier zijn
+voorgeschreven, uit in overleg met en niet dan na instemming van
+Opdrachtgever met de daarbij behorende
+prijsopgave.</al>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">81</nr>
+                <titel status="officieel">Vervanging
+onderdelen</titel>
+              </kop>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>81.1.</li.nr>
+                  <al>Indien
+de vervanging van onderdelen door Opdrachtnemer leidt of kan leiden tot
+wijzigingen in het functioneren van het Product, vindt die vervanging
+alleen plaats met instemming van
+Opdrachtgever.</al>
+                </li>
+                <li>
+                  <li.nr>81.2.</li.nr>
+                  <al>Onderdelen worden
+alleen vervangen door nieuwe, functioneel en technisch tenminste
+gelijkwaardige
+onderdelen.</al>
+                </li>
+              </lijst>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">82</nr>
+                <titel status="officieel">Omvang
+Onderhoud</titel>
+              </kop>
+              <al>In aanvulling op het bepaalde in artikel
+73.1 bestaat Onderhoud van Programmatuur behalve uit Correctief tevens
+uit Preventief Onderhoud en ondersteuning. Indien Opdrachtgever dat
+wenst omvat Onderhoud van Programmatuur ook Innovatief
+Onderhoud.</al>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">83</nr>
+                <titel status="officieel">Ondersteuning</titel>
+              </kop>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>83.1.</li.nr>
+                  <al>In
+aanvulling op het bepaalde in artikel 13 verstrekt Opdrachtnemer aan
+Opdrachtgever op diens verzoek ondersteuning in de vorm van advies over
+het gebruik en functioneren van
+Programmatuur.</al>
+                </li>
+                <li>
+                  <li.nr>83.2.</li.nr>
+                  <al>Opdrachtgever kan
+Opdrachtnemer om ondersteuning vragen op de in de Overeenkomst tot
+Onderhoud vermelde tijden.</al>
+                </li>
+                <li>
+                  <li.nr>83.3.</li.nr>
+                  <al>Indien
+Opdrachtgever om ondersteuning als bedoeld in artikel 83.2 vraagt,
+brengt Opdrachtnemer zo spoedig mogelijk en, indien van toepassing,
+binnen de Reactietijd contact tot stand tussen een programma-specialist
+en
+Opdrachtgever.</al>
+                </li>
+              </lijst>
+            </divisie>
+            <divisie opmaak="default">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">84</nr>
+                <titel status="officieel">Verbeterde
+en Nieuwe
+versies</titel>
+              </kop>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>84.1.</li.nr>
+                  <al>Opdrachtnemer
+zorgt voor een consistent versiebeleid. Daarbij geldt als uitgangspunt
+dat Verbeterde en Nieuwe versies tijdig beschikbaar komen.
+Opdrachtnemer onderzoekt met het oog daarop regelmatig de noodzaak om
+dergelijke versies uit te brengen en informeert Opdrachtgever zo snel
+mogelijk over de uitkomsten van zijn
+onderzoek.</al>
+                </li>
+                <li>
+                  <li.nr>84.2.</li.nr>
+                  <al>Tussentijdse
+wijzigingen in Programmatuur als gevolg van Correctief Onderhoud, maken
+zoveel mogelijk onderdeel uit van Verbeterde en Nieuwe
+versies.</al>
+                </li>
+                <li>
+                  <li.nr>84.3.</li.nr>
+                  <al>Opdrachtnemer stelt
+Opdrachtgever op verzoek kosteloos een exemplaar van een Nieuwe versie
+ter beschikking voor test- en evaluatiedoeleinden. Opdrachtgever is
+niet verplicht tot ingebruikname van Nieuwe
+versies.</al>
+                </li>
+                <li>
+                  <li.nr>84.4.</li.nr>
+                  <al>Indien is overeengekomen
+dat Opdrachtnemer de Programmatuur installeert, geldt deze verplichting
+tevens voor Nieuwe versies die Opdrachtgever in gebruik wil
+nemen.</al>
+                </li>
+                <li>
+                  <li.nr>84.5.</li.nr>
+                  <al>Indien Opdrachtnemer er
+voor kiest om in plaats van een Nieuwe versie andere Programmatuur uit
+te brengen en te stoppen met Innovatief Onderhoud op de bij
+Opdrachtgever in gebruik zijnde Programmatuur, kan Opdrachtgever
+aanspraak maken op hetzij onverkorte nakoming van de Overeenkomst van
+Onderhoud hetzij op een Gebruiksrecht op die nieuwe Programmatuur tegen
+de in de Overeenkomst vastgelegde voorwaarden voor een Nieuwe
+versie.</al>
+                </li>
+              </lijst>
+            </divisie>
+          </divisie>
+        </divisie>
+      </divisie>
+    </bijlage>
+  </regeling>
+</wetgeving>
+  	

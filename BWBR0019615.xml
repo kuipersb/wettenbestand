@@ -1,0 +1,544 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0019615" dtdversie="2.0" id="344399" soort="ministeriele-regeling">
+  
+  <intitule>Regeling Inspectie van het onderwijs 2006</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Minister van Onderwijs, Cultuur en Wetenschap,</wie>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Algemene bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Begripsbepalingen</titel>
+          </kop>
+          <al>In deze regeling wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>minister: de Minister van Onderwijs, Cultuur en Wetenschap,</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>secretaris-generaal: de secretaris-generaal van het Ministerie van Onderwijs, Cultuur en Wetenschap,</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>inspecteur-generaal: de inspecteur-generaal van het onderwijs,</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>inspectie: de Inspectie van het onderwijs, bedoeld in <extref status="actief" doc="1.0:v:BWBR0013800&amp;artikel=2" compleet="nee">artikel 2 van de Wet op het onderwijstoezicht</extref>,</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>ministerie: het Ministerie van Onderwijs, Cultuur en Wetenschap,</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>instelling:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>school als bedoeld in <extref status="actief" doc="1.0:v:BWBR0002628&amp;artikel=1" compleet="nee">artikel 1 van de Leerplichtwet 1969</extref>, <extref status="actief" doc="1.0:v:BWBR0003420&amp;artikel=1" compleet="nee">artikel 1 van de Wet op het primair onderwijs</extref>, <extref status="actief" doc="1.0:v:BWBR0003549&amp;artikel=1" compleet="nee">artikel 1 van de Wet op de expertisecentra</extref> en <extref status="actief" doc="1.0:v:BWBR0002399&amp;artikel=1" compleet="nee">artikel 1 van de Wet op het voortgezet onderwijs</extref>,</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>exameninstelling als bedoeld in <extref status="actief" doc="1.0:v:BWBR0007625&amp;artikel=1.1.1" compleet="nee">artikel 1.1.1 van de Wet educatie en beroepsonderwijs</extref>,</al>
+                </li>
+                
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>kwaliteitscentrum examinering beroepsopleidingen, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0007625&amp;artikel=1.1.1" compleet="nee">artikel 1.1.1 van de Wet educatie en beroepsonderwijs</extref>, en</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>instelling als bedoeld in <extref status="actief" doc="1.0:v:BWBR0007625&amp;artikel=1.1.1" compleet="nee">artikel 1.1.1 van de Wet educatie en beroepsonderwijs</extref> en <extref status="actief" doc="1.0:v:BWBR0005682&amp;artikel=1.1" compleet="nee">artikel 1.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek</extref>,</al>
+                </li>
+              </lijst>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>inspectieproduct: onderwijsverslag als bedoeld in <extref status="actief" doc="1.0:v:BWBR0001840&amp;artikel=23" compleet="nee">artikel 23, achtste lid, van de Grondwet</extref>, of inspectierapport als bedoeld in de <extref status="actief" doc="1.0:v:BWBR0013800&amp;artikel=8" compleet="nee">artikelen 8</extref>, <extref status="actief" doc="1.0:v:BWBR0013800&amp;artikel=15" compleet="nee">15</extref>, <extref status="actief" doc="1.0:v:BWBR0013800&amp;artikel=19" compleet="nee">19</extref> en <extref status="actief" doc="1.0:v:BWBR0013800&amp;artikel=20" compleet="nee">20 van de Wet op het onderwijstoezicht</extref>,</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>bedrijfsvoering: geheel van activiteiten dat noodzakelijk is voor en samenhangt met:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>de personeelsvoorziening en het personeelsbeleid, daaronder begrepen de toepassing van rechtspositionele regelingen,</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>de huisvesting,</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>de dagelijkse huishoudelijke gang van zaken,</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>het inrichten en functioneren van de organisatie,</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>de informatievoorziening, daaronder begrepen automatisering, en</al>
+                </li>
+                <li>
+                  <li.nr>&#x2013;</li.nr>
+                  <al>het beheer van de voor deze activiteiten beschikbaar gestelde middelen.</al>
+                </li>
+              </lijst>
+            </li>
+          </lijst>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Taakuitoefening</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Jaarwerkplan</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De inspectie richt haar werkzaamheden in op basis van een jaarwerkplan als bedoeld in <extref status="actief" doc="1.0:v:BWBR0013800&amp;artikel=7" compleet="nee">artikel 7 van de Wet op het onderwijstoezicht</extref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In het jaarwerkplan wordt in ieder geval een relatie gelegd met de onderscheiden beleidsgebieden waaraan de inspectie in het onderwijsverslag van het betreffende kalenderjaar specifieke aandacht zal besteden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Over de inhoud van het jaarwerkplan pleegt de inspectie overleg met de minister. Ten behoeve van dit overleg legt de inspectie de minister jaarlijks voor 1 juli een concept-jaarwerkplan voor.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De inspectie stelt jaarlijks voor 1&#xA0;oktober het jaarwerkplan vast. Het jaarwerkplan behoeft de goedkeuring van de minister en, voor zover het betreft het onderwijs op het gebied van landbouw en natuurlijk omgeving, de Minister van Landbouw, Natuur en Voedselkwaliteit.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De minister kan de inspectie opdragen aanvullende werkzaamheden te verrichten. In overleg met de inspectie wordt zo nodig bezien wat de gevolgen daarvan zijn voor de uitvoering van het jaarwerkplan.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>De minister zendt het jaarwerkplan van de inspectie en wijzigingen van het jaarwerkplan aan de Staten-Generaal.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">Onderwijsverslag</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De inspectie stelt jaarlijks met in achtneming van <extref status="actief" doc="1.0:v:BWBR0013800&amp;artikel=8" compleet="nee">artikel 8, tweede lid, van de Wet op het onderwijstoezicht</extref> het verslag over de staat van het onderwijs vast. In dit onderwijsverslag wordt in ieder geval aandacht besteed aan de beleidsgebieden die in het betreffende jaarwerkplan waren opgenomen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het onderwijsverslag bevat in ieder geval:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>een nauwkeurige omschrijving van de mate waarin de wettelijke voorschriften door de instellingen wordt nageleefd,</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de belangrijkste kwalitatieve ontwikkelingen van het Nederlandse onderwijs, en</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>een beoordeling van de onder b bedoelde ontwikkelingen, voorzover mogelijk in relatie tot relevante ontwikkelingen in de ons omringende landen.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De ontwikkeling van het onderwijs, in het bijzonder de kwaliteit ervan, wordt in het onderwijsverslag zoveel mogelijk vastgelegd over meerjarige perioden opdat trends zichtbaar worden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De inspectie kan voor de opstelling van het onderwijsverslag organisatieonderdelen van het ministerie raadplegen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De inspectie stelt conceptteksten van het onderwijsverslag dusdanig tijdig aan het ministerie ter beschikking dat op ambtelijk niveau al het nodige kan worden gedaan om een volledige en adequate beleidsreactie van de minister voor te bereiden. Voor 15 februari legt de inspectie het concept-onderwijsverslag aan de minister voor. In het regulier overleg, bedoeld in <intref status="actief" doc="1.0:v:BWBR0019615&amp;artikel=16">artikel 16</intref>, worden afspraken gemaakt over de beleidsreactie van de minister en de presentatie van het onderwijsverslag. Voor 1 april legt de inspectie het definitieve onderwijsverslag aan de minister voor.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+            <titel status="officieel">Openbaarmaking en voorlichting</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De inspectie maakt inspectieproducten openbaar met inachtneming van <extref status="actief" doc="1.0:v:BWBR0013800&amp;artikel=21" compleet="nee">artikel 21 van de Wet op het onderwijstoezicht</extref>, de <extref status="actief" doc="1.0:v:BWBR0005252" compleet="nee">Wet openbaarheid van bestuur</extref> (Wob) en de volgende artikelleden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Inspectieproducten als bedoeld in <extref status="actief" doc="1.0:v:BWBR0013800&amp;artikel=20" compleet="nee">artikel 20 van de WOT</extref> (instellingsrapporten in het kader van het reguliere toezicht op de instellingen) worden door de inspectie openbaar gemaakt. Indien het in de rede ligt dat een inspectieproduct als hier bedoeld leidt tot publiciteit, stelt de inspecteur-generaal de secretaris-generaal daar ten minste 10 werkdagen voor de voorgenomen openbaarmaking van in kennis.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Ten aanzien van niet in opdracht van de minister opgestelde inspectieproducten als bedoeld in <extref status="actief" doc="1.0:v:BWBR0013800&amp;artikel=8" compleet="nee">artikel 8 van de WOT</extref> (waartoe in elk geval de inspectieproducten behoren die voortvloeien uit het Jaarwerkplan van de inspectie) bepaalt de inspectie in welke vorm openbaarmaking en publiciteit plaatsvindt. Met het ministerie vindt tijdig afstemming plaats over verzending, al dan niet met een reactie van de minister, aan de Tweede Kamer, en wordt overleg gepleegd over de wijze waarop openbaarmaking en publiciteit plaatsvindt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Ten aanzien van inspectieproducten als bedoeld in <extref status="actief" doc="1.0:v:BWBR0013800&amp;artikel=8" compleet="nee">artikel 8 van de WOT</extref> die in opdracht van de minister zijn opgesteld, bepaalt de minister in welke vorm openbaarmaking en publiciteit plaatsvindt. De inspectie reikt de minister een voorstel aan omtrent openbaarmaking en publiciteit. Met de inspectie wordt overleg gepleegd over de wijze waarop openbaarmaking en publiciteit plaatsvindt. Indien een inspectieproduct als in dit artikellid bedoeld niet binnen een maand nadat dit door de inspectie voor openbaarmaking en publiciteit aan de minister beschikbaar is gesteld, is openbaar gemaakt, kan de inspectie na overleg met de secretaris-generaal zelf zorgdragen voor openbaarmaking en publiciteit.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Aanbieding van inspectieproducten door de inspectie rechtstreeks aan de Tweede Kamer vindt enkel plaats, indien het inspectieproducten betreft waarbij geen reactie van de minister wordt gevoegd, en is enkel mogelijk met instemming van de minister.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>In situaties waarin deze regeling niet voorziet, vindt overleg plaats tussen de secretaris-generaal en de inspecteur-generaal.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+            <titel status="officieel">Ernstig of langdurig tekortschieten van kwaliteit</titel>
+          </kop>
+          <al>Indien de inspectie ernstig of langdurig tekortschieten van de kwaliteit van het onderwijs, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0013800&amp;artikel=14" compleet="nee">artikel 14 van de Wet op het onderwijstoezicht</extref> signaleert, treedt de inspectie in overleg met de minister.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+            <titel status="officieel">Uitvoeringstoets</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De inspectie verricht een uitvoeringstoets bij beleidsvoorstellen die gevolgen hebben voor de uitoefening van het toezicht, daaronder begrepen gevolgen voor de capaciteitsinzet van de inspectie. De inspectie kan voorstellen doen voor een effectieve en doelmatige uitvoering van het beleidsvoorstel.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De uitvoeringstoets wordt verricht overeenkomstig de daarvoor door de secretaris-generaal vastgestelde procedure.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Bedrijfsvoering</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+            <titel status="officieel">Mandaat</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De inspecteur-generaal draagt zorg voor de bedrijfsvoering.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De inspecteur-generaal heeft mandaat om besluiten te nemen en stukken af te doen en te ondertekenen die ten aanzien van de bedrijfsvoering of anderszins voortvloeiend uit diens functie noodzakelijk zijn, onverminderd de Organisatie- en mandaatregeling OCW met dien verstande dat, waar in die regeling bevoegdheden betreffende functies tot en met schaal 12 onderscheidenlijk 13, worden toegekend, voor de inspecteur-generaal die bevoegdheden gelden tot en met schaal 14.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De inspectie maakt met de secretaris-generaal nadere afspraken over de activiteiten die noodzakelijk zijn voor en samenhangen met de personeelsvoorziening en het personeelsbeleid, daaronder begrepen de toepassing van rechtspositionele regelingen. Deze afspraken worden vastgelegd in de managementafspraak.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+            <titel status="officieel">Voorbereiden beslissingen bedrijfsvoering die zijn voorbehouden aan anderen</titel>
+          </kop>
+          <al>Met betrekking tot beslissingen over zaken betreffende de bedrijfsvoering van de inspectie die ingevolge een wettelijk voorschrift zijn voorbehouden aan de Kroon, de minister of de secretaris-generaal, bereidt de inspectie de beslissingen voor en doet voorstellen ter zake.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+            <titel status="officieel">Voorbehouden met betrekking tot toepassing rechtspositionele regelingen</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De toepassing van rechtspositionele regelingen jegens de inspecteur-generaal is voorbehouden aan de minister onderscheidenlijk de Minister van Binnenlandse Zaken en Koninkrijksrelaties.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het voeren van overleg met vertegenwoordigers van de Minister van Binnenlandse Zaken en Koninkrijksrelaties over het personeels- en arbeidsvoorwaardenbeleid, daaronder begrepen de financi&#xEB;le gevolgen van dit beleid, alsmede het voeren van overleg hierover met het decentraal georganiseerd overleg of de Departementale ondernemingsraad, is voorbehouden aan de secretaris-generaal.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Voorzover het personeels- en arbeidsvoorwaardenbeleid waarover overleg wordt gevoerd, gevolgen heeft voor de inspectie, doet de secretaris-generaal voorstellen daartoe na overleg met de inspectie.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+            <titel status="officieel">Overleg medezeggenschapsorganen</titel>
+          </kop>
+          <al>De inspecteur-generaal is bestuurder in de zin van de <extref status="actief" doc="1.0:v:BWBR0002747" compleet="nee">Wet op de ondernemingsraden</extref> en voert het overleg met het betreffende medezeggenschapsorgaan.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+            <titel status="officieel">Kwaliteitssysteem uitoefening toezicht</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De inspectie organiseert het toezicht op het onderwijs op zodanige wijze, dat dit leidt tot verantwoorde uitoefening van het toezicht.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het uitvoeren van het eerste lid omvat mede de systematische bewaking, beheersing en zonodig verbetering van de kwaliteit van het toezicht.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Ter uitvoering van het eerste lid draagt de inspectie zorg voor:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>het op systematische wijze verzamelen en registreren van gegevens betreffende de kwaliteit van het toezicht, waaronder opvattingen van betrokkenen bij het onderwijs over de toezichtuitoefening door de inspectie,</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het aan de hand van de gegevens, bedoeld onder a, op systematische wijze toetsen in hoeverre de wijze van de uitvoering van het eerste lid leidt tot verantwoorde toezichtuitoefening, en</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>het op basis van de uitkomst van de toetsing, bedoeld onder b, voorzover er geen sprake is van verantwoorde toezichtuitoefening, veranderen van de wijze waarop het toezicht is georganiseerd.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De toetsing, bedoeld in het derde lid, onder b, geschiedt mede door onafhankelijke deskundigen.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">12</nr>
+            <titel status="officieel">Managementafspraak</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De secretaris-generaal en de inspecteur-generaal van het onderwijs maken jaarlijks voor 1 november een managementafspraak.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In de managementafspraak wordt in ieder geval aandacht besteed aan:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de bedrijfsvoering in relatie tot de taakuitoefening door de inspectie;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de hoofdlijnen van de uitoefening van het toezicht door de inspectie;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de toekenning van het budget aan en de besteding van middelen door de inspectie, aansluitend bij de werkzaamheden uit het jaarwerkplan;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de risico&#x2019;s die door de inspectie gelopen worden en de wijze waarop de inspectie deze risico&#x2019;s afdekt;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>de managementrapportages;</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>het jaarverslag en de jaarrekening.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De verhouding tussen de managementafspraak en het jaarwerkplan als bedoeld in <intref status="actief" doc="1.0:v:BWBR0019615&amp;artikel=2">artikel 2</intref> is zodanig dat inzicht bestaat in de relatie tussen de afzonderlijke inspectieproducten en de bedrijfsvoering.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De werkzaamheden uit het jaarwerkplan, inclusief aanvullende werkzaamheden op verzoek van de minister, dienen binnen de voor de inspectie opgenomen gelden in de rijksbegroting voor het ministerie te worden uitgevoerd, tenzij andere afspraken zijn gemaakt met de secretaris-generaal.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De inspectie besteedt de beschikbaar gestelde budgetten naar eigen inzicht, met inachtneming van de <extref status="actief" doc="1.0:v:BWBR0013891" compleet="nee">Comptabiliteitswet</extref>, de voor het ministerie geldende interne regelingen en, indien van toepassing, specifieke afspraken die daarover met de inspectie zijn gemaakt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>De managementafspraak en de managementrapportages vormen de basis voor het regulier overleg tussen de secretaris-generaal en de inspecteur-generaal als bedoeld in <intref status="actief" doc="1.0:v:BWBR0019615&amp;artikel=15">artikel 15, tweede lid</intref>.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">13</nr>
+            <titel status="officieel">Jaarverslag inclusief financieel jaarverslag</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De inspectie stelt jaarlijks voor 1&#xA0;april een jaarverslag vast. Een financieel jaarverslag maakt deel uit van het jaarverslag. Het jaarverslag bevat gegevens over de uitoefening van het toezicht door de inspectie, de bedrijfsvoering en de ontwikkelingen in de organisatie in het voorgaande kalenderjaar. De inspectie legt jaarlijks voor 1&#xA0;maart een concept-jaarverslag voor aan de secretaris-generaal.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>In het financieel jaarverslag legt de inspectie verantwoording af over het financi&#xEB;le beheer van de inspectie over het voorafgaande begrotingsjaar overeenkomstig de daarvoor door de minister vastgestelde specificaties.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>In het jaarverslag legt de inspectie verantwoording af over de kwaliteit van de toezichtuitoefening in dat jaar. In het verslag geeft de inspectie daartoe onder meer aan:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>op welke wijze zij de onderwijsinstellingen bij haar kwaliteitsbeleid heeft betrokken en het resultaat daarvan,</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de frequentie waarmee en de wijze waarop binnen de inspectie de toetsing van de kwaliteit plaatsvond en het resultaat daarvan,</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de aard en omvang van klachten over de kwaliteit van de toezichtuitoefening en welk gevolg zij heeft gegeven deze klachten, en</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de activiteiten ter verbetering van de kwaliteit van het toezicht.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De minister zendt het jaarverslag aan de Tweede Kamer van de Staten-Generaal.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Overleg en informatievoorziening</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">14</nr>
+            <titel status="officieel">Toezichtberichten</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De inspectie bericht de minister en de secretaris-generaal ten minste drie keer per jaar over haar waarnemingen in de vorm van een toezichtbericht.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De toezichtberichten vormen de basis voor het regulier overleg tussen de minister en de inspecteur-generaal als bedoeld in <intref status="actief" doc="1.0:v:BWBR0019615&amp;artikel=15">artikel 15, eerste lid</intref>.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">15</nr>
+            <titel status="officieel">Regulier overleg</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De minister en de secretaris-generaal voeren vier keer per jaar, dan wel vaker indien daartoe aanleiding bestaat, vertrouwelijk overleg met de inspecteur-generaal over de hoofdlijnen van de uitoefening van het toezicht door de inspectie. Voor zover onderwerpen zich daartoe lenen, neemt de Staatssecretaris van Onderwijs of de Staatssecretaris van Cultuur deel aan het overleg.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De secretaris-generaal en de inspecteur-generaal voeren ten minste drie keer per jaar overleg over de uitoefening van het toezicht door de inspectie, de uitvoering van het jaarwerkplan, de bedrijfsvoering en de naleving van deze regeling. De inspecteur-generaal legt daarbij verantwoording af over de besteding van de middelen in relatie tot de behaalde resultaten van de uitvoering van de taken en de bedrijfsvoering.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De secretaris-generaal en de directeuren-generaal die het aangaan voeren ten minste vier keer per jaar overleg over de waarnemingen van de inspectie.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">16</nr>
+            <titel status="officieel">Informatie aan Eerste en Tweede Kamer</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De inspecteur-generaal kan desgevraagd in de Tweede of Eerste Kamer der Staten-Generaal een feitelijke toelichting geven op het onderwijsverslag.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De minister kan in het kader van zijn jaarlijkse financi&#xEB;le verantwoording aan de Tweede Kamer der Staten-Generaal de medewerking van de inspectie inroepen om het onderwijsverslag van het betreffende jaar in te laten passen in de totale gegevensverstrekking aan de Tweede Kamer.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">17</nr>
+            <titel status="officieel">Intrekking Regeling Inspectie van het onderwijs</titel>
+          </kop>
+          <al>De <extref status="actief" doc="1.0:v:BWBR0014994" compleet="nee">Regeling Inspectie van het onderwijs</extref> wordt ingetrokken.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">18</nr>
+            <titel status="officieel">Bekendmaking</titel>
+          </kop>
+          <al>Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">19</nr>
+            <titel status="officieel">Inwerkingtreding</titel>
+          </kop>
+          <al>Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">20</nr>
+            <titel status="officieel">Citeertitel</titel>
+          </kop>
+          <al>Deze regeling wordt aangehaald als: Regeling Inspectie van het onderwijs 2006.</al>
+        </artikel>
+      </hoofdstuk>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <ondertekening>De <functie>Minister</functie> van <organisatie afkorting="OCW">Onderwijs, Cultuur en Wetenschap</organisatie>,
+        <naam>
+          <voornaam>M.J.A. van der</voornaam>
+          <achternaam>Hoeven</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

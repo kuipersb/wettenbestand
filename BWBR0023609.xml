@@ -1,0 +1,1255 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0023609" dtdversie="2.0" id="394569" soort="ministeriele-regeling">
+  
+  
+  <intitule>Regeling experiment parallel starten</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Minister van Verkeer en Waterstaat,</wie>
+      <considerans>
+        <considerans.al>Handelende in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;</considerans.al>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0005555&amp;artikel=8.23a" compleet="nee">artikel 8.23a, eerste lid, van de Wet luchtvaart</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Definities</titel>
+        </kop>
+        <al>In deze regeling wordt verstaan onder:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>a.</li.nr>
+            <al>LVB: het <extref status="actief" doc="1.0:v:BWBR0014330" compleet="nee">Luchthavenverkeerbesluit Schiphol</extref>;</al>
+          </li>
+          <li>
+            <li.nr>b.</li.nr>
+            <al>het experiment: parallel starten;</al>
+          </li>
+          <li>
+            <li.nr>c.</li.nr>
+            <al>gebruiksjaar 2008: de periode van 1&#xA0;november 2007 tot en met 31 oktober 2008;</al>
+          </li>
+          <li>
+            <li.nr>d.</li.nr>
+            <al>CROS: Commissie Regionaal Overleg luchthaven Schiphol, bedoeld in <extref status="actief" doc="1.0:v:BWBR0005555&amp;artikel=8.34" compleet="nee">artikel 8.34 van de Wet luchtvaart</extref>;</al>
+          </li>
+          <li>
+            <li.nr>e.</li.nr>
+            <al>KLM: Koninklijke Luchtvaart Maatschappij;</al>
+          </li>
+          <li>
+            <li.nr>f.</li.nr>
+            <al>LVNL: Luchtverkeersleiding Nederland;</al>
+          </li>
+          <li>
+            <li.nr>g.</li.nr>
+            <al>Schiphol: N.V. Luchthaven Schiphol;</al>
+          </li>
+          <li>
+            <li.nr>h.</li.nr>
+            <al>SID: Standard Instrument Departure, vertrekprocedure die de piloot middels een code in de boordcomputer invoert waardoor het vliegtuig die procedure volgt vanaf de startbaan, ook wel: uitvliegroute.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Doel</titel>
+        </kop>
+        <al>Het experiment beoogt gedurende het gebruiksjaar 2008, te onderzoeken of de nieuwe SID&#x2019;s vanaf de Zwanenburgbaan, zoals deze zijn opgenomen in het ontwerp-LVB, onder alle condities (baan- en weersonafhankelijk) veilig kunnen worden gevlogen teneinde gelijktijdig starten vanaf de Polderbaan en de Zwanenburgbaan op basis van SID&#x2019;s mogelijk te maken. Hiervan wordt een gunstig effect op de hinderbeleving verwacht.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Luchtverkeerwegen</titel>
+        </kop>
+        <al>Voor de duur van het experiment wordt vrijstelling verleend van de <extref status="actief" doc="1.0:v:BWBR0014330&amp;artikel=3.1.1" compleet="nee">artikelen 3.1.1, eerste lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0014330&amp;artikel=3.1.3" compleet="nee">3.1.3, eerste lid, van het LVB</extref>, met betrekking tot de luchtverkeerwegen die zijn aangewezen op <extref status="actief" doc="1.0:v:BWBR0014330&amp;bijlage=1" compleet="nee">kaart 1/21 van bijlage 1 van het LVB</extref>.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Grenswaarden</titel>
+        </kop>
+        <al>In plaats van de grenswaarden, genoemd in <extref status="actief" doc="1.0:v:BWBR0014330&amp;bijlage=2" compleet="nee">bijlage 2 van het LVB</extref> gelden tijdens dit experiment voor het gedeelte van het gebruiksjaar 2008 vanaf 13 maart 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:</al>
+        <table frame="topbot" tabstyle="stcrt2">
+          <title>Tabel Grenswaarden handhavingspunten etmaal ( L<inf>den</inf>) [dB(A)]</title>
+          <tgroup align="left" char="" charoff="50" cols="5" tgroupstyle="stcrt2">
+            <colspec colname="col1" colnum="1" colwidth="14*"/>
+            <colspec align="center" colname="col2" colnum="2" colwidth="19*"/>
+            <colspec align="center" colname="col3" colnum="3" colwidth="19*"/>
+            <colspec align="right" colname="col4" colnum="4" colwidth="19*"/>
+            <colspec align="right" colname="col5" colnum="5" colwidth="32*"/>
+            <thead valign="bottom">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al> Puntnummer </al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>X-co&#xF6;rdinaat</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al> Y-co&#xF6;rdinaat </al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al> Grenswaarde </al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al> Maximum grenswaarde in geval van buitengewone weersomstandigheden </al>
+                </entry>
+              </row>
+            </thead>
+            <tbody valign="top">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>97.325</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>470.400</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>55,99</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(56,99)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>100.475</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>472.525</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>57,69</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(58,69)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>3</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>104.150</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>474.925</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>58,87</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(59,87)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>4</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>106.325</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>477.125</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>58,31</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(59,31)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>5</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>108.875</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>478.725</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>58,13</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(59,13)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>6</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>109.675</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>481.125</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>57,53</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(58,53)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>7</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>107.625</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>486.025</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>57,48</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(58,48)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>8</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>107.725</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>489.075</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>58,53</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(59,53)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>9</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>107.725</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>492.100</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>56,96</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(57,96)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>10</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>108.525</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>495.350</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>59,22</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(60,22)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>11</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>109.175</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>498.100</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>58,97</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(59,97)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>12</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>109.550</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>500.725</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>58,64</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(59,64)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>13</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>110.250</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>503.025</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>57,68</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(58,68)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>14</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>110.775</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>500.550</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>56,99</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(57,99)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>15</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>110.575</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>496.725</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>58,01</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(59,01)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>16</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>111.750</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>491.425</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>56,95</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(57,95)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>17</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>111.825</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>487.425</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>57,67</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(58,67)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>18</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>111.950</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>485.275</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>62,70</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(63,70)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>19</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>113.625</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>482.275</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>54,09</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(55,09)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>20</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>116.175</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>481.925</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>58,02</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(59,02)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>21</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>119.050</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>481.900</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>57,64</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(58,64)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>22</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>122.025</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>481.450</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>57,62</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(58,62)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>23</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>118.800</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>481.050</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>56,94</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(57,94)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>24</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>114.525</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>476.925</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>57,63</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(58,63)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>25</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>116.100</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>474.050</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>57,96</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(58,96)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>26</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>113.575</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>472.550</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>55,41</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(56,41)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>27</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>112.500</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>468.500</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>56,08</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(57,08)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>28</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>112.600</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>472.325</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>55,54</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(56,54)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>29</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>112.525</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>475.400</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>57,03</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(58,03)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>30</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>110.475</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>475.250</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>57,74</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(58,74)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>31</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>108.600</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>475.075</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>59,31</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(60,31)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>32</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>110.150</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>471.075</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>56,74</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(57,74)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>33</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>106.800</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>471.150</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>56,23</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(57,23)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>34</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>103.400</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>472.225</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>57,51</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(58,51)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>35</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>98.400</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>470.300</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>57,10</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(58,10)</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <al>In plaats van de grenswaarden, genoemd in <extref status="actief" doc="1.0:v:BWBR0014330&amp;bijlage=3" compleet="nee">bijlage 3 van het LVB</extref> gelden tijdens dit experiment voor het gedeelte van het gebruiksjaar 2008 vanaf 13 maart 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:</al>
+        <table frame="topbot" tabstyle="stcrt2">
+          <title>Tabel Grenswaarden handhavingspunten nachtperiode (L<inf>night</inf>)) [dB(A)]</title>
+          <tgroup align="left" char="" charoff="50" cols="5" tgroupstyle="stcrt2">
+            <colspec colname="col1" colnum="1" colwidth="14*"/>
+            <colspec align="center" colname="col2" colnum="2" colwidth="19*"/>
+            <colspec align="center" colname="col3" colnum="3" colwidth="19*"/>
+            <colspec align="right" colname="col4" colnum="4" colwidth="19*"/>
+            <colspec align="right" colname="col5" colnum="5" colwidth="32*"/>
+            <thead valign="bottom">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al> Nr. </al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al> X-co&#xF6;rdinaat </al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al> Y-co&#xF6;rdinaat </al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al> Grenswaarde </al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al> Maximum grenswaarde in geval van buitengewone weersomstandigheden </al>
+                </entry>
+              </row>
+            </thead>
+            <tbody valign="top">
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>1</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>102.750</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>473.250</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>52,85</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(53,85)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>2</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>104.150</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>474.925</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>50,47</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(51,47)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>3</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>105.750</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>476.600</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>47,92</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(48,92)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>4</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>108.875</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>478.725</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>47,91</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(48,91)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>5</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>108.025</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>485.875</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>52,27</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(53,27)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>6</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>108.350</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>492.100</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>52,11</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(53,11)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>7</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>108.525</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>495.350</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>50,38</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(51,38)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>8</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>109.275</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>501.750</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>49,03</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(50,03)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>9</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>109.675</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>504.850</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>47,34</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(48,34)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>10</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>110.825</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>504.425</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>48,04</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(49,04)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>11</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>110.775</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>500.550</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>49,01</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(50,01)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>12</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>110.575</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>496.725</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>50,14</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(51,14)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>13</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>110.600</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>494.400</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>50,32</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(51,32)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>14</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>110.175</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>488.550</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>52,42</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(53,42)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>15</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>118.825</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>481.650</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>52,41</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(53,41)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>16</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>120.250</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>481.500</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>51,33</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(52,33)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>17</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>118.825</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>481.350</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>52,38</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(53,38)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>18</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>111.000</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>476.350</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>47,90</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(48,90)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>19</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>109.175</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>474.600</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>46,52</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(47,52)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>20</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>110.750</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>471.600</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>46,39</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(47,39)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>21</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>115.875</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>468.125</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>43,19</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(44,19)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>22</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>111.800</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>467.525</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>44,39</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(45,39)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>23</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>109.500</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>468.025</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>45,87</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(46,87)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>24</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>106.000</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>471.050</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>46,18</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(46,18)</al>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" morerows="0" rotate="0" valign="top">
+                  <al>25</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>100.475</al>
+                </entry>
+                <entry align="center" morerows="0" rotate="0" valign="top">
+                  <al>472.525</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>48,81</al>
+                </entry>
+                <entry align="right" morerows="0" rotate="0" valign="top">
+                  <al>(49,81)</al>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Uitvoering</titel>
+        </kop>
+        <al>Het experiment houdt in dat minimaal 10.000 vertrekkende vluchten vanaf de Zwanenburgbaan via SID&#x2019;s naar het noorden en het oosten vliegen. Op het moment dat deze vluchten plaatsvinden wordt er niet van de Polderbaan gevlogen. In deze tijdsperiode zullen daarom de vertrekkende vluchten naar het westen ook vanaf de Zwanenburgbaan plaatsvinden.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Gevolgen</titel>
+        </kop>
+        <al>Als gevolg van het experiment zal het aantal gehinderden in eerste instantie tijdelijk toenemen, maar het uiteindelijke resultaat van het vliegen op basis van SID&#x2019;s van de Zwanenburgbaan bij gelijktijdig starten van de Polderbaan zal naar verwachting per saldo afname van de hinder opleveren. Dit mede doordat minder vaak zal hoeven worden uitgeweken naar de Buitenveldertbaan.</al>
+        <al>Gedurende het experiment zullen de effecten regelmatig worden gemonitord.<nadruk type="vet"/>
+        </al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Criteria</titel>
+        </kop>
+        <al>De criteria die onderdeel vormen van de afweging en de beoordeling of het experiment leidt tot het beoogde doel:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>De mate waarin de vaste uitvliegroute vanaf de Zwanenburgbaan (36C) gevlogen kan worden onafhankelijk van het weer of van gelijktijdig gebruik van de Polderbaan;</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>het zoveel mogelijk voorkomen van tijdelijke hinder gedurende het implementatietraject;</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>het effect op de vliegoperatie (betrouwbaarheid en capaciteit);</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>het effect op de veiligheid zowel intern als extern;</al>
+          </li>
+          <li>
+            <li.nr>&#x2013;</li.nr>
+            <al>het effect op de ruimtelijke contouren zoals vastgelegd in het <extref status="actief" doc="1.0:v:BWBR0014329" compleet="nee">Luchthavenindelingbesluit Schiphol</extref> en op bestaande verstedelijking en nieuwbouwplannen.</al>
+          </li>
+        </lijst>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Onvoorziene gevallen</titel>
+        </kop>
+        <al>In onvoorziene gevallen kunnen op advies van de belanghebbenden de Minister van Verkeer en Waterstaat en de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer overgaan tot het bijsturen, opschorten of vroegtijdig stopzetten van het experiment.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">9</nr>
+          <titel status="officieel">Termijn experiment</titel>
+        </kop>
+        <al>De startdatum van dit experiment is 13&#xA0;maart 2008 en het eindigt aan het einde van het gebruiksjaar, op&#xA0;31 oktober 2008.</al>
+      </artikel>
+      <artikel status="goed">
+        <kop>
+          <label>Artikel</label>
+          <nr status="officieel">10</nr>
+          <titel status="officieel">Inwerkingtreding</titel>
+        </kop>
+        <al>Deze regeling treedt in werking met ingang van 13 maart 2008.</al>
+      </artikel>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <ondertekening>De <functie>Minister</functie> van <organisatie afkorting="VW">Verkeer en Waterstaat</organisatie>,
+        <naam>
+          <voornaam>C.M.P.S.</voornaam>
+          <achternaam>Eurlings</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	

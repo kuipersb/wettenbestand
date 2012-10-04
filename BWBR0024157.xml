@@ -1,0 +1,1001 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0024157" dtdversie="2.0" id="400049" soort="ministeriele-regeling">
+  
+  <intitule>Regeling van de Minister van Financi&#xEB;n van 1 juli 2008, nr. BenC/2008-1089 N, houdende regels voor de documentaire informatievoorziening bij het kerndepartement van Financi&#xEB;n (Statuut documentaire informatievoorziening Financi&#xEB;n, 2008)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Minister van Financi&#xEB;n,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0007748&amp;artikel=14" compleet="nee">artikel 14 van het Archiefbesluit 1995</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Algemene Bepalingen (definities)</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+            <titel status="officieel">Begripsbepalingen</titel>
+          </kop>
+          <al>In deze regeling wordt verstaan onder:</al>
+          <al>Archief: Het geheel (een verzameling) van archiefbescheiden, ontvangen of opgemaakt door een instelling, persoon of groep personen en naar hun aard bestemd daar onder te berusten.</al>
+          <al>Archiefbeheer: De feitelijke of uitvoerende werkzaamheden om archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te bewaren, als ook om archiefbescheiden die daarvoor in aanmerking komen te vernietigen.</al>
+          <al>Archiefbeheerder: Degene die namens de Secretaris-generaal verantwoordelijk is voor het laten uitvoeren van een effectief en effici&#xEB;nt archiefbeheer voor de onder hen vallende archiefvormende onderdelen.</al>
+          <al>Archiefbeherende onderdelen: Binnen het Ministerie van Financi&#xEB;n worden de onderdelen die tot taak hebben de feitelijke of uitvoerende werkzaamheden met betrekking tot het archiefbeheer uit te voeren als archiefbeherend onderdeel aangemerkt.</al>
+          <al>Archiefbescheiden: Bescheiden conform <extref status="actief" doc="1.0:v:BWBR0007376&amp;artikel=2" compleet="nee">artikel 2 van de Archiefwet</extref>, ongeacht hun vorm, door de overheidsorganen ontvangen of opgemaakt en naar hun aard bestemd daaronder te berusten. Dit houdt in dat deze bescheiden de neerslag zijn van of gebruikt zijn bij activiteiten of handelingen op een bepaald beleidsterrein en/of beleidsprocessen.</al>
+          <al>Archiefvormende onderdelen: Binnen het Ministerie van Financi&#xEB;n worden de daaronder vallende organisatieonderdelen, buitendiensten, raden, commissies en projectorganisaties als archiefvormende onderdelen aangemerkt.</al>
+          <al>Archiefwettelijke zorg: De algemene bestuurlijke verantwoordelijkheid voor de uitvoering van de <extref status="actief" doc="1.0:v:BWBR0007376" compleet="nee">Archiefwet</extref>. Hieronder is ook begrepen de verantwoordelijkheid voor een effici&#xEB;nt en effectief archiefbeheer, geschikte huisvesting, deskundig personeel, het vaststellen van beheersvoorschriften en voldoende financi&#xEB;le middelen.</al>
+          <al>Afdoening: Het bijhouden en bewaken van de (tijdige) afhandeling van documenten.</al>
+          <al>Beheersregels: Regels voor het archiefbeheer om te kunnen voldoen aan de wettelijke bepalingen.</al>
+          <al>Beleidsterrein: Geheel van relaties tussen archiefvormende organen die handelingen of activiteiten verrichten in het kader van een bepaald overheidsbeleid, dat voortvloeit uit een overheidstaak.</al>
+          <al>Bijzondere informatie: Staatsgeheimen en overige niet-staatsgeheime informatie waarvan kennisname door niet gerechtigden nadelige tot zeer ernstige gevolgen kan hebben voor de belangen van de Staat, van zijn bondgenoten of van &#xE9;&#xE9;n of meer Ministeries.</al>
+          <al>Document: Object of een voorwerp dat gegevens draagt met het doel deze gegevens eraan te ontlenen en te gebruiken.</al>
+          <al>Documentair structuurplan: Systematische identificatie en ordening van bedrijfsprocessen of handelingen en/of archiefbescheiden in categorie&#xEB;n overeenkomstig logisch gestructureerde conventies, methoden en procedureregels.</al>
+          <al>Documentaire informatievoorziening: Het voorzien in informatie door middel van het cre&#xEB;ren, identificeren, verzamelen, verwerken, vastleggen en het ontsluiten van documenten en ter beschikking stellen.</al>
+          <al>Dossier: Het geheel van archiefbescheiden ontvangen of opgemaakt door een archiefvormend orgaan bij het verrichten van handelingen ten aanzien van of een zaak, of een object of een subject.</al>
+          <al>Duurzame staat: Een zodanige staat van de informatiedrager en de daarop vastgelegde informatie, als ook een zodanige materi&#xEB;le verzorging, dat raadpleging nu en in de toekomst mogelijk blijft.</al>
+          <al>Indexering: Proces van het vaststellen van zoekkenmerken om het terugzoeken van archiefbescheiden en/of informatie te vergemakkelijken.</al>
+          <al>Metagegevens (metadata): Gegevens die context, inhoud en structuur van archiefbescheiden en hun beheer door de tijd heen beschrijven.</al>
+          <al>Minister: De Minister van Financi&#xEB;n. Is de zorgdrager voor het Ministerie van Financi&#xEB;n, zoals bedoeld in <extref status="actief" doc="1.0:v:BWBR0007376&amp;artikel=1" compleet="nee">artikel 1 van de Archiefwet</extref>.</al>
+          <al>Ministerie: Het Ministerie van Financi&#xEB;n.</al>
+          <al>Overbrenging: Het blijvend voor bewaring overdragen van de zorg en het beheer van daarvoor in aanmerking komende archiefbescheiden aan een archiefbewaarplaats (het Nationaal Archief).</al>
+          <al>(Rapport) institutioneel onderzoek: Een contextbeschrijving van de beleidsterreinen van een overheidsorgaan, waarop dit orgaan handelend optreedt.</al>
+          <al>Registratie: Handelingen die nodig zijn om documenten zodanig vast te leggen, dat deze documenten kunnen worden ge&#xEF;dentificeerd, toegankelijk kunnen worden gemaakt en ter beschikking kunnen worden gesteld.</al>
+          <al>Reproductie: Elke gelijkluidende weergave van een origineel in een andere gedaante of op een andere drager.</al>
+          <al>Rubriceren: Het vaststellen dat een gegeven een staatsgeheim of departementaal vertrouwelijk is en volgens de Rubriceringslijst Ministerie van Financi&#xEB;n 2007 bepalen van de mate van beveiligingsgradatie die hieraan dient te worden gegeven.</al>
+          <al>Selectielijst: Een vorm van een wettelijk voorgeschreven selectie-instrument voor de selectie van overheidsarchieven in te bewaren en te vernietigen archiefbescheiden, inclusief de selectietermijn.</al>
+          <al>Substitutie: Zie vervanging.</al>
+          <al>Toezicht: Het houden van toezicht op de ambtelijke verantwoordelijkheid voor (de kwaliteit) van het archiefbeheer.</al>
+          <al>Vervanging: Vervangen van archiefbescheiden door reproducties.</al>
+          <al>Vernietiging: Het zodanig materieel bewerken van de informatiedrager (o.a. papier, geluidsband, film, diskette, CD-rom) dat de daarop vastgelegde informatie niet meer te reconstrueren is.</al>
+          <al>Vervreemding: Het in eigendom overdragen van archiefbescheiden aan een ander overheidsorgaan.</al>
+          <al>Voortgang: Het bijhouden en bewaken van de (tijdige) behandeling van een document door de organisatie heen (op basis van de verblijfplaatsen of de routing van een document).</al>
+          <al>Zorgdrager: De Minister van Financi&#xEB;n.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Reikwijdte van de beheersregels</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+            <titel status="officieel">Reikwijdte</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De beheersregels zijn van toepassing op het beheer van alle archiefbescheiden, ongeacht hun vorm, van het kerndepartement en de dienst Domeinen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De beheersregels zijn niet van toepassing op het beheer van archiefbescheiden van de Belastingdienst.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Organisatie, taken en verantwoordelijkheden</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+            <titel status="officieel">De Minister</titel>
+          </kop>
+          <al>De Minister van Financi&#xEB;n is de zorgdrager, zoals bedoeld in <extref status="actief" doc="1.0:v:BWBR0007376&amp;artikel=1" compleet="nee">artikel 1 van de Archiefwet</extref>, voor de archiefbescheiden van het Ministerie.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+            <titel status="officieel">De Secretaris-generaal</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De Secretaris-generaal is namens de Minister verantwoordelijk voor de zorg voor het beheer van de archiefbescheiden van het Ministerie en voor de voorwaarden om een goed archiefbeheer mogelijk te maken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De Secretaris-generaal stelt hiervoor beheersregels vast en draagt zorg voor publicatie hiervan in de Staatscourant.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De Secretaris-generaal is verantwoordelijk voor de kwaliteit van het archiefbeheer bij het Ministerie.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De Secretaris-generaal mandateert deze verantwoordelijkheid aan de afzonderlijke Archiefbeheerders.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+            <titel status="officieel">De plaatsvervangend Secretaris-generaal</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De plaatsvervangend Secretaris-generaal heeft als Archiefbeheerder een co&#xF6;rdinerende en informerende taak met betrekking tot de uitvoering van het toezicht op de kwaliteit van het archiefbeheer bij het kerndepartement.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De plaatsvervangend Secretaris-generaal rapporteert, zo dit nodig wordt geacht, hierover aan de Erfgoedinspectie van het Ministerie van OCenW.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <al>De Auditdienst Financi&#xEB;n (ADF) is namens de Secretaris-generaal, belast met het toezicht op het archiefbeheer bij het Ministerie.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+            <titel status="officieel">De Archiefbeheerders</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Voor het Ministerie worden hierin onderscheiden: de plaatsvervangend Secretaris-generaal voor het kerndepartement en de directeur-generaal voor de Belastingdienst.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Gelet op <extref status="actief" doc="1.0:v:BWBR0018723&amp;artikel=4" compleet="nee">artikel 4</extref> en <extref status="actief" doc="1.0:v:BWBR0018723&amp;artikel=5" compleet="nee">5 van het organisatie- en mandaatbesluit Ministerie van Financi&#xEB;n</extref> kunnen de Archiefbeheerders hun verantwoordelijkheid voor het archiefbeheer ondermandateren aan de onder hem / haar ressorterende directeuren [zie <intref status="actief" doc="1.0:v:BWBR0024157&amp;bijlage=I">bijlage 1</intref>].</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De Archiefbeheerders zijn namens de Secretaris-generaal verantwoordelijk voor het laten uitvoeren van een effectief en effici&#xEB;nt archiefbeheer voor de onder hen vallende archiefvormende onderdelen in overeenstemming met het bepaalde in deze beheersregels en andere van toepassing zijnde regelgeving.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De plaatsvervangend Secretaris-generaal, respectievelijk de directeur-generaal voor de Belastingdienst, stellen conform <extref status="actief" doc="1.0:v:BWBR0007748&amp;artikel=14" compleet="nee">artikel 14 Archiefbesluit 1995</extref> beheersregels vast omtrent het archiefbeheer van de onder hen ressorterende archiefvormende onderdelen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Nadere beleidsregels, richtlijnen en procedures voor de uitvoering van het archiefbeheer worden door de archiefbeheerders vastgesteld.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>Het feitelijke archiefbeheer laten de Archiefbeheerders uitvoeren door de onder hun verantwoordelijkheid vallende archiefbeherende onderdelen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>De Archiefbeheerders leggen verantwoording af aan de Secretaris-generaal.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+            <titel status="officieel">De archiefbeherende onderdelen</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De archiefbeherende onderdelen zorgen voor voldoende en geschikte archiefruimte, voor voldoende en deskundig personeel en voor voldoende financi&#xEB;le middelen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De archiefbeherende onderdelen hebben tot taak de archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te bewaren, als ook zorg te dragen voor de vernietiging van de daarvoor in aanmerking komende archiefbescheiden in overeenstemming met het bepaalde in deze beheersregels en andere van toepassing zijnde regelgeving.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Het archiefbeherende onderdeel van het kerndepartement stelt beheersregels op, onderhoudt deze en zorgt voor de interne verspreiding en voorlichting.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De archiefbeherende onderdelen stellen voor de uitvoering van hun taken zo nodig nadere beleidsregels, richtlijnen en procedures op.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De archiefbeherende onderdelen maken waar nodig afspraken met het management van de archiefvormende onderdelen over de uitvoering van het archiefbeheer.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>De archiefbeherende onderdelen geven periodiek aan welke activiteiten en middelen nodig zijn voor het uitvoeren van het archiefbeheer en rapporteren hierover jaarlijks aan hun Archiefbeheerder.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>De archiefbeherende onderdelen leggen over de uitvoering van hun archiefbeheer verantwoording af aan hun Archiefbeheerder.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+            <titel status="officieel">De archiefvormende onderdelen</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De archiefvormende onderdelen zijn de binnen het Ministerie te onderscheiden dienstonderdelen (directies).</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Onder de archiefvormende onderdelen worden eveneens begrepen de tijdelijke raden, formeel ingestelde commissies en projectorganisaties die onder de archiefwettelijke zorg van de Minister vallen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Onder de archiefvormende onderdelen worden tevens begrepen de zelfstandige bestuursorganen en geprivatiseerde onderdelen waarvan de archieven v&#xF3;&#xF3;r de verzelfstandiging dan wel privatisering onder de archiefwettelijke zorg van de Minister vallen, dan wel publiekrechtelijke zelfstandige bestuursorganen zonder rechtspersoonlijkheid.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De archiefvormende onderdelen verzamelen, ontvangen en/of produceren en bewaren gegevens nodig voor hun activiteiten en handelingen op hun beleidsterrein. Dit zijn archiefbescheiden in de zin van de <extref status="actief" doc="1.0:v:BWBR0007376" compleet="nee">Archiefwet</extref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De archiefvormende onderdelen zijn in deze hoedanigheid als gegevenseigenaar aan te merken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>De archiefvormende onderdelen zijn ervoor verantwoordelijk hun archiefbescheiden in beheer over te dragen aan hun archiefbeherend onderdeel in overeenstemming met het bepaalde in deze beheersregels en de hierover onderling nader gemaakte beheersafspraken.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+            <titel status="officieel">Raden, commissies en projectorganisaties</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De secretarissen van raden, formeel ingestelde commissies en projectorganisaties beheren hun archief in overleg met het archiefbeherende onderdeel. Zij brengen het archiefbeherende onderdeel op de hoogte van de instelling van de raad, commissie of projectorganisatie, bij voorkeur door middel van een kopie van de instellingsbeschikking.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De secretarissen zorgen ervoor dat, zodra dit mogelijk is, afgesloten archiefbestanddelen worden overgedragen aan het betrokken archiefbeherende onderdeel. Bij opheffing wordt het archief direct overgedragen aan het betrokken archiefbeherende onderdeel.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De projectsecretaris draagt zorg voor een goed archiefbeheer van het projectarchief, d.w.z. de vergaderstukken en overige projectdocumenten</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Documentbehandeling</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+            <titel status="officieel">Documentregistratie</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De archiefvormende onderdelen zorgen ervoor dat de door hen ontvangen, opgemaakte en verzonden documenten, die daarvoor in aanmerking komen, worden geregistreerd in het document management systeem.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De archiefbeherende onderdelen hebben hierin een faciliterende rol.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Bij de documentregistratie wordt rekening gehouden met de in <intref status="actief" doc="1.0:v:BWBR0024157&amp;artikel=13">artikel 13</intref> gestelde &#x2018;regels voor de informatieontsluiting&#x2019;.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Ontvangen en verzonden papieren documenten worden gescand, digitaal opgeslagen en gekoppeld aan de registratiegegevens in het document management systeem.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">12</nr>
+            <titel status="officieel">Voortgang en afdoening</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Van de geregistreerde documenten worden de voortgang en afdoening vastgelegd in het document management systeem.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Bij registratie van het document worden minimaal de volgende gegevens vastgelegd en bijgehouden:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>de NAW-gegevens;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>een verkorte inhoud;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>(wettelijke) afdoeningstermijn van het document;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>behandelend archiefvormend onderdeel, respectievelijk behandelend medewerker.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Na registratie van het ingekomen document wordt door het behandelend archiefvormend onderdeel aan de afzender een ontvangstbevestiging verzonden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De behandelende archiefvormende onderdelen zijn verantwoordelijk voor het tijdig afdoen van de documenten. Indien afdoeningstermijnen niet wettelijk zijn voorgeschreven bepalen de behandelende archiefvormende onderdelen zelf de afdoeningstermijn voor die documenten.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Indien ingekomen documenten niet binnen de gestelde afdoeningstermijn kunnen worden afgedaan wordt door het archiefvormend onderdeel aan de afzender een tussenbericht verzonden, met vermelding van de reden waarom het verzoek nog niet is afgedaan en binnen welke termijn afdoening is te verwachten.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>Direct na afhandeling van de documenten wordt door het archiefvormend onderdeel de laatste verblijfplaats afgesloten.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>De papieren documenten worden door de behandelende archiefvormende onderdelen ter archivering aangeboden aan het archiefbeherend onderdeel.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Informatieontsluiting</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">13</nr>
+            <titel status="officieel">Informatieontsluiting</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De archiefbeherende onderdelen stemmen de informatieontsluiting van archiefbescheiden c.q. archiefbestanden af op de beleidsterreinen en werkprocessen van de organisatieonderdelen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De archiefbeherende onderdelen ontwikkelen en onderhouden in overleg met de organisatieonderdelen, instrumenten voor de informatieontsluiting van de archiefbescheiden en de daarin aanwezige gegevens.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Het ontsluiten van de archiefbescheiden wordt zodanig verricht dat het gebruik van de hierin aanwezige gegevens in combinatie met andere informatiebronnen of gegevensverzamelingen mogelijk is.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Zorg voor het archiefbeheer</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">14</nr>
+            <titel status="officieel">Dossiervorming</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Alle archiefbescheiden worden gerangschikt en geplaatst in dossiers zoals vastgelegd is in het documentaire structuurplan door:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>de archiefbescheiden die bij de bedrijfsactiviteiten als verplicht aangemerkt worden, in voorkomende gevallen te plaatsen in het desbetreffende dossier;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>de regels voor indexering en titelbeschrijving toe te passen bij het aanleggen van een dossier;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>de regels voor het toekennen van metadata aan dossiers toe te passen.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">15</nr>
+            <titel status="officieel">Informatieverstrekking uit archiefbescheiden</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Verzoeken van derden om archiefbescheiden te mogen raadplegen worden behandeld overeenkomstig de van toepassing zijnde artikelen uit de <extref status="actief" doc="1.0:v:BWBR0005252" compleet="nee">wet Openbaarheid van bestuur</extref> (WOB) en de door de Secretaris-generaal vastgestelde richtlijnen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Verzoeken van derden om archiefbescheiden te mogen raadplegen moeten ter goedkeuring worden voorgelegd aan het betrokken archiefvormend onderdeel en aan de WOB-functionaris.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Voor onderzoeksdoeleinden dient de onderzoeker vooraf een verklaring te ondertekenen waarin bepaalde voorwaarden zijn opgenomen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Verzoeken om informatie uit archiefbescheiden door medewerkers van het kernMinisterie die betrekking op actuele archiefbescheiden, worden behandeld conform de uitlening van een dossier (zie <intref status="actief" doc="1.0:v:BWBR0024157&amp;artikel=16">artikel 16</intref>).</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">16</nr>
+            <titel status="officieel">Dossieruitlening</titel>
+          </kop>
+          <al>Het archiefbeherend onderdeel zorgt voor het uitlenen van fysieke dossiers uit de onder haar ressorterende archieven en houdt hiervan een uitleenadministratie bij.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">17</nr>
+            <titel status="officieel">Toevoegen en verwijderen van archiefbescheiden</titel>
+          </kop>
+          <al>Het verwijderen uit dan wel toevoegen van archiefbescheiden aan een afgesloten dossier is voorbehouden aan het archiefbeherende onderdeel.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">18</nr>
+            <titel status="officieel">Geordende en duurzame toegankelijke staat</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De archiefbeherende onderdelen stellen in overleg met de archiefvormende onderdelen documentaire structuurplannen op volgens het door de archiefbeheerder vastgestelde model. De bedrijfsprocessen van de archiefvormende onderdelen vormen het uitgangspunt bij het opstellen van documentaire structuurplannen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een documentair structuurplan is een instrument om archiefbescheiden, ongeacht de vorm, in geordende en toegankelijke staat te beheren met inachtneming van wettelijke kaders en eisen op het gebied van de bedrijfsvoering.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De volgende afspraken kunnen in een documentair structuurplan worden vastgelegd:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>De archiefbescheiden die behoren te worden ontvangen en/ of gemaakt in ter uitvoering van een bedrijfsproces.</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>De relatie met de richtlijn documentregistratie voor deze archiefbescheiden.</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>De ordening van deze archiefbescheiden zodat deze het betreffende bedrijfsproces weerspiegelt.</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>De bewaartermijn van de archiefbescheiden.</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>De indexering en de titelbeschrijving van de dossiers die betrekking hebben op het betreffende bedrijfsproces.</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>De systemen die gebruikt worden om de archiefbescheiden het betreffende werkproces te beheren.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De archiefbeherende onderdelen stellen een documentair structuurplan vast waarin inzicht wordt verkregen in tenminste:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>de relaties tussen de taken en/of producten die de archiefvormende onderdelen uitvoeren of leveren;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>de wijze waarop de administratieve organisatie daartoe is ingericht;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>de neerslag in de vorm van gegevensverzamelingen die hier het resultaat van is (zowel fysieke als digitale dossiers);</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>een classificatie voor de blijvend te bewaren documenten.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Met het documentaire structuurplan wordt de toegankelijke staat van documenten, aan de hand van de contextinformatie, gewaarborgd zodanig dat:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>elk document binnen een redelijke termijn kan worden gevonden, hetzij aan de hand van het werkproces uit hoofde waarvan het document is ontvangen of opgemaakt, hetzij aan de hand van de afzender of geadresseerde, dan wel de datum en/of het kenmerk dat aan een document is gegeven;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>elk document binnen een redelijke termijn leesbaar of traceerbaar te maken is;</al>
+              </li>
+              <li>
+                <li.nr>&#x2013;</li.nr>
+                <al>documenten die niet of slechts beperkt openbaar zijn tegen raadpleging door onbevoegden beschermd wordt.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>De archiefbeherende onderdelen stellen een set van metadata vast voor de ordening en toegankelijkheid van documenten.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>De set van metadata vormt de basis voor een record management applicatie.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">19</nr>
+            <titel status="officieel">RIO&#x2019;s en selectielijsten</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De Archiefbeheerders zorgen ervoor dat op basis van de beleidsterreinen van het Ministerie rapporten Institutioneel Onderzoek (RIO) worden opgesteld en onderhouden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De Archiefbeheerders zorgen ervoor dat op basis van de rapporten Institutioneel Onderzoek (RIO) selectielijsten worden opgesteld en onderhouden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De archiefbeherende onderdelen zijn belast met de co&#xF6;rdinatie van het goedkeuringstraject van de selectielijsten.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De archiefvormende onderdelen zijn verantwoordelijk voor de interne vaststelling van de selectielijsten op hun beleidsterrein.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De archiefbeherende onderdelen zorgen ervoor dat de vastgestelde selectielijsten bij het archiefbeheer worden toegepast.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">20</nr>
+            <titel status="officieel">Vervanging</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De archiefbeheerders dragen zorg dat bij vervanging (substitutie) van archiefbescheiden wordt voldaan aan <extref status="actief" doc="1.0:v:BWBR0007376&amp;artikel=7" compleet="nee">artikel 7</extref> en <extref status="actief" doc="1.0:v:BWBR0007376&amp;artikel=9" compleet="nee">9 van de Archiefwet 1995</extref> en <extref status="actief" doc="1.0:v:BWBR0007748&amp;artikel=2" compleet="nee">artikel 2</extref>, <extref status="actief" doc="1.0:v:BWBR0007748&amp;artikel=6" compleet="nee">6</extref> en <extref status="actief" doc="1.0:v:BWBR0007748&amp;artikel=8" compleet="nee">8 van het Archiefbesluit 1995</extref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Een verzoek om formele toestemming voor vervanging van archiefbescheiden aan de minster van Onderwijs, Cultuur en Wetenschappen wordt door de Archiefbeheerders ingediend.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De archiefbeherende onderdelen dragen zorg voor de uitvoering van de procedure &#x2018;vervanging vanaf verzoek tot feitelijke vervanging en vernietiging&#x2019;.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Van de vervangen archiefbescheiden wordt door de archiefbeherende onderdelen een verklaring van vervanging opgemaakt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De verklaring van vervanging wordt ter ondertekening aangeboden aan de verantwoordelijke Archiefbeheerder.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">21</nr>
+            <titel status="officieel">Vervreemding</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De Archiefbeheerders dragen zorg dat bij de voorbereiding tot vervreemding van archiefbescheiden wordt voldaan aan <extref status="actief" doc="1.0:v:BWBR0007376&amp;artikel=8" compleet="nee">artikel 8 van de Archiefwet 1995</extref> en <extref status="actief" doc="1.0:v:BWBR0007748&amp;artikel=7" compleet="nee">artikel 7 van het Archiefbesluit 1995</extref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Het voornemen tot vervreemding van archiefbescheiden dient ter beslissing te worden voorgelegd aan het betrokken archiefvormend onderdeel.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De archiefbeherende onderdelen dragen zorg voor de uitvoering van de procedure &#x2018;vervreemding vanaf verzoek tot feitelijke vervreemding&#x2019;.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Van de vervreemding van archiefbescheiden wordt door de archiefbeherende onderdelen een verklaring van vervreemding opgemaakt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>De verklaring van vervreemding wordt ter ondertekening aangeboden aan de verantwoordelijke Archiefbeheerder.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">22</nr>
+            <titel status="officieel">Overbrenging</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De archiefbeherende onderdelen zorgen ervoor dat de archiefbescheiden, die daarvoor op grond van een selectielijst in aanmerking komen, in goede, geordende en toegankelijke staat worden overgebracht naar het Nationaal Archief.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De overbrenging vindt plaats in perioden, maar niet later dan 10 jaar nadat die archiefbescheiden de leeftijd van 20 jaar hebben bereikt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De over te brengen archiefbescheiden zijn voorzien van een toegang die aan de eisen voldoet genoemd in <intref status="actief" doc="1.0:v:BWBR0024157&amp;artikel=18">artikel 18</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Bij de over te brengen archiefbescheiden wordt de benodigde toepassingsprogrammatuur en de documentatie, nodig om deze programmatuur te beheren, meegeleverd indien dit onmisbaar is voor de raadpleging van de archiefbescheiden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Van de over te brengen archiefbescheiden wordt door het archiefbeherend onderdeel een verklaring van overbrenging opgemaakt. In de verklaring is aangegeven welke archiefbescheiden worden overgebracht, op welke grondslag overbrenging plaatsvindt en op welke wijze de duurzaamheid, de ordening en toegankelijkheid zijn geregeld.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>De verklaring van overbrenging wordt door het archiefbeherend onderdeel ter medeondertekening aangeboden aan de betrokken archiefbeheerder.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>Een exemplaar van de verklaring van overbrenging wordt bewaard door het archiefbeherend onderdeel waaronder de archiefbescheiden in beheer zouden zijn indien zij niet overgebracht waren.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">8</lidnr>
+            <al>De archiefbeherende onderdelen zorgen ervoor dat de afgesloten archiefbescheiden, die door de organisatie niet meer regelmatig worden geraadpleegd, zodra dit mogelijk is, vervroegd worden overgebracht. Dit in overleg met het Nationaal Archief.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">9</lidnr>
+            <al>De archiefbeherende onderdelen zorgen ervoor dat de overbrenging van afgesloten archiefbescheiden, die door de organisatie nog regelmatig worden geraadpleegd, wordt opgeschort. Dit alleen indien hiertoe een machtiging is verkregen van de Minister van OCenW en in overleg met het Nationaal Archief.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">10</lidnr>
+            <al>De archiefbeherende onderdelen zorgen ervoor dat bij de overbrenging van afgesloten archiefbescheiden, waaraan beperkingen aan de openbaarheid zijn gesteld, bepalingen ter zake worden opgenomen in de verklaring van overbrenging. Dit in overleg met het Nationaal Archief.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">11</lidnr>
+            <al>Bij opschorting van overbrenging zijn de openbaarheidregels van de <extref status="actief" doc="1.0:v:BWBR0007376" compleet="nee">Archiefwet</extref> op de niet overgebrachte archiefbescheiden van toepassing.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">23</nr>
+            <titel status="officieel">Vernietiging</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De archiefbeherende onderdelen zorgen ervoor dat vernietiging van de archiefbescheiden, die daarvoor op grond van een selectielijst in aanmerking komen, worden vernietigd nadat de daarvoor in de selectielijst vastgestelde termijn is verstreken.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De archiefbeherende onderdelen stellen de archiefvormende onderdelen op de hoogte van het voornemen tot vernietiging.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Van de te vernietigen archiefbescheiden wordt door het archiefbeherend onderdeel een verklaring van vernietiging opgesteld. In de verklaring is aangegeven welke archiefbescheiden zijn vernietigd, op welke grondslag vernietiging heeft plaatsgevonden en op welke wijze de archiefbescheiden zijn vernietigd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De verklaring van vernietiging wordt door het archiefbeherend onderdeel ter medeondertekening aangeboden aan de betrokken Archiefbeheerder.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Een exemplaar van de verklaring van vernietiging wordt bewaard door het archiefbeherend onderdeel waaronder de archiefbescheiden in beheer zouden zijn, indien zij niet vernietigd waren.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>Vernietiging van de archiefbescheiden vindt plaats door een gespecialiseerd vernietigingsbedrijf onder toezicht van het archiefbeherende onderdeel.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>Indien op grond van <extref status="actief" doc="1.0:v:BWBR0007376&amp;artikel=9" compleet="nee">artikel 9 lid 2 van de Archiefwet</extref> in bijzondere omstandigheden moet worden afgeweken van de voorgeschreven vernietigingsprocedures dragen de archiefbeherende onderdelen zorg voor de uitvoering van de dan geldende regels voor noodvernietiging.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">24</nr>
+            <titel status="officieel">Bijzondere informatie</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De daartoe namens de Secretaris-generaal aangewezen functionaris die de inhoud van een gerubriceerd document vaststelt is verantwoordelijk voor de graad van de rubricering. Hij of zij is tevens bevoegd de rubricering te herzien of te be&#xEB;indigen (derubriceren).</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Gerubriceerde bijzondere informatie van de categorie staatsgeheim wordt geopend, geregistreerd, behandeld, verzonden en gearchiveerd door de daartoe bevoegde medewerkers volgens de regels gesteld in de richtlijnen documentregistratie. Alleen functionarissen die een positief veiligheidsonderzoek van de AIVD hebben doorstaan zijn bevoegd kennis te nemen van bijzondere informatie van de categorie staatsgeheim.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Bijzondere informatie van de categorie departementaal vertrouwelijk wordt geopend, geregistreerd, behandeld, verzonden en gearchiveerd conform de richtlijnen voor documentregistratie.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Kennisname van departementaal vertrouwelijke informatie is voorbehouden aan functionarissen die uit hoofde van hun functie door het betrokken archiefvormend onderdeel hiertoe zijn geautoriseerd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Het kopi&#xEB;ren of andere vormen van reproduceren van bijzondere informatie geschiedt conform de regels gesteld in het VIR-BI.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>Bijzondere informatie die volgens een vastgestelde selectielijst niet voor vernietiging in aanmerking komt en ouder is dan 20 jaar, wordt nadat deze is gederubriceerd naar het Nationaal Archief overgebracht.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>Indien bijzondere informatie volgens een vastgestelde selectielijst voor vernietiging in aanmerking komt, dan wordt deze na het verstrijken van de vernietigingstermijn vernietigd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">8</lidnr>
+            <al>Informatiesystemen waar gegevens met bijzondere informatie worden vastgelegd worden op een hoger niveau beveiligd dan de Baseline Informatiebeveiliging Financi&#xEB;n (2007) biedt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">9</lidnr>
+            <al>De archiefvormende onderdelen zijn verantwoordelijk voor het treffen van beveiligingsmaatregelen voor hun bijzondere informatie.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">25</nr>
+            <titel status="officieel">Archiefruimten</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De archiefbeherende onderdelen zorgen ervoor dat (afgesloten) archiefbestanddelen worden bewaard in speciaal daarvoor bestemde archiefruimten.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De archiefbeherende onderdelen zorgen ervoor dat in geval van calamiteit zodanige maatregelen zijn en worden getroffen dat de archiefbescheiden die zich in de archiefruimten bevinden, zo min mogelijk gevaar lopen. Hiertoe stellen de archiefbeherende onderdelen een calamiteitenplan op.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De archiefbeherende onderdelen zorgen ervoor dat archiefruimten waarin te bewaren archiefbescheiden worden bewaard voldoen aan de normen die zijn opgenomen in <extref status="actief" doc="1.0:v:BWBR0012803&amp;artikel=2" compleet="nee">artikel 2 tot en met 6 van de Regeling bouw en inrichting archiefruimten en archiefbewaarplaatsen</extref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Van de in archiefruimten opgeslagen bestanden wordt door de archiefbeherende onderdelen een bestandsadministratie bijgehouden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Archiefruimten dienen ten minste een keer per jaar worden gecontroleerd op de normen die zijn opgenomen in <extref status="actief" doc="1.0:v:BWBR0012803&amp;artikel=2" compleet="nee">artikel 2 tot en met 6 van de Regeling bouw en inrichting archiefruimten en archiefbewaarplaatsen</extref>.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">26</nr>
+            <titel status="officieel">Organisatieverandering</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De Archiefbeheerders dragen zorg dat bij een verandering in de organisatie van het Ministerie, door opheffing, samenvoeging, splitsing of door overdracht van taken, een voorziening wordt getroffen betreffende de bestemming en het beheer van de archiefbescheiden met inachtneming van het <extref status="actief" doc="1.0:v:BWBR0004427" compleet="nee">Besluit Archiefoverdrachten Rijksadministratie</extref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Indien deze voorziening bestaat uit het ter beschikking stellen van archiefbescheiden dan wordt door het betrokken archiefbeherend onderdeel een verklaring van terbeschikkingstelling opgemaakt.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De verklaring van terbeschikkingstelling wordt door het archiefbeherend onderdeel ter ondertekening aangeboden aan de verantwoordelijke Archiefbeheerder.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">7</nr>
+          <titel status="officieel">Beheer digitale archiefbescheiden</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">27</nr>
+          </kop>
+          <al>De in dit Statuut opgenomen beheersregels zijn van toepassing op alle archiefbescheiden, ongeacht hun vorm en informatiedrager. Dat wil zeggen dat deze ook van toepassing zijn op het beheer van digitale archiefbescheiden.</al>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">8</nr>
+          <titel status="officieel">Toezicht en rapportages</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">28</nr>
+            <titel status="officieel">Toezicht op het beheer</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De Secretaris-generaal is verantwoordelijk voor de kwaliteit van het archiefbeheer bij het Ministerie van Financi&#xEB;n.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De Archiefbeheerders zorgen ervoor dat de kwaliteit van het archiefbeheer bij hun eigen dienstonderdelen voldoet aan de hiervoor geldende regels.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De Auditdienst Financi&#xEB;n (ADF) voert in opdracht van de Secretaris-generaal een kwaliteitstoets uit ten aanzien van het archiefbeheer bij de dienstonderdelen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De uitkomsten van de kwaliteitstoets worden aan de Secretaris-generaal gerapporteerd.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Waar dit nodig wordt geacht meldt de Secretaris-generaal de onder <intref status="actief" doc="1.0:v:BWBR0024157&amp;artikel=4">artikel 4</intref> bedoelde rapportage aan de Erfgoedinspectie van het Ministerie van OCenW.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+      <hoofdstuk>
+        <kop>
+          <label>Hoofdstuk</label>
+          <nr status="officieel">9</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">29</nr>
+            <titel status="officieel">Slotbepalingen</titel>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Het Statuut Documentaire Informatievoorziening Financi&#xEB;n, vastgesteld op 10 februari 2000 (nr. IAZ 2000/222 M) komt hiermee te vervallen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Deze regeling wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de dag van publicatie.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Deze regeling wordt toegezonden aan de betrokken Archiefbeheerders en alle hoofden van dienst (directeuren).</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Deze regeling wordt aangehaald als &#x2018;Statuut documentaire informatievoorziening Financi&#xEB;n, 2008&#x2019;.</al>
+          </lid>
+        </artikel>
+      </hoofdstuk>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <gegeven>
+        <dagtekening>
+          <plaats>Den Haag</plaats>
+          <datum isodatum="2008-07-01">1 juli 2008</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>De <functie>Minister</functie> van <organisatie afkorting="FIN">Financi&#xEB;n</organisatie>,
+        <deze>namens deze:</deze>
+        <functie>Secretaris-Generaal</functie>,
+        <naam>
+          <voornaam>R.</voornaam>
+          <achternaam>Gerritse</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label>
+        <nr status="officieel">I</nr>
+        <titel status="officieel">Ondermandatering verantwoordelijkheden</titel>
+      </kop>
+      <al>Gelet op <extref status="actief" doc="1.0:v:BWBR0018723&amp;artikel=4" compleet="nee">artikel 4</extref> en <extref status="actief" doc="1.0:v:BWBR0018723&amp;artikel=5" compleet="nee">5 van het organisatie- en mandaatbesluit Ministerie van Financi&#xEB;n</extref> kunnen de Archiefbeheerders hun verantwoordelijkheid voor het archiefbeheer ondermandateren aan de onder hem/haar ressorterende directeuren.</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+          <li.nr>1.</li.nr>
+          <al>De plaatsvervangend Secretaris-generaal heeft deze verantwoordelijkheid doorgemandateerd aan:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de Directeur Domeinen voor wat betreft de dienst Domeinen;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de Thesaurier Generaal met een ondermandaat aan de Agent voor wat betreft het Agentschap;</al>
+            </li>
+            <li>
+              <li.nr>&#x2013;</li.nr>
+              <al>de directeur-generaal Rijksbegroting met een ondermandaat aan de Directeur EDP-auditpool voor wat betreft de EDP-auditpool.</al>
+            </li>
+          </lijst>
+        </li>
+        <li>
+          <li.nr>2.</li.nr>
+          <al>De directeur-generaal der Belastingen heeft deze verantwoordelijkheid doorgemandateerd aan de portefeuillehouder Documenthuishouding, i.c. de voorzitter van het managementteam Belastingdienst/Centrum voor Facilitaire Dienstverlening. De portefeuillehouder is tevens verantwoordelijk voor het semi-statische archiefbeheer bij de Belastingdienst. De verantwoordelijkheid voor het dynamisch archiefbeheer ligt bij de afzonderlijke voorzitters van de belastingkantoren.</al>
+        </li>
+      </lijst>
+    </bijlage>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label>
+        <nr status="officieel">II</nr>
+        <titel status="officieel">Overzicht Zelfstandige bestuursorganen</titel>
+      </kop>
+      <al>Voor wat betreft de verantwoordelijkheid voor het archiefbeheer van Zelfstandige bestuursorganen zijn twee categorie&#xEB;n te onderscheiden:</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+          <li.nr>1.</li.nr>
+          <al>In archiefwettelijke zin zijn de (dagelijkse) besturen van de publiekrechtelijke en privaatrechtelijke zelfstandige bestuursorganen (ZBO&#x2019;s) zorgdrager. Dat wil zeggen dat zij in bestuurlijk opzicht verantwoordelijk zijn voor hun archief(beheer). Als zodanig moeten zij zelf archiefbeheersregels opstellen.</al>
+        </li>
+        <li>
+          <li.nr>2.</li.nr>
+          <al>Dit in tegenstelling tot een bijzondere categorie van publiekrechtelijke zbo&#x2019;s die onderdeel zijn van de (rechtspersoon) Staat der Nederlanden. Deze hebben geen eigen rechtspersoonlijkheid en zijn in beheersmatig opzicht onderdeel van de staat (het rijk). Deze worden niet aangemerkt als archiefwettelijk zorgdrager en hoeven dan ook zelf geen archiefbeheersregels op te stellen. Voor die zbo&#x2019;s zijn de archiefbeheersregels van het verantwoordelijke Ministerie van toepassing.</al>
+        </li>
+      </lijst>
+      <al>Voor het Ministerie van Financi&#xEB;n geldt dat alle onder dit Ministerie vallende zelfstandige bestuursorganen <noot type="voet"><noot.nr>1</noot.nr><noot.al>&#x2018;Onder zelfstandig bestuursorgaan wordt verstaan: bestuursorgaan op het niveau van de centrale overheid, dat niet hi&#xEB;rarchisch ondergeschikt is aan een Minister en niet is een adviescollege, als bedoeld in de Kaderwet adviescolleges, waarvan de adviestaak de hoofdtaak is.&#x2019; (Aanwijzingen voor de regelgeving, Aanwijzing 124a, Staatscourant 1996, 177).</noot.al></noot> onder categorie 1 gerekend kunnen worden, hetgeen betekent dat zij niet onder de werking van de archiefbeheersregels Financi&#xEB;n vallen.</al>
+      <al>Wel draagt het Ministerie van Financi&#xEB;n de archiefstelijke zorg over de archieven van geprivatiseerde onderdelen en zelfstandige bestuursorganen over de periode van v&#xF3;&#xF3;r de verzelfstandiging of privatisering.</al>
+      <al>Dit betreft de archieven van:</al>
+      <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>Bureau Vernietiging Overheidsbescheiden;</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>Directie Staatsloterij;</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>Waarborgfonds Motorverkeer;</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>Rijksinkoopbureau;</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>Inspectie voor de Waarborg;</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>Verzekeringskamer;</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>&#x2019;s Rijksmunt;</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>Waarderingskamer;</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>Stichting MAROR-gelden;</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>Bureau Schade-afwikkeling;</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>Joods Humanitair Fonds;</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>Stichting toezicht Effectenverkeer;</al>
+        </li>
+        <li>
+          <li.nr>&#x2013;</li.nr>
+          <al>Stichting Afwikkeling MAROR-gelden.</al>
+        </li>
+      </lijst>
+    </bijlage>
+  </regeling>
+</wetgeving>
+  	

@@ -1,0 +1,634 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0022539" dtdversie="2.0" id="383869" soort="ministeriele-regeling">
+  
+  <intitule>Regeling van de Minister van Economische Zaken van 14&#xA0;september 2007, nr.&#xA0;WJZ 7105952, tot vaststelling van uitvoeringsregels ten aanzien van garanties van oorsprong voor elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling (Regeling garanties van oorsprong voor elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Minister van Economische Zaken,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op artikel 5 van de <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn 2004/8/EG</extref> van het Europees Parlement en de Raad van de Europese Unie van 11&#xA0;februari 2004 inzake de bevordering van warmtekrachtkoppeling op basis van de vraag naar nuttige warmte binnen de interne energiemarkt en tot wijziging van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn 92/42/EEG</extref> (PbEU L 52) en de <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=31" compleet="nee">artikelen 31, negende lid</extref>, <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=77cb" compleet="nee">77cb, derde lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=77ce" compleet="nee">77ce van de Elektriciteitswet 1998</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>In deze regeling wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>wet: de <extref status="actief" doc="1.0:v:BWBR0009755" compleet="nee">Elektriciteitswet 1998</extref>;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>richtlijn: de <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn 2004/8/EG</extref> van het Europees Parlement en de Raad van de Europese Unie van 11&#xA0;februari 2004 inzake de bevordering van warmtekrachtkoppeling op basis van de vraag naar nuttige warmte binnen de interne energiemarkt en tot wijziging van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn 92/42/EEG</extref> (PbEU L 52);</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>hoogrenderende warmtekrachtkoppeling: de warmtekrachtkoppeling die voldoet aan bijlage 3 bij de richtlijn;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>HR-WKK-elektriciteit: de elektriciteit die wordt opgewekt door middel van hoogrenderende warmtekrachtkoppeling;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>HR-WKK-eenheid: een onderdeel binnen een productie-installatie dat zelfstandig gecombineerd warmte en elektriciteit of mechanische energie opwekt op een zodanige wijze dat sprake is van hoogrenderende warmtekrachtkoppeling en waarvoor op grond van de meetvoorwaarden, opgenomen in de bij deze regeling behorende <intref status="actief" doc="1.0:v:BWBR0022539&amp;bijlage=1">bijlage 1</intref>, een systeemgrens is bepaald;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>HR-WKK-installatie: een productie-installatie bestemd voor het opwekken van elektriciteit, bestaande uit ten minste &#xE9;&#xE9;n HR-WKK-eenheid; </al>
+            </li>
+            <li>
+                           <li.nr>g.</li.nr>
+                           <al>systeemgrens
+van de HR-WKK-installatie: een fictieve, gesloten omhulling van de
+HR-WKK-eenheden die deel uitmaken van de HR-WKK-installatie, welke
+omhulling voldoet aan hetgeen in de bijlage bij de beschikking van de
+Commissie van 19&#xA0;november 2008 tot vastlegging van gedetailleerde
+richtsnoeren voor de tenuitvoerlegging en toepassing van
+bijlage&#xA0;II bij Richtlijn 2004/8/EG van het Europees Parlement en
+de Raad (PbEU&#xA0;L&#xA0;338) is bepaald ten aanzien van
+systeemgrenzen;</al>
+                        </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>garantie van oorsprong: een garantie van oorsprong als bedoeld in <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=1" compleet="nee">artikel 1, onderdeel ac, van de Elektriciteitswet 1998</extref>;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>gecertificeerd meetbedrijf: een meetbedrijf, niet zijnde een netbeheerder, dat op grond van de voorwaarden, bedoeld in <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=31" compleet="nee">artikel 31, eerste lid, onderdeel b, van de wet</extref>, is toegelaten tot het verrichten van de in die voorwaarden neergelegde werkzaamheden en dat de hoeveelheid HR-WKK-elektriciteit meet die afkomstig is van een HR-WKK-installatie;</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>meetprotocol: het document waarin beschreven zijn de bemetering van een HR-WKK-installatie, de wijze van meten en de wijze van kwaliteitsborging van de meetgegevens ten aanzien van de hoeveelheden brandstof die de installatie verbruikt en de hoeveelheden elektriciteit, warmte en, voor zover van toepassing, mechanische energie, die de installatie opwekt;</al>
+            </li>
+            <li>
+              <li.nr>k.</li.nr>
+              <al>meetrapport: het rapport dat alle meetgegevens van de desbetreffende kalendermaand bevat.</al>
+            </li>
+            
+          </lijst>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Onderzoek installatie en meten van elektriciteit</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Voor het verkrijgen van garanties van oorsprong draagt de producent van HR-WKK-elektriciteit die een HR-WKK-installatie in stand houdt er zorg voor dat ten aanzien van deze installatie een meetprotocol opgesteld wordt, dat voldoet aan de meetvoorwaarden, opgenomen in de bij deze regeling behorende <intref status="actief" doc="1.0:v:BWBR0022539&amp;bijlage=1">bijlage 1</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De producent laat het meetprotocol voor de eerste dag van de kalendermaand waarin hij het verzoek, bedoeld in <intref status="actief" doc="1.0:v:BWBR0022539&amp;artikel=3">artikel 3, eerste lid</intref>, indient, goedkeuren door een gecertificeerd meetbedrijf.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Indien een in Nederland gevestigde producent van HR-WKK-elektriciteit de netbeheerder verzoekt om de vaststelling, bedoeld in <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=16" compleet="nee">artikel 16, eerste lid, onderdeel h, van de wet</extref>, te verrichten, gebruikt hij hiervoor het formulier dat is opgenomen in de bij deze regeling behorende <intref status="actief" doc="1.0:v:BWBR0022539&amp;bijlage=2">bijlage 2</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Naar aanleiding van het verzoek stelt de netbeheerder vast of de installatie een HR-WKK-installatie is en, indien dit het geval is, welke eenheden binnen de installatie een HR-WKK-eenheid zijn, of de meetinrichting geschikt is om de hoeveelheid op een net ingevoede HR-WKK-elektriciteit te meten en of een goedgekeurd meetprotocol aanwezig is.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De netbeheerder doet de vaststelling door een administratief onderzoek in te stellen naar de installatie en de aansluiting daarvan op het net. De netbeheerder kan ten behoeve van de vaststelling in aanvulling op het administratief onderzoek en ter verificatie van de in het formulier opgenomen gegevens de installatie van de producent onderzoeken. De producent stelt de netbeheerder in staat het onderzoek te verrichten.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De netbeheerder deelt het resultaat van de vaststelling binnen vier weken na ontvangst van het verzoek, bedoeld in het eerste lid, mee aan de producent en aan de netbeheerder van het landelijk hoogspanningsnet.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Tenzij de tariefstructuren, bedoeld in <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=27" compleet="nee">artikel 27 van de wet</extref>, iets anders bepalen, brengt de netbeheerder de kosten van de vaststelling in rekening bij de producent.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>Indien de producent een aanpassing aan zijn HR-WKK-installatie doorvoert die een wijziging van een van de gegevens, vermeld in het vaststellingsverzoek, ten gevolge heeft, is een eerder verrichte vaststelling niet langer geldig.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>De producent bericht de netbeheerder vooraf over zijn voornemen een aanpassing als bedoeld in het zesde lid door te voeren en hij dient voor het verkrijgen van garanties van
+oorsprong een nieuw verzoek tot vaststelling in. Het eerste tot en met het zesde lid zijn in dat geval van overeenkomstige toepassing.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Voor het verkrijgen van garanties van oorsprong draagt de producent van HR-WKK-elektriciteit die een HR-WKK-installatie in stand houdt er zorg voor dat de hoeveelheden brandstof die zijn installatie verbruikt en de hoeveelheden elektriciteit, warmte en, voor zover van toepassing, mechanische energie, die zijn installatie opwekt, gemeten worden volgens het meetprotocol.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De producent draagt er zorg voor dat per maand onder toepassing van het meetprotocol een meetrapport wordt opgesteld, dat:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>voldoet aan de voorwaarden, opgenomen in de bij deze regeling behorende <intref status="actief" doc="1.0:v:BWBR0022539&amp;bijlage=1">bijlage 1</intref>;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>de wijze van totstandkoming van de meetgegevens beschrijft, en</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>geverifieerd wordt door een gecertificeerd meetbedrijf.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>De producent overlegt het meetrapport uiterlijk twee maanden na afloop van het kwartaal waarvan de kalendermaand waarop het meetrapport betrekking heeft deel uitmaakt, aan de garantiebeheerinstantie.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Indien de producent de garantiebeheerinstantie hierover tevoren heeft ge&#xEF;nformeerd, kan de producent volstaan met het jaarlijks overleggen van de meetrapporten, uiterlijk twee maanden na afloop van het jaar waarop de meetrapporten betrekking hebben.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Indien de producent op grond van de <extref status="actief" doc="1.0:v:BWBR0015182" compleet="nee">Regeling certificaten warmtekrachtkoppeling Elektriciteitswet 1998</extref> maandelijks een meetrapport aan de netbeheerder van het landelijk hoogspanningsnet overlegt, kan hij voor de opstelling van het in het tweede lid bedoelde meetrapport volstaan met een aanvulling op het eerstbedoelde rapport overeenkomstig de voorwaarden die daartoe zijn opgenomen in <intref status="actief" doc="1.0:v:BWBR0022539&amp;bijlage=1">bijlage 1</intref> bij deze regeling.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>De netbeheerder of het gecertificeerde meetbedrijf meet op verzoek van de producent bij een HR-WKK-installatie met een aansluitwaarde die groter is dan 3 &#xD7; 80 A, maandelijks de hoeveelheid in de afgelopen maand op een net ingevoede HR-WKK-elektriciteit door het iedere kalendermaand bepalen van de meterstand.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De netbeheerder of het gecertificeerde meetbedrijf meet op verzoek van de producent bij een HR-WKK-installatie met een aansluitwaarde die gelijk is aan of kleiner is dan 3 &#xD7; 80 A, jaarlijks de hoeveelheid in het afgelopen jaar op een net ingevoede HR-WKK-elektriciteit door het jaarlijks bepalen van de meterstand.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>In de in het tweede lid bedoelde situatie verdeelt de netbeheerder de meetgegevens in gelijke delen over de twaalf voorafgaande kalendermaanden, tenzij de producent aantoont dat deze meetgegevens op een andere wijze over de twaalf voorafgaande kalendermaanden verdeeld moeten worden.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De producent van HR-WKK-elektriciteit stelt de netbeheerder dan wel het gecertificeerde meetbedrijf in staat de meting te verrichten.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">5</lidnr>
+            <al>Indien de HR-WKK-installatie van de producent voor de opwekking van HR-WKK-elektriciteit gebruik maakt van elektriciteit die is afgenomen van een net, brengt de netbeheerder dan wel het gecertificeerde meetbedrijf voor de bepaling van de hoeveelheid HR-WKK-elektriciteit die op een net is ingevoed, de hoeveelheid elektriciteit die daarvoor is afgenomen van een net in mindering op de hoeveelheid HR-WKK-elektriciteit die hij op grond van <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=16" compleet="nee">artikel 16, eerste lid, onderdeel i, van de wet</extref> meet.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">6</lidnr>
+            <al>Indien zich achter de aansluiting van de producent verscheidene eenheden bevinden, wordt de hoeveelheid HR-WKK-elektriciteit die door een of meer van de HR-WKK-eenheden op het net wordt ingevoed, bepaald door op de HR-WKK-elektriciteit die elk van deze eenheden heeft opgewekt de elektriciteit die wordt verbruikt achter de aansluiting in mindering te brengen naar rato van het aandeel van de HR-WKK-eenheid in de totale feitelijke elektriciteitopwekking door alle eenheden achter de aansluiting.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">7</lidnr>
+            <al>De netbeheerder meldt, onder vermelding van de unieke 18-cijferige code van de aansluiting, aan de garantiebeheerinstantie de hoeveelheid HR-WKK-elektriciteit die de producent op het net heeft ingevoed.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">8</lidnr>
+            <al>Tenzij de tariefstructuren, bedoeld in <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=27" compleet="nee">artikel 27 van de wet</extref>, iets anders bepalen, brengt de netbeheerder of het gecertificeerde meetbedrijf de kosten van het meten van de hoeveelheid HR-WKK-elektriciteit, in rekening bij de producent.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">9</lidnr>
+            <al>Indien zich een omstandigheid voordoet die van belang is voor de bepaling hoeveel HR-WKK-elektriciteit is opgewekt en op een net is ingevoed, meldt de producent die omstandigheid en het tijdstip waarop deze zich voordeed binnen twee weken aan de netbeheerder of aan het gecertificeerde meetbedrijf.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Garanties van oorsprong </titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een garantie van oorsprong heeft betrekking op een hoeveelheid HR-WKK-elektriciteit die een meervoud is van 1 MWh.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De boeking van garanties van oorsprong overeenkomstig <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=77cb" compleet="nee">artikel 77cb, derde lid, van de wet</extref> kan slechts betrekking hebben op de HR-WKK-elektriciteit die is opgewekt vanaf de eerste dag van de kalendermaand waarin de producent het verzoek, bedoeld in <intref status="actief" doc="1.0:v:BWBR0022539&amp;artikel=3">artikel 3, eerste lid</intref>, heeft gedaan.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3</lidnr>
+            <al>Garanties van oorsprong worden overeenkomstig <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=77cb" compleet="nee">artikel 77cb, derde lid, van de wet</extref> slechts geboekt indien de netbeheerder heeft vastgesteld dat wordt voldaan aan de in <intref status="actief" doc="1.0:v:BWBR0022539&amp;artikel=3">artikel 3, derde lid</intref>, vermelde voorwaarden en voor zover is voldaan aan <intref status="actief" doc="1.0:v:BWBR0022539&amp;artikel=4">artikel 4, derde lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0022539&amp;artikel=5">artikel 5, zevende lid</intref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>De garantiebeheerinstantie brengt de kosten van het beheer van de rekening voor het boeken van garanties van oorsprong in rekening bij degene ten behoeve van wie de garanties van oorsprong worden geboekt.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <al>De garantiebeheerinstantie bepaalt de hoeveelheid HR-WKK-elektriciteit die de producent op een net heeft ingevoed en de besparing op primaire energie met toepassing van</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>bijlagen 2 en 3 van de richtlijn;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de door de Commissie van de Europese Gemeenschappen in haar beschikking van 21 december 2006 (PbEU 2007, L 32) vastgestelde rendementsreferentiewaarden;</al>
+            </li>
+            <li><li.nr>c.</li.nr><al>de beschikking van de Commissie van 19&#xA0;november 2008 tot
+vastlegging van gedetailleerde richtsnoeren voor de tenuitvoerlegging
+en toepassing van bijlage&#xA0;II bij Richtlijn 2004/8/EG van het
+Europees Parlement en de Raad
+(PbEU&#xA0;L&#xA0;338).</al></li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+          </kop>
+          <al>Op de garantie van oorsprong wordt vermeld:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de calorische onderwaarde van de brandstofbron waaruit de elektriciteit is geproduceerd;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de toepassing van de warmte die samen met de elektriciteit is gegenereerd;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de datum en plaats van de productie;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>de hoeveelheid HR-WKK-elektriciteit waarvoor de garantie geldt;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>de besparing op primaire energie.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een garantie van oorsprong verliest haar geldigheid &#xE9;&#xE9;n jaar na de datum van boeking op grond van <extref status="actief" doc="1.0:v:BWBR0009755&amp;artikel=77cb" compleet="nee">artikel 77cb, derde lid, van de wet</extref>.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>De garantiebeheerinstantie boekt een garantie van oorsprong die haar geldigheid heeft verloren, af van de rekening.</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+          </kop>
+          <al>Deze regeling treedt in werking op het tijdstip dat de wijziging van de Elektriciteitswet 1998 ter implementatie van de richtlijn warmtekrachtkoppeling in werking treedt.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+          </kop>
+          <al>Deze regeling wordt aangehaald als: Regeling garanties van oorsprong voor elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling.</al>
+        </artikel>
+      </paragraaf>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst met uitzondering van <intref status="actief" doc="1.0:v:BWBR0022539&amp;bijlage=2">bijlage 2</intref>, die ter inzage wordt gelegd bij de netbeheerder van het landelijk hoogspanningsnet, Utrechtseweg 310, Arnhem.</al>
+        <al>De Minister van Economische Zaken,</al>
+        <al>M.J.A. van der Hoeven</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Den Haag</plaats>
+          <datum isodatum="2007-09-14">14 september 2007</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>De <functie>Minister</functie> van <organisatie afkorting="EZ">Economische Zaken</organisatie>,
+        <naam>
+          <voornaam>M.J.A. van der </voornaam>
+          <achternaam>Hoeven</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+    <bijlage status="goed">
+      <kop>
+        <label>Bijlage</label><nr status="officieel">1</nr><titel status="officieel">, behorende bij de <intref status="actief" doc="1.0:v:BWBR0022539&amp;artikel=2">artikelen 2, eerste lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0022539&amp;artikel=4">4, tweede lid, onderdeel a, en vijfde lid</intref>, van de Regeling garanties van oorsprong voor elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling</titel>
+      </kop>
+      <divisie opmaak="default">
+        <kop>
+          <titel status="officieel">
+            <nadruk type="cur">HR-WKK-meetvoorwaarden</nadruk>
+          </titel>
+        </kop>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">
+              <nadruk type="cur">1. Definities</nadruk>
+            </titel>
+          </kop>
+          <al>1.1. Meten: het vaststellen en registreren van de hoeveelheid energie die over een kalendermaand de systeemgrens van de WKK-eenheid is gepasseerd.</al>
+          <al>1.2. Meetgegeven: het resultaat van het meten voor &#xE9;&#xE9;n vorm van energie. Er is ten minste &#xE9;&#xE9;n meetgegeven van elk van de afzonderlijke energievormen, te weten brandstof, elektriciteit, warmte en, voor zover van toepassing, mechanische energie. Indien een energievorm op meer dan &#xE9;&#xE9;n punt op de systeemgrens wordt gemeten, zullen er ook meer meetgegevens voor die energievorm zijn.</al>
+          <al>1.3. Bemetering: het geheel van alle meetinrichtingen en systemen voor dataopslag en datatransmissie dat nodig is om alle energie die de systeemgrens van de WKK-eenheid passeert, te meten en te waarborgen.</al>
+          <al>1.4. Meetinrichting: het totaal van onderling samenhangende meters en meetmiddelen die nodig zijn om een hoeveelheid energie te meten. Er is ten minste &#xE9;&#xE9;n meetinrichting voor het meten van elk van de afzonderlijke energievormen, te weten brandstof, elektriciteit, warmte en, voor zover van toepassing, mechanische energie.</al>
+          <al>1.5. Meter: een toestel dat &#xE9;&#xE9;n parameter meet, nodig voor het vaststellen van de hoeveelheid energie.</al>
+          <al>1.6. Meetmiddel: een onderdeel van de meetinrichting, nodig voor het meten, anders dan een meter.</al>
+          <al>1.7. Systeemgrens: een fictieve gesloten omhulling van de HR-WKK-eenheid die de HR-WKK-eenheid onderscheidt van de andere systemen binnen het bedrijf.</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">
+              <nadruk type="cur">2. Algemene eisen</nadruk>
+            </titel>
+          </kop>
+          <tussenkop>Meetprotocol</tussenkop>
+          <al>2.1. Het meetprotocol van de HR-WKK-installatie bevat ten minste de volgende elementen:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>beschrijving van de verschillende componenten van de HR-WKK-installatie, inclusief de eventuele afzonderlijke HR-WKK-eenheden en de verschillende hulpinstallaties daarbij;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>beschrijving en schets van de systeemgrens of systeemgrenzen van de HR-WKK-eenheden waaruit de HR-WKK-installatie bestaat zoals uitgewerkt in hoofdstuk 3;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>beschrijving en schets van de bemetering van elk van de HR-WKK-eenheden;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>beschrijving van de meters en meetmiddelen van elk van de meetinrichtingen;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>beschrijving van het onderhoud van elk van de meetinrichtingen;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>beschrijving van de apparatuur voor de opslag en de verwerking van de gegevens afkomstig van de meetinrichtingen;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>beschrijving van de onnauwkeurigheid van elk van de meetinrichtingen;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>beschrijving van de borging van de kwaliteit van de metingen;</al>
+            </li>
+            <li>
+              <li.nr>i.</li.nr>
+              <al>beschrijving van de wijze van reparatie van meetgegevens en alternatieve meetmethoden in geval van storing van de meetinrichting;</al>
+            </li>
+            <li>
+              <li.nr>j.</li.nr>
+              <al>beschrijving van de borging van de kwaliteit van de verwerking van de gegevens afkomstig van de meetinrichtingen;</al>
+            </li>
+            <li>
+              <li.nr>k.</li.nr>
+              <al>beschrijving van de frequentie van ijking van elk van de meetinrichtingen;</al>
+            </li>
+            <li>
+              <li.nr>l.</li.nr>
+              <al>beschrijving van de vaststelling dan wel de berekening van de hoeveelheid HR-WKK-elektriciteit die op het net is ingevoed en van de berekening van de besparing op primaire energie, overeenkomstig <intref status="actief" doc="1.0:v:BWBR0022539&amp;artikel=7">artikel 7</intref> van de regeling.</al>
+            </li>
+          </lijst>
+          <tussenkop>Administratie</tussenkop>
+          <al>2.2. Bij het meetprotocol behoort een administratie waarin per meetinrichting de volgende gegevens worden geregistreerd:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>fabrikaat, type, fabrieksnummer en bouwjaar van de ge&#xEF;nstalleerde meetinrichtingen, meters en meetmiddelen;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>kalibratiecertificaten van de meetinrichting en de meters en meetmiddelen daarvan;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>het jaar waarin de meetinrichting is ge&#xEF;nstalleerd dan wel voor het laatst is gereviseerd;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>het soort zegel waarmee de meetinrichting is verzegeld, dan wel de wijze van borging die voor de meetinrichting is aangebracht;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>het jaar en de maand, waarin de meetinrichting voor het laatst is gecontroleerd;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>het jaar en de maand, waarin de meetinrichting voor het laatst is geijkt;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>de resultaten van de aan de meetinrichting uitgevoerde controles en ijkingen;</al>
+            </li>
+            <li>
+              <li.nr>h.</li.nr>
+              <al>een overzicht van de functionarissen die bevoegd zijn metingen uit te voeren en meetinrichtingen te onderhouden respectievelijk te beheren.</al>
+            </li>
+          </lijst>
+          <al>Aanvullend geldt voor warmte norm EN 1434-sectie 2.</al>
+          <al>De producent is verantwoordelijk voor het actueel houden van deze administratie.</al>
+          <tussenkop>Onzekerheid</tussenkop>
+          <al>2.3. De onzekerheid van een meetgegeven wordt berekend uit de onnauwkeurigheden van de afzonderlijke meetinrichtingen op de wijze als beschreven in de &#x2018;Guide to the expression of uncertainty in measurement&#x2019; (uitgave van BIPM, IEC, IFCC, ISO, IUPAC, IUPAP en OIML; International Organization for Standardization, Geneva, 1995, ISBN 92-67-10188-9).</al>
+          <tussenkop>Meetrapport</tussenkop>
+          <al>2.4. Het meetrapport bevat voor elk van de HR-WKK-eenheden ten minste de meetgegevens van het brandstofverbruik, de totale hoeveelheid opgewekte elektriciteit, de netto opgewekte warmte en, voor zover van toepassing, mechanische energie en in aanvulling daarop het aantal draaiuren.</al>
+          <al>2.5. Het meetrapport bevat een samenvatting, bestaande uit de geaggregeerde meetgegevens, die voor de berekening van de hoeveelheid HR-WKK-elektriciteit die op het net is ingevoed en van de besparing op primaire energie, overeenkomstig <intref status="actief" doc="1.0:v:BWBR0022539&amp;artikel=7">artikel 7</intref> van de regeling, moeten worden gebruikt.</al>
+          <al>2.6. Indien aardgas als brandstof wordt gebruikt, wordt de hoeveelheid aardgas gerapporteerd in kubieke meters van standaard Groningen-kwaliteit (met een energie-inhoud van 35,17&#xA0;MJ/Nm<sup>3</sup>) onder normaalcondities. De omrekening van de gemeten hoeveelheid aardgas naar aardgas van standaard Groningen-kwaliteit geschiedt aan de hand van de feitelijke energie-inhoud van het gebruikte aardgas, zoals de leverancier deze bij de facturering van het aardgas aan de producent opgeeft.</al>
+          <al>Het meetrapport bevat een opgave van de gemeten hoeveelheid aardgas, de door de leverancier opgegeven energie-inhoud van het aardgas en de omgerekende hoeveelheid aardgas van standaard Groningen-kwaliteit.</al>
+          <al>2.7. In het meetrapport wordt tevens vermeld, voor zover van toepassing,</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>storingen van meetinrichtingen en daarmee samenhangende reparatie van meetgegevens;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>storingen in andere onderdelen van de bemetering en de gevolgen daarvan voor de betrouwbaarheid van de meetgegevens,</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>dat meetgegevens door middel van alternatieve meting zijn bepaald;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>correctie van meetgegevens, en</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>wijzigingen in installatie, bemetering en andere omstandigheden die van belang kunnen zijn voor het bepalen van de hoeveelheid garanties van oorsprong.</al>
+            </li>
+          </lijst>
+          <al>2.8. Het meetrapport bevat voorts een verklaring dat de meetgegevens zijn totstandgekomen door onverkorte toepassing van het meetprotocol.</al>
+          <al>2.9. In aanvulling op deze gegevens kan in het meetrapport ook de verbrandingswaarde van de brandstof worden gerapporteerd ten behoeve van rapportage aan het Centraal bureau voor de statistiek. Dit is niet verplicht.</al>
+          <al>2.9a. Indien de producent op grond van de <extref status="actief" doc="1.0:v:BWBR0015182" compleet="nee">Regeling certificaten warmtekrachtkoppeling Elektriciteitswet 1998</extref> reeds maandelijks over (HR-)WKK-eenheden een meetrapport aan de netbeheerder van het landelijk hoogspanningsnet overlegt, kan hij ten aanzien van de HR-WKK-elektriciteit volstaan met het aanvullen van dit rapport met de hiervoor onder 2.4, 2.5 en 2.7-e bedoelde gegevens.</al>
+          <tussenkop>Storingen</tussenkop>
+          <al>2.10. De meetgegevens van een meetinrichting, die door een storing niet langer functioneert of niet langer voldoet aan de gestelde meeteisen, mogen voor een periode van maximaal vier werkdagen nadat de storing is opgemerkt worden berekend uit controlemetingen.</al>
+          <al>2.11. Indien de storing niet binnen vier werkdagen verholpen is, kan de producent meten volgens de in hoofdstuk 5 beschreven methode en procedure.</al>
+          <al>2.12. Indien een storing is opgetreden, wordt dit vermeld in het meetrapport over de desbetreffende kalendermaand. Hierbij wordt aangegeven welke meetgegevens het betreft en op welke wijze de reparatie is aangebracht.</al>
+          <tussenkop>Eisen aan meetinrichtingen en meters</tussenkop>
+          <al>2.13. Het meten van de hoeveelheden energie geschiedt volgens algemeen geaccepteerde comptabele meetinrichtingen.</al>
+          <al>2.14. Voor zover een meetinrichting of meter onder de <extref status="actief" doc="1.0:v:BWBR0009082" compleet="nee">IJkwet</extref> valt, zijn deze meetvoorwaarden niet van toepassing ten aanzien van het (de) onderwerp(en) dat (die) voor die meetinrichting of meter in de <extref status="actief" doc="1.0:v:BWBR0009082" compleet="nee">IJkwet</extref> word(t)(en) geregeld.</al>
+          <al>2.15. De meters en meetmiddelen voldoen aan de typekeuringseisen van de voor die meters en meetmiddelen van toepassing zijnde EN-normen of daarmee vergelijkbare nationale normen. Het bewijs van typegoedkeuring is verstrekt conform de <extref status="actief" doc="1.0:v:BWBR0009082" compleet="nee">IJkwet</extref> of door een organisatie die gecertificeerd is conform NEN-ISO 17025.</al>
+          <al>2.16. De capaciteit, het ontwerp en de aanleg van de meetinrichtingen is in overeenstemming met de maximale hoeveelheden energie die de HR-WKK-eenheid kan consumeren respectievelijk produceren.</al>
+          <al>2.17. Plaatsing van de meters voldoet aan de plaatsingsvoorschriften die onderdeel uitmaken van de genoemde normen en aangevuld met de plaatsingsvoorschriften van de fabrikant van de meter of meetmiddel.</al>
+          <al>2.18. Elk van de meters en de meetmiddelen is geborgd dan wel verzegeld. De borging is zodanig dat een meting niet kan worden be&#xEF;nvloed, zonder dat dit duidelijk gesignaleerd wordt. De verzegeling is zodanig dat een meting niet kan worden be&#xEF;nvloed zonder de verzegeling zichtbaar te verbreken.</al>
+          <al>2.19. De meetinrichting wordt zodanig onderhouden dat deze voortdurend aan deze meetvoorwaarden voldoet.</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">
+              <nadruk type="cur">3. Systeemgrens</nadruk>
+            </titel>
+          </kop>
+          <al>3.1. De systeemgrens omsluit &#xE9;&#xE9;n of meerdere HR-WKK-eenheden van een HR-WKK-installatie.</al>
+          <al>3.2. Indien de systeemgrens meerdere HR-WKK-eenheden omsluit, worden alle eenheden binnen die systeemgrens voor de toepassing van <intref status="actief" doc="1.0:v:BWBR0022539&amp;artikel=7">artikel 7</intref> van de regeling beschouwd als &#xE9;&#xE9;n HR-WKK-eenheid.</al>
+          <al>3.3. Indien een systeemgrens meerdere HR-WKK-eenheden omsluit, geldt voor de berekening van de hoeveelheid HR-WKK-elektriciteit die op het net is ingevoed en van de besparing op primaire energie, overeenkomstig <intref status="actief" doc="1.0:v:BWBR0022539&amp;artikel=7">artikel 7</intref> van de regeling, voor de HR-WKK-eenheden binnen deze systeemgrens als bouwjaar het bouwjaar van de meest recent gebouwde HR-WKK-eenheid.</al>
+          <al>3.4. Op de systeemgrens van de HR-WKK-eenheid worden alle vormen van energie-input en energie-output gemeten.</al>
+          <al>3.5. Alle onderdelen van de HR-WKK-eenheid bevinden zich binnen de systeemgrens.</al>
+          <al>3.6. Niet aan de HR-WKK-eenheid gerelateerde systemen die elektriciteit, mechanische energie of warmte opwekken vallen buiten de systeemgrens.</al>
+          <al>3.7. De consumptie van elektriciteit, mechanische energie of warmte van systemen die zich binnen de systeemgrens bevinden, wordt niet gemeten.</al>
+          <al>3.8. Voor elke HR-WKK-eenheid wordt een schema opgesteld met daarop aangegeven de systeemgrens, de energiestromen die de systeemgrens passeren en voor elk van deze energiestromen de meetinrichtingen die zich op de HR-WKK-systeemgrens bevinden.</al>
+          <al>3.9. Voor de gehele HR-WKK-installatie wordt in een schets aangegeven waarop de systeemgrenzen van de HR-WKK-eenheden in onderling verband zijn aangegeven.</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">
+              <nadruk type="cur">4. Nauwkeurigheidseisen aan meetinrichtingen en meters</nadruk>
+            </titel>
+          </kop>
+          <tussenkop>Brandstof</tussenkop>
+          <al>4.1. Elke brandstof die in de HR-WKK-eenheid wordt verbruikt, wordt afzonderlijk gemeten.</al>
+          <al>4.2. Het volume aardgas of een ander gas wordt gemeten en naar normaalcondities herleid met een meetinrichting die voldoet aan de <extref status="actief" doc="1.0:v:BWBR0009127" compleet="nee">IJkregeling gasmeters</extref>, waarbij voor balgengasmeters de eisen voor nauwkeurigheidsklasse I gelden.</al>
+          <al>4.3. De hoeveelheid kolen wordt gemeten op basis van weging dan wel op basis van de inkoop en voorraadbalans, met een maximaal toelaatbare afwijking van 1,0%, zoals bepaald in ISO 9411-1 (monstername voor de bepaling van de onderste verbrandingswaarde).</al>
+          <al>4.4. De hoeveelheid vloeibare brandstof wordt gemeten door middel van een meetinrichting die voldoet aan de <extref status="actief" doc="1.0:v:BWBR0009898" compleet="nee">IJkregeling vloeistofmeters en vloeistofmeetinstallaties</extref>, waarbij de eisen voor klasse 1.0 gelden.</al>
+          <al>4.5. De hoeveelheid andere brandstof wordt bepaald volgens een algemeen geaccepteerde comptabele meting, met een maximaal toelaatbare afwijking van 1,0%.</al>
+          <tussenkop>Elektriciteit en mechanische energie</tussenkop>
+          <al>4.6. Alle hoeveelheden door de HR-WKK-eenheid opgewekte elektriciteit worden gemeten met een meetinrichting die voldoet aan de bepalingen met betrekking tot de nauwkeurigheidseisen die de Meetcode Elektriciteit stelt voor een meetinrichting op een aansluiting.</al>
+          <al>4.7. De hoeveelheid mechanische energie wordt gemeten met een &#x2018;torquemeter&#x2019; volgens norm ASME-PCI 19.7 &#x2018;Measurement of shaft power&#x2019;, dan wel met een meetinrichting die voldoet aan een vergelijkbare norm. De maximaal toelaatbare afwijking van de meting bedraagt 1,0%.</al>
+          <tussenkop>Warmte</tussenkop>
+          <al>4.8. De hoeveelheid warmte, getransporteerd als warm water, wordt gemeten met een meetinrichting die voldoet aan die voldoet aan EN 1434 sectie 1, klasse 1, dan wel een vergelijkbare norm.</al>
+          <al>4.9. De hoeveelheid warmte, getransporteerd als stoom en eventueel verminderd met retourcondensaat, wordt gemeten met een meetinrichting die voldoet aan norm ISO 5167-1 of aan een vergelijkbare norm. Voor een stoomdebiet van 50% tot 100% van het meetbereik van de meetinrichting bedraagt de maximaal toelaatbare afwijking van de meting 2% van de volle schaal van de meetinrichting. Voor een stoomdebiet van minder dan 50% van het meetbereik van de meetinrichting bedraagt de maximaal toelaatbare afwijking van de meting 4% van de meetwaarde. De temperatuur wordt gemeten met een weerstandsthermometer die voldoet aan norm IEC-751, nauwkeurigheidsklasse B, een thermokoppel die voldoet aan norm IEC-584, nauwkeurigheidsklasse 2, of een meter die voldoet aan een vergelijkbare norm.</al>
+          <tussenkop>Bagatelbepaling</tussenkop>
+          <al>4.10. Voor ten hoogste 2,5% van de per energievorm in totaal gemeten hoeveelheid energie, kunnen de maximaal toelaatbare afwijkingen ten hoogste tweemaal zoveel bedragen als de volgens de voorgaande bepalingen van dit hoofdstuk voorgeschreven maximaal toelaatbare afwijkingen.</al>
+        </divisie>
+        <divisie opmaak="default">
+          <kop>
+            <titel status="officieel">
+              <nadruk type="cur">5. Alternatieve meting</nadruk>
+            </titel>
+          </kop>
+          <al>5.1. De producent kan een meetgegeven via een alternatieve meting bepalen, indien meten met meetinrichtingen als bedoeld in hoofdstuk 4 niet mogelijk is omdat:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>geen goede meting mogelijk is van de energiehoeveelheid,</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>het plaatsen van een meetinrichting tot aantasting van de veiligheid van de installatie zou leiden,</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>het plaatsen of verbeteren van een meetinrichting tot onevenredig hoge kosten zou leiden, of</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>een meetinrichting in storing is geraakt als bedoeld onder 2.10 tot en met 2.12.</al>
+            </li>
+          </lijst>
+          <al>5.2. De alternatieve meting voldoet aan de hieronder genoemde voorwaarden.</al>
+          <al>5.3. De producent verstrekt in het meetprotocol een uitvoerige motivatie voor het afwijken van hoofdstuk 4, waarin ten minste wordt opgenomen:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>een beschrijving van de technische onmogelijkheid om hoofdstuk 4 toe te passen, of</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de overwegingen omtrent de veiligheid van de installatie op grond waarvan hoofdstuk 4 niet toegepast kan worden, of</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>een onderbouwde raming van de kosten die het aanpassen van de betrokken meetinrichting aan het toepassen van hoofdstuk 4 zouden vergen, en</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>de onnauwkeurigheid die bij toepassing van hoofdstuk 4 bereikt zou zijn, en</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>de onnauwkeurigheid die bij toepassing van de alternatieve meting bereikt zal worden.</al>
+            </li>
+          </lijst>
+          <al>5.4. De wijze van het bepalen van de meetgegevens door middel van alternatieve meting wordt nauwkeurig vastgelegd in het meetprotocol voor de HR-WKK-installatie en wordt voorafgaand aan de toepassing daarvan goedgekeurd door een gecertificeerd meetbedrijf.</al>
+          <al>5.5. De alternatieve meting gebruikt geen kentallen of andere gegevens die het meten van de daadwerkelijke hoeveelheid energie be&#xEF;nvloeden.</al>
+          <al>5.6. De onnauwkeurigheid van een meetgegeven, vastgesteld op grond van alternatieve meting, is in beginsel gelijk aan of lager dan de onnauwkeurigheid die hoofdstuk 4 ten aanzien van de desbetreffende meting vereist.</al>
+          <al>5.7. Indien de onnauwkeurigheid van een meetgegeven, vastgesteld op grond van alternatieve meting, hoger is dan de onnauwkeurigheid die hoofdstuk 4 ten aanzien van de desbetreffende meting vereist, wordt het opgegeven meetgegeven als volgt gecorrigeerd,</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>voor energie die aan de HR-WKK-eenheid wordt toegevoerd: de meetwaarde wordt vermeerderd met het verschil tussen de feitelijke onnauwkeurigheid en de vereiste onnauwkeurigheid en</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>voor energie die de HR-WKK-eenheid produceert: de meetwaarde wordt verminderd met het verschil tussen de feitelijke onnauwkeurigheid en de vereiste onnauwkeurigheid.</al>
+            </li>
+          </lijst>
+          <al>5.8. De wijze waarop de correctie volgens 5.7 wordt aangebracht, wordt beschreven in het meetprotocol.</al>
+          <al>5.9. Zowel het oorspronkelijke meetgegeven als het meetgegeven na de correctie volgens 5.7 wordt in het meetrapport opgenomen.</al>
+        </divisie>
+      </divisie>
+    </bijlage>
+    <bijlage status="goed"><kop><label>Bijlage</label><nr status="officieel">2</nr></kop><al><redactie type="vervanging">Ligt inzage bij de netbeheerder van het landelijk hoogspanningsnet te Arnhem.</redactie></al></bijlage>
+  </regeling>
+</wetgeving>
+  	

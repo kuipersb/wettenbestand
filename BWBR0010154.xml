@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0010154" dtdversie="2.0" id="220829" soort="ministeriele-regeling" xml:lang="nl">            <intitule>Regeling burgerluchtvaartinlichtingen</intitule>        <regeling>       <aanhef>          <wie>De Minister van Verkeer en Waterstaat,</wie>          <considerans>             <considerans.al bevat="overeenstemmend">Handelende in overeenstemming met de Staatssecretaris van Defensie,</considerans.al>             <considerans.al bevat="grondslag">Gelet op <extref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=61" compleet="nee">artikel 61 van het Luchtverkeersreglement</extref>;</considerans.al>          </considerans>          <afkondiging>             <al>Besluit: </al>          </afkondiging>                 </aanhef>       <regeling-tekst>                    <hoofdstuk>             <kop>                <label>Hoofdstuk</label><nr>1</nr>             </kop>             <artikel status="goed">                <kop>                   <label>Artikel</label><nr status="officieel">1</nr>                </kop>                <al>In deze regeling wordt verstaan onder:</al>                <definitielijst nr-sluiting="" plaatsing="tekst" type="expliciet"><definitie-item><li.nr>a.</li.nr><term><nadruk type="cur">A&#xEB;ronautica Fixed Service (AFS):</nadruk></term><definitie><al>                           een communicatie-netwerk voor luchtverkeersdiensten;</al></definitie></definitie-item><definitie-item><li.nr>b.</li.nr><term><nadruk type="cur">Aeronautical Information Circular (AIC):</nadruk></term><definitie><al>                           een circulaire voor de luchtvaart met inlichtingen die niet in aanmerking komen voor publikatie in een NOTAM of luchtvaartgids, maar wel in verband staan met de vliegveiligheid, vluchtuitvoering of technische, administratieve of wetgevende aangelegenheden;</al></definitie></definitie-item><definitie-item><li.nr>c.</li.nr><term><nadruk type="cur">A&#xEB;ronautica Information Regulation and Control (AIRAC):</nadruk></term><definitie><al>                           een vooraf vastgesteld tijdpad met algemene ingangsdata voor luchtvaartinlichtingen met een interval van 28 dagen;</al></definitie></definitie-item><definitie-item><li.nr>d.</li.nr><term><nadruk type="cur">A&#xEB;ronautica Information Services (AIS):</nadruk></term><definitie><al>                           een dienstverlening, uitgevoerd door luchtvaartinlichtingendiensten, met als doel het verzekeren van de verstrekking van die inlichtingen nodig voor een veilig, ordelijk en vlot verloop van het luchtverkeer;</al></definitie></definitie-item><definitie-item><li.nr>e.</li.nr><term><nadruk type="cur">AIS unit:</nadruk></term><definitie><al>                           een vluchtvoorlichtingsdienst die is belast met het geven van luchtvaartinlichtingen voor de vlucht en het in ontvangst nemen daarvan na de vlucht;</al></definitie></definitie-item><definitie-item><li.nr>f.</li.nr><term><nadruk type="cur">amendement:</nadruk></term><definitie><al>                           permanente veranderingen van de inlichtingen in de luchtvaartgids;</al></definitie></definitie-item><definitie-item><li.nr>g.</li.nr><term><nadruk type="cur">bijlage 4:</nadruk></term><definitie><al>                           aeronautical charts, bijlage 4 bij het Verdrag inzake de internationale burgerluchtvaart (ICAO) gesloten op 7 december 1944 te Chicago (Trb. 1973, 109);</al></definitie></definitie-item><definitie-item><li.nr>h.</li.nr><term><nadruk type="cur">bijlage 15:</nadruk></term><definitie><al>                           aeronautical information services, bijlage 15 bij het Verdrag inzake de internationale burgerluchtvaart (ICAO) gesloten op 7 december 1944 te Chicago (Trb. 1973, 109);</al></definitie></definitie-item><definitie-item><li.nr>i.</li.nr><term><nadruk type="cur">International NOTAM office:</nadruk></term><definitie><al>                                 de luchtvaartinlichtingendienst die door de Minister van Verkeer en Waterstaat is aangewezen voor het internationaal uitwisselen van NOTAM;</al></definitie></definitie-item><definitie-item><li.nr>j.</li.nr><term><nadruk type="cur">luchtvaartgids:</nadruk></term><definitie><al>luchtvaartgids, bedoeld in <extref status="actief" doc="1.0:v:BWBR0005775&amp;artikel=60" compleet="nee">artikel 60, onderdeel a, van
+                      het Luchtverkeersreglement</extref>;</al></definitie></definitie-item><definitie-item><li.nr>k.</li.nr><term><nadruk type="cur">luchtvaartinlichtingendiensten:</nadruk></term><definitie><al>                                 de onderdelen van de LVNL die zijn belast met de taak omschreven in <intref status="actief" doc="1.0:v:BWBR0010154&amp;artikel=2">artikel 2</intref>;</al></definitie></definitie-item><definitie-item><li.nr>l.</li.nr><term><nadruk type="cur">Notice to Airmen (NOTAM):</nadruk></term><definitie><al>                                 een bericht aan luchtvarenden gedistribueerd middels AFS met inlichtingen over de instelling, toestand, of verandering van enige luchtvaartfaciliteit, -dienstverlening, -procedure of -gevaar, waarvan het noodzakelijk is dat personen die betrokken zijn bij de vluchtvoorbereiding en -uitvoering tijdig kennis nemen;</al></definitie></definitie-item><definitie-item><li.nr>m.</li.nr><term><nadruk type="cur">Preflight Information Bulletin (PIB):</nadruk></term><definitie><al>                                 een presentatie van actuele NOTAM-informatie van operationele aard, welke wordt beschikbaar gesteld v&#xF3;&#xF3;r de vlucht;</al></definitie></definitie-item><definitie-item><li.nr>n.</li.nr><term><nadruk type="cur">supplement:</nadruk></term><definitie><al>                                 tijdelijke veranderingen van de inlichtingen in de luchtvaartgids, gedrukt op speciale pagina's;</al></definitie></definitie-item><definitie-item><li.nr>o.</li.nr><term><nadruk type="cur">luchtvaartkaart:</nadruk></term><definitie><al>                                 een afbeelding van een deel van de aarde, de bebouwing en verhevenheid, specifiek bestemd om aan de eisen van de luchtvaartnavigatie te voldoen. </al></definitie></definitie-item></definitielijst>                             </artikel>             <artikel status="goed">                <kop>                   <label>Artikel</label><nr status="officieel">2</nr>                </kop>                <lid>                   <lidnr status="officieel">1</lidnr>                   <al>De luchtvaartinlichtingendiensten hebben tot taak door middel van het verstrekken van luchtvaartinlichtingen en het uitgeven van luchtvaartpublicaties en luchtvaartkaarten, een veilig, ordelijk en vlot verloop van het luchtverkeer te bevorderen.</al>                </lid>                <lid>                   <lidnr status="officieel">2</lidnr>                   <al>De luchtvaartinlichtingendiensten zijn belast met het overeenkomstig bijlage 15 ontvangen of produceren, het nauwkeurig vergelijken, samenvoegen, persklaar maken, indelen, uitgeven en bewaren en verspreiden van luchtvaartinlichtingen, die het gehele vluchtinformatiegebied Amsterdam betreffen. </al>                </lid>                             </artikel>             <artikel status="goed">                <kop>                   <label>Artikel</label><nr>3</nr>                </kop>                <lid>                   <lidnr>1</lidnr>                   <al>IS units zijn belast met het geven van luchtvaartinlichtingen voor de vlucht en het in ontvangst nemen daarvan na de vlucht.</al>                </lid>                <lid>                   <lidnr>2</lidnr>                   <al>Op luchtvaartterreinen waar geen AIS unit is gevestigd is de exploitant van het luchtvaartterrein verantwoordelijk voor het beschikbaar stellen van luchtvaartinlichtingen, die vrij toegankelijk zijn, voor de vlucht en het in ontvangst nemen daarvan na de vlucht.</al>                </lid>                <lid>                   <lidnr>3</lidnr>                   <al>De exploitant van het luchtvaartterrein, die informatie over de staat en werking van luchtvaartnavigatiefaciliteiten heeft ontvangen, draagt er zorg voor dat deze informatie wordt doorgegeven aan een AIS unit.</al>                </lid>                <lid>                   <lidnr>4</lidnr>                   <al>Een AIS unit die informatie over de staat en werking van luchtvaartnavigatiefaciliteiten heeft ontvangen, draagt zorg voor:</al>                   <lijst nr-sluiting=""><li><li.nr>a.</li.nr>                         <al> doorgifte aan de instantie, verantwoordelijk voor de staat en werking ervan;</al>                      </li><li><li.nr>b.</li.nr>                         <al> een zodanige verspreiding als de omstandigheden vereisen.</al>                      </li></lijst>                </lid>                <lid>                   <lidnr>5</lidnr>                   <al>De exploitant van het luchtvaartterrein is verantwoordelijk voor het bijhouden van de luchtvaartinlichtingen. </al>                </lid>                             </artikel>          </hoofdstuk>          <hoofdstuk>             <kop>                <label>Hoofdstuk</label><nr>2</nr>             </kop>             <artikel status="goed">                <kop>                   <label>Artikel</label><nr status="officieel">4</nr>                </kop>                <al>Luchtvaartinlichtingen van blijvende aard die essentieel zijn voor de vluchtuitvoering binnen het vluchtinformatiegebied Amsterdam, worden door de LVNL verstrekt middels de luchtvaartgids, overeenkomstig bijlagen 4 en 15.</al>                                             </artikel>             <artikel status="goed">                <kop>                   <label>Artikel</label><nr>5</nr>                </kop>                <al>Permanente aanpassingen van de luchtvaartgids worden verstrekt middels een amendement, overeenkomstig bijlagen 4 en 15. </al>                             </artikel>             <artikel status="goed">                <kop>                   <label>Artikel</label><nr>6</nr>                </kop>                <al>Tijdelijke aanpassingen van de luchtvaartgids worden verstrekt middels een supplement, overeenkomstig bijlagen 4 en 15. </al>                             </artikel>             <artikel status="goed">                <kop>                   <label>Artikel</label><nr>7</nr>                </kop>                <al>Inlichtingen over de instelling, toestand of verandering van enige luchtvaartfaciliteit, dienstverlening, procedure of gevaar, waarvan het noodzakelijk is dat personen die betrokken zijn bij de vluchtvoorbereiding en -uitvoering tijdig kennis nemen, worden verstrekt middels NOTAM, door middel van communicatie, overeenkomstig bijlage 15. </al>                             </artikel>             <artikel status="goed">                <kop>                   <label>Artikel</label><nr>8</nr>                </kop>                <lid>                   <lidnr>1</lidnr>                   <al>Inlichtingen, die niet in aanmerking komen voor verstrekking middels NOTAM of voor opname in de luchtvaartgids, en die betrekking hebben op vliegveiligheid, vluchtuitvoering, technische, administratieve of juridische zaken, worden in een AIC verstrekt, overeenkomstig bijlage 15.</al>                </lid>                <lid>                   <lidnr>2</lidnr>                   <al>In een AIC, serie A worden de inlichtingen opgenomen die zowel voor Nederlandse als niet-Nederlandse natuurlijke en rechtspersonen van belang zijn. Een AIC, serie A wordt internationaal verspreid.</al>                </lid>                <lid>                   <lidnr>3</lidnr>                   <al>In een AIC, serie B worden de inlichtingen opgenomen die alleen voor Nederlandse natuurlijke en rechtspersonen van belang zijn. Een AIC serie B wordt op aanvraag verspreid. De AIC, serie B wordt in de Engelse en de Nederlandse taal gesteld. </al>                </lid>                             </artikel>             <artikel status="goed">                <kop>                   <label>Artikel</label><nr>9</nr>                </kop>                <al>Een luchtvaartkaart van het vluchtinformatiegebied Amsterdam voor VFR-vluchten, op een schaal van 1:500.000, geproduceerd overeenkomstig bijlage 4, wordt jaarlijks verstrekt. </al>                             </artikel>             <artikel status="goed">                <kop>                   <label>Artikel</label><nr>10</nr>                </kop>                <al>Een presentatie van actuele NOTAM-informatie van operationele aard, wordt v&#xF3;&#xF3;r de vlucht verstrekt in de vorm van een PIB, overeenkomstig bijlage 15. </al>                             </artikel>          </hoofdstuk>          <hoofdstuk>             <kop>                <label>Hoofdstuk</label><nr>3</nr>             </kop>             <artikel status="goed">                <kop>                   <label>Artikel</label><nr status="officieel">11</nr>                </kop>                <al>De luchtvaartinlichtingen worden in de volgende samenstellingen verstrekt:</al>                <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>1.</li.nr>                      <al> Luchtvaartgids met als doelgroep vliegers met een abonnement op:</al>                      <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>                            <al> amendements op de luchtvaartgids,</al>                         </li><li><li.nr>b.</li.nr>                            <al> supplements op de luchtvaartgids,</al>                         </li><li><li.nr>c.</li.nr>                            <al> AIC's serie A</al>                         </li><li><li.nr>d.</li.nr>                            <al> maandelijkse samenvatting van de op dat moment geldige NOTAM's.</al>                         </li></lijst>                   </li><li><li.nr>2.</li.nr>                      <al> AIC's serie B met een abonnement.</al>                   </li><li><li.nr>3.</li.nr>                      <al> Een luchtvaartkaart, voor VFR-vluchten, op de schaal van op de schaal van 1:500.000.</al>                   </li><li><li.nr>4.</li.nr>                      <al> NOTAM middels AFS. </al>                   </li></lijst>                             </artikel>             <artikel status="goed">                <kop>                   <label>Artikel</label><nr>12</nr>                </kop>                <al>Luchtvaartinlichtingen van operationele aard, of die cartografische werkzaamheden of wijziging van gegevensbestanden voor luchtvaartnavigatie inhouden, en van kracht worden op een latere vastgestelde datum, worden gepubliceerd volgens het AIRAC systeem, overeenkomstig bijlage 15. </al>                             </artikel>          </hoofdstuk>          <hoofdstuk>             <kop>                <label>Hoofdstuk</label><nr>4</nr>             </kop>             <artikel status="goed">                <kop>                   <label>Artikel</label><nr status="officieel">13</nr>                </kop>                <lid>                   <lidnr status="officieel">1</lidnr>                   <al>Als burgerluchtvaartinlichtingendiensten zijn aangewezen onderdelen van de LVNL, die zijn belast met de taak omschreven in <intref status="actief" doc="1.0:v:BWBR0010154&amp;artikel=2">artikel 2</intref>.</al>                </lid>                <lid>                   <lidnr status="officieel">2</lidnr>                   <al>Als AIS-unit zijn aangewezen:</al>                   <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>                         <al> de AIS-unit Schiphol;</al>                      </li><li><li.nr>b.</li.nr>                         <al> de AIS-unit Eelde;</al>                      </li><li><li.nr>c.</li.nr>                         <al> de AIS-unit Rotterdam;</al>                      </li><li><li.nr>d.</li.nr>                         <al> de AIS-unit Maastricht;</al>                      </li><li><li.nr>e.</li.nr>                         <al> de burger AIS-unit Eindhoven. </al>                      </li></lijst>                </lid>                             </artikel>             <artikel status="goed">                <kop>                   <label>Artikel</label><nr>14</nr>                </kop>                <al>Als International NOTAM office is aangewezen de AIS-unit Schiphol. </al>                             </artikel>             <artikel status="goed">                <kop>                   <label>Artikel</label><nr status="officieel">15</nr>                </kop>                <lid>                   <lidnr status="officieel">1</lidnr>                   <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li> 
+                  <li.nr>a.</li.nr> 
+                  <al>Op de volgende luchthavens en luchtvaartterreinen worden
+                    de luchtvaartinlichtingen beschikbaar gesteld via een
+                    zelfbedieningsdienst:</al> 
+                  <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="zebra1"> 
+                    <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="zebra1">
+                      <colspec colname="col1" colnum="1" colwidth="35*"/>
+                      <colspec colname="col2" colnum="2" colwidth="9.5*"/>
+                      <colspec colname="col3" colnum="3" colwidth="85*"/> 
+                      <thead valign="bottom"> 
+                        <row rowsep="1"> 
+                          <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Internationale luchthavens</al> 
+                          </entry> 
+                          <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Cat</al> 
+                          </entry> 
+                          <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Dekkingsgebied</al> 
+                          </entry> 
+                        </row> 
+                      </thead> 
+                      <tbody valign="top"> 
+                        <row rowsep="1"> 
+                          <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Amsterdam/Schiphol</al> 
+                          </entry> 
+                          <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>A</al> 
+                          </entry> 
+                          <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Africa-Indian Ocean Region;</al> 
+                            <al>Caribbean and South American Region;</al> 
+                            <al>European and North Atlantic Region;</al> 
+                            <al>Middle east and South East Asia region;</al> 
+                            <al>North American Region</al> 
+                          </entry> 
+                        </row> 
+                        <row rowsep="1"> 
+                          <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Groningen/Eelde</al> 
+                          </entry> 
+                          <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>B</al> 
+                          </entry> 
+                          <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Belgi&#xEB;/Luxemburg; Denemarken; Duitsland;
+                              Nederland; Verenigd Koninkrijk</al> 
+                          </entry> 
+                        </row> 
+                        <row rowsep="1"> 
+                          <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Maastricht/Maastricht Aachen</al> 
+                          </entry> 
+                          <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>B</al> 
+                          </entry> 
+                          <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Belgi&#xEB;/Luxemburg; Denemarken; Duitsland;
+                              Nederland; Verenigd Koninkrijk</al> 
+                          </entry> 
+                        </row> 
+                        <row rowsep="1"> 
+                          <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Eindhoven/ Eindhoven</al> 
+                          </entry> 
+                          <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>B</al> 
+                          </entry> 
+                          <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Belgi&#xEB;/Luxemburg; Denemarken; Duitsland;
+                              Nederland; Verenigd Koninkrijk</al> 
+                          </entry> 
+                        </row> 
+                        <row rowsep="1"> 
+                          <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Rotterdam/Rotterdam</al> 
+                          </entry> 
+                          <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>B</al> 
+                          </entry> 
+                          <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Belgi&#xEB;/Luxemburg; Frankrijk; Duitsland;
+                              Nederland; Verenigd Koninkrijk</al> 
+                          </entry> 
+                        </row> 
+                      </tbody> 
+                    </tgroup> 
+                  </table> 
+                  <table colsep="1" frame="all" pgwide="1" rowsep="1" tabstyle="zebra1"> 
+                    <tgroup align="left" char="" charoff="50" cols="3" tgroupstyle="zebra1">
+                      <colspec colname="col1" colnum="1" colwidth="35*"/>
+                      <colspec colname="col2" colnum="2" colwidth="9.5*"/>
+                      <colspec colname="col3" colnum="3" colwidth="85*"/> 
+                      <thead valign="bottom"> 
+                        <row rowsep="1"> 
+                          <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Internationale luchtvaartterreinen</al> 
+                          </entry> 
+                          <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Cat</al> 
+                          </entry> 
+                          <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Dekkingsgebied</al> 
+                          </entry> 
+                        </row> 
+                      </thead> 
+                      <tbody valign="top"> 
+                        <row rowsep="1"> 
+                          <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Deventer/Teuge</al> 
+                          </entry> 
+                          <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>C</al> 
+                          </entry> 
+                          <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Belgi&#xEB;/Luxemburg; Denemarken; Frankrijk;
+                              Duitsland; Nederland; Zwitserland; Verenigd Koninkrijk</al> 
+                          </entry> 
+                        </row> 
+                        <row rowsep="1"> 
+                          <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Hilversum/Hilversum</al> 
+                          </entry> 
+                          <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>C</al> 
+                          </entry> 
+                          <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Belgi&#xEB;/Luxemburg; Denemarken; Frankrijk;
+                              Duitsland; Nederland; Zwitserland; Verenigd Koninkrijk</al> 
+                          </entry> 
+                        </row> 
+                        <row rowsep="1"> 
+                          <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Hoeven/Seppe</al> 
+                          </entry> 
+                          <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>C</al> 
+                          </entry> 
+                          <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Belgi&#xEB;/Luxemburg; Frankrijk; Duitsland;
+                              Nederland; Verenigd Koninkrijk</al> 
+                          </entry> 
+                        </row> 
+                        <row rowsep="1"> 
+                          <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Hoogeveen/Hoogeveen</al> 
+                          </entry> 
+                          <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>C</al> 
+                          </entry> 
+                          <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Nederland; Duitsland</al> 
+                          </entry> 
+                        </row> 
+                        <row rowsep="1"> 
+                          <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Lelystad/Lelystad</al> 
+                          </entry> 
+                          <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>C</al> 
+                          </entry> 
+                          <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Belgi&#xEB;/Luxemburg; Denemarken; Frankrijk;
+                              Duitsland; Nederland</al> 
+                          </entry> 
+                        </row> 
+                        <row rowsep="1"> 
+                          <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Middelburg/Midden-Zeeland</al> 
+                          </entry> 
+                          <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>C</al> 
+                          </entry> 
+                          <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Belgi&#xEB;/Luxemburg; Duitsland; Nederland;
+                              Verenigd Koninkrijk</al> 
+                          </entry> 
+                        </row> 
+                        <row rowsep="1"> 
+                          <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Texel/Texel</al> 
+                          </entry> 
+                          <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>C</al> 
+                          </entry> 
+                          <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Belgi&#xEB;/Luxemburg; Duitsland; Nederland</al> 
+                          </entry> 
+                        </row> 
+                        <row rowsep="1"> 
+                          <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Ameland/Ameland</al> 
+                          </entry> 
+                          <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>D</al> 
+                          </entry> 
+                          <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Nederland</al> 
+                          </entry> 
+                        </row> 
+                        <row rowsep="1"> 
+                          <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Drachten/Drachten</al> 
+                          </entry> 
+                          <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>D</al> 
+                          </entry> 
+                          <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Nederland</al> 
+                          </entry> 
+                        </row> 
+                        <row rowsep="1"> 
+                          <entry align="left" colname="col1" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Weert/Budel</al> 
+                          </entry> 
+                          <entry align="left" colname="col2" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>D</al> 
+                          </entry> 
+                          <entry align="left" colname="col3" colsep="1" morerows="0" rotate="0" valign="top"> 
+                            <al>Nederland</al> 
+                          </entry> 
+                        </row> 
+                      </tbody> 
+                    </tgroup> 
+                  </table> 
+                </li><li><li.nr>b.</li.nr>                         <al> De luchtvaartinlichtingencategorie A omvat:</al>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>1&#xBA;.</li.nr><al> Ge&#xEF;ntegreerde pakketten luchtvaartinlichtingen van de ICAO regio's waarop geregeld internationaal luchtverkeer plaatsvindt. De volgende ge&#xEF;ntegreerde pakketten luchtvaartinlichtingen zijn minimaal beschikbaar: volledige ICAO 'E' en  'L' regio en aangrenzende regio's;</al></li><li><li.nr>2&#xBA;.</li.nr><al> luchtvaartkaarten;</al></li><li><li.nr>3&#xBA;.</li.nr><al> inlichtingen voor de vlucht in de vorm van een PIB;</al></li><li><li.nr>4&#xBA;.</li.nr><al> briefing;</al></li><li><li.nr>5&#xBA;.</li.nr><al>selfbriefing;</al></li><li><li.nr>6&#xBA;.</li.nr><al> het in ontvangst nemen van inlichtingen na de vlucht.</al></li></lijst>                                                                                                                                                   </li><li><li.nr>c.</li.nr>                         <al> De luchtvaartinlichtingencategorie B omvat:</al>                         <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>1&#xBA;.</li.nr><al>Ge&#xEF;ntegreerde pakketten luchtvaartinlichtingen van de staten of gebieden waarop geregeld internationaal luchtverkeer plaatsvindt. De ge&#xEF;ntegreerde pakketten luchtvaartinlichtingen van de volgende staten of gebieden zijn minimaal beschikbaar: Nederland, Duitsland, Denemarken, het Verenigd Koninkrijk, Belgi&#xEB;, Luxemburg, Frankrijk en Zwitserland;</al></li><li><li.nr>2&#xBA;.</li.nr><al> luchtvaartkaarten;</al></li><li><li.nr>3&#xBA;.</li.nr><al> inlichtingen voor de vlucht in de vorm van een PIB;</al></li><li><li.nr>4&#xBA;.</li.nr><al>briefing;</al></li><li><li.nr>5&#xBA;.</li.nr><al> selfbriefing;</al></li><li><li.nr>6&#xBA;.</li.nr><al> het in ontvangst nemen of doorgeven van inlichtingen na de vlucht.</al></li></lijst>                                                                                                                                                   </li><li><li.nr>d.</li.nr>                         <al> De luchtvaartinlichtingencategorie C omvat:</al>                         <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>1&#xBA;.</li.nr><al> Ge&#xEF;ntegreerde pakketten luchtvaartinlichtingen van de staten of gebieden waarop geregeld internationaal luchtverkeer plaatsvindt. De ge&#xEF;ntegreerde pakketten luchtvaartinlichtingen van de volgende staten of gebieden zijn minimaal beschikbaar: Nederland, Duitsland, Belgi&#xEB; en Luxemburg;</al></li><li><li.nr>2&#xBA;.</li.nr><al>luchtvaartkaarten;</al></li><li><li.nr>3&#xBA;.</li.nr><al> selfbriefing;</al></li><li><li.nr>4&#xBA;.</li.nr><al> het in ontvangst nemen en doorgeven van inlichtingen na de vlucht.</al></li></lijst>                                                                                                 </li><li><li.nr>e.</li.nr>                         <al> De luchtvaartinlichtingencategorie D omvat:</al>                         <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>1&#xBA;.</li.nr><al> ge&#xEF;ntegreerd pakket luchtvaartinlichtingen van Nederland;</al></li><li><li.nr>2&#xBA;.</li.nr><al> luchtvaartkaarten;</al></li><li><li.nr>3&#xBA;.</li.nr><al> briefing met behulp van communicatiemiddelen;</al></li><li><li.nr>4&#xBA;.</li.nr><al> het in ontvangst nemen en doorgeven van inlichtingen na de vlucht.</al></li></lijst>                                                                                                 </li></lijst>                </lid>                <lid>                   <lidnr status="officieel">2</lidnr>                   <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>                         <al> Luchtvaartinlichtingen worden verstrekt op het luchtvaartterrein van vertrek, overeenkomstig het eerste lid, gedurende de gepubliceerde openstellingstijden van het luchtvaartterrein.</al>                      </li><li><li.nr>b.</li.nr>                         <al> Op luchtvaartterreinen met de categorie A,B of C worden tevens luchtvaartinlichtingen verstrekt gedurende een periode van minimaal twee uur voorafgaand aan de openstellingstijden.</al>                      </li></lijst>                </lid>                <lid>                   <lidnr status="officieel">3</lidnr>                   <al>Buiten de perioden genoemd in het tweede lid, worden luchtvaartinlichtingen  verstrekt en in ontvangst genomen door de AIS-unit Schiphol.</al>                </lid>                <lid>                   <lidnr status="officieel">4</lidnr>                   <al>De AIS-unit Schiphol is aangewezen als centrale bibliotheek voor luchtvaartinlichtingen, overeenkomstig bijlage 15. </al>                </lid>                             </artikel>          </hoofdstuk>          <hoofdstuk>             <kop>                <label>Hoofdstuk</label><nr>5</nr>             </kop>             <artikel status="goed">                <kop>                   <label>Artikel</label><nr>16</nr>                </kop>                <lid>                   <lidnr>1</lidnr>                   <al>Luchtvaartinlichtingen ten behoeve van de vluchtvoorbereiding en vluchtuitvoering worden, overeenkomstig <intref status="actief" doc="1.0:v:BWBR0010154&amp;artikel=15">artikel 15</intref>, verstrekt aan:</al>                   <lijst nr-sluiting=""><li><li.nr>a.</li.nr>                         <al>luchtvarenden;</al>                      </li><li><li.nr>b.</li.nr>                         <al>luchtvaartmaatschappijen;</al>                      </li><li><li.nr>c.</li.nr>                         <al>vluchtafhandelaars;</al>                      </li><li><li.nr>d.</li.nr>                         <al>luchtverkeersdiensten belast met vluchtinformatieverstrekking;</al>                      </li><li><li.nr>e.</li.nr>                         <al>exploitanten of havendiensten van luchtvaartterreinen;</al>                      </li><li><li.nr>f.</li.nr>                         <al>buitenlandse luchtvaartinlichtingendiensten.</al>                      </li></lijst>                </lid>                <lid>                   <lidnr>2</lidnr>                   <al>Luchtvaartinlichtingen worden op aanvraag verstrekt aan:</al>                   <lijst nr-sluiting=""><li><li.nr>a.</li.nr>                         <al> reddings- en opsporingscentra;</al>                      </li><li><li.nr>b.</li.nr>                         <al>de Onderzoeksraad voor veiligheid, bedoeld in <extref status="actief" doc="1.0:v:BWBR0017613&amp;artikel=2" compleet="nee">artikel 2 van de Rijkswet Onderzoeksraad voor veiligheid</extref>;</al>                      </li><li><li.nr>c.</li.nr>                         <al>commissie luchtverkeersincidenten;</al>                      </li><li><li.nr>d.</li.nr>                         <al>Luchtvaartpolitie van het Korps Landelijke Politiediensten;</al>                      </li><li><li.nr>e.</li.nr>                         <al>de Inspectie Verkeer en Waterstaat.</al>                      </li></lijst>                </lid>                             </artikel>          </hoofdstuk>          <hoofdstuk>             <kop>                <label>Hoofdstuk</label><nr>6</nr>             </kop>             <artikel status="goed">                <kop>                   <label>Artikel</label><nr status="officieel">17</nr>                </kop>                <lid>                   <lidnr status="officieel">1</lidnr>                   <al>Het international NOTAM office is aangesloten op AFS.</al>                </lid>                <lid>                   <lidnr status="officieel">2</lidnr>                   <al>Het international NOTAM office is via AFS verbonden met de volgende punten binnen zijn werkgebied:</al>                   <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>                         <al> luchtverkeersdiensten;</al>                      </li><li><li.nr>b.</li.nr>                         <al> luchtvaartterreinen met een luchtvaartinlichtingencategorie A of B, alsmede het luchtvaartterrein Lelystad. </al>                      </li></lijst>                </lid>                             </artikel>          </hoofdstuk>          <hoofdstuk>             <kop>                <label>Hoofdstuk</label><nr>7</nr>             </kop>             <artikel status="goed">                <kop>                   <label>Artikel</label><nr>18</nr>                </kop>                <al>Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. </al>                             </artikel>             <artikel status="goed">                <kop>                   <label>Artikel</label><nr>19</nr>                </kop>                <al>Deze regeling wordt aangehaald als: Regeling burgerluchtvaartinlichtingen.</al>                             </artikel>          </hoofdstuk>       </regeling-tekst>       <regeling-sluiting status="goed">          <ondertekenaar>             <ondertekening>De                 <functie>Minister</functie>                 van <organisatie>Verkeer en Waterstaat</organisatie>,<naam>                   <voornaam>T.</voornaam>                   <achternaam>Netelenbos</achternaam>                </naam>             </ondertekening>          </ondertekenaar>                 </regeling-sluiting>    </regeling> </wetgeving>
+  	

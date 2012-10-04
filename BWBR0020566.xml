@@ -1,0 +1,659 @@
+<?xml version="1.0"?>
+<!DOCTYPE wetgeving SYSTEM "http://wetten.overheid.nl/dtd/bwb-plus-meta-1_61w.dtd">
+<wetgeving bwb-id="BWBR0020566" dtdversie="2.0" id="363709" soort="ministeriele-regeling">
+  
+  <intitule>Regeling van de Minister van Economische Zaken van 23&#xA0;november 2006, nr. WJZ 6098739, houdende regels omtrent de eisen bij het gebruik van in Europese richtlijnen opgenomen en in het Meetinstrumentenbesluit I en Meetinstrumentenbesluit II geregelde meetinstrumenten en houdende enkele voorschriften inzake de installatie van die instrumenten (Regeling gebruik en installatie EU-meetinstrumenten)</intitule>
+  
+  <regeling>
+    <aanhef>
+      <wie>De Minister van Economische Zaken,</wie>
+      <considerans>
+        <considerans.al bevat="grondslag">Gelet op de<extref status="actief" doc="1.0:v:BWBR0019897&amp;artikel=9" compleet="nee"> artikelen 9</extref> en <extref status="actief" doc="1.0:v:BWBR0019897&amp;artikel=14" compleet="nee">14 van het Meetinstrumentenbesluit I</extref> en <extref status="actief" doc="1.0:v:BWBR0020554&amp;artikel=8" compleet="nee">artikel 8 van het Meetinstrumentenbesluit II</extref>;</considerans.al>
+      </considerans>
+      <afkondiging>
+        <al>Besluit:</al>
+      </afkondiging>
+    </aanhef>
+    <regeling-tekst>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">1</nr>
+          <titel status="officieel">Begripsbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">1</nr>
+          </kop>
+          <al>In deze regeling wordt verstaan onder:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>gasmeter: in <extref status="actief" doc="1.0:v:BWBR0019897&amp;artikel=4" compleet="nee">artikel 4, onderdeel a, van het Meetinstrumentenbesluit I</extref> bedoelde gasmeter;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>volumeherleidingsinstrument: in <extref status="actief" doc="1.0:v:BWBR0019897&amp;artikel=4" compleet="nee">artikel 4, onderdeel a, van het Meetinstrumentenbesluit I</extref> bedoelde volumeherleidingsinstrument;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>kilowattuurmeter: in <extref status="actief" doc="1.0:v:BWBR0019897&amp;artikel=4" compleet="nee">artikel 4, onderdeel b, van het Meetinstrumentenbesluit I</extref> bedoelde kilowattuurmeter;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>vloeistofmeetinstallatie: in <extref status="actief" doc="1.0:v:BWBR0019897&amp;artikel=4" compleet="nee">artikel 4, onderdeel c, van het Meetinstrumentenbesluit I</extref> bedoelde vloeistofmeetinstallatie;</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>automatisch weeginstrument: in <extref status="actief" doc="1.0:v:BWBR0019897&amp;artikel=4" compleet="nee">artikel 4, onderdeel d, van het Meetinstrumentenbesluit I</extref> bedoelde automatisch weeginstrument;</al>
+            </li>
+            <li>
+              <li.nr>f.</li.nr>
+              <al>taxameter: in <extref status="actief" doc="1.0:v:BWBR0019897&amp;artikel=4" compleet="nee">artikel 4, onderdeel e, van het Meetinstrumentenbesluit I</extref> bedoelde taxameter;</al>
+            </li>
+            <li>
+              <li.nr>g.</li.nr>
+              <al>multidimensionaal meetinstrument: in <extref status="actief" doc="1.0:v:BWBR0019897&amp;artikel=4" compleet="nee">artikel 4, onderdeel f, van het Meetinstrumentenbesluit I</extref> bedoeld multidimensionaal meetinstrument.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">2</nr>
+          <titel status="officieel">Algemene bepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">2</nr>
+          </kop>
+          <al>Meetinstrumenten als bedoeld in <extref status="actief" doc="1.0:v:BWBR0019897&amp;artikel=4" compleet="nee">artikel 4 van het Meetinstrumentenbesluit I</extref>, niet-automatische weegwerktuigen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0019897&amp;artikel=5" compleet="nee">artikel 5 van het Meetinstrumentenbesluit I</extref> en meetinstrumenten als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020554&amp;artikel=4" compleet="nee">artikel 4 van het Meetinstrumentenbesluit II</extref> voldoen na ingebruikneming aan de volgende voorschriften:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>zij verkeren in een goede staat van onderhoud;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>zij zijn overeenkomstig de instructies van de fabrikant ge&#xEF;nstalleerd en worden dienovereenkomstig gebruikt;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>zij worden uitsluitend gebruikt voor metingen overeenkomstig hun bestemming;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>zij worden zodanig gejusteerd en gecorrigeerd dat de aanwijzingsfouten zo dicht mogelijk bij nul liggen.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">3</nr>
+          </kop>
+          <al>Meetinstrumenten als bedoeld in <extref status="actief" doc="1.0:v:BWBR0019897&amp;artikel=4" compleet="nee">artikel 4 van het Meetinstrumentenbesluit I</extref> voldoen na ingebruikneming aan de in bijlage I van de richtlijn meetinstrumenten opgenomen essenti&#xEB;le eisen.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">4</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Niet-automatische weegwerktuigen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0019897&amp;artikel=5" compleet="nee">artikel 5 van het Meetinstrumentenbesluit I</extref> voldoen na ingebruikneming aan de fundamentele voorschriften van bijlage I van de richtlijn niet-automatische weegwerktuigen.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al><extref status="actief" doc="1.0:v:BWBR0019897&amp;artikel=5" compleet="nee">Artikel 5, tweede lid, van het Meetinstrumentenbesluit I</extref> is van toepassing.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">5</nr>
+          </kop>
+          <al>Indien ten aanzien van het gebruik een specifieke nauwkeurigheidsklasse voor een meetinstrument is voorgeschreven, mag ook een meetinstrument worden gebruikt dat in een hogere nauwkeurigheidsklasse valt.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">3</nr>
+          <titel status="officieel">Specifieke bepalingen inzake meetinstrumenten van de richtlijn meetinstrumenten</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">6</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Gasmeters en volumeherleidingsinstrumenten voldoen na ingebruikneming aan de toepasselijke essenti&#xEB;le eisen van bijlage MI-002 van de richtlijn meetinstrumenten met dien verstande dat:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de maximaal toelaatbare fout in de tabel van onderdeel 2.1 voor gasmeters telkens met een factor 2 en voor volumeherleidingsinstrumenten telkens met een factor 1,5 wordt vermenigvuldigd;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>voor metingen ten behoeve van huishoudelijk gebruik de meter voldoet aan de eisen van klasse 1,5 of een meter van klasse 1,0, mits die een Q<inf>max</inf>/Q<inf>min</inf>-ratio heeft gelijk aan of groter dan 150.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Voordat een gasmeter op de bestemde plaats in gebruik wordt genomen, stelt degene die zorg draagt voor de installatie van de meter vast of de meter geschikt is voor de omstandigheden met het oog op een correcte meting van het te verwachten gebruik.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">7</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Kilowattuurmeters voldoen na ingebruikneming aan de toepasselijke essenti&#xEB;le eisen van bijlage MI-003 van de richtlijn meetinstrumenten, met dien verstande dat:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de maximaal toelaatbare fout in onderdeel 3, tabel 2, telkens met een factor 1,5 wordt vermenigvuldigd;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>voor metingen bij huishoudelijk gebruik van elektriciteit de meter voldoet aan de eisen van klasse A;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>voor metingen bij handelsgebruik of lichtindustrieel gebruik van elektriciteit de meter voldoet aan de eisen van klasse B.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Voordat een kilowattuurmeter op de bestemde plaats voor de eerste maal wordt gebruikt, wordt door degene die krachtens <extref status="actief" doc="1.0:v:BWBR0017883&amp;artikel=27" compleet="nee">artikel 27 van de Regeling inzake tariefstructuren en voorwaarden elektriciteit</extref> verantwoordelijk is voor de aanleg van de meter bij de installatie van de meter overeenkomstig onderdeel 7, onder c, van bijlage MI-003 van de richtlijn meetinstrumenten het stroombereik vastgesteld met het oog op de geschiktheid van de meter voor een correcte meting van het te verwachten gebruik.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">8</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Indien meerdere kilowattuurmeters ingevolge <extref status="actief" doc="1.0:v:BWBR0019517&amp;artikel=7" compleet="nee">artikel 7 van de wet</extref> opnieuw een overeenstemmingsbeoordeling moet ondergaan, kan de overeenstemmingsbeoordeling op verzoek van de aanvrager worden uitgevoerd door middel van een beoordeling van een aantal meters dat is geselecteerd door middel van een representatieve steekproef, indien de kilowattuurmeters de volgende eigenschappen hebben:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>zij zijn in het zelfde jaar vervaardigd naar een zelfde model en uitvoering;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>zij behoren tot een zelfde nauwkeurigheidsklasse;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>zij zijn vervaardigd door een zelfde fabrikant;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>zij zijn gedurende een periode van ten hoogste een jaar volgens een zelfde procedure hersteld.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Bijlage F, onderdelen 5.2, 5.3 en 5.4, eerste volzin, van de richtlijn meetinstrumenten is van overeenkomstige toepassing.</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">9</nr>
+          </kop>
+          <lid><lidnr status="officieel">1</lidnr><al>Vloeistofmeetinstallaties voldoen na ingebruikneming aan de toepasselijke essenti&#xEB;le eisen van bijlage MI-005 van de richtlijn meetinstrumenten.</al></lid>
+        <lid><lidnr status="officieel">2</lidnr><al>Vloeistofmeetinstallaties die voor 1&#xA0;januari 2009 ingevolge <extref status="actief" doc="1.0:v:BWBR0019517&amp;artikel=45" compleet="nee">artikel 45 van de Metrologiewet</extref> rechtmatig in gebruik zijn genomen, voldoen aan het ingevolge <extref status="actief" doc="1.0:v:BWBR0009082&amp;artikel=11a" compleet="nee">artikel 11a van de IJkwet</extref> toegelaten model van de installaties, zoals aangepast volgens een aanhangsel bij de verklaring van toelating van het model, mits</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de aanpassing noodzakelijk is als gevolg van ontwikkelingen in andere regelgeving dan bij of krachtens de Metrologiewet is vastgesteld of van ontwikkelingen in het betalingsverkeer,</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het model nog steeds voldoet aan de eisen zoals die op grond van de <extref status="actief" doc="1.0:v:BWBR0009082" compleet="nee">IJkwet</extref> waren gesteld en</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>het model met goed gevolg een onderzoek heeft ondergaan overeenkomstig beoordelingsprocedurebijlage B of beoordelingsprocedurebijlage G en de daarbij van toepassing zijnde voorschriften van de <extref status="actief" doc="1.0:v:BWBR0020554&amp;bijlage=" compleet="nee">bijlage bedoeld in artikel 10 van het Meetinstrumentenbesluit II</extref>.</al>
+              </li>
+            </lijst></lid><lid>
+                     <lidnr status="officieel">3</lidnr>
+                     <al>Indien een vloeistofmeetinstallatie wordt aangesloten op onder de werking van de <extref status="actief" doc="1.0:v:BWBR0009082" compleet="nee">IJkwet</extref> toegelaten andere apparatuur en deze apparatuur eveneens het meetresultaat vastlegt en weergeeft, voldoet deze apparatuur wat betreft het vastleggen en weergeven van het meetresultaat aan de eisen van de richtlijn meetinstrumenten en mag de weergave van het meetresultaat op die andere apparatuur niet afwijken van het door de vloeistofmeetinstallatie vastgestelde meetresultaat.</al>
+                  </lid></artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">10</nr>
+          </kop>
+          <al>Automatische weeginstrumenten met een in <extref status="actief" doc="1.0:v:BWBR0019897&amp;artikel=2" compleet="nee">artikel 2, onderdeel d, onder 1&#xB0;, van het Meetinstrumentenbesluit I</extref> bedoelde taak voldoen na ingebruikneming aan de toepasselijke essenti&#xEB;le eisen van bijlage MI-006 van de richtlijn meetinstrumenten, met dien verstande dat:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de in hoofdstuk II, onderdeel 4.1, opgenomen gemiddelde fout voor categorie X weeginstrumenten telkens met een factor 2 wordt vermenigvuldigd;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>automatische weeginstrumenten voor metingen ter controle van voorverpakkingen die zijn samengesteld volgens de eisen van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn 75/106/EEG</extref> van de Raad van de Europese Gemeenschappen van 19 december 1974 betreffende de onderlinge aanpassing van de wetgevingen der lidstaten inzake het voorverpakken naar volume van bepaalde vloeistoffen in voorverpakkingen met bepaalde inhoud (PbEG L 42) en <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn 76/211/EEG</extref> van de Raad van de Europese Gemeenschappen van 20 januari 1976 betreffende de onderlinge aanpassing van de wetgevingen der lidstaten inzake het voorverpakken naar gewicht of volume van bepaalde producten in voorverpakkingen (PbEG L 46) voldoen aan de eisen voor weeginstrumenten van categorie X, zoals bedoeld in Hoofdstuk II, onderdeel 2.1, met inachtneming van de hiervoor onder a vermelde wijziging van de maximaal toelaatbare gemiddelde fout;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>in plaats van de in onderdeel 4.1 opgenomen maximaal toelaatbare fout van &#xB1; 1 e, &#xB1; 1,5 e en &#xB1; 2 e voor categorie Y een maximaal toelaatbare fout geldt van respectievelijk &#xB1; 1,5 e, &#xB1; 2,5 e en &#xB1; 3,5 e;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>in plaats van de in onderdeel 4.2 opgenomen tabel inzake standaarddeviatie, de volgende tabel van toepassing is:</al>
+            </li>
+          </lijst>
+          <table frame="topbot" tabstyle="stcrt1">
+            <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="stcrt1">
+              <colspec colname="col1" colnum="1" colwidth="30*"/>
+              <colspec colname="col2" colnum="2" colwidth="20*"/>
+              <thead valign="bottom">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Nettolast m</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>Maximaal toelaatbare standaarddeviatie voor klasse X</al>
+                  </entry>
+                </row>
+              </thead>
+              <tbody valign="top">
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>m &#x2264; 50g</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>0,6 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>50 g &lt; m &#x2264; 100g</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>0,3 g</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>100 g &lt; m &#x2264; 200g</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>0,3 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>200 g &lt; m &#x2264; 300g</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>0,6 g</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>300 g &lt; m &#x2264; 500g</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>0,2 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>500 g &lt; m &#x2264; 1000g</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>1,0 g</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>1000 g &lt; m &#x2264; 10.000g</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>0,1 %</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>10.000 g &lt; m &#x2264; 15.000g</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>10 g</al>
+                  </entry>
+                </row>
+                <row>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>15.000 g &lt; m</al>
+                  </entry>
+                  <entry align="left" morerows="0" rotate="0" valign="top">
+                    <al>0,067 %</al>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">11</nr>
+          </kop>
+          <al>Automatische weeginstrumenten met een in <extref status="actief" doc="1.0:v:BWBR0019897&amp;artikel=2" compleet="nee">artikel 2, onderdeel d, onder 2&#xB0;, van het Meetinstrumentenbesluit I</extref> bedoelde taak voldoen na ingebruikneming aan de toepasselijke essenti&#xEB;le eisen van bijlage MI-006 van de richtlijn meetinstrumenten, met dien verstande dat:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de in hoofdstuk III, onderdeel 2.2, tabel 5, opgenomen maximaal toelaatbare afwijking van elke vulling van het gemiddelde voor klasse X (1) telkens met een factor 1,25 wordt vermenigvuldigd;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>bij de berekening van de instelfout, bedoeld in hoofdstuk III, onderdeel 2.3, uitgegaan wordt van het in hoofdstuk III, onderdeel 2.2, in tabel 5 vermelde percentage, zonder toepassing van de hiervoor in onderdeel a vermelde vermenigvuldigingsfactor.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">12</nr>
+          </kop>
+          <al>Automatische weeginstrumenten met een in <extref status="actief" doc="1.0:v:BWBR0019897&amp;artikel=2" compleet="nee">artikel 2, onderdeel d, onder 3&#xB0;, van het Meetinstrumentenbesluit I</extref> bedoelde taak voldoen na ingebruikneming aan de toepasselijke essenti&#xEB;le eisen van bijlage MI-006 van de richtlijn meetinstrumenten, met dien verstande dat de in hoofdstuk IV, onderdeel 2, tabel 6, opgenomen maximaal toelaatbare fout van de getotaliseerde last telkens met een factor 2 wordt vermenigvuldigd.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">13</nr>
+          </kop>
+          <al>Automatische weeginstrumenten met een in <extref status="actief" doc="1.0:v:BWBR0019897&amp;artikel=2" compleet="nee">artikel 2, onderdeel d, onder 4&#xB0;, van het Meetinstrumentenbesluit I</extref> bedoelde taak voldoen na ingebruikneming aan de toepasselijke essenti&#xEB;le eisen van bijlage MI-006 van de richtlijn meetinstrumenten, met dien verstande dat de in hoofdstuk V, onderdeel 3, tabel 8, opgenomen maximaal toelaatbare fout voor de totale last telkens met een factor 2 wordt vermenigvuldigd.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">14</nr>
+          </kop>
+          <al>Automatische weeginstrumenten met een in <extref status="actief" doc="1.0:v:BWBR0019897&amp;artikel=2" compleet="nee">artikel 2, onderdeel d, onder 5&#xB0;, van het Meetinstrumentenbesluit I</extref> bedoelde taak voldoen na ingebruikneming aan de toepasselijke essenti&#xEB;le eisen van bijlage MI-006 van de richtlijn meetinstrumenten, met dien verstande dat:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de in hoofdstuk VI, onderdeel 2.1, tabel 9, opgenomen maximaal toelaatbare fout telkens met een factor 2 wordt vermenigvuldigd;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>bij de berekeningen bedoeld in hoofdstuk VI, onderdeel 2.2, 2.3 en 2.4, uitgegaan wordt van de maximaal toelaatbare fout, zoals vastgesteld na de hiervoor in onderdeel a aangegeven vermenigvuldiging.</al>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">15</nr>
+          </kop>
+          <al>Een automatisch weegwerktuig dat niet in een hogere nauwkeurigheidsklasse valt dan, wat betreft:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>automatische vangwegers, nauwkeurigheidsklasse XIV of Y (b), bedoeld in hoofdstuk II, onderdeel 1.2, van bijlage MI-006 van de richtlijn meetinstrumenten,</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>automatische weegmachines voor afwegen: nauwkeurigheidsklasse X(2), bepaald overeenkomstig hoofdstuk III, onderdeel 1.2, van bijlage MI-006 van de richtlijn meetinstrumenten,</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>discontinue totalisators: nauwkeurigheidsklasse 1 of 2, bedoeld in hoofdstuk IV, onderdeel 1, van bijlage MI-006 van de richtlijn meetinstrumenten,</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>continue totalisators: nauwkeurigheidsklasse 1 of 2, bedoeld in hoofdstuk V, onderdeel 1, van bijlage MI-006 van de richtlijn meetinstrumenten,</al>
+            </li>
+            <li>
+              <li.nr>e.</li.nr>
+              <al>mag slechts worden gebruikt voor:</al>
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                <li>
+                  <li.nr>1&#xB0;.</li.nr>
+                  <al>het bepalen van de vervoerskosten van postpakketten;</al>
+                </li>
+                <li>
+                  <li.nr>2&#xB0;.</li.nr>
+                  <al>het bepalen, op terreinen van ondernemingen tot exploitatie van middelen van openbaar vervoer, van de vervoerskosten van goederen;</al>
+                </li>
+                <li>
+                  <li.nr>3&#xB0;.</li.nr>
+                  <al>voor het wegen in mortelfabrieken van asfaltbeton, betonmortel, metselspecie en soortgelijke producten, alsmede voor het in die fabrieken bij de vervaardiging van die producten wegen van materialen, waaruit die producten worden samengesteld;</al>
+                </li>
+                <li>
+                  <li.nr>4&#xB0;.</li.nr>
+                  <al>het wegen van afvalstoffen en van zand, grind en aarde.</al>
+                </li>
+              </lijst>
+            </li>
+          </lijst>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">16</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Nadat een taxameter in combinatie met een afstandssignaalgenerator is ingebouwd, wordt zij in een taxi niet eerder gebruikt dan nadat door een aangewezen instantie of een natuurlijke persoon of een rechtspersoon die beschikt over een erkenning als bedoeld in <extref status="actief" doc="1.0:v:BWBR0019517&amp;artikel=11" compleet="nee">artikel 11 van de Metrologiewet</extref> is onderzocht, dat de meting op correcte wijze geschiedt en dat de taxameter onder deze omstandigheden aan de in deze regeling gestelde eisen voldoet.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Taxameters voldoen na installatie bij gebruik aan de toepasselijke essenti&#xEB;le eisen van bijlage MI-007 van de richtlijn meetinstrumenten, met dien verstande dat:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de in onderdeel 2 bedoelde resolutie &#x20AC;&#xA0;0,10 bedraagt;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>in plaats van onderdeel 7 een maximaal toelaatbare fout voor de gemeten tijd van &#xB1; 0,2% en een maximaal toelaatbare fout voor de gemeten afstand van &#xB1; 2% geldt, onder de volgende nor&#x2060;momstandigheden:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                    <li.nr>1&#xB0;.</li.nr>
+                    <al>een gesimuleerde snelheid van 20 km/h;</al>
+                  </li>
+                  <li>
+                    <li.nr>2&#xB0;.</li.nr>
+                    <al>de taxi is voorzien van voor het type voertuig normale banden op een door de fabrikant van het voertuig voorgeschreven druk en met een gemiddelde profielhoogte;</al>
+                  </li>
+                  <li>
+                    <li.nr>3&#xB0;.</li.nr>
+                    <al>de taxi is ingericht overeenkomstig zijn bestemming en is belast overeenkomstig een voor de helft gevulde brandstoftank en het vervoer van twee personen, waaronder de bestuurder.</al>
+                  </li>
+                </lijst>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+                     <lidnr status="officieel">3</lidnr>
+                     <al>Taxameters
+die voor 15 oktober 2011 ingevolge <extref status="actief" doc="1.0:v:BWBR0019517&amp;artikel=45" compleet="nee">artikel 45 van de Metrologiewet</extref>
+rechtmatig in gebruik zijn genomen, voldoen aan het ingevolge <extref status="actief" doc="1.0:v:BWBR0001984&amp;artikel=11a" compleet="nee">artikel
+11a van de IJkwet</extref> toegelaten model van de meters, zoals aangepast
+volgens een aanhangsel bij de verklaring van toelating van het model,
+mits:</al>
+                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                        <li>
+                           <li.nr>a.</li.nr>
+                           <al>de
+aanpassing noodzakelijk is als gevolg van ontwikkelingen in andere
+regelgeving dan bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0019517" compleet="nee">Metrologiewet</extref> is
+vastgesteld;</al>
+                        </li>
+                        <li>
+                           <li.nr>b.</li.nr>
+                           <al>het model nog steeds
+voldoet aan de eisen zoals die op grond van de <extref status="actief" doc="1.0:v:BWBR0001984" compleet="nee">IJkwet</extref> waren gesteld
+en</al>
+                        </li>
+                        <li>
+                           <li.nr>c.</li.nr>
+                           <al>het model met goed gevolg een
+onderzoek heeft ondergaan overeenkomstig beoordelingsprocedurebijlage
+B.</al>
+                        </li>
+                     </lijst>
+                  </lid><lid>
+            <lidnr status="officieel">4</lidnr>
+            <al>Bij gebruik van de taxameter is in de taxi een voorziening aanwezig waarop de volgende gegevens zijn vermeld:</al>
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>de maat van de banden welke op het moment van de overeenstemmingsbeoordeling aan de betrokken taxi zijn bevestigd;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>het kenteken van de betrokken taxi;</al>
+              </li>
+              <li>
+                <li.nr>c.</li.nr>
+                <al>de datum waarop de overeenstemmingsbeoordeling heeft plaats gevonden en het kenmerk van de instantie die deze heeft verricht;</al>
+              </li>
+              <li>
+                <li.nr>d.</li.nr>
+                <al>de constante van de afstandssignaalgenerator;</al>
+              </li>
+              <li>
+                <li.nr>e.</li.nr>
+                <al>de stand van de teller waarmee de wijziging van de constante van de afstandssignaalgenerator wordt geregistreerd, op het moment van een overeenstemmingsbeoordeling;</al>
+              </li>
+              <li>
+                <li.nr>f.</li.nr>
+                <al>de type-aanduiding en fabrieksnummer van de betrokken taxameter.</al>
+              </li>
+            </lijst>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">17</nr>
+          </kop>
+          <al>Multidimensionale meetinstrumenten voldoen na ingebruikneming aan de toepasselijke essenti&#xEB;le eisen van bijlage MI-009, hoofdstukken I en IV, van de richtlijn meetinstrumenten.</al>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">4</nr>
+          <titel status="officieel">Specifieke bepalingen inzake niet-automatische weegwerktuigen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">18</nr>
+          </kop>
+          <al>Een niet-automatisch weegwerktuig dat wordt gebruikt voor weging van edele metalen, parels, edelgesteenten of munten voldoet aan de eisen voor weegwerktuigen met een nauwkeurigheidsklasse I of II als bedoeld in onderdeel 2.1 van bijlage I van de richtlijn niet-automatische weegwerktuigen.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">19</nr>
+          </kop>
+          <al>Een niet-automatisch weegwerktuig dat niet voldoet aan een hogere nauwkeurigheidsklasse dan klasse IIII, bedoeld in onderdeel 2.1 van bijlage I van de richtlijn niet-automatische weegwerktuigen, mag slechts worden gebruikt voor:</al>
+          <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>het bepalen van de vervoerskosten van postpakketten;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>het bepalen, op terreinen van ondernemingen tot exploitatie van middelen van openbaar vervoer, van de vervoerskosten van goederen;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>voor het wegen in mortelfabrieken van asfaltbeton, betonmortel, metselspecie en soortgelijke producten, alsmede voor het in die fabrieken bij de vervaardiging van die producten wegen van materialen, waaruit die producten worden samengesteld;</al>
+            </li>
+            <li>
+              <li.nr>d.</li.nr>
+              <al>het wegen van afvalstoffen en van zand, grind en aarde.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">5</nr>
+          <titel status="officieel">Specifieke bepalingen inzake korenschalen, alcoholmeters en areometers voor alcohol</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">20</nr>
+          </kop>
+          <al>Een korenschaal als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020554&amp;artikel=4" compleet="nee">artikel 4, eerste lid, van het Meetinstrumentenbesluit II</extref> voldoet na ingebruikneming aan de voorschriften van de richtlijn inzake de meting van het natuurgewicht van granen.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">21</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1</lidnr>
+            <al>Een alcoholmeter of een areometer voor alcohol als bedoeld in <extref status="actief" doc="1.0:v:BWBR0020554&amp;artikel=4" compleet="nee">artikel 4, tweede lid, van het Meetinstrumentenbesluit II</extref> voldoet na ingebruikneming aan de toepasselijke voorschriften van de richtlijn inzake alcoholmeters en areometers.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2</lidnr>
+            <al>Ten behoeve van het vaststellen van het alcoholvolumegehalte of het alcoholmassagehalte in een mengsel van water en alcohol, geldt dat een alcoholmeter of een areometer voor alcohol wordt gebruikt overeenkomstig de voorschriften van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn 76/766/EEG</extref> van de Raad van de Europese Gemeenschappen van 27&#xA0;juli 1976 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake alcoholtabellen (PbEG L 262).</al>
+          </lid>
+        </artikel>
+      </paragraaf>
+      <paragraaf>
+        <kop>
+          <label>&#xA7;</label>
+          <nr status="officieel">6</nr>
+          <titel status="officieel">Slotbepalingen</titel>
+        </kop>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">22</nr>
+          </kop>
+          <al>Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>Artikel</label>
+            <nr status="officieel">23</nr>
+          </kop>
+          <al>Deze regeling wordt aangehaald als: Regeling gebruik en installatie EU-meetinstrumenten.</al>
+        </artikel>
+      </paragraaf>
+    </regeling-tekst>
+    <regeling-sluiting status="goed">
+      <slotformulering>
+        <al>Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.</al>
+      </slotformulering>
+      <gegeven>
+        <dagtekening>
+          <plaats>Den Haag</plaats>
+          <datum isodatum="2006-11-23">23 november 2006</datum>
+        </dagtekening>
+      </gegeven>
+      <ondertekening>De <functie>Minister</functie> van <organisatie afkorting="EZ">Economische Zaken</organisatie>,
+        <naam>
+          <voornaam>J.G.</voornaam>
+          <achternaam>Wijn</achternaam>
+        </naam>
+      </ondertekening>
+    </regeling-sluiting>
+  </regeling>
+</wetgeving>
+  	
